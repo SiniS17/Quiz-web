@@ -5,7 +5,7 @@ from flask import Flask, request, jsonify, send_from_directory, send_file
 from werkzeug.security import safe_join
 from werkzeug.exceptions import NotFound
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder="public")
 
 # Configure static file serving
 app.static_folder = 'public'
@@ -14,10 +14,15 @@ app.static_url_path = '/'
 # Get port from environment or default to 5000
 PORT = int(os.environ.get('PORT', 5000))
 
-@app.route('/')
+@app.route("/")
 def index():
-    """Serve the main index.html file"""
-    return send_from_directory('public', 'index.html')
+    # serve public/index.html
+    return app.send_static_file("index.html")
+
+# optional: serve any public file via /public/<path>
+@app.route("/public/<path:filename>")
+def public_files(filename):
+    return send_from_directory(app.static_folder, filename)
 
 @app.route('/api/list-quizzes')
 def list_quizzes():
@@ -78,6 +83,5 @@ def serve_static(filename):
     except NotFound:
         return jsonify({'error': 'File not found'}), 404
 
-if __name__ == '__main__':
-    print(f'Server is running on port {PORT}')
-    app.run(host='0.0.0.0', port=PORT, debug=False)
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)), debug=True)

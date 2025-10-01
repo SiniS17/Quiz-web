@@ -96,6 +96,7 @@ const showNotification = (message, type = 'info') => {
 $(document).ready(function() {
   initializeApp();
   initializeJQueryEnhancements();
+  initFloatingControls();
 });
 
 function initializeApp() {
@@ -142,6 +143,7 @@ function initializeJQueryEnhancements() {
   $(document).on('click', '.answer', function() {
     const $this = $(this);
     const $question = $this.closest('.question');
+    const $radio = $this.find('input[type="radio"]');
     
     // Remove previous selections with animation
     $question.find('.answer.selected').removeClass('selected');
@@ -149,8 +151,21 @@ function initializeJQueryEnhancements() {
     // Add new selection with animation
     $this.addClass('selected');
     
-    // Trigger radio button
-    $this.find('input[type="radio"]').prop('checked', true).trigger('change');
+    // Check the radio button
+    $radio.prop('checked', true);
+    
+    // Get question index and update status using canonical function
+    const questionIndex = parseInt($question.attr('id').replace('question-', ''));
+    if (!isNaN(questionIndex)) {
+      // Use the canonical updateAnswerStatus function
+      updateAnswerStatus(questionIndex);
+      
+      // Update live test score if in live mode
+      if (liveTestCheckbox && liveTestCheckbox.checked) {
+        updateLiveScore();
+        highlightLiveAnswers($question[0]);
+      }
+    }
   });
   
   // Smooth sidebar transitions  
@@ -353,22 +368,29 @@ function processQuizDataAndStart(text, fileName) {
 }
 
 function showTopControls() {
-  const topControls = document.getElementById('top-controls');
   const leftSidebar = document.getElementById('left-sidebar');
   const mainContent = document.querySelector('.main-content');
   const quizInterface = document.querySelector('.quiz-interface');
+  const controlFab = document.getElementById('control-fab');
+  const sidebarFab = document.getElementById('sidebar-fab');
   
-  if (topControls) {
-    topControls.style.display = 'block';
+  // Show control FAB (always visible when quiz is active)
+  if (controlFab) {
+    controlFab.classList.add('active');
   }
   
+  // Show sidebar FAB (will only display on mobile due to .mobile-only class)
+  if (sidebarFab) {
+    sidebarFab.classList.add('active');
+  }
+  
+  // Show sidebar on desktop
   if (leftSidebar) {
     leftSidebar.style.display = 'block';
-    leftSidebar.classList.add('with-top-controls');
   }
   
   if (mainContent) {
-    mainContent.classList.add('with-controls', 'with-sidebar');
+    mainContent.classList.add('with-sidebar');
   }
   
   if (quizInterface) {
@@ -377,22 +399,27 @@ function showTopControls() {
 }
 
 function hideTopControls() {
-  const topControls = document.getElementById('top-controls');
   const leftSidebar = document.getElementById('left-sidebar');
   const mainContent = document.querySelector('.main-content');
   const quizInterface = document.querySelector('.quiz-interface');
+  const controlFab = document.getElementById('control-fab');
+  const sidebarFab = document.getElementById('sidebar-fab');
   
-  if (topControls) {
-    topControls.style.display = 'none';
+  // Hide FABs
+  if (controlFab) {
+    controlFab.classList.remove('active');
+  }
+  
+  if (sidebarFab) {
+    sidebarFab.classList.remove('active');
   }
   
   if (leftSidebar) {
     leftSidebar.style.display = 'none';
-    leftSidebar.classList.remove('with-top-controls');
   }
   
   if (mainContent) {
-    mainContent.classList.remove('with-controls', 'with-sidebar');
+    mainContent.classList.remove('with-sidebar');
   }
   
   if (quizInterface) {
@@ -1154,37 +1181,37 @@ function setupLiveTestInTopControls() {
 }
 
 function showLiveScore(correct, answered) {
-  // Show live score in top controls
-  const liveTestControls = document.querySelector('#top-controls .control-group:nth-child(2)');
-  if (!liveTestControls) return;
-
-  let scoreDisplay = liveTestControls.querySelector('.live-score-display');
-  if (!scoreDisplay) {
-    scoreDisplay = document.createElement('div');
-    scoreDisplay.className = 'live-score-display';
-    scoreDisplay.style.cssText = `
-      margin-left: 1rem;
-      padding: 0.25rem 0.5rem;
-      background: linear-gradient(135deg, var(--accent-color), var(--warning-color));
-      border-radius: 4px;
-      font-size: 0.8rem;
-      font-weight: 600;
-      color: white;
-    `;
-    liveTestControls.appendChild(scoreDisplay);
+  // Show live score in floating widget
+  let floatingScore = document.getElementById('floating-live-score');
+  
+  if (!floatingScore) {
+    floatingScore = document.createElement('div');
+    floatingScore.id = 'floating-live-score';
+    floatingScore.className = 'floating-live-score';
+    document.body.appendChild(floatingScore);
   }
 
   const percentage = answered === 0 ? 0 : (correct / answered * 100).toFixed(1);
-  scoreDisplay.textContent = `${percentage}% (${correct}/${answered})`;
+  floatingScore.innerHTML = `
+    <div class="score-text">
+      <i class="fas fa-chart-line score-icon"></i>
+      <span>${percentage}% (${correct}/${answered})</span>
+    </div>
+  `;
+  
+  // Show the widget with animation
+  setTimeout(() => {
+    floatingScore.classList.add('show');
+  }, 100);
 }
 
 function hideLiveScore() {
-  const liveTestControls = document.querySelector('#top-controls .control-group:nth-child(2)');
-  if (liveTestControls) {
-    const scoreDisplay = liveTestControls.querySelector('.live-score-display');
-    if (scoreDisplay) {
-      scoreDisplay.remove();
-    }
+  const floatingScore = document.getElementById('floating-live-score');
+  if (floatingScore) {
+    floatingScore.classList.remove('show');
+    setTimeout(() => {
+      floatingScore.remove();
+    }, 300);
   }
 }
 
@@ -1716,6 +1743,131 @@ function hideLoadingScreen() {
 }
 
 // Debugging completed - live test functionality should now work correctly
+
+// Floating Panel Controls
+function initFloatingControls() {
+  const controlFab = document.getElementById('control-fab');
+  const sidebarFab = document.getElementById('sidebar-fab');
+  const controlPanel = document.getElementById('control-panel');
+  const panelOverlay = document.getElementById('panel-overlay');
+  const closePanel = document.getElementById('close-panel');
+  const leftSidebar = document.getElementById('left-sidebar');
+  
+  // Toggle control panel
+  if (controlFab && controlPanel && panelOverlay) {
+    controlFab.addEventListener('click', () => {
+      const isOpen = controlPanel.classList.contains('open');
+      if (isOpen) {
+        closeControlPanel();
+      } else {
+        openControlPanel();
+      }
+    });
+    
+    closePanel.addEventListener('click', closeControlPanel);
+    
+    // Close any open panel/sidebar when clicking overlay
+    panelOverlay.addEventListener('click', () => {
+      if (controlPanel.classList.contains('open')) {
+        closeControlPanel();
+      }
+      if (leftSidebar && leftSidebar.classList.contains('mobile-visible')) {
+        closeMobileSidebar();
+      }
+    });
+  }
+  
+  // Toggle mobile sidebar
+  if (sidebarFab && leftSidebar) {
+    sidebarFab.addEventListener('click', () => {
+      const isVisible = leftSidebar.classList.contains('mobile-visible');
+      if (isVisible) {
+        closeMobileSidebar();
+      } else {
+        openMobileSidebar();
+      }
+    });
+  }
+  
+  // Close panel on Escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      if (controlPanel.classList.contains('open')) {
+        closeControlPanel();
+      }
+      if (leftSidebar.classList.contains('mobile-visible')) {
+        closeMobileSidebar();
+      }
+    }
+  });
+}
+
+function openControlPanel() {
+  const controlPanel = document.getElementById('control-panel');
+  const panelOverlay = document.getElementById('panel-overlay');
+  const controlFab = document.getElementById('control-fab');
+  
+  controlPanel.classList.add('open');
+  controlPanel.setAttribute('aria-hidden', 'false');
+  panelOverlay.classList.add('visible');
+  controlFab.setAttribute('aria-expanded', 'true');
+  
+  // Lock body scroll
+  document.body.style.overflow = 'hidden';
+  
+  // Focus first input
+  const firstInput = controlPanel.querySelector('input, button');
+  if (firstInput) {
+    setTimeout(() => firstInput.focus(), 100);
+  }
+}
+
+function closeControlPanel() {
+  const controlPanel = document.getElementById('control-panel');
+  const panelOverlay = document.getElementById('panel-overlay');
+  const controlFab = document.getElementById('control-fab');
+  
+  controlPanel.classList.remove('open');
+  controlPanel.setAttribute('aria-hidden', 'true');
+  panelOverlay.classList.remove('visible');
+  controlFab.setAttribute('aria-expanded', 'false');
+  
+  // Unlock body scroll
+  document.body.style.overflow = 'auto';
+  
+  // Return focus to FAB
+  controlFab.focus();
+}
+
+function openMobileSidebar() {
+  const leftSidebar = document.getElementById('left-sidebar');
+  const panelOverlay = document.getElementById('panel-overlay');
+  const sidebarFab = document.getElementById('sidebar-fab');
+  
+  leftSidebar.classList.add('mobile-visible');
+  leftSidebar.style.display = 'block';
+  panelOverlay.classList.add('visible');
+  sidebarFab.setAttribute('aria-expanded', 'true');
+  
+  // Lock body scroll
+  document.body.style.overflow = 'hidden';
+}
+
+function closeMobileSidebar() {
+  const leftSidebar = document.getElementById('left-sidebar');
+  const panelOverlay = document.getElementById('panel-overlay');
+  const sidebarFab = document.getElementById('sidebar-fab');
+  
+  leftSidebar.classList.remove('mobile-visible');
+  panelOverlay.classList.remove('visible');
+  sidebarFab.setAttribute('aria-expanded', 'false');
+  
+  // Unlock body scroll
+  document.body.style.overflow = 'auto';
+  
+  // Return focus to FAB
+  sidebarFab.focus();
+}
 
 // Enhanced error handling with loading screen cleanup
 window.addEventListener('error', (e) => {

@@ -131,13 +131,14 @@ body {
   transition: all 0.3s ease;
 }
 
+/* Main Content */
 .main-content.with-sidebar {
   max-width: none;
-  margin-left: clamp(160px, 12vw, 220px);
+  margin-left: clamp(200px, 16vw, 300px); /* Updated to match sidebar width */
   margin-right: 0;
-  padding-left: 1vw;
-  padding-right: 2vw;
-  width: calc(100% - clamp(160px, 12vw, 220px));
+  padding-left: 2vw;
+  padding-right: 3vw;
+  width: calc(100% - clamp(200px, 16vw, 300px)); /* Updated to match sidebar width */
 }
 
 
@@ -394,9 +395,9 @@ body {
 .left-sidebar {
   position: fixed;
   left: 0;
-  top: calc(var(--header-height) + 1rem);
-  width: clamp(160px, 12vw, 220px);
-  height: calc(100vh - var(--header-height) - 1rem);
+  top: calc(var(--header-height) + 2rem);
+  width: clamp(200px, 16vw, 300px); /* Increased from clamp(180px, 15vw, 280px) */
+  height: calc(100vh - var(--header-height) - 2rem);
   background: rgba(255, 255, 255, 0.95);
   backdrop-filter: blur(10px);
   border-top: 2px solid rgba(102, 126, 234, 0.3);
@@ -405,14 +406,16 @@ body {
   z-index: 50;
   overflow-y: auto;
   transition: all 0.3s ease;
-  border-radius: 8px 0 0 0;
+  border-radius: 0 8px 0 0;
+  padding: 1rem; /* Added padding */
 }
 
 
-/* Results Panel in Sidebar */
+
+//* Results Panel in Sidebar */
 .results-panel {
   width: 100%;
-  padding: 0.8vh 0.5vw;
+  padding: 1rem 0.75rem; /* Increased from 0.8vh 0.5vw */
   background: transparent;
   border: none;
   box-shadow: none;
@@ -421,20 +424,20 @@ body {
 }
 
 .results-panel h3 {
-  margin-bottom: 0.8rem;
+  margin-bottom: 1rem; /* Increased from 0.8rem */
   color: var(--text-primary);
-  font-size: 0.9rem;
+  font-size: 1.1rem; /* Increased from 0.9rem */
   font-weight: 600;
   text-align: center;
   border-bottom: 1px solid var(--border-color);
-  padding-bottom: 0.4rem;
+  padding-bottom: 0.5rem; /* Increased from 0.4rem */
 }
 
 .round-box {
-  width: 28px;
-  height: 28px;
-  border-radius: 4px;
-  margin: 0.15rem;
+  width: 36px; /* Increased from 28px */
+  height: 36px; /* Increased from 28px */
+  border-radius: 6px; /* Increased from 4px */
+  margin: 0.25rem; /* Increased from 0.15rem */
   background: var(--bg-tertiary);
   border: 1px solid var(--border-color);
   cursor: pointer;
@@ -442,9 +445,10 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.7rem;
+  font-size: 0.85rem; /* Increased from 0.7rem */
   font-weight: 600;
 }
+
 
 .round-box:hover {
   transform: scale(1.2);
@@ -771,10 +775,11 @@ input:focus,
   flex-wrap: wrap;
 }
 
+/* Results Buttons */
 .results-buttons .primary-btn,
 .results-buttons .secondary-btn {
-  font-size: 0.7rem;
-  padding: 0.4rem 0.6rem;
+  font-size: 0.85rem; /* Increased from 0.7rem */
+  padding: 0.6rem 0.8rem; /* Increased from 0.4rem 0.6rem */
   flex: 1;
   min-width: auto;
 }

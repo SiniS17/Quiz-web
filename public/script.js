@@ -297,7 +297,7 @@ function createQuizBox(file, folder) {
   quizBox.className = 'quiz-box';
   quizBox.innerHTML = `
     <i class="fas fa-file-text"></i>
-    <h3>${file.replace('.txt', '')}</h3>
+    <h3>${file.replace('.txt', '').replace(' (-)', '')}</h3>
     <p>Click to start quiz</p>
   `;
   
@@ -323,7 +323,7 @@ function initializeQuiz(fileName) {
 }
 
 function loadQuiz(fileName) {
-  updateQuizTitle(fileName.replace('.txt', ''));
+  updateQuizTitle(fileName.replace('.txt', '').replace(' (-)', ''));
   clearQuizContainer();
 
   // Note: showLoading already called in initializeQuiz
@@ -353,7 +353,11 @@ function processQuizDataAndStart(text, fileName) {
   levelCounts = {};
   clearLevelCheckboxes();
 
-  const lines = text.split('\n').filter(line => line.trim() !== '');
+  // For files with (-), keep blank lines as separators; otherwise filter them out
+  const hasVariableAnswers = fileName.includes('(-)');
+  const lines = hasVariableAnswers 
+    ? text.split('\n')
+    : text.split('\n').filter(line => line.trim() !== '');
   const questions = parseQuestions(lines, fileName);
   
   // Show top controls and populate them
@@ -440,31 +444,59 @@ function parseQuestions(lines, fileName) {
   let questionCount = 0;
   
   const hasABCD = fileName.includes('(ABCD)');
-  const answersPerQuestion = hasABCD ? 5 : 4;
-
-  lines.forEach((line, index) => {
-    if ((index > 0 && index % answersPerQuestion === 0) || index === 0) {
-      if (currentQuestion.length > 0) {
-        questions.push(currentQuestion.join('\n'));
-      }
-      currentQuestion = [line];
-      questionCount++;
-      
-      // Extract level information
-      const levelMatch = line.match(/\(\s*(level|Level)\s*(\d+)\)/);
-      if (levelMatch) {
-        const level = parseInt(levelMatch[2]);
-        levelCounts[level] = (levelCounts[level] || 0) + 1;
+  const hasVariableAnswers = fileName.includes('(-)');
+  
+  // For files with (-), parse by blank lines (variable answer count)
+  if (hasVariableAnswers) {
+    lines.forEach((line) => {
+      if (line.trim() === '') {
+        // Blank line indicates end of question block
+        if (currentQuestion.length > 0) {
+          questions.push(currentQuestion.join('\n'));
+          questionCount++;
+          // Treat all questions as level 1 (no level text added)
+          levelCounts[1] = (levelCounts[1] || 0) + 1;
+          currentQuestion = [];
+        }
       } else {
-        levelCounts[1] = (levelCounts[1] || 0) + 1;
+        currentQuestion.push(line);
       }
-    } else {
-      currentQuestion.push(line);
+    });
+    
+    // Push last question if exists
+    if (currentQuestion.length > 0) {
+      questions.push(currentQuestion.join('\n'));
+      questionCount++;
+      levelCounts[1] = (levelCounts[1] || 0) + 1;
     }
-  });
+  } else {
+    // Original logic for fixed answer count files
+    const answersPerQuestion = hasABCD ? 5 : 4;
 
-  if (currentQuestion.length > 0) {
-    questions.push(currentQuestion.join('\n'));
+    lines.forEach((line, index) => {
+      if ((index > 0 && index % answersPerQuestion === 0) || index === 0) {
+        if (currentQuestion.length > 0) {
+          questions.push(currentQuestion.join('\n'));
+        }
+        currentQuestion = [line];
+        questionCount++;
+        
+        // Extract level information
+        const levelMatch = line.match(/\(\s*(level|Level)\s*(\d+)\)/);
+        if (levelMatch) {
+          const level = parseInt(levelMatch[2]);
+          levelCounts[level] = (levelCounts[level] || 0) + 1;
+        } else {
+          levelCounts[1] = (levelCounts[1] || 0) + 1;
+        }
+      } else {
+        currentQuestion.push(line);
+      }
+    });
+
+    if (currentQuestion.length > 0) {
+      questions.push(currentQuestion.join('\n'));
+    }
   }
 
   return questions;
@@ -534,8 +566,13 @@ function setupTopQuestionCountInput(questions) {
   
   // Add new input handler - only store the value, don't apply it
   questionCountInput._inputHandler = (e) => {
-    const value = parseInt(e.target.value);
-    if (value > 0 && value <= maxQuestions) {
+    let value = parseInt(e.target.value);
+    if (value > 0) {
+      // Cap value at maximum if it exceeds
+      if (value > maxQuestions) {
+        value = maxQuestions;
+        e.target.value = value;
+      }
       pendingQuestionCount = value;
       // Add visual indicator that value hasn't been applied yet
       if (value !== GlobalselectedCount) {
@@ -552,11 +589,18 @@ function setupTopQuestionCountInput(questions) {
   questionCountInput._keypressHandler = (e) => {
     if (e.key === 'Enter') {
       e.preventDefault();
-      const value = parseInt(e.target.value);
-      if (value > 0 && value <= maxQuestions && value !== GlobalselectedCount) {
-        applyQuestionCountChange(value, maxQuestions);
-        questionCountInput.style.borderColor = '';
-        questionCountInput.title = '';
+      let value = parseInt(e.target.value);
+      if (value > 0) {
+        // Cap value at maximum if it exceeds
+        if (value > maxQuestions) {
+          value = maxQuestions;
+          e.target.value = value;
+        }
+        if (value !== GlobalselectedCount) {
+          applyQuestionCountChange(value, maxQuestions);
+          questionCountInput.style.borderColor = '';
+          questionCountInput.title = '';
+        }
       }
     }
   };

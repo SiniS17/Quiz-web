@@ -131,14 +131,13 @@ body {
   transition: all 0.3s ease;
 }
 
-/* Main Content */
 .main-content.with-sidebar {
   max-width: none;
-  margin-left: clamp(200px, 16vw, 300px); /* Updated to match sidebar width */
+  margin-left: clamp(160px, 12vw, 220px);
   margin-right: 0;
-  padding-left: 2vw;
-  padding-right: 3vw;
-  width: calc(100% - clamp(200px, 16vw, 300px)); /* Updated to match sidebar width */
+  padding-left: 1vw;
+  padding-right: 2vw;
+  width: calc(100% - clamp(160px, 12vw, 220px));
 }
 
 
@@ -391,107 +390,27 @@ body {
   color: var(--error-color);
 }
 
-// Add CSS styles for image display (add to your existing CSS)
-const imageStyles = `
-.question-images {
-  margin: 1rem 0;
-  display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.question-image-container {
-  max-width: 100%;
-  text-align: center;
-}
-
-.question-image {
-  max-width: 100%;
-  max-height: 400px;
-  height: auto;
-  border-radius: var(--border-radius);
-  box-shadow: var(--shadow-md);
-  border: 2px solid var(--border-color);
-  transition: transform 0.3s ease;
-}
-
-.question-image:hover {
-  transform: scale(1.05);
-  cursor: pointer;
-}
-
-/* Image modal for full-size viewing */
-.image-modal {
-  display: none;
-  position: fixed;
-  z-index: 9999;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.9);
-  justify-content: center;
-  align-items: center;
-}
-
-.image-modal.show {
-  display: flex;
-}
-
-.image-modal img {
-  max-width: 90%;
-  max-height: 90%;
-  object-fit: contain;
-}
-
-.image-modal-close {
-  position: absolute;
-  top: 20px;
-  right: 40px;
-  color: white;
-  font-size: 40px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: color 0.3s;
-}
-
-.image-modal-close:hover {
-  color: var(--primary-color);
-}
-
-@media (max-width: 768px) {
-  .question-image {
-    max-height: 250px;
-  }
-}
-`;
-
 /* Left Sidebar */
 .left-sidebar {
   position: fixed;
   left: 0;
-  top: calc(var(--header-height) + 2rem);
-  width: clamp(200px, 16vw, 300px); /* Increased from clamp(180px, 15vw, 280px) */
-  height: calc(100vh - var(--header-height) - 2rem);
+  top: var(--header-height);
+  width: clamp(160px, 12vw, 220px);
+  height: calc(100vh - var(--header-height));
   background: rgba(255, 255, 255, 0.95);
   backdrop-filter: blur(10px);
-  border-top: 2px solid rgba(102, 126, 234, 0.3);
   border-right: 1px solid var(--border-color);
   box-shadow: var(--shadow-md);
-  z-index: 50;
+  z-index: 150;
   overflow-y: auto;
   transition: all 0.3s ease;
-  border-radius: 0 8px 0 0;
-  padding: 1rem; /* Added padding */
 }
 
 
-
-//* Results Panel in Sidebar */
+/* Results Panel in Sidebar */
 .results-panel {
   width: 100%;
-  padding: 1rem 0.75rem; /* Increased from 0.8vh 0.5vw */
+  padding: 0.8vh 0.5vw;
   background: transparent;
   border: none;
   box-shadow: none;
@@ -500,20 +419,20 @@ const imageStyles = `
 }
 
 .results-panel h3 {
-  margin-bottom: 1rem; /* Increased from 0.8rem */
+  margin-bottom: 0.8rem;
   color: var(--text-primary);
-  font-size: 1.1rem; /* Increased from 0.9rem */
+  font-size: 0.9rem;
   font-weight: 600;
   text-align: center;
   border-bottom: 1px solid var(--border-color);
-  padding-bottom: 0.5rem; /* Increased from 0.4rem */
+  padding-bottom: 0.4rem;
 }
 
 .round-box {
-  width: 36px; /* Increased from 28px */
-  height: 36px; /* Increased from 28px */
-  border-radius: 6px; /* Increased from 4px */
-  margin: 0.25rem; /* Increased from 0.15rem */
+  width: 28px;
+  height: 28px;
+  border-radius: 4px;
+  margin: 0.15rem;
   background: var(--bg-tertiary);
   border: 1px solid var(--border-color);
   cursor: pointer;
@@ -521,10 +440,9 @@ const imageStyles = `
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.85rem; /* Increased from 0.7rem */
+  font-size: 0.7rem;
   font-weight: 600;
 }
-
 
 .round-box:hover {
   transform: scale(1.2);
@@ -650,6 +568,14 @@ button {
   
   .settings-card {
     padding: 1.5rem;
+  }
+  
+  .left-sidebar {
+    width: 160px;
+  }
+  
+  .main-content.with-sidebar {
+    margin-left: 160px;
   }
   
   .round-box {
@@ -851,11 +777,10 @@ input:focus,
   flex-wrap: wrap;
 }
 
-/* Results Buttons */
 .results-buttons .primary-btn,
 .results-buttons .secondary-btn {
-  font-size: 0.85rem; /* Increased from 0.7rem */
-  padding: 0.6rem 0.8rem; /* Increased from 0.4rem 0.6rem */
+  font-size: 0.7rem;
+  padding: 0.4rem 0.6rem;
   flex: 1;
   min-width: auto;
 }
@@ -1456,29 +1381,25 @@ html {
   
   .main-content.with-sidebar {
     margin-left: 200px;
-    width: calc(100% - 200px);
   }
 }
 
 @media (max-width: 768px) {
   .left-sidebar {
-    display: none;
+    display: none !important;
     position: fixed;
-    top: calc(var(--header-height) + 0.5rem);
+    top: var(--header-height);
     left: 0;
-    width: 200px;
-    max-width: 200px;
-    height: calc(100vh - var(--header-height) - 0.5rem);
-    z-index: 50;
+    width: clamp(280px, 80vw, 320px);
+    height: calc(100vh - var(--header-height));
+    z-index: 1100;
     transform: translateX(-100%);
     transition: transform 0.3s ease;
-    border-radius: 0 8px 8px 0;
   }
   
   .left-sidebar.mobile-visible {
     display: block !important;
     transform: translateX(0);
-    z-index: 1160;
   }
   
   .main-content.with-sidebar {
@@ -1511,5 +1432,210 @@ html {
   
   .floating-panel {
     max-height: 85vh;
+  }
+}
+
+/* Add these styles to the END of your existing styles.css file */
+
+/* ========================================
+   IMAGE SUPPORT STYLES
+   ======================================== */
+
+/* Question Images Container */
+.question-images {
+  margin: 1rem 0;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0.5rem;
+  background: var(--bg-secondary);
+  border-radius: var(--border-radius);
+}
+
+.question-image-container {
+  max-width: 100%;
+  text-align: center;
+  position: relative;
+}
+
+.question-image {
+  max-width: 100%;
+  max-height: 400px;
+  height: auto;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-md);
+  border: 2px solid var(--border-color);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  display: block;
+}
+
+.question-image:hover {
+  transform: scale(1.05);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--primary-color);
+}
+
+/* Image Modal for Full-Size Viewing */
+.image-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(5px);
+  animation: fadeIn 0.3s ease;
+}
+
+.image-modal.show {
+  display: flex;
+}
+
+.image-modal img {
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain;
+  border-radius: var(--border-radius);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+  animation: zoomIn 0.3s ease;
+}
+
+@keyframes zoomIn {
+  from {
+    transform: scale(0.8);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.image-modal-close {
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  user-select: none;
+}
+
+.image-modal-close:hover {
+  color: var(--error-color);
+  background: rgba(255, 255, 255, 0.2);
+  transform: rotate(90deg);
+}
+
+.image-modal-close:active {
+  transform: rotate(90deg) scale(0.9);
+}
+
+/* Image Loading State */
+.question-image-container::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40px;
+  height: 40px;
+  border: 3px solid var(--border-color);
+  border-top-color: var(--primary-color);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.question-image-container.loading::before {
+  opacity: 1;
+}
+
+/* Image Error State */
+.question-image[alt="Image not found"] {
+  background: var(--bg-tertiary);
+  padding: 2rem;
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .question-image {
+    max-height: 250px;
+  }
+
+  .image-modal-close {
+    top: 10px;
+    right: 10px;
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+  }
+
+  .question-images {
+    gap: 0.75rem;
+    padding: 0.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .question-image {
+    max-height: 200px;
+  }
+
+  .question-images {
+    gap: 0.5rem;
+    padding: 0.25rem;
+  }
+
+  .image-modal img {
+    max-width: 95%;
+    max-height: 95%;
+  }
+
+  .image-modal-close {
+    top: 5px;
+    right: 5px;
+    font-size: 24px;
+    width: 36px;
+    height: 36px;
+  }
+}
+
+/* Print Support for Images */
+@media print {
+  .question-images {
+    break-inside: avoid;
+  }
+
+  .question-image {
+    max-height: 300px;
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+
+  .image-modal {
+    display: none !important;
   }
 }

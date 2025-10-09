@@ -502,6 +502,177 @@ function parseQuestions(lines, fileName) {
   return questions;
 }
 
+// Add this function to parse image references in questions
+function parseQuestionWithImages(questionText) {
+  // Look for [IMG:filename] pattern
+  const imgPattern = /\[IMG:([^\]]+)\]/g;
+  
+  let hasImages = false;
+  let images = [];
+  
+  // Extract all image references
+  let match;
+  while ((match = imgPattern.exec(questionText)) !== null) {
+    hasImages = true;
+    images.push(match[1]);
+  }
+  
+  return {
+    hasImages,
+    images,
+    cleanText: questionText // Keep original text with markers
+  };
+}
+
+// Modified createQuestionElement function with image support
+function createQuestionElementWithImages(questionText, index) {
+  const lines = questionText.split('\n');
+  const questionTitle = lines[0];
+  const answers = lines.slice(1);
+
+  // Check if question contains images
+  const imageInfo = parseQuestionWithImages(questionTitle);
+
+  // Randomize answer order while preserving correct answer identification
+  const shuffledAnswers = shuffle([...answers]);
+
+  const questionDiv = document.createElement('div');
+  questionDiv.className = 'question';
+  questionDiv.id = `question-${index}`;
+  
+  const questionHeader = document.createElement('div');
+  questionHeader.className = 'question-header';
+  
+  // Create question title HTML
+  let titleHTML = `
+    <span class="question-number">Question ${index + 1}</span>
+    <h3>${questionTitle.replace(/\\n/g, '<br>')}</h3>
+  `;
+  
+  // Add images if they exist
+  if (imageInfo.hasImages) {
+    titleHTML += '<div class="question-images">';
+    imageInfo.images.forEach(imgFilename => {
+      titleHTML += `
+        <div class="question-image-container">
+          <img src="images/${imgFilename}" 
+               alt="Question image" 
+               class="question-image"
+               onerror="this.onerror=null; this.src='images/placeholder.png'; this.alt='Image not found';">
+        </div>
+      `;
+    });
+    titleHTML += '</div>';
+  }
+  
+  questionHeader.innerHTML = titleHTML;
+  questionDiv.appendChild(questionHeader);
+
+  const answersContainer = document.createElement('div');
+  answersContainer.className = 'answers-container';
+
+  shuffledAnswers.forEach((answer, answerIndex) => {
+    const answerElement = createAnswerElement(answer, answerIndex, index);
+    answersContainer.appendChild(answerElement);
+  });
+
+  questionDiv.appendChild(answersContainer);
+  return questionDiv;
+}
+
+// Function to add image modal functionality
+function setupImageModal() {
+  // Create modal if it doesn't exist
+  if (!document.getElementById('image-modal')) {
+    const modal = document.createElement('div');
+    modal.id = 'image-modal';
+    modal.className = 'image-modal';
+    modal.innerHTML = `
+      <span class="image-modal-close">&times;</span>
+      <img src="" alt="Full size image">
+    `;
+    document.body.appendChild(modal);
+    
+    // Close modal on click
+    modal.addEventListener('click', function(e) {
+      if (e.target === modal || e.target.className === 'image-modal-close') {
+        modal.classList.remove('show');
+      }
+    });
+    
+    // Close on Escape key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && modal.classList.contains('show')) {
+        modal.classList.remove('show');
+      }
+    });
+  }
+  
+  // Add click handlers to all question images
+  document.addEventListener('click', function(e) {
+    if (e.target.classList.contains('question-image')) {
+      const modal = document.getElementById('image-modal');
+      const modalImg = modal.querySelector('img');
+      modal.classList.add('show');
+      modalImg.src = e.target.src;
+    }
+  });
+}
+
+// Modified displayQuestions to use new function
+function displayQuestionsWithImages(allQuestions) {
+  const quizContainer = document.getElementById('quiz-container');
+  if (!quizContainer) return;
+
+  quizContainer.innerHTML = '';
+  quizContainer.className = 'quiz-interface';
+
+  const selectedLevels = getSelectedLevels();
+  saveQuizState(allQuestions, selectedLevels);
+  
+  const filteredQuestions = filterQuestionsByLevel(allQuestions, selectedLevels);
+  const shuffledFullOrder = shuffle(filteredQuestions);
+  currentQuizState.originalQuestionOrder = shuffledFullOrder;
+  
+  const selectedQuestions = shuffledFullOrder.slice(0, GlobalselectedCount);
+
+  if (selectedQuestions.length === 0) {
+    quizContainer.innerHTML = '<div class="no-questions">No questions available for selected criteria.</div>';
+    enableAllControlsAfterLoad();
+    hideLoading();
+    showNotification('No questions available for selected criteria', 'error');
+    return;
+  }
+
+  showLoading();
+  disableAllControlsDuringLoad();
+
+  const questionElements = [];
+  selectedQuestions.forEach((questionText, index) => {
+    // Use the new function with image support
+    const questionElement = createQuestionElementWithImages(questionText, index);
+    questionElements.push(questionElement);
+  });
+  
+  questionElements.forEach(element => {
+    quizContainer.appendChild(element);
+    addFadeInAnimation(element);
+  });
+
+  setupResultsContainer(selectedQuestions.length);
+  setupLiveTestInTopControls();
+  setupImageModal(); // Initialize image modal
+  
+  requestAnimationFrame(() => {
+    enableAllControlsAfterLoad();
+    hideLoading();
+  });
+}
+
+// Export or integrate these functions into your existing script.js
+// Replace the original createQuestionElement calls with createQuestionElementWithImages
+// Add the CSS styles to your style.css file
+
 function updateQuizInfo(questionCount) {
   const maxQuestionsInfo = document.getElementById('max-questions-info');
   if (maxQuestionsInfo) {

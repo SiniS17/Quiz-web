@@ -752,39 +752,39 @@ To prepare for aircraft departure, headset man confirms: (AUD; INV; A; B)
 The MLG wheel chocks are removed; Surrounding of A/C is clean and clear of personnel/GSE/foreign object
 The MLG/ NLG wheel chocks are removed; engine inlet and gas exhaust areas are clean and clear of personnel/GSE/foreign object
 
-What is meaning of this hand signal? (AUD; INV; A; B)
+What is meaning of this hand signal? (AUD; INV; A; B) \n [IMG:connect ground power.png]
 Dispatch aircraft
-@@ Connect ground power.
+@@Connect ground power.
 Chocks inserted.
 
-What is meaning of this hand signal? (AUD; INV; A; B)
-@@ Dispatch A/C
+What is meaning of this hand signal? (AUD; INV; A; B) \n [IMG:dispatch ac.png]
+@@Dispatch A/C
 Hold position/ standby.
 Release brake.
 
-What is meaning of this hand signal? (AUD; INV; A; B)
+What is meaning of this hand signal? (AUD; INV; A; B)\n [IMG:chock remove.png]
 Affirmative / all clear
 Dispatch A/C
-@@ Chock removed.
+@@Chock removed.
 
-What is meaning of this hand signal? (AUD; INV; A; B)
+What is meaning of this hand signal? (AUD; INV; A; B)\n [IMG:cut engines.png]
 Affirmative / all clear
 Chock removed.
-@@ Cut engines.
+@@Cut engines.
 
-What is meaning of this hand signal? (AUD; INV; A; B)
+What is meaning of this hand signal? (AUD; INV; A; B)\n [IMG:chock inserted.png]
 @@ Chocks inserted
 Dispatch A/C
 Chock removed.
 
-In the following hand-signals, what is “fire on Engine”? (AUD; INV; A; B)
+In the following hand-signals, what is “fire on Engine”? (AUD; INV; A; B)\n[IMG:fire on engine.png]
 a)
 b)
-@@ c)
+@@c)
 
-In the following hand-sigals, what is “emergence stop”  (AUD; INV; A; B)
+In the following hand-sigals, what is “emergence stop” (AUD; INV; A; B)\n [IMG:emergency stop.png]
 a)
-@@ b)
+@@b)
 c)
 
 Temporary authorization (dispensation) is used to: (A; B; AUD; INV; QC Inspector)
@@ -2510,3 +2510,4 @@ Which APN in AMOS is used for creat a transfer order? (MAP)
 APN 2014
 @@ APN 2015
 APN 2025
+

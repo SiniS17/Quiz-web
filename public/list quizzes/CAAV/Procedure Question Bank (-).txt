@@ -516,7 +516,7 @@ The limitation in “Ground Operation Manual”
 Who is responsible to identify the critical task on maintenance tasks? (A; B; C; QC Inspector; AUD; INV; ACR; STR; CAB; IFE; PP; MP; EE; CMP)
 EGD
 Customer
-*The in-charge person, who issue maintenance document (WO, EO, SRO, NRC, NRCC..)
+@@The in-charge person, who issue maintenance document (WO, EO, SRO, NRC, NRCC..)
 
 Which is the primary error-capturing method to be used? (A; B; C; QC Inspector; AUD; INV; ACR; STR; CAB; IFE)
 Re-inspection.
@@ -561,7 +561,7 @@ Maintenance center shall report the affection to BPD, SQD , EGD, if customers do
 In the case of maintenance staffs need the support in maintenance activities but the issue related to AD, SB, MOD, Structure and is out of maintenance center capability, TD creates a TAR with related document to: (A; B; C; QC Inspector; AUD; INV; ACR; BSI; STR; CAB; IFE; EE; MP; PP)
 EGD.
 MCC.
-*Line maintenance center sends TAR to MCC, Base maintenance center sends TAR to EGD.
+@@Line maintenance center sends TAR to MCC, Base maintenance center sends TAR to EGD.
 
 In rob/swap procedure on VNA aircraft, how to control the installation of component back to the donor aircraft? (B; C; QC; AUD; INV; ACR; STR; CAB; IFE; PP; MP; CMP)
 by a NRC in the case that the removal WO is linked with a Work Pack.
@@ -1235,7 +1235,7 @@ Warning Tag
 Unserviceable Tag
 
 Who is responsible to initially report all mandatory occurrence, malfunction and defects to the SQD and MCC. (AUD; INV; PP; CMP; A; B; C; QM; WS)
-*The TD Manager of related Maintenance Center
+@@The TD Manager of related Maintenance Center
 The MCC
 The SQD
 
@@ -2378,27 +2378,27 @@ Lateral separation minima between aircrafts in airfield.
 RVSM belongs to GNSS-based which navigate all aircrafts in airfield for void collision.
 
 Which of the following documents belongs to VNA’s documents? (EE)
-*Aircraft Maintenance Schedule
+@@Aircraft Maintenance Schedule
 Aircraft Maintenance Manual
 Maintenance Organization Exposistion
 
 What A/C fleet must be ETDO maintenance? (EE)
-*A350 và B787 Fleet must be ETDO maintenance
+@@A350 và B787 Fleet must be ETDO maintenance
 All A/C Fleet of VNA must be ETDO maintenance
 Only B787 Fleet must be ETDO maintenance
 
 What requirements must VNA's MME documents meet?(EE)
-*Meets VAR and Aircraft Manufacturer requirements
+@@Meets VAR and Aircraft Manufacturer requirements
 Meets VAR and VAECO requirements
 Meets Aircraft Manufacturer and AMO requirements
 
 Purpose EDTO Maintenance Procedures? (EE)
-*This is a procedure for all additional maintenance to be performed on the VNA, B787 and A350 fleet for meeting the upto 180-240 minute EDTO operation requirements regardless the nature of the intended flight (EDTO or non-EDTO).
+@@This is a procedure for all additional maintenance to be performed on the VNA, B787 and A350 fleet for meeting the upto 180-240 minute EDTO operation requirements regardless the nature of the intended flight (EDTO or non-EDTO).
 This is a procedure for all additional maintenance to be performed on the VNA Fleet
 This is a procedure for all additional maintenance to be performed on the VNA A350 fleet for meeting the upto 180-240 minute EDTO operation requirements regardless the nature of the intended flight (EDTO or non-EDTO).
 
 Definition of RII (EE)
-*RII inspection is imposed on those tasks that could result in a failure, malfunction, or defect that endangers the safe operation of the aircraft if the task is not completed properly or if you use improper parts or material.
+@@RII inspection is imposed on those tasks that could result in a failure, malfunction, or defect that endangers the safe operation of the aircraft if the task is not completed properly or if you use improper parts or material.
 RII inspection is imposed on those tasks that could result in a failure, malfunction, or defect that endangers the safe operation of the aircraft if you use improper parts or material.
 RII inspection is imposed on those tasks that could result in a failure, malfunction, or defect that endangers the safe operation of the aircraft if the task is not completed properly.
 
@@ -2517,4 +2517,5 @@ Which APN in AMOS is used for creat a transfer order? (MAP)
 APN 2014
 @@APN 2015
 APN 2025
+
 

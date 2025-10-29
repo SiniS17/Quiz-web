@@ -350,9 +350,6 @@ Fuel temp sensor
 @@Main Oil temp Sensor
 T3 temp sensor
 
-The collected fuel remains in ecology collector tank is drawn back into fuel system when? (Level 3)
-Last engine shut down
-
 How does EEC monitor the position of HPC bleed valves? (Level 3)
 @@By pressure sensors
 By thermocouple sensors
@@ -380,7 +377,7 @@ Cool bearing compartments
 Cool turbine's blades and vanes
 
 Two Translating sleeves of engine are synchronized by: (Level 3)
-They are not synchronized at all.
+@@They are not synchronized at all.
 Latching system
 Flexible shafts
 

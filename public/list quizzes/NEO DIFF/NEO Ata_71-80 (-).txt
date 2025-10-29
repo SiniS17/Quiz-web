@@ -707,6 +707,7 @@ What is the purpose of Compressor Intermediate Case (CIC)? (Level 3)
 Providing a flow path for engine core airflow coming from the Fan
 Intermediate Case (FIC) to the LPC
 @@ Providing a flow path for engine core airflow coming from the LPC to the HPC
+Neither Answer above are corect
 
 What is the Cold Junction Compensation to compute EGT? (Level 3)
 T3 temp sensor

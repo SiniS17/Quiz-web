@@ -455,19 +455,19 @@ function parseQuestions(lines, fileName) {
   const hasABCD = fileName.includes('(ABCD)');
   const hasVariableAnswers = fileName.includes('(-)');
 
-if (hasVariableAnswers) {
+  if (hasVariableAnswers) {
     lines.forEach((line) => {
       if (line.trim() === '') {
         if (currentQuestion.length > 0) {
           const questionText = currentQuestion.join('\n');
           questions.push(questionText);
           questionCount++;
-          
+
           // Parse level from the question text
           const levelMatch = questionText.match(/\(\s*(level|Level)\s*(\d+)\)/);
           const level = levelMatch ? parseInt(levelMatch[2]) : 1;
           levelCounts[level] = (levelCounts[level] || 0) + 1;
-          
+
           currentQuestion = [];
         }
       } else {
@@ -476,15 +476,11 @@ if (hasVariableAnswers) {
     });
 
     if (currentQuestion.length > 0) {
-      const questionText = currentQuestion.join('\n');
-      questions.push(questionText);
+      questions.push(currentQuestion.join('\n'));
       questionCount++;
-      
-      // Parse level from the question text
-      const levelMatch = questionText.match(/\(\s*(level|Level)\s*(\d+)\)/);
-      const level = levelMatch ? parseInt(levelMatch[2]) : 1;
-      levelCounts[level] = (levelCounts[level] || 0) + 1;
-    } else {
+      levelCounts[1] = (levelCounts[1] || 0) + 1;
+    }
+  } else {
     const answersPerQuestion = hasABCD ? 5 : 4;
 
     lines.forEach((line, index) => {
@@ -508,7 +504,14 @@ if (hasVariableAnswers) {
     });
 
     if (currentQuestion.length > 0) {
-      questions.push(currentQuestion.join('\n'));
+      const questionText = currentQuestion.join('\n');
+      questions.push(questionText);
+      questionCount++;
+
+      // Parse level from the question text
+      const levelMatch = questionText.match(/\(\s*(level|Level)\s*(\d+)\)/);
+      const level = levelMatch ? parseInt(levelMatch[2]) : 1;
+      levelCounts[level] = (levelCounts[level] || 0) + 1;
     }
   }
 

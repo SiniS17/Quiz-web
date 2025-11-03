@@ -1,0 +1,100 @@
+To dispatch aircraft under failure of two engine anti-ice valves?  
+Deactivate the valves in open position through the manual override mechanism
+@@Deactivate the valves in closed position through the manual override mechanism
+No dispatch allowed
+
+How many Fan compartment thermocouples are there in the system?  
+One type K thermocouples, one for both EEC channel. To provide the EEC with temperature measurement in the fan compartment
+@@Two type K thermocouples, one for each EEC channel. To provide the EEC with temperature measurement in the fan compartment
+Two type K thermocouples, one for each EEC channel. To provide the EEC with temperature and pressure measurement in the fan compartment
+
+Hot air for the Nacelle anti-ice system is supplied by a dedicated HP Compressor (HPC) bleed:  
+on the PWl000G, 7th stage.
+@@on the PWl000G, 6th stage.
+on the PWl000G, 8th stage.
+
+What is true regarding 2 NAI PRSOVs?  
+@@When the NAI solenoids de-energized, the HPC 6th stage air is supplied to inlet cowl.
+When the NAI solenoids energized, the HPC 6th stage air is supplied to inlet cowl.
+At least one NAI solenoid de-energized, the HPC 6th stage air is supplied to inlet cowl.
+
+Where is Nacelle anti-ice pressure transducers located?  
+The downstream pressure transducer is located downstream of the two NAI PRSOVs, as the primary role is to monitor NAI PRSOVs position
+The upstream pressure transducer is located between of the two NAI PRSOVs, as the secondary role is to figure out which NAI PRSOVs fail
+@@The downstream pressure transducer is located downstream of the two NAI PRSOVs, as the primary role is to monitor NAI PRSOVs position. The upstream pressure transducer is located between of the two NAI PRSOVs, as the secondary role is to figure out which NAI PRSOVs fail
+
+What are the Nacelle anti-ice pressure regulating shutoff valves (NAI PRSOVs) for?  
+Upper and lower NAI PRSOVs operate in tandem to control pressure and airflow of LPC 3th stage air  used for inlet anti-ice
+@@Upper and lower NAI PRSOVs operate in tandem to control pressure and airflow of HPC 6th stage air  used for inlet anti-ice
+Upper and lower NAI PRSOVs operate in tandem to control pressure and airflow of HPC 9th stage air  used for inlet anti-ice
+
+How is the Engine anti-ice work?  
+Electrically controlled and operated by 3th stage high pressure compressor air
+@@Electrically controlled and operated by 6th stage high pressure compressor air
+Electrically controlled and operated by 9th stage high pressure compressor air
+
+On PW1100G engine the ENG ANTI-ICE P/B switches on overhead panel  
+Control the engine anti-ice valves directly
+@@Send signal to EEC, then the EEC controls the engine anti-ice valves
+Send signal to EIU, then the EIU controls the engine anti-ice valves
+
+Each of Nacelle Anti-Ice Pressure Regulating Shutoff Valves (NAI PRSOV) can be deactivated in _______ position  according to MEL:  
+closed
+@@open
+either open or closed
+
+Hot air for nacelle anti-ice system on PW1100G engineis supplied from 
+A/C bleed air system
+Dedicated bleed air from LPC stage 3
+@@Dedicated bleed air from HPC stage 6
+
+Where is Swirl nozzle attached?  
+@@Attached to the rear of the inlet cowl at 5:00
+Attached to upper of inlet cowl at 1:00
+Attached to the rear of the inlet cowl at 7:00
+
+Regard to PW1100G engine anti-ice system, A/C can be dispatched with  
+Two PRSOVs deactivated in OPEN position
+One PRSOV deactivated in CLOSED position
+@@One PRSOV deactivated in OPEN position
+
+Which statement below is correct?  
+@@Upper and lower  NAI PRSOVs are not interchangeable
+Upper and lower  NAI PRSOVs are interchangeable
+Upper and lower  NAI PRSOVs are interchangeable with certain condition.
+
+On PW1100G engine anti-ice system, to deactivate an anti-ice PRSOV  
+You must open the fan cowls
+You must open the thrust reverser cowls
+@@You can deactivate the PRSOV with the fan cowls and reverser cowls closed
+
+On PW1100G engine, nacelle anti-ice duct leak or burst is monitored by 
+A leak detector located in the core zone
+@@01 PT (Pressure Transducer)in the core zone, 01 PT in the fan zone and 01 dual temperature sensor in the fan zone
+A leak detector located in the fan zone
+
+Nacelle anti-ice ducts is segment into:  
+Two sections
+Three sections
+@@Four sections
+
+In case of leakage or burst of NAI (Nacelle Anti Ice) duct in Fan compartment:  
+@@EEC will recognize by Thermocouples.
+EEC will recognize by Pressure Transducers.
+EEC will recognize by 1 Pressure Transducer.
+
+On PW1100G engine anti-ice system, there is (are)  
+01 PRSOV (Pressure Regulating an Shut Off Valve)
+01 SOV (Shut Off valve) and 01 PRV (Pressure Regulating Valve)
+@@02 PRSOVs (Pressure Regulating an Shut Off Valve)
+
+How can you operate the Nacelle anti-ice system?  
+By ENG ANTI-ICE push button, on ground
+@@By ENG ANTI-ICE push button, on ground and in flight
+By ENG ANTI-ICE push button, in flight only
+
+What are the Nacelle anti-ice remote solenoids and manifold for?  
+@@To control the opening and closing of the NAI upper and lower PRSOVs
+To control the opening of the NAI upper and lower PRSOVs
+To control the closing of the NAI upper and lower PRSOVs
+

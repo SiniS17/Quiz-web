@@ -1,0 +1,95 @@
+A fire/overheat detector assembly consists of:  
+@@A  support tube, a bracket and 04 fire/overheat detectors
+A support tubes, 04 brackets and a fire/overheat detector
+A support tube, 04 brakets and 04 fire/overheat detectors
+
+The detector will issue a overheat signal due to:  
+@@Generally increasing pressure by helium gas
+Generally increasing pressure by  hydrogen gas
+Quickly increasing pressure by hydrogen gas
+
+The Integrity switch of Engine fire/overheat detector issues a signal to the flight deck if:  
+@@Faulty on detector occurring.
+Overheat or fire condition
+Overheat or fire condition or faulty on detector.
+
+When fire or overheat condition disappears, the alam switch will:  
+Stay close postion
+Back to open position by reset CB of FDU
+@@Back to open position automatically
+
+A fire/overheat detector operates depend on:  
+Resistance of element
+@@Internal gas pressure
+Voltage of detecting circuit
+
+The fire detection loops on PW1100G engines are 
+@@Dual loops
+Singe loops
+Single loops on pylon area, the other areas are dual loops
+
+The support tube establishes:  
+@@The position of the sensor element and provide the attachment point to the engine
+The position of the sensor element
+the attachment point to the engine
+
+In case of fire:  
+@@Causing the fast release of a large amount of gas from the special core material. This gas release very quickly increases the internal pressure to a set value, makes the pressure-sensitive alarm switch inside the responder closes
+Causing the fast release of a large amount of gas from the special core material. This gas release very quickly decrease the internal pressure to a set value, makes the pressure-sensitive alarm switch inside the responder closes
+Causing the fast release of a large amount of gas from the special core material. This gas release very quickly increases the internal pressure to a set value, makes the pressure-sensitive alarm switch inside the responder open
+
+What does the Engine fire/overheat detector assembly have?  
+An alarm switch
+An integrity switch
+@@An alarm switch that reacts to temperature and pressure, and an integrity switch that responds to pressure
+
+Fire detectors on PW1100G engine are located at: 
+Pylon area, fan area, core area
+@@Pylon area, AGB area, core area
+Fan area, AGB area, core area
+
+The engine fire protection is fulfilled by:  
+The FIRE detection system only
+@@The FIRE detection system and the FIRE extinguishing system
+The FIRE extinguishing system only
+
+How is the Alarm switch of Engine fire/overheat detector operate?  
+Operating on the principle that pressure decrease with a rise in temperature. If ambient temperature around the sensor element increase, or a short section of the sensor element is exposed to intense heat, internal pressure in the sensor element and the responder housing will decrease
+@@Operating on the principle that pressure increase with a rise in temperature. If ambient temperature around the sensor element increase, or a short section of the sensor element is exposed to intense heat, internal pressure in the sensor element and the responder housing will increase in proportion
+Operating on the principle that pressure increase with a rise in temperature. If ambient temperature around the sensor element increase, or a short section of the sensor element is exposed to intense heat, internal pressure in the sensor element and the responder housing will decrease
+
+The responder of engine fire loop has:  
+An ALARM switch and a FIRE switch.
+An MONITOR switch and a INTEGRITY switch.
+@@An ALARM switch and an INTEGRITY switch.
+
+How many fire/overheat detectors does the Engine fire/overheat detection system comprise of?  
+2
+@@3
+6
+
+Where are the Engine fire components located? 
+On the Fan and the Turbine and Pylon
+@@On the left and right side of engine core, along the main gearbox and low pressure turbine
+On the left and right side of engine core, along the main gearbox
+
+How the Integrity switch in the responder housing is kept closed position?  
+@@By normal gas pressure in the sensor element
+By airflow pressure from LPC
+By electrical relay
+
+In case of the gas leakage:  
+The subsequent pressure increase, will cause the integrity switch to close, signaling a fault malfunction to the flight deck
+The subsequent pressure decrease, will cause the integrity switch to close, signaling a fault malfunction to the flight deck
+@@The subsequent pressure decrease, will cause the integrity switch to open, signaling a fault malfunction to the flight deck
+
+The fire detectors of each fire detection loop onPW1100G engine are 
+@@Parallel connected
+Serial connected
+Not connected together
+
+The fire detection system warms the flight crew  
+Fire condition
+Overheat condition
+@@Fire or overheat conditions
+

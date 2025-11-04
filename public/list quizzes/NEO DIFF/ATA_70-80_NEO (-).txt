@@ -1,0 +1,706 @@
+What are(is) kind of different pressure fuel filter clog indication(s) available(Level 1)
+Degrad
+@@Clog &degrad
+Clog
+
+Data Storage Unit connect to: (Level 3)
+@@EEC Chanel A.
+EEC Chanel B.
+PHMU.
+
+How does EEC monitor the position of HPC bleed valves? (Level 3)
+By thermocouple sensors
+@@By pressure sensors
+There is no position feedback to EEC
+
+The aft mount: (Level 2)
+Carries the engine torque, thrust and side loads.
+@@Carries the engine torque, vertical and side loads.
+Carries the engine thrust, vertical and side loads.
+
+How do the EEC’s both channels operate at normal mode? (Level 2)
+They are in active/passive mode
+They are in active/active mode
+@@They are in active/standby mode
+
+Two Translating sleeves of engine are synchronized by: (Level 3)
+Flexible shafts
+Latching system
+@@They are not synchronized at all.
+
+What is No. 4 Roller Bearing assembly support? (Level 3)
+@@The rear of HPT rotor and contains the No. 4 Bearing support, attached to the inner case
+The rear of LPT rotor and contains the No. 4 Bearing support, attached to the outer case
+The rear of LPT rotor and contains the No. 4 Bearing support, attached to the inner case
+
+How many start bleed valve on PW1100G? (Level 1)
+2
+3
+@@4
+
+Throttle control system consists of? (Level 3)
+@@Throttle control lever, throttle control artificial feel unit, throttle control unit, electrical harness
+Throttle control lever, throttle control artificial feel unit, throttle control unit, electrical harness, EGT thermocouple
+Throttle control lever, throttle control artificial feel unit, electrical harness
+
+How many locking actuator installed in 1 engine? (Level 2)
+1 on LH Reverser only
+@@2
+1 on RH Reverser only
+
+For PW 1130 Engine, the Ignition system is controlled by : (Level 2)
+@@EEC
+EIU
+PMA
+
+To alert the maintenance staff to fan cowl’s not closed position: (Level 2)
+@@Each fan cowl latch has a proximity switch
+The middle fan cowl latch has a proximity switch
+Each fan cowl has a proximity switch
+
+The fan speed (Nf)  is used: (Level 2)
+@@By the EEC to detect decoupling of the fan shaft and by the PHMU to calculate trim balance solutions .
+By the EEC to control the thrust.
+By the EEC for indication.
+
+The aerodynamic station 2.5 locates at : (Level 2)
+@@Outlet of LPC
+Outlet of HPC
+Outlet of LPT
+
+Each half of C ducts includes one translating sleeves, two actuators, (Level 2)
+ten blockers doors and cascades.
+@@five blockers doors and cascades.
+five blockers doors and pivoting doors.
+
+Fan cowls: (Level 2)
+@@Each of the 3 fan cowl door latches has a fan cowl door proximity sensor which is able to detect weather the relative latch is locked to alert the ground crew to the fan cowl’s position
+Fan cowl door has two fan cowl door proximity sensors which are able to detect weather the relative latch is locked to alert the ground crew to the fan cowl’s position
+Fan cowl door has a fan cowl door proximity sensor which is able to detect weather the relative latch is locked to alert the ground crew to the fan cowl’s position
+
+“Dual Cooling” mode during engine start: (Level 2)
+ECAM Memo “DUAL COOLING” is displayed
+@@Select DUAL COOLING P/B to ON, “COOLING” sequence starts after initiating engine start sequence
+Select DUAL COOLING P/B to ON, “COOLING” sequence starts on both engine
+
+How many warning level can main oil filter triggered? (Level 2)
+None
+Clogged
+@@Degraged and Clogged
+
+Which sensor is used by the EEC to measure compressor discharge temperature for total temperature calculation : (Level 2)
+T2 sensor
+T2.5 sensor
+@@T3 sensor
+
+The usual starter duty cycle is 3 starter crank cycles and  (Level 2)
+60 seconds cooling period between each start attempt
+@@35 seconds cooling period between each start attempt
+45 seconds cooling period between each start attempt
+
+Which component does help in improving engine performance by reducing fan rotating speed and permitting LPC to higher speed? (Level 2)
+Fan Exit Guide Vane (VIGV)
+Variable Inlet Guide Vanes (VIGV)
+@@Fan Drive Gear System (FDGS)
+
+When the throttle is between two detent points, what position corresponds to the thrust limit? (Level 2)
+The upper detent point
+The lower detent point
+@@The actual throttle lever position
+
+Track Lock Valve (TLV) solenoids are controlled independently by SE (Level 2)
+Independently by EECs.
+Independently by LGCIUs.
+@@Independently by SE
+
+EGT limit during engine start is : (Level 2)
+635 deg.C
+725 deg.C
+@@1083.33 deg.C
+
+The VVS (Variable Vanes System) actuators of LPC and HPC are : (Level 2)
+@@Electrically controlled by EEC and actuated by servo fuel.
+Electrically controlled by EEC and actuated by P3 pneumatic motive air.
+Electrically controlled and actuated by EEC .
+
+The engine is attached to the pylon by Level 2)
+@@FWD and AFT mounts.
+FWD, middle and AFT mounts.
+Three mounts.
+
+How many Thrust Reverser cowl  Door latches are there on PW 1130? (Level 1)
+6
+@@7
+8
+
+The annular combustion chamber houses(Level 1)
+@@18 fuel nozzles(6 simplex and 12 duplex)
+18 fuel nozzles(9 simplex and 9 duplex)
+18 fuel nozzles(12 simplex and 6 duplex)
+
+The engine “N2 SPEED” parameter is displayed on? (Level 1)
+@@The Upper ECAM
+The Lower ECAM engine page
+The Lower ECAM engine page or Cruise page
+
+Ignition system power supply is? (Level 1)
+@@115 V from the aircraft
+115 V from engine generator
+28 V from the FADEC PMA
+
+The Main Oil Temperature (MOT) sensor is a dual channel sensor and is used to(Level 1)
+Measure the temperature of the scavenge oil returning to the tank
+@@Measure the temperature of the lubrication oil pressure from the tank
+Measure the pressure of the scavenge oil returning to the tank
+
+The engine page is selected? (Level 1)
+@@Manually or automatically depend on flight phases
+Manually only
+Automatically only depend on flight phases
+
+How many fuel nozzles are there on PW 1130 Engine? (Level 1)
+16
+@@18
+20
+
+Proximity sensors are installed on each latch of fan cowl doors which sends its position signal to (Level 1)
+The Engine lnterface Unit (EIU) & the EEC
+the EEC
+@@The Engine lnterface Unit (EIU)
+
+The PW1000G engine unique design features: (Level 1)
+@@An engine fan separated from the low pressure rotor, so that each module operates at optimal speeds.
+The engine makes use of a number of composite components including a composite fan blade, to achieve a significant weight reduction.
+The unique debris rejection system provides the best erosion protection, preventing sand, dirt, and other harmful items from reaching the core.
+
+Each engine equipped with? (Level 1)
+One ignition system with two igniters
+Two ignition systems, each has two igniters
+@@Two ignition systems with two igniters
+
+For de-activation thrust reverser Hydraulic Control Unit (HCU), we need to(Level 1)
+@@Open the oil tank access-door on the left fan cowl-door, or if necessary, open the fan cowl doors
+Open the RH fan cowl door.
+Open engine thust reserve doors
+
+Each fan cowl door is manually opened, and held open with: (Level 1)
+Two telescopic hold open rods.
+@@One telescopic and one fix hold open rods.
+Two fix hold open rods.
+
+The HPC Stator Vane Actuator can control how many stage of HPC? (Level 1)
+2
+@@3
+4
+
+The EEC and PHMU attached to Engine Fan Case (Level 1)
+At position 12h O’clock.
+@@At position 2h30 O’clock.
+At position 4h O’clock.
+
+Identify the number of fuel nozzles? (Level 1)
+Twelve (12)
+@@Eighteen (18)
+Twenty two (22)
+
+What is the type of bearing in FDGS? (Level 3)
+@@Journal Bearing
+Tapered roller bearing
+Oil firm Bearing
+
+The operating LP compressor stator vane actuator (LPC SVA), if there is a loss of electrical power? (Level 3)
+The actuator positions vanes in the full close position for inhibited airflow through the LPC
+@@The actuator positions vanes in the full open fail safe position for maximum airflow through the LPC
+Neither Answer are corect
+
+Is the purpose of the Active Clearance Control (ACC) system? (Level 3)
+To improve compressor efficiency
+@@To improve and maintain engine performance
+To reduce overall engine thermal growth
+
+Sensor T3 transmits signal: (Level 3)
+Of temperature from 3rd stage of HP
+@@Of temperature from last stage of HP
+Of temperature from 3rd stage of LPT.
+
+To maintain the proper air pressure at bearing compartment Nos. 1,2, 3, and 5/6 for carbon seals: (Level 3)
+HPC 3rd Stage air is supplied to archive the function.
+2.5 bleed air is used for this function.
+@@Depending on power setting 2.5 bleed air or HPC 3rd stage air is used for bearing compartments sealing/ pressurizing.
+
+In case of the event of Thrust control malfunction (TCM) on ground: (Level 3)
+There is no protection, the Thrust lever must be moved forward manually
+@@The torque motor shuts down
+The Engine master switch switches off immediately
+
+What is the fail-safe mode of the ACC(Active Clearance Control) valve and actuator ? (Level 3)
+@@Closed
+Full open
+Partially open
+
+What is fail safe position of Starter Valve? (Level 3)
+@@Fully closed.
+Do not have fail safe position
+Partition open
+
+Engine’s main bearing No.1 and No.1.5 are: (Level 3)
+Oil-damped bearings
+@@Tapered roller type
+Ball type bearings
+
+The PHMU (Prognostics and Health Management Unit) communicates with EEC via: (Level 3)
+ARINC 429 data bus
+@@CAN (Control Area Network) data bus
+Ethernet bus
+
+How the Engine main gearbox (MGB) are driven by? (Level 3)
+N1 rotor.
+N2 rotor via the transfer gear box
+@@The Angle gearbox (AGB) extracts power from HPC and provides it to the MGB through a series of gear shafts
+
+What is the fail safe position of 2.5 Bleed valve actuator? (Level 3)
+A. Fully Close
+@@B. Fully open
+C. 30% open
+
+The ring of vanes of Turbine Nozzle Assembly makes? (Level 3)
+Changing the direction of the hot gases to provide optimal flow, and pressure to the 1st stage turbine blades
+Changing the direction of the hot gases to provide optimal angle, and flow to the combustion champer
+@@Changing the direction of the hot gases to provide optimal angle, pressure, and flow to the 1st stage turbine blades
+
+How many locking feedback actuator install in 1 engine?  (Level 2)
+1 on RH side only
+@@2
+1 on LH side only
+
+How does the starter operate? (Level 2)
+Hydraulically
+Electrically
+@@Pneumatically
+
+For PW 1130 Engine, with the Ignition system of the engine is supply with power as follows: (Level 2)
+@@115 V from the A/C electrical system
+115 V from PMA
+115 V from PMA or 115 V from the A/C electrical system depend on N2 speed
+
+The Air Starter is mounted on  (Level 2)
+@@the right side aft of the MGB
+the left  side aft of the MGB
+the fan cowl  area
+
+Which component modulates flow of oil based on engine power settings? (Level 2)
+@@VORV/JOSV
+FOHEBV
+IDGOOHE
+
+Is fuel flow used to cool down IDG oil and engine oil through? (Level 2)
+Integrated Fuel Pump and Control
+@@Fuel/Oil Heat Exchanger
+Return-To-Tank valve
+
+The Engine Drain System collects and discharged fluids from engine and pylon through drain outlets located: (Level 2)
+On the sides of the drain mast.
+On the bottom of the drain mast.
+@@On the side and bottom of the drain mast.
+
+To open the PW1100G engine’s thrust reverser cowls (Level 2)
+@@Slats must be fully retracted
+Slats must be fully extended
+Slats can be at any position
+
+The IGN indication is displayed on? (Level 2)
+The Upper ECAM during engine start
+@@The Lower ECAM engine page during engine start
+The Lower ECAM engine page or Cruise page
+
+The Fan rotor contributes to approximately  (Level 1)
+70% of the thrust.
+80% of the thrust.
+@@90% of the thrust.
+
+ENG PW110G Equips with Aircraft Model: (Level 1)
+A321 only.
+A320 only.
+@@A319, A320, A321.
+
+How many pump inside the Journal Bearing?  (Level 1)
+0
+1
+@@2
+
+For maintenance the reversers can be deployed and stowed manually on the ground by: (Level 1)
+@@Using the Manual Drive Units (MDU) located on the lower actuators
+The test initiated on MCDU
+Using the Manual Drive Units (MDU) located on the upper actuators
+
+In case of overspeed, EEC will control: (Level 1)
+@@Thrust Control Malfunction (TCM)/Overspeed TM in IFPC
+FMV TM in IFPC
+FDR to stop the fuel in the combustion chamber
+
+What is the purpose of the Auxiliary Lubrication System? (Level 1)
+@@To protects the FDGS journal bearings from low oil pressure conditions in windmilling operation.
+To  provide correct oil flow to the Fan Drive Gear System and the No. 3 Bearing.
+To controls oil flow to the No. 3 Bearing damper
+
+What is the function of the PHMU (Prognostics and Health Management Unit)? (Level 3)
+@@To monitor engine oil debris and FDGS lubrication, also to calculates engine vibration and fan trim balance solutions.
+To predict the engine future malfunctions
+To back up EEC operation.
+
+The N1& N2 speed sensors send signals direct to(Level 1)
+@@The EEC
+The PHMU.
+The PHMU &EEC .
+
+How many EGT thermocouple on PW1100G? (Level 1)
+@@4
+6
+2
+
+How to identify the Fan blade No.1? (Level 1)
+@@The number is vibro-peened on fan hub platform.
+The number is vibro-peened on fan blade.
+The number is vibro-peened on retaining lock ring.
+
+How many Bearing PW1100G has: (Level 1)
+8
+@@7
+4
+
+The Aft Engine Mount Assy supports : (Level 3)
+@@The engine fore-aft, side, vertical, and roll loads.
+The engine vertical, and roll loads.
+The engine side and vertical loads.
+
+The 2.5 bleed valve actuator commanded by the EEC and actuated: (Level 3)
+By P3 pneumatic motive air
+Electrical motor
+@@Servo fuel
+
+What is the purpose of Buffer air heat exchanger?  (Level 3)
+Provides discrete (on/off) control of HPC 3rd Stage bleed air supply to the    Bearing Ventilation System
+@@Use station 2.5 bleed air to cool HPC 3rd Stage Air before its delivery to the No4 Bearing housing.
+Provide cooling buffer air  to the engine main bearing compartment and prevent oil leakage
+
+What is the different in starting sequence of PW1100G with V2500?  (Level 3)
+@@Cooling time (auto dry cranking)
+Ignition sequence
+High pressure bleed air
+
+How many preservation methods are used for the protection of out-of-service engines? (Level 3)
+3: Preserve the engine for 30 days, or 60 days, or 90 days.
+2: Preserve the engine for 30 days, or 60 days.
+@@2: Preserve the engine for more than 60 days or for 60 days or less.
+
+What is the purpose of Compressor Intermediate Case (CIC)? (Level 3)
+@@Providing a flow path for engine core airflow coming from the LPC to the HPC
+Providing a flow path for engine core airflow coming from the Fan Intermediate Case (FIC) to the LPC
+Neither Answer above are corect
+
+The PHMU (Prognostics and Health Management Unit ) communicates with EEC via: (Level 3)
+ARINC 429 data bus
+@@CAN (Control Area Network ) data bus
+Ethernet bus
+
+What is the new component on Oil Monitoring system compare to V2500? (Level 3)
+Master Magnetic Chip Detector
+@@Oil Debris Monitoring
+Last Chance Strainer
+
+The ACC (Active Clearance Control) System uses fan air to : (Level 3)
+Cool turbine’s blades and vanes
+@@Cool turbine cases to improve the fuel efficiency
+Cool bearing compartments
+
+For PW 1130 Engine, The ENG Drain mast gives a leak path exit for hydraulic, oil and : (level 3)
+@@Fuel component
+Reverser system actuators
+Permanent Magnet Altenator (PMA)
+
+When the fuel filter becomes blocked by contamination: (Level 3)
+“Fuel filter degraded” message generated on ECAM.
+"Fuel filter clogged” message generated on ECAM.
+@@“Fuel filter degraded” or "Fuel filter clogged” message generated on ECAM depending on specific differential pressure values.
+
+Which stage the start bleed valve install on? (Level 2)
+@@6th
+7th
+8th
+
+How many fan blades are there at the fan rotor? (Level 1)
+@@20
+24
+36
+
+The FDGS is a reduction gear mechanism which comprises of a central sun gear and (Level 1)
+@@Five planetary gears arranged like a star
+Four planetary gears arranged like a star
+Six planetary gears arranged like a star
+
+How many Fan Cowl Door latches are there on PW 1130? (Level 1)
+2
+@@3
+4
+
+What are indication ENG speed sensors on the ECAM. (Level 1)
+Nf& N2
+@@N1 & N2
+N1 , N2 &Nf
+
+The forward mount assembly bears (Level 1)
+@@The engine thrust, vertical and lateral loads
+The engine vertical and radial loads
+The engine thrust and radial loads
+
+When an automatic start is manually aborted. (Level 1)
+EEC does dry motor the engine
+@@EEC does not dry motor the engine
+EEC does wet  motor the engine
+
+The engine EGT is sensed and averaged by  (Level 1)
+Five thermocouple probes (T5 probes)
+@@Four thermocouple probes (T5 probes)
+Six thermocouple probes (T5 probes)
+
+How many blocker door on each reverser half? (Level 1)
+@@5
+6
+4
+
+A single stage Variable Inlet Guide Vanes (VIGVs) which direct the air to the LP Compressor at the correct angle and (Level 1)
+Are controlled by the PHMU
+@@Are controlled by the EEC
+Are not controlled by the EEC
+
+How many pump stage on LSOP? (Level 3)
+@@1 supply pump and 6 scavenge pumps
+2 supply pumps and 5 scavenge pumps
+1 supply pump and 5 scavenge pumps
+
+Nacelle system components provide the engine with the capabilities: (Level 3)
+An aerodynamic for engine mounted components
+@@An aerodynamic and protective enclosure for engine mounted components; Collection and discharge of oil, fuel and hydraulic fluid from the engine and its components
+An aerodynamic and protective enclosure for engine mounted components; Collection and discharge of oil, fuel from the engine and its components.
+
+Which is bleed air system used to improve engine startup performance? (Level 3)
+@@The HPC Bleed air system bleeds 6th stage HPC air
+The HPC Bleed air system bleeds 8th stage HPC air
+The LPC Bleed air system bleeds 8th stage HPC air
+
+In what conditions is the automatic dual-igniter continuous ignition provided by EEC? (Level 3)
+@@An engine flameout or a surge during takeoff or when  fuel cutback  due to Thrust Control Malfunction (TCM)
+FADEC failure
+Exciter Unit failure
+
+What is the purpose of LPBSOV - Low pressure buffer shutoff valve? (Level 3)
+Provides discrete (on/off) control of HPC 3rd Stage servo pressure sent to the LPBSOV
+Direct buffer air to the Bearing Ventilation System)
+@@Provides discrete (on/off) control of HPC 3rd Stage bleed air supply to the Bearing Ventilation System.
+
+Is fuel flow used to cool down IDG oil and engine oil through? (Level 2)
+Integrated Fuel Pump and Control
+@@Fuel/Oil Heat Exchanger
+Return-To-Tank valve
+
+Fluids drained from the pylon are? (Level 2)
+Fuel,  oil or hydraulic
+Fuel,  oil or water
+@@Fuel,  hydraulic or water
+
+Each half of reverser cowl doors: (Level 2)
+Is held closed by 4 latches
+@@Is held open by a hold open rod and an opening actuator
+Is held open by two hold open rods
+
+The geared turbo fan engine reduces the CO2 and NOx emissions and provides improved(Level 1)
+Fuel efficiency and low cost
+@@Fuel efficiency and reduces engine noise.
+Fuel efficiency and reduces flight range
+
+How many latches are used to fully closed reversers? (Level 1)
+@@7
+5
+6
+
+How many Hold Open Rod on each Reverser half? (Level 1)
+@@1
+2
+3
+
+The PW1100G-JM engine’s stage counting is as follow: (Level 3)
+1-4-9-1-5
+1-G-4-10-2-5
+@@1-G-3-8-2-3
+
+The PW1100G engine unique design features : (Level 3)
+@@An engine fan separated from the low pressure rotor, so that each module operates at optimal speeds.
+The engine makes use of a number of composite components including a composite fan blade, to achieve a significant weight reduction.
+The unique debris rejection system provides the best erosion protection, preventing sand, dirt, and other harmful items from reaching the core.
+
+What happen in case of a surge is detected in flight or during take-off? (Level 3)
+@@Igniters will be powered until 30 seconds after the surge recovers
+Only one igniter will be powered, the other will be hot standby
+Igniters will be powered and cut-off immediately after the surge recovers
+
+Air Starter used oil for cooling and lubricating from… ? (Level 3)
+Starter lubricating system
+@@Engine Lubricating system.
+IDG lubricating system
+
+The FADEC consists of? (Level 3)
+EEC and PHMU
+EEC, PHMU and sensors
+@@EEC, PHMU, sensors and output drivers
+
+What is the normal engine throttle cruise detent point? (Level 2)
+@@CL
+FLX/MCT
+TOGA
+
+The Fan Drive Gear System (FDGS) is made up of: (Level 2)
+A central gear surrounded by three star gears which are supported by journal bearings
+@@A central sun gear surrounded by five star gears which are supported by journal bearings and an outer ring gear
+A central sun gear surrounded by five star gears which are supported by an outer ring gear
+
+The primary structure of the PW1100G-JM engine are: (Level 2)
+FIC ( Fan Intermadiate Case) and TIC ( Turbine Intermediate Case)
+@@CIC ( Compressor Intermediate Case) and TEC ( Turbine Exhaust Case)
+Fan case and TIC ( Turbine Intermediate Case)
+
+The fan rotational speeds being lower (Level 1)
+@@Helps in reducing rotational loads and bird strike fan damage.
+Helps in increasing rotational loads and bird strike fan damage.
+Helps in reducing rotational loads.
+
+The inlet cone is made of composite material and is anti-iced with a continuous airflow from (Level 1)
+The HP compressor stage
+@@The 2.5 compressor stage
+The ram air inlet
+
+Identify the number of blades in one engine fan set? (Level 1)
+Thirty six (36)
+@@Twenty (20)
+Twenty two (22)
+
+How many type of Engine main bearings : (Level 1)
+Three types of bearing: Roller bearing with alignment and load: axial; Ball bearing and Tapered roller bearing with alignment and load: axial and radial
+@@Three types of bearing: Roller bearing with alignment and load: radial; Ball bearing and Tapered roller bearing with alignment and load: axial and radial
+Three types of bearing: Roller bearing with alignment and load radial; Ball bearing and Tapered roller bearing with alignment and load axial
+
+The normal duty cycle of starter of the engine PW1100G is: (Level 1)
+@@Three attempts with 35 seconds cooling period between two attempts and total cumulative time is less than 15 min.
+Three attempts , each attempt last less than 3 minutes with 35 seconds cooling period between two attempts .
+Three attempts , each attempt last less than 5 minutes with 35 seconds cooling period between two attempts .
+
+The engine oil quantity parameters are displayed on? (Level 1)
+The Lower ECAM engine page
+@@The Lower ECAM engine page or Cruise page
+The Upper ECAM
+
+The FDGS permits the LPC to rotate at a higher speed and (Level 1)
+@@Helps in reducing the fan rotating speed .
+Helps in increasing the fan rotating speed .
+Helps in remaining the fan rotating speed constant.
+
+For PW 1130 Engine, The Starter Air oil system is: (Level 3)
+Independent
+@@Using with Engine Oil System
+Using IDG Oil System
+
+What is Integrated fuel pump and control (IFPC) for? (Level 3)
+IFPC supplies metered fuel flow to the engine as scheduled by the EEC
+IFPC supplies pressurized fuel to engine component actuators
+@@Both answer are correct
+
+How is the Return-to-Tank (RTT) valve controlled? (Level 3)
+@@By the EEC and is actuated based on aircraft altitude, ambient temperature, and fuel flow.
+By the PHMU and is actuated based on fuel temperature.
+By the EIU and is actuated based on fuel temperature.
+
+For PW 1130 Engine, When slats are extended, can you fully open reverser cowls? (Level 3)
+Yes
+@@No, you must not open the reverser cowl  when the slats are extended
+Yes, if open by hand
+
+The PW110G Engine rating adjusted by: (Level 1)
+MCDU.
+@@DSU.
+Cannot be adjusted.
+
+The fan speed (Nf) speed sensors send signals direct to (Level 1)
+The PHMU &EEC.
+The PHMU.
+@@The EEC .
+
+The LPCompressor has how many stages? (Level 1)
+Only one stage
+Two stages
+@@Three stages
+
+The collected fuel remains in ecology collector tank is drawn back into fuel system when? (Level 3)
+@@Next engine start up
+Last engine shut down
+Aircraft is energized
+
+The fuel used indication is reset to Zero: (Level 2)
+Five minutes after engine shut down
+After a new take-off
+@@At each engine start
+
+What is 5 major function of air system on PW1100G? (Level 3)
+1. increase engine operability and stability,
+2. reduce noise from engine
+3. cool engine parts
+4. improve fuel effiency,
+5. remove ingested debris from the airstream.
+6. supply bleed air for ESC
+7. pressurize and seal bearing compartments
+1, 2, 3, 4, 5
+@@1, 3, 4, 5, 7
+1, 3, 4, 6, 7
+
+What is the function of the PHMU (Prognostics and Health Management Unit)? (Level 3)
+@@To monitor engine oil debris and FDGS lubrication. Also to calculates engine vibration and fan trim balance solutions.
+To predict the engine future malfunctions
+To back up EEC operation.
+
+The EEC will abort a start, will not dry motor the engine and will not attempt a restart if  (Level 3)
+@@the starter duty cycle is exceeded.
+EEC unable to control fuel flow.
+N 1 locked rotor.
+
+To minimize the build-up of carbon in the combustion chamber and to reduces toxic gas emissions at engine shutdown: (Level 3)
+Remaining fuel from the primary and secondary lines is collected and discharged overboad through drain mast.
+Remaining fuel from the primary and secondary lines is purged into combustion chamber.
+@@Remaining fuel from the primary and secondary lines is drained and collected in recovery tank and reused at next startup.
+
+What is the N2 speed sensor located on? (Level 2)
+Main Gearbox
+N2
+@@Angle Gearbox
+
+Which component divides the fuel to primary and secondary manifold? (Level3)
+Fuel Metering Valve.
+@@Fuel Divider Valve.
+Pressure Regulating Valve.
+
+Fan Drive Gear System (FDGS) basically is: (Level 3)
+Worm gearbox
+Differential gearbox
+@@Planetary gearbox
+
+How to improve engine startup performance by the HPC Air System? (Level 3)
+By 2.5 bleed air valve
+@@By two HPC bleed valves
+By three HPC bleed valve
+
+The engine rotor comprises (Level 1)
+@@A single stage fan rotor, 3 stage LP Compressor,8 stage HP Compressor,2 stage HP turbine and 3 stage Lp turbine.
+A single stage fan rotor, 3 stage LP Compressor,9 stage HP Compressor,2 stage HP turbine and 3 stage Lp turbine.
+A single stage fan rotor, 4 stage LP Compressor,8 stage HP Compressor,2 stage HP turbine and 3 stage Lp turbine.
+
+What does the FMGC compute? (Level 1)
+N1 limit
+@@N1 target
+N1 command

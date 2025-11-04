@@ -1,3 +1,8 @@
+The nacelle anti-ice valves are 
+@@Electrical controlled & pneumatically operated
+Electrical controlled & operated
+Pneumatically controlled and operated
+
 To dispatch aircraft under failure of two engine anti-ice valves?  
 Deactivate the valves in open position through the manual override mechanism
 @@Deactivate the valves in closed position through the manual override mechanism

@@ -696,5 +696,5 @@ A single stage fan rotor, 4 stage LP Compressor,8 stage HP Compressor,2 stage HP
 What does the FMGC compute? (Level 1)
 N1 limit
 @@N1 target
-
 N1 command
+

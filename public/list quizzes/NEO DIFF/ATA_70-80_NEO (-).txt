@@ -648,14 +648,7 @@ Five minutes after engine shut down
 After a new take-off
 @@At each engine start
 
-What is 5 major function of air system on PW1100G? (Level 3)
-1. increase engine operability and stability,
-2. reduce noise from engine
-3. cool engine parts
-4. improve fuel effiency,
-5. remove ingested debris from the airstream.
-6. supply bleed air for ESC
-7. pressurize and seal bearing compartments
+What is 5 major function of air system on PW1100G? (Level 3)\n1. increase engine operability and stability,\n2. reduce noise from engine\n3. cool engine parts\n4. improve fuel effiency,\n5. remove ingested debris from the airstream.\n6. supply bleed air for ESC\n7. pressurize and seal bearing compartments
 1, 2, 3, 4, 5
 @@1, 3, 4, 5, 7
 1, 3, 4, 6, 7
@@ -703,4 +696,5 @@ A single stage fan rotor, 4 stage LP Compressor,8 stage HP Compressor,2 stage HP
 What does the FMGC compute? (Level 1)
 N1 limit
 @@N1 target
+
 N1 command

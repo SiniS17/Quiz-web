@@ -10,28 +10,28 @@ The engine will shut down.
 The discharge of each bottle is active.
 
 The Engine fire bottles are located: (Level 2)
- On the engine fan case.
-In the Pylon.
-@@On the Pylon.
+On the engine fan case.
+@@In the Pylon.
+On the Pylon.
 In the air conditioning bay.
 
 Lavatory fire extinguishing is performed by? (Level 2)
-Portable extinguishers.
+@@Portable extinguishers.
 Fire bottles.
 Waste bin fire extinguishers.
-@@Automatically.
+Automatically.
 
 What is the difference between the CEO and NEO engine fire bottles? (Level 2)
-Different part number.
+@@Different part number.
 They are the same.
 NEO uses one bottle.
-@@The CEO ones are smaller.
+The CEO ones are smaller.
 
 How many fire extinguishing bottles provide for cargo compartment? (Level 2)
 One.
-An optional system includes two bottles.
+@@An optional system includes two bottles.
 Three.
-@@Four.
+Four.
 
 How many fire extinguishing bottles installed on each engine? (Level 1)
 @@2 fire bottles installed in the pylon.
@@ -41,13 +41,13 @@ How many fire extinguishing bottles installed on each engine? (Level 1)
 
 The lavatory smoke detection system is monitored by: (Level 3)
 FWC to give an alert to the flight crew.
-The SDF integrated in the CIDS.
+@@The SDF integrated in the CIDS.
 DEU B.
-@@Both B and C.
+Both B and C.
 
 Where is the APU fire extinguishing bottle located? (Level 1)
-In the aft fuselage forward of the APU firewall.
-@@In the forward fuselage of the APU firewall.
+@@In the aft fuselage forward of the APU firewall.
+In the forward fuselage of the APU firewall.
 The APU compartment.
 None of above.
 
@@ -58,9 +58,9 @@ in the ventilation extraction duct.
 On the air conditioning recirculation duct.
 
 The avionics smoke detector is monitored by: (Level 2)
-@@Fire Detection Unit (FDU).
-Avionics Equipment Ventilation Computer (AEVC).
- The SDF integrated in the CIDS.
+Fire Detection Unit (FDU).
+@@Avionics Equipment Ventilation Computer (AEVC).
+The SDF integrated in the CIDS.
 FWC to give an alert to the flight crew.
 
 The Test Fire Push buttons on overhead are used to do: (Level 3)

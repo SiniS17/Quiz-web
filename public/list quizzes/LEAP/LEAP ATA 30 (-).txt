@@ -12,34 +12,34 @@ EEC is detected.
 All of above.
 
 On CFM- LEAP hot air is supplied to each engine air intake from HP Compressor (HPC) bleed: (Level 1)
-7th stage.
+@@7th stage.
 6th stage.
 5th stage.
-@@All of above.
+All of above.
 
 What is the position of the PRSOV when solenoid is energized? (Level 3)
-Closed.
+@@Closed.
 Regulating.
-@@Open.
+Open.
 Fully open.
 
 What does the green ENG A/ICE message on ECAM tell you? (Level 2)
 ENG A/I is inhibited.
-@@Both ENG A/I are set to ON.
-At least one ENG A/I is set to ON.
+Both ENG A/I are set to ON.
+@@At least one ENG A/I is set to ON.
 ENG Master SW ON.
 
 The Engine air intake ANTI-ICE VALVE is: (Level 1)
-Pneumatically operated, electrically controlled.
-@@Pneumatically controlled and electrically operated.
+@@Pneumatically operated, electrically controlled.
+Pneumatically controlled and electrically operated.
 Electrically controlled and operated.
 By solenoid valve.
 
 If the Engine air intake ANTI-ICE solenoid valve loss of electrical power, its will be: (Level 2)
-@@Closed.
+Closed.
 Opened.
 Nothing happen.
-Fully open.
+@@Fully open.
 
 In case of failure, the aircraft may be dispatched per Minimum Equipment List with the RH WING anti-ice valve deactivated? (Level 2)
 NO.
@@ -50,8 +50,8 @@ Nothing happen when deactivated in the OPEN position or either valve in the CLOS
 On CFM LEAP In case of failure, the Aircraft may be dispatched as per Master Minimum Equipment List (MMEL) with one ENGINE anti-ice valve deactivated in the OPEN position through: (Level 2)
 Only the Manual Override mechanism on the valve itself.
 Via the CFDS Special Functions menu.
-@@Open REV cowl to access.
-The Manual Override mechanism on the valve itself or via the EEC CFDS Special Functions menu.
+Open REV cowl to access.
+@@The Manual Override mechanism on the valve itself or via the EEC CFDS Special Functions menu.
 
 How many Pressure Regulated Shut-Off Valves (PRSOVs) on each Leap Engine? (Level 1)
 One.
@@ -67,6 +67,6 @@ LH probes will be heated.
 
 The EEC controls the PRSOV's operation. (Level 2)
 PRSOV 1 is controlled by EEC A.
-@@PRSOV 1&2 are controlled by EEC.
+PRSOV 1&2 are controlled by EEC.
 PRSOV 2 is controlled by EEC B.
-Both A & C.
+@@Both A & C.

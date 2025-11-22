@@ -1,0 +1,70 @@
+CFM Leap detectors are located: (Level 1)
+@@Around the AGB, around ventilation exit grid of the fan compartment, around turbine and at the pylon (above the combustion chamber).
+Around the AGB, and at the pylon (above the combustion chamber), around ventilation exit grid of the fan compartment.
+Around the AGB, without around ventilation exit grid of the fan compartment.
+
+When the Engine FIRE pushbutton is released out: (Level 3)
+The Apu will shut down.
+The engine will shut down.
+@@The engine will shut down and this also arms the extinguishing system.
+The discharge of each bottle is active.
+
+The Engine fire bottles are located: (Level 2)
+ On the engine fan case.
+In the Pylon.
+@@On the Pylon.
+In the air conditioning bay.
+
+Lavatory fire extinguishing is performed by? (Level 2)
+Portable extinguishers.
+Fire bottles.
+Waste bin fire extinguishers.
+@@Automatically.
+
+What is the difference between the CEO and NEO engine fire bottles? (Level 2)
+Different part number.
+They are the same.
+NEO uses one bottle.
+@@The CEO ones are smaller.
+
+How many fire extinguishing bottles provide for cargo compartment? (Level 2)
+One.
+An optional system includes two bottles.
+Three.
+@@Four.
+
+How many fire extinguishing bottles installed on each engine? (Level 1)
+@@2 fire bottles installed in the pylon.
+1 fire bottle installed in the pylon.
+2 fire bottles installed in the fan cowl.
+2 fire bottles installed for both engines.
+
+The lavatory smoke detection system is monitored by: (Level 3)
+FWC to give an alert to the flight crew.
+The SDF integrated in the CIDS.
+DEU B.
+@@Both B and C.
+
+Where is the APU fire extinguishing bottle located? (Level 1)
+In the aft fuselage forward of the APU firewall.
+@@In the forward fuselage of the APU firewall.
+The APU compartment.
+None of above.
+
+Where is avionics smoke detector installed? (Level 2)
+@@In the avionics compartment in the ventilation extraction duct.
+In the avionics compartment.
+in the ventilation extraction duct.
+On the air conditioning recirculation duct.
+
+The avionics smoke detector is monitored by: (Level 2)
+@@Fire Detection Unit (FDU).
+Avionics Equipment Ventilation Computer (AEVC).
+ The SDF integrated in the CIDS.
+FWC to give an alert to the flight crew.
+
+The Test Fire Push buttons on overhead are used to do: (Level 3)
+Test fire extinguisher bottles.
+Test fire detection and extinguishing systems.
+@@Tests on the different fire detection and extinguishing systems and make sure they operate correctly.
+All of above.

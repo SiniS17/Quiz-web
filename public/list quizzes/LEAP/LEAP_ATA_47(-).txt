@@ -1,0 +1,72 @@
+What is the function of the Fuel Tank Inerting System (FTIS)?
+To reduce the rate of oxygen in the wing tanks.
+@@To reduce the rate of oxygen in the center tank.
+To increase oxygen air within the center tank.
+To increase carbon dioxide air within the center tank.
+
+How many sub-system does the Fuel Tank Inerting System have?
+1
+@@2
+3
+4
+
+What is created by Air Separation Module (ASM) after it filters the conditioned air stream?
+Nitrogen Enriched Air (NEA).
+Oxygen Enriched Air (OEA).
+@@Both of them.
+None of them.
+
+Where does the Conditioned Service Air System (CSAS) get air supply from?
+@@Engine bleed air system.
+Air-conditioning air system.
+Excess cabin air.
+Ram air from outside.
+
+Which is wrong about the IGGS isolation valve?
+It is a solenoid valve.
+It is spring-loaded closed.
+It is controlled by ICU.
+@@It is located after ASM.
+
+What is NOT conditioned in the air from CSAS?
+Temperature.
+Pressure.
+@@Quantity of oxygen.
+Quantity of ozone.
+
+What is the last valve before air goes into fuel tank?
+@@Dual flapper check valve.
+Dual flow shut off valve.
+IGGS isolation valve.
+CSAS isolation valve.
+
+What is the primary bleed source of CSAS?
+@@Engine 1.
+Engine 2.
+APU.
+Ground cart.
+
+What does the CSAS isolation valve protect the system from?
+Low pressure.
+Over pressure.
+@@Low temperature.
+Over temperature.
+
+The CSAS heat exchanger decreased the air temperature to about?
+40 +/-4 °C.
+50 +/-5 °C.
+@@60 +/-6 °C.
+70 +/-7 °C.
+
+In which flight phase will the status message “INERTING SYSTEM FAULT” come into view only?
+@@1 and 10.
+5 and 6.
+6 and 7.
+All phase.
+
+The ICU closes the IGGS isolation valve and the DFSOV when the oxygen rate after ASM higher than?
+6%.
+8%.
+10%.
+@@12%.
+

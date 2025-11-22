@@ -1,0 +1,80 @@
+Which A/C the lowest fuel consumption? (Level 1)
+@@A319
+A320
+A321
+A320 and A321
+
+
+For A/C A319/A320/A321, what is A/C longer?
+The same
+A319
+A320
+@@A321
+
+The A319, A320 and A321 (A320 family) are: (Level 1)
+@@Single Aisle, twin-engine subsonic medium range aircraft,
+Single Aisle, twin-engine subsonic short range aircraft,
+Double Aisle, four-engine subsonic long range aircraft.
+Double Aisle, twin-engine subsonic medium range aircraft.
+
+
+How many jacking points equipped with jacking pads are used to lift the aircraft?(Level 1)
+Two,
+@@Three,
+Four.
+Five.
+
+
+When you work on aircraft, make sure that you obey all the: (Level 1)
+@@AMM safety procedures,
+Team leader ordered,
+Instruction of experience person.
+Director
+
+
+In the AMM tasks, “WARNING” is mean: (Level 1)
+@@Calls attention to use of materials, processes, methods, procedures or limits which must be followed precisely to avoid injury of death to persons
+Calls attention to methods and procedures which be followed to avoid damage to equipment
+Calls attention to methods which make the job easier or provide supplementary or explanatory information
+Information required for trouble shooting is contained in the manual.
+
+
+In the AMM tasks, “CAUTION” is mean: (Level 1)
+Calls attention to use of materials, processes, methods, procedures or limits which must be followed precisely to avoid injury of death to persons
+@@Calls attention to methods and procedures which be followed to avoid damage to equipment
+Calls attention to methods which make the job easier or provide supplementary or explanatory information
+Information required for trouble shooting is contained in the manual.
+
+
+The captain and first officer seats can be: (Level 1)
+@@Adjustable seats
+Not adjustable seats
+Folding seat
+Folding and adjustable seats
+
+
+The reference (station 0) for all structural measurements in the X axis is located. (Level 1)
+At the rib 1 of the aircraft.
+@@100 in (254cm) forward of aircraft nose.
+251.2 in. (638.2 cm) forward of the aircraft nose.
+73.54 in (186.8 cm) forward of the aircraft nose.
+
+
+What is the Sharklet purpose? (Level 1)
+Less fuel burn, revenue payload increased, lower initial cruise altitude, higher available takeoff weight
+Less fuel burn, revenue payload decreased, higher initial cruise altitude, lower takeoff noise
+@@Less fuel burn, revenue payload increased, higher availble takeoff weight, lower take off noise
+More fuel burn, revenue payload decreased, higher initial cruise altitude, lower takeoff noise
+
+
+Which range for A320 NEO family range is? (level 1)
+3700 Nm and 4200 Km
+4200 Km and 3700 Km
+@@3700 Nm and 4200 Nm
+3700 Km and 4200 Km
+
+Where are the Master Warning and the Master Caution lights located?(Level 1)
+Overhead panel
+@@Glareshield
+Main instrument panel
+Center pedestal

@@ -1,0 +1,72 @@
+When one BMC fails?
+@@Remaining BMC can control & monitor both sides.
+Related PRV close.
+Related PRV open.
+Remaining BMC fail accordingly.
+
+Which channel in the BMC is the hard-wired back-up?
+Channel A back up.
+Channel A main.
+@@Channel B.
+Both channel A and channel B.
+
+Which stage of the engine High Pressure Compressor is the Intermediate Pressure Check Valve connected to?
+@@4
+7
+10
+None of them.
+
+Which type of loop is in protected areas?
+Single loop at pylon, dual loop at wing, single loop at APU.
+Dual loop at pylon, single loop at wing, single loop at APU.
+Single loop at pylon, dual loop at wing, dual loop at APU.
+@@Dual loop at pylon, dual loop at wing, single loop at APU.
+
+Where is the engine Pressure Regulating Valve located on?
+@@Right hand side.
+Left hand side.
+Top of core engine.
+Bottom of core engine.
+
+Which stage of the engine High Pressure Compressor is the High Pressure Valve connected to?
+4
+7
+@@10
+None of them.
+
+From which altitude will the Bleed Monitoring Computer close the High Pressure Valve?
+30000 feet.
+@@25000 feet.
+20000 feet.
+15000 feet.
+
+The Over Pressure Valve will start to close at … PSI and is fully closed at… PSI?
+75 – 120.
+@@75 – 90.
+50 – 90.
+50 – 120.
+
+Which sensor provides the position indication of the Pressure Regulating Valve and the Over Pressure Valve to the Bleed Monitoring Computer?
+Bleed Monitoring Pressure Sensor.
+Bleed Pressure Sensor.
+@@Differential Pressure Sensor.
+All of them.
+
+Where is the APU loop connected to?
+@@BMC 1 only.
+BMC 2 only.
+Both BMC 1 and BMC 2.
+None of BMC 1 or BMC 2.
+
+Which alert/warning has been newly introduced on the A320 neo?
+AIR ENG 1(2) BLEED LEAK.
+AIR L(R) WING LEAK.
+@@AIR BLEED LEAK.
+AIR APU BLEED LEAK.
+
+When is the BMC Electrical Test only available?
+Aircraft is on ground.
+Engines are off.
+APU or ground cart is not bleeding.
+@@All of them.
+

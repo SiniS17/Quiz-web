@@ -1,0 +1,74 @@
+For A318, when is the fuel in the outer cell used?
+the fuel load in the center tank decreases to a low level.
+the fuel load in the inner cells decreases to 500 kg.
+@@the fuel load in the inner cells decreases to a low level.
+the fuel load in the inner cells decreases to underfull level.
+
+For enhance system, the jet pumps is replace for:
+Wing pumps.
+@@Center pumps.
+Jet pumps are not applied for fuel supply system.
+Both of A and B.
+
+The fuel system also feeds the APU directly:
+@@from the left side.
+from the right side.
+from the left side and right side.
+from the left side or right side.
+
+When the APU FIRE pushbutton is released out:
+@@The related APU Low Pressure (LP) valve is closed immediately. 
+The related APU Low Pressure (LP) valve is closed after 150 seconds.
+The related APU Low Pressure (LP) valve is closed after 200 seconds.
+The related APU Low Pressure (LP) valve is not closed. 
+
+The fuel tanks are vented into:
+@@The vent surge tanks.
+The cabin.
+The cargo.
+Outer tank.
+
+Which tank is emptied first?
+@@Center tank.
+Wing tank.
+Inner tank.
+Outer tank.
+
+From the Engine, recirculated fuel returns to:
+@@Wing tank.
+Center tank.
+Dry tank.
+Vent surge tank.
+
+Refuel valves may be controlled: 
+By refuel pressure.
+Electrically only.
+Manually only.
+@@Electrically or manually.
+
+What does the fuel MODE SEL pushbutton control ? 
+Center and wing tank pumps.
+@@Center tank pumps only.
+Wing tank pumps only.
+Pumps and valves operation.
+
+When does the PROPULSION CONTROL SYSTEM (PCS) close the fuel return valve? 
+@@With a signal from the FLSCU.
+With a signal from the FQIC.
+If the IDG oil is too hot.
+With an outer cell overfilling.
+
+What happens when low level is detected in the inner cell? 
+@@Inner cell transfer valves open.
+Inner cell transfer valves close to isolate the inner cells.
+Pumps restart to suck fuel from outer cells.
+Fuel direct supply from the outer cell to the engine.
+
+A pressure switch for each pump monitors a: 
+Pressure differential.
+Feed pipe pressurization.
+Pressure increase.
+@@Loss of pressure.
+
+
+

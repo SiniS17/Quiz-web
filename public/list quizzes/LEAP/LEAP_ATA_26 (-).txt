@@ -1,0 +1,175 @@
+CFM Leap detectors are located: (Level 1)
+@@Around the AGB, around ventilation exit grid of the fan compartment, around turbine and at the pylon (above the combustion chamber).
+Around the AGB, and at the pylon (above the combustion chamber), around ventilation exit grid of the fan compartment.
+Around the AGB, without around ventilation exit grid of the fan compartment.
+
+When the Engine FIRE pushbutton is released out: (Level 3)
+The Apu will shut down.
+The engine will shut down.
+@@The engine will shut down and this also arms the extinguishing system.
+The discharge of each bottle is active.
+
+The Engine fire bottles are located: (Level 2)
+On the engine fan case.
+@@In the Pylon.
+On the Pylon.
+In the air conditioning bay.
+
+Lavatory fire extinguishing is performed by? (Level 2)
+@@Portable extinguishers.
+Fire bottles.
+Waste bin fire extinguishers.
+Automatically.
+
+What is the difference between the CEO and NEO engine fire bottles? (Level 2)
+@@Different part number.
+They are the same.
+NEO uses one bottle.
+The CEO ones are smaller.
+
+How many fire extinguishing bottles provide for cargo compartment? (Level 2)
+One.
+@@An optional system includes two bottles.
+Three.
+Four.
+
+How many fire extinguishing bottles installed on each engine? (Level 1)
+@@2 fire bottles installed in the pylon.
+1 fire bottle installed in the pylon.
+2 fire bottles installed in the fan cowl.
+2 fire bottles installed for both engines.
+
+The lavatory smoke detection system is monitored by: (Level 3)
+FWC to give an alert to the flight crew.
+@@The SDF integrated in the CIDS.
+DEU B.
+Both B and C.
+
+Where is the APU fire extinguishing bottle located? (Level 1)
+@@In the aft fuselage forward of the APU firewall.
+In the forward fuselage of the APU firewall.
+The APU compartment.
+None of above.
+
+Where is avionics smoke detector installed? (Level 2)
+@@In the avionics compartment in the ventilation extraction duct.
+In the avionics compartment.
+in the ventilation extraction duct.
+On the air conditioning recirculation duct.
+
+The avionics smoke detector is monitored by: (Level 2)
+Fire Detection Unit (FDU).
+@@Avionics Equipment Ventilation Computer (AEVC).
+The SDF integrated in the CIDS.
+FWC to give an alert to the flight crew.
+
+The Test Fire Push buttons on overhead are used to do: (Level 3)
+Test fire extinguisher bottles.
+Test fire detection and extinguishing systems.
+@@Tests on the different fire detection and extinguishing systems and make sure they operate correctly.
+All of above.
+
+How many fire extinguisher bottles for cargo extinguishing system of A319?
+@@1
+2
+3
+
+Where Fire extinguisher bottle for cargo extingushing system of A319 is installed?
+@@From the FWD cargo compartment
+From the AFT cargo compartment
+From the BULK cargo compartment
+
+How do you know drop pressure of the cargo fire extinguisher bottle?
+@@In case of bottle pressure drop, the SDCU sends signals to the ECAM and CFDS.
+Must check indication on the Bottle
+Must remove the botlle and weighing.
+
+For enhance System, the smoke detection function is of:
+FWC
+CFDIU
+@@CIDS
+
+How many smoke detectors are installed on A319 AFT cargo compartment?
+1
+@@2
+3
+
+A320 AFT cargo compartment have 2 smoke detectors, if only one cargo smoke detector detects smoke and SDCU checks find secondary smoke detector operate normally, what happen?
+@@There is no SMOKE warning in the cockpit
+The SMOKE warnings are activated
+Cargo fire extinguisher bottle discharge automatically.
+
+For enhance CIDS, if SDF detects smoke in the LAV:
+The page FAP will come up automatically on the FAP regardless of any other previous selected page
+Have massege on ECAM
+@@The “A red indication SMOKE DETECTED on the Flight Attendant Panel (FAP)” will come up automatically on the FAP regardless of any other previous selected page and have massege on ECAM
+
+For enhance CIDS, In case of smoke detected in the Lavatory, If smoke is no longer detected, how reset warning?
+@@pushing the Smoke Reset button on the FAP touchscreen
+pushing the SMOKE RESET hard key on the FAP subpanel
+Reset CB of CIDS directors
+
+For enhance CIDS, cargo smoke detector is:
+@@Connect direct to SDF in director by CAN BUS
+Connect to SDF in director via lavatory smoke detector
+Connect direct to FWC
+
+For classic CIDS, cargo smoke detector is
+Connect direct to SDF in director by CAN BUS
+@@Connect to SDCU in director via lavatory smoke detector
+Connect direct to FWC
+
+The engine fire protection is fulfilled by:
+The FIRE detection system only
+@@The FIRE detection system and the FIRE extinguishing system
+The FIRE extinguishing system only
+
+How many fuel pumps are installed on center tank of A319?
+1
+@@2
+3
+
+For A319, when is the fuel in the outer cell used?
+the fuel load in the center tank decreases to a low level
+the fuel load in the inner cells decreases to 500 kg
+@@the fuel load in the inner cells decreases to a low level
+
+When the engine FIRE pushbutton is released out:
+@@The related Engine Low Pressure (LP) valve is closed immediately.
+The related Engine Low Pressure (LP) valve is closed after 150 seconds
+The related Engine Low Pressure (LP) valve is closed after 200 seconds
+
+For enhance system, the jet pumps is replace for:
+Wing pumps
+@@Center pumps
+Jet pumps are not applied for fuel supply system.
+
+The fuel system also feeds the APU directly:
+@@from the left side
+from the right side
+from the left side and right side
+
+When the APU FIRE pushbutton is released out:
+@@The related APU Low Pressure (LP) valve is closed immediately.
+The related APU Low Pressure (LP) valve is closed after 150 seconds
+The related APU Low Pressure (LP) valve is closed after 200 seconds
+
+For A321, the wing tanks are:
+@@not divided
+divided to inner cell and outer cell
+not divided between center tank and wing tank
+
+The fuel tanks are vented into:
+@@The vent surge tanks.
+The cabin.
+The cargo
+
+Which tank is emptied first?
+@@Center tank
+Wing tank(A321)
+Inner tank(A320)
+
+From the Engine, recirculated fuel returns to:
+@@Wing tank
+Center tank
+Dry tank

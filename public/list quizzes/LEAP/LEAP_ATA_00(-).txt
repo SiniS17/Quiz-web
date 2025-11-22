@@ -78,3 +78,54 @@ Overhead panel
 @@Glareshield
 Main instrument panel
 Center pedestal
+
+ATA 00
+Which A/C the lowest fuel consumption?
+@@A319
+A320
+A321
+
+For A/C A319/A320/A321, what is A/C higher?
+The same
+A319
+@@A321
+
+The A319, A320 and A321 (A320 family) are:
+@@Single Aisle, twin-engine subsonic medium range aircraft,
+Single Aisle, twin-engine subsonic short range aircraft,
+Double Aisle, four-engine subsonic long range aircraft.
+
+How many jacking points equipped with jacking pads are used to lift the aircraft?
+Two,
+@@Three,
+Four.
+
+When you work on aircraft, make sure that you obey all the:
+@@AMM safety procedures,
+Team leader ordered,
+Instruction of experience person.
+
+In the AMM tasks, “WARNING” is mean:
+@@Calls attention to use of materials, processes, methods, procedures or limits which must be followed precisely to avoid injury of death to persons
+Calls attention to methods and procedures which be followed to avoid damage to equipment
+Calls attention to methods which make the job easier or provide supplementary or explanatory information
+
+The captain and first officer seats can be:
+Controlled electrically only.
+Controlled mechanically only.
+@@Controlled either electrically or mechanically.
+
+Access doors and panels are identified by:
+@@The number of the zone in which the panel is located followed by a two-letter suffix.
+The number of the zone in which the panel is located followed by one letter suffix.
+A two-letter followed by the number of the zone in which the panel is located suffix.
+
+The reference (station 0) for all structural measurements in the X axis is located.
+At the rib 1 of the aircraft.
+@@100 in (254cm) forward of aircraft nose.
+2 in. (638.2 cm) forward of the aircraft nose.
+
+The station number is:
+@@The distance in millimeters of a cross section from a reference point.
+The distance in inches of a cross section from a reference point.
+The distance in millimeters of a cross section from the A/c axis.

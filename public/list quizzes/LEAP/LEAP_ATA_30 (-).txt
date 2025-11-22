@@ -70,3 +70,23 @@ PRSOV 1 is controlled by EEC A.
 PRSOV 1&2 are controlled by EEC.
 PRSOV 2 is controlled by EEC B.
 @@Both A & C.
+
+CFM LEAP-1A Engine Nacelle Anti - Ice, the hot air leak detection is done by:
+Two pressure transduce
+@@A dual temperature sensor
+One pressure sensor and one temperature sensor
+
+For CFM LEAP-1A Engine, Hot air for the Nacelle anti - ice system is supply by:
+A dedicated HPC 4th Stage bleed
+@@A dedicated HPC 7th Stage bleed
+A dedicated HPC 10th Stage bleed
+
+How many Engine Anti – Ice Pressure Regulating Shut-Off Valve (PRSOV) installed on each CFM-LEAP-1A Engine?
+1
+@@2
+3
+
+For CFM LEAP-1A Engine, When the Engine Anti – Ice Pressure Regulating Shut-Off Valve (PRSOV) has failed
+@@PRSOV can be manual set locked in open position
+PRSOV not can be manual set in locked position
+PRSOV automatic set in locked position

@@ -70,3 +70,22 @@ Engines are off.
 APU or ground cart is not bleeding.
 @@All of them.
 
+For CFM LEAP-1A Engine, when one BMC has failed
+@@Remain BMC can control & monitor both side
+Related PRV close
+Related PRV open
+
+For CFM LEAP-1A Engine, the position of the Engine Bleed Air System valve is monitored by:
+Valve position switch
+@@Pressure sensor
+Temperature sensor
+
+When APU bleed P/W is selected ON with cross bleed selector in Auto position, the lower ECAM BLEED page indicates:
+@@APU bleed valve open then the cross bleed valve open
+APU bleed valve open but the cross bleed valve not open
+The cross bleed valve opens then APU bleed valve open
+
+For CFM LEAP-1A Engine, HPV is:
+@@Electric control and Bleed Pressure open
+Bleed Pressure control and open
+Electric control and open

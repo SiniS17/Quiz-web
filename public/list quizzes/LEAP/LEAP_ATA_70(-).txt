@@ -10,7 +10,7 @@ Both EECs are in control or active permanently
 The Standby EEC is never switch automatically
 EEC A and B with crosstalk, each EEC will control and active for some engine subsystem 
 
-For CFM – LEAP 1A Engine, with the throttle control lever in the idle stop position, the reserver can be set to: (Level 3)
+For CFM – LEAP 1A Engine, with the throttle controllever in the idle stop position, the reserver can be set to: (Level 3)
 Min reverse and Max reverse
 @@Reverse idle and Max reverse
 Reverse idle and continue reverse
@@ -40,7 +40,7 @@ EIU
 FADEC
 PMA
 
-For CFM – LEAP 1A Engine, where is Data Entry Plug (DEP) is located ? (Level 2)
+For CFM – LEAP 1A Engine, where is Data Entry Plug (DEP) is located? (Level 2)
 Function of FMGC
 @@On Engine
 In AFT Avionic Bay
@@ -52,7 +52,7 @@ Engine Master Lever or Throtlle Lever
 Engine Fire Push Button or Throttle Lever
 FADEC and EIU
 
-For CFM – LEAP 1A Engine, the fuel in the PPMe (pilot Primary/enriched manifold)  leg is monitored by : (Level 3)
+For CFM – LEAP 1A Engine, the fuel in the PPMe (pilot Primary/enriched manifold)  leg is monitored by: (Level 3)
 @@The Fuel pressure sensor
 The Fuel temprature sensor
 The Fuel flow meter
@@ -98,9 +98,9 @@ For CFM – LEAP 1A Engine, when an automatic start is manual aborted (Level 3)
 EEC controls to dry motor the Engine
 EEC controls to dry motor the Engine if N2 less than 10%
 @@EEC does not dry motor the Engine
-Have message « Abort start Engine XX » on ECAM
+Have message «Abort start Engine XX» on ECAM
 
-For CFM – LEAP 1A Engine,  how many cranking modes ? (Level 2)
+For CFM – LEAP 1A Engine,  how many cranking modes? (Level 2)
 1
 @@2
 3
@@ -112,13 +112,13 @@ The ENG MODE rotary selector is set to IGN/START and then to NORMAL
 ENG MAN START is set to ON
 ENG MASTER lever and MAN START is set to ON
 
-For CFM – LEAP 1A Engine, ECAM alert « ENG1 START FAULT- HOT START » when (Level 3)
+For CFM – LEAP 1A Engine, ECAM alert «ENG1 START FAULT- HOT START» when (Level 3)
 ENG 1 has fire dedected
 ENG1 EGT overlimit
 ENG 1 Manual start attempt fail, the start is aborted
 @@ENG 1 Auto start attempt fail, the start is aborted
 
-For CFM – LEAP 1A Engine, ECAM alert « ENG1 START FAULT- ENG1 IGNITION FAULT » when: (Level 3)
+For CFM – LEAP 1A Engine, ECAM alert «ENG1 START FAULT- ENG1 IGNITION FAULT» when: (Level 3)
 ENG 1 has fire dedected
 ENG1 EGT overlimit
 ENG 1 Manual start attempt fail, the start is aborted
@@ -219,5 +219,296 @@ Electrically operated and controlled
 Pneumatically controlled and operated
 @@Electrically controlled and hydraulically operated
 Electrically controlled and pnematically operated
+
+Function of a programming plug on the Electronic Engine Control (EEC) to:
+@@changes the available thrust
+identify P/N of EEC
+identify S/N of EEC
+
+Which is correct statement?
+The IAE V2500-A5 engine is a one spool, axial flow, high bypass ratio turbo fan power engine
+@@The IAE V2500-A5 engine is a two spool, axial flow, high bypass ratio turbo fan power engine
+The IAE V2500-A5 engine is a three spool, axial flow, high bypass ratio turbo fan power engine
+
+The thrust setting parameter (V2500) is:
+Engine Pressure Ratio in normal mode
+N1 in back up mode
+@@Both A and B
+
+For CEO A/C, The FADEC system consists of:
+A single EEC(ECU) with its peripherals for both engines
+@@A single EEC(ECU) with its peripherals per engine
+One main frame computer for all engines
+
+During Engine manual start, starter air valve (SAV) open when:
+Mode selector is set to IGN/START
+Master switch set to ON
+@@Engine MAN START push to ON
+
+For CFM LEAP-1A Engine FADEC system, each EEC A & B can control the Engine System, but:
+@@One EEC is control or active at a time
+Both EECs are in control or active permanently
+The Standby EEC is never switch automatically
+
+For CFM LEAP-1A Engine,The ENG Drain mast gives a leak path exit for hydraulic, oil and:
+@@Fuel component
+Reverser system actuators
+Permanent Magnet Altenator (PMA)
+
+For CFM LEAP-1A Engine, Aerodynamic strakes are installed on the follow side (s) of the Engine fancowls:
+Inboard side
+@@Outboard side
+Inboard and outboard side
+
+With the throttle controll lever in the idle stop position, the reserver can be set to:
+ Min reverse and Max reverse
+@@Reverse idle and Max reverse
+Reverse idle and continue reverse
+
+For CFM LEAP-1A Engine, the accessory drive section includes the following modules:
+Inside gear box (IGB), Transfer gear Box (TGB), and component gear box (CGB)
+TGB, Angle gear Box (AGB) and main gear box (MGB)
+@@IGB, TGB and accessory gear box
+
+For CFM LEAP-1A Engine, with the Ignition system of the engine is supply with power as follows:
+@@115 V from the A/C electrical system
+115 V from PMA
+115 V from PMA or 115 V from the A/C electrical system depend on N2 speed
+
+The ignition system has the following number of Ignition Exciter Boxes and Igniter Plugs:
+One Ignition Exciter Box and two Igniter plugs
+@@two Ignition Exciter Box and two Igniter plugs
+One Ignition Exciter Box and one Igniter plugs
+
+For CFM LEAP-1A Engine, the Ignition system is controlled by:
+@@EEC
+EIU
+PMA
+
+The CFM-LEAP1A Engine is:
+@@An axial fow, dual-rotor, variable staor and high bypass ratio power plant
+Two spool,  two axial flow, high bypass ratio turbo fan power plant
+Tri- spool,  two axial flow, high bypass ratio turbo fan power plant
+
+How many Fan Cowl Door latches are there on CFM-LEAP 1A?
+2
+@@3
+4
+
+How many Thrust Reverser cowl  Door latches are there on CFM-LEAP 1A?
+6
+7
+@@8
+
+A fan cowl loss prevention system is installed with:
+Mechanically with a flag only
+Electrcally monitored by proximity switches only
+@@Mechanically with a flag and Electrcally monitored by proximity switches
+
+Oil cooling system on CFM-LEAP1A has follwing component:
+Main Heat Exchanger only
+Surface air cooling oil cooler only
+@@Surface air cooling oil cooler and Main Heat Exchanger
+
+How many EIU are installed in A/C A320 Family NEO CFM-LEAP1A?
+@@2
+3
+4
+The Engine oil parameter is displayed on:
+Engine page only
+EWD and Engine page
+@@Engine page and Cruise page
+
+For CFM – LEAP 1A Engine, When slats are fully opned, can you full open reverser cowls?
+Yes
+@@Never
+Yes, if open by hand
+
+For CFM – LEAP 1A Engine, The Air Turbine Starter Air Oil System is:
+Independent
+@@Using with Engine Oil System
+Using IDG Oil System
+
+For CFM – LEAP 1A Engine, Engine drain system has:
+@@The fan zone drain mast, the core zone drain mast and the pylon drain tubes,
+The fan zone drain mast, the gear box drain mast and the rear drain tubes,
+The fan zone drain mast, the core zone drain mast and the gear box drain tubes,
+
+For CFM – LEAP 1A Engine, The fan zone drain mast drains of:
+@@Fuel, oil, hydraulic
+Fuel, oil, hyraulic, water,
+Fuel, oil, water.
+
+For CFM – LEAP 1A Engine, the Engine fan cowl door latches opening sequence is:
+L1 - L2 – L3
+@@L1 – L3 – L2
+L2 – L3 – L1
+
+For CFM – LEAP 1A Engine, the Engine fan cowl door latches closing sequence is:
+L1 – L2 – L3
+@@L2 – L3 – L1
+L1 – L3 – L2
+
+How many Fan cowl hold open rod/rods on each Engine fan cowl door?
+1
+@@2
+3
+
+Where is Data Entry plug is located?
+@@On Engine
+In Aft Avionic Bay
+In FWD Avionic Bay
+
+For CFM – LEAP 1A Engine, Fuel Low pressure Shut-Off Valve can be controlled close by:
+@@Engine Master Lever or Engine Fire Push Button
+Engine Master Lever or Throtlle Lever
+Engine Fire Push Button or Throttle Lever
+
+How many fuel nozzles are there on CFM-LEAP1A?
+17
+18
+@@19
+
+For CFM – LEAP 1A Engine, The fuel in the PPMe (pilot Primary/enriched manifold)  leg is monitored by:
+@@The Fuel pressure sensor
+The Fuel temprature sensor
+The Fuel flow meter
+
+The function of the Fuel Filter Differential Pressure (FFDP) sensor is:
+@@To detect if the Filter is partially or totally clogged
+To detect fuel leaking in the FMU
+To detect fuel leaking in the Main Heat Exchanger
+
+For CFM – LEAP 1A Engine, The function of the Pressure Sub-System (PSS) is:
+@@Receives engine air pressure measurements and convers them into electrical signals to both EECs for engine control and mornitoring
+Receives engine air pressure measurements and convers them into electrical signals to the active EEC for engine control and mornitoring
+Receives engine air pressure measurements and convers them into electrical signals to the standby EEC for engine control and mornitoring
+
+For CFM – LEAP 1A Engine, the function of Cross Channel Data Link (CCDL) is:
+@@To exchange data between the active EEC and the stanby EEC
+To exchange data between EIU and the active EEC
+To exchange data between EIU and the standby EEC
+
+For CFM – LEAP 1A Engine, the EECs are ventilated by:
+One blower
+@@Two blowers
+Fan air
+
+For CFM – LEAP 1A Engine, The PMA directly supplies each EEC uinit with:
+One- phase AC power
+@@Three- phases AC power
+28 VDC power
+
+For CFM – LEAP 1A Engine, 115 VAC supply to the Ignition Exciter is:
+@@A/C power to EIU and then to EEC to the Ignition Exciter
+A/C power to EIU and to the Ignition Exciter
+PMA to EIU and then to EEC to Ignition Exciter
+
+For CFM – LEAP 1A Engine, When an automatic start is manual aborted,
+@@EEC does not dry motor the Engine
+EEC controls to dry motor the Engine
+Have message «Abort start Engine XX» on ECAM
+
+How many cranking modes?
+1
+@@2
+3
+
+For CFM – LEAP 1A Engine, The EEC shall enter the automatics start mode when:
+@@Engine is not running and ENG MASTER lever is set to ON,
+The ENG MODE rotary selector is set to IGN/START and the to NORMAL
+ENG MAN START is set to ON
+
+For CFM – LEAP 1A Engine, N1 indication is shows on:
+@@EWD
+ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, N2 indication is shows on:
+@@EWD
+ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, VIB N1 indication shows on:
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, VIB N2 indication shows on:
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, ENG OIL Pressure indication shows on:
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, ENG OIL Quantity indication shows on:
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, ENG OIL Temprature indication  shows on:
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, Fuel Flow indication shows on:
+@@EWD
+ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, Fuel USED indication shows on:
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, ECAM alert «ENG1 START FAULT- HOT START» when:
+@@ENG 1 Auto start attempt fail, the start is aborted
+ENG 1 Manual start attempt fail, the start is aborted
+ENG 1 has fire dedected
+
+For CFM – LEAP 1A Engine, ECAM alert «ENG1 START FAULT- ENG1 IGNITION FAULT» when:
+@@ENG 1 Auto start attempt fail, the start is aborted
+ENG 1 Manual start attempt fail, the start is aborted
+ENG 1 has fire dedected
+
+For CFM – LEAP 1A Engine, N1 target is computed by:
+@@FMGC
+EEC
+EIU
+
+For CFM – LEAP 1A Engine, The predicted Max N1 is indicated by:
+@@A blue cycle on the N1 indicator
+A Red mark on the N1 indicator
+Max N1 number on the N1 indiator
+
+For CFM – LEAP 1A Engine, N1 rating limit is computed by:
+FMGC
+@@EEC
+EIU
+
+For CFM – LEAP 1A Engine, the N1 and N2 sensors are:
+@@LRU
+Not LRU
+The N1 sensor is LRU only
+
+For CFM – LEAP 1A Engine, the signal from the Oil Debris Monitoring Sensor (ODMS)  sends to:
+EEC
+@@ODMU
+EIU
+
+For CFM – LEAP 1A Engine, The MAX mark on the oil tanks is:
+20 Qts
+@@17 or 17.5 Qts
+22 Qts
+
+For CFM – LEAP 1A Engine, if Filler CAP of Engine Oil Tank not locked:
+Has a message on EWD
+Has a message on ENGINE ECAM SD
+@@No indication
+
+
 
 

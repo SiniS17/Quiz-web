@@ -1,0 +1,223 @@
+For CFM – LEAP 1A Engine, during Engine manual start, starter air valve (SAV) open when: (Level 2)
+Mode selector is set to IGN/START
+Master switch set to ON
+@@Engine MAN START push to ON
+EEC control depend on engine core temperature and cooling logic
+
+For CFM LEAP-1A Engine FADEC system, each EEC A & B can control the Engine System, but: (Level 2)
+@@One EEC is control or active at a time
+Both EECs are in control or active permanently
+The Standby EEC is never switch automatically
+EEC A and B with crosstalk, each EEC will control and active for some engine subsystem 
+
+For CFM – LEAP 1A Engine, with the throttle control lever in the idle stop position, the reserver can be set to: (Level 3)
+Min reverse and Max reverse
+@@Reverse idle and Max reverse
+Reverse idle and continue reverse
+Reverse Idle setting
+
+For CFM LEAP-1A Engine, the accessory drive section includes the following modules (Level 1)
+Inside Gear Box (IGB), Transfer Gear Box (TGB), and Component Gear Box (CGB)
+The Transfer Gearbox (TGB), Angle Gear Box (AGB) and Main Gear Box (MGB)
+The Inlet Gearbox (IGB), the Transfer Gearbox (TGB) and the Angle Gearbox (AGB)
+@@The Inlet Gearbox (IGB), the Transfer Gearbox (TGB) and the Accessory Gearbox (AGB)
+
+For CFM LEAP-1A Engine, with the Ignition system of the engine is supply with power as follows: (Level 1)
+@@115 V from the A/C electrical system
+115 V from PMA
+115 V from PMA or 115 V from the A/C electrical system depend on N1 speed
+115 V from PMA or 115 V from the A/C electrical system depend on N2 speed
+
+For CFM – LEAP 1A Engine, the ignition system has the following number of Ignition Exciter Boxes and Igniter Plugs: (Level 1)
+One Ignition Exciter Box and two Igniter plugs
+@@Two Ignition Exciter Box and two Igniter plugs
+One Ignition Exciter Box and one Igniter plugs
+One Ignition Exciter Box and one Igniter plugs for each EEC channel
+
+For CFM LEAP-1A Engine, the Ignition system is controlled by: (Level 1)
+@@EEC
+EIU
+FADEC
+PMA
+
+For CFM – LEAP 1A Engine, where is Data Entry Plug (DEP) is located ? (Level 2)
+Function of FMGC
+@@On Engine
+In AFT Avionic Bay
+In FWD Avionic Bay
+
+For CFM – LEAP 1A Engine, Fuel Low pressure Shut-Off Valve can be controlled close by: (Level 2)
+@@Engine Master Lever or Engine Fire Push Button
+Engine Master Lever or Throtlle Lever
+Engine Fire Push Button or Throttle Lever
+FADEC and EIU
+
+For CFM – LEAP 1A Engine, the fuel in the PPMe (pilot Primary/enriched manifold)  leg is monitored by : (Level 3)
+@@The Fuel pressure sensor
+The Fuel temprature sensor
+The Fuel flow meter
+FADEC 
+
+For CFM – LEAP 1A Engine, the function of the Fuel Filter Differential Pressure (FFDP) sensor is: (Level 3)
+To detect fuel leaking in the FMU
+To detect fuel leaking in the Main Heat Exchanger
+@@To detect if the Filter is partially or totally clogged
+To measures the pressure at the fuel filter inlet and outlet
+
+For CFM – LEAP 1A Engine, the function of the Pressure Sub-System (PSS) is: (Level 3)
+Receives engine air pressure measurements and convers them into electrical signals to the active EEC for engine control and mornitoring
+Receives engine air pressure measurements and convers them into electrical signals to the standby EEC for engine control and mornitoring
+Receives engine air pressure measurements and sent them into FADEC pressure inlet
+@@Receives engine air pressure measurements and convers them into electrical signals
+
+For CFM – LEAP 1A Engine, the function of Cross Channel Data Link (CCDL) is: (Level 3)
+To exchange data between EIU-1 and the EIU-2
+To exchange data between EIU and EEC
+@@To exchange data between the active EEC and the stanby EEC
+To exchange data between EEC and FDIMU
+
+For CFM – LEAP 1A Engine, the EECs are ventilated by: (Level 2)
+One blower
+@@Two blowers
+Fan air
+Ramp Air
+
+For CFM – LEAP 1A Engine, the PMA directly supplies each EEC uinit with (Level 2)
+One- phase AC power
+@@Three- phases AC power
+28 VDC power
+115 VAC power
+
+For CFM – LEAP 1A Engine, 115 VAC supply to the Ignition Exciter is (Level 2)
+@@A/C power to EIU and then to EEC to the Ignition Exciter
+A/C power to EIU and to the Ignition Exciter
+A/C power and PMA to EEC and to the Ignition Exciter
+PMA to EIU and then to EEC to Ignition Exciter
+
+For CFM – LEAP 1A Engine, when an automatic start is manual aborted (Level 3)
+EEC controls to dry motor the Engine
+EEC controls to dry motor the Engine if N2 less than 10%
+@@EEC does not dry motor the Engine
+Have message « Abort start Engine XX » on ECAM
+
+For CFM – LEAP 1A Engine,  how many cranking modes ? (Level 2)
+1
+@@2
+3
+4
+
+For CFM – LEAP 1A Engine, the EEC shall enter the automatic start mode when: (Level 3)
+@@Engine is not running and ENG MASTER lever is set to ON
+The ENG MODE rotary selector is set to IGN/START and then to NORMAL
+ENG MAN START is set to ON
+ENG MASTER lever and MAN START is set to ON
+
+For CFM – LEAP 1A Engine, ECAM alert « ENG1 START FAULT- HOT START » when (Level 3)
+ENG 1 has fire dedected
+ENG1 EGT overlimit
+ENG 1 Manual start attempt fail, the start is aborted
+@@ENG 1 Auto start attempt fail, the start is aborted
+
+For CFM – LEAP 1A Engine, ECAM alert « ENG1 START FAULT- ENG1 IGNITION FAULT » when: (Level 3)
+ENG 1 has fire dedected
+ENG1 EGT overlimit
+ENG 1 Manual start attempt fail, the start is aborted
+@@ENG 1 Auto start attempt fail, the start is aborted
+
+For CFM – LEAP 1A Engine, N1 target is computed by (Level 2)
+EEC
+EIU
+@@FMGC
+MCDU, enter from flight plan
+
+For CFM – LEAP 1A Engine, The predicted Max N1 is indicated by (Level 3)
+A Red mark on the N1 indicator
+@@A blue cycle on the N1 indicator
+A blue cycle on the EPR indicator
+Max N1 number on the N1 indiator
+
+For CFM – LEAP 1A Engine, N1 rating limit is computed by (Level 2)
+FMGC
+@@EEC
+EIU
+FMU
+
+For CFM – LEAP 1A Engine, the N1 and N2 sensors are: (Level 3)
+@@LRU
+Not LRU
+The N1 sensor is LRU only
+The N2 sensor is LRU only
+
+For CFM – LEAP 1A Engine, Data Entry Plug (DEP) provides: (Level 3)
+Changes the available thrust, identify P/N of EEC
+@@Engine rating, thrust bump and N1 trim levels.
+Engine rating, identify P/N, S/N of EEC
+Thrust bump, identify P/N, S/N of EEC
+
+For CFM – LEAP 1A Engine, Boroscopic ports used for: (Level 2)
+@@Preliminary inspection of the gas path, internal parts condition checks without engine disassembly.
+Detail inspection rotor, compressors and turbines without engine disassembly
+Preliminary inspection of the gas path, compressors and combustion chamber without engine disassembly
+Detail inspection of the gas path, compressors and turbines without engine disassembly
+
+For CFM – LEAP 1A Engine, If a Thrust Control Malfunction (TCM) event occurs: (Level 3) 
+FMV will reduce the amount of fuel for combustion, bypass valve open send fuel go back to boost pump inlet
+PMV will reduce the amount of fuel for combustion and mix it with FRV fuel back to Aircraft tank
+The Bypass Valve, FMV and HPSOV controll fuel for combustion by the Fuel Pressure Sensor FPS) versus the N2 speed.
+@@The Bypass Valve will reduce the amount of fuel for combustion and mix it with the Intermediate Pressure fuel in the Jet Pump.
+
+For CFM – LEAP 1A Engine, EIU located: (Level 1) 
+Attached to the engine RH fan case
+Attached to the engine LH fan case
+@@In the aircraft avionics bay 80VU
+In the aircraft avionics bay 95VU
+
+For CFM – LEAP 1A Engine, EIU interface with EEC: (Level 2)
+The EIU ensures the segregation interface with Engine EEC A & EEC B via ARINC bus
+The EIU input to both EECs by ARINC bus, but both EECs transfer engine data to the EIU via cross channel data link (CCDL)
+Single EIU input into the EEC A cross connected to EEC B.
+@@Single EIU input into the EEC A cross connected to EEC B but both EECs transfer engine data to the EIU.
+
+For CFM – LEAP 1A Engine, the EECs control and monitor the Nacelle Anti-Ice (NAI) system with: (Level 2)
+2 Anti-Ice Pressure Regulating Shutoff Valves (PRSOVs), a dual pressure sensor and 2 temperature sensors.
+@@2 Anti-Ice Pressure Regulating Shutoff Valves (PRSOVs), 2 pressure sensors and a dual temperature sensor.
+2 Anti-Ice Pressure Regulating Shutoff Valves (PRSOVs), a dual pressure sensor and a dual temperature sensor.
+2 Anti-Ice Pressure Regulating Shutoff Valves (PRSOVs), 2 pressure sensors and 2 temperature sensors.
+
+For CFM – LEAP 1A Engine, The Thrust Reverser sub-system is: (Level 2)
+Commanded by EECs via TLA (Throttle Control Lever), TRAS (Thrust Reverser Actuation System) and Isolation Control Unit (ICU).
+Commanded by EECs via TLA (Throttle Control Lever), Directional Control Unit (DCU), and Tertiary Lock System (TLS)
+@@Commanded by EECs via Isolation Control Unit (ICU), Directional Control Unit (DCU), and Tertiary Lock System (TLS)
+Commanded by EECs via Isolation Control Unit (ICU), Directional Control Unit (DCU), and TRAS (Thrust Reverser Actuation System).
+
+For CFM – LEAP 1A Engine, LOP switch feed back is sent to: (Level 2)
+FWC
+SDAC
+EEC
+@@EIU
+
+For CFM – LEAP 1A Engine, EECs automatic depowering: (Level 2)
+@@On the ground through the EIU 5 min after A/C power-up if no action done on engine system
+After engine shutdown, the EECs remain powered during 15 minutes to allow engine parameters monitoring.
+Power is not cut-off if Centralized Fault Display System (CFDS) EEC menus are active and Data Loading going on (software upload/memory dump).
+All of above are correct
+
+For CFM – LEAP 1A Engine, the Pre-Start Motoring is active to cool down the engine: (Level 3)
+Prior any ground starts or ground cranking procedures
+@@Bowed rotor conditions are detected
+Pre-Start Motoring will limit N2 to 20% and inhibits ignition and fuel flow.
+All of above are correct
+
+For CFM – LEAP 1A Engine, which HP compressor stage the Start Bleed/Booster Anti Ice (SB/BAI) bleed air: (Level 3)
+5th stage
+6th stage
+@@7th stage
+8th stage
+
+For CFM – LEAP 1A Engine, HPTACC and LPTACC valves: (Level 3)
+Electrically operated and controlled
+Pneumatically controlled and operated
+@@Electrically controlled and hydraulically operated
+Electrically controlled and pnematically operated
+
+

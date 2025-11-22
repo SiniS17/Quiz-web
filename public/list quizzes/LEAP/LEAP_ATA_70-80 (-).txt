@@ -261,7 +261,7 @@ Inboard side
 Inboard and outboard side
 
 With the throttle controll lever in the idle stop position, the reserver can be set to:
- Min reverse and Max reverse
+Min reverse and Max reverse
 @@Reverse idle and Max reverse
 Reverse idle and continue reverse
 
@@ -314,6 +314,7 @@ How many EIU are installed in A/C A320 Family NEO CFM-LEAP1A?
 @@2
 3
 4
+
 The Engine oil parameter is displayed on:
 Engine page only
 EWD and Engine page

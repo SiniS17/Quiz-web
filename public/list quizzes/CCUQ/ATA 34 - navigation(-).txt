@@ -1,0 +1,145 @@
+The correct action taken when ADIRU 2 fails is to: (E&A Repair)
+Set ATT HDG and AIR DATA selectors to CAPT/3
+@@Set ATT HDG and AIR DATA selectors to F/O/3
+Set ATT HDG selector to CAPT/3, AIR DATA selector to F/O/3
+Set ATT HDG selector to F/O/3, AIR DATA selector to CAPT/3
+
+In normal operation the adirus are aligned using information from the: (E&A Repair)
+ADIRS CDU
+CFDS
+FCU
+@@FMGC'S
+
+A water drain is fitted to (E&A Repair)
+All pitot lines
+All static lines
+@@The standby static line
+All pitot and static lines
+
+AIDRU 3 receives TAT information from: (E&A Repair)
+@@The captain TAT sensor
+The first officer TAT sensor
+The captain and first officer TAT sensors
+The standby TAT sensor
+
+Air Data Modules (ADM) supply pressure information to the adirus from (E&A Repair)
+@@All pitot probes and static ports
+The pitot probes only
+The static ports only
+The captain and first officer picot probes and static ports only
+
+AIDRU 3 can supply information to  (E&A Repair)
+DMC1 and DMC2 only
+DMC1 and DMC3 only
+DMC2 and DMC3 only
+@@DMC1, DMC2 and DMC3
+
+The baro correction or reference selected is sent to each ADIRU from the (E&A Repair)
+Rmps
+@@FCU
+Dmcs
+Master FMGC
+
+How can GPWS test initiated from the cockpit? (E&A Repair)
+By Pressing The GPWS system pushbutton on the GPWS panel
+By using the CFDS system report/test
+@@By pressing one of the GPWS/GS warning pushbutton on the CAPT or FO instrument panel
+GPWS test is impossible from the cockpit
+
+RA1 fails below 2500 Ft (E&A Repair)
+A red RA flag appears on the Capt's PFD
+@@The radio altitude displayed on Capt's PFD is provided by radio altimeter 2
+The radio altitude is lost on. Capt's PFD
+The radio altitude numerals are replaced by amber crosses on Capt's PFD
+
+ILS 1 data is normally displayed (E&A Repair)
+@@On Capt's PFD and F/Os ND
+On Capt's PFD and Capt's ND..
+On F/O PFD and F/O ND
+On F/O PFD and Capt's N D
+
+ILS 1 fails:  (E&A Repair)
+ILS 2 data are provided to Capt's PFD and F/Os ND
+@@ILS 1 deviations disappear and are replaced by a LOC and a GS red flag
+LOC and GS scales are replaced by amber crosses
+Scales and deviations disappear from Capt's PFD and F/Os ND
+
+MKR information displayed on PFD 1 and PFD 2 is sent from VOR/MKR receiver (E&A Repair)
+2
+@@1
+1 on PFD 1 on VOR/MKR receiver 2 on PFD 2
+1 on both PFD's in the event of VOR/MKR 1 failure there is an automatic switching to VOR/MKR receiver 2
+
+What VOR information is displayed on the ND  (E&A Repair)
+Deviation bar, selected course and the bearing pointer
+@@Bearing pointer only
+Deviation bar and selected course only
+Deviation bar and bearing pointer only
+
+In the event of no ADF 1 reception, with ADF1 selected on ND, the bearing pointer goes: (E&A Repair)
+Out of view and ADF flag is displayed
+Out of view and station IDENTIFICATION is replaced by red crosses
+Red and station IDENTIFICATION is replaced by frequency
+@@Out of view and station IDENTIFICATION is replaced by frequency
+
+The red “HDG” message is displayed on the ND if a error (message set to failure warning) is detected by the: (E&A Repair)
+Adirus
+@@Dmcs
+Fmgcs
+Fwcs
+
+When DME fails, on DDRMI: (E&A Repair)
+Red flag comes in to view
+@@Single pointer is set to 3 o’clock
+DME display window is blanked
+DME display window shows white horizontal dashed lines.
+
+Can TCAS determine distance to the intruder? (E&A Repair)
+@@Yes
+No
+
+The enhanced predictive function of the EGPWS is obtained by: (E&A Repair)
+@@Use of terrain database
+Use of DME
+Use of Weather Radar to scan
+Use of RA
+
+The ATC (E&A Repair)
+@@Responds to interrogations from ground ATC or TCAS
+Interrogates ground ATC for distance measurement
+Responds to  interrogations from ground ATC for bearing  measurement
+
+The RA antennas are installed on the (E&A Repair)
+Top of A/C fuselage
+@@Bottom of A/C fuselage
+Top and bottom of  A/C fuselage
+Top of rudder
+
+With the loss of ADR 1,what would be lost on the Capt’s PFD ? (E&A Repair)
+PITCH and ROLL scales
+PITCH and SPEED scales
+@@Airspeed and altitude information
+Airspeed and wind information
+
+Where is VOR data displayed? (E&A Repair)
+Both ND’s and CAPT’s PFD
+Both PFD’s and DDRMI
+Both ND’s
+@@Both ND’s and DDRMI
+
+Does predictive windshear detection work when the radar system is switched off? (E&A Repair)
+@@Yes, if the windshear switch is in AUTO position
+Yes,if aircraft is above 1500 feet RA
+Yes,if aircraft is below 50 feet RA
+
+When is radio height displayed on the PFD?    (E&A Repair)
+Aircraft is above 1500 feet
+Aircraft is below 1500 feet
+@@Aircraft is below 2500 feet
+Aircraft is above 2500 feet
+
+What does a steady white “ALIGN” light indicate?  (E&A Repair)
+Alignment has been completed
+@@The respective IR is in the ALIGN mode
+The respective IR is failed
+Alignment has been not completed

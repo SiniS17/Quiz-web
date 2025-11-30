@@ -1,0 +1,138 @@
+Which signal close the Fill/ Drain valve during servicing with electrical power available? (ME Repair, E&A Repair)
+@@By a quantity transmitter which sends a tank full signal to close the fill/drain valve automatically
+When the quantity gauge indicates full the valve has to be closed manually
+When the water comes out of the overflow port the valve has to be closed manually
+There is no signal available, the tank has to be filled with a measured amount of water.
+
+How is the water tank depressurized during servicing? (ME Repair, E&A Repair)
+By waiting for the system pressure to dissipate
+By operating a wash basin faucet
+@@By operating the fill/over flow valve
+By a push button the servicing panel
+
+How are the wash basin water heaters protected from damage should the normal temperature control fail ? (ME Repair, E&A Repair)
+There is no protection
+Cabin staff have to switch them off
+@@An over temperature safety device cuts off the electrical power
+By a warning on the ECAM display
+
+Why are the drain valve installed in the waste water drain system? (ME Repair, E&A Repair)
+To allow the sink and wash basin to be isolated
+@@To prevent a permanent loss of cabin air pressurization
+To prevent wash basin from being isolated
+
+Can any toilet be used during servicing? (ME Repair, E&A Repair)
+Yes, because toilet use and servicing is independent
+Yes, but only the front toilet
+Yes, but electric power is required to supply the toilet control system
+@@No, the door limit switch on the toilet servicing panel deactivates the toilet control system.
+
+From where does the LAV INOP Fault light come at the FWD Attendant Panel? (ME Repair, E&A Repair)
+A level sensor in each toilet unit
+@@A fault of the related lavatory flush control unit (FCU)
+A fault of the VACUUM GENERATOR
+The door limit switch (panel door open) on the servicing panel.
+
+Is it possible to drain the whole water system without electrical power? (ME Repair, E&A Repair)
+No, electrical power is always required
+@@Yes, all the drain valves can be operated manually
+No, only the water tanks can be drained by using the aft drain valve
+No, only the forward drain valve can be operated manually.
+
+Why is water tank pressurized? (ME Repair, E&A Repair)
+To ease draining operation.
+To warm up water.
+@@To allow water distribution.
+
+What is used for A320 aircraft water tank filling operation? (ME Repair, E&A Repair)
+One handle, one valve.
+Two handles, one valve.
+@@One handle, two valves.
+
+How many valves are used during draining operation of A320 aircraft water tank (ME Repair, E&A Repair)
+Two
+Three
+@@Four
+
+How many potable water service and drain panels are fitted to the A320 aircraft? (ME Repair, E&A Repair)
+One
+Two
+@@Three
+
+Where is the main drain port of the A320 aircraft potable water system? (ME Repair, E&A Repair)
+@@On the portable water service panel.
+On the fwd service panel.
+Both
+
+How many potable water quantity indicators are there? (ME Repair, E&A Repair)
+One
+@@Two
+Three
+
+How many quantity TRANSMITTER is in the potable water tank? (ME Repair, E&A Repair)
+@@One
+Two
+Three
+
+What is purpose of the high level switch of the water quantity TRANSMITTER? (ME Repair, E&A Repair)
+@@De-energized a relay which closes the fill/drain valve when the tank is full.
+To disconnect electrical supply to the water heater in the lavatories
+To disconnect electrical supply to the fill/drain valve to closes it when the tank is full.
+To gives warming of water tank overfill.
+
+What is purpose of the water service panel door microswitch? (ME Repair, E&A Repair)
+To de-energized the indicating system when the portable water service panel door is opened.
+To energized the indicating system when the portable water service panel door is closed.
+@@To isolate the indicating system when the portable water service panel door is closed.
+To isolate the indicating system when the portable water service panel door is opened.
+
+The waste water drain valve. (ME Repair, E&A Repair)
+Electrically operated.
+@@Is held closed in flight by cabin air pressure and open when waste water enters the valve has build up enough.
+Open on ground and close in flight
+Manually operated only by lifting the seal assembly.
+
+Where does the toilet bowl rinsing water come from? (ME Repair, E&A Repair)
+Waste holding tank.
+Waste water tank.
+@@Potable water tank.
+
+How is the waste transported to the waste holding tank? (ME Repair, E&A Repair)
+@@By the vacuum created in the waste holding tank.
+By the water flushing and gravity.
+By the water pressure
+
+When does the vacuum generator operate? (ME Repair, E&A Repair)
+On ground only.
+@@Up to an altitude of 16.000 t during climb and below 12.000 ft during descent.
+During servicing operation.
+
+How many toilet service panels are fitted on the aircraft? (ME Repair, E&A Repair)
+@@One
+Two
+Three
+
+How many potable water service and drain panels are fitted to the aircraft? (ME Repair, E&A Repair)
+One
+@@Two
+Three
+
+Where is the waste quantity displayed? (ME Repair, E&A Repair)
+On the toilet service panel
+On the Forward Attendant Panel
+@@On both panels.
+
+The toilet system is monitored by: (ME Repair, E&A Repair)
+The FCU BITE
+The CFDS.
+@@The VSC BITE
+
+The water valve and the flush valve are monitor by: (ME Repair, E&A Repair)
+The Vacuum System Controller.
+The Vacuum Generator.
+@@The associated Flush Control Unit BITE.
+
+What are the functions of the VSC? (ME Repair, E&A Repair)
+@@System control and monitoring and fault reporting.
+System control and monitoring
+Fault reporting.

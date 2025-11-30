@@ -1,0 +1,55 @@
+For thrust balance and prevention of A/C movement during engine run up: (ME Repair)
+The single engine operation is allowed up to 80% N1.
+The non-tested/ opposite engine must be run at 60% N2.
+If power is higher than 75% N1, the A/C must be immobilized by wheel chocks and parking brake.
+@@If power is higher than 75% N1, the A/C must be immobilized by wheel chocks and brake pedals.
+
+Engine replacement requires: (ME Repair)
+Both fan and T/R cowling to be removed.
+Only fan cowls to be removed.
+Only T/R cowls to be removed.
+@@Neither Fan nor T/R cowl needs to be removed.
+
+To replace the engine you need to  (ME Repair)
+Open the thrust reverser cowls at 35 degrees position.
+@@Open the thrust reverser cowls at 45 degrees position.
+Remove the thrust reverser cowls
+
+Fan cowls:  (ME Repair)
+@@Must always be held open by both struts each.
+Must be held open by both struts each when the wind is more than 65 knots.
+Should be opened by releasing 4 latches in sequence from the rear to the front.
+Should be opened by releasing 4 latches in sequence from the front to the rear.
+
+Fan cowls can be opened: (ME Repair)
+At 40 degrees position.
+At 55 degrees position.
+@@Either A or B.
+
+The engine anti-ice air overboard discharge grill is located? (ME Repair, E&A Repair)
+On the outboard side of the inlet cowl.
+On the right side fan cowl door.
+@@On the lower right side of the inlet cowl.
+At the bottom (5 o’clock position) of fan cowling
+
+The engine oil servicing panel is located? (ME Repair, E&A Repair)
+On the outboard side of the inlet cowl.
+@@On the left side fan cowl door.
+On the left side of the inlet cowl.
+On the left side of the reverser cowl.
+
+Each reverser cowl: (ME Repair, E&A Repair)
+Is hold closed by 6 single latches.
+@@Is held open by a single hold open rod.
+Is held open by two hold open rods.
+
+When the  engine is running : (ME Repair, E&A Repair)
+No personnel is allowed to get access to the engine.
+@@Access to the engine is permitted within the Entry/Exit corridor if power do not exceed min idle.
+Access to the engine is permitted within the Entry/Exit corridor at all power rating.
+
+The engine run up at Min idle can be carried out with : (ME Repair, E&A Repair)
+@@Fan cowls opened and secured.
+Both Reverser and Fan cowls opened and secured.
+Thrust Reverser cowls opened and secured.
+Non engine cowl opened.

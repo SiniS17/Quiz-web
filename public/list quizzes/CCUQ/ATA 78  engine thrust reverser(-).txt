@@ -1,0 +1,156 @@
+In what position and power state is the Directional Control Valve during flight? (ME Repair, E&A Repair)
+Stow position-solenoid energized.
+@@Stow position-solenoid de-energized.
+Neutral position-solenoid de-energized.
+Deploy position- solenoid de-energized.
+
+What is the function of the HCU de-activation lever? (ME Repair)
+@@Mechanically prevents operation of the Pressurization Valve.
+Mechanically prevents movement of the Directional Control Valve.
+Inhibits operation of the hydraulic pressure switch.
+To close the hydraulic SOV.
+
+Which important safety procedure should be performed before any maintenance work on or near the ‘C’ ducts or reverser system?  (ME Repair, E&A Repair)
+Unlock and pin the actuators.
+Lock out the translating sleeves.
+@@Deactivate and pin the lever on the HCU.
+Deactivate and pin the lever on the HCU and lock out translating sleeves.
+
+How is the Thrust Reverser system actuated? (ME Repair)
+Electrically.
+Pneumatically.
+@@Hydraulically.
+
+How is the Thrust reverser controlled? (ME Repair)
+By the ECU only.
+@@By the ECU and the two conditions from SEC and inhibition relay.
+Directly by the Thrust reverser lever.
+
+In normal T/R operation, “door not stow” condition is indicated by? (ME Repair, E&A Repair)
+REV in green appears inside the N2 gauge.
+@@REV in amber appears inside the N1 gauge.
+REV in green appears inside the N1 gauge.
+
+How is Thrust Reverser fully deployed indicated? (ME Repair, E&A Repair)
+REV in amber appears inside the N1 gauge.
+@@REV in green appears inside the N1 gauge.
+REV in green appears inside the N2 gauge.
+
+Can the Thrust Reverser be operated if the engine is not running? (ME Repair, E&A Repair)
+Not possible.
+@@Yes, use the T/R test on the MCDU.
+Yes, provided A/C is on ground and hydraulic pressure is available.
+
+What the CFDIU simulate during Thrust Reverser MCDU test? (ME Repair, E&A Repair)
+TLA signal.
+@@N2 signal.
+Ground condition.
+
+What does the pressure detector indicate to the ECU? (ME Repair)
+@@The system is pressurizing.
+The actuators are depressurized
+The actuators latches are unlocked.
+ATA -79 : ENGINE OIL SYSTEM
+
+Oil pressure indicator becomes red when pressure is lower than: (ME Repair, E&A Repair)
+10 psi
+@@13 psi
+200 psi
+There is no specific limit itself.
+
+What happen in case the main filter on the lubrication line is clogged (ME Repair)
+The by-pass valve opens, half of the oil flow passes through the main filter, and the other part through the back up filter
+A low oil pressure warning is triggered
+A red warning is triggered, oil temperature increases
+@@The engine page appears on ECAM oil passes through the by pass valve, back up filter  and to the bearings
+
+What is  (are ) the indications in case of metallic parts in the common scavenge oil pipe? (ME Repair)
+@@Only a popped clogging indication on the electrical chip detector indicator
+An ECAM warning and a popped clogging indication on the electrical chip detector indicator
+A low oil pressure indication and warning
+A high oil temperature indication and warning
+
+Normal engine oil consumption is? (ME Repair)
+0,85 QT per hour.
+
+25 QT per hour.
+
+57 QT per hour.
+
+Engine oil system is ventilated at? (ME Repair)
+RH fan cowl exhaust nozzle.
+LH fan cowl exhaust nozzle.
+@@Engine center body exhaust.
+
+The oil tank content can be checked by? (ME Repair, E&A Repair)
+@@Opening a dedicated servicing access panel in the LH fan cowl.
+Opening an access panel on the LH “C’ duct.
+Opening the RH fan cowl
+
+How is the main cooling of the oil system achieved? (ME Repair, E&A Repair)
+By an air-cooled oil cooler.
+By a fuel cooled oil cooler in the HP fuel system.
+@@By a fuel cooled oil cooler in the LP fuel system.
+
+Engine oil heat exchanger is on? (ME Repair)
+The oil supply circuit.
+@@The oil scavenge circuit.
+The oil ventilation circuit.
+
+Engine oil MCD is on? (ME Repair, E&A Repair)
+The oil supply circuit.
+@@The oil scavenge circuit.
+The oil ventilation circuit.
+
+Engine oil temperature indication is measured on? (ME Repair, E&A Repair)
+@@The oil supply circuit.
+The oil scavenge circuit.
+The oil ventilation circuit.
+ATA - 80 – ENGINE STARTING.
+
+Engine starter is lubricated by? (ME Repair)
+Engine oil system.
+@@A separate oil circuit.
+Oil from the IDG.
+
+How can you assure that the oil servicing of starter is accomplished? (ME Repair, E&A Repair)
+Checking the engine oil sign glass.
+Check ECAM indication.
+@@Check the oil flows though the overflow port.
+
+During engine start in manual mode, ignition systems A and B are shown on ECAM: (ME Repair, E&A Repair)
+It means that either system A or B has failed
+It means that system A has failed
+It means that system B has failed
+@@This is normal. A and B are selected in manual start
+
+If the EGT is over limit, in which case can the ECU abort start? (ME Repair, E&A Repair)
+Automatic start.
+Manual start.
+@@Automatic and manual start.
+
+What happen in automatic start when N2 reached 50%? (ME Repair, E&A Repair)
+MAN start P/B ON light goes off.
+The ECU provides the ECAM message telling to close the SAV.
+@@SAV closes automatically.
+
+When doing engine dry crank, you open the circuit breaker 1kc1(2)   in order  to: (ME Repair, E&A Repair)
+Open the HP fuel valve.
+@@Open the LP fuel valve.
+Open both LP & HP valves
+Close the LP fuel valve.
+
+If starter air valve solenoid is INOPERATIVE? (ME Repair, E&A Repair)
+You can not start the engine.
+You can still start the engine using manual start sequence.
+@@You can only start engine by operating the SAV manually.
+
+In AUTO mode, the ECU is able to perform several start attempts?  (ME Repair, E&A Repair)
+If IGN failed.
+If EGT over limit or stall fault occurred.
+@@Both the above cases.
+
+What is the best wind direction for engine STARTING? (ME Repair, E&A Repair)
+Side wind.
+Tail wind.
+@@Front wind.

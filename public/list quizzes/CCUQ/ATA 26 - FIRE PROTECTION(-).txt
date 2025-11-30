@@ -1,0 +1,103 @@
+Where are the Engine fire detectors located? (ME Repair, E&A Repair)
+On the Fan and the Turbine and Pylon
+@@On the Pylon, the Fan and the Core
+On the Core, Gearbox and the Nozzle
+
+Is the extinguishing system controlled by the FDU: (ME Repair, E&A Repair)
+Yes, continuously
+Yes, whenever  engine fire is detected
+@@No
+
+How is an APU fire on ground normally extinguished: (ME Repair, E&A Repair)
+From APU fire panel.
+From APU compartment
+@@Automatically.
+From external power panel.
+
+You press the APU shut off push button at 108VU panel to? (ME Repair, E&A Repair)
+Initiate the shut down the APU with cooling down sequence.
+@@Initiate the emergency shut down of APU without cooling down sequence.
+Initiate the emergency shut down of APU and discharge the APU fire bottle.
+
+How many fire detectors does the APU fire detection system comprise of? (ME Repair, E&A Repair)
+One
+@@Two
+Three
+
+To test the APU auto extinguishing function, you must : (ME Repair, E&A Repair)
+@@Select APU master switch ON.
+Press the APU fire TEST push button.
+Select APU master switch ON and press the APU fire TEST push button.
+
+When the Engine fire pushbutton is released out what aircraft system are isolated: (ME Repair, E&A Repair)
+@@Fuel, Air, Electricity, Hydraulic.
+Fuel, Air, Oil, Hydraulic.
+Fuel, Air, Hydraulic.
+Fuel, Electricity, Hydraulic.
+
+What additional external warning is/ are activated in case of APU fire on GROUND? (ME Repair, E&A Repair)
+@@APU fire light & external horn warning.
+A fire bell warning.
+An external horn warning only.
+An external horn warning & Red disk indicator disappears.
+
+The agent push button is active when: (ME Repair, E&A Repair)
+The corresponding “ Disch ” light is on.
+Engine fire push button illuminates.
+@@Engine fire pushbutton is pressed and released.
+It is pressed.
+
+What does the Engine fire TEST push button verify? (ME Repair, E&A Repair)
+Only the fire detection loop A and B, FDU, indication and warnings.
+Only the squib circuit of AGENT 1 and 2.
+@@Both simultaneously.
+
+When the Engine fire P/B is released out, which corresponding fire valve are closed (ME Repair, E&A Repair)
+Fuel cross feed valve.
+@@LP fuel and hydraulic fire shut off valve.
+HP fuel shut off valve.
+
+When the Engine fire P/B is released out  (ME Repair, E&A Repair)
+@@Pack valve & Bleed valve closed
+Only engine bleed valve closed
+None of them closed.
+
+When the Engine fire P/B is released out, what happens to the electrical generation? (ME Repair, E&A Repair)
+@@IDG de-energised.
+IDG disconnected.
+IDG energised.
+
+Lavatory fire extinguishing is performed by? (ME Repair, E&A Repair)
+@@Portable extinguishers.
+Fire bottles.
+Waste bin fire extinguishers.
+
+How can the avionic compartment smoke detector be tested? (ME Repair, E&A Repair)
+Permanently by AEVC.
+By the dedicated test push button.
+@@By a manual test from CFDS.
+
+Which warning lights are triggered in case smoke detected in avionic compartment? (ME Repair, E&A Repair)
+BLOWER FAULT and EXTRACT FAULT.
+GEN1 LINE SMOKE.
+@@Both of the above.
+
+What happens if the SDCU is faulty? (ME Repair, E&A Repair)
+The LAV smoke detection is INOP.
+The Cargo smoke detection is INOP.
+@@Both LAV and Cargo smoke detection system are INOP.
+
+If smoke is detected in AFT cargo compartment, what happens? (ME Repair, E&A Repair)
+@@AFT cargo ventilation system automatically closed.
+Fire extinguishing bottle will be discharged automatically in to AFT cargo compartment.
+Both of the above.
+
+How many fire extinguishing bottle(s) is(are) provided for the cargo compartments? (ME Repair, E&A Repair)
+There’s one for FWD and one for AFT cargo compartment.
+There’s one for both FWD and AFT cargo compartments.
+@@None.
+
+What is the design principle of the engine fire loop? (ME Repair, E&A Repair)
+Resistance.
+@@Pressure.
+Capacitor.

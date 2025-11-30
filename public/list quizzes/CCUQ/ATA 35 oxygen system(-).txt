@@ -1,0 +1,122 @@
+In the passenger oxygen system, a chemical oxygen generator, once activated, delivers Oxygen for: (ME Repair, E&A Repair)
+30 minutes, if only one mask is in use
+5 minutes, if all masks are used
+@@13 minutes, regardless of the number of the masks used
+
+An oxygen generator starts to make oxygen when: (ME Repair, E&A Repair)
+The panel is opened.
+@@The lanyard is pulled.
+The MAN OVRD pushbutton on the passenger oxygen control panel is operated.
+When the cabin pressure altitude is above 14.000ft.
+
+Masks are supplied with undiluted Oxygen on demand if the cabin altitude rises above 14.000 ft, passenger oxygen masks will drop out? (ME Repair, E&A Repair)
+Only by actuation of a switch on the captain panel
+Automatically by the cabin pressure and/or cabin attendant action
+@@Automatically by the cabin pressure and/or flight crew action
+
+How do the time delay relays control the Pax. System automatic operation (ME Repair, E&A Repair)
+@@They  cut off electrical supply after 30 seconds
+They supply the system for 3 seconds
+They supply the system after 30 seconds
+
+How is the passenger chemical generator activated? (ME Repair, E&A Repair)
+By pushing the MASK MAN ON pushbutton.
+As soon as the ALTITUDE PRESSURE SWITCH is closed.
+When the TIME DELAY RELAY is fully energized.
+@@By a release pin which is connected via a lanyard to the oxygen mask
+
+What is indicated when the white "SYS ON" light (Panel 21 VU) on the passenger oxygen system is illuminated? (ME Repair, E&A Repair)
+The chemical oxygen generators are activated
+The time delay relay is fully energized
+@@The passenger oxygen system is electrically operated
+A cabin attendant has opened an oxygen box with the manual release tool
+
+The aircraft oxygen system has: (ME Repair)
+@@A separate crew and pax system
+For the crew a H.P. and a L.P. system
+2 (each) crew cylinders
+Both "A" and "B"
+
+When the passenger oxygen masks have been deployed automatically: (ME Repair, E&A Repair)
+To reset the system provisions are available at the oxygen generators
+The crew will automatically receive oxygen at the same time
+@@The timer relay is reset by its pushbutton on panel 50 VU
+The system is reset when pax masks are stowed and the panels latched closed
+
+The crew oxygen system consists of: (ME Repair)
+A fixed high pressure cylinder.
+A high pressure portable cylinder
+@@A fixed cylinder with masks and a breathing hood system
+
+Can the crew oxygen cylinder pressure be checked when there is no electrical power? (ME Repair, E&A Repair)
+@@Yes
+No
+
+What indicates an overboard discharge? (ME Repair, E&A Repair)
+A warning on the oxygen control panel 21VU.
+The direct reading pressure gauge on the oxygen cylinder.
+@@A yellow indicator.
+
+What happen when the 100% position is selected on crew oxygen masks? (ME Repair, E&A Repair)
+The user breathes filtered cabin air
+The user breathes pure oxygen at a permanent positive pressure.
+@@The user breathes pure oxygen
+
+What is the "reset TEST SLIDER" of crew oxygen system used for? (ME Repair, E&A Repair)
+To control mask oxygen inlet.
+To prevent oxygen inlet to mask.
+@@To control oxygen supply during tests and mask operation.
+
+The TMR reset fault light comes on if?  (ME Repair, E&A Repair)
+The reset operation is not yet completed.
+The reset operation has failed
+@@The time delay relays has failed during the automatic operation.
+
+What is the function of the hood absorption system of the smoke hood? (ME Repair)
+To add oxygen to the expired gas.
+@@To trap the carbon dioxide contain in the expired gas
+To allow the expired gas to flow out the hood
+
+A manual ON/OFF valve of flight crew Oxygen Cylinder  is used: (ME Repair, E&A Repair)
+@@During the replacement of the cylinder and to isolate the cylinder if there is a leak in the oxygen system.
+Allow flight crew to adjust the air flow into the masks.
+To reduce the air pressure  from high pressure to low pressure
+
+A direct-reading pressure gage of flight crew Oxygen Cylinder: (ME Repair, E&A Repair)
+Provide direct indication of the cylinder high-pressure to flight crew during flight.
+@@Independent of the open or closed position of the manual ON/OFF valve.
+Ground engineer must check oxygen pressure through direct-reading pressure gage before dispatch the aircraft.
+
+Low-Pressure Supply Valve of flight crew Oxygen system (ME Repair, E&A Repair)
+@@Installed between the pressure regulator/transmitter and the distribution manifold
+Installed between the distribution manifold and the masks
+Installed between the high pressure cylinder and the pressure regulator/transmitter.
+
+Low-Pressure Supply Valve of flight crew Oxygen system is: (ME Repair, E&A Repair)
+A manual ON/OFF valve and can control from avionic compartment.
+@@A solenoid valve and can control from the control panel in the cockpit.
+A manual ON/OFF valve and can control from the control panel in the cockpit.
+
+A warning signal "REGUL LO PR" appears on the ECAM when: (ME Repair, E&A Repair)
+@@Pressure of the distribution manifold decreases to 50 ± 5 psi.
+Pressure of Crew Oxygen Cylinder decreases to 1000 ± 5 psi
+Pressure of Crew Oxygen Cylinder decreases to 1450 ± 5 psi
+When doing the test of Crew Oxygen mask
+
+Oxygen pressure in the cylinder is indicated On the lower ECAM DU (display Unit) (ME Repair, E&A Repair)
+@@An amber half frame appears when the oxygen pressure is lower than 1500 psi
+Gives an indication to the maintenance personnel when filling the oxygen cylinder
+An amber indication on the DOOR/OXY page with pressure from 0 to 1450 psi
+An green indication on the DOOR/OXY page with pressure from 50 to 1850 psi
+
+Oxygen masks drop out for the passenger and the cabin attendant when (ME Repair, E&A Repair)
+The cabin pressure decreases to a pressure equivalent of 14000 +0 -500 ft
+The cabin pressure decreases between 8000 ft and 14000 ft
+The cabin pressure decreases below 8000 ft or pilot operates the 'MASK MAN ON' pushbutton switch
+@@The cabin pressure decreases to a pressure equivalent of 14000 +0 -500 ft or pilot operates the 'MASK MAN ON' pushbutton switch
+
+When the Pax. Oxygen masks have been deployed automatically: (ME Repair, E&A Repair)
+@@The SYS ON indicator light will go off when the TMR RESET pushbutton switch is pushed.
+The FAULT indicator light comes on 30s after the start of the system operation
+The SYS ON indicator light comes on for 30s
+You must press the MASK MAN ON pushbutton switch to allow the chemical oxygen generator supply oxygen to the masks

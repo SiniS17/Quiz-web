@@ -1,0 +1,103 @@
+Of which type is the ignition system? (ME Repair, E&A Repair)
+Low voltage, high energy.
+High voltage, low energy.
+@@High voltage, high energy.
+
+What provide the selection of ignition A/B? (ME Repair, E&A Repair)
+@@The ECU.
+The engine control panel.
+The ECAM control panel.
+
+The ignition is cut off (ME Repair, E&A Repair)
+@@Automatically during start when N2 reaches 50%.
+Automatically during start when N1 reaches 50%.
+Automatically when engine stabilized at idle.
+
+When the ignition is inhibited? (ME Repair, E&A Repair)
+During automatic start when N2 is above 16%.
+During dry crank sequence.
+During wet crank sequence.
+@@During wet and dry crank sequences.
+
+What conditions cause automatic selection of continuous relight (ME Repair, E&A Repair)
+Engine anti-ice on, wing anti-ice on, engine flame out
+@@Engine anti-ice on, EIU failed, engine flame out
+Engine anti-ice on, wing anti-ice on, EIU failed
+Wing anti-ice on, EIU failed, mode selector at norm position
+
+Each engine equipped with? (ME Repair, E&A Repair)
+One ignition system with two igniters.
+Two ignition systems, each has two igniters.
+@@Two ignition systems with two igniters.
+
+Ignition system power supply is? (ME Repair, E&A Repair)
+@@115 V from the aircraft.
+115 V from engine generator.
+28 V from the FADEC PMA.
+
+What causes the automatic continuous relight of the engine? (ME Repair, E&A Repair)
+ECU failure.
+@@Engine flame out.
+Ignition/Start selection.
+
+The ignition systems are enable during engine manual start at? (ME Repair, E&A Repair)
+16% N2.
+22% N2.
+@@Selection of the master lever.
+
+What does Continuous Relight mean? (ME Repair, E&A Repair)
+An active ignition system will work continuously.
+Both ignition systems are selected during engine start.
+@@Both ignition systems are demanded to work continuously.
+ATA -75 – AIR SYSTEM
+
+The operating servo pressure in the VSV system is? (ME Repair)
+Stage 10th air pressure.
+@@Fuel servo pressure.
+Aircraft hydraulic system pressure.
+
+The compressor airflow system control is from? (ME Repair)
+The Bleed Monitoring Computer (BMC).
+@@The Electronic Engine Control (EEC).
+The Engine Interface unit (EIU).
+
+Air is supplied to the LPT Active Clearance Control system from? (ME Repair)
+The ram air.
+The HP Compressor stage 9.
+@@The Fan delivery.
+
+The operating force in the Active Clearance Control actuators is? (ME Repair)
+@@HMU fuel delivery pressure.
+HP compressor delivery air pressure.
+EDP hydraulic delivery pressure.
+
+Which air speeds and reference signal are used to control the HPT clearance? (ME Repair)
+@@4th and 9th stage compressor air controlled by HP turbine clearance control valve with reference from T case
+Fan air controlled by the HP turbine clearance control valve with reference from T case
+5th and 9th stage compressor air controlled by HP turbine clearance control valve with reference from P case
+5th and 9th stage compressor air controlled by the low pressure turbine clearance control valve with reference from P case
+
+Is the purpose of the Active Clearance Control (ACC) system? (ME Repair, E&A Repair)
+To improve compressor efficiency
+@@To improve and maintain engine performance
+To reduce overall engine thermal growth
+
+Is the L.P. compressor bleed valve (VBV)? (ME Repair)
+@@Multi – ports.
+Annular.
+Two positions slider.
+
+When open, where does the VBV direct airflow? (ME Repair)
+Into the A/C bleed system.
+All valves discharge overboard directly.
+@@To bypass flow.
+
+What is used to cool the ECU? (ME Repair, E&A Repair)
+@@Ram air taken from dedicated air intake scoop.
+Fan air taken from dedicated air intake scoop.
+Fan air taken from nacelle cooling system.
+
+What is used to cool the fan and core compartments? (ME Repair, E&A Repair)
+Ram air for both compartments
+Fan air for both compartments.
+@@Ram air for fan compartment and Fan air for core compartment.

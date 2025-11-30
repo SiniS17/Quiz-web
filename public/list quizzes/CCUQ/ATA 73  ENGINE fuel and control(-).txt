@@ -1,0 +1,54 @@
+Switching between the A/C 28VDC and PMA power supplies to FADEC is done: (ME Repair, E&A Repair)
+Manually thru the FADEC GND PWR pushbutton.
+Automatically by the EIU.
+@@Automatically by the ECU.
+Automatically by the both ECU and EIU.
+
+What is/ are the protection(s) for N2 OVERLIMIT? (ME Repair)
+There is no protection, the Thrust lever must be moved aftward manually
+@@There is a mechanical protection to open the Bypass valve
+There is a mechanical protection to close the Bypass valve
+There is a mechanical protection to close FMV
+
+The engine control unit is supplied by a dedicated generator on the engine: (ME Repair, E&A Repair)
+When the start sequence is completed
+@@When N2 is greater than 12 %
+If the aircraft is in flight
+Only when both engines are running
+
+What is the engine system signal which causes the ECU to open the fuel return valve? (ME Repair, E&A Repair)
+IDG oil temperature
+@@Engine oil supply temperature
+Fuel by pass temperature
+Engine scavenge oil temperature
+
+What valve ensures adequate fuel flow to nozzles? (ME Repair)
+@@FMV.
+PRSOV.
+BSV.
+
+What kind of shut off signal does the HMU shut off valve sends to the FRV? (ME Repair, E&A Repair)
+@@Direct fuel pressure.
+Direct electrical signal.
+Electrical signal send through the ECU.
+
+An output fault in one channel of ECU causes: (ME Repair, E&A Repair)
+System goes to designed failed safe position.
+@@Switch over to control from the other channel.
+Affected channel generate another output signal.
+
+In case of ECU channel input loss, what happens? (ME Repair, E&A Repair)
+Switch over to the other channel
+@@The channel in control uses values from the other channel
+The channel in control uses default values.
+Control goes to Fail-Safe position
+
+What of the following is controlled by FADEC? (ME Repair, E&A Repair)
+The throttle lever angle.
+The EIU.
+@@The engine thrust rating.
+
+What happens in case EIU power supply is LOST? (ME Repair, E&A Repair)
+The EIU takes power from the ECU generator.
+@@The EIU failed and engine restart is not possible.
+The ECU and ignition power supplies are no longer available.

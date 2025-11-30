@@ -1,0 +1,33 @@
+Which connector of ECU used for Identification plug? (E&A Repair)
+@@J14
+J15
+J13
+J4
+The CFM56 FADEC system of each engine consists of (ME Repair, E&A Repair)
+An EEC, EIU, EVMU and its peripheral components and sensors.
+@@A dual channel electronic control unit (ECU), with its associated peripherals.
+A dual channel electronic control box (ECU) and an engine interface unit (EIU).
+Before performing the operational test of the FADEC on GND (with Engine motoring), you must: (ME Repair, E&A Repair)
+@@Make sure that the travel ranges of the flight control surfaces are clear before you motor the engine. Movement of the flight control surfaces can be dangerous and/or cause damage
+Make sure that the safety pin is installed in the N/W-steering deactivation electrical-box. Movement of nose wheels can cause damage.
+Make sure that the thrust reverser is locked. If not, the thrust reverser can operate accidentally and cause injury to personnel and/or damage to the reverser
+The FADEC automatically selects a continuous relight: (ME Repair, E&A Repair)
+In case of engine interface unit (EIU) failure only.
+@@If the ANTI ICE pb is selected ONor In case of EIU failure or engine flame-out.
+In case of electronic control unit (ECU) failure only.
+The ENG FADEC GND PWR is used to: (ME Repair, E&A Repair)
+Enable the pilots to start the engines automatically.
+@@Supply the computers dedicated to the engines when the engines are not running.
+Enable the pilots to start the engines manually.
+How is the thrust rating changed on the CFM56? (ME Repair, E&A Repair)
+By change the ECU.
+By a setting up in MCDU.
+@@By an engine data programming plug.
+The HP fuel Shut-Off Valve is:
+A line replaceable unit upstream of the HMU.
+A line replaceable unit downstream of the HMU.
+@@Not a line replaceable unit, in the HMU.
+How is the fuel LP VALVE controlled?(ME Repair, E&A Repair)
+@@By the Master lever or Fire P/B SW.
+By the EEC and the Master lever.
+By the EEC and Fire P/B SW.

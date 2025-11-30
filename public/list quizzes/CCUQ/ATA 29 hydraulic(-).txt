@@ -1,0 +1,118 @@
+In flight, if the blue electric pump fails the blue system: (ME Repair, E&A Repair)
+Is lost.
+@@Can be recovered by the RAT.
+Can be recovered by the PTU.
+Both B and C.
+
+Which component(s) send a Warning and Fault signals on the blue hydraulic system? (ME Repair, E&A Repair)
+Only the low air pressure switch
+Only the low level detector
+The high level detector
+@@Overheat sensor, low air pressure switch and low level detector
+
+In flight, the blue hydraulic system can be supplied by: (ME Repair, E&A Repair)
+@@The RAT and the electrical pump.
+The engine driven pump.
+The PTU (Power Transfer Unit).
+It can not be supplied.
+
+The RAT is automatically extended in case of: (ME Repair, E&A Repair)
+@@Loss of AC bus1 and bus2 and speed above 100 Knots.
+Blue hydraulic pump failure
+Can only be extended manually.
+Blue pump delivery pressure dropping below 1750 PSI.
+
+During first engine start the PTU is: (ME Repair, E&A Repair)
+Automatically running.
+Tested.
+@@Inhibited.
+
+During second engine start the PTU is: (ME Repair, E&A Repair)
+Automatically running.
+@@Tested.
+Inhibited.
+
+What happens if the hydraulic pressure drops, in the Yellow hydraulic systems? (ME Repair)
+The priority valve close automatically, cuts the pressure to the primary flight controls, in order to supply the flaps
+The priority valve opens, and supply only the primary flight controls
+@@The priority valve closes cut off hydraulic power to the flaps, in order to supply the other users
+The priority valve modulates the pressure to the flaps.
+
+When is engine fire Shut Off valve of a hydraulic system closed? (ME Repair, E&A Repair)
+Automatically when the engine is shut down
+@@If the ENGINE FIRE pushbutton is released out.
+Automatically as soon as engine fire is detected
+
+To which system(s) will the Ram Air Turbine provide hydraulic power? (ME Repair, E&A Repair)
+@@The blue system
+The yellow system
+The green and yellow systems
+The blue and yellow systems
+
+Where is the hydraulic system temperature sensor located? (ME Repair, E&A Repair)
+In the reservoir
+@@On the return manifold
+On the HP. Filter
+On the case drain filter
+
+What will happen when the Yellow electric pump P/B is set to "ON", with aircraft on ground, electrical power available, PTU selected to "AUTO" and engines not running? (ME Repair, E&A Repair)
+@@The green and yellow systems are pressurized
+The green and blue systems are pressurized
+Only the yellow system is pressurized
+The green, blue and yellow systems are pressurized
+
+What happens if the hydraulic pressure drops, in the Yellow system? (ME Repair)
+The priority valve closes automatically, cuts the pressure to the primary flight controls, in order to supply the flaps
+The priority valve opens, and supply only the primary flight controls
+@@The priority valve closes to cut off hydraulic power to the flaps, in order to supply the other users
+The priority valve modulates the pressure to the flaps
+
+When is the engine driven pump in the depressurized mode? (ME Repair)
+@@When the ENG PUMP pushbutton is set to OFF
+The engine pump can not be depressurized as long as the engine is running
+The engine pump is automatically depressurized if the output pressure drops below 1450psi
+
+What happens if hydraulic pressure drops? (ME Repair, E&A Repair)
+The priority valves give priority to the heavy loads users.
+@@The priority valves give priority to the essential systems
+The priority valves modulate the pressure to the users
+
+A Blue system pipeline is identified by: (ME Repair, E&A Repair)
+A blue band and number 1.
+@@A blue band and number 2.
+A blue band and number 3.
+
+When the PTU operation is inhibited? (ME Repair, E&A Repair)
+@@In case of cargo door operations with the yellow electric pump or first engine start.
+Only if an engine failure has been detected.
+Never, it cannot be inhibited.
+
+When is the engine fire shut off valve closed? (ME Repair, E&A Repair)
+When the engine is shut down
+Automatically as soon as an engine fire is detected.
+@@If the engine fire pushbutton is release out.
+
+When is the engine driven pump in the depressurized mode? (ME Repair, E&A Repair)
+@@When eng pump pushbutton is set to OFF
+The engine pump cannot be depressurized as the engine is running
+The engine pump is automatically depressurized if the output pressure drops below 1450psi
+
+How can the LH wing be supplied independently during the leak measurement test? (ME Repair)
+By setting the leak measurement valve to OFF and operating the electric pump.
+By pressurizing the yellow system by using the PTU.
+@@By setting the leak measurement valve to OFF and manually open the LH wing spool valve
+
+What can the hand pump be used for? (ME Repair, E&A Repair)
+To pressurized the reservoir.
+To check the flight controls
+@@To operate the cargo doors
+
+During which operation is the leak measurement valve closed automatically (ME Repair, E&A Repair)
+PTU operation.
+@@Cargo door operation.
+Hand pump operation.
+
+What are the manual depressurization valves provided for? (ME Repair)
+@@Individual reservoir depressurization
+Depressurization of related hydraulic circuit
+Hydraulic system depressurization

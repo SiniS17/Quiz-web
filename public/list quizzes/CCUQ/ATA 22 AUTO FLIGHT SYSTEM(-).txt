@@ -1,0 +1,161 @@
+The FCU allows: (E&A Repair)
+Selection of radio-nav frequencies
+Modification of the flight plan of FM parts
+Used control of the aircraft for long term
+Used control of the aircraft for short term
+
+With the aircraft on ground, it is impossible to: (E&A Repair)
+Have an AP active, engines on
+Disengage an AP, engines on
+Engage an AP, engines on
+Engage an AP, engines off
+
+The FAC computes rudder travel limit: (E&A Repair)
+Only when AP engaged
+Only in case of ELAC failure
+Only at a/c low speed
+At any times
+
+The Flight Director is engaged: (E&A Repair)
+By pressing the FD p/b on the FCU
+By selecting a mode on the FCU
+Automatically at system power rise
+By selecting the INT page on the MCDU
+
+With the AP engaged, the rudder is normally controlled during cruise by: (E&A Repair)
+The FAC
+The ELAC
+The FMGC
+The SEC
+
+The AFS computers are: (E&A Repair)
+FMGC and FAC
+FAC and ELAC
+FMGC and SEC
+ELAC and SEC
+
+The FMGC functions are: (E&A Repair)
+Flight guidance and flight envelope protection
+Flight envelope protection and yaw axis control
+Flight management and flight envelope protection
+Flight management and flight guidance
+
+The Flight Guidance are: (E&A Repair)
+Autopilot, flight director, autothrust
+Flight management, autopilot, autothrust
+Autopilot, flight plan, autothrust
+Autopilot, flight director, flight plan
+
+The mcdus allow: (E&A Repair)
+Used control of the aircraft for short term
+Modification of FG parts
+Used control of the aircraft for long term
+Make the flight plan and engage the autopilots
+
+The main function of the FAC are: (E&A Repair)
+Yaw damper, rudder trim, rudder travel limitation
+Yaw damper, rudder trim, flight envelope protection
+Rudder trim, rudder travel limitation, flight envelope protection
+Yaw damper, rudder trim, rudder travel limitation, flight envelope protection
+
+In flight AP can be engaged when: (E&A Repair)
+Aircraft in take  off phase
+Aircraft in climb phase
+At least 5 seconds after lift-off
+Aircraft in cruise phase
+
+Rudder travel limitation is a function of: (E&A Repair)
+FAC only
+FAC in normal and ELAC in alternate
+ELAC only
+ELAC in normal and FAC in alternate
+
+The trim function of the FAC is: (E&A Repair)
+A pitch trim
+A rudder trim
+An elevator trim
+A rudder trim and a pitch trim
+
+The trust limit is computed by: (E&A Repair)
+The FMGC according to the AP/FD mode
+The ECU (EEC) according to the thrust lever position
+The ECU (EEC)  according to the AP/FD mode
+The FMGC  according to the ECU (EEC) order
+
+In Auto mode the trust target is computed by:  (E&A Repair)
+The FMGC according to the AP/FD mode
+The ECU (EEC) according to the thrust lever position
+The ECU (EEC)  according to the AP/FD mode
+The FMGC  according to the ECU (EEC) order
+
+The mandatory parameter used by FAC for Alpha Floor protection is: (E&A Repair)
+A/C maximum speed
+A/C minimum speed
+A/C angle of attack
+A/C minimum selected speed
+
+Normally FAC 1 uses Vc input signal to computes RTL from:  (E&A Repair)
+ADIRU 1 and ADIRU 2
+ADIRU 1 and ADIRU 3
+ADIRU 2 and ADIRU 3
+ADIRU 1,ADIRU 2 and ADIRU 3
+
+The baro correction or reference selected is sent to each ADIRU from the: (E&A Repair)
+FCU
+Master FMGC
+Rmps
+ADIRS CDU
+
+In normal operation the ADIRU’S are aligned using information from the: (E&A Repair)
+FCU
+ADIRS CDU
+AIDS
+Fmgcs
+
+In cruise, lateral AP orders are executed by:  (E&A Repair)
+Ailerons and rudder
+Aileron and spoilers
+Spoilers and rudder
+Spoilers, ailerons and rudder
+
+With the aircraft in flight, AP engaged and A/THR activated, the A/THR mode: (E&A Repair)
+Depends on the AP vertical mode
+Depends on the AP lateral mode
+Can be set by the pilot via  FCU
+Can be set by the pilot via mcdus
+
+The “GROUND SCAN” allows: (E&A Repair)
+AFS computers test on ground
+Land cat 3 capability test on ground
+AFS fault detection on ground
+Complementary tests during landing
+
+In case of FMGC 2 failure, FMGC 1 auto tunes: (E&A Repair)
+Side 2 radio nav receivers through RMP 2
+Side 2 radio nav receivers through RMP 1
+Side 2 radio nav receivers directly
+Side 2 radio nav receivers through RMP 3
+
+The fuel and time prediction functions are performed by: (E&A Repair)
+FG part of the fmgcs
+FM part of the fmgcs
+The FAC
+The DMC
+
+On the FMA, in the fifth column: (E&A Repair)
+A/THR can be in green only
+A/THR in cyan indicates A/THR is active
+A/THR can be in green or cyan only
+A/THR in white indicates A/THR is active
+
+In flight, you can engage the second AP during: (E&A Repair)
+Cruise phase
+Descend phase
+Approach phase and ILS armed
+A/C on ground
+
+With AP 1 engaged: (E&A Repair)
+FMGC 1 supply both fmas
+FMGC 1 supply FMA on CAPT PFD ,FMGC 2 supply FMA on F/O PFD
+FMGC 1 supply FMA on F/O PFD ,FMGC 2 supply FMA on CAPT PFD
+FMGC 2 supply both fmas

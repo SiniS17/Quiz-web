@@ -1,0 +1,58 @@
+The main purpose of weighing aircraft is: (ME Repair, E&A Repair)
+Calculate the position of the center of gravity
+Calculate of aircraft weight
+Know the aircraft weight for passenger loading
+
+When weighing the aircraft to find the operating empty weight of the aircraft  (ME Repair, E&A Repair)
+All the fire extinguishers, oxygen masks and safety belts must be removed
+Engine, APU, IDG oil must refill to necessary level.
+Engine, APU, IDG oil must be empty
+Hydraulic fluid must be empty
+
+Can you do the aircraft weighing and balancing to calculate the center of gravity with: (ME Repair, E&A Repair)
+All tools and protection devices on the aircraft
+The shock absorbers and the tires deflated
+The doors of aft and forward cargo compartments are opened
+Slats and flaps in fully extended position.
+
+Configuration for aircraft WEIGHING to find the operating empty weight: (ME Repair, E&A Repair)
+All the fire extinguishers, oxygen masks and safety belts must be removed
+All tools and protection devices on the aircraft must be removed
+Empty all of Engine, APU, IDG oil.
+All above.
+
+When Lifting the AIRCRAFT for leveling (ME Repair, E&A Repair)
+You must not lift the aircraft with the safety stay.
+The weight of fuel is applied equally on the two side of the aircraft  centerline
+Make sure that the aircraft is stable before you lift it with jacks
+All above
+
+When Lifting the aircraft  (ME Repair, E&A Repair)
+All the doors must be closed and locked.
+Passenger/crew door may be fully opened and locked but the cargo doors must be closed and locked.
+The passenger/crew doors, the emergency exits and the cargo doors are closed and locked or fully open and locked.
+No requirement.
+
+You can weigh the aircraft with: (ME Repair, E&A Repair)
+The aircraft on jacks only
+The aircraft on its wheels only
+The aircraft on landing gear jacks only
+The aircraft on jacks or the aircraft on its wheels or the aircraft on landing gear jacks
+
+When Weighing the aircraft on jacks (ME Repair)
+The aircraft must have a pitch attitude of zero deg.
+You can do this procedure with load cells on each jack or with platform scales under each jack
+Make the aircraft leveling after jack up.
+All Above
+
+When leveling the aircraft you must: (ME Repair)
+Operate the jacks of the aircraft to move the bubble to the D4 position
+Operate the jacks of the aircraft to move the bubble to the E4 position
+Operate the jacks of the aircraft to move the bubble to the D5 position
+Operate the jacks of the aircraft to move the bubble to the E5 position
+
+For aircraft Quick Leveling you can use (ME Repair)
+The ADIRU or the Attitude Monitor
+A Spirit Level in the Passenger Compartment
+A Spirit Level in the FWD Cargo Compartment
+All above

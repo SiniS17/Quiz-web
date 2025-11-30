@@ -1,0 +1,62 @@
+Where can you find characteristics and complimentary information of the Part Number: (ME Repair, E&A Repair)
+IPC or AMM
+ASM or AMM
+IPC or ESPM
+ESPM
+
+Where you can find procedure for installation of the Push Button switch: (E&A Repair)
+AMM
+IPC
+ASM
+ESPM
+
+In the AMM tasks, “WARNING” is meant: (ME Repair, E&A Repair)
+Calls attention to use of materials, processes, methods, procedures or limits which must be followed precisely to avoid injury of death to persons
+Calls attention to methods and procedures which be followed to avoid damage to equipment
+Calls attention to methods which make the job easier or provide supplementary or explanatory information
+
+In the AMM tasks, “CAUTION” is meant: (ME Repair, E&A Repair)
+Calls attention to use of materials, processes, methods, procedures or limits which must be followed precisely to avoid injury of death to persons
+Calls attention to methods and procedures which be followed to avoid damage to equipment
+Calls attention to methods which make the job easier or provide supplementary or explanatory information
+
+In the AMM tasks, “NOTE” is meant: (ME Repair, E&A Repair)
+Calls attention to use of materials, processes, methods, procedures or limits which must be followed precisely to avoid injury of death to persons
+Calls attention to methods and procedures which be followed to avoid damage to equipment
+Calls attention to methods which make the job easier or provide supplementary or explanatory information
+
+The Wiring Diagram Manual (WDM) content: (ME Repair, E&A Repair)
+ASM & AWM
+SRM & AWM
+ASM & AWL
+ASM, AWM and AWL
+
+You can access to the Aircraft Wiring List (AWL) by: (E&A Repair)
+Function using the ALPHA-INDEX
+Fin using the EQUIPMENT LIST or HOOK-UP LIST
+Fin using the EQUIPMENT LIST or HOOK-UP LIST or by wire number using the MASTER WIRE LIST
+Wire number using the MASTER WIRE LIST
+
+ASM gives : (ME Repair, E&A Repair)
+Schematic diagrams of the electrical installation with sufficient data for A/C fault isolation
+Wiring diagrams of the electrical installation
+Information required for trouble shooting is contained in the manual
+The status of the item of equipment, semi-equipment and related wiring
+
+TSM gives: (ME Repair, E&A Repair)
+Wiring diagrams of the electrical installation
+Information required for trouble shooting is contained in the manual
+The status of the item of equipment, semi-equipment and related wiring
+Schematic diagrams of the electrical installation with sufficient data for A/C fault isolation
+
+AWM gives: (E&A Repair)
+Wiring diagrams of the electrical installation
+Information required for trouble shooting is contained in the manual
+Schematic diagrams of the electrical installation with sufficient data for A/C fault isolation
+The status of the item of equipment, semi-equipment and related wiring
+
+AMM gives: (ME Repair, E&A Repair)
+The status of the item of equipment, semi-equipment and related wiring
+Information required for trouble shooting is contained in the manual
+The information required to service, repair, replace, adjust, inspect and check equipments and systems of the A/C normally performed on the ramp or in the maintenance hangar
+Schematic diagrams of the electrical installation with sufficient data for A/C fault isolation

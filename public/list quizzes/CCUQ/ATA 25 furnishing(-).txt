@@ -1,0 +1,108 @@
+Smoke hoods are supplied for the cabin attendants to: (ME Repair, E&A Repair)
+Supply oxygen for passengers.
+@@Fight a fire or against emission of smoke or noxious gases.
+Breathe oxygen.
+
+Where are the  cabin depressurization doors mounted? (ME Repair)
+On the upper sidewall panels
+On the ceiling panels
+@@On the lower sidewall panels
+
+From where the escape slide inflation cylinder is checked? (ME Repair)
+From the cargo compartment only.
+From the PTP only.
+@@From the cargo compartment or from the PTP.
+
+Which device has to be unlocked before closing the slide window? (ME Repair, E&A Repair)
+@@A locking pin on the sliding window frame.
+The sliding window operating handle.
+None.
+
+Which cabin panels are removable? (ME Repair)
+Lower sidewall panels only.
+@@All the panels.
+Upper sidewall panels only.
+
+Where are passenger oxygen masks stored? (ME Repair, E&A Repair)
+@@In the passenger service unit
+In the seat arm rest
+In the overhead stowage compartment
+
+Where are the A320 aircraft inflation reservoirs of the escape slide of emergency exit door located? (ME Repair, E&A Repair)
+In the container at the bottom of the door
+In the overhead stowage compartment over the door
+@@In the aft cargo compartment
+
+When you check the pax door escape/slide inflation cylinder, where must the pressure indication be? (ME Repair, E&A Repair)
+@@In the green GO band
+In the red band
+At zero.
+
+In the cargo compartment where are the rapid decompression panels installed? (ME Repair)
+In the cut out of the ceiling panels
+In the fixed partition walls
+@@In the cut out of the ceiling panels and lateral right side wall linings
+
+The cargo loading control box being supplied, which latch insures the energization of the pdus? (ME Repair, E&A Repair)
+The door sill latch
+@@The ZX-single latch 32.
+The fixed YZ latch.
+
+Captain and First Officer Seats are: (ME Repair, E&A Repair)
+@@Symmetrical and have the same function
+Asymmetrical and have the same function
+Have the same function and interchangeable.
+Folding type and has no adjustment
+
+Captain and First Officer Seats electrical control system permits (ME Repair, E&A Repair)
+@@Control the seats in vertical and horizontal direction
+Control the seats in vertical and horizontal direction and adjust the backrest
+Control the seats in vertical and horizontal direction and adjust the lumbar rest
+All above
+
+The rapid-decompression safety-system is installed in the aircraft  (ME Repair, E&A Repair)
+@@Prevents structural damage to the fuselage and damage to the equipment and furnishings
+Provides quick escape facility of the aircraft
+Provides quick access to aircraft area.
+Prevents overpressure to aircraft area
+
+Where is the inflation cylinder of the passenger door escape slide located? (ME Repair)
+@@In a container at the bottom of the door.
+In the overhead stowage compartment over the door.
+In the aft cargo compartment.
+In the fwd cargo compartment.
+
+The A320 aircraft is fitted with emergency evacuation slide at:  (ME Repair, E&A Repair)
+The 4 entry doors.
+The overwing exits
+@@The 4 entry doors and the overwing exits
+
+The sidestick armrest of Captain and First Officer seats (ME Repair, E&A Repair)
+Possible to lift it vertically and stow it behind the backrest
+Located on the inboard side of the seat
+@@Possible to adjust the height and the tilt angle of the side stick armrest
+Can not fold back to a vertical position
+
+Third Occupant seat in the cockpit (ME Repair, E&A Repair)
+@@Can slide along the Y-axis to take up a position on the aircraft centerline
+Have longitudinal adjustment
+Can moves longitudinally and vertically
+Attached to the left rear panel in the cockpit
+
+The passenger seats  (ME Repair, E&A Repair)
+Seat pans are upholstered and not foldable or adjustable
+Can fold the inner armrests between the backrests
+Upholstered backrest assembly of each seat may be adjusted
+@@All above
+
+The Passenger Service/Information Units (psius) (ME Repair, E&A Repair)
+Has two primary units: Passenger Service Unit (PSU) and Passenger Information Unit (PIU)
+The Passenger Service Unit (PSU), installed above each seat row
+The Passenger Information Unit (PIU), installed above each second seat row
+@@All above
+
+The aircraft galley has two optional configurations: wet galley and dry galley (ME Repair, E&A Repair)
+@@Wet galley has electrical equipment, a potable water supply and waste water equipment.
+Wet galley has a potable water supply only
+Wet galley has no system supplies
+Wet galley has electrical supply

@@ -1,0 +1,104 @@
+Release the engine fire push button causes the closure of: (ME Repair, E&A Repair)
+@@Engine fuel Low pressure valve
+Engine fuel Low pressure valve and Engine fuel high pressure valve
+Engine fuel high pressure valve
+Nothing
+
+How is the HP fuel shut off valve solenoid energized to close? (ME Repair, E&A Repair)
+@@Directly by engine Master switch selection
+By a signal from the ECU (engine control unit)
+Directly by a fuel pressure signal in case of start abort
+By a signal processed by the EIU and sent to the ECU
+
+With the engine Master switch at Off: (ME Repair, E&A Repair)
+@@The HP fuel valve and LP fuel shut off (fire) valve are closed
+The HP fuel valve is closed and the LP fuel shut off (fire) valve is open
+The HP fuel valve is open and the LP fuel shut off (fire) valve is closed
+The HP fuel valve and the LP fuel shut off (fire) valves are open
+
+Which condition required to open the PRSOV? (ME Repair, E&A Repair)
+Commanded fuel pressure from the FMV.
+PRSOV latching solenoid de-energized.
+@@Both the above conditions.
+
+In which condition the ECU controls the opening of the HP fuel shut off valve. (ME Repair, E&A Repair)
+Mode SEL in IGN/START or CRK position.
+@@Master lever in ON position.
+Both the above conditions.
+
+How is the engine LP fuel valve controlled? (ME Repair, E&A Repair)
+@@By two electrical motors.
+By a dual solenoids.
+Hydraulically by the servo fuel.
+
+Which computer controls the engine thrust? (ME Repair, E&A Repair)
+@@ECU in both manual and automatic thrust modes.
+FMGC in automatic thrust mode and ECU in manual mode.
+FCU in both manual and automatic thrust modes.
+
+When the throttle is between two detent points, what position corresponds to the thrust limit? (ME Repair, E&A Repair)
+The upper detent point.
+The lower detent point.
+@@The actual throttle lever position.
+
+What does the FMGC compute? (ME Repair, E&A Repair)
+N1 limit.
+@@N1 target.
+N1 command.
+
+What is the normal engine throttle cruise detent point? (ME Repair, E&A Repair)
+@@CL
+FLX/MCT
+TOGA
+ATA - 77: ENGINE INDICATION.
+
+The engine primary parameters are displayed on? (ME Repair, E&A Repair)
+The lower ECAM engine page.
+@@The upper ECAM.
+Both The lower ECAM engine page and the upper ECAM.
+
+The engine page is selected? (ME Repair, E&A Repair)
+@@Manually or automatically depend on flight phases.
+Manually only.
+Automatically only depend on flight phases.
+
+The engine vibration parameter is displayed on? (ME Repair, E&A Repair)
+The Upper ECAM.
+The Lower ECAM engine page.
+@@The Lower ECAM engine page or Cruise page.
+
+The engine oil quantity parameters are displayed on? (ME Repair, E&A Repair)
+The Upper ECAM.
+The Lower ECAM engine page.
+@@The Lower ECAM engine page or Cruise page.
+
+The engine oil pressure parameters are displayed on? (ME Repair, E&A Repair)
+The Upper ECAM.
+@@The Lower ECAM engine page.
+The Lower ECAM engine page or Cruise page.
+
+The IGN indication is displayed on? (ME Repair, E&A Repair)
+The Upper ECAM during engine start.
+@@The Lower ECAM engine page during engine start.
+The Lower ECAM engine page or Cruise page.
+
+The fuel used indication is reset to Zero : (ME Repair, E&A Repair)
+Five minutes after engine shut down
+After a new take-off
+Through the MCDU
+@@At each engine start
+
+The TRF vibration sensor is used? (ME Repair, E&A Repair)
+In parallel with the 1st sensor.
+As standby for the 1st sensor and will automatically activated in case the 1st sensor failure.
+@@As standby for the 1st sensor and will not automatically activated in case the 1st sensor failure.
+
+The engine thrust indicated on ECAM via what parameter? (ME Repair, E&A Repair)
+@@N1 speed.
+N2 speed
+EGT
+
+Which engine parameters are displayed on the ECAM upper display? (ME Repair, E&A Repair)
+FF, N1 & N2.
+N1, N2, EPR, oil pressure, oil temperature.
+@@N1, EGT, N2.

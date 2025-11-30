@@ -1,0 +1,111 @@
+The fuel suction (gravity feed) valves are: (ME Repair)
+Always open regardless of pumps status
+@@Normally closed by pumps pressure
+Normally closed by spring force
+Open automatically when fuel cross feed is selected on.
+
+When does the FADEC close the fuel return valve? (ME Repair)
+@@With a signal from the FLSCU
+With a signal from the fqis
+If the IDG oil is too hot
+With an outer cell overfilling
+
+What happens if you extend the slats, with fuel in the center tank, all pumps are running, center tank pumps are on “AUTO” mode? (ME Repair, E&A Repair)
+@@Center tank pumps stop
+Center tank pumps start
+Wing tank pumps start
+Pumps operation is not affected
+
+A pressure switch for each pump monitors a: (ME Repair, E&A Repair)
+Pressure differential
+Feed pipe pressurization
+Pressure increase
+@@Loss of pressure
+
+What happen if a high level is detected? (ME Repair, E&A Repair)
+A warning is triggered: too much fuel
+Booster pumps are not operating correctly
+@@The corresponding REFUEL valve closes
+All the refueling operating is stopped
+
+Are wing pumps running while center tank is supplying? (ME Repair, E&A Repair)
+@@Yes, wing tank pumps run continuously
+No, only when center tank is empty
+No, because of center tank pump priority
+One of the two pumps is running in stand-by
+
+When the center tank is empty, in auto mode, center tank pumps: (ME Repair, E&A Repair)
+Must be manually switched OFF
+Stop and wing tank pumps start running
+@@Stop automatically
+Run for 2 minutes
+
+Refuel valves may be controlled: (ME Repair, E&A Repair)
+By refuel pressure
+Electrically only
+Manually only
+@@Electrically or manually
+
+The APU fuel feed is assured by: (ME Repair, E&A Repair)
+Fuel booster pumps only
+APU fuel pump only
+All pumps together
+@@A or B
+
+What is the maximum total fuel capacity for VNA’s A320 aircraft? (ME Repair, E&A Repair)
+12 470 KG
+15 588 KG
+@@18 932 KG
+20 829 KG
+
+What does the fuel mode SEL pushbutton control? (ME Repair, E&A Repair)
+Center and wing tank pumps
+@@Center tank pumps only
+Wing tank pumps only
+Pumps and valves operation
+
+In normal operation, each engine is supplied by: (ME Repair, E&A Repair)
+One wing tank pump and/ or one center tank pump
+@@Two wing tanks pumps and/ or one center tank pump
+Two wing tanks pumps and/ or two center tank pumps
+One wing tank pump and/ or two center tank pumps
+
+During refueling, the wing tank fills in the following order: (ME Repair, E&A Repair)
+The Outer cell and Inner cell at the same time
+The Inner cell first, then the Outer cell
+@@The Outer cell first, then the Inner cell
+
+The inner cell is refueled only when? (ME Repair, E&A Repair)
+Center tank is full.
+@@Outer cell is full.
+Outer cell is empty.
+
+The maximum refuel pressure is? (ME Repair, E&A Repair)
+11 psi
+45 psi
+@@50 psi
+
+The END light in the refuel/defuel panel illuninate, means? (ME Repair, E&A Repair)
+@@Pre-selected fuel is equal to actual fuel.
+All fuel tanks are full, refuel process stopped automatically.
+Any high level sensor detected fuel.
+
+When performing the refuel, defuel, Ground transfer, the R/D electrical circuit is enable by? (ME Repair, E&A Repair)
+Power from the aircraft electrical net work only.
+Carrying out HI LVL test.
+@@Contact R/D panel door switch.
+
+What happens when low level is detected in the inner cell? (ME Repair, E&A Repair)
+@@Inner cell transfer valves open.
+Inner cell transfer valves close to isolate the inner cells
+Pumps restart to suck fuel from outer cells.
+
+In which cell are the full level sensors fitted? (ME Repair, E&A Repair)
+@@Inner cells only.
+Outer cells only.
+Inner and outer cells.
+
+To which tank does the re-circulated fuel returns? (ME Repair, E&A Repair)
+Inner cells.
+@@Outer cells.
+Center tanks.

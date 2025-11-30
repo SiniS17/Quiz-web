@@ -1,0 +1,127 @@
+In normal condition, what are the active protections in flare mode? (ME Repair, E&A Repair)
+@@Bank angle and stall protections
+Bank angle and high speed protections
+Stall protection only
+
+Which modes exist for an elevator servo control actuator? (ME Repair)
+Only the re-centering mode
+@@Active, damping and centering mode
+Active and damping mode
+Active, damping and locking mode
+
+With complete EFCS (ELECTRIC FLIGHT CONTROL SYSTEM) failure the rudder and THS are: (ME Repair, E&A Repair)
+Lost
+@@Controlled by mechanical channels
+Only usable during land/recovery
+Operated electrically
+
+If ELAC 1 and 2 have failed: (ME Repair, E&A Repair)
+Pitch control is provided by the FAC's
+Pitch control can only be achieved from the trim wheels
+@@Pitch control is controlled by SEC 2 or 1
+Pitch control is controlled by the FCDC's
+
+Which modes exist for an aileron elevator servo control actuator? (ME Repair)
+Only the re-centering mode
+Active, damping and centering mode
+@@Active and damping mode
+Active, damping and locking mode
+
+What effect on the slat and flap system will failure of  SFCC 2 cause? (ME Repair, E&A Repair)
+Slat system operates at half speed
+Flap system operates at half speed
+@@Slat and flap systems operate at half speed
+Slat and flap systems are locked
+
+Slat retraction from 18° to fully retracted is inhibited if : (ME Repair, E&A Repair)
+@@> 8.5° or CAS < 148 Kts
+< 7.1° or CAS > 171 Kts
+> 8.5° or CAS > 148 Kts
+> 8.5° or CAS < 171 Kts
+
+Which surfaces are used for the load alleviation function? (ME Repair, E&A Repair)
+Ailerons and spoilers 1 and 2
+@@Ailerons and spoilers 4 and 5
+Only spoilers
+Ailerons and spoilers 1 to 4
+
+How many servo control actuators power the rudder surface? (ME Repair, E&A Repair)
+One
+Two
+@@Three
+Four
+
+When both side sticks are moved in the same or opposition direction: (ME Repair, E&A Repair)
+@@The surface movement is proportional to the algebraic sum of the deflection of both side sticks
+The surface movement is proportional to the last stick deflection
+The surface movement follows the captain's side stick deflection
+The surface movement follows the co-pilot's side stick deflection
+
+If one hydraulic system fails: (ME Repair, E&A Repair)
+Only the roll and pitch axes are available
+@@All the three axes are available with some roll spoiler retraction
+Manual pitch trim and rudder are available
+All servo control actuators are supplied through the PTU 89.
+
+What signals cause the rudder pedal movement? (ME Repair, E&A Repair)
+Yaw damping signals.
+@@Rudder trim signals
+Turn coordination signal
+Nothing
+
+With one flap PCU motor inoperative, the flap system: (ME Repair, E&A Repair)
+@@Operates at half speed
+Operates normally
+Is locked by the pressure off brakes on both wings
+Is locked by the wing tip brakes
+
+FAC 1 controls and monitors one yaw damper, one electrical rudder trim motor and: (ME Repair, E&A Repair)
+@@One electrical motor for the rudder travel limitation unit
+One servo actuator on each elevator
+Both THS trim motors
+The mechanical linkage from rudder pedals
+
+In normal conditions, what are the active protections in flare mode? (ME Repair, E&A Repair)
+@@Bank angle and stall protections
+Bank angle and high speed protections
+Stall protection only
+
+What are the active protections in direct law (ME Repair, E&A Repair)
+Stall protection
+@@No protection
+High speed protection
+
+What happens if an electric trim motor fails (ME Repair, E&A Repair)
+THS electric trim is lost
+THS trims at half speed
+@@THS electric trim is fully available
+
+Which signals cause rudder pedal movements (ME Repair, E&A Repair)
+Yaw damping signals
+@@Rudder trim signals
+Turn coordination signals
+
+What happens when slat/flap config is 1+F and CAS (Calibrated air speed) reaches 210 knots? (ME Repair, E&A Repair)
+@@Flaps retract automatically to 0 and the new Slat/Flap config is 1
+Flaps extend automatically because the speed too high
+The alpha lock function is engaged because the speed too high
+
+When is the half speed monitor active? (ME Repair, E&A Repair)
+As soon as the directional valve energized
+@@When the control valve is in full speed position
+Always
+
+SFCC 1 flap channel has failed. What are the consequences for the flap system? (ME Repair, E&A Repair)
+The flap system is locked by WTB.
+The flap system is not affected
+@@The flap system operates at half speed
+
+Where are the Wing Tib Brakes located? (ME Repair, E&A Repair)
+At the wing tib, outboard of the APPU
+@@Between tract 11 and 12, in each wing.
+Between tract 7 and 8, in each wing.
+
+Where are the torque limiters located? (ME Repair, E&A Repair)
+On the torque sharps
+@@On the actuators
+On the PCU output sharps

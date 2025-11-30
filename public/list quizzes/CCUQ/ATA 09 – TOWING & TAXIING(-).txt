@@ -1,0 +1,76 @@
+When the NLG dimension H is more than 300 mm (ME Repair, E&A Repair)
+Do not tow the aircraft to prevent damage to the centering cams.
+Do not tow the aircraft to prevent tail to ground contact.
+Smooth and speed limited towing is possible.
+
+If a engine is running (ME Repair, E&A Repair)
+You can tow the aircraft from the front only.
+You can push the aircraft only.
+Either tow or push is possible.
+
+Towing the aircraft is (ME Repair, E&A Repair)
+Allowed with one engine running above idle.
+Allowed with both engines running up to idle.
+Allowed only with one engine running up to idle.
+
+Towing can be carried out with (ME Repair, E&A Repair)
+Passenger/crew doors fully open and locked without restriction.
+Cargo doors open in vertical position with speed limited.
+Engine cowls open and hold open rods fully locked.
+
+Towing can be carried out using (ME Repair, E&A Repair)
+Tow bar or towbarless tractor at NLG.
+Tow bar or towbarless tractor at MLG(s)
+Tow bar at NLG only.
+
+The maximum permitted steering-angle on each side of the aircraft centerline is (ME Repair, E&A Repair)
+95 degrees.
+75 degrees.
+74 degrees.
+
+What is the correct sequence? (ME Repair, E&A Repair)
+Install the tow bar on the tow fitting then install the tow lever safety pin
+Install the tow lever safety pin then install the tow bar on the tow fitting.
+There is no specific sequence
+
+Communication system(s) to be used during towing is (are)? (ME Repair, E&A Repair)
+VHF and FLT INT.
+VHF or HF with FLT INT.
+VHF only.
+
+What indication on ECAM do you have to check prior to start towing? (ME Repair, E&A Repair)
+N WHEEL STEERG DISC
+N WHEEL STEERG INOP
+N WHEEL STEERG OFF
+
+From cockpit how can you know that the brake are release prior to towing the aircraft? (ME Repair, E&A Repair)
+Check Parking brake selector in OFF, brake pressure indication on ECAM  is at 0 and confirm with GND personnel.
+Check Parking brake selector in OFF; check all the 03 pointes are at green range and confirm with GND personnel.
+Check Parking brake selector in OFF; brake pressure pointes at 0 and confirm with GND personnel.
+
+The maximum permitted steering angle on each side of the aircraft when use front fitting to push the aircraft rearwards with the engines at idle is: (ME Repair, E&A Repair)
+40 degrees.
+60 degrees.
+74 degrees.
+95 degrees.
+
+Minimum separation from the nose wheels and the tractor while towing the aircraft is: (ME Repair, E&A Repair)
+2 m
+3 m.
+4 m.
+
+In towing configurations the safety pin locks the control lever on the interphone box in: (ME Repair, E&A Repair)
+Disengaged position.
+Engaged position.
+Normal position.
+
+When towing the aircraft: (ME Repair, E&A Repair)
+All the doors must be closed and locked.
+Passenger/crew door may be fully opened and locked the cargo doors open in vertical position
+Passenger/crew door may be fully opened and locked but the cargo doors must be closed and locked
+
+When one tire is deflated on one main gear (ME Repair, E&A Repair).
+The aircraft can be towed by the nose gear only.
+The aircraft can be towed by the main gear only.
+The aircraft can be towed by the main gear or nose gear.
+The aircraft can not be towed

@@ -1,0 +1,49 @@
+What you do not have to do before you lift the aircraft with jacks? (ME Repair, E&A Repair)
+Make sure that the GND safety locks are in position on the landing gears
+Make sure that the aircraft is stable
+Make sure that the aircraft fuel tanks are empty
+
+The Tail Safety stay is used to: (ME Repair, E&A Repair)
+Share load with the main jacks during jacking process
+Keep the aircraft more stable during landing gear retraction/ extension tests
+Keep the aircraft stable on jacks
+
+How many points on the structure are designated for the purpose of lifting the aircraft? (ME Repair, E&A Repair)
+3
+4
+2
+
+What is correct answer? (ME Repair, E&A Repair)
+You can not lift the aircraft with jacks when the tires and the shock absorbers are deflated.
+You can not lift the aircraft at the forward jacking point only, with the wheels of the main landing gear on the ground
+You must not apply more than the safe load at each jacking point.
+
+What is the configuration of the aircraft ready for jacking? (ME Repair, E&A Repair)
+Wheel chocks ON, Parking brake ON.
+Wheel chocks OFF, Parking brake OFF.
+Wheel chocks ON, Parking brake OFF.
+
+Distribution of load must be clearly indicated at? (ME Repair)
+Forward and wing jacking points.
+Forward, wing and tail jacking points.
+Tail jacking point.
+
+What is permissible during jacking for main LDG wheel change? (ME Repair, E&A Repair)
+Cargo, PAX loading.
+Gate docking.
+Installation of the wheel chocks on the wheels of the other main LDG.
+
+Application of flight configuration precaution is required when (ME Repair, E&A Repair)
+Lifting the aircraft on jacks.
+Jacking a MLG for wheels change.
+Lifting the aircraft at Forward Jacking Point, MLG Wheels on the Ground.
+
+The purpose of shoring of the aircraft is to: (ME Repair)
+Give a support to the wing in order to release the loads on the structure.
+Keep the aircraft more stable on jacks.
+Both of the above.
+
+In which document you will find the detail instruction for shoring the aircraft? (ME Repair)
+SRM chapter 51.
+AMM chapter 51.
+AMM chapter 07.

@@ -1,0 +1,107 @@
+In case of electrical power failure, with engine running, the engine anti-ice valve is: (ME Repair, E&A Repair)
+Fully closed
+@@Fully open
+Modulating
+Mechanically latched in its last position
+
+Slats protected by hot air supplied from the pneumatic system are: (ME Repair, E&A Repair)
+Three inboard leading edge slats
+@@Three outboard leading edge slats
+Slat 2, 3, 4
+All the slats
+
+When is the TAT probe heated? (ME Repair, E&A Repair)
+@@Heated in flight - not heated on ground
+Heated on ground - not heated in flight
+Heated when the outside temperature is less than 0°C
+Heated when the outside temperature is greater than 0°C
+
+A ground test of the wing anti-ice system, with pneumatic pressure available, tests: (ME Repair, E&A Repair)
+The warning system
+Only the indications as the valves cannot be opened on ground
+@@The operation of the valves
+Only the valves solenoid supply as the valves cannot be opened on ground
+
+The wing anti-ice valve is: (ME Repair, E&A Repair)
+@@A modulating and isolation valve
+Only an isolation valve
+Partially open in flight, fully open on ground
+
+How is the wing anti-ice valve controlled and operated? (ME Repair, E&A Repair)
+Pneumatically controlled and electrically operated
+Pneumatically controlled and operated
+Electrically controlled and operated
+@@Electrically controlled and pneumatically operated
+
+How many computers does the Window Heat system use? (ME Repair, E&A Repair)
+A single computer for the LH side and RH side
+Two computers, one for the LH side and RH side and the other one as a back-up
+@@Two computers, one for the LH side, one for the RH side
+No computer is used for this system
+
+Can you operate the wing anti-ice system on ground? (ME Repair, E&A Repair)
+No, you can operate the system in flight only
+@@Yes, but for a limited time of 30 secs
+Yes, for an unlimited time
+Yes, but only if the outside temperature is less than 10°C
+
+In the event of a wing anti-ice valve failure? (ME Repair, E&A Repair)
+Each valve can be deactivated in open position.
+@@Each valve can be deactivated in close position.
+Each valve can be deactivated either in close or open position.
+
+Hot air used for wing anti-iced is taken from? (ME Repair, E&A Repair)
+@@Aircraft pneumatic system.
+Bleed from either engine 1 or 2.
+Directly from the main engine compressors.
+
+What happens in case of insufficient air pressure to the engine anti-ice valve? (ME Repair, E&A Repair)
+@@The valve closed as it is spring loaded closed.
+The valve opened as it is spring loaded open.
+Stayed as it is.
+
+With both engine anti-ice push buttons set to ON (ME Repair, E&A Repair)
+The N1 limit will increase.
+@@The N1 limit will decrease.
+The N1 limit will not change.
+
+In the event of an engine anti-ice valve failure? (ME Repair, E&A Repair)
+Each valve can be deactivated in open position.
+@@Each valve can be deactivated in close position.
+Each valve can be deactivated either in close or open position.
+
+What happens when the EIU power supply C/B are pulled? (ME Repair, E&A Repair)
+Nothing happens.
+The windshield heating is cut off.
+@@The windshield and windows are heated.
+
+What happens in case of WHC failure? (ME Repair, E&A Repair)
+The failed WHC connects to the other.
+Both systems are lost.
+@@The heating of the related side is lost.
+
+How do you complete a test of the drain mast heating system? (ME Repair, E&A Repair)
+From PTP.
+From test push button of the control unit.
+@@Both a & b.
+
+How the Pitot probe be HEATED ? (ME Repair, E&A Repair)
+Heated in flight - not heated on ground
+Heated on ground - not heated in flight
+@@Reduced heating on GND, normal heating in FLT.
+Heated when the outside temperature is greater than 0°C
+
+When PROBE/WINDOW HEAT push button is in auto position and you run one engine, what happens? (ME Repair, E&A Repair)
+@@All Probe and Windows heat systems activated.
+Probe and Windows on the related side of the engine will be heated.
+Nothing happens.
+
+How is the engine anti-ice work? (ME Repair)
+Electrically controlled and operated by 5th stage bleed air, spring loaded open.
+@@Electrically controlled and operated by 9th stage bleed air, spring loaded closed.
+Electrically controlled and operated by 9th stage bleed air, spring loaded open.
+
+The Engine anti-ice valve FAULT light comes on (ME Repair, E&A Repair)
+During valve transit.
+When position disagreed
+@@During valve transit or when position disagreed.

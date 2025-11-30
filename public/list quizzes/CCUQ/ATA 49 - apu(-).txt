@@ -1,0 +1,106 @@
+The E.C.B has? (ME Repair, E&A Repair)
+Restricted authority over APU operation.
+Monitoring function over APU operation.
+@@Full authority over APU operation.
+
+From where the APU emergency shut down can be initiated? (ME Repair, E&A Repair)
+Refuel/Defuel panel; External power panel and Cockpit.
+@@External power panel and Cockpit only.
+External power panel only, if the aircraft is on ground.
+
+What indication can be displayed on the APU page? (ME Repair, E&A Repair)
+FLAP OPEN.
+FUEL LO PR; LOW OIL LVL
+@@FLAP OPEN; FUEL LO PR; LOW OIL LVL.
+
+On ground, in case of failure, how can you open/close the air intake flap? (ME Repair)
+@@Use the override manual device.
+The flap actuator can be hydraulically overridden.
+You can not override the flap actuator.
+
+What are the three APU modules? (ME Repair, E&A Repair)
+Compressor, Combustion chambers, Turbine.
+Power section, Load Compressor, Turbine.
+@@Power section, Load Compressor, Gearbox.
+
+The APU fuel low pressure circuit can be activated from? (ME Repair, E&A Repair)
+Cockpit and External Power Panel.
+@@Cockpit and Fuel Vent system at APU compartment.
+Cockpit; External Power Panel and Fuel Vent system at APU compartment.
+
+How can you activate the APU fuel vent system? (ME Repair, E&A Repair)
+@@Push and hold the VENT P/B at the APU compartment.
+Select master switch ON.
+Push and hold the VENT P/B with the master switch selected ON.
+
+How do you check the APU OIL quantity? (ME Repair, E&A Repair)
+@@On APU page, on sight glass located on the gear box and interrogate the CFDS.
+On APU page, on sight glass located on the gear box.
+On APU page, on sight glass located on the oil cooler and interrogate the CFDS.
+
+How many oil filters are installed in the APU oil system. (ME Repair)
+@@2, one pressure filter and one scavenge filter.
+2 pressure filters.
+2 scavenge filters.
+
+De-oil of the APU is accomplished by? (ME Repair)
+Drain of the oil from the gear box.
+Using the bleed air to purge the system.
+@@Using gear box pressurization air to break the suction of the oil pump.
+
+How the APU Generator is lubricated? (ME Repair)
+Using the dedicated oil system.
+@@Using the common oil system with the APU.
+By design APU Generator is self lubricated.
+
+During M.E.S. (Main Engine Start) : (ME Repair, E&A Repair)
+@@APU speed 101 %, IGV opened, SCV modulated and load valve opened
+APU speed 99 %, SCV closed, load valve opened
+APU speed 101 %, IGV opened, SCV closed, load valve modulated
+APU speed 95 %, IGV opened, SCV opened, load valve modulated
+
+When the APU Master switch is set to ON, the APU (Low pressure) fuel pump will run: (ME Repair, E&A Repair)
+Continuously
+Only when the START pushbutton is pressed
+@@Only if a low fuel pressure is detected
+Only if the ECB detects an HP pump failure
+
+With the APU bleed valve open, releasing the master switch will cause the APU to shut down: (ME Repair, E&A Repair)
+Immediately
+@@Only after the cool down period has elapsed
+Only if the START pushbutton is released
+Never, the APU bleed valve must be shut
+
+The high oil temperature or low oil pressure detected during APU operation, the ECB will cause the APU to shut down: (ME Repair, E&A Repair)
+Only if the MASTER switch is released
+Only if the START pushbutton is released
+Only after the cool down period has elapsed
+@@Immediately
+
+During cooling down sequence at 75% N, the APU is: (ME Repair, E&A Repair)
+@@Still running without electrical and pneumatic load.
+Still running with electrical load.
+Wind milling without electrical and pneumatic load.
+Still running with electrical and pneumatic load.
+
+The APU self test is performed from the MCDU. This function is available only: (ME Repair, E&A Repair)
+If the APU is running
+@@If the APU is not running
+Doing the APU start sequence
+If the START pushbutton is pressed in
+
+When the APU is started, the APU generator will be energized at: (ME Repair, E&A Repair)
+N = 75 %
+@@N = 95 % plus 2 seconds
+N = 50 %
+N = 7 %
+
+When does the surge control valve fully close? (ME Repair)
+During main engine start
+@@During ECS operation.
+On ground.
+
+If the APU has experienced an automatic shut down, where can you find information on the shut down cause? (ME Repair, E&A Repair)
+From Post Flight Report.
+Checking the APU page.
+@@Check the Shut Down menu on CFDS.

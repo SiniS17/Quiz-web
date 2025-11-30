@@ -1,0 +1,250 @@
+Which system sends the signal to the safety valve to shut off the LDG hydraulic pressure? (ME Repair, E&A Repair)
+ADIRU 2 and 3
+@@ADIRU 1 and 3
+ADIRU 1 & 2
+LGCIU 1 & 2
+
+Function of the hydraulic fuse, which is fitted in the line  to brake unit is: (ME Repair)
+To make sure that inadvertent braking action can not happen.
+To make sure that no hydraulic pressure from green system can be transferred to yellow system.
+@@To shut off the hydraulic supply to the brake unit case too much fluid flows in to the direction of the brake unit due to line damaged.
+
+Before the LDG can be retracted, the LGCIU must detect that : (ME Repair, E&A Repair)
+@@Three shock absorbers are extended
+Three shock absorbers are compressed
+Main shock absorbers are extended
+LH main and nose shock absorbers are extended
+
+What are the auto brake arming condition? (ME Repair, E&A Repair)
+@@An AUTO BRK pushbutton pressed in, green pressure and anti-skid powered and no failure in normal braking system.
+An AUTO BRK pushbutton pressed in, yellow pressure and anti-skid powered and no failure in normal braking system.
+An AUTO BRK pushbutton pressed in, green pressure and anti-skid deactivated and no failure in normal braking system.
+
+What can you operate the Nose Wheel Steering during take off and landing when the speed is above 130 Kts? (ME Repair, E&A Repair)
+@@It is not possible
+It is possible through rudder pedals
+It is possible through hand wheels
+It is possible through rudder pedals and auto pilot
+
+Which component gives priority to the Green hydraulic system when applied braking system? (ME Repair, E&A Repair)
+Brake selector valve
+Throttle valve
+@@Automatic selector valve
+
+What the "LGCIU" must detect before the landing gear can be retracted? (ME Repair, E&A Repair)
+@@Three shock absorbers are extended
+Three shock absorbers are compressed
+Main shock absorbers are extended
+LH main and nose shock absorbers are extended
+
+When will the "LGCIU" change-over for landing gear control takes place (ME Repair, E&A Repair)
+When the landing gear control lever is set to down
+@@When the landing gear control lever is set to up
+When electrical power is applied
+When both engines started.
+
+When does the BSCU provide anti-skid control? (ME Repair, E&A Repair)
+@@During the normal and alternate braking
+Only during the normal braking
+When the auto brake system has failed
+
+What controls the landing gear operating sequence? (ME Repair, E&A Repair)
+@@Either LGCIU In turn
+Both LGCIU's simultaneously
+Landing gear control lever
+Safety valve
+
+How is the in flight braking initiated? (ME Repair, E&A Repair)
+@@By selecting the landing lever to the "UP" position
+By the main landing gear door opening
+By auto brake deactivation
+By shock absorbers extended
+
+When does the automatic changeover of the lgcius in control occur? (ME Repair, E&A Repair)
+When "DOWN" is selected.
+@@When "UP" is selected.
+When the first engine starts.
+
+When does the UNLK light come on? (ME Repair, E&A Repair)
+When the gear and the related doors are not locked up.
+When the gear is not locked down.
+@@When the gear is not locked in the selected position.
+
+What is the normal retraction sequence? (ME Repair, E&A Repair)
+Door open, gear up, door close, cancel gear up signal.
+Door open, gear up, door close, maintain gear up signal.
+Door open, gear up, door close, cancel door close signal.
+
+When is the hydraulic circuit depressurized after retraction? (ME Repair)
+As soon as the selector lever is move to neutral.
+@@As soon as the airspeed is greater than 260 ± 5 Kts
+As soon as the last door is closed
+
+What happens when the gravity extension crank handle is rotated? (ME Repair)
+@@The cut-out and vent valves operate
+The safety and cut-out valves operate
+The safety and vent valves operate
+
+In case of normal braking system failure, how is alternate barking applied? (ME Repair, E&A Repair)
+Automatically when the selector valve is de-energized
+Automatically through the automatic selector
+@@As soon as the braking pedals are pressed in
+
+How can the parking brake be hydraulically powered? (ME Repair, E&A Repair)
+Only by yellow high pressure
+Only by the brake accumulator
+@@Either by yellow high pressure or by the brake accumulator
+
+In which mode is progressive pressure sent to the brakes 2 seconds after ground spoilers deployment? (ME Repair, E&A Repair)
+MAX mode.
+@@MED mode.
+LO mode.
+
+What are the auto brake arming conditions? (ME Repair, E&A Repair)
+@@An auto brake pushbutton pressed in, green pressure and anti-skid powered and no failure in normal braking system.
+An auto brake pushbutton pressed in, yellow pressure and anti-skid powered and no failure in normal braking system.
+An auto brake pushbutton pressed in, green pressure and anti-skid deactivated and no failure in normal braking system.
+
+When dose the BSCU provide anti-skid control? (ME Repair, E&A Repair)
+@@During normal and alternate braking.
+Only during normal braking.
+Only when the auto brake system has failed?
+
+What is the purpose of the hydraulic fuses? (ME Repair, E&A Repair)
+@@To stop the flow in case of leakage
+To shut off the return lines
+To separate the Normal from the Alternate Servovalve.
+
+Are the return lines shut off when the parking brake is applied? (ME Repair)
+No, they are always open.
+@@Yes, by the automatic selector.
+Yes, when braking by the accumulator only.
+
+Which component gives priority to the green hydraulic system? (ME Repair)
+Brake selector valve.
+Throttle valve
+@@Automatic selector
+
+What is the purpose of the by pass valve of the hydraulic steering control unit? (ME Repair)
+@@To interconnect the two chambers of the steering actuator.
+To apply hydraulic pressure to the servovalve.
+To by pass the servovalve in case of BSCU failure.
+ATA - 33: Lighting system
+
+In electrical emergency configuration, which cockpit light remain: (ME Repair, E&A Repair)
+CAPT DOME light , F/O DOME light and standby compass
+F/O DOME light , F/O RH centre instrument light and standby compass
+@@F/O DOME light , CAPT/ LH centre instrument light and standby compass
+CAPT DOME light ,CAPT/LH centre instrument light and standby compass
+
+Switch the taxi and take off light in T.O position: (ME Repair, E&A Repair)
+Take off  light comes on
+@@Take off and Taxi light come on
+Taxi light comes on
+All lights are off
+
+Which lighting includes fluorescent lamps and integral ballast units: (ME Repair, E&A Repair)
+Passenger reading lights and work attendant light
+@@Cabin light, entrance light and lavatory lights
+Lavatory lights sign
+Emergency lights sign
+
+To program zone lighting in cabin, use: (ME Repair, E&A Repair)
+@@PTP
+FAP
+CFDS
+AIDS
+
+Push the power lav switch on FAP, with lavatory door closed and locked : (ME Repair, E&A Repair)
+The lavatory lighting in DIM position
+@@The lavatory lighting in FULL Brightness position
+The lavatory lighting switch OFF
+
+In order to see the engine air intakes and wing leading edges, we have to switch on: (ME Repair, E&A Repair)
+@@The WING switch
+The RUN WAY TURN-OFF switch.
+The LAND switch
+The BEACON switch.
+
+The navigation lights include: (ME Repair, E&A Repair)
+@@RED light on the left hand, GREEN light on the right hand and WHITE light on the APU tail.
+GREEN light on the left hand, RED light on the right hand and WHITE light on the APU tail.
+WHITE light on the left hand, GREEN light on the right hand and RED light on the APU tail.
+RED light on the left hand, WHITE light on the right hand and GREEN light on the APU tail.
+
+With the RWY turn off switch set to on, when are the runway turn off lights are on? (ME Repair, E&A Repair)
+When the nose landing gear is retracted.
+@@When the nose landing gear is downlocked.
+Always
+
+When does the logo light illuminate with the switch in 2 position? (ME Repair, E&A Repair)
+@@MLG strut compression or slat extension
+NLG compression or flap extension
+NLG compression or slat extension
+Flap and slat extension
+
+When do the strobes flash in auto? (ME Repair, E&A Repair)
+@@MLG strut is not compressed
+NLG is not compressed
+NLG compression or slat extension
+Flap and slat extension
+
+If the RWY turn off, land and nose switches are all in the “ON” position, which light automatically extinguish after take off? (ME Repair, E&A Repair)
+The TAKEOFF light
+The TAXI light
+@@The NOSE and RWY TURN OFF lights when the landing gear is retracted
+The TAKEOFF and RWY TURN OFF lights
+
+What external light automatically illuminated when MLG strut is not compressed? (ME Repair, E&A Repair)
+The TAXI light
+The TAKEOFF light
+The NAV light
+@@The STROBES lights flash when the strobe switch in auto position
+
+What happen when you select the ANN LT switch to “TEST” position? (ME Repair, E&A Repair)
+@@All annunciator lights come on and 8’s up in all lcds
+All annunciator lights on overhead panel come on
+All annunciator lights changes it status
+All annunciator lights on overhead panel changes it status
+
+What is the purpose of the flood light? (ME Repair, E&A Repair)
+@@Illuminates the center pedestal
+Illuminates the cockpit floor
+Illuminates the glareshield and center instrument panel
+Illuminates the overhead panel
+
+What is the purpose of the integrated light? (ME Repair, E&A Repair)
+Illuminates the overhead panel
+Illuminates the glareshield and center instrument panel
+@@Illuminates all the instruments and panels in the cockpit
+Illuminates the cockpit floor
+
+When AVIONICS COMPT LT switch in “AUTO” position: (ME Repair, E&A Repair)
+@@The AVIONICS COMPT lighting is automatically controlled by door opening and closing
+The AVIONICS COMPT lights are automatically illuminated when A/C touchdown
+The AVIONICS COMPT lights are automatically illuminated when one engine running
+The AVIONICS COMPT lights are automatically illuminated when both engines running
+
+When landing light  selector in “ON” position: (ME Repair, E&A Repair)
+The landing lights are fully extended
+@@Extends the landing light(left or right) which automatically comes on when fully extended
+The landing light(left or right) comes on but not fully extended
+The landing light(left or right) is fully extended
+
+What happen if emergency exit light selector in “ARM” position and normal aircraft electrical power system fails? (ME Repair, E&A Repair)
+All the EMER EXIT signs automatically come on
+@@The proximity emergency escape path marking system, overhead emergency lighting, and EXIT signs automatically come on
+All the EMER EXIT signs and overhead emergency lighting automatically come on
+Overhead emergency lighting automatically come on
+
+With NO SMOKING selector in  “AUTO” position the NO SMOKING and  EXIT signs go off when: (ME Repair, E&A Repair)
+The Landing gear is extended
+The Landing gear is compressed
+@@The Landing gear is retracted
+The Landing gear is not compressed
+
+When you select the seat belt switch to  “ON” position: (ME Repair, E&A Repair)
+@@The FASTEN SEAT BELT and RETURN TO SEAT signs come on together with a low tone chime sounds
+The FASTEN SEAT BELT signs come on and low tone chime sounds only
+The FASTEN SEAT BELT signs come on only
+The FASTEN SEAT BELT and RETURN TO SEAT signs come on together with a high tone chime sounds

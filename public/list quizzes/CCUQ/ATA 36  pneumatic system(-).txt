@@ -1,0 +1,106 @@
+In case of electrical power failure, with the engine running, the bleed pressure regulating valve (PRV) is: (ME Repair)
+Fully closed
+Fully open
+@@Modulating
+Mechanically latched in its last position
+
+How is the crossbleed valve controlled and operated? (ME Repair, E&A Repair)
+Electrically controlled and pneumatically operated
+Solenoid controlled and pneumatically operated
+Pneumatically controlled and operated
+@@Electrically controlled and operate
+
+In case of an overheat downstream of the precooler: (ME Repair, E&A Repair)
+@@The CTS sends a pneumatic signal to the PRV which starts to close
+The CT sends a pneumatic signal to the PRV which starts to close
+The CTS sends a pneumatic signal to the fan air valve which goes to the fully open position
+The CT sends a pneumatic signal to the fan air valve which goes to the fully closed position
+
+What condition causes the engine PRV to close automatically? (ME Repair)
+Respective fire pushbutton guarded
+Cross bleed valve in manual mode and engine PRV in auto-mode
+Cross bleed valve in auto mode, APU bleed valve switch in OFF position and valve closed
+@@Cross bleed valve in auto mode, APU bleed valve switch in ON position and valve open
+
+When an APU duct leak is detected during engine start from APU bleed: (ME Repair)
+@@APU bleed and crossfeed valves remain open
+APU bleed and cross feed valves close
+APU bleed valve closes and cross feed opens
+Engine bleed valve reopens
+
+With engine and APU running and APU bleed valve selected ON: (ME Repair)
+Engine bleed valves open, cross bleed valve opens, APU bleed valve closes
+@@Engine bleed valves close, cross bleed valve opens, APU bleed valve opens
+Engine bleed valves open, cross bleed valve closes, APU bleed valve opens
+Engine bleed valves close, cross bleed valve closes, APU bleed valve opens
+
+The crossbleed valve is: (ME Repair)
+Controlled  and operated electrically by 1 motors
+@@Controlled  and operated electrically by 2 motors
+Controlled electrically, and operated pneumatically
+
+Can you control the high pressure valve (HPV) from the cockpit: (ME Repair, E&A Repair)
+Yes, directly
+@@No
+Yes, through bmcs
+
+With the crossbleed selector at  “AUTO” and air supplied by engine 1 only, the crossbleed valve: (ME Repair, E&A Repair)
+Is automatically controlled to open
+@@Does not receive any order
+Is controlled to close
+
+At high engine speed the high pressure valve (HPV) is: (ME Repair, E&A Repair)
+Regulating a pressure
+@@Fully closed
+Fully open
+Regulating a temperature
+
+What is the design principle of the bleed leak detection loop? (ME Repair, E&A Repair)
+@@Resistance.
+Pressure.
+Capacitor.
+
+Where the air is taken from during engine high power setting? (ME Repair, E&A Repair)
+@@IP stage.
+HP stage.
+IP and HP at the same time.
+
+What is the purpose of IP/HP switching? (ME Repair, E&A Repair)
+To regulate the output pressure depending on the Fan Air Valve position.
+@@To keep sufficient bleed pressure at low engine speed.
+To regulate the output temperature depending on the configuration of users.
+
+What is the purpose of the Control Thermal Start (CT)? (ME Repair, E&A Repair)
+To pneumatically control the OPV.
+@@To pneumatically control the FAV.
+To pneumatically control the PRV.
+
+If one HP valve failed open? (ME Repair, E&A Repair)
+@@The aircraft can be dispatched with the subject HPV deactivated close.
+The aircraft can be dispatched with the subject HPV deactivated open.
+The aircraft can only be dispatched if related bleed system is considered INOP.
+
+The E/W message: LH WING DET FAULT means? (ME Repair, E&A Repair)
+@@LH wing loop A and B fault
+Either LH wing loop A or B fault.
+Either both loops A or both loops B fault.
+
+Which component can be used to monitor engine bleed leak? (ME Repair, E&A Repair)
+Leak loops detection at Fan, Core and Pylon areas.
+Leak loops detection at Fan, Core and Pylon areas and NAC Temperature sensor.
+@@Leak loop detection at Pylon area and NAC Temperature sensor.
+
+What is the correct configuration of the wing bleed leak detection? (ME Repair, E&A Repair)
+@@Loops A connect to BMC 1 and loops B connect to BMC 2.
+LH wing loops connect to BMC 1 and RH wing loops connect to BMC 2.
+Both loops A and B connect to BMC1 and BMC 2 in parallel.
+
+The APU bleed valve is? (ME Repair, E&A Repair)
+A modulating valve.
+@@An ON/OFF valve.
+A and B.
+
+The APU bleed leak detection system is? (ME Repair, E&A Repair)
+@@A single loop that connects to BMC 1.
+A single loop that connects to both BMC 1 and BMC 2.
+The double loops that connect to BMC 1 and BMC 2 respectively.

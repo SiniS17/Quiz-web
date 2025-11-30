@@ -1,0 +1,148 @@
+DC BAT BUS can be supplied by the: (ME Repair, E&A Repair)
+DC BUS 1 or batteries
+DC BUS 2 or batteries
+@@DC BUS 1, DC BUS 2 or batteries
+Only DC BUS 1
+
+How is the RAT extension system controlled? (ME Repair, E&A Repair)
+By mean of two solenoids energized at the same time
+By mean of three solenoids
+@@By mean of two solenoids
+By mean of one solenoid only
+
+The supply priorities for FOR AC BUS 1 (2) are:  (ME Repair, E&A Repair)
+The related IDG, then the other IDG, then External Power, then the APU Generator
+External Power, then the APU Generator, then the related IDG, then the other IDG
+External Power, then the related IDG, then the other IDG, then the APU Generator
+@@The related IDG, then External Power, then the APU Generator, then the other IDG
+
+The AC ESS BUS is normally supplied by: (ME Repair, E&A Repair)
+AC BUS 2	.
+@@AC BUS 1
+Static Inverter
+Emergency Generator
+
+What is the DC ESS BUS supplied by if TR2 has failed:  (ME Repair, E&A Repair)
+TR 1
+@@ESS TR
+BAT 2
+AC 1
+
+The Static Inverter operates (ME Repair, E&A Repair)
+Only in flight
+Permanently
+@@When on batteries
+When one engine generator fails
+
+On ground, aircraft is not electrically supplied, the activation of  <MAN ON> switch P/B causes: (ME Repair, E&A Repair)
+Reset of CSM/G control unit
+@@RAT extension
+Nothing to happen
+Test of RAT and EMERGEN fault light
+
+The emergency generator is located (ME Repair, E&A Repair)
+In APU compartment
+@@In the Main Wheel Well
+In the Avionics Compartment above batteries
+Alongside the Ram Air Turbine (RAT)
+
+In “COLD” aircraft configuration, where the batteries’ voltage can be checked? (ME Repair, E&A Repair)
+There is NO INDICATION
+On the SCAM ELEC page
+@@On the ELEC-OVERHEAD panel
+On the EMR.ELEC.POWER panel
+
+With the emergency generator running  (ME Repair, E&A Repair)
+Emergency generator takes over essential buses, only if both AC BUS 1 and 2 are off
+Nothing happens if generator 1 and 2 supply their own networks
+@@Emergency generator takes over essential buses
+And a generator fails, the emergency generator takes over the corresponding networks .
+
+When the SMOKE  push button released out: (ME Repair, E&A Repair)
+Fuel pump 1 on the left and right supply direct from AC BUS1
+Fuel pump 1 on the left and right supply direct from GEN 2
+@@Fuel pump 1 on the left and right supply, direct from GEN. 1
+Fuel pump 2 on the left and right supply direct from GEN 1
+
+What is the DC ESS BUS SHED supply if TR 1 has failed (ME Repair, E&A Repair)
+TR 1
+BAT 2
+@@ESS TR
+BAT 1
+
+Can you reset IDG 1 in the flight? (ME Repair, E&A Repair)
+Yes
+@@No
+
+What is the configuration if BTC 1 is open and BTC 2 closed  (ME Repair, E&A Repair)
+EXT PWR "supplies AC BUS 1 and GEN 2 supplies AC BUS 2
+APU GEN supplies AC BUS 1 and AC BUS 2
+APU GEN supplies AC BUS 1 and EXT PWR supplies AC BUS2
+@@GEN 1 supplies AC BUS 1 and EXT PWR supplies AC BUS 2
+
+Following an IDG 1 over temperature, IDG 1 is: (ME Repair, E&A Repair)
+Automatically de-energized and re-energized as soon as the Temperature returns to Normal
+Manually de-energized by pressing GEN 1 Pushbutton
+Automatically disconnected and reconnected as soon as the Temperature returns to Normal
+@@Disconnected by pressing the guarded IDG 1 Pushbutton
+
+Maintenance buses only are supplied when: (ME Repair, E&A Repair)
+External power is connected and blue ON light on EXT PWR pushbutton illuminated; MAIN BUS switch in ON position
+@@External power is connected and the green AVAIL light on EXT PWR pushbutton illuminated; MAIN BUS switch is ON position
+Any generator is coupled to the network; MAIN BUS switch is in ON position,
+The APU generator or external power is connected.; EXT PWR pushbutton illuminated; MAIN BUS switch in ON position
+
+Both light “AVAIL” and “NOT IN USE” in the external power receptacle are illuminated when: (ME Repair, E&A Repair)
+An External Power Source is supplying the Aircraft Network
+An External Power Source is supplying the Maintenance Bus Bars
+At least one External Power Parameter is not correct, the External Power Contactor (EPC) stays Open
+@@All External Power Parameters are correct but the EPC is Open
+
+If a high APU generator oil temperature detection occurs: (ME Repair, E&A Repair)
+@@An immediate APU shut down is commanded and the APU Generator is denergized
+The APU Generator is disconnected only
+The APU Generator Fault Light illuminates only
+A Warning Message is displayed on ECAM only
+
+What does the AC ESS FEED PB white “ALT” light indicates?  (ME Repair, E&A Repair)
+AC ESS BUS is supplied by AC BUS 1
+@@AC ESS BUS is supplied by AC BUS 2
+AC ESS BUS is supplied by EMER GEN
+AC ESS BUS is supplied by STATIC INVERTER
+
+How is the DC BAT BUS normally powered by?  (ME Repair, E&A Repair)
+BATTERIES
+@@DC BUS 1 through a DC tie contactor
+DC BUS 2
+DC ESS BUS
+
+What does the EXT PWR PB “AVAIL” light illuminated on EXT PWR panel means?
+(ME Repair, E&A Repair)
+@@External power is plugged in,and all parameters are normal
+All external power parameters are normal but not plugged in
+External power is plugged in
+External power is plugged in and supplied to A/C network
+
+If both main AC BUSES lose electrical power with airspeed above kts, what will happen? 	 (ME Repair, E&A Repair)
+Nothing
+The RAT deploys
+The EMER GEN supply power to the A/C network
+@@The RAT automatically deploys and pressurizes the Blue hydraulic system,which drives the hydraulic driven EMER GEN
+
+What is the output of the emergency generator? (ME Repair, E&A Repair)
+90 KVA
+10 KVA
+@@5 KVA
+1 KVA
+
+What is the purpose of the static inverter? (ME Repair, E&A Repair)
+@@To provide AC power to the AC ESS bus from the BAT when operating in the EMER ELEC configuration
+To  provide DC power to the DC ESS bus
+To provide AC power to the AC BUS 1 from the BAT when operating in the EMER ELEC configuration
+To provide AC power to the AC STATIC INV bus from the BAT when operating in the EMER ELEC configuration
+
+What is the output of  APU generator? (ME Repair, E&A Repair)
+@@90 KVA
+50 KVA
+5 KVA
+1 KVA

@@ -1,9 +1,9 @@
-// modules/ui/navigation.js - Quiz List and Folder Navigation
+// modules/ui/navigation.js - Quiz List and Folder Navigation with Back Support
 import { fetchQuizList } from '../api.js';
 import { showNotification } from './notifications.js';
 import { showLoading, hideLoading, disableAllControlsDuringLoad, enableAllControlsAfterLoad } from './loading.js';
 import { addFadeInAnimation } from '../utils.js';
-import { clearLevelCounts, setLevelCounts } from '../state.js';
+import { clearLevelCounts, setLevelCounts, setCurrentFolder, getCurrentFolder } from '../state.js';
 import { loadQuiz } from '../quiz-loader.js';
 
 // Track current folder path
@@ -20,6 +20,7 @@ export function listQuizzes(folder = '') {
 
   // Update current folder path
   currentFolderPath = folder;
+  setCurrentFolder(folder);
 
   showLoading();
   disableAllControlsDuringLoad();
@@ -148,7 +149,7 @@ function createQuizBox(file, folder) {
 
   quizBox.onclick = () => {
     const filePath = folder ? `${folder}/${file}` : file;
-    initializeQuiz(filePath);
+    initializeQuiz(filePath, folder);
   };
 
   return quizBox;
@@ -157,14 +158,146 @@ function createQuizBox(file, folder) {
 /**
  * Initialize quiz from file
  */
-function initializeQuiz(fileName) {
+function initializeQuiz(fileName, folder) {
   showLoading();
   disableAllControlsDuringLoad();
+
+  // Store the folder path for back navigation
+  setCurrentFolder(folder || '');
 
   hideQuizSelection();
   showQuizSettings();
 
   loadQuiz(fileName);
+}
+
+/**
+ * Go back to current folder
+ */
+export function goBackToFolder() {
+  const folder = getCurrentFolder();
+
+  // Show confirmation dialog
+  showConfirmDialog(
+    'Return to Folder?',
+    `Are you sure you want to go back to the quiz selection? Your current progress will be lost.`,
+    () => {
+      // User confirmed
+      listQuizzes(folder);
+    }
+  );
+}
+
+/**
+ * Show confirmation dialog
+ */
+function showConfirmDialog(title, message, onConfirm) {
+  // Create modal overlay
+  const overlay = document.createElement('div');
+  overlay.className = 'confirm-overlay';
+  overlay.style.cssText = `
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.2s ease;
+  `;
+
+  // Create modal
+  const modal = document.createElement('div');
+  modal.className = 'confirm-modal';
+  modal.style.cssText = `
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    max-width: 400px;
+    width: 90%;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    animation: slideUp 0.3s ease;
+  `;
+
+  modal.innerHTML = `
+    <div style="margin-bottom: 1.5rem;">
+      <h3 style="margin: 0 0 0.5rem 0; color: var(--text-primary); font-size: 1.25rem; display: flex; align-items: center; gap: 0.5rem;">
+        <i class="fas fa-exclamation-triangle" style="color: var(--warning-color);"></i>
+        ${title}
+      </h3>
+      <p style="margin: 0; color: var(--text-secondary); font-size: 0.95rem; line-height: 1.5;">
+        ${message}
+      </p>
+    </div>
+    <div style="display: flex; gap: 0.75rem; justify-content: flex-end;">
+      <button class="cancel-btn" style="
+        padding: 0.75rem 1.5rem;
+        border: 1px solid var(--border-color);
+        background: white;
+        color: var(--text-primary);
+        border-radius: 8px;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      ">Cancel</button>
+      <button class="confirm-btn" style="
+        padding: 0.75rem 1.5rem;
+        border: none;
+        background: var(--primary-color);
+        color: white;
+        border-radius: 8px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      ">Go Back</button>
+    </div>
+  `;
+
+  overlay.appendChild(modal);
+  document.body.appendChild(overlay);
+
+  // Add hover effects
+  const cancelBtn = modal.querySelector('.cancel-btn');
+  const confirmBtn = modal.querySelector('.confirm-btn');
+
+  cancelBtn.onmouseover = () => cancelBtn.style.background = 'var(--bg-secondary)';
+  cancelBtn.onmouseout = () => cancelBtn.style.background = 'white';
+  confirmBtn.onmouseover = () => confirmBtn.style.background = 'var(--primary-dark)';
+  confirmBtn.onmouseout = () => confirmBtn.style.background = 'var(--primary-color)';
+
+  // Handle buttons
+  cancelBtn.onclick = () => {
+    overlay.style.animation = 'fadeOut 0.2s ease';
+    setTimeout(() => overlay.remove(), 200);
+  };
+
+  confirmBtn.onclick = () => {
+    overlay.style.animation = 'fadeOut 0.2s ease';
+    setTimeout(() => {
+      overlay.remove();
+      onConfirm();
+    }, 200);
+  };
+
+  // Close on overlay click
+  overlay.onclick = (e) => {
+    if (e.target === overlay) {
+      cancelBtn.click();
+    }
+  };
+
+  // Close on Escape key
+  const escapeHandler = (e) => {
+    if (e.key === 'Escape') {
+      cancelBtn.click();
+      document.removeEventListener('keydown', escapeHandler);
+    }
+  };
+  document.addEventListener('keydown', escapeHandler);
 }
 
 // UI helper functions
@@ -220,9 +353,10 @@ function showQuizSettings() {
   }
 }
 
-// Make listQuizzes available globally for HTML onclick handlers
+// Make functions available globally
 if (typeof window !== 'undefined') {
   window.listQuizzes = listQuizzes;
+  window.goBackToFolder = goBackToFolder;
 }
 
 // Export for use in other modules

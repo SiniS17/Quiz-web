@@ -1639,3 +1639,126 @@ html {
     display: none !important;
   }
 }
+/* Fix for overlapping sidebar - add to your existing styles.css */
+
+/* Left Sidebar - Fixed positioning below header */
+.left-sidebar {
+  position: fixed;
+  left: 0;
+  top: var(--header-height);
+  width: clamp(160px, 12vw, 220px);
+  height: calc(100vh - var(--header-height));
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-right: 1px solid var(--border-color);
+  box-shadow: var(--shadow-md);
+  z-index: 50; /* Lower than header (100) */
+  overflow-y: auto;
+  transition: all 0.3s ease;
+  padding-top: 1rem; /* Add padding at top */
+}
+
+/* Logo cursor pointer and hover effect */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  cursor: pointer;
+  transition: var(--transition);
+  padding: 0.5rem;
+  border-radius: var(--border-radius);
+  margin: -0.5rem;
+  position: relative;
+}
+
+.logo:hover {
+  background: var(--bg-secondary);
+  transform: translateX(-2px);
+}
+
+.logo h1 {
+  font-size: clamp(1.1rem, 3.5vw, 1.75rem);
+  font-weight: 700;
+  color: var(--text-primary);
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  position: relative;
+}
+
+.logo h1::after {
+  content: '← Back to folder';
+  position: absolute;
+  bottom: -20px;
+  left: 0;
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  background: linear-gradient(135deg, var(--text-muted), var(--text-muted));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  white-space: nowrap;
+}
+
+.logo:hover h1::after {
+  opacity: 1;
+}
+
+/* Confirmation Modal Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Mobile responsiveness for sidebar */
+@media (max-width: 768px) {
+  .left-sidebar {
+    display: none !important;
+    position: fixed;
+    top: var(--header-height);
+    left: 0;
+    width: clamp(280px, 80vw, 320px);
+    height: calc(100vh - var(--header-height));
+    z-index: 1160;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+    padding-top: 1rem;
+  }
+
+  .left-sidebar.mobile-visible {
+    display: block !important;
+    transform: translateX(0);
+  }
+
+  .logo h1::after {
+    display: none; /* Hide hint on mobile */
+  }
+}

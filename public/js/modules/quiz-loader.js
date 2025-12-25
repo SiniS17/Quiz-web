@@ -1,6 +1,6 @@
-// modules/quiz-loader.js - Quiz Content Loading and Processing
+// modules/quiz-loader.js - Quiz Content Loading with Flexible Level Display
 import { fetchQuizContent } from './api.js';
-import { parseQuestions } from './parser.js';
+import { parseQuestions, sortLevelsForDisplay } from './parser.js';
 import { setSelectedFileName, getLevelCounts } from './state.js';
 import { updateQuizTitle } from './ui/navigation.js';
 import { showNotification } from './ui/notifications.js';
@@ -56,15 +56,22 @@ function processQuizDataAndStart(text, fileName) {
 }
 
 /**
- * Update quiz info display
+ * Update quiz info display with flexible level information
  * @param {number} questionCount - Total questions
  */
 function updateQuizInfo(questionCount) {
   const maxQuestionsInfo = document.getElementById('max-questions-info');
   if (maxQuestionsInfo) {
     const levelCounts = getLevelCounts();
-    let levelInfo = Object.entries(levelCounts)
-      .map(([level, count]) => `Level ${level}: ${count}`)
+    const sortedLevels = sortLevelsForDisplay(levelCounts);
+
+    let levelInfo = sortedLevels
+      .map(([level, count]) => {
+        // Format display: if it's a number, show as "Level X"
+        const isNumber = !isNaN(parseInt(level)) && String(parseInt(level)) === level;
+        const displayName = isNumber ? `Level ${level}` : level;
+        return `${displayName}: ${count}`;
+      })
       .join(', ');
 
     maxQuestionsInfo.innerHTML = `

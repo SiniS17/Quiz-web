@@ -1,4 +1,4 @@
-// modules/quiz-settings.js - Quiz Settings Management
+// modules/quiz-settings.js - Quiz Settings Management with Flexible Levels
 import {
   getLevelCounts,
   getGlobalSelectedCount,
@@ -7,12 +7,13 @@ import {
   getPendingQuestionCount,
   getQuizState
 } from './state.js';
+import { sortLevelsForDisplay } from './parser.js';
 import { showNotification } from './ui/notifications.js';
 import { showLoadingScreen, hideLoadingScreen } from './ui/loading.js';
 import { updateQuizWithNewLevels, changeQuestionCount } from './quiz-manager.js';
 
 /**
- * Create level selection checkboxes
+ * Create level selection checkboxes with flexible level names
  */
 export function createTopLevelCheckboxes() {
   const checkboxContainer = document.getElementById('level-checkboxes');
@@ -21,18 +22,26 @@ export function createTopLevelCheckboxes() {
   checkboxContainer.innerHTML = '';
   const levelCounts = getLevelCounts();
 
-  Object.entries(levelCounts).forEach(([level, count]) => {
+  // Sort levels for better display
+  const sortedLevels = sortLevelsForDisplay(levelCounts);
+
+  sortedLevels.forEach(([level, count]) => {
     const wrapper = document.createElement('div');
     wrapper.className = 'checkbox-wrapper';
 
     const checkbox = document.createElement('input');
     checkbox.type = 'checkbox';
-    checkbox.id = `level-${level}`;
+    checkbox.id = `level-${CSS.escape(level)}`;
+    checkbox.dataset.level = level;
     checkbox.checked = true;
 
     const label = document.createElement('label');
-    label.htmlFor = `level-${level}`;
-    label.textContent = `L${level} (${count})`;
+    label.htmlFor = `level-${CSS.escape(level)}`;
+
+    // Format label text: if it's just a number, prefix with "Level"
+    const isNumber = !isNaN(parseInt(level)) && String(parseInt(level)) === level;
+    const labelText = isNumber ? `L${level}` : level;
+    label.textContent = `${labelText} (${count})`;
 
     wrapper.appendChild(checkbox);
     wrapper.appendChild(label);

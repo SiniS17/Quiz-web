@@ -1,0 +1,98 @@
+The purpose of the fuel return valve is(ME Repair, E&A Repair)
+@@To return fuel back to the tank.
+To return fuel back to the LP fuel pump inlet.
+To return fuel back to the servo fuel heater inlet.
+
+Which component prevents ice from entering the control servos inside the hydromechanical fuel unit (HMU)?(ME Repair)
+FRV
+Oil cooler
+@@Servo fuel heater
+
+The servo fuel heater is(ME Repair)
+A heat exchange between cool fuel from the tank and hot fuel from the return line occurs by conduction and convection inside the unit.
+@@A heat exchange between oil and fuel occurs by conduction and convection inside the unit.
+A heat exchange between air and fuel occurs by conduction and convection inside the unit.
+
+The servo fuel heater system has(ME Repair)
+@@No fuel anti-clogging valve
+Fuel anti-clogging valve
+Oil anti-clogging valve
+
+Engine protection is in term of(ME Repair)
+Fan speed (N1), core speed (N2) and engine vibration (N1/N2) to prevent exceedance of certified red lines.
+Fan speed (N1), core speed (N2) and engine oil pressure to prevent exceedance of certified red lines.
+@@Fan speed (N1), core speed (N2) and Engine turbine exhaust gas temperature monitoring (EGT) to prevent exceedanceof certified red lines.
+
+The engine idles control is comprised of (ME Repair, E&A Repair)
+Minimum idle and ground idle
+Minimum idle and maximum idle
+@@Minimum idle and approach idle.
+
+During the reverser is in transit (ME Repair, E&A Repair)
+@@The ECU sets the engine at idle.
+The ECU sets the engine at climb.
+N1 follows throttle demand.
+
+What controls the engine in all operating regimes? (ME Repair, E&A Repair)
+@@FADEC
+EVMU
+EIU.
+
+The function of the deactivation lever located on the HCU is to (ME Repair, E&A Repair)
+De-energized the isolation valve solenoid
+@@Isolate hydraulic supply
+Energized the isolation valve solenoid.
+
+How can ECU be supplied by power? (ME Repair, E&A Repair)
+By Aircraft electrical network
+By dedicated alternator generator
+@@Both A & B
+By HOT BAT BUS
+
+When does Alternator generator operate and supply power to ECU? (ME Repair, E&A Repair)
+When ENGINE at Idle speed
+@@When 10% N2 reach.
+When 10% N1 reach.
+Always operate provided Aircraft is powered on.
+
+Which connector of ECU used for Identification plug? (E&A Repair)
+@@J14
+B.J15
+C.J13
+D.J4
+
+The CFM56 FADEC system of each engine consists of (ME Repair, E&A Repair)
+An EEC, EIU, EVMU and its peripheral components and sensors.
+@@A dual channel electronic control unit (ECU), with its associated peripherals.
+A dual channel electronic control box (ECU) and an engine interface unit (EIU).
+
+Before performing the operational test of the FADEC on GND (with Engine motoring), you must: (ME Repair, E&A Repair)
+@@Make sure that the travel ranges of the flight control surfaces are clear before you motor the engine. Movement of the flight control surfaces can be dangerous and/or cause damage
+Make sure that the safety pin is installed in the N/W-steering deactivation electrical-box. Movement of nose wheels can cause damage.
+Make sure that the thrust reverser is locked. If not, the thrust reverser can operate accidentally and cause injury to personnel and/or damage to the reverser
+
+The FADEC automatically selects a continuous relight: (ME Repair, E&A Repair)
+In case of engine interface unit (EIU) failure only.
+@@If the ANTI ICE pb is selected ONor In case of EIU failure or engine flame-out.
+In case of electronic control unit (ECU) failure only.
+
+The ENG FADEC GND PWR is used to: (ME Repair, E&A Repair)
+Enable the pilots to start the engines automatically.
+@@Supply the computers dedicated to the engines when the engines are not running.
+Enable the pilots to start the engines manually.
+
+How is the thrust rating changed on the CFM56? (ME Repair, E&A Repair)
+By change the ECU.
+By a setting up in MCDU.
+@@By an engine data programming plug.
+
+The HP fuel Shut-Off Valve is:
+A line replaceable unit upstream of the HMU.
+A line replaceable unit downstream of the HMU.
+@@Not a line replaceable unit, in the HMU.
+
+How is the fuel LP VALVE controlled?(ME Repair, E&A Repair)
+@@By the Master lever or Fire P/B SW.
+By the EEC and the Master lever.
+By the EEC and Fire P/B SW.
+

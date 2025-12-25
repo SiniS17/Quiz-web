@@ -1,0 +1,15 @@
+The engine indicating oil pressure is: (ME Repair, E&A Repair)
+Main supply line pressure
+@@Differential pressure between main supply line and vent line
+Scavenge line pressure.
+
+What happens when the main oil filter is clogged? (ME Repair, E&A Repair)
+@@The oil flows through the bypass valve and the backup filter.
+The IDG oil temperature increases.
+The engine oil temperature increases.
+
+What does the master chip detector do in case of metal particules detection?(ME Repair, E&A Repair)
+It sends a signal to the ECU
+It provides a warning to the ECAM system.
+@@It operates a visual indicator for ground inspection
+

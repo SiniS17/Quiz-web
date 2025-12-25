@@ -1,0 +1,15 @@
+How many kind of wiring harness installed on CFM Engine? (E&A Repair)
+1
+@@2
+3
+
+What does harness HCJxxx means? (E&A Repair)
+@@This harness is belong to core section
+This harness is belong to fan section
+Both A & B
+
+Can Engine wiring harness be replaced? (E&A Repair)
+Yes but need approved from CFM
+@@Yes refer AMM
+No.
+

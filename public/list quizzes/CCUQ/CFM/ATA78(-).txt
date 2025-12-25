@@ -1,0 +1,40 @@
+Where is located the hydraulic SOV? (ME Repair)
+Downstream of the HCU
+Inside the HCU
+@@Upstream of the HCU.
+
+How is the thrust reverser controlled? (ME Repair, E&A Repair)
+By the ECU only.
+@@By the ECU and the two conditions from Spoiler Elevator Computers and EIU inhibition relay.
+Directly by the reverser lever
+
+Prior to performing maintenance on the thrust reverser: (ME Repair, E&A Repair)
+The yellow hydraulic system must be depressurized.
+@@Deactivate the thrust reverser by placing the lever in the inhibition position on the hydraulic control unit (HCU).
+Deactivate the thrust reverser by disconnecting the hydraulic supply lines.
+
+The CMF56 thrust reverser system consists of (ME Repair, E&A Repair)
+Two translating sleeves
+@@4 pivoting blocker doors,
+4 pivoting blocker doors and cascade vanes
+
+The CFM56 thrust reverser system is (ME Repair, E&A Repair)
+@@Hydraulically supplied by the corresponding hydraulic pump on the engine.
+Isolated from the hydraulic supply by an engine fire shut off valve.
+Designed for use on the ground and in flight to reduce aircraft landing roll.
+
+When is it possible to operate the thrust reverser system? (ME Repair, E&A Repair)
+@@On ground only.
+On ground or in flight.
+In flight only.
+
+The CFM56 thrust reverser system is controlled (ME Repair, E&A Repair)
+@@Through the ECU from the two reverser latching levers located on the throttle control levers.
+By the ECU only
+Directly by the reverser lever
+
+Is there any mechanical links to open 4 blocker doors manually at the same time?(ME Repair, E&A Repair)
+@@No, each blocker door is open individually.
+Yes, by means of the manual drives to turn the flexible shaft of synchronizing system.
+Yes, through the CFDS menu.
+

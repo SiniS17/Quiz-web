@@ -1,0 +1,45 @@
+The vibration parameters for display on ECAM:(ME Repair, E&A Repair)
+Are sent directly from EVMU.
+Are sent by EVMU through DMCs.
+@@Are sent by EVMU to DMCs though SDACs.
+
+Where is PS12 sensor located?(ME Repair, E&A Repair)
+At the outlet of HP compressor
+Downstream from OGV
+@@At the Fan Frame.
+AT the booster discharge pressure.
+
+Which sensor used for EGT indication?(ME Repair, E&A Repair)
+@@T49.5
+T5
+T Case
+T3
+
+Which parameters can speed sensors supply for ECU?(ME Repair, E&A Repair)
+@@N1, N2, VIB
+N1, N2
+N1 and VIB
+N2 and VIB
+
+How many thermocouples used to measure EGT?(ME Repair, E&A Repair)
+4
+6
+@@9
+12
+
+Where can the maximum value (N1, N2 or EGT) be read if the engine has exceeded the operational limits? (ME Repair, E&A Repair)
+@@From DMC
+From ECU last leg report.
+From DMU.
+
+The engine parameters sent directly to the DMCs for ECAM display by the Electronic Control Unit (ECU) are: (ME Repair, E&A Repair)
+N1, N2, Fuel Used, EGT.
+N1, Fuel Flow, T2.
+@@N1, N2, EGT, Fuel Flow
+N2, EGT, P2.
+
+The fuel used indication is reset to zero: (ME Repair, E&A Repair)
+Five minutes after engine shut down
+Through the MCDU.
+@@At each engine start.
+

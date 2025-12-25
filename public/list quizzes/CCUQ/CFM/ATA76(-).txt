@@ -1,0 +1,56 @@
+The thrust setting parameter is(ME Repair, E&A Repair)
+@@N1
+N2
+EPR
+
+Thrust throttle lever detents are(ME Repair, E&A Repair)
+TO/GA, FLX, CR, IDLE, REV
+@@TO/GA, FLX/MCT, CL, IDLE, REV
+TO/GA, FLX/MCT, CR, IDLE, REV
+
+The purpose of using FLEXIBLE TAKE-OFF is (ME Repair, E&A Repair)
+@@To obtain reduced thrust operation.
+To obtain increased thrust operation.
+To obtain maximum thrust operation.
+
+Two available thrust setting modes are (ME Repair, E&A Repair)
+The autothrust mode and the active mode.
+@@The autothrust mode and the manual mode.
+The autothrust mode and the selected mode.
+
+The ATHR de-activation and ATHR disengagement are achieved (ME Repair, E&A Repair)
+By action on the disconnect pushbutton switch located on the throttle control levers.
+By pressing the ATHR pushbutton switch provided that the ATHR was engaged.
+By selection of the reverse thrust.
+@@Either of above
+
+When ATHR is deactivated (due to FMGC command or failure) (ME Repair, E&A Repair)
+@@The thrust is frozen to the actual value at the time of the deactivation.
+The thrust is increased to the value corresponding to the throttle lever upper detent at the time of the deactivation.
+The thrust is decreased to the value corresponding to the throttle lever lower detent at the time of the deactivation.
+
+On ground, as soon as the engine is running, the computation of thrust limit parameter is initialized in (ME Repair, E&A Repair)
+MCL mode
+FLEX/MCT mode
+@@MTO/GA mode
+
+Alpha floor protection is (ME Repair, E&A Repair)
+@@Part of autothrust function
+Manually selected by pilots
+Automatically activated by EIU
+
+The A320/321 engines throttle control levers can (ME Repair, E&A Repair)
+@@Only be moved manually.
+Move automatically in autothrust mode
+Be moved manually or automatically.
+
+What can provide closure of the HPSOV? (ME Repair, E&A Repair)
+The related ECU only
+The related ECU or the engine fire push button
+@@Directly from master lever to OFF or respective ECU during engine starting.
+
+When the throttle lever is between two detents, the thrust rating limit corresponds to: (ME Repair, E&A Repair)
+@@Upper  detent position
+Lower  detent position
+Actual throttle lever position.
+

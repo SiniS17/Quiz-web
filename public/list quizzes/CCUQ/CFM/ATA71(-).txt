@@ -1,0 +1,63 @@
+For CFM56, the thrust reverser cowl doors are opened: (ME Repair, E&A Repair)
+Electrically by a motor or manually and secured by a hold open rod.
+Hydraulically or manually and secured by a hold open rod.
+@@Hydraulically and secured by a hold open rod
+
+The cowling assembly consists of :
+@@The air intake cowl, the fan cowl, the thrust reverser cowl and the primary exhaust (primary nozzle and center body). (ME Repair, E&A Repair)
+The air intake cowl, the fan cowl, the thrust reverser cowl and the common nozzle assembly.
+The air intake cowl, the fan cowl, the thrust reverser cowl and the center body.
+
+Which cowls incorporate a lightning protection system?
+Fan cowl and thrust reverser cowl
+@@Inlet cowl and fan cowl (ME Repair)
+Inlet cowl, fan cowl and thrust reverser cowl.
+
+The fan cowl hold open rods are:
+Telescopic type with fixed open position at 40 degree.
+@@Telescopic type with 2 positions: 40 degree for routine maintenance and 55 degree for increased access. (ME Repair, E&A Repair)
+Telescopic type with 3 positions: 30 degree for routine maintenance, 40 degree for ECU removal access and 55 degree for increased access.
+
+What is one of the major structural and aerodynamic components of the engine?(ME Repair)
+Fan/Booster Rotor
+Fan/Booster Stator
+@@Fan frame.
+The engine is attached to the pylon by (ME Repair, E&A Repair)
+@@FWD and AFT mounts.
+FWD, middle and AFT mounts.
+Three mounts.
+The FAN cowl door is held in position by: (ME Repair, E&A Repair)
+One hold open rod
+One hydraulic  actuator
+@@Two hold open rods.
+Each thrust reverser “C” duct is opened by: (ME Repair, E&A Repair)
+One electric actuator
+One pneumatic  actuator
+@@One hydraulic actuator
+The power plant drain system is located: (ME Repair, E&A Repair)
+At the bottom of engine
+At the rear part of pylon
+@@Both A and B.
+
+For CFM56, the fan cowl is equipped with: (ME Repair, E&A Repair)
+@@Three (3) latches
+Four (4) latches
+Five (5) latches
+For CFM56, the thrust reverser cowl is equipped with: (ME Repair, E&A Repair)
+Three (3) latches
+@@Four (4) latches
+Five (5) latches.
+The forward mount: (ME Repair, E&A Repair)
+Carries the engine torque, thrust and side loads.
+Carries the engine torque, vertical and side loads.
+@@Carries the engine thrust, vertical and side loads.
+
+The aft mount: (ME Repair, E&A Repair)
+Carries the engine torque, thrust and side loads.
+@@Carries the engine torque, vertical and side loads.
+Carries the engine thrust, vertical and side loads.
+
+Can be replacement engine with the air intake cowl installed?(ME Repair)
+@@Yes, Engine can be replacement with or without the air intake cowl installed.
+No, Engine cannot replacement with the air intake cowl installed.
+No, Engine only can be replacement without the air intake cowl installed.

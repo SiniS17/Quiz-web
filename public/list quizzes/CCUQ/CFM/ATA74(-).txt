@@ -1,0 +1,26 @@
+Ignition systems are controlled by: (ME Repair, E&A Repair)
+Electronic Control Unit (ECU) in automatic start mode.
+Engine Interface Unit (EIU) in manual start mode.
+@@Electronic Control Unit (ECU) in automatic and manual start mode.
+Engine Interface Unit (EIU) in automatic and manual start mode.
+
+What is the purpose of the fuel return valve in the recirculation system? (ME Repair, E&A Repair)
+@@To maintain engine oil, IDG oil and fuel temperature within limits.
+To provide better fuel filtering.
+To depressurize the fuel system at engine shut-down.
+
+What is the purpose of the ENGINE MASTER switch? (ME Repair, E&A Repair)
+@@To open or close the LP and HP fuel Shut-Off Valve.
+To command and reset the FADEC functions.
+Both to open or close the HP fuel Shut-Off Valve and to command and reset the FADEC functions.
+
+With engine running, continuous ignition can be selected via the ECU (ME Repair, E&A Repair)
+Automatically by the EIU.
+Manually using the master switch.
+@@Manually using the rotary selector.
+
+The ignition system uses : (ME Repair, E&A Repair)
+28 VAC from aircraft
+@@115 VAC from aircraft
+115 VAC from dedicated alternator
+

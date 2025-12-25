@@ -1,0 +1,31 @@
+The active clearance control (ACC) system ensures: (ME Repair, E&A Repair)
+@@Better turbines efficiency
+Better turbine`s blades cooling
+Better turbine`s vanes cooling
+
+The purpose of the LP and HP turbine clearance control systems is to: (ME Repair, E&A Repair)
+Reduce wear of the turbine blades.
+Prevent excessive nacelle temperature.
+@@Optimize engine performance.
+
+The compressor airflow control of the CMF56 includes (ME Repair, E&A Repair)
+@@A variable bleed valve (VBV) system and a variable stator vane (VSV) system.
+A BSBV system, a VSV system and bleed valves at the 7th and 10th stages of the HPC.
+A booster stage bleed valve system and a variable stator vane (VSV) system.
+
+The CFM56 engine air system includes: (ME Repair, E&A Repair)
+@@The compressor airflow control, turbine clearance control, transient bleed and cooling.
+The compressor airflow, turbine clearances control, cooling and pressurizing airflows.
+The compressor airflow control and turbine clearance control.
+
+What is used to cool the fan and core compartments? (ME Repair, E&A Repair)
+Ram air for both compartments.
+Fan air both compartments.
+@@Ram air for the fan compartment and fan air for the core compartment.
+
+A nacelle temperature sensor monitors: (ME Repair, E&A Repair)
+The accessory gearbox area temperature only
+The pylon area temperature only
+The High Pressure turbine area temperature only
+@@The core compartment exit temperature.
+

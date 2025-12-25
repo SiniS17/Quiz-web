@@ -1,0 +1,80 @@
+The aft sump is in the:(ME Repair)
+Fan frame
+@@Turbine rear frame
+Between fan frame and turbine rear frame
+
+When the engine is to be preserved and stored, it is recommended that(ME Repair)
+@@The variable bleed valves (VBV) must be closed.
+The variable stator vanes (VSV) must be closed.
+The booster stage and bleed valve (BSBV) must be closed.
+
+In case of engine FOD associated with normal parameters: (ME Repair)
+The borescope inspection shall be performed to make sure all the components in good conditions.
+The borescope inspection may be delayed provided FOD did not result in missing material to the fan blades. Service extension is permitted on both engines in the event of a dual engine FOD.
+@@The borescope inspection may be delayed provided FOD did not result in missing material to the fan blades. Service extension is only permitted on one engine in the event of a dual engine FOD.
+
+The engine washing is carried out when: (ME Repair)
+@@The EGT is below 660C.
+The EGT is below 1500C
+The EGT is below 2000C
+
+The aircraft external cleaning task can contribute to(ME Repair, E&A Repair)
+Oil savings
+Hydraulic savings
+@@Fuel savings
+
+The trim balance bolts are installed in(ME Repair)
+Spinner Front Cone
+@@Spinner Rear Cone
+Fan disk
+
+The vibration survey is required if(ME Repair)
+More than a pair of fan blades or one fan blade (not a pair) are replaced.
+More than two pairs of fan blades or one fan blade (not a pair) are replaced.
+@@More than three pairs of fan blades or one fan blade (not a pair) are replaced.
+
+The mechanical coupling between the HPC rotor and the TGB is(ME Repair)
+@@Inlet gearbox
+Outlet gearbox
+Angle gearbox
+
+Which component is NOT mounted in accessory gear box housing? (ME Repair, E&A Repair)
+Lubrication unit
+N2 speed sensor
+@@TRF accelerometer
+
+The hand cranking pad is located: (ME Repair, E&A Repair)
+@@On the front face of  main gearbox (forward looking aft )
+On the starter
+On the rear face of main gearbox (forward looking aft).
+
+How is the accessory gearbox driven? (ME Repair)
+By the HP rotor.
+By the LP rotor.
+@@By the HP rotor via the transfer gearbox
+
+How many bearing compartments does the engine have? (ME Repair, E&A Repair)
+1
+@@2
+
+
+For CFM56, what bearings support the HP rotor? (ME Repair)
+@@Nº3 (dual bearing) and Nº4.
+Nº2 and Nº4.
+Nº2 and Nº3 (dual bearing)
+
+For CFM56, what bearings support the LP rotor? (ME Repair)
+N01, N02 and N03 (dual bearing).
+N03 (dual bearing) and N04.
+@@N01, N02 and N05.
+
+The CFM56 LP rotor (N1) is made of (ME Repair)
+The fan and the booster compressor driven by the five stage lp turbine.
+Four stage compressor driven by a two stage turbine.
+@@Fan and a four-stage compressor driven by a four stage turbine.
+
+The CFM56 HP (N2) rotor is made of (ME Repair)
+@@9-stage compressor driven by a single stage turbine.
+10-stage hp compressor driven by a 2-stage hp turbine.
+12-stage compressor driven by a single stage turbine.
+

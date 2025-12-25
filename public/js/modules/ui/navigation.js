@@ -6,6 +6,9 @@ import { addFadeInAnimation } from '../utils.js';
 import { clearLevelCounts, setLevelCounts } from '../state.js';
 import { loadQuiz } from '../quiz-loader.js';
 
+// Track current folder path
+let currentFolderPath = '';
+
 /**
  * List available quizzes and folders
  * @param {string} folder - Current folder path
@@ -14,6 +17,9 @@ export function listQuizzes(folder = '') {
   if (folder && folder.target) {
     folder = '';
   }
+
+  // Update current folder path
+  currentFolderPath = folder;
 
   showLoading();
   disableAllControlsDuringLoad();
@@ -52,7 +58,13 @@ function createBackButton(folder) {
   const backButton = document.createElement('div');
   backButton.className = 'quiz-box back-button';
   backButton.innerHTML = '<i class="fas fa-arrow-left"></i> Back to Categories';
-  backButton.onclick = () => listQuizzes('');
+
+  // Navigate to parent folder
+  backButton.onclick = () => {
+    const parentFolder = folder.split('/').slice(0, -1).join('/');
+    listQuizzes(parentFolder);
+  };
+
   return backButton;
 }
 
@@ -71,7 +83,7 @@ function renderQuizList(data, quizGrid, folder) {
   data.files.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
 
   data.folders.forEach((folderName) => {
-    const folderBox = createFolderBox(folderName);
+    const folderBox = createFolderBox(folderName, folder);
     quizGrid.appendChild(folderBox);
     addFadeInAnimation(folderBox);
   });
@@ -100,7 +112,7 @@ function handleQuizListError(error, quizGrid) {
 /**
  * Create folder box element
  */
-function createFolderBox(folderName) {
+function createFolderBox(folderName, currentFolder) {
   const folderBox = document.createElement('div');
   folderBox.className = 'quiz-box folder-select';
   folderBox.innerHTML = `
@@ -110,9 +122,12 @@ function createFolderBox(folderName) {
   `;
 
   folderBox.onclick = () => {
+    // Build the full path to the nested folder
+    const fullPath = currentFolder ? `${currentFolder}/${folderName}` : folderName;
+
     showLoading('Opening Folder', `Loading quizzes from ${folderName}...`);
     setTimeout(() => {
-      listQuizzes(folderName);
+      listQuizzes(fullPath);
     }, 100);
   };
 
@@ -203,6 +218,11 @@ function showQuizSettings() {
     settings.style.display = 'block';
     addFadeInAnimation(settings);
   }
+}
+
+// Make listQuizzes available globally for HTML onclick handlers
+if (typeof window !== 'undefined') {
+  window.listQuizzes = listQuizzes;
 }
 
 // Export for use in other modules

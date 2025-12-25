@@ -14,6 +14,15 @@ export function initializeApp() {
  * Setup global event listeners
  */
 function setupEventListeners() {
+  // Home button click handler
+  const homeBtn = document.getElementById('home-btn');
+  if (homeBtn) {
+    homeBtn.addEventListener('click', () => {
+      listQuizzes('');
+    });
+  }
+
+  // Escape key handler
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
       const resultsContainer = document.getElementById('results-container');

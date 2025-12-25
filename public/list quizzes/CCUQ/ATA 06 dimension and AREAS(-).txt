@@ -1,28 +1,29 @@
+
 The A320/A321 aircraft is divided into zones as follows: (ME Repair, E&A Repair)
-The major zones, the major sub-zones, the zones.
+@@The major zones, the major sub-zones, the zones.
 The zones and sub-zones.
 The zones and the station.
 The major zones, the major sub-zones
 
 The station is for all structural measurement in the X axis is located in: (ME Repair, E&A Repair)
 The rib 1 of the aircraft.
-254cm forward of aircraft nose.
+@@254cm forward of aircraft nose.
 Aircraft nose.
 
 Each major zone is identified by: (ME Repair, E&A Repair)
 Three digit number and two letters
 Three digit number
-The first digit of three digit number
+@@The first digit of three digit number
 
 Access doors and panels are identified by: (ME Repair, E&A Repair)
-The number of the zone in which the panel is located followed by a two-letter suffix.
+@@The number of the zone in which the panel is located followed by a two-letter suffix.
 The number of the zone in which the panel is located followed by one letter suffix.
 A two-letter followed by the number of the zone in which the panel is located suffix.
 
 There are how many major zones in the aircraft? (ME Repair, E&A Repair)
 4
 6
-8
+@@8
 10
 
 The general fuselage section base number is: (ME Repair, E&A Repair)
@@ -33,6 +34,7 @@ The general fuselage section base number is: (ME Repair, E&A Repair)
 
 The general wing section base number is: (ME Repair, E&A Repair)
 10
-20
+@@20
 30
 40
+

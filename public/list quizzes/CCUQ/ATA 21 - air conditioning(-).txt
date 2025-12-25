@@ -1,78 +1,79 @@
+
 When the cabin pressurization system in manual mode and with the MAN V/S CTL selection in UP position: (ME Repair, E&A Repair)
-The cabin pressure increases
-The cabin altitude increases
-The outflow valve moves to the closed position
-The cabin altitude decreases
+A.	The cabin pressure increases
+@@B.	The cabin altitude increases
+C.	The outflow valve moves to the closed position
+D.	The cabin altitude decreases
 
 In case of duct overheat the HOT AIR FAULT light will extinguishes when: (ME Repair, E&A Repair)
-The HOT AIR p/b is reset
-The duct overheat goes off
-A and B
-The pressure regulating valve re-opens
+A.	The HOT AIR p/b is reset
+B.	The duct overheat goes off
+@@C.	A and B
+D.	The pressure regulating valve re-opens
 
 When the emergency ram air inlet is open and the delta P is less than 1 PSI : (ME Repair)
-The outflow valve closes
-The outflow valve partially opens
-Both pack valves close
-Both safety valves open
+A.	The outflow valve closes
+@@B.	The outflow valve partially opens
+C.	Both pack valves close
+D.	Both safety valves open
 
 Which temperature sensor controls the pack temperature? (ME Repair, E&A Repair)
-Pack inlet temperature sensor
-Pack outlet temperature sensor
-Compressor outlet temperature sensor
-Water extractor temperature sensor
+A.	Pack inlet temperature sensor
+B.	Pack outlet temperature sensor
+C.	Compressor outlet temperature sensor
+@@D.	Water extractor temperature sensor
 
 With the zone controller failed completely, the pack outlet temperature is controlled by: (ME Repair, E&A Repair)
-The anti-ice valve
-The pack Controller
-The turbine by-pass valve
-The pressure regulating valve
+A.	The anti-ice valve
+@@B.	The pack Controller
+C.	The turbine by-pass valve
+D.	The pressure regulating valve
 
 How is the basic temperature regulation generated? (ME Repair, E&A Repair)
-It corresponds to the lowest zone temperature demand,.
+@@It corresponds to the lowest zone temperature demand,.
 It adjusts the temperature in the three zones.
 It corresponds to the highest zone temperature demand.
 
 What is the function of the trim air valve? (ME Repair)
 To optimize the zone temperature by adding cold air.
-To optimize the zone temperature by adding hot air.
+@@To optimize the zone temperature by adding hot air.
 To regulate the hot air pressure.
 
 What is the main purpose of the pack anti ice valve? (ME Repair, E&A Repair)
 To stop the ice formation across the primary heat exchanger.
 To stop the ice formation across the main heat exchanger.
-To stop the ice formation across pack condenser.
+@@To stop the ice formation across pack condenser.
 
 What is the purpose of pack bypass valve? (ME Repair)
 To reduce the air flow to the compressor stage.
-To modulate the pack discharge temperature.
+@@To modulate the pack discharge temperature.
 To increase the air flow to the turbine stage.
 
 What is the purpose of the pack RAM AIR flaps? (ME Repair, E&A Repair)
 To ensure cabin ventilation in case both packs fail.
 To provide air to the pack compressor.
-To modulate the main air flow through the heat exchangers.
+@@To modulate the main air flow through the heat exchangers.
 
 What protects the packs from overheat condition? (ME Repair, E&A Repair)
-Electrical sensor in the mixer unit
-An overheat pneumatic sensor, two electrical sensors at compressor outlet
-An electrical sensor at the water separator outlet
-A differential pressure operated valve
+A.	Electrical sensor in the mixer unit
+@@B.	An overheat pneumatic sensor, two electrical sensors at compressor outlet
+C.	An electrical sensor at the water separator outlet
+D.	A differential pressure operated valve
 
 What flow is delivered by pack with Pack Flow selector on LO and bleed air supplied by the APU? (ME Repair, E&A Repair)
 Low
 Normal
-High
+@@High
 
 The motor number 3 of the outflow valve is controlled from: (ME Repair, E&A Repair)
 CPC 1 or CPC 2
 “ MAN ” part of the CPC in position 1
 “ MAN ” part of the CPC in position 2
-The “Cabin Press “ control panel.
+@@The “Cabin Press “ control panel.
 
 On the cabin pressure panel, the FAULT light illuminates when: (ME Repair, E&A Repair)
 SYS 1 or SYS 2 fails
-SYS 1 and SYS 2 fail
+@@SYS 1 and SYS 2 fail
 No landing elevation from FMGS
 Manual mode is selected
 
@@ -80,32 +81,33 @@ The purpose of the safety valves is to avoid : (ME Repair, E&A Repair)
 Excessive positive pressure differential
 Excessive negative pressure differential
 Excessive cabin altitude.
-A and B
+@@A and B
 
 When ditching is selected : (ME Repair, E&A Repair)
 The safety valves and outflow valve are confirmed closed, the pack valves stay open
 The ventilation inlet and extract valves are opened and the pack valves close
-The outflow valve, the emergency ram air, the ventilation extract valve and pack valves close
+@@The outflow valve, the emergency ram air, the ventilation extract valve and pack valves close
 The outflow valve, the emergency ram air, the ventilation extract valve and pack valves open
 
 Where do you check the correct manual landing elevation setting? (ME Repair, E&A Repair)
-On ECAM “ CAB PRESS “ page
+@@On ECAM “ CAB PRESS “ page
 On the scale of LDG ELEV selector
 On ECAM “ COND “ page
 No need, because it is automatic ( From FMGC )
 
 Where is the ventilation air expelled when both fans P/B are set to OVRD? (ME Repair, E&A Repair)
 To the skin heat exchanger
-Overboard
+@@Overboard
 To the cargo under floor
 
 When does the avionics ventilation air come from when any OVRD selected?  (ME Repair, E&A Repair)
 From the avionics bay
 From outside the aircraft
-From the air conditioning duct
+@@From the air conditioning duct
 No ventilation. System is inoperative.
 
 What is the purpose of the avionic ventilation skin heat exchanger? (ME Repair, E&A Repair)
-To cool the air coming from the avionics equipment when Isolation valve is open.
+@@To cool the air coming from the avionics equipment when Isolation valve is open.
 To reheat air coming from avionics ventilation system
 To cool air before it is ducted under the cargo compartment.
+

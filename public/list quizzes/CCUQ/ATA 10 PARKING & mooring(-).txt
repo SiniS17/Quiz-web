@@ -1,52 +1,54 @@
+
 When doing the aircraft parking not more than 15 days (ME Repair, E&A Repair)
 You can do the procedure to park the aircraft not more than 15 days one time only
-You can do again the procedure to park the aircraft not more than 15 days one time only
+@@You can do again the procedure to park the aircraft not more than 15 days one time only
 You can do again the procedure to park the aircraft not more than 15 days several times
 
 When doing the aircraft parking not more than 12 weeks (ME Repair, E&A Repair)
 You can do the procedure to park the aircraft not more than 12 weeks one time only
 You can do again the procedure to park the aircraft not more than 12 weeks one time only
-You can do again the procedure to park the aircraft not more than 12 weeks several times
+@@You can do again the procedure to park the aircraft not more than 12 weeks several times
 
 Do you need to do periodic ground checks of aircraft During parking period of not more than 12 weeks (ME Repair, E&A Repair)
-Periodic ground check at 7-day intervals and periodic ground check at 15-day intervals and periodic ground check at 1-month intervals.
+@@Periodic ground check at 7-day intervals and periodic ground check at 15-day intervals and periodic ground check at 1-month intervals.
 Periodic ground check at 8-day intervals.
 Periodic ground check at 1-month intervals.
 Periodic ground check at 8-day intervals and periodic ground check at 1-month intervals
 
 When doing periodic ground check at 7-day intervals for a parking period of not more than 15 days or of not more than 12 weeks (aircraft in flight-ready condition). (ME Repair, E&A Repair)
-You must do a check of the hydraulic reservoir level
+@@You must do a check of the hydraulic reservoir level
 You must do the slat/flap extension and retraction
 You must do engine and IDG oil uplift
 You must do engine cranking
 
 When doing periodic ground check at 15-day intervals for a parking period of not more than 12 weeks (aircraft in flight-ready condition). (ME Repair, E&A Repair)
 You must do  the engine monitoring only
-You must do  the engines start and let them become stable at ground idle then do a thrust reverser full cycle
+@@You must do  the engines start and let them become stable at ground idle then do a thrust reverser full cycle
 You must do  the engines start and let them become stable at ground idle only
 You must do  the engines run-up at high power for 5 minute
 
 When doing aircraft preservation steps for a storage period of not more than 6 months (ME Repair, E&A Repair)
-You must make sure that the THS is set to two degrees up
+@@You must make sure that the THS is set to two degrees up
 You must make sure that the THS is set to two degrees down
 You must make sure that the THS is set to neutral position
 
 When mooring to prevent damage to the aircraft on the ground in high wind conditions (ME Repair)
-If the aircraft points into the wind and wind speed is between 50 and 70 Kts, moor the aircraft at the NLG
+@@If the aircraft points into the wind and wind speed is between 50 and 70 Kts, moor the aircraft at the NLG
 If the aircraft points into the wind and wind speed is between 50 and 70 Kts, moor the aircraft at the NLG and MLG
 If the aircraft points into the wind and wind speed is more than 70 Kts, moor the aircraft at the MLG.
 
 When mooring is to prevent damage to the aircraft on the ground in high wind conditions (ME Repair)
 If the aircraft does not point into the wind or the direction of the wind is not stable and for wind speeds or gusts more than 50 Kts, moor the aircraft at the NLG
 If the aircraft does not point into the wind or the direction of the wind is not stable and for wind speeds or gusts more than 50 Kts, moor the aircraft at the MLG
-If the aircraft does not point into the wind or the direction of the wind is not stable and for wind speeds or gusts more than 50 Kts, moor the aircraft at the NLG and the MLG
+@@If the aircraft does not point into the wind or the direction of the wind is not stable and for wind speeds or gusts more than 50 Kts, moor the aircraft at the NLG and the MLG
 
 When mooring to prevent damage to the aircraft on the ground in high wind conditions (ME Repair)
 You must make sure that the THS is set to two degrees up
 You must make sure that the THS is set to two degrees down
-You must make sure that the THS is set to neutral position
+@@You must make sure that the THS is set to neutral position
 
 When mooring the aircraft. (ME Repair)
 Attach the short in position on the towing lug of the nose landing gear with the NLG shackles then attach the ropes on the ground with the mooring points
 Attach the ropes on the towing lug and the debogging lug of the MLG then attach the ropes on the ground with the mooring points.
-A & B
+@@A & B
+

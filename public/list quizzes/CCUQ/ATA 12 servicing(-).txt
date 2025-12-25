@@ -1,5 +1,6 @@
+
 When you do the Aircraft Grounding for the Refuel/Defuel Operations  (ME Repair, E&A Repair)
-Connect the ground cable to parking ground point before you connect it to the aircraft
+@@Connect the ground cable to parking ground point before you connect it to the aircraft
 Attach the cable to aircraft first then  connect to parking ground point
 Grounding is not necessary
 
@@ -7,47 +8,47 @@ To electrostatically balance the aircraft for the refuel/defuel operations (ME R
 Connect a ground cable to the aircraft grounding point on the landing gears
 Connect a bonding cable between the fuel tanker and a grounding point on one of the MLG Legs
 A is essential, B is recommended
-B is essential, A is recommended
+@@B is essential, A is recommended
 
 Safety requirements for aircraft Refueling and  refueling are: (ME Repair, E&A Repair)
 Do not operate the cell phones or mobile phones inside distances for 6m from aircraft.
 Do not connect electrical equipment to a power source less than 15 m away from aircraft, unless the power source has spark-proof connectors
 Do not operate the fuel tanker/pump unit until you stop operation of the weather radar
-All above
+@@All above
 
 During aircraft Refueling or  refueling (ME Repair, E&A Repair)
 APU starts or shutdowns are permitted.
 An APU start is not permitted during if the APU has failed to start or an automatic shutdown has occurred.
-A & B
+@@A & B
 
 During the refueling (ME Repair, E&A Repair)
-The NLG tires roll aft
+@@The NLG tires roll aft
 The NLG tires roll fwd
 The NLG tires roll does not move
 
 During the refueling you must (ME Repair, E&A Repair)
 Move the aft NLG chocks away from the tires
 Make sure that the chocks do not touch the MLG tires
-A & B
+@@A & B
 
 When you do the Refueling and/or refueling in the Hangar (ME Repair, E&A Repair)
 The hangar doors must be closed until you have completed the refuel/defuel procedure
-The hangar doors must not be closed until you have completed the refuel/defuel procedure
+@@The hangar doors must not be closed until you have completed the refuel/defuel procedure
 There is no requirement for hangar door
 
 When you do the aircraft  pressure Automatic refueling with battery power (ME Repair, E&A Repair)
-It is not always possible to refuel to full capacity. This is because the intercell transfer valve are not always in the correct position
+@@It is not always possible to refuel to full capacity. This is because the intercell transfer valve are not always in the correct position
 It is always possible to refuel to full capacity.
 You can not refuel in the outer cell.
 
 The maximum safety pressure for refueling is:  (ME Repair, E&A Repair)
 45psi
-50psi
+@@50psi
 55psi
 60psi
 
 When you do the aircraft refueling with battery power  (ME Repair, E&A Repair)
-The HOT BUSS is energized for ten minutes only after you put the BATT POWER switch to the ON position.
+@@The HOT BUSS is energized for ten minutes only after you put the BATT POWER switch to the ON position.
 HOT BUSS is always energized after you put the BATT POWER switch to the ON position.
 You must put the BATT POWER switch to the ON position and hold it during refueling process
 
@@ -55,28 +56,28 @@ When you do the aircraft pressure refueling with manual control (ME Repair, E&A 
 Put the MODE SELECT switch to the REFUEL position
 Put the REFUEL VALVES switch(es) for the applicable fuel tank(s) to the OPEN position and for the tank(s) which will not be refueled to the SHUT position.
 Put the REFUEL VALVES switch(es) of all the fuel tank(s) to the OPEN position
-A & B
+@@A & B
 
 When you do the aircraft pressure refueling without electrical power (ME Repair, E&A Repair)
 The high-level protection system will not operate,
 Do not refuel through the two refuel/defuel coupling at the same time
 The handle of the refuel coupling cap must point aft when the cap is closed and locked.
-All above
+@@All above
 
 The maximum water contents permitted by the manufacture in hydraulic fluids is: (ME Repair)
 0,5%
 0,6%
 0,7%
-0,8%
+@@0,8%
 
 Airbus recommends the maximum water contents permitted in hydraulic  fluids is (ME Repair)
-0,5%
+@@0,5%
 0,6%
 0,7%
 0,8%
 
 The aircraft configuration requirements for filling the hydraulic fluid reservoir are: (ME Repair, E&A Repair)
-The FWD, AFT cargo-compartment doors and the landing gear doors are closed
+@@The FWD, AFT cargo-compartment doors and the landing gear doors are closed
 The FWD, AFT cargo-compartment doors and the landing gear doors are opened
 The FWD, AFT cargo-compartment doors are closed and the landing gear doors are opened
 The FWD, AFT cargo-compartment doors are opened and the landing gear doors are closed
@@ -84,36 +85,36 @@ The FWD, AFT cargo-compartment doors are opened and the landing gear doors are c
 When doing the Hydraulic Fluid Reservoir Filling (ME Repair, E&A Repair)
 The hydraulic system operating normally
 The reservoirs air pressurize system must be depressurized
-Do not depressurize the system reservoirs
+@@Do not depressurize the system reservoirs
 Green hydraulic system must be depressurized
 
 What happen if you fill to much hydraulic fluid in the reservoir? (ME Repair, E&A Repair)
 Hydraulic system can not operate
 A message "reservoir overfull" appear on ECAM
-You cannot pressurize it the reservoir sufficiently and may cause the message "RSVR LO AIR PR" on ECAM.
+@@You cannot pressurize it the reservoir sufficiently and may cause the message "RSVR LO AIR PR" on ECAM.
 Hydraulic fluid transfers to other reservoir.
 
 After removal/installation of large hydraulic components. (ME Repair, E&A Repair)
 You must fill in the related components with hydraulic fluid.
-You must do the related bleeding procedure to make sure that the quantity of the hydraulic fluid in the system is correct and refill if necessary.
+@@You must do the related bleeding procedure to make sure that the quantity of the hydraulic fluid in the system is correct and refill if necessary.
 You must change the hydraulic fluid.
 You must do the hydraulic sampling.
 
 When filling the hydraulic fluid Reservoir with a hydraulic service cart, the maximum supply pressure is: (ME Repair, E&A Repair)
-
 5 +0.3 -0 bar (50.7631 +4.3511 -0.0000 psi)
-30 bar (435,1132 psi).
+@@30 bar (435,1132 psi).
 45 bar (652,669 psi)
 50 bar (725,188 psi)
 
 If you think there are fuel fumes when you remove the oil filter cap of the engine oil tank. (ME Repair)
 You must let the oil tank pressure bleed off for a minimum of 5 minutes before you remove the tank filler cap for oil servicing.
 Add oil in the oil tank to full mark
-Replace the fuel/oil heat exchanger then flush the engine oil system
+@@Replace the fuel/oil heat exchanger then flush the engine oil system
 Flush the oil tank and fill in with new oil.
 
 When filling the hydraulic power accumulators with Nitrogen: (ME Repair)
-All hydraulic systems must be depressurized
+@@All hydraulic systems must be depressurized
 The reservoirs air pressurize system must be depressurized
 Do not depressurize the hydraulic systems
 Green hydraulic system must be depressurized
+

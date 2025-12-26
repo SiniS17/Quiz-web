@@ -1,5 +1,5 @@
 // modules/app.js - Application Initialization with Logo Navigation
-import { listQuizzes, goBackToFolder } from './ui/navigation.js';
+import { listQuizzes, goBackToFolder, goHomeWithConfirmation } from './ui/navigation.js';
 import { getCurrentFolder } from './state.js';
 
 /**
@@ -15,11 +15,12 @@ export function initializeApp() {
  * Setup global event listeners
  */
 function setupEventListeners() {
-  // Home button click handler
+  // Home button click handler with confirmation
   const homeBtn = document.getElementById('home-btn');
   if (homeBtn) {
-    homeBtn.addEventListener('click', () => {
-      listQuizzes('');
+    homeBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      goHomeWithConfirmation();
     });
   }
 

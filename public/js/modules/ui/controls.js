@@ -1,4 +1,4 @@
-// modules/ui/controls.js - Floating Panel Controls Management
+// modules/ui/controls.js - Floating Panel Controls Management with Visibility
 
 /**
  * Initialize floating control panels
@@ -20,6 +20,8 @@ export function initFloatingControls() {
   }
 
   setupEscapeKeyHandler(controlPanel, leftSidebar);
+  setupClickOutsideHandler();
+  setupResizeHandler();
 }
 
 /**
@@ -48,7 +50,7 @@ function setupControlPanelHandlers(controlFab, controlPanel, panelOverlay, close
 }
 
 /**
- * Setup sidebar event handlers
+ * Setup sidebar event handlers (mobile only)
  */
 function setupSidebarHandlers(sidebarFab, leftSidebar, panelOverlay) {
   sidebarFab.addEventListener('click', () => {
@@ -67,13 +69,68 @@ function setupSidebarHandlers(sidebarFab, leftSidebar, panelOverlay) {
 function setupEscapeKeyHandler(controlPanel, leftSidebar) {
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
-      if (controlPanel.classList.contains('open')) {
+      if (controlPanel && controlPanel.classList.contains('open')) {
         closeControlPanel();
       }
-      if (leftSidebar.classList.contains('mobile-visible')) {
+      if (leftSidebar && leftSidebar.classList.contains('mobile-visible')) {
         closeMobileSidebar();
       }
     }
+  });
+}
+
+/**
+ * Setup click outside to close mobile sidebar
+ */
+function setupClickOutsideHandler() {
+  const panelOverlay = document.getElementById('panel-overlay');
+  if (panelOverlay) {
+    panelOverlay.addEventListener('click', () => {
+      const controlPanel = document.getElementById('control-panel');
+      const leftSidebar = document.getElementById('left-sidebar');
+
+      if (controlPanel && controlPanel.classList.contains('open')) {
+        closeControlPanel();
+      }
+      if (leftSidebar && leftSidebar.classList.contains('mobile-visible')) {
+        closeMobileSidebar();
+      }
+    });
+  }
+}
+
+/**
+ * Setup resize handler to adjust sidebar visibility
+ */
+function setupResizeHandler() {
+  let resizeTimer;
+  window.addEventListener('resize', () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(() => {
+      const leftSidebar = document.getElementById('left-sidebar');
+      const sidebarFab = document.getElementById('sidebar-fab');
+      const mainContent = document.querySelector('.main-content');
+      const isMobile = window.innerWidth <= 768;
+
+      // Only adjust if quiz is active
+      if (leftSidebar && mainContent && mainContent.classList.contains('with-sidebar')) {
+        if (isMobile) {
+          // Switch to mobile mode
+          leftSidebar.classList.remove('mobile-visible');
+          leftSidebar.style.display = 'none';
+          if (sidebarFab) {
+            sidebarFab.style.display = 'flex';
+          }
+        } else {
+          // Switch to desktop mode
+          leftSidebar.classList.remove('mobile-visible');
+          leftSidebar.style.display = 'block';
+          if (sidebarFab) {
+            sidebarFab.style.display = 'none';
+          }
+        }
+      }
+    }, 250);
   });
 }
 
@@ -148,7 +205,7 @@ export function closeMobileSidebar() {
 }
 
 /**
- * Show top controls (sidebar, settings)
+ * Show top controls (sidebar, settings) when quiz is active
  */
 export function showTopControls() {
   const leftSidebar = document.getElementById('left-sidebar');
@@ -157,15 +214,43 @@ export function showTopControls() {
   const controlFab = document.getElementById('control-fab');
   const sidebarFab = document.getElementById('sidebar-fab');
 
-  if (controlFab) controlFab.classList.add('active');
-  if (sidebarFab) sidebarFab.classList.add('active');
-  if (leftSidebar) leftSidebar.style.display = 'block';
-  if (mainContent) mainContent.classList.add('with-sidebar');
+  // Always show control FAB
+  if (controlFab) {
+    controlFab.classList.add('active');
+    controlFab.style.display = 'flex';
+  }
+
+  // Check if mobile view
+  const isMobile = window.innerWidth <= 768;
+
+  if (isMobile) {
+    // Mobile: Show sidebar FAB, keep sidebar hidden until FAB clicked
+    if (sidebarFab) {
+      sidebarFab.classList.add('active');
+      sidebarFab.style.display = 'flex';
+    }
+    if (leftSidebar) {
+      leftSidebar.style.display = 'none'; // Hidden by default on mobile
+    }
+  } else {
+    // Desktop: Show sidebar permanently, hide sidebar FAB
+    if (leftSidebar) {
+      leftSidebar.style.display = 'block';
+    }
+    if (sidebarFab) {
+      sidebarFab.classList.remove('active');
+      sidebarFab.style.display = 'none'; // Hide FAB on desktop
+    }
+    if (mainContent) {
+      mainContent.classList.add('with-sidebar');
+    }
+  }
+
   if (quizInterface) quizInterface.classList.add('with-controls');
 }
 
 /**
- * Hide top controls
+ * Hide top controls when returning to home
  */
 export function hideTopControls() {
   const leftSidebar = document.getElementById('left-sidebar');
@@ -173,10 +258,39 @@ export function hideTopControls() {
   const quizInterface = document.querySelector('.quiz-interface');
   const controlFab = document.getElementById('control-fab');
   const sidebarFab = document.getElementById('sidebar-fab');
+  const controlPanel = document.getElementById('control-panel');
+  const panelOverlay = document.getElementById('panel-overlay');
 
-  if (controlFab) controlFab.classList.remove('active');
-  if (sidebarFab) sidebarFab.classList.remove('active');
-  if (leftSidebar) leftSidebar.style.display = 'none';
+  // Hide and deactivate FAB buttons
+  if (controlFab) {
+    controlFab.classList.remove('active');
+    controlFab.style.display = 'none';
+  }
+
+  if (sidebarFab) {
+    sidebarFab.classList.remove('active');
+    sidebarFab.style.display = 'none';
+  }
+
+  // Close any open panels
+  if (controlPanel) {
+    controlPanel.classList.remove('open');
+    controlPanel.setAttribute('aria-hidden', 'true');
+  }
+
+  if (panelOverlay) {
+    panelOverlay.classList.remove('visible');
+  }
+
+  // Hide sidebar
+  if (leftSidebar) {
+    leftSidebar.style.display = 'none';
+    leftSidebar.classList.remove('mobile-visible');
+  }
+
   if (mainContent) mainContent.classList.remove('with-sidebar');
   if (quizInterface) quizInterface.classList.remove('with-controls');
+
+  // Restore body overflow
+  document.body.style.overflow = 'auto';
 }

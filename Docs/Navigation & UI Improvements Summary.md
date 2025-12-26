@@ -11,15 +11,20 @@
 
 ### 2. **Folder Navigation**
 - **Problem:** Users had to go home and navigate through folders again to select another quiz
-- **Solution:** Added multiple navigation options:
+- **Solution:** Added multiple navigation options with confirmations:
 
 #### Option A: Click on Quiz Title (Logo)
 - Click the quiz title at the top left to return to the folder
 - Shows a **confirmation dialog** to prevent accidental clicks
 - Displays hover hint: "← Back to folder"
 
-#### Option B: Preserved Home Button
-- Still works to go back to the main screen
+#### Option B: Home Button (Header)
+- Now shows **confirmation dialog** before leaving
+- Message: "Return to Home? Your progress will be lost"
+
+#### Option C: Home Button (Sidebar)
+- Also shows **confirmation dialog**
+- Consistent behavior across all navigation points
 
 ## 🆕 New Features
 
@@ -28,7 +33,7 @@
 - When you click the logo, you return to that folder (not home)
 - Confirmation dialog prevents accidental navigation
 
-### 2. **Confirmation Dialog**
+### 2. **Confirmation Dialog (Applied to ALL Home Buttons)**
 - Beautiful modal popup with:
   - Warning icon
   - Clear message about losing progress
@@ -36,6 +41,10 @@
   - Blur overlay background
   - Smooth animations
   - Closes with Escape key or clicking outside
+- **Now appears for:**
+  - Logo click (returns to folder)
+  - Header Home button (goes to main menu)
+  - Sidebar Home button (goes to main menu)
 
 ### 3. **Logo Hover Effect**
 - Logo becomes clickable with visual feedback
@@ -43,14 +52,20 @@
 - Background highlight on hover
 - Smooth transition effects
 
+### 4. **Smart Confirmation Logic**
+- Only shows confirmation if there's an active quiz
+- If browsing (no active quiz), goes directly without confirmation
+- Prevents unnecessary interruptions
+
 ## 📁 Files to Update
 
 Replace these files in your project:
 
 1. **`public/js/modules/state.js`** - Tracks current folder
-2. **`public/js/modules/app.js`** - Logo click handler
+2. **`public/js/modules/app.js`** - Logo click handler + Home button confirmation
 3. **`public/js/modules/ui/navigation.js`** - Folder navigation with confirmation
-4. **Add to `public/styles.css`** - Sidebar z-index fix and logo styles
+4. **`public/js/modules/ui/progress.js`** - Sidebar Home button with confirmation
+5. **Add to `public/styles.css`** - Sidebar z-index fix and logo styles
 
 ## 🎨 Visual Changes
 
@@ -73,33 +88,55 @@ Replace these files in your project:
 
 **Scenario:** User is in `Folder A/Subfolder B` taking Quiz C
 
-1. **Current behavior (fixed):**
-   - User completes quiz or wants different quiz
-   - Clicks logo at top left
-   - Sees: "Return to Folder? Your progress will be lost"
-   - Clicks "Go Back"
-   - Returns directly to `Folder A/Subfolder B`
-   - Selects another quiz
+### Navigation Option 1: Return to Folder
+1. User clicks **Logo** at top left
+2. Sees: "Return to Folder? Your progress will be lost"
+3. Clicks "Go Back"
+4. Returns directly to `Folder A/Subfolder B`
+5. Selects another quiz
 
-2. **Alternative:**
-   - Clicks Home button
-   - Goes to main screen
-   - Can navigate anywhere
+### Navigation Option 2: Go to Main Menu
+1. User clicks **Home button** (header or sidebar)
+2. Sees: "Return to Home? Your progress will be lost"
+3. Clicks "Go Back"
+4. Goes to main screen
+5. Can navigate anywhere
+
+### Navigation Option 3: Cancel
+1. User clicks Logo or Home
+2. Sees confirmation dialog
+3. Clicks "Cancel" or presses Escape
+4. Stays in current quiz
+5. No progress lost
 
 ## 🎯 Key Improvements
 
 ✅ **No more overlap** - Question progress sidebar renders correctly
-✅ **Smart navigation** - Returns to the folder you came from
-✅ **Safety first** - Confirmation prevents accidental clicks
-✅ **Visual feedback** - Hover effect shows it's clickable
-✅ **Multiple options** - Logo (to folder) or Home button (to main)
+✅ **Smart navigation** - Returns to the folder you came from (logo) or main menu (home)
+✅ **Safety first** - Confirmation on ALL navigation buttons prevents accidental clicks
+✅ **Visual feedback** - Hover effect shows logo is clickable
+✅ **Multiple options** - Logo (to folder), Home button (to main), both with confirmation
+✅ **Smart detection** - Only asks if there's an active quiz
 
 ## 💡 Usage Tips
 
 1. **Logo Click:** Returns to current folder with confirmation
-2. **Home Button:** Goes to main screen (all folders)
-3. **Hover Logo:** See "← Back to folder" hint
-4. **Escape Key:** Closes confirmation dialog
+2. **Home Button (Header):** Goes to main screen with confirmation
+3. **Home Button (Sidebar):** Goes to main screen with confirmation
+4. **Hover Logo:** See "← Back to folder" hint
+5. **Escape Key:** Closes confirmation dialog
+6. **Click Outside:** Closes confirmation dialog
+7. **Cancel Button:** Stays in current quiz
+
+### All Home Buttons Now Protected:
+- ✅ Header navigation Home button
+- ✅ Sidebar results panel Home button
+- ✅ Logo click (returns to folder)
+
+### When Confirmation Appears:
+- ⚠️ Only when there's an active quiz with questions loaded
+- ✅ Not shown when just browsing folders
+- ✅ Prevents accidental progress loss
 
 ## 🔧 Technical Details
 

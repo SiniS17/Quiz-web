@@ -1,4 +1,4 @@
-// modules/ui/progress.js - Question Progress Tracking
+// modules/ui/progress.js - Question Progress Tracking with Confirmation
 import { scrollToQuestion } from '../utils.js';
 import { getLiveTestCheckbox } from '../live-test.js';
 import { setAnsweredQuestions } from '../state.js';
@@ -32,7 +32,7 @@ export function setupResultsContainer(questionCount) {
 }
 
 /**
- * Create results action buttons
+ * Create results action buttons with confirmation
  */
 function createResultsButtons(container) {
   const buttonsContainer = document.createElement('div');
@@ -67,7 +67,13 @@ function createResultsButtons(container) {
   homeBtn.className = 'secondary-btn';
   homeBtn.innerHTML = '<i class="fas fa-home"></i> Home';
   homeBtn.onclick = () => {
-    import('./navigation.js').then(module => module.listQuizzes());
+    // Use the new confirmation function
+    if (window.goHomeWithConfirmation) {
+      window.goHomeWithConfirmation();
+    } else {
+      // Fallback
+      import('./navigation.js').then(module => module.listQuizzes());
+    }
   };
 
   buttonsContainer.appendChild(submitBtn);

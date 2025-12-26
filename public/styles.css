@@ -1656,6 +1656,36 @@ html {
   overflow-y: auto;
   transition: all 0.3s ease;
   padding-top: 1rem; /* Add padding at top */
+  display: none; /* Hidden by default */
+}
+
+/* FAB buttons - hidden by default, shown when quiz is active */
+.fab {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+  cursor: pointer;
+  z-index: 1000;
+  display: none; /* Hidden by default */
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.fab.active {
+  display: flex; /* Show when active class is added */
+}
+
+.fab.mobile-only {
+  bottom: 5.5rem;
 }
 
 /* Logo cursor pointer and hover effect */
@@ -1741,7 +1771,6 @@ html {
 /* Mobile responsiveness for sidebar */
 @media (max-width: 768px) {
   .left-sidebar {
-    display: none !important;
     position: fixed;
     top: var(--header-height);
     left: 0;
@@ -1760,5 +1789,10 @@ html {
 
   .logo h1::after {
     display: none; /* Hide hint on mobile */
+  }
+
+  /* Show mobile-only FAB when active on mobile */
+  .fab.mobile-only.active {
+    display: flex;
   }
 }

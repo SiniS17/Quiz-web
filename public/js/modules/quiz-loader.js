@@ -46,6 +46,7 @@ function processQuizDataAndStart(text, fileName) {
 
   const questions = parseQuestions(lines, fileName);
 
+  // Show controls and setup quiz UI
   showTopControls();
   updateQuizInfo(questions.length);
   createTopLevelCheckboxes();

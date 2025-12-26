@@ -29,6 +29,7 @@ export function listQuizzes(folder = '') {
   updateQuizTitle('Aviation Quiz');
   clearQuizContainer();
   hideTopControls();
+  hideQuizControls(); // Hide quiz controls on home screen
   showQuizSelection();
 
   const quizGrid = document.getElementById('quiz-grid');
@@ -189,6 +190,30 @@ export function goBackToFolder() {
 }
 
 /**
+ * Go home with confirmation
+ */
+export function goHomeWithConfirmation() {
+  // Check if there's an active quiz
+  const quizContainer = document.getElementById('quiz-container');
+  const hasActiveQuiz = quizContainer && quizContainer.innerHTML.trim() !== '';
+
+  if (hasActiveQuiz) {
+    // Show confirmation dialog
+    showConfirmDialog(
+      'Return to Home?',
+      `Are you sure you want to return to the main menu? Your current progress will be lost.`,
+      () => {
+        // User confirmed
+        listQuizzes('');
+      }
+    );
+  } else {
+    // No active quiz, just go home
+    listQuizzes('');
+  }
+}
+
+/**
  * Show confirmation dialog
  */
 function showConfirmDialog(title, message, onConfirm) {
@@ -330,6 +355,38 @@ function hideTopControls() {
   if (quizInterface) quizInterface.classList.remove('with-controls');
 }
 
+function hideQuizControls() {
+  // Hide floating control panel
+  const controlPanel = document.getElementById('control-panel');
+  const panelOverlay = document.getElementById('panel-overlay');
+
+  if (controlPanel) {
+    controlPanel.classList.remove('open');
+    controlPanel.setAttribute('aria-hidden', 'true');
+  }
+
+  if (panelOverlay) {
+    panelOverlay.classList.remove('visible');
+  }
+
+  // Hide FAB buttons
+  const controlFab = document.getElementById('control-fab');
+  const sidebarFab = document.getElementById('sidebar-fab');
+
+  if (controlFab) {
+    controlFab.classList.remove('active');
+    controlFab.style.display = 'none';
+  }
+
+  if (sidebarFab) {
+    sidebarFab.classList.remove('active');
+    sidebarFab.style.display = 'none';
+  }
+
+  // Restore body overflow
+  document.body.style.overflow = 'auto';
+}
+
 function showQuizSelection() {
   const selection = document.getElementById('quiz-list-container');
   if (selection) {
@@ -357,6 +414,7 @@ function showQuizSettings() {
 if (typeof window !== 'undefined') {
   window.listQuizzes = listQuizzes;
   window.goBackToFolder = goBackToFolder;
+  window.goHomeWithConfirmation = goHomeWithConfirmation;
 }
 
 // Export for use in other modules

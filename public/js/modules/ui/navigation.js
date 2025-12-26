@@ -28,8 +28,9 @@ export function listQuizzes(folder = '') {
 
   updateQuizTitle('Aviation Quiz');
   clearQuizContainer();
+  closeAllOpenMenus(); // NEW: Close all menus before navigation
   hideTopControls();
-  hideQuizControls(); // Hide quiz controls on home screen
+  hideQuizControls();
   showQuizSelection();
 
   const quizGrid = document.getElementById('quiz-grid');
@@ -51,6 +52,62 @@ export function listQuizzes(folder = '') {
   fetchQuizList(folder)
     .then(data => renderQuizList(data, quizGrid, folder))
     .catch(error => handleQuizListError(error, quizGrid));
+}
+
+/**
+ * Close all open menus and overlays
+ */
+function closeAllOpenMenus() {
+  // Close control panel
+  const controlPanel = document.getElementById('control-panel');
+  const panelOverlay = document.getElementById('panel-overlay');
+
+  if (controlPanel) {
+    controlPanel.classList.remove('open');
+    controlPanel.setAttribute('aria-hidden', 'true');
+  }
+
+  if (panelOverlay) {
+    panelOverlay.classList.remove('visible');
+  }
+
+  // Close and hide left sidebar
+  const leftSidebar = document.getElementById('left-sidebar');
+  if (leftSidebar) {
+    leftSidebar.style.display = 'none';
+    leftSidebar.classList.remove('mobile-visible');
+  }
+
+  // Close score display if open
+  const scoreDisplay = document.getElementById('floating-score-display');
+  if (scoreDisplay) {
+    scoreDisplay.classList.remove('show');
+    setTimeout(() => {
+      if (scoreDisplay.parentNode) {
+        scoreDisplay.remove();
+      }
+    }, 300);
+  }
+
+  // Close live score display if open
+  const liveScore = document.getElementById('floating-live-score');
+  if (liveScore) {
+    liveScore.classList.remove('show');
+    setTimeout(() => {
+      if (liveScore.parentNode) {
+        liveScore.remove();
+      }
+    }, 300);
+  }
+
+  // Close image modal if open
+  const imageModal = document.getElementById('image-modal');
+  if (imageModal) {
+    imageModal.classList.remove('show');
+  }
+
+  // Restore body overflow
+  document.body.style.overflow = 'auto';
 }
 
 /**
@@ -348,9 +405,18 @@ function hideTopControls() {
   const controlFab = document.getElementById('control-fab');
   const sidebarFab = document.getElementById('sidebar-fab');
 
-  if (controlFab) controlFab.classList.remove('active');
-  if (sidebarFab) sidebarFab.classList.remove('active');
-  if (leftSidebar) leftSidebar.style.display = 'none';
+  if (controlFab) {
+    controlFab.classList.remove('active');
+    controlFab.style.display = 'none';
+  }
+  if (sidebarFab) {
+    sidebarFab.classList.remove('active');
+    sidebarFab.style.display = 'none';
+  }
+  if (leftSidebar) {
+    leftSidebar.style.display = 'none';
+    leftSidebar.classList.remove('mobile-visible');
+  }
   if (mainContent) mainContent.classList.remove('with-sidebar');
   if (quizInterface) quizInterface.classList.remove('with-controls');
 }

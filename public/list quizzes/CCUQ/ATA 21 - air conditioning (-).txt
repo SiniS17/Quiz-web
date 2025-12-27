@@ -1,33 +1,33 @@
 
 When the cabin pressurization system in manual mode and with the MAN V/S CTL selection in UP position: (ME Repair, E&A Repair)
-A.	The cabin pressure increases
-@@B.	The cabin altitude increases
-C.	The outflow valve moves to the closed position
-D.	The cabin altitude decreases
+The cabin pressure increases
+@@The cabin altitude increases
+The outflow valve moves to the closed position
+The cabin altitude decreases
 
 In case of duct overheat the HOT AIR FAULT light will extinguishes when: (ME Repair, E&A Repair)
-A.	The HOT AIR p/b is reset
-B.	The duct overheat goes off
-@@C.	A and B
-D.	The pressure regulating valve re-opens
+The HOT AIR p/b is reset
+The duct overheat goes off
+@@A and B
+The pressure regulating valve re-opens
 
 When the emergency ram air inlet is open and the delta P is less than 1 PSI : (ME Repair)
-A.	The outflow valve closes
-@@B.	The outflow valve partially opens
-C.	Both pack valves close
-D.	Both safety valves open
+The outflow valve closes
+@@The outflow valve partially opens
+Both pack valves close
+Both safety valves open
 
 Which temperature sensor controls the pack temperature? (ME Repair, E&A Repair)
-A.	Pack inlet temperature sensor
-B.	Pack outlet temperature sensor
-C.	Compressor outlet temperature sensor
-@@D.	Water extractor temperature sensor
+Pack inlet temperature sensor
+Pack outlet temperature sensor
+Compressor outlet temperature sensor
+@@Water extractor temperature sensor
 
 With the zone controller failed completely, the pack outlet temperature is controlled by: (ME Repair, E&A Repair)
-A.	The anti-ice valve
-@@B.	The pack Controller
-C.	The turbine by-pass valve
-D.	The pressure regulating valve
+The anti-ice valve
+@@The pack Controller
+The turbine by-pass valve
+The pressure regulating valve
 
 How is the basic temperature regulation generated? (ME Repair, E&A Repair)
 @@It corresponds to the lowest zone temperature demand,.
@@ -55,10 +55,10 @@ To provide air to the pack compressor.
 @@To modulate the main air flow through the heat exchangers.
 
 What protects the packs from overheat condition? (ME Repair, E&A Repair)
-A.	Electrical sensor in the mixer unit
-@@B.	An overheat pneumatic sensor, two electrical sensors at compressor outlet
-C.	An electrical sensor at the water separator outlet
-D.	A differential pressure operated valve
+Electrical sensor in the mixer unit
+@@An overheat pneumatic sensor, two electrical sensors at compressor outlet
+An electrical sensor at the water separator outlet
+A differential pressure operated valve
 
 What flow is delivered by pack with Pack Flow selector on LO and bleed air supplied by the APU? (ME Repair, E&A Repair)
 Low

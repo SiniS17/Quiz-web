@@ -64,6 +64,7 @@ Aircraft in take  off phase
 Aircraft in climb phase
 @@At least 5 seconds after lift-off
 Aircraft in cruise phase
+
 Rudder travel limitation is a function of: (E&A Repair)
 @@A.  FAC only
 B.  FAC in normal and ELAC in alternate

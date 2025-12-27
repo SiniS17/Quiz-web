@@ -22,18 +22,22 @@ What is one of the major structural and aerodynamic components of the engine?(ME
 Fan/Booster Rotor
 Fan/Booster Stator
 @@Fan frame.
+
 The engine is attached to the pylon by (ME Repair, E&A Repair)
 @@FWD and AFT mounts.
 FWD, middle and AFT mounts.
 Three mounts.
+
 The FAN cowl door is held in position by: (ME Repair, E&A Repair)
 One hold open rod
 One hydraulic  actuator
 @@Two hold open rods.
+
 Each thrust reverser “C” duct is opened by: (ME Repair, E&A Repair)
 One electric actuator
 One pneumatic  actuator
 @@One hydraulic actuator
+
 The power plant drain system is located: (ME Repair, E&A Repair)
 At the bottom of engine
 At the rear part of pylon
@@ -43,10 +47,12 @@ For CFM56, the fan cowl is equipped with: (ME Repair, E&A Repair)
 @@Three (3) latches
 Four (4) latches
 Five (5) latches
+
 For CFM56, the thrust reverser cowl is equipped with: (ME Repair, E&A Repair)
 Three (3) latches
 @@Four (4) latches
 Five (5) latches.
+
 The forward mount: (ME Repair, E&A Repair)
 Carries the engine torque, thrust and side loads.
 Carries the engine torque, vertical and side loads.

@@ -72,9 +72,7 @@ A high oil temperature indication and warning
 
 Normal engine oil consumption is? (ME Repair)
 0,85 QT per hour.
-
 25 QT per hour.
-
 57 QT per hour.
 
 Engine oil system is ventilated at? (ME Repair)

@@ -378,7 +378,6 @@ You must change the hydraulic fluid.
 You must do the hydraulic sampling.
 
 When filling the hydraulic fluid Reservoir with a hydraulic service cart, the maximum supply pressure is: (a,b1, B2)
-
 5 +0.3 -0 bar (50.7631 +4.3511 -0.0000 psi)
 @@30 bar (435,1132 psi).
 45 bar (652,669 psi)

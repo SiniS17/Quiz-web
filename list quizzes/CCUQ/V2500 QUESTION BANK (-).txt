@@ -224,7 +224,6 @@ Yes, it is possible by a special tool
 CLOSURE OF THE HP FUEL PRSOV IS CONTROLLED DIRECTLY FROM (ME Repair, E&A Repair)
 @@Engine MASTER control switch in OFF position
 The engine FIRE PUSH switch released out
-
 Both (A) and (B)
 
 COOLING AND VENTILATION OF ENGINE, AIR FOR THE ZONE 2 VENTILATION CAN TAKE FROM WHERE?(ME Repair)

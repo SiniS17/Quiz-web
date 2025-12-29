@@ -1,4 +1,4 @@
-// modules/parser.js - Question Parsing Logic with Flexible Level Detection
+// modules/parser.js - Question Parsing Logic with Simplified Parsing
 import { clearLevelCounts, incrementLevelCount } from './state.js';
 
 /**
@@ -27,36 +27,15 @@ export function parseQuestionWithImages(questionText) {
 
 /**
  * Parse raw quiz text into structured questions
+ * All quizzes now use blank line separation
  * @param {string[]} lines - Lines of quiz text
- * @param {string} fileName - Quiz file name (determines format)
  * @returns {string[]} Array of question texts
  */
-export function parseQuestions(lines, fileName) {
+export function parseQuestions(lines) {
   const questions = [];
   let currentQuestion = [];
-  let questionCount = 0;
-
-  const hasABCD = fileName.includes('(ABCD)');
-  const hasVariableAnswers = fileName.includes('(-)');
 
   clearLevelCounts();
-
-  if (hasVariableAnswers) {
-    parseVariableAnswerQuestions(lines, questions);
-  } else {
-    parseFixedAnswerQuestions(lines, questions, hasABCD);
-  }
-
-  return questions;
-}
-
-/**
- * Parse questions with variable number of answers
- * @param {string[]} lines - Quiz lines
- * @param {string[]} questions - Output array
- */
-function parseVariableAnswerQuestions(lines, questions) {
-  let currentQuestion = [];
 
   lines.forEach((line) => {
     if (line.trim() === '') {
@@ -71,46 +50,20 @@ function parseVariableAnswerQuestions(lines, questions) {
     }
   });
 
+  // Don't forget the last question if file doesn't end with blank line
   if (currentQuestion.length > 0) {
     const questionText = currentQuestion.join('\n');
     questions.push(questionText);
     extractAndCountLevel(questionText);
   }
-}
 
-/**
- * Parse questions with fixed number of answers
- * @param {string[]} lines - Quiz lines
- * @param {string[]} questions - Output array
- * @param {boolean} hasABCD - Whether quiz has ABCD format
- */
-function parseFixedAnswerQuestions(lines, questions, hasABCD) {
-  const answersPerQuestion = hasABCD ? 5 : 4;
-  let currentQuestion = [];
-
-  lines.forEach((line, index) => {
-    if ((index > 0 && index % answersPerQuestion === 0) || index === 0) {
-      if (currentQuestion.length > 0) {
-        const questionText = currentQuestion.join('\n');
-        questions.push(questionText);
-        extractAndCountLevel(questionText);
-      }
-      currentQuestion = [line];
-    } else {
-      currentQuestion.push(line);
-    }
-  });
-
-  if (currentQuestion.length > 0) {
-    const questionText = currentQuestion.join('\n');
-    questions.push(questionText);
-    extractAndCountLevel(questionText);
-  }
+  return questions;
 }
 
 /**
  * Extract levels from question and increment counts
  * Only checks the END of the first line for level indicators
+ * Case-insensitive: converts all levels to uppercase
  * @param {string} questionText - Question text
  */
 function extractAndCountLevel(questionText) {
@@ -125,7 +78,7 @@ function extractAndCountLevel(questionText) {
   let foundLevels = new Set();
 
   if (match) {
-    const content = match[1].trim();
+    const content = match[1].trim().toUpperCase(); // Convert to uppercase
 
     // Skip if it contains "IMG:" (image reference)
     if (!content.includes('IMG:')) {
@@ -154,6 +107,7 @@ function extractAndCountLevel(questionText) {
 /**
  * Get levels from a single question
  * Only checks the END of the first line
+ * Case-insensitive: converts all levels to uppercase
  * @param {string} questionText - Question text
  * @returns {string[]} Array of level names
  */
@@ -168,7 +122,7 @@ export function getQuestionLevels(questionText) {
   let levels = [];
 
   if (match) {
-    const content = match[1].trim();
+    const content = match[1].trim().toUpperCase(); // Convert to uppercase
 
     // Skip if it contains "IMG:"
     if (!content.includes('IMG:')) {

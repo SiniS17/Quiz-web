@@ -195,15 +195,7 @@ export const CONFIG = {
   /**
    * Valid quiz file extensions
    */
-  VALID_FILE_EXTENSIONS: ['.txt'],
-
-  /**
-   * File naming patterns to recognize
-   */
-  FILE_PATTERNS: {
-    ABCD_FORMAT: '(ABCD)',
-    VARIABLE_ANSWERS: '(-)'
-  }
+  VALID_FILE_EXTENSIONS: ['.txt']
 };
 
 /**

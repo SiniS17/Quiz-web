@@ -1,4 +1,4 @@
-// modules/quiz-loader.js - Quiz Content Loading with Flexible Level Display
+// modules/quiz-loader.js - Quiz Content Loading with Simplified Parsing
 import { fetchQuizContent } from './api.js';
 import { parseQuestions, sortLevelsForDisplay } from './parser.js';
 import { setSelectedFileName, getLevelCounts } from './state.js';
@@ -15,12 +15,14 @@ import { displayQuestions } from './quiz-manager.js';
  */
 export function loadQuiz(fileName) {
   setSelectedFileName(fileName);
-  updateQuizTitle(fileName.replace('.txt', '').replace(' (-)', ''));
+  // Clean up the display name - remove .txt extension
+  const displayName = fileName.replace('.txt', '');
+  updateQuizTitle(displayName);
   clearQuizContainer();
 
   fetchQuizContent(fileName)
     .then(text => {
-      processQuizDataAndStart(text, fileName);
+      processQuizDataAndStart(text);
       showNotification('Quiz loaded successfully!', 'success');
     })
     .catch(error => {
@@ -34,17 +36,13 @@ export function loadQuiz(fileName) {
 /**
  * Process quiz data and start quiz
  * @param {string} text - Raw quiz text
- * @param {string} fileName - File name
  */
-function processQuizDataAndStart(text, fileName) {
+function processQuizDataAndStart(text) {
   clearLevelCheckboxes();
 
-  const hasVariableAnswers = fileName.includes('(-)');
-  const lines = hasVariableAnswers
-    ? text.split('\n')
-    : text.split('\n').filter(line => line.trim() !== '');
-
-  const questions = parseQuestions(lines, fileName);
+  // All quizzes now use blank line separation
+  const lines = text.split('\n');
+  const questions = parseQuestions(lines);
 
   // Show controls and setup quiz UI
   showTopControls();

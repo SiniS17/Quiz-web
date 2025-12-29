@@ -6,6 +6,7 @@ import { showLoading, hideLoading, disableAllControlsDuringLoad, enableAllContro
 import { addFadeInAnimation } from '../utils.js';
 import { clearLevelCounts, setLevelCounts, setCurrentFolder, getCurrentFolder } from '../state.js';
 import { loadQuiz } from '../quiz-loader.js';
+import { navigate } from '../router.js';
 
 // Track current folder path
 let currentFolderPath = '';
@@ -221,10 +222,15 @@ function createBackButton(folder) {
   backButton.className = 'quiz-box back-button';
   backButton.innerHTML = '<i class="fas fa-arrow-left"></i> Back to Categories';
 
-  backButton.onclick = () => {
+  // NEW WAY (with routing):
+  backButton.addEventListener('click', () => {
     const parentFolder = folder.split('/').slice(0, -1).join('/');
-    listQuizzes(parentFolder);
-  };
+    if (parentFolder) {
+      navigate(`/folder/${parentFolder.replace(/\//g, '~')}`);
+    } else {
+      navigate('/');
+    }
+  });
 
   return backButton;
 }
@@ -308,13 +314,21 @@ function createFolderBox(folderName, currentFolder, hasInvalid = false) {
     ${warningIcon}
   `;
 
-  folderBox.onclick = () => {
+//  folderBox.onclick = () => {
+//    const fullPath = currentFolder ? `${currentFolder}/${folderName}` : folderName;
+//    showLoading(CONFIG.LOADING_MESSAGES.FOLDER_OPEN, `Loading quizzes from ${folderName}...`);
+//    setTimeout(() => {
+//      listQuizzes(fullPath);
+//    }, 100);
+//  };
+
+  // NEW WAY (with routing):
+  folderBox.addEventListener('click', () => {
     const fullPath = currentFolder ? `${currentFolder}/${folderName}` : folderName;
-    showLoading(CONFIG.LOADING_MESSAGES.FOLDER_OPEN, `Loading quizzes from ${folderName}...`);
-    setTimeout(() => {
-      listQuizzes(fullPath);
-    }, 100);
-  };
+    const routePath = `/folder/${fullPath.replace(/\//g, '~')}`;
+    navigate(routePath);
+  });
+
 
   return folderBox;
 }
@@ -350,10 +364,12 @@ function createQuizBox(file, folder, validation) {
     quizBox.title = warningTitle;
   }
 
-  quizBox.onclick = () => {
+  // NEW WAY (with routing):
+  quizBox.addEventListener('click', () => {
     const filePath = folder ? `${folder}/${file}` : file;
-    initializeQuiz(filePath, folder);
-  };
+    const routePath = `/quiz/${filePath.replace(/\//g, '~')}`;
+    navigate(routePath);
+  });
 
   return quizBox;
 }
@@ -383,7 +399,11 @@ export function goBackToFolder() {
     'Return to Folder?',
     `Are you sure you want to go back to the quiz selection? Your current progress will be lost.`,
     () => {
-      listQuizzes(folder);
+      if (folder) {
+        navigate(`/folder/${folder.replace(/\//g, '~')}`);
+      } else {
+        navigate('/');
+      }
     }
   );
 }
@@ -400,12 +420,19 @@ export function goHomeWithConfirmation() {
       'Return to Home?',
       `Are you sure you want to return to the main menu? Your current progress will be lost.`,
       () => {
-        listQuizzes('');
+        navigate('/');
       }
     );
   } else {
-    listQuizzes('');
+    navigate('/');
   }
+}
+
+// Make functions globally available
+if (typeof window !== 'undefined') {
+  window.listQuizzes = listQuizzes;
+  window.goBackToFolder = goBackToFolder;
+  window.goHomeWithConfirmation = goHomeWithConfirmation;
 }
 
 /**

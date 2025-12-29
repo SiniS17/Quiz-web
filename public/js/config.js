@@ -11,7 +11,7 @@ export const CONFIG = {
    * Name of the quiz directory (relative to project root or public folder)
    * Change this to use a different folder name
    */
-  QUIZ_DIRECTORY_NAME: 'list quizzes',
+  QUIZ_DIRECTORY_NAME: 'Bank',
 
   /**
    * Whether quiz directory is in root (true) or public folder (false)
@@ -50,7 +50,7 @@ export const CONFIG = {
   /**
    * Whether live test mode is enabled by default
    */
-  DEFAULT_LIVE_TEST_MODE: false,
+  DEFAULT_LIVE_TEST_MODE: true,
 
 
   // ===================================
@@ -99,11 +99,12 @@ export const CONFIG = {
    * Grade percentage thresholds
    */
   GRADE_THRESHOLDS: {
-    A_PLUS: 90,
-    A: 80,
-    B: 70,
-    C: 60,
-    // Below C is F
+    A_PLUS: 95,
+    A: 90,
+    B: 85,
+    C: 80,
+    D: 75,
+    // Below D is F
   },
 
 
@@ -144,7 +145,7 @@ export const CONFIG = {
   /**
    * Short level prefix for compact display
    */
-  LEVEL_SHORT_PREFIX: 'L',
+  LEVEL_SHORT_PREFIX: 'LV',
 
 
   // ===================================

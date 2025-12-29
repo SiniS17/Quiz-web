@@ -246,9 +246,7 @@ The flight crew or engineer
 Controlled by EEC
 Both (A) and (B)
 
-IF AN OUTPUT FAUL IN ONE EEC CHANNEL IN CONTROL,...
-IF AN INPUT FAULT IN ONE EEC CHANNEL IN CONTROL,…
-@@(ME Repair, E&A Repair)
+IF AN OUTPUT FAUL IN ONE EEC CHANNEL IN CONTROL,...\nIF AN INPUT FAULT IN ONE EEC CHANNEL IN CONTROL,…\n(ME Repair, E&A Repair)
 Cause switchover to control from the other channel
 That control channel uses input signal from the other channel
 That control channel uses output signal from the other channel via crosstalk

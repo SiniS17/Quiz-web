@@ -1,4 +1,4 @@
-// modules/ui/navigation.js - Quiz List and Folder Navigation with Back Support
+// modules/ui/navigation.js - Quiz List and Folder Navigation with Line Count Checker
 import { fetchQuizList } from '../api.js';
 import { showNotification } from './notifications.js';
 import { showLoading, hideLoading, disableAllControlsDuringLoad, enableAllControlsAfterLoad } from './loading.js';
@@ -8,6 +8,76 @@ import { loadQuiz } from '../quiz-loader.js';
 
 // Track current folder path
 let currentFolderPath = '';
+
+/**
+ * Check if a quiz file has more than 5 consecutive non-empty lines
+ * @param {string} filePath - Path to quiz file
+ * @returns {Promise<boolean>} True if more than 5 consecutive lines
+ */
+async function hasMoreThanFiveConsecutiveLines(filePath) {
+  try {
+    const response = await fetch('./list quizzes/' + filePath);
+    if (!response.ok) {
+      return false;
+    }
+    const text = await response.text();
+    const lines = text.split('\n');
+
+    let consecutiveCount = 0;
+    let maxConsecutive = 0;
+
+    for (const line of lines) {
+      if (line.trim() !== '') {
+        consecutiveCount++;
+        maxConsecutive = Math.max(maxConsecutive, consecutiveCount);
+      } else {
+        consecutiveCount = 0;
+      }
+    }
+
+    return maxConsecutive > 5;
+  } catch (error) {
+    console.error('Error checking line count:', error);
+    return false;
+  }
+}
+
+/**
+ * Check if a folder contains any quizzes with more than 5 consecutive lines
+ * @param {string} folderPath - Path to folder
+ * @returns {Promise<boolean>} True if folder contains flagged quizzes
+ */
+async function folderHasFlaggedQuizzes(folderPath) {
+  try {
+    const data = await fetchQuizList(folderPath);
+
+    // Check all files in this folder
+    const fileChecks = await Promise.all(
+      data.files.map(file => {
+        const filePath = folderPath ? `${folderPath}/${file}` : file;
+        return hasMoreThanFiveConsecutiveLines(filePath);
+      })
+    );
+
+    // If any file is flagged, return true
+    if (fileChecks.some(flagged => flagged)) {
+      return true;
+    }
+
+    // Recursively check subfolders
+    const folderChecks = await Promise.all(
+      data.folders.map(folder => {
+        const fullPath = folderPath ? `${folderPath}/${folder}` : folder;
+        return folderHasFlaggedQuizzes(fullPath);
+      })
+    );
+
+    return folderChecks.some(flagged => flagged);
+  } catch (error) {
+    console.error('Error checking folder:', error);
+    return false;
+  }
+}
 
 /**
  * List available quizzes and folders
@@ -28,7 +98,7 @@ export function listQuizzes(folder = '') {
 
   updateQuizTitle('Aviation Quiz');
   clearQuizContainer();
-  closeAllOpenMenus(); // NEW: Close all menus before navigation
+  closeAllOpenMenus();
   hideTopControls();
   hideQuizControls();
   showQuizSelection();
@@ -58,7 +128,6 @@ export function listQuizzes(folder = '') {
  * Close all open menus and overlays
  */
 function closeAllOpenMenus() {
-  // Close control panel
   const controlPanel = document.getElementById('control-panel');
   const panelOverlay = document.getElementById('panel-overlay');
 
@@ -71,14 +140,12 @@ function closeAllOpenMenus() {
     panelOverlay.classList.remove('visible');
   }
 
-  // Close and hide left sidebar
   const leftSidebar = document.getElementById('left-sidebar');
   if (leftSidebar) {
     leftSidebar.style.display = 'none';
     leftSidebar.classList.remove('mobile-visible');
   }
 
-  // Close score display if open
   const scoreDisplay = document.getElementById('floating-score-display');
   if (scoreDisplay) {
     scoreDisplay.classList.remove('show');
@@ -89,7 +156,6 @@ function closeAllOpenMenus() {
     }, 300);
   }
 
-  // Close live score display if open
   const liveScore = document.getElementById('floating-live-score');
   if (liveScore) {
     liveScore.classList.remove('show');
@@ -100,13 +166,11 @@ function closeAllOpenMenus() {
     }, 300);
   }
 
-  // Close image modal if open
   const imageModal = document.getElementById('image-modal');
   if (imageModal) {
     imageModal.classList.remove('show');
   }
 
-  // Restore body overflow
   document.body.style.overflow = 'auto';
 }
 
@@ -118,7 +182,6 @@ function createBackButton(folder) {
   backButton.className = 'quiz-box back-button';
   backButton.innerHTML = '<i class="fas fa-arrow-left"></i> Back to Categories';
 
-  // Navigate to parent folder
   backButton.onclick = () => {
     const parentFolder = folder.split('/').slice(0, -1).join('/');
     listQuizzes(parentFolder);
@@ -130,7 +193,7 @@ function createBackButton(folder) {
 /**
  * Render quiz list in grid
  */
-function renderQuizList(data, quizGrid, folder) {
+async function renderQuizList(data, quizGrid, folder) {
   if (data.folders.length === 0 && data.files.length === 0) {
     quizGrid.innerHTML = '<div class="no-content">No quizzes or folders found.</div>';
     enableAllControlsAfterLoad();
@@ -141,14 +204,33 @@ function renderQuizList(data, quizGrid, folder) {
   data.folders.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
   data.files.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
 
-  data.folders.forEach((folderName) => {
-    const folderBox = createFolderBox(folderName, folder);
+  // Check folders and files in parallel
+  const folderChecks = await Promise.all(
+    data.folders.map(async (folderName) => {
+      const fullPath = folder ? `${folder}/${folderName}` : folderName;
+      const hasFlagged = await folderHasFlaggedQuizzes(fullPath);
+      return { folderName, hasFlagged };
+    })
+  );
+
+  const fileChecks = await Promise.all(
+    data.files.map(async (file) => {
+      const filePath = folder ? `${folder}/${file}` : file;
+      const hasExcessLines = await hasMoreThanFiveConsecutiveLines(filePath);
+      return { file, hasExcessLines };
+    })
+  );
+
+  // Render folders
+  folderChecks.forEach(({ folderName, hasFlagged }) => {
+    const folderBox = createFolderBox(folderName, folder, hasFlagged);
     quizGrid.appendChild(folderBox);
     addFadeInAnimation(folderBox);
   });
 
-  data.files.forEach((file) => {
-    const quizBox = createQuizBox(file, folder);
+  // Render files
+  fileChecks.forEach(({ file, hasExcessLines }) => {
+    const quizBox = createQuizBox(file, folder, hasExcessLines);
     quizGrid.appendChild(quizBox);
     addFadeInAnimation(quizBox);
   });
@@ -170,20 +252,25 @@ function handleQuizListError(error, quizGrid) {
 
 /**
  * Create folder box element
+ * @param {string} folderName - Folder name
+ * @param {string} currentFolder - Current folder path
+ * @param {boolean} hasFlagged - Whether folder contains flagged quizzes
  */
-function createFolderBox(folderName, currentFolder) {
+function createFolderBox(folderName, currentFolder, hasFlagged = false) {
   const folderBox = document.createElement('div');
-  folderBox.className = 'quiz-box folder-select';
+  folderBox.className = 'quiz-box folder-select' + (hasFlagged ? ' quiz-flagged' : '');
+
+  const warningIcon = hasFlagged ? '<i class="fas fa-exclamation-triangle excess-warning"></i>' : '';
+
   folderBox.innerHTML = `
     <i class="fas fa-folder"></i>
     <h3>${folderName}</h3>
     <p>Browse quiz categories</p>
+    ${warningIcon}
   `;
 
   folderBox.onclick = () => {
-    // Build the full path to the nested folder
     const fullPath = currentFolder ? `${currentFolder}/${folderName}` : folderName;
-
     showLoading('Opening Folder', `Loading quizzes from ${folderName}...`);
     setTimeout(() => {
       listQuizzes(fullPath);
@@ -194,15 +281,22 @@ function createFolderBox(folderName, currentFolder) {
 }
 
 /**
- * Create quiz box element
+ * Create quiz box element with line count indicator
+ * @param {string} file - File name
+ * @param {string} folder - Current folder
+ * @param {boolean} hasExcessLines - Whether quiz has more than 5 consecutive lines
  */
-function createQuizBox(file, folder) {
+function createQuizBox(file, folder, hasExcessLines = false) {
   const quizBox = document.createElement('div');
-  quizBox.className = 'quiz-box';
+  quizBox.className = 'quiz-box' + (hasExcessLines ? ' quiz-flagged' : '');
+
+  const warningIcon = hasExcessLines ? '<i class="fas fa-exclamation-triangle excess-warning"></i>' : '';
+
   quizBox.innerHTML = `
     <i class="fas fa-file-text"></i>
     <h3>${file.replace('.txt', '').replace(' (-)', '')}</h3>
     <p>Click to start quiz</p>
+    ${warningIcon}
   `;
 
   quizBox.onclick = () => {
@@ -220,7 +314,6 @@ function initializeQuiz(fileName, folder) {
   showLoading();
   disableAllControlsDuringLoad();
 
-  // Store the folder path for back navigation
   setCurrentFolder(folder || '');
 
   hideQuizSelection();
@@ -235,12 +328,10 @@ function initializeQuiz(fileName, folder) {
 export function goBackToFolder() {
   const folder = getCurrentFolder();
 
-  // Show confirmation dialog
   showConfirmDialog(
     'Return to Folder?',
     `Are you sure you want to go back to the quiz selection? Your current progress will be lost.`,
     () => {
-      // User confirmed
       listQuizzes(folder);
     }
   );
@@ -250,22 +341,18 @@ export function goBackToFolder() {
  * Go home with confirmation
  */
 export function goHomeWithConfirmation() {
-  // Check if there's an active quiz
   const quizContainer = document.getElementById('quiz-container');
   const hasActiveQuiz = quizContainer && quizContainer.innerHTML.trim() !== '';
 
   if (hasActiveQuiz) {
-    // Show confirmation dialog
     showConfirmDialog(
       'Return to Home?',
       `Are you sure you want to return to the main menu? Your current progress will be lost.`,
       () => {
-        // User confirmed
         listQuizzes('');
       }
     );
   } else {
-    // No active quiz, just go home
     listQuizzes('');
   }
 }
@@ -274,7 +361,6 @@ export function goHomeWithConfirmation() {
  * Show confirmation dialog
  */
 function showConfirmDialog(title, message, onConfirm) {
-  // Create modal overlay
   const overlay = document.createElement('div');
   overlay.className = 'confirm-overlay';
   overlay.style.cssText = `
@@ -292,7 +378,6 @@ function showConfirmDialog(title, message, onConfirm) {
     animation: fadeIn 0.2s ease;
   `;
 
-  // Create modal
   const modal = document.createElement('div');
   modal.className = 'confirm-modal';
   modal.style.cssText = `
@@ -342,7 +427,6 @@ function showConfirmDialog(title, message, onConfirm) {
   overlay.appendChild(modal);
   document.body.appendChild(overlay);
 
-  // Add hover effects
   const cancelBtn = modal.querySelector('.cancel-btn');
   const confirmBtn = modal.querySelector('.confirm-btn');
 
@@ -351,7 +435,6 @@ function showConfirmDialog(title, message, onConfirm) {
   confirmBtn.onmouseover = () => confirmBtn.style.background = 'var(--primary-dark)';
   confirmBtn.onmouseout = () => confirmBtn.style.background = 'var(--primary-color)';
 
-  // Handle buttons
   cancelBtn.onclick = () => {
     overlay.style.animation = 'fadeOut 0.2s ease';
     setTimeout(() => overlay.remove(), 200);
@@ -365,14 +448,12 @@ function showConfirmDialog(title, message, onConfirm) {
     }, 200);
   };
 
-  // Close on overlay click
   overlay.onclick = (e) => {
     if (e.target === overlay) {
       cancelBtn.click();
     }
   };
 
-  // Close on Escape key
   const escapeHandler = (e) => {
     if (e.key === 'Escape') {
       cancelBtn.click();
@@ -422,7 +503,6 @@ function hideTopControls() {
 }
 
 function hideQuizControls() {
-  // Hide floating control panel
   const controlPanel = document.getElementById('control-panel');
   const panelOverlay = document.getElementById('panel-overlay');
 
@@ -435,7 +515,6 @@ function hideQuizControls() {
     panelOverlay.classList.remove('visible');
   }
 
-  // Hide FAB buttons
   const controlFab = document.getElementById('control-fab');
   const sidebarFab = document.getElementById('sidebar-fab');
 
@@ -449,7 +528,6 @@ function hideQuizControls() {
     sidebarFab.style.display = 'none';
   }
 
-  // Restore body overflow
   document.body.style.overflow = 'auto';
 }
 

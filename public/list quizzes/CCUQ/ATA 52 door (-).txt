@@ -357,10 +357,7 @@ A jet pump moves the fuel into the related wing tank inner cell.
 @@The clack valves let the fuel return to the related wing tank.
 A booster pump will collect the fuel back to inner cell when underfull is detected in the inner cell.
 
-When in all A321 aircraft tanks are full of fuel, what happen if:
-Tank pumps are running;
-XFR valve mode selector in Manual;
-XFR valve pushbuttons are pressed in. (ME Repair, E&A Repair)
+When in all A321 aircraft tanks are full of fuel, what happen if:\nTank pumps are running;\nXFR valve mode selector in Manual;\nXFR valve pushbuttons are pressed in. (ME Repair, E&A Repair)
 XFR valve closed to stop the fuel transfer to wing tanks.
 @@XFR valve open and the fuel transfer to wing tanks.
 XFR valve open but the fuel does not transfer to wing tanks.

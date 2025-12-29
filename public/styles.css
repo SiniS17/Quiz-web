@@ -1546,3 +1546,62 @@ input:focus,
 #quiz-list-container {
   display: none;
 }
+
+/* Flagged quiz/folder - RED with warning icon */
+.quiz-box.quiz-flagged,
+.folder-select.quiz-flagged {
+  background: rgba(239, 68, 68, 0.95);
+  border-color: #dc2626;
+  color: white;
+  position: relative;
+}
+
+.quiz-box.quiz-flagged::before,
+.folder-select.quiz-flagged::before {
+  background: linear-gradient(135deg, #dc2626, #b91c1c);
+  transform: scaleX(1);
+}
+
+.quiz-box.quiz-flagged:hover,
+.folder-select.quiz-flagged:hover {
+  background: rgba(220, 38, 38, 0.95);
+  border-color: #b91c1c;
+  box-shadow: 0 10px 20px rgba(239, 68, 68, 0.4);
+}
+
+.quiz-box.quiz-flagged i.fa-file-text,
+.quiz-box.quiz-flagged i.fa-folder,
+.folder-select.quiz-flagged i {
+  color: white;
+}
+
+.quiz-box.quiz-flagged h3,
+.folder-select.quiz-flagged h3 {
+  color: white;
+}
+
+.quiz-box.quiz-flagged p,
+.folder-select.quiz-flagged p {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.excess-warning {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  color: white;
+  font-size: 1.5rem;
+  animation: pulse 2s ease-in-out infinite;
+  z-index: 10;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.6;
+    transform: scale(1.15);
+  }
+}

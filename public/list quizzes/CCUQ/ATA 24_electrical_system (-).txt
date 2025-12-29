@@ -116,8 +116,7 @@ BATTERIES
 DC BUS 2
 DC ESS BUS
 
-What does the EXT PWR PB “AVAIL” light illuminated on EXT PWR panel means?
-(ME Repair, E&A Repair)
+What does the EXT PWR PB “AVAIL” light illuminated on EXT PWR panel means? (ME Repair, E&A Repair)
 @@External power is plugged in,and all parameters are normal
 All external power parameters are normal but not plugged in
 External power is plugged in

@@ -565,15 +565,10 @@ ABOVE 50% N2, THE FUEL CUT OFF (ENGINE SHUT DOWN) COMMAND COMES FROM(ME Repair, 
 Controlled by EEC
 Both (A) and (B)
 
-IF AN OUTPUT FAUL IN ONE EEC CHANNEL IN CONTROL,...
-IF AN INPUT FAULT IN ONE EEC CHANNEL IN CONTROL,…
-(ME Repair, E&A Repair)
-Cause switchover to control from the other channel
-That control channel uses input signal from the other channel
-@@That control channel uses output signal from the other channel via crosstalk
-@@That control channel uses input signal from the other channel
-Cause switchover to control from the other channel
-Cause switchover to control from the other channel
+IF AN OUTPUT FAUL IN ONE EEC CHANNEL IN CONTROL,...\nIF AN INPUT FAULT IN ONE EEC CHANNEL IN CONTROL,…\n(ME Repair, E&A Repair)
+Cause switchover to control from the other channel\nThat control channel uses input signal from the other channel
+@@That control channel uses output signal from the other channel via crosstalk\nThat control channel uses input signal from the other channel
+Cause switchover to control from the other channel\nCause switchover to control from the other channel
 
 IF HANDLING BLEED VALVES (7tha, 7thb, 7thc, 10thstage) STICK IN THE CLOSED POSITION, CAN IT BE DETECTED BY FADEC?(ME Repair)
 @@No, it is Not detected by FADEC

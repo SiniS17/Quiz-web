@@ -1605,3 +1605,226 @@ input:focus,
     transform: scale(1.15);
   }
 }
+
+/* ===========================================
+   INVALID QUESTION STYLES
+   Add these styles to your existing styles.css file
+   =========================================== */
+
+/* Invalid question container */
+.question-invalid {
+  position: relative;
+  background: rgba(239, 68, 68, 0.05) !important;
+  border-left-color: var(--error-color) !important;
+  border: 2px solid var(--error-color) !important;
+  pointer-events: none;
+  user-select: text; /* Allow text selection for copying */
+}
+
+/* Red diagonal strikethrough lines */
+.question-invalid::before,
+.question-invalid::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.question-invalid::before {
+  background: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    rgba(239, 68, 68, 0.3) 10px,
+    rgba(239, 68, 68, 0.3) 12px
+  );
+}
+
+.question-invalid::after {
+  background: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 10px,
+    rgba(239, 68, 68, 0.3) 10px,
+    rgba(239, 68, 68, 0.3) 12px
+  );
+}
+
+/* Invalid question overlay - lightweight, doesn't block content visibility */
+.question-invalid-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: transparent;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 15;
+  border-radius: var(--border-radius);
+  padding-top: 0.5rem;
+  pointer-events: none;
+}
+
+.invalid-message {
+  background: rgba(239, 68, 68, 0.95);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius);
+  font-weight: 600;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.4);
+  animation: pulseError 2s ease-in-out infinite;
+}
+
+.invalid-message i {
+  font-size: 1.2rem;
+  animation: shake 0.5s ease-in-out infinite;
+}
+
+/* Validation error banner in question header */
+.validation-error {
+  background: linear-gradient(135deg, var(--error-color), #dc2626);
+  color: white;
+  padding: 0.75rem 1rem;
+  border-radius: var(--border-radius);
+  margin-top: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  box-shadow: 0 4px 8px rgba(239, 68, 68, 0.3);
+  z-index: 20;
+  position: relative;
+}
+
+.validation-error i {
+  font-size: 1.2rem;
+  animation: flash 1.5s ease-in-out infinite;
+}
+
+.validation-error strong {
+  margin-right: 0.25rem;
+}
+
+/* Invalid question number badge */
+.question-invalid .question-number {
+  background: linear-gradient(135deg, var(--error-color), #dc2626) !important;
+  animation: pulseError 2s ease-in-out infinite;
+}
+
+/* Disabled answers in invalid questions */
+.answer-disabled {
+  opacity: 0.5 !important;
+  cursor: not-allowed !important;
+  pointer-events: none !important;
+  filter: grayscale(50%);
+}
+
+.answer-disabled input[type="radio"] {
+  cursor: not-allowed !important;
+}
+
+.answer-disabled label {
+  cursor: not-allowed !important;
+}
+
+/* Ensure invalid question content is fully visible and copyable */
+.question-invalid .question-header,
+.question-invalid .answers-container {
+  position: relative;
+  z-index: 5;
+  user-select: text; /* Allow text selection */
+  pointer-events: auto; /* Allow text selection interaction */
+}
+
+/* Only block interaction on radio buttons and labels */
+.question-invalid input[type="radio"],
+.question-invalid label {
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+/* Invalid question animations */
+@keyframes pulseError {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7);
+  }
+  50% {
+    box-shadow: 0 0 0 10px rgba(239, 68, 68, 0);
+  }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-3px); }
+  75% { transform: translateX(3px); }
+}
+
+@keyframes flash {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+/* Progress box invalid state */
+.round-box.invalid {
+  background: var(--error-color);
+  border-color: var(--error-color);
+  color: white;
+  position: relative;
+  cursor: not-allowed;
+}
+
+.round-box.invalid::after {
+  content: '✕';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.round-box.invalid:hover {
+  transform: scale(1);
+  cursor: not-allowed;
+}
+
+/* Score warning for invalid questions */
+.score-warning {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: linear-gradient(135deg, var(--warning-color), #f97316);
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.score-warning i {
+  font-size: 1rem;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .invalid-message {
+    padding: 0.75rem 1.25rem;
+    font-size: 0.95rem;
+  }
+
+  .validation-error {
+    font-size: 0.85rem;
+    padding: 0.6rem 0.85rem;
+  }
+}

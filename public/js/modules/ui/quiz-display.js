@@ -1,9 +1,40 @@
-// modules/ui/quiz-display.js - Quiz Question Display and Interaction
+// modules/ui/quiz-display.js - Quiz Question Display with Validation
+import CONFIG from '../../config.js';
 import { parseQuestionWithImages } from '../parser.js';
 import { shuffle, addFadeInAnimation } from '../utils.js';
 import { getAnsweredQuestions, setAnsweredQuestions } from '../state.js';
 import { updateProgressIndicator } from './progress.js';
 import { getLiveTestCheckbox, updateLiveScore, highlightLiveAnswers } from '../live-test.js';
+
+/**
+ * Validate if a question block has correct line count
+ * @param {string} questionText - Full question text
+ * @returns {Object} Validation result with valid flag and reason
+ */
+function validateQuestionBlock(questionText) {
+  const lines = questionText.split('\n').filter(line => line.trim() !== '');
+  const lineCount = lines.length;
+
+  const { MIN_CONSECUTIVE_LINES, MAX_CONSECUTIVE_LINES } = CONFIG;
+
+  if (lineCount < MIN_CONSECUTIVE_LINES) {
+    return {
+      valid: false,
+      reason: `Too few lines (${lineCount} < ${MIN_CONSECUTIVE_LINES})`,
+      lineCount
+    };
+  }
+
+  if (lineCount > MAX_CONSECUTIVE_LINES) {
+    return {
+      valid: false,
+      reason: `Too many lines (${lineCount} > ${MAX_CONSECUTIVE_LINES})`,
+      lineCount
+    };
+  }
+
+  return { valid: true, lineCount };
+}
 
 /**
  * Create question element with answers
@@ -12,6 +43,8 @@ import { getLiveTestCheckbox, updateLiveScore, highlightLiveAnswers } from '../l
  * @returns {HTMLElement} Question element
  */
 export function createQuestionElement(questionText, index) {
+  const validation = validateQuestionBlock(questionText);
+
   const lines = questionText.split('\n');
   const questionTitle = lines[0];
   const answers = lines.slice(1);
@@ -28,14 +61,30 @@ export function createQuestionElement(questionText, index) {
   questionDiv.className = 'question';
   questionDiv.id = `question-${index}`;
 
+  // Add invalid class if validation fails
+  if (!validation.valid) {
+    questionDiv.classList.add('question-invalid');
+    questionDiv.setAttribute('data-invalid-reason', validation.reason);
+  }
+
   const questionHeader = document.createElement('div');
   questionHeader.className = 'question-header';
 
   // Build question HTML with cleaned title
   let headerHTML = `
-    <span class="question-number">Question ${index + 1}</span>
+    <span class="question-number">${validation.valid ? `Question ${index + 1}` : `⚠️ Invalid Question ${index + 1}`}</span>
     <h3>${cleanTitle.replace(/\\n/g, '<br>')}</h3>
   `;
+
+  // Add validation error message if invalid
+  if (!validation.valid) {
+    headerHTML += `
+      <div class="validation-error">
+        <i class="fas fa-exclamation-triangle"></i>
+        <strong>Validation Error:</strong> ${validation.reason}
+      </div>
+    `;
+  }
 
   // Add images if they exist
   if (imageInfo.hasImages) {
@@ -60,11 +109,25 @@ export function createQuestionElement(questionText, index) {
   answersContainer.className = 'answers-container';
 
   shuffledAnswers.forEach((answer, answerIndex) => {
-    const answerElement = createAnswerElement(answer, answerIndex, index);
+    const answerElement = createAnswerElement(answer, answerIndex, index, !validation.valid);
     answersContainer.appendChild(answerElement);
   });
 
   questionDiv.appendChild(answersContainer);
+
+  // Add overlay badge for invalid questions
+  if (!validation.valid) {
+    const overlay = document.createElement('div');
+    overlay.className = 'question-invalid-overlay';
+    overlay.innerHTML = `
+      <div class="invalid-message">
+        <i class="fas fa-ban"></i>
+        <span>Invalid Format - Cannot Answer</span>
+      </div>
+    `;
+    questionDiv.appendChild(overlay);
+  }
+
   return questionDiv;
 }
 
@@ -73,22 +136,28 @@ export function createQuestionElement(questionText, index) {
  * @param {string} answerText - Answer text
  * @param {number} answerIndex - Answer index
  * @param {number} questionIndex - Question index
+ * @param {boolean} isDisabled - Whether answer should be disabled
  * @returns {HTMLElement} Answer element
  */
-function createAnswerElement(answerText, answerIndex, questionIndex) {
+function createAnswerElement(answerText, answerIndex, questionIndex, isDisabled = false) {
   const isCorrect = answerText.startsWith('@@');
   const cleanText = isCorrect ? answerText.slice(2) : answerText;
   const answerLabel = String.fromCharCode(65 + answerIndex);
 
   const answerDiv = document.createElement('div');
   answerDiv.className = 'answer';
-  answerDiv.style.cursor = 'pointer';
+  answerDiv.style.cursor = isDisabled ? 'not-allowed' : 'pointer';
+
+  if (isDisabled) {
+    answerDiv.classList.add('answer-disabled');
+  }
 
   const input = document.createElement('input');
   input.type = 'radio';
   input.name = `question${questionIndex}`;
   input.value = cleanText;
   input.id = `q${questionIndex}a${answerIndex}`;
+  input.disabled = isDisabled;
 
   if (isCorrect) {
     input.dataset.correct = "true";
@@ -98,13 +167,15 @@ function createAnswerElement(answerText, answerIndex, questionIndex) {
   label.htmlFor = input.id;
   label.innerHTML = `<span class="answer-label">${answerLabel}</span>${cleanText.replace(/\\n/g, '<br>')}`;
 
-  input.addEventListener('change', () => {
-    handleAnswerChange(input, answerDiv, questionIndex);
-  });
+  if (!isDisabled) {
+    input.addEventListener('change', () => {
+      handleAnswerChange(input, answerDiv, questionIndex);
+    });
 
-  answerDiv.addEventListener('click', (e) => {
-    handleAnswerClick(e, input, label, answerDiv, questionIndex);
-  });
+    answerDiv.addEventListener('click', (e) => {
+      handleAnswerClick(e, input, label, answerDiv, questionIndex);
+    });
+  }
 
   answerDiv.appendChild(input);
   answerDiv.appendChild(label);
@@ -204,7 +275,7 @@ export function disableAllAnswers() {
  * Enable all answers
  */
 export function enableAllAnswers() {
-  const allAnswers = document.querySelectorAll('.answer');
+  const allAnswers = document.querySelectorAll('.answer:not(.answer-disabled)');
   allAnswers.forEach(answer => {
     answer.style.cursor = 'pointer';
     answer.style.opacity = '1';

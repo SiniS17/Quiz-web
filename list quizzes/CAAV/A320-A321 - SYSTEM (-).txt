@@ -1000,8 +1000,7 @@ BATTERIES
 DC BUS 2
 DC ESS BUS
 
-What does the EXT PWR PB “AVAIL” light illuminated on EXT PWR panel means?
-(A, B1, B2)
+What does the EXT PWR PB “AVAIL” light illuminated on EXT PWR panel means?(A, B1, B2)
 @@External power is plugged in,and all parameters are normal
 All external power parameters are normal but not plugged in
 External power is plugged in
@@ -3092,10 +3091,7 @@ A jet pump moves the fuel into the related wing tank inner cell.
 @@The clack valves let the fuel return to the related wing tank.
 A booster pump will collect the fuel back to inner cell when underfull is detected in the inner cell.
 
-When in all A321 aircraft tanks are full of fuel, what happen if:
-Tank pumps are running;
-XFR valve mode selector in Manual;
-XFR valve pushbuttons are pressed in. (b1,b2)
+When in all A321 aircraft tanks are full of fuel, what happen if:\nTank pumps are running;\nXFR valve mode selector in Manual;\nXFR valve pushbuttons are pressed in. (b1,b2)
 XFR valve closed to stop the fuel transfer to wing tanks.
 @@XFR valve open and the fuel transfer to wing tanks.
 XFR valve open but the fuel does not transfer to wing tanks.
@@ -3664,9 +3660,7 @@ A high oil temperature indication and warning
 
 Normal engine oil consumption is? (B1)
 0,85 QT per hour.
-
 25 QT per hour.
-
 57 QT per hour.
 
 Engine oil system is ventilated at? (B1)

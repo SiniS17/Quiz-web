@@ -1,4 +1,4 @@
-// modules/scoring.js - Score Calculation and Display
+// modules/scoring.js - Score Calculation and Display with Invalid Question Handling
 import { getGrade, getScoreMessage } from './utils.js';
 import { updateQuizState } from './state.js';
 import { showNotification } from './ui/notifications.js';
@@ -13,8 +13,22 @@ export function calculateScore() {
   const questions = document.querySelectorAll('.question');
   let score = 0;
   let totalAnswered = 0;
+  let totalValid = 0;
+  let invalidCount = 0;
 
   questions.forEach((questionDiv, index) => {
+    // Skip invalid questions
+    if (questionDiv.classList.contains('question-invalid')) {
+      invalidCount++;
+      const roundBox = document.querySelector(`#results-container .round-box[data-question-index="${index}"]`);
+      if (roundBox) {
+        roundBox.classList.remove('unanswered', 'answered', 'correct', 'incorrect');
+        roundBox.classList.add('invalid');
+      }
+      return;
+    }
+
+    totalValid++;
     const result = processQuestionForScoring(questionDiv, index);
     if (result.answered) {
       totalAnswered++;
@@ -26,10 +40,15 @@ export function calculateScore() {
 
   updateQuizState({ hasSubmitted: true });
   disableQuizControls();
-  displayFinalScore(score, questions.length, totalAnswered);
+  displayFinalScore(score, totalValid, totalAnswered, invalidCount);
   hideSubmitButton();
   disableAllAnswers();
-  showNotification(`Quiz completed! Score: ${score}/${questions.length}`, 'success');
+
+  const validMessage = invalidCount > 0
+    ? `Quiz completed! Score: ${score}/${totalValid} (${invalidCount} invalid question${invalidCount > 1 ? 's' : ''} skipped)`
+    : `Quiz completed! Score: ${score}/${totalValid}`;
+
+  showNotification(validMessage, 'success');
 }
 
 /**
@@ -124,7 +143,7 @@ function markQuestionUnanswered(correctAnswer, roundBox, questionHeader) {
 /**
  * Display final score in floating box
  */
-function displayFinalScore(score, total, answered) {
+function displayFinalScore(score, total, answered, invalidCount = 0) {
   const existingScore = document.getElementById('floating-score-display');
   if (existingScore) {
     existingScore.remove();
@@ -137,6 +156,16 @@ function displayFinalScore(score, total, answered) {
   const percentage = (score / total * 100).toFixed(1);
   const grade = getGrade(percentage);
 
+  let invalidWarning = '';
+  if (invalidCount > 0) {
+    invalidWarning = `
+      <div class="score-warning">
+        <i class="fas fa-exclamation-triangle"></i>
+        <span>${invalidCount} invalid question${invalidCount > 1 ? 's' : ''} excluded from scoring</span>
+      </div>
+    `;
+  }
+
   scoreDisplay.innerHTML = `
     <div class="score-header">
       <i class="fas fa-trophy"></i>
@@ -145,12 +174,17 @@ function displayFinalScore(score, total, answered) {
         <i class="fas fa-times"></i>
       </button>
     </div>
+    ${invalidWarning}
     <div class="score-main">
       <div class="score-value">${score}/${total}</div>
       <div class="score-percentage">${percentage}%</div>
       <div class="grade grade-${grade.toLowerCase().replace('+', 'plus')}">${grade}</div>
     </div>
     <div class="score-details">
+      <div class="score-stat">
+        <span class="stat-label">Valid Questions:</span>
+        <span class="stat-value">${total}</span>
+      </div>
       <div class="score-stat">
         <span class="stat-label">Answered:</span>
         <span class="stat-value">${answered}/${total}</span>

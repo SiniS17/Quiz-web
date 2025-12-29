@@ -1,0 +1,504 @@
+THE FADEC SYSTEM INCLUDES THE:	(ME Repair, E&A Repair)
+Engine Electronic Controller (EEC) and the Engine Interface Unit (EIU).
+EIU and the engine controls.
+@@EEC and the peripheral sensors and components on the engine.
+
+THE HIGH PRESSURE COMPRESSOR AIRFLOW IS CONTROLLED BY THE VARIABLE STATOR VANES (vsvs) AND:(ME Repair, E&A Repair)
+Three bleed valves.
+No bleed valves.
+@@Four bleed valves.
+
+THE ACTIVE CLEARANCE CONTROL (ACC) SYSTEM ENSURES:(ME Repair, E&A Repair)
+Proper clearance between high pressure turbine and low pressure turbine.
+@@Turbine blade tip clearance for better performance.
+High pressure compressor blade tip clearance.
+
+THE ENGINE OIL AND IDG OIL TEMPERATURES ARE CONTROLLED BY:(ME Repair, E&A Repair)
+The engine fuel/oil and servo fuel heater.
+Returning fuel to the center tank for cooling.
+@@The Heat Management System, controlled by EEC.
+
+THE OIL VENT SYSTEM INCLUDES THE FOLLOWING COMPONENTS:	(ME Repair)
+@@A de-aerator in the oil tank, and a de-oiler on the external gear box.
+A de-oiler in the oil tank, and a de-aerator in the external gear box.
+A de-oiler and de-aerator in the oil tank.
+
+THE ENGINE OIL SUPPLY SYSTEM INCLUDES:(ME Repair, E&A Repair)
+@@A low pressure switch, an oil pressure transmitter and an oil quantity transmitter.
+Two low pressure switches and two oil pressure transmitters.
+A high pressure switch and a pressure transmitter.
+
+THE FADEC PROVIDES TWO IDLE MODE SELECTION:(ME Repair, E&A Repair)
+Flight idle and approach idle.
+@@Approach idle and minimum idle.
+Approach idle and landing idle.
+
+ON THE ECAM UPPER DISPLAY, THE WHITE CIRCLE MOVING AROUND THE ENGINE EPR GAUGE REPRESENTS:(ME Repair, E&A Repair)
+The EPR limit.
+The EPR actual.
+@@The predicted EPR corresponding to the thrust lever position.
+
+THE RESOLVERS IN THE THROTTLE CONTROL UNIT PROVIDE THROTTLE RESOLVER ANGLE INFORMATION TO:(ME Repair, E&A Repair)
+@@Channel A and channel B of the Engine Electronic Controller (EEC).
+Channel A only of each EEC.
+The Engine Interface Unit (EIU), then to the EEC.
+
+THE ENGINE OIL PRESSURE AND OIL QUANTITY SIGNALS FOR INDICATION ARE SENT TO:	(ME Repair, E&A Repair)
+The Engine Electronic Controller (EEC).
+@@The Engine Interface Unit (EIU).
+The EEC and the EIU.
+
+THE NUMBER 4 BEARING SCAVENGE VALVE IS:	(ME Repair)
+@@Controlled by HPC 10th stage pressure and monitored by the Engine Interface Unit (EIU).
+Controlled and monitored by the EEC.
+A pneumatically operated two-position valve monitored  by the EIU.
+
+WITH THE ENGINE MASTER SWITCH "OFF":(ME Repair, E&A Repair)
+@@The Pressure Raising and Shut-Off Valve (PRSOV) and the Low Pressure fuel shut-off valve are closed.
+The High Pressure fuel valve is closed and Low Pressure fuel shut-off valve is open.
+The PRSOV is open and the Low Pressure fuel shut-off valve is closed.
+
+IN CASE OF AN ENGINE INTERFACE UNIT FAILURE:(ME Repair, E&A Repair)
+@@Engine start on the ground is not possible.
+The FADEC reverts to the N1 control mode.
+The engine runs at minimum fuel flow because of Engine Electronic Controller input loss.
+
+THERE ARE FOUR SPEED SENSORS LOCATED IN THE FRONT BEARING COMPARTMENT:(ME Repair, E&A Repair)
+Two for Engine Electronic Controller and two for N1 indicator.
+@@One for EEC channel A, one for EEC channel B, one spare for N1 indication and
+@@One for the Engine Vibration Monitoring Unit (EVMU).
+Two for N1 indication and two for N2 indication.
+
+TO INITIATE A DRY CRANKING SEQUENCE, THE CORRECT SELECTION OF THE FOLLOWING COMPONENTS SHOULD BE:(ME Repair, E&A Repair)
+Mode selector to IGN START and MAN START pushbutton selected ON.
+@@Mode selector to CRANK and MAN START pushbutton selected ON.
+Mode selector to CRANK, master switch ON, and MAN START pushbutton selected ON.
+
+THE ENGINE ELECTRONIC CONTROLLER CONTROLS SIX BLEED SOLENOID VALVES MOUNTED ON THE FAN CASE. ONE OF THESE SOLENOID VALVES PROVIDES:(ME Repair)
+The Air Cooled Oil Cooler (ACOC) valve control.
+@@The pneumatic system High Pressure Bleed Valve closure control.
+The number 4 bearing scavenge valve pneumatic control.
+
+WHEN THE BOOSTER STAGE BLEED VALVE MASTER AND SLAVE ACTUATORS ARE REPLACED:(ME Repair)
+Only the master actuator may require adjustment.
+@@No adjustment is required for the master actuator or slave actuator.
+Both master and slave actuators may require adjustment.
+
+HOW MANY MODULES DOES THE V2500 CONSIST OF?(ME Repair, E&A Repair)
+3: Fan, Compressor and Turbine
+4: Fan, High Pressure Compressor, Diffuser/Combustor and Turbine
+@@7: Fan, Intercase, High Pressure Compressor, Diffuser/Combustor, High Pressure
+@@Turbine, Low Pressure Turbine and Accessory Drive Gearbox.
+
+WHAT ISNEEDED BY THE FADEC TO COMPUTE A REDUCED THRUST SETTING?(ME Repair, E&A Repair)
+Nothing, it is an automatic function of the FADEC
+A FLEX temperature must be entered on the INIT page of the MCDU
+@@A FLEX temperature must be entered on the TAKE OFF PERF page of the
+@@MCDU
+
+FOR THE V2500 ENGINE WHERE IS THE PRESSURE RAISING AND SHUT OFF VALVE LOCATED?(ME Repair, E&A Repair)
+@@Inside the FMU
+Inside the HMU
+On the wing forward spar
+
+HOW MANY IGNITION EXCITERS ARE INSTALLED AND WHAT IS THEIR INPUT POWER(ME Repair, E&A Repair)
+@@2, input 115VAC
+2, input 28VDC
+1, Normal input of 115VAC and 28VDC backup
+
+IS IT POSSIBLE TO MANUALLY SELECT ENGINE IGNITION IN FLIGHT?(ME Repair, E&A Repair)
+No this is a fully automatically controlled by the FADEC
+@@Yes by the ENG/MODE selector switch
+Yes by the ENG/MASTER switch
+
+WHERE/WHEN IS THE NACELLE TEMPERATURE INDICATION DISPLAYED(ME Repair, E&A Repair)
+Permanently on the ENGINE page
+Permanently on the CRUISE page
+@@Displayed on the ENGINE page only when above 320 deg.C
+
+HOW MANY THRUST LEVER ANGLE RESOLVERS ARE THERE PER ENGINE?(ME Repair, E&A Repair)
+@@2
+1
+4
+
+WITH FLYING IN N1 REVISIONARY MODE ON ENGINE #1, AUTOTHRUST IS AVAILABLE(ME Repair, E&A Repair)
+True
+@@False
+Still available on engine #2.
+
+HOW IS THE N1 ROTATIONAL SPEED SENSOR REPLACED?(ME Repair, E&A Repair)
+Access via the fan case
+@@Can only be replaced in the engine shop
+Access via the accessory drive gearbox
+
+WHAT INDICATION IS PROVIDED IN THE COCKPIT IF THE HCU MANUAL LOCKING PIN IS INSTALLED?(ME Repair, E&A Repair)
+REVERSER ISOLATION shown on upper ECAM
+REVERSER ISOLATION shown on ENGINE page
+@@No indication in the cockpit
+
+HOW MANY OIL PRESSURE PUMPS ARE INSTALLED ON THE ENGINE?(ME Repair)
+@@1 pressure pump
+2, 1 low pressure 1 high pressure
+2 pressure pumps in parallel
+
+WHAT IS THE LOCATION OF THE ENGINE MASTER CHIP DETECTOR?(ME Repair, E&A Repair)
+On the oil tank
+On the gearbox
+@@On the scavenge oil filter assembly
+
+THE ENGINE START VALVE IS…(ME Repair, E&A Repair)
+Electrically controlled by torque motor and pneumatically operated
+@@Electrically controlled by a solenoid and pneumatically operated
+Electrically controlled and operated
+
+THE START VALVE IS TESTED… (ME Repair, E&A Repair)
+@@Through CFDS via FADEC menus
+By the lever installed on the valve
+Can only be tested by starting the engine
+
+THE V2500 EEC IS NORMALLY POWERED… (ME Repair, E&A Repair)
+@@By its dedicated alternator
+By normal aircraft electrical systems
+Directly from its own IDG
+
+WHICH OF THE FOLLOWING WOULD NOT CAUSE THE FADEC SYSTEM TO ABORT AN AUTOMATIC START? (ME Repair, E&A Repair)
+High EGT
+@@Low oil pressure
+No EGT rise
+
+THE V2527-A5 ENGINE IS A: (ME Repair, E&A Repair)
+@@High bypass ratio turbofan engine
+Ultra bypass ratio turbofan engine
+Low bypass ratio turbofan engine
+
+V2500 ENGINE, THE EGT MAXIMUM LIMIT WHEN ENGINE STARTING IS:(ME Repair, E&A Repair)
+610 deg. C
+@@635 deg. C
+650 deg. C
+
+STAGE NUMBER OF LOW PRESSURE COMPRESSOR (BOOSTER) OF V2527-A5 ENGINE: (ME Repair, E&A Repair)
+1.5; 2.3; 2.5; 2.7
+1.5; 2.0; 2.5; 2.7
+@@1.5; 2.0; 2.3; 2.5
+
+AERODYNAMIC STATION 4.5, STATION LOCATION: (ME Repair, E&A Repair)
+@@H.P Turbine Exit
+L.P Turbine Exit
+Fan Exit
+
+ENGINE MAIN BEARINGS, THERE ARE 05 BEARINGS ARE LOCATED IN ………. BEARING COMPARTMENTS. (ME Repair)
+2
+@@3
+4
+
+WHICH DRAIN HOLE IS PROVIDED TO INDICATE A POSSIBLE LEAKAGE AT THE No.4 BEARINGCOMPARTMENT? (ME Repair)
+The drain hole is on engine drains mast
+@@Located in the exhaust at 5 o’clock (Aft looking forward)
+Pylon drain system
+
+THRUST REVERSER HALF LATCHES: HOW TO ACCESS FRONT LATCH (V GROOVE LATCH)?(ME Repair, E&A Repair)
+Through a panel under the C-duct halves
+@@Through the left fan cowl
+Through a panel under the fan cowl
+
+ON EACH C-DUCT A SINGLE ACTING HYDRAULIC ACTUATOR IS PROVIDED FOR OPENING. THE HYDRAULIC FLUID USED FORTHIS ACTUATOR OPERATION IS (ME Repair, E&A Repair)
+Fluid 7870
+Skydrol LD4
+@@Engine lubricating oil
+
+ENGINE OIL SYSTEM, NUMBER 4 BEARING SCAVENGE VALVE OPERATES BY (ME Repair)
+@@Compressor 10th stage pressure
+Muscle fuel pressure
+Oil pressure
+
+THE HIGHEST LEVEL WARNING OF LOW OIL PRESSURE THAT CAN BE TRIGGERT IN THE COCKPIT IS…(ME Repair, E&A Repair)
+Advisory
+Amber warning
+@@Red warning
+
+TRYING TO INSTALL MAGNETIC CHIP DETECTOR (M.C.D.) WHEN THE SEAL RINGS ARE NOT INSTALLED, IS IT POSSIBLE? (ME Repair)
+Yes, it is possible by hand
+@@No, it isn’t possible
+Yes, it is possible by a special tool
+
+CLOSURE OF THE HP FUEL PRSOV IS CONTROLLED DIRECTLY FROM (ME Repair, E&A Repair)
+@@Engine MASTER control switch in OFF position
+The engine FIRE PUSH switch released out
+
+Both (A) and (B)
+
+COOLING AND VENTILATION OF ENGINE, AIR FOR THE ZONE 2 VENTILATION CAN TAKE FROM WHERE?(ME Repair)
+Ram air enters through an inlet located on the upper LH side of the air intake cowl
+@@Pressurized fan air
+Compressor 10th stage
+
+WHICH ENGINE MOUNTIS DESIGNATED TO TRANSMIT THE TORSIONAL LOAD(ME Repair, E&A Repair)
+Forward engine mount
+@@Rear engine mount
+Both (a) and (b)
+
+HOW ARE THE FAN BADES CONSTRUCTED? (ME Repair)
+They are hollow
+They are solid
+@@They are hollow, except at their root (Dovetail)
+
+ABOVE 50% N2, THE FUEL CUT OFF (ENGINE SHUT DOWN) COMMAND COMES FROM(ME Repair, E&A Repair)
+@@The flight crew or engineer
+Controlled by EEC
+Both (A) and (B)
+
+IF AN OUTPUT FAUL IN ONE EEC CHANNEL IN CONTROL,...\nIF AN INPUT FAULT IN ONE EEC CHANNEL IN CONTROL,…\n(ME Repair, E&A Repair)
+Cause switchover to control from the other channel\nThat control channel uses input signal from the other channel
+@@That control channel uses output signal from the other channel via crosstalk\nThat control channel uses input signal from the other channel
+Cause switchover to control from the other channel\nCause switchover to control from the other channel
+
+IF HANDLING BLEED VALVES (7tha, 7thb, 7thc, 10thstage) STICK IN THE CLOSED POSITION, CAN IT BE DETECTED BY FADEC?(ME Repair)
+@@No, it is Not detected by FADEC
+Yes, FADEC can detect directly by its sensor
+Yes, FADEC can detect via Engine Interface Unit (EIU)
+
+STARTING ENGINE, WHEN IS THE FUEL AND IGNITION ARE SELECTED ON (ME Repair, E&A Repair)
+At 43% N2
+At 23% N2
+@@N2 is rotated for 30 seconds
+
+DURING ENGINE REPLACEMENT CAN THE ENGINE MOUNT BOLTS BE REUSED? (ME Repair)
+Yes the bolts can be reused
+No the bolts must be rejected
+@@Yes the bolts can be reused after pass the fluorescent penetrant inspection
+
+HOW MANY BOLTS CONNECT FWD ENGINE MOUNT TO THE PYLON (ME Repair)
+4
+@@5
+6
+
+WHERE IS THE MOMENT WEIGHTS MARKED ON THE FAN BLADE (ME Repair)
+Leading edge (LDE)
+Trailing edge (TLE)
+@@Dovetail at the root.
+
+WHAT TYPE OF LUBRICATION IS USED ON THE FAN BLADE(ME Repair)
+Dry lubrication
+Wet lubrication
+@@Both of (a) and (b)
+
+IS IT POSSIBLE TO REMOVE FDRV FROM THE ENGINE WHEN FCOC INSTALLED (ME Repair)
+Yes, these two units are separately
+@@No, have to remove FCOC from the engine with the FDRV attached to the FCOC
+Yes but required a special tool
+
+WHAT DOES THE EEC CONTROL DURING AUTOMATIC START (ME Repair, E&A Repair)
+Start valve, igniters and fuel flow
+@@Start valve, igniters and HP fuel valve and fuel flow
+Start valve, igniters, LP and HP fuel valve
+
+IF ONE DAMAGED FAN BLADE HAS TO BE REPLACED (ME Repair)
+Replace by any fan blade out of MWD limit and do trim balance
+Replace by the fan blade with (MWD) moment weight different in limit and do not
+Trim balance
+@@Both a and b
+
+HOW TO REMOVE THE LP AND HP PUMP (ME Repair)
+LP and HP pump are removed individually
+@@LP and HP pump are removed together
+Remove the LP pump first then HP pump
+
+HOW MANY MANIFOLDS REMAIN FULL FUEL AFTER ENGINE SHUT DOWN (ME Repair)
+0
+@@2
+5
+
+WHICH PARAMETER OF ENGINE USE IN THE PRIMARY MODE (ME Repair, E&A Repair)
+N1
+N2
+@@EPR
+
+HOW DOES THE EEC DETECT ENGINE SURGE (ME Repair)
+Rapid decrease in burner pressure
+The value of rate of change of burner pressure
+@@Both (a) and (b)
+
+WHEN AN ENGINE SURGE IS DETECTED, THE EEC CONTROLS (ME Repair)
+7th bleed valves opened and 10th bleed vale closed
+7th bleed valves closed and 10th bleed vale opend
+@@7th bleed valves opened and 10th bleed vale opened
+
+HOW TO SET FLEXIBLE TAKE-OFF (ME Repair, E&A Repair)
+@@Set assumed temperature is higher than actual ambient temperature
+Set assumed temperature is lower than actual ambient temperature
+Set assumed temperature is equal actual ambient temperature
+
+HOW TO REPLACE N1 SENSOR (ME Repair, E&A Repair)
+N1 is replaced on wing
+@@N1 is replaced off wing
+Both a and b
+
+IF ONE OF THE FAN SPEED PROBES N1 BECOMES UNSERVICEABLE (ME Repair, E&A Repair)
+AC AOG
+AC can dispatch by MEL
+@@AC can dispatch by TSM
+
+HOW CAN AN INOPERATIVE 10th STAGE BLEED VALVE BE DETECTED? (ME Repair)
+By ECAM warning
+By failure message on CFDF
+@@By bleed test set
+
+IF THERE IS A HYDRAULIC LEAK AT THRUST REVERSER DEPLOYMENT ACTUATOR (ME Repair, E&A Repair)
+AC can dispatch deactivate thrust reverser actuator by MEL
+@@AC cannot dispatch
+AC can dispatch by deactivate HCM
+
+THE ENGINE FORWARD MOUNT IS THE: (ME Repair, E&A Repair)
+Anti-torque mount
+@@Thrust mount
+Thermal expansion mount
+
+EACH THRUST REVERSER “C” DUCT  IS OPENED BY: (ME Repair, E&A Repair)
+One electric actuator
+One pneumatic actuator
+@@One hydraulic actuator
+
+V2500 ENGINE’S DRAIN SYSTEM IS LOCATED: (ME Repair, E&A Repair)
+@@At the bottom of engine
+At the rear part of pylon
+Both A and B
+
+THE N2 HANDCRANKING DRIVE PAD IS LOCATED: (ME Repair, E&A Repair)
+@@On the FWD face of the main gearbox
+On the starter
+On the AFT face of the main gearbox
+
+THE AERODYNAMIC STATION # 3 IS LOCATED AT THE: (ME Repair, E&A Repair)
+LP compressor exit
+@@HP compressor exit
+HP turbine inlet
+
+PLACING THE MASTER SWITCH TO ON POSITION WILL CAUSE (ME Repair, E&A Repair)
+LP fuel valve open and PRSOV inside FMU open
+LP fuel valve open and HP fuel valve open
+@@LP fuel valve open and de-energized PRSOV solenoid
+
+THRUST CONTROL DURING THRUST REVERSER OPERATION IS: (ME Repair, E&A Repair)
+As function of EPR
+@@As function of N1
+As function of N2
+
+THE EEC INPUT/OUTPUT SIGNALS TYPES ARE: (ME Repair, E&A Repair)
+Discrete and digital
+Analog and digital
+@@Discrete, analog and digital
+
+WHEN THE THROTTLE LEVER IS BETWEEN TWO DETENTS, THE THRUST RATING LIMIT CORRESPONDS TO: (ME Repair, E&A Repair)
+@@Upper detent position
+Lower detent position
+Actual throttle lever position
+
+FLUIDS DRAINED FROM THE POWER PLANT ARE? (ME Repair, E&A Repair)
+Fuel, oil or hydraulic
+Fuel, oil or water
+@@Fuel, oil, hydraulic or water
+
+THE MAIN GEARBOX IS DRIVEN BY: (ME Repair, E&A Repair)
+N1 rotor
+N2 rotor
+@@N2 rotor via the angle gearbox
+
+THE FUNCTION OF THE DEACTIVATION LEVER LOCATED ON THE HCU IS TO (ME Repair, E&A Repair)
+De-energized the isolation valve solenoid
+@@Isolate hydraulic supply
+Energized the isolation valve solenoid
+
+WHAT IS THE MEANING WHEN “REV” CHANGES FROM AMBER TO GREEN AFTER SELECTING REVERSER (ME Repair, E&A Repair)
+Reverse system receiving signal and starting the sequence
+Reverse sequence completed and reversers stow completely
+@@The translating sleeves are fully deployed
+
+HOW DOES THE STARTER OPERATE? (ME Repair, E&A Repair)
+Hydraulically
+Electrically
+@@Pneumatically
+
+THE IGNITION SYSTEM USES: (ME Repair, E&A Repair)
+28 VAC from aircraft
+@@115 VAC from aircraft
+115 VAC from dedicated alternator
+
+WHICH STATEMENT IS CORRECT? (ME Repair, E&A Repair)
+The starter accelerates N1 spool through the gearbox
+@@The starter accelerates N2 spool through the gearbox
+The starter accelerates N1 and N2 spool through the gearbox
+
+WHAT CONTROLS THE ENGINE IN ALL OPERATING REGIMES? (ME Repair, E&A Repair)
+@@FADEC
+EVMU
+EIU
+
+ENGINE PRESURE RATIO (EPR) IS (ME Repair, E&A Repair)
+@@Ratio between total pressure at the LP turbine exhaust and engine inlet
+Ratio between total pressure at the HP turbine exhaust and engine inlet
+Ratio between total pressure at the HP turbine exhaust and LP turbine exhaust
+
+THE IDLE CAN BE MODULATED TO APPROACH IDLE DEPENDING ON: (ME Repair, E&A Repair)
+Air conditioning demand
+Wing anti-ice demand or engine anti-ice demand
+@@Both (A)&(B)
+
+IS THERE ANY MECHANICAL LINKAGE BETWEENTHE THRUST LEVERS AND THE ENGINES (ME Repair, E&A Repair)
+No, it is electrically powered and hydraulically actuated.
+Yes, via a cable for backup
+@@No, it is totally electrical
+
+DURING ENGINE MANUAL START, RELEASING THE MAN START PUSH BUTTON AFTER SET MASTER LEVER TO ON MAY CAUSE (ME Repair, E&A Repair)
+Start sequence abort because start valve close.
+@@No effect to start sequence.
+No effect to start sequence if N2>50%.
+
+SET THE MASTER LEVER TO ON WILL CAUSE (ME Repair, E&A Repair)
+PRSOV solenoid powered open
+PRSOV solenoid depowered close
+@@PRSOV solenoid depowered and opens if fuel pressure available.
+
+EGT INDICATED IN UPPER ECAM IS ACHIEVED FROM (ME Repair, E&A Repair)
+Four thermocouple probe assemblies located at station 4.95 LP turbine and sent to ECAM via junction box
+@@Four thermocouple probe assemblies located at station 4.95 LP turbine and sent to EEC via junction box
+Four thermocouple probe assemblies located at station 4.95 LP turbine and sent to EIU via junction box
+
+THE ENGINE OVERSPEED PROTECTION IS ACHIEVED (ME Repair)
+@@By a logic circuit in EEC to active a torque motor which drives a separate over speed valve in the FMU
+By a logic circuit in EEC to active a torque motor which drives a metering valve in the FMU
+By a logic circuit in EEC to active a torque motor which drives a PRSOV in the FMU
+
+V2500-A5 ENGINE LP ROTOR IS SUPPORTED BY (ME Repair, E&A Repair)
+03 bearings which No. 1, No.5 thrust ball bearing and No.2 roller bearing
+@@03 bearings which No.1 thrust ball bearing and No.2, No.5 roller bearing
+03 bearings which No.1 ball bearing and No.2, No.5 thrust ball bearing
+
+V2500-A5 ENGINE HP ROTOR IS SUPPORTED BY (ME Repair, E&A Repair)
+02 thrust ball bearing No.3, No.4
+02 roller bearing No.3, No.4
+@@No.3 thrust ball bearing and No.4 roller bearing
+
+THRUST REVERSER SHUTOFF VALVE IS CONTROLLED BY (ME Repair, E&A Repair)
+By EEC
+@@By secs through static and power relay
+By the throttle lever through mechanical linkage
+
+THE CHANGEOVER OF TWO ACCELEROMETERS OF EVMU IS BY (ME Repair, E&A Repair)
+EEC on each engine start or manually via MCDU on ground
+EIU on each engine start or manually via MCDU on ground
+@@EVMU on each engine start or manually via MCDU on ground
+
+INCASE FAILURE OF P2 OR P4.9 SENSOR (ME Repair, E&A Repair)
+Engine N1 mode push button must be pressed in to revert the EEC to N1 reversionary mode
+@@EEC automatically reverts to N1 reversionary mode, the pressed in to send signal to EEC to confirm
+Engine N1 mode push button must be pressed in to revert EEC to N1 reversionary mode
+
+EXTERNAL SERVO ACTUATORS (VSBV, ACOC,…) RECEIVE FUEL HYDRAULIC PRESSURE FROM (ME Repair, E&A Repair)
+@@Fuel Metering Unit
+The High Pressure pump outlet
+The Low Pressure pump outlet
+
+WHICH CONTROL SIGNAL DOES THE  EEC RECEIVE DIRECTLY FROM THE COCKPIT? (ME Repair, E&A Repair)
+@@Throttle lever angle and master switch reset signal
+Master switch reset signal and mode selector
+Throttle lever angle and mode selector

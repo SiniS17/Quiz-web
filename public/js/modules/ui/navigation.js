@@ -1,4 +1,5 @@
-// modules/ui/navigation.js - Quiz List and Folder Navigation with Line Count Checker
+// modules/ui/navigation.js - Quiz List and Folder Navigation with Min/Max Line Validation
+import CONFIG, { getQuizFilePath } from '../../config.js';
 import { fetchQuizList } from '../api.js';
 import { showNotification } from './notifications.js';
 import { showLoading, hideLoading, disableAllControlsDuringLoad, enableAllControlsAfterLoad } from './loading.js';
@@ -10,44 +11,82 @@ import { loadQuiz } from '../quiz-loader.js';
 let currentFolderPath = '';
 
 /**
- * Check if a quiz file has more than 5 consecutive non-empty lines
+ * Check if a quiz file has valid consecutive line count
+ * Returns object with validation results
  * @param {string} filePath - Path to quiz file
- * @returns {Promise<boolean>} True if more than 5 consecutive lines
+ * @returns {Promise<{valid: boolean, min: number, max: number, reason: string}>}
  */
-async function hasMoreThanFiveConsecutiveLines(filePath) {
+async function validateConsecutiveLines(filePath) {
   try {
-    const response = await fetch('./list quizzes/' + filePath);
+    const response = await fetch(getQuizFilePath(filePath));
     if (!response.ok) {
-      return false;
+      return { valid: true, min: 0, max: 0, reason: 'Could not read file' };
     }
+
     const text = await response.text();
     const lines = text.split('\n');
 
     let consecutiveCount = 0;
     let maxConsecutive = 0;
+    let minConsecutive = Infinity;
+    let groupCount = 0;
 
     for (const line of lines) {
       if (line.trim() !== '') {
         consecutiveCount++;
         maxConsecutive = Math.max(maxConsecutive, consecutiveCount);
       } else {
+        if (consecutiveCount > 0) {
+          minConsecutive = Math.min(minConsecutive, consecutiveCount);
+          groupCount++;
+        }
         consecutiveCount = 0;
       }
     }
 
-    return maxConsecutive > 5;
+    // Handle last group if file doesn't end with empty line
+    if (consecutiveCount > 0) {
+      minConsecutive = Math.min(minConsecutive, consecutiveCount);
+      groupCount++;
+    }
+
+    // If no groups found, set minConsecutive to 0
+    if (groupCount === 0 || minConsecutive === Infinity) {
+      minConsecutive = 0;
+    }
+
+    // Check against configured thresholds
+    const { MAX_CONSECUTIVE_LINES, MIN_CONSECUTIVE_LINES } = CONFIG;
+
+    let valid = true;
+    let reason = '';
+
+    if (maxConsecutive > MAX_CONSECUTIVE_LINES) {
+      valid = false;
+      reason = `Too many consecutive lines (${maxConsecutive} > ${MAX_CONSECUTIVE_LINES})`;
+    } else if (minConsecutive < MIN_CONSECUTIVE_LINES && minConsecutive > 0) {
+      valid = false;
+      reason = `Too few consecutive lines (${minConsecutive} < ${MIN_CONSECUTIVE_LINES})`;
+    }
+
+    return {
+      valid,
+      min: minConsecutive,
+      max: maxConsecutive,
+      reason
+    };
   } catch (error) {
-    console.error('Error checking line count:', error);
-    return false;
+    console.error('Error validating line count:', error);
+    return { valid: true, min: 0, max: 0, reason: 'Validation error' };
   }
 }
 
 /**
- * Check if a folder contains any quizzes with more than 5 consecutive lines
+ * Check if a folder contains any invalid quizzes
  * @param {string} folderPath - Path to folder
  * @returns {Promise<boolean>} True if folder contains flagged quizzes
  */
-async function folderHasFlaggedQuizzes(folderPath) {
+async function folderHasInvalidQuizzes(folderPath) {
   try {
     const data = await fetchQuizList(folderPath);
 
@@ -55,12 +94,12 @@ async function folderHasFlaggedQuizzes(folderPath) {
     const fileChecks = await Promise.all(
       data.files.map(file => {
         const filePath = folderPath ? `${folderPath}/${file}` : file;
-        return hasMoreThanFiveConsecutiveLines(filePath);
+        return validateConsecutiveLines(filePath);
       })
     );
 
-    // If any file is flagged, return true
-    if (fileChecks.some(flagged => flagged)) {
+    // If any file is invalid, return true
+    if (fileChecks.some(result => !result.valid)) {
       return true;
     }
 
@@ -68,11 +107,11 @@ async function folderHasFlaggedQuizzes(folderPath) {
     const folderChecks = await Promise.all(
       data.folders.map(folder => {
         const fullPath = folderPath ? `${folderPath}/${folder}` : folder;
-        return folderHasFlaggedQuizzes(fullPath);
+        return folderHasInvalidQuizzes(fullPath);
       })
     );
 
-    return folderChecks.some(flagged => flagged);
+    return folderChecks.some(hasInvalid => hasInvalid);
   } catch (error) {
     console.error('Error checking folder:', error);
     return false;
@@ -204,33 +243,33 @@ async function renderQuizList(data, quizGrid, folder) {
   data.folders.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
   data.files.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
 
-  // Check folders and files in parallel
+  // Validate folders and files in parallel
   const folderChecks = await Promise.all(
     data.folders.map(async (folderName) => {
       const fullPath = folder ? `${folder}/${folderName}` : folderName;
-      const hasFlagged = await folderHasFlaggedQuizzes(fullPath);
-      return { folderName, hasFlagged };
+      const hasInvalid = await folderHasInvalidQuizzes(fullPath);
+      return { folderName, hasInvalid };
     })
   );
 
   const fileChecks = await Promise.all(
     data.files.map(async (file) => {
       const filePath = folder ? `${folder}/${file}` : file;
-      const hasExcessLines = await hasMoreThanFiveConsecutiveLines(filePath);
-      return { file, hasExcessLines };
+      const validation = await validateConsecutiveLines(filePath);
+      return { file, validation };
     })
   );
 
   // Render folders
-  folderChecks.forEach(({ folderName, hasFlagged }) => {
-    const folderBox = createFolderBox(folderName, folder, hasFlagged);
+  folderChecks.forEach(({ folderName, hasInvalid }) => {
+    const folderBox = createFolderBox(folderName, folder, hasInvalid);
     quizGrid.appendChild(folderBox);
     addFadeInAnimation(folderBox);
   });
 
   // Render files
-  fileChecks.forEach(({ file, hasExcessLines }) => {
-    const quizBox = createQuizBox(file, folder, hasExcessLines);
+  fileChecks.forEach(({ file, validation }) => {
+    const quizBox = createQuizBox(file, folder, validation);
     quizGrid.appendChild(quizBox);
     addFadeInAnimation(quizBox);
   });
@@ -254,13 +293,13 @@ function handleQuizListError(error, quizGrid) {
  * Create folder box element
  * @param {string} folderName - Folder name
  * @param {string} currentFolder - Current folder path
- * @param {boolean} hasFlagged - Whether folder contains flagged quizzes
+ * @param {boolean} hasInvalid - Whether folder contains invalid quizzes
  */
-function createFolderBox(folderName, currentFolder, hasFlagged = false) {
+function createFolderBox(folderName, currentFolder, hasInvalid = false) {
   const folderBox = document.createElement('div');
-  folderBox.className = 'quiz-box folder-select' + (hasFlagged ? ' quiz-flagged' : '');
+  folderBox.className = 'quiz-box folder-select' + (hasInvalid ? ' quiz-flagged' : '');
 
-  const warningIcon = hasFlagged ? '<i class="fas fa-exclamation-triangle excess-warning"></i>' : '';
+  const warningIcon = hasInvalid ? '<i class="fas fa-exclamation-triangle excess-warning"></i>' : '';
 
   folderBox.innerHTML = `
     <i class="fas fa-folder"></i>
@@ -271,7 +310,7 @@ function createFolderBox(folderName, currentFolder, hasFlagged = false) {
 
   folderBox.onclick = () => {
     const fullPath = currentFolder ? `${currentFolder}/${folderName}` : folderName;
-    showLoading('Opening Folder', `Loading quizzes from ${folderName}...`);
+    showLoading(CONFIG.LOADING_MESSAGES.FOLDER_OPEN, `Loading quizzes from ${folderName}...`);
     setTimeout(() => {
       listQuizzes(fullPath);
     }, 100);
@@ -281,16 +320,24 @@ function createFolderBox(folderName, currentFolder, hasFlagged = false) {
 }
 
 /**
- * Create quiz box element with line count indicator
+ * Create quiz box element with validation indicator
  * @param {string} file - File name
  * @param {string} folder - Current folder
- * @param {boolean} hasExcessLines - Whether quiz has more than 5 consecutive lines
+ * @param {object} validation - Validation result object
  */
-function createQuizBox(file, folder, hasExcessLines = false) {
+function createQuizBox(file, folder, validation) {
   const quizBox = document.createElement('div');
-  quizBox.className = 'quiz-box' + (hasExcessLines ? ' quiz-flagged' : '');
+  const isInvalid = !validation.valid;
 
-  const warningIcon = hasExcessLines ? '<i class="fas fa-exclamation-triangle excess-warning"></i>' : '';
+  quizBox.className = 'quiz-box' + (isInvalid ? ' quiz-flagged' : '');
+
+  let warningIcon = '';
+  let warningTitle = '';
+
+  if (isInvalid) {
+    warningTitle = validation.reason;
+    warningIcon = `<i class="fas fa-exclamation-triangle excess-warning" title="${warningTitle}"></i>`;
+  }
 
   quizBox.innerHTML = `
     <i class="fas fa-file-text"></i>
@@ -298,6 +345,10 @@ function createQuizBox(file, folder, hasExcessLines = false) {
     <p>Click to start quiz</p>
     ${warningIcon}
   `;
+
+  if (isInvalid) {
+    quizBox.title = warningTitle;
+  }
 
   quizBox.onclick = () => {
     const filePath = folder ? `${folder}/${file}` : file;

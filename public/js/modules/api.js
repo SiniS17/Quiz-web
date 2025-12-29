@@ -1,4 +1,5 @@
 // modules/api.js - API and Data Fetching Operations
+import CONFIG, { getQuizFilePath } from '../config.js';
 
 /**
  * Fetch list of available quizzes and folders
@@ -6,7 +7,7 @@
  * @returns {Promise<{folders: string[], files: string[]}>}
  */
 export async function fetchQuizList(folder = '') {
-  const url = '/api/list-quizzes' + (folder ? `?folder=${encodeURIComponent(folder)}` : '');
+  const url = CONFIG.API_LIST_QUIZZES + (folder ? `?folder=${encodeURIComponent(folder)}` : '');
 
   const response = await fetch(url);
   if (!response.ok) {
@@ -18,11 +19,11 @@ export async function fetchQuizList(folder = '') {
 
 /**
  * Fetch quiz content from file
- * @param {string} fileName - Name of the quiz file
+ * @param {string} fileName - Name of the quiz file (can include folder path)
  * @returns {Promise<string>} Quiz content as text
  */
 export async function fetchQuizContent(fileName) {
-  const response = await fetch('./list quizzes/' + fileName);
+  const response = await fetch(getQuizFilePath(fileName));
 
   if (!response.ok) {
     throw new Error(`HTTP error! status: ${response.status}`);

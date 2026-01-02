@@ -1,0 +1,359 @@
+Function of the fan air valve (FAV) is to: (Level 2)
+@@Regulate the fan air flow into the precooler for bleed air temperature regulation .
+Regulate the fan air pressure to the precooler for bleed air temperature regulation.
+Regulates the hot air into the engine fan discharge airflow.
+
+In case of BMC 1 failure: (Level 2)
+BMC 2 ensures the complete leak detection.
+The leak detection on left wing is completely lost.
+@@APU bleed duct leak detection is lost
+
+Which transducer give pressure indication on ECAM? (Level 1)
+@@Regulated pressure transducer (Pr).
+Transferred pressure transducer (Pt).
+Both answer are correct
+
+How is the crossbleed valve controlled and operated? (Level 1)
+Electrically controlled and pneumatically operated
+Pneumatically controlled and operated
+@@Electrically controlled and operate
+
+Can you control the high pressure valve (HPV) from the cockpit: (Level 1)
+Yes, directly
+@@No
+Yes, through BMCs
+
+If one HP valve failed open? (Level 3)
+@@The aircraft can be dispatched with the subject HPV deactivated close.
+The aircraft can be dispatched with the subject HPV deactivated open.
+@@The aircraft can only be dispatched if related bleed system is considered INOP.
+
+The E/W message: LH WING DET FAULT means? (Level 2)
+@@LH wing loop A and B fault
+Either LH wing loop A or B fault.
+Either both loops A or both loops B fault.
+
+What is the design principle of the bleed leak detection loop? (Level 2)
+@@Resistance.
+Pressure.
+Capacitor.
+
+Where the air is taken from during engine high power setting? (Level 1)
+@@IP stage.
+HP stage.
+IP and HP at the same time.
+
+With the crossbleed selector at “AUTO” and air supplied by engine 1 only, the crossbleed valve: (Level 3)
+Is automatically controlled to open
+@@Does not receive any order
+Is controlled to close
+
+The intermediate pressure (IP) stage is normally used to supply the air at:(Level 2)
+Low engine speed.
+@@High engine speed.
+All engine speed.
+
+What is the purpose of the control thermostat(CTL THERMST): (Level 2)
+@@to control the FAV
+to control HPV
+to control PRV
+
+How the cross bleed valve is controlled and operated: (Level 2)
+electrically controlled and pneumatically operated
+electrically controlled and hydraulically operated
+@@electrically controlled and electrically operated
+
+What is the normal position of the HPV at the engine high power setting: (Level 2)
+fully open
+@@fully closed
+modulating
+
+02 main engines are running and supplying bleed air, the selector of the cross bleed valve at AUTO. What happens if APU is available, the APU bleed pushbutton is ON: (Level 3)
+APU bleed valve is not open because engines have priority to supply the bleed air
+APU bleed valve is open, APU and engines are supplying the pneumatic system with air at the same time
+@@PRVs are closed and APU supplies the pneumatic system with air if APU bleed valve opens
+
+What happens if BMC#1 fails: (Level 3)
+nothing happens, BMC#2 takes over
+@@engine#1 bleed leak warning and APU bleed leak warning are lost
+engine#1 bleed leak warning, left hand wing leak warning and APU bleed leak warning are lost
+
+What is the purpose of the control solenoid(CTL SOL): (Level 2)
+to control the FAV
+to control HPV
+@@to control PRV
+
+What component regulates the pressure of the bleed air before entering the pneumatic system: (Level 3)
+@@PRV
+fan air valve
+IP check valve
+
+The APU bleed leak detection system is? (Level 3)
+@@A single loop that connects to BMC 1.
+A single loop that connects to both BMC and BMC 2.
+The double loops that connect to BMC 1 and BMC 2 respectively.
+
+What is the purpose of IP/HP switching? (Level 2)
+To regulate the output pressure depending on the Fan Air Valve position.
+@@To keep sufficient bleed pressure at low engine speed.
+To regulate the output temperature depending on the configuration of users
+
+The high pressure bleed valve will : (Level 1)
+@@Closed when the bleed pressure regulator valve is controlled closed
+Open when the bleed pressure regulator valve is controlled open
+Spring-loaded open when in the absence of upstream pressure
+
+The HPV is operated by: (Level 1)
+A torque motor
+An electrical actuator
+@@A pneumatic actuator
+
+The Overpressure valve: (Level 1)
+@@Pneumatically closes in case of overpressure.
+Regulates high pressure.
+Is spring-loaded closed
+
+The overpressure valve : (Level 1)
+is a solenoid valve and cannot be controlled from the cockpit
+is electrically operated and can be controlled from the cockpit
+@@is pneumatically operated and cannot be controlled from the cockpit
+
+The PRV closed automatically in the case: (Level 3)
+over temperature upstream of the pre-cooler exchanger 257±3(ºC)
+overpressure upstream of the PRV 57±3(psig)
+@@over temperature downstream of the pre-cooler exchanger 257±3(ºC)
+
+The FAV is controlled by : (Level 1)
+the control thermostat solenoid
+the BMCs
+@@None of above
+
+The cross bleed valve : (Level 3)
+electrically controlled and operated by 02 electrical motors: 01 in active mode and the other one in stand-in-by mode
+@@electrically controlled and operated by 02 electrical motors: 01 in the automatic mode and the other one in the manual mode
+electrically controlled and pneumatically operated by 02 electrical motors: 01 in the automatic mode and the other one in the manual mode
+
+The FAV is : (Level 3)
+controlled and monitored by the BMC
+controlled by the BMC and pneumatically operated
+@@controlled by the control thermostat and pneumatically operated
+
+The control solenoid of PRV is automatically energized by BMC in the following case(Level 3)
+Engine bleed P/B is selected “OFF”.
+Outlet temperature sensor senses a temperature above 5270C.
+@@The pressure regulated transducer senses a pressure greater than 57 psi
+
+The APIC APU bleed valve operates: (Level 1)
+Pneumatically.
+@@Fuel operated.
+Electrically.
+
+Choose the correct answer: (Level 3)
+@@The APU bleed valve has priority over the engine bleed valves.
+The Engines bleed valves have priority over the APU bleed valves.
+There is no priority
+
+The HP valve is used to connect: (Level 3)
+@@The HP stage to the engine bleed air system.
+The IP stage to the engine bleed air system.
+The booster stage to the engine bleed air system
+
+To give pressure and temperature information on ECAM, the BMCs(Level 3)
+Get inputs from outlet temperature sensor, bleed regulated pressure transducer and press transferred pressure transducer.
+@@Get inputs from outlet temperature sensor and bleed regulated pressure transducer.
+Get inputs from outlet temperature sensor and press transferred pressure transducer.
+
+To start engine 2 by HP ground system: (Level 3)
+X bleed valve selected at AUTO position.
+@@X bleed valve selected at OPEN position.
+X bleed valve selected at SHUT position.
+
+In automatic mode, the cross bleed valve: (Level 3)
+@@Opens when the system is using APU bleed air and closes if the system detects an air leak of APU duct (except during engine start)
+Normally opens when the system is using APU bleed air and closes if the system detects an air leak (except in flight)
+Normally opens when the system is using APU bleed air and closes automatically if the system detects an air leak (except on ground)
+
+If the pylon loop is inoperative: (Level 3)
+The overheat detection in the corresponding pylon is not affected
+@@The overheat detection in the corresponding pylon is lost
+The overheat detection in the corresponding pylon is transferred to the opposite BMC
+
+Air leakage detection is based on: (Level 3)
+Double looped sensing units in pylon, APU and wing ducts
+@@Single loop for pylon and APU and double loops for wings
+Single looped sensing units in pylon, APU and wing ducts
+
+In case of overpressure (the PRV does not operate correctly), the engine bleed system protection is ensured by: (Level 3)
+@@Pneumatically controlled Overpressure Valve
+Pneumatically operated, electrically controlled Overpressure Valve
+Pneumatically controlled Fan Air Valve
+
+If BMC#2 fails: (Level 3)
+The dedicated wing and pylon leak detection is lost
+@@The corresponding pylon leak detection is lost only
+The dedicated pylon and APU leak detection is lost
+
+In normal condition, if both engine and APU bleed sources are selected ON, what will supply to the packs? (Level 3)
+@@APU bleed only
+Engine bleed 1 for Pack1 and Engine bleed 2 for Pack 2
+APU for Pack 1, Engine bleed 2 for Pack 2
+
+The main functions of the Pressure Regulating Valve (PRV) are to: (Level 2)
+Regulate a temperature and isolate the system.
+Prevent over-pressure and isolate the system.
+@@Regulate a pressure and isolate the system.
+
+The PRECOOLER is a heat exchanger: (Level 2)
+Located upstream of the Pressure Regulating Valve (PRV).
+@@Located downstream from the PRV.
+Located upstream of the Fan Air Valve (FAV).
+
+The purpose of the Fan Air Valve is to: (Level 1)
+Regulate fan air pressure.
+@@Regulate fan air flow to the Pre-cooler.
+Regulate fan air temperature.
+
+Which one below is true regarding the engine bleed system? (Level 3)
+IP valve is modulating valve type.
+HP valve is check valve type.
+@@PRV is pneumatically operated.
+
+Which leak detection logic below is true? (Level 3)
+@@For wing leak detection : If one loop is inoperative , the remaining loop takes over.
+For pylon leak detection : If one loop is inoperative , the remaining loop takes over.
+For APU bleed duct leak detection : If one loop is inoperative , the remaining loop takes over.
+
+In case of failure of BMC#2: (Level 3)
+APU bleed duct leak detection is lost.
+RH wing leak detection is lost.
+@@Pylon (eng#2) leak detection is lost
+
+When all APU and ENGINEs bleed airs are available: (Level 2)
+@@APU bleed having priority over engine bleed air.
+APU bleed will supply bleed air only if the X BLEED selector is selected OPEN
+Engine bleed have priority over APU bleed air.
+
+At normal configuration, which valve ensures ENGINE BLEED system pressure regulation? (Level 2)
+@@Pressure Regulating Valve (PRV)
+HP Bleed Valve (HPV)
+IP check Valve
+
+The purpose of the High Pressure Valve (HPV) is to supply the system with: (Level 1)
+@@HP stage air at low engine speed.
+HP stage air at high engine speed.
+IP stage air at low engine speed.
+
+What is the correct configuration of the wing bleed leak detection? (Level 2)
+@@Loops A connect to BMC 1 and loops B connect to BMC 2
+LH wing loops connect to BMC 1 and RH wing loops connect to BMC 2
+Both loops A and B connect to BMC1 and BMC 2 in parallel
+
+Certain areas have double loop leak detection: (Level 1)
+Left and right pylons and wings.
+@@Left and right wings and both A/C pack supply ducts.
+All the areas have double loop detection.
+
+The APU bleed valve is? (Level 1)
+A modulating valve.
+@@An ON/OFF valve
+Modulating and shut off valve
+
+The CROSSBLEED valve is: (Level 2)
+Electrically controlled and pneumatically operated.
+Pneumatically controlled and operated.
+@@Electrically controlled and operate.
+
+THE BLEED AIR SYSTEM CAN BE SUPPLIED BY: (Level 2)
+Three different sources: the 2 engines, APU.
+@@Four different sources: the 2 engines, APU, the HP ground cart.
+Two different sources: the engines.
+
+THE ENGINE BLEED AIR SYSTEM IS SUPPLIED BY:(Level 2)
+@@The Intermediate Pressure (IP) stage or  the High Pressure (HP) stage.
+The Intermediate Pressure (IP) stage.
+The High Pressure (HP) stage.
+
+THE IP AIR IS CONTROLLED BY A : (Level 1)
+Regulating valve.
+@@Check valve.
+On/Off valve.
+
+When the PRV is closed: (Level 2)
+The HPV regulates air bleed pressure.
+@@The HPV is forced closed via the PRV/HPV sense line.
+The HPV is fully opened.
+
+The overpressure valve is: (Level 2)
+@@Pneumatically operated and spring loaded open.
+Pneumatically operated and spring loaded closed.
+Electrically operated and spring loaded open.
+
+With the X-BLEED selector at AUTO and air supplied by the APU, the X-BLEED valve: (Level 2)
+Does not receive any order.
+@@Is automatically controlled to open.
+Is controlled to close.
+
+A leak occurs during an engine start: (Level 2)
+@@APU valve and X Bleed valve remain opened.
+APU valve remain open, X bleed valve close.
+APU valve and X Bleed valve close
+
+For PW 1130 Engine, HPV is: (Level 2)
+@@Electric control and Bleed Pressure open
+Bleed Pressure control and open
+Electric control and open
+
+For PW 1130 Engine, when one BMC has failed(Level 2)
+@@Remain BMC can control & monitor both side
+Related PRV close
+Related PRV open
+
+When the moisture separator is purged in a pneumatic system, it dumps. (Level 1)
+@@just the moisture trap.
+the whole system.
+the system between compressor and regulator valve.
+
+The pneumatic system pump is a. (Level 1)
+centrifugal type.
+rotor vane type.
+@@piston type.
+
+In a pneumatic system, the maintainer valve will be fitted in supply lines to. (Level 1)
+essential equipment.
+all equipment.
+@@non-essential equipment.
+
+High pressure pneumatic source is a. (Level 1)
+@@reciprocating pump.
+centrifugal Compressor.
+butterfly pump.
+
+High pressure pneumatic pump is a. (Level 1)
+@@reciprocating pump.
+spur gear.
+butterfly pump.
+
+If the pneumatic water drain trap is left open for a long time it will drain. (Level 1)
+@@between the compressor and the PRV.
+just the moisture trap.
+all the system.
+
+On a high pressure pneumatic system, if the drain plug for oil and water is left open for long periods of time, the system would. (Level 1)
+@@lose pressure from the compressor side only.
+lose pneumatic pressure partially.
+lose all pressure.
+
+Two compressors driven by separate engines use. (Level 1)
+Interconnected to share loads.
+@@NRVs to prevent compressors driving each other.
+PRVs.
+
+What is important about the air entering a dry air pump?. (Level 1)
+@@It must be filtered.
+It must be pressure controlled.
+It must be temperature controlled.
+
+What type of compressor is used on a pneumatic system?. (Level 1)
+Rotary vane type.
+Spur gear type.
+@@Positive displacement type.

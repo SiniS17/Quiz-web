@@ -1,0 +1,539 @@
+The APU magnetic chip detector is located: (Level 1)
+On the generator oil scavange line
+On the oil supply line
+@@On the gearbox
+
+What component in the oil system is controlled by ECB? (Level 1)
+High oil temperature sensor
+Low oil pressure sensor
+@@De-oiling solenoid valve
+
+After replacing ECB: (Level 2)
+The APU hours and cycles must be updated through MCDU
+@@The DMM automatically reinitializes the new ECB with the old accumulated APU data
+The DMU automatically reinitializes the new ECB with the old accumulated APU data
+
+When does the APU air intake ‘Flap Open’ message disappear on lower ECAM during shutdown? (Level 3)
+As soon as MASTER SW in `OFF` position
+@@As soon as N<7%
+As soon as APU bleed SW in ‘ OFF’ position
+
+APU air intake duct supplies the air for: (Level 1)
+the APU engine operation only.
+the APU load compressor operation only.
+@@the APU engine operation and the APU load compressor operation.
+
+Inlet guide vanes(IGVs) control: (Level 1)
+@@the amount of air supplied to the load compressor.
+the amount of air supplied to the APU engine.
+the amount of air supplied to the load compressor and the amount of air supplied to the APU engine.
+
+How many ways the APU can be manually shut down: (Level 1)
+1
+2
+@@3
+
+You shut down the APU from outside the airplane: (Level 2)
+the APU cools down for a period of time before shutting down.
+@@APU shuts down immediately.
+no way to shut down APU from outside.
+
+Operating limits that can trigger an automatic shutdown are: (Level 1)
+excessive EGT.
+low oil pressure or high oil temperature.
+@@Both answers are correct.
+
+APU fuel pump: (Level 2)
+@@runs only if no tank boost pump feeds the APU feed line.
+run continuously when the APU is operating.
+the APU has no own fuel pump.
+
+The IGV actuator uses: (Level 3)
+@@high pressure fuel to operate the inlet guide vanes.
+high pressure air to operate the inlet guide vanes.
+high pressure hydraulic fluid to operate the inlet guide vanes.
+
+There is a switch labeled FUEL VENT PUSH is installed on the APU compartment forward firewall: (Level 3)
+to allow maintenance to start the APU.
+@@to allow maintenance to operate the APU fuel pump and purge the fuel line from the APU compartment.
+to allow maintenance staff to shut down the APU in case of emergency.
+
+The APU oil cooler is: (Level 3)
+a fuel/oil heat exchanger.
+@@an air/oil heat exchanger.
+an air/air heat exchanger.
+
+The APU is ready to supply load, when RPM (round per minute) is at: (Level 3)
+10%.
+50%.
+@@95%.
+
+Which component controls and monitors the APU operation: (Level 3)
+@@the ECB
+the ECU
+the EEC
+
+the APIC APU bleed control valve is: (Level 2)
+electrically controlled and pneumatically operated.
+@@electrically controlled and hydraulically operated.
+pneumatically controlled and pneumatically operated.
+
+With the APU bleed valve open, releasing the master switch will cause the APU to shut down: (Level 3)
+Immediately
+@@Only after the cool down period has elapsed
+Only if the START pushbutton is released
+
+The high oil temperature or low oil pressure detected during APU operation, the ECB will cause the APU to shut down: (Level 3)
+Only if the MASTER switch is released
+@@Immediately
+Only after the cool down period has elapsed
+
+What kind of design is the turbine for APU? (HONEYWELL 131-9) (Level )
+Two stage centrifugal turbine design.
+@@Single stage centrifugal turbine design.
+@@Two stage axial turbine design
+
+Which component regulates the airflow to the pneumatic system? (Level 2)
+The bleed load valve.
+@@The Inlet Guide Vanes.
+IGV actuator
+
+Which of the following components are operated by high pressure fuel from the FCU (GTCP 36-300)? (Level 3)
+Inlet guide vane actuator and Surge control Valve
+Inlet guide vane actuator and Load bleed valve
+@@Inlet guide vane actuator
+
+What are the three APU modules? (Level 2)
+Compressor, Combustion chambers, Turbine.
+Power section, Load Compressor, Turbine.
+@@Power section, Load Compressor, Gearbox.
+
+How the APU Generator is lubricated? (Level 2)
+Using the dedicated oil system.
+@@Using the common oil system with the APU.
+By design APU Generator is self lubricated.
+
+When the APU Master switch is set to ON, the APU (Low pressure) fuel pump will run: (Level 3)
+Continuously
+Only when the START pushbutton is pressed
+@@Only if a low fuel pressure is detected
+
+Which statement below is correct? (Level 3)
+@@The ECB and DMM should not be replaced at the same time.
+DMMs should be swapped between APUs and aircraft for trouble shooting.
+The DMM should not be replaced alone because it is dedicated to the certain APU.
+
+What is the purpose of the Oil Temperature Sensor? (Level 3)
+For indication on ECAM
+@@Used for high oil temperature protection and de-oiling during cold weather starts.
+To protect APU against high oil temperature conditions.
+
+What is only component in the oil system controlled by ECB? (Level 1)
+Low oil level sensor
+Low oil pressure sensor
+@@De-oiling solenoid valve
+
+Which component(s) is (are) actuated by the servo fuel? (Level 2)
+APU bleed control valve actuator and IGV actuator
+@@APU surge control valve and IGV actuator
+APU bleed control valve actuator and APU surge control valveactuator
+
+Press and hold the APU fuel line vent pushbutton: (Level 2)
+APU pump runs and fuel LP valve opens
+APU pump runs and fuel LP valve opens if master switch is “ON”
+@@APU pump runs and fuel LP valve opens if the external power is connected to the aircraft
+
+The primary function of the load compressor is: (Level 1)
+To provide bleed air for the combustion
+To provide air for oil and compartment cooling
+@@To provide bleed air for the A/C pneumatic system
+
+It is possible to do an EMERGENCY shutdown of the APU from: (Level 2)
+@@The external power control panel on the lower fuselage (108VU).
+The APU start control panel (25VU).
+The refuel/defuel control panel (90VU).
+
+The surge control valve: (Level 2)
+@@Electrically controlled,  pneumatically operated
+Electrically controlled,  electrically operated
+Electrically controlled,  hydraulically operated
+
+Which statement is correct regarding the ignition system in APU APIS 3200 ? (Level 2)
+Dual system with 2 igniter plugs
+Single alternating system with 2 igniter plugs
+@@Single system with 2 igniter plugs
+
+The starter motor assists the APU up to which speed? (Level 2)
+@@55%
+7%
+95%
+
+What is the purpose of the APU: (Level 1)
+@@to supply the aircraft the pneumatic and electrical power.
+to supply the aircraft the pneumatic and hydraulic power.
+to supply the aircraft the electrical and hydraulic power.
+
+APU air inlet supplies the air for: (Level 1)
+the APU engine operation only.
+the APU load compressor operation only.
+@@the APU engine operation and the APU load compressor operation.
+
+Which computer controls and monitors the APU operation: (Level 2)
+ECU.
+@@ECB.
+EEC
+
+What is the purpose of the FUEL VENT PUSH pushbutton installed on the APU compartment forward firewall: (Level 2)
+to allow maintenance to operate the APU fuel pump and purge the fuel line from the APUcompartment provided the APU Master Switch is ON.
+@@to allow maintenance to operate the APU fuel pump and purge the fuel line from the APU compartment without the APU Master Switch ON.
+to allow maintenance to shut down the APU in case of emergency.
+
+A bleed control valve is installed to prevent the load compressor from the surge. On which engine the valve is installed (Level 3)
+APU Honeywell 131-9(A)
+APU Honeywell GTCP 36-300
+@@APU APIC APS 3200
+
+During starting, the ECB switches the ignition to ON between: (Level 3)
+Between 0% and 50%.
+Between 7% and 50%.
+@@Between 0% and 60%.
+
+The solenoid valve is open during start-up to 60% when: (Level 3)
+APU fuel temperature is below -1
+A/C altitude is above 20,000 ft.
+@@A or B.
+
+ECB starts an automatic APU shutdown without time delay when: (Level 3)
+Gearbox high oil temp threshold: 1678
+Oil LP: 33 psi.
+@@A or B
+
+WHEN APU PROTECTIVE SHUTDOWN, ECB STRAR APU SHUTDOWN: (Level 2)
+Only if the MASTER switch is released
+@@Immediately
+Only after the cool down period has elapsed
+
+Which components have a visual position indicator? (Level 2)
+Bleed load valve and IGV actuator.
+IGV actuator.
+@@Load control valve and surge control valve
+
+Above 20,000 ft, the APU can supply: (Level 2)
+Pneumatic power
+@@Electrical power
+Bleed air and electrical power
+
+The APU shutdown report can be found after: (Level 2)
+An abnormal shutdown
+A normal shutdown
+@@Both of the above
+
+After replacement of the ECB: (Level 2)
+@@Do the update of APU hours/cycles in the MCDU as applicable AMM
+ECB automatically synchronizes hours/cycles with DMU upon self-test
+Both of the above
+
+To purge the APU fuel line using push button switch VENT: (Level 3)
+You must energize ECB
+@@No need for ECB power up
+APU fuel pump is manually turned on
+
+The APU start sequence is initiated by the: (Level 3)
+APU MASTER Switch
+@@APU START P/B
+APU BAT P/B
+
+Which APU components are operated with high pressure fuel from the fuel control unit? (Level 3)
+@@The Inlet Guide Vane Actuator and the Surge Control Valve
+The Load Bleed Valve and the Inlet Guide Vane Actuator
+The Deoil Solenoid Valve and the Surge Control Valve
+
+From where the APU emergency shut down can be initiated? (Level 3)
+Refuel/Defuel panel; External power panel and Cockpit.
+@@External power panel and Cockpit only.
+External power panel only, if the aircraft is on ground.
+
+What is(are) operating limit(s) that can trigger an automatic shutdown of the APU: (Level 3)
+@@excessive EGT.
+high oil pressure or low oil temperature.
+Both A and B
+
+What is the right statement: (Level 3)
+@@the APU pump runs only if no tank boost pump feeds the APU feed line.
+the APU pump runs continuously when the APU is operating.
+the APU has no own boost pump.
+
+Which servo pressure is used to operate the IGVs: (Level 2)
+@@high fuel pressure.
+high air pressure
+high oil pressure.
+
+What is the purpose of the switch labeled FUEL VENT PUSH on the APU compartment forward firewall: (Level 2)
+to allow maintenance staff to start the APU.
+@@to allow maintenance staff to operate the APU fuel pump and purge the fuel line from the APU compartment.
+to allow maintenance staff to shut down the APU in case of emergency.
+
+What is the un-latch sequence of fasteners for APU access doors? (Level 3)
+From forward to aft.
+@@From aft to forward.
+Depend on APU.
+
+Before starting APU, what is item that you must check outside APU? (Level 3)
+Electrical ground cart available.
+There is enough fuel.
+@@There is FOD near air intake.
+
+With APU access doors opened, can you do starting APU? (Level 3)
+No.
+Yes.
+@@Yes, if there is sufficient extinguishing.
+
+There is the APU protective shutdown. Do you have to monitor APU starting? (Level 1)
+No.
+@@Yes.
+Yes, depend on the kind of APU.
+
+The surge control valve of APU is: (Level 2)
+Electrically operated modulating valve
+Pneumatically operated modulating valve
+@@Hydraulically operated modulating valve
+
+When does the ECB cut off the supply to the starter? (Level 3)
+@@55%
+7%
+95%
+
+What does an amber ‘Fault’ light In the APU Master SW p/b indicate? (Level 3)
+@@An APU auto shutdown has occurred
+An APU bleed leak
+APU is running but can not supply electrical power
+
+Which statement is correct during APU APIS 3200 start sequence: (Level 3)
+1 ignitor plug operates at the time
+@@2 ignitor plugs operate alternatively
+2 ignitor plugs operate at the same time
+
+With APU bleed valve open,  releasing the master sw will cause the APU to shut down: (Level 3)
+Immediately
+Never,  the APU bleed control valve must be shut first
+@@Only after the cool down period has elapsed
+
+How is the IGV system controlled? (Level 1)
+By BMC1
+By BMC2
+@@By ECB
+
+In case of failure on ground, how can you open or close the air intake flap? (Level 2)
+The air intake flap actuator cannot be overridden.
+The air intake flap actuator can be hydraulically overridden.
+@@The air intake flap actuator can be overridden by a Manual Override Device.
+
+The APU oil cooler is used to remove heat from the oil system: (Level 1)
+@@When oil temperature is high enough
+When oil temperature is cold enough
+Always
+
+Generally,  during APU operation: (Level 1)
+@@The electric power supply has priority over the bleed air supply
+The bleed air supply has priority over the electric power supply
+There is no priority order
+
+In the APU fuel system the ECB controls: (Level 1)
+The fuel metering valve and the pressure regulator
+@@The fuel metering valve and 3 way solenoid valve
+The fuel metering valve,  the pressure regulator valve and 3 way solenoid valve
+
+When the apu master sw is set to on, the apu fuel pump will run : (Level 1)
+@@Only if low fuel pressure is detected
+Only if L/H wing pumps are not running
+As soon as when START pushbutton is pressed
+
+Generally , during apu operation : (Level 1)
+@@The electric power supply has priority over the bleed air supply
+The bleed air supply has priority over the electric power supply
+There is no priority order
+
+What is the main function of the ? (Level 1)
+To produce independent pneumatic and hydraulic power.
+@@To produce independent pneumatic and electrical power.
+To produce independent electrical and hydraulic power.
+
+The  is: (Level 1)
+@@Single shaft assembly
+Two shaft assembly
+Two shaft assembly interconnected through a gearbox
+
+The Electronic Control Box has : (Level 1)
+Restricted authority over  operation.
+Only  monitoring function.
+@@Full authority over  operation.
+
+How can you activate the APU fuel vent system? (Level 1)
+@@Push and hold the VENT P/B at the APU compartment.
+Select master switch ON.
+Push and hold the VENT P/B with the master switch selected ON.
+
+When the APU is started, the APU generator will be energized at: (Level 3)
+N = 75 %
+@@N = 95 % plus 2 seconds
+N = 50 %
+
+Normal  shutdown is performed from? (Level 2)
+@@control panel.
+Fire panel.
+External power control panel.
+
+Which component controls the ignition and starting operation? (Level 2)
+@@The Electronic Control Box.
+The Ignition Exciter Unit.
+The Start Contactor.
+
+When the LOW OIL LEVEL message comes on,with no oil leakage, sufficient oil is available to allow a further: (Level 3)
+8 hours of APU operation.
+@@10 hours of APU operation.
+12 hours of APU operation.
+
+WHEN DOES THE APU AIR INTAKE FLAP  OPEN ? (Level 2)
+@@As soon as MASTER SW  in `ON` position
+As soon as N>7%
+As soon as ignition is activated
+
+THE STARTER OF APU IS: (Level 2)
+Pneumatically operated
+@@Electrically operated
+Hydraulically operated
+
+What is a/an signal ECB supply to shutdown the APU on normal mode ? (Level 2)
+Overtemperature
+Clogged oil filter
+@@Overspeed
+
+The starter of APU is: (Level 2)
+@@Pneumatically operated
+@@Electrically operated
+Hydraulically operated
+
+1. APU emergency shut down can be initiated from:(Level 1)
+Refuel/Defuel panel; External power panel and Cockpit
+@@External power panel and Cockpit.
+External power panel only, if the aircraft is on ground
+
+2.Indication can be displayed on the APU page:(Level 2)
+FLAP OPEN.
+FUEL LO PR; LOW OIL LVL
+@@FLAP OPEN; FUEL LO PR; LOW OIL LVL.
+
+3. APU modules include:(Level 1)
+Compressor, Combustion chambers, Turbine
+Power section, Load Compressor, Turbine
+@@Power section, Load Compressor, Gearbox.
+
+4. APU OIL quantity can check on:(Level 1)
+@@APU page, on sight glass located on the gear box and interrogate the CFDS.
+APU page, on sight glass located on the gear box
+APU page, on sight glass located on the oil cooler and interrogate the CFDS
+
+6. During Main Engine Start: (Level 1)
+@@APU speed 101 %, IGV opened, SCV modulated and load valve opened.
+APU speed 99 %, SCV closed, load valve opened
+APU speed 101 %, IGV opened, SCV closed, load valve modulated
+
+8. Incase APU has an automatic shut down, information of the shut down in:(Level 2)
+PFR
+APU page
+@@Shut Down menu on CFDS.
+
+In cruise, the APU can supply:(Level 1)
+Pneumatic power
+@@Electrical power
+Bleed air and electrical power
+
+The APU start (to rotate) sequence is initiated by the:(Level 1)
+APU MASTER Switch
+@@APU START P/B
+APU BAT P/B
+
+Operating limits that can trigger an automatic shut down are:(Level 2)
+excessive EGT
+low oil pressure or high oil temperature
+@@low oil pressure, high oil temperature or excessive EGT
+
+How many mount GTCP36-300 attach to aircraft is:(Level 2)
+@@7 rods/3 mounts.
+6 rods/3 mounts.
+8 rod/4 mounts.
+
+APU air intake has:(Level 1)
+One air intake flap installed in the top left area of the tail cone.
+@@One air intake flap installed in the forward lower area of the tail cone.
+Two air intake flap installed in the top right area of the tail cone.
+
+IGV actuator , Bleed and surge control valve operate by:(Level 2)
+Air pressure.
+@@Fuel pressure
+Electrical.
+
+How many igniter plug intalled on APU(GTCP36)?(Level 1)
+@@1.
+2.
+3.
+
+How many fuel atomizer in combustion system(GTCP36)?(Level 1)
+5
+@@6
+7
+
+Turbine in power section (GTCP36) consist of:(Level 1)
+2 axial stages.
+@@Single stage radial inflow turbine .
+3 stages radial inflow turbine .
+
+Manual cranking plug installed on:(Level 1)
+Oil tank pad under of the gearbox.
+Air/oil seperator pad in right hand side of the gearbox.
+@@Starter in font of the gearbox
+
+After crank APU shaft for BSI, we need:(Level 1)
+Install plug and do leak check.
+@@Install/replace new performed packing.
+@@Install cranking plug, Install/replace new performed packing BSI Port and do leak check.
+
+The 131-9A APU is:(Level 1)
+@@Single shaft gas turbine engine.
+Twin shaft gas turbine engine.
+Three shaft gas turbine engine.
+
+The APU installed in:(Level 1)
+A fireproof compartment between FR80 and FR84 forward of aircraft
+A pressurized compartment between FR80 and FR84 rear of aircraft
+@@A fireproof compartment between FR80 and FR84 rear of aircraft
+
+Engine system includes:(Level 1)
+@@Power section, load compressor and accessory gear box.
+Power section, load compressor, load turbine  and accessory gear box.
+Power section, load compressor, conbustor, load turbine and accessory gear box.
+
+How many valve/main component  in APU 131-9 bleed system?(Level 1)
+1 (Bleed valve)
+2 (Bleed and surge control valve)
+@@3 (Bleed and surge control valve, IGV actuator )
+
+131-9 Load compressor include:(Level 3)
+Single-stage centrifugal compressor with a 7,5 : 1 pressure ratio.
+@@Single-stage centrifugal compressor with a 4 : 1 pressure ratio.
+Two stage cirtrifugal compressor.
+
+Combustion system (131-9) is:(Level 3)
+One-piece, axial-flow annular combustor.
+@@One-piece, reverse-flow annular combustor.
+Two-piece, reverse-flow annular combustor.
+
+Turbine in power section (131-9) consist of:(Level 1)
+@@2 axial stages.
+3 centifugal stages.
+3 axial stages.
+
+Purpose of Inlet guide Vane is:(Level 1)
+@@Control the compressor output to the aircraft pneumatic system.
+Modulate airflow coming from inlet plenum to Power section compressor.
+Modulate airflow coming from inlet plenum to Power section turbiner.

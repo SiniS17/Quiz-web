@@ -1,0 +1,539 @@
+During the test, the squib lights come on means (level 3)
+The lamp is tested
+The continuity of the squib circuit is correct
+The agent is simulated as discharged.
+
+The engine fire detectors are: (level 1)
+Fan fire detector and Core fire detector
+Fan fire detector, Nacelle fire detector, Core fire detector
+Fan fire detector, Pylon fire detector, Core fire detector
+
+Which statement is correct? (level 1)
+APU fire extinguishing is automatic in flight and manual on ground
+APU fire extinguishing is manual in flight and automatic on ground
+APU fire extinguishing is automatic in flight and on ground
+
+Which statement is correct? (level 1)
+Smoke detectors are installed in forward cargo, aft cargo, bulk cargo and cabin
+Smoke detectors are installed in forward cargo, aft cargo, bulk cargo and lavatories
+Smoke detectors are installed in forward cargo, aft cargo, and lavatories
+
+For agent discharge,  (level 1)
+SQUIB is electrically operated
+SQUIB is mechanically operated
+SQUIB is thermally operated
+
+Where are the FDU located?  (level 1)
+At the bottom of forward avionics rack
+At the bottom of aft avionics rack
+On the engine or APU
+
+Red guarded push button at the external power control panel is  (level 1)
+to cancel the external horn when APU fire
+to extinguish the APU fire
+to shutdown the APU
+
+For the avionics ventilation system, smoke detector is installed  (level 1)
+on the air inlet duct
+in the avionics compartment
+on the air extraction duct
+
+For enhance lavatory/cargo smoke detection system  (level 1)
+Lavatory smoke detector is connected to DEU B then to CIDS
+Lavatory smoke detectors and cargo smoke detectors are connected in the loop
+Cargo smoke detectors are connected to DEU B
+
+Where are portable fire extinguishers located? (level 1)
+in the lavatories.
+in the lavatories and in the cockpit
+in the cabin and in the cockpit.
+
+For engine fire, where are the fire detectors located?(level 1)
+On the fan and the turbine.
+On the pylon, the fan and the core.
+On the core and the gearbox
+
+For engine fire, what does the TEST pushbutton check?(level 1)
+Only the fire detection loops A and B, FDU, indications and warnings.
+Only the squib circuit continuity of AGENT 1 and 2.
+Both simultaneously.
+
+The APU fire protection is provided by two systems: (level 3)
+The fire detection system and the fire extinguishing system
+Smoke detection system and the fire extinguishing system
+Overheat detection system and the fire extinguishing system
+
+For engine fire, the AGENT pushbutton is active when: (level 3)
+The corresponding "DISCH" light illuminates.
+engine fire pushbutton illuminates.
+engine fire pushbutton is released out
+
+APU fire extinguisher bottle is installed  (level 1)
+outside of the APU compartment
+inside of the APU compartment
+on the pylon
+
+APU fire, the absence of the red disc indicates  (level 3)
+bottle overpressure discharge
+bottle manually discharge
+bottle pressure is OK
+
+Each loop of APU fire detection system comprises  (level 3)
+one fire detector
+two fire detector
+three fire detector
+
+APU fire bottle pressure is monitored by (level 1)
+a switch
+a pressure indicator
+the SQUIB light
+
+FDU can detect (level 1)
+Loop failure and smoke
+Fire
+Loop failure and Fire
+
+Can you use the LH engine fire extinguisher bottles for RH engine fire?  (level 3)
+Yes.
+Yes, only when two fire extinguisher bottles of RH engine have been discharged.
+No.
+
+The fire extinguishing agent pressure is monitored through: (level 2)
+A pressure switch.
+A red light in the cockpit.
+A red disk on the pylon.
+
+APU fire in flight is normally extinguished? (level 3)
+Manually from APU FIRE panel.
+Automatically when the fire is detected.
+Automatically when APU master switch set to OFF.
+
+Loop failure warning are sent to: (level 3)
+ECAM and CFDS
+CFDS only
+ECAM and fire panel
+
+Which warning lights are triggered in case of an avionic smoke detection? (level 3)
+GEN 1 LINE SMOKE light.
+BLOWER FAULT.
+GEN 1 LINE SMOKE and BLOWER and EXTRACT FAULT lights.
+
+When the ENG FIRE PB is released out? (level 3)
+Related SQUIP light come on and A/C systems are isolated
+Both Squib lights come on and A/C systems are isolated
+A/C system are isolated and Fire bottles discharge
+
+Is the engine extinguishing system controlled by the FDU:  (level 3)
+Yes, continuously
+Yes, whenever engine fire is detected
+No
+
+Which component process cargo smoke detectors signal (Enhanced A/C)? (level 3)
+CIDS directors
+Smoke Detection Function (SDF) integrated in CIDS directors.
+Smoke Detection Function (SDF) integrated in SDCUs.
+
+How do you make sure a Lavatory Fire- Extinguishing Bottle is serviceable?  (level 3)
+The gage needle is in the green cursor.
+Weigh the Fire-Extinguisher Bottle and Make sure that the weight of the fire-extinguisher bottle is the same as the weight shown on the identification label plus or minus 5 g (0.17 oz)
+Both answer are correct
+
+To remove the engine fire extinguishing bottle, you must: (level 3)
+Put a PLUG or CAP as a SHUNT device on the cartridge.
+Remove the bottle before cartridge.
+Put the safety pin on the discharge head to prevent bottle discharge
+
+The LAV waste bin extinguisher pressure can be checked?  (level 3)
+Through the Central Maintenance System (CMS).
+Through the Flight Attendant Panel (FAP).
+On the bottle pressure sight gage.
+
+DISCH light on the engine fire panel is activated by: (level 2)
+The pressure switch installed on the engine fire bottle.
+The pressure transmitter installed on the engine fire bottle.
+The Squib installed on the engine fire bottle.
+
+Thermal discharge of the APU bottle be detected:  (level 1)
+By the FDU.
+By the ECAM.
+By the red disc indicator.
+
+What happen when APU fire occurs on ground? (level 3)
+The APU is automatically shutdown and the fire extinguishing system automatically triggered
+The APU is manually shutdown and the fire extinguishing system automatically triggered
+The APU is automatically shutdown and the fire extinguishing system manually operated from cockpit
+
+In case of smoke detection, the smoke detector activates: (level 2)
+GEN 1 LINE SMOKE, BLOWER FAULT and EXTRACT FAULT lights on.
+GEN 1 LINE SMOKE light on
+BLOWER FAULT and EXTRACT FAULT lights on.
+
+The lavatory fire protection is provided by: (level 2)
+The lavatory automatic extinguishing
+The lavatory smoke detection system.
+The lavatory smoke detection system and the waste bin automatic extinguishing
+
+What should you do when a fire in the lavatory occurs? (level 3)
+Using the cabin portable fire extinguisher
+No actions taken, fire extinguishing is automatically activated.
+The waste bin automatic fire extinguishing system will be activated.
+
+Each engine fire loop comprises: (level 3)
+Fan fire detector, core fire detector and pylon fire detector
+Fan fire detector and pylon fire detector
+Core fire detector only
+
+The fire warning signals are sent to: (level 2)
+ECAM, Engine fire panel and start control panel
+Engine fire panel and ECAM
+ECAM and start control panel
+
+The Test PB on the engine fire panel checks the integrity of the: (level 3)
+Fire detection loops A & B, FDU, indications and warnings
+Squib circuit continuity
+Both answer are correct
+
+The DISCH light on engine fire panel comes on when: (level 3)
+The agent has been discharged
+Engine fire PB is released out
+Fire is on the engine
+
+Is the extinguishing system controlled by the FDU:  (level 2)
+Yes, continuously
+Yes, whenever engine fire is detected
+No
+
+When Engine Fire P/B released out:  (level 2)
+The squib circuit is armed, cancelled aural warning, and Fuel, Air, Hydraulic and Electric systems related to the Engine are isolated.
+Cut off power supplied to the EIU.
+Both answer are correct
+
+What if the APU fire bottle red disk found missing? (level 3)
+APU has a fire and the fire bottle has been emptied automatically.
+Fire bottle has been emptied manually.
+The bottle has been emptied as result of overpressure.
+
+Where are the ENG fire detectors located? (level 2)
+On the fan and the turbine.
+On the pylon, the fan and the core.
+On the core and the gearbox
+
+How many fire detectors does the APU fire detection system comprise? (level 1)
+Three.
+Two.
+One.
+
+Lavatory fire extinguishing is performed by: (level 3)
+Portable extinguisher.
+Fire bottle.
+Waste bin fire extinguisher.
+
+When is the DISCH light on the Engine Fire Panel illuminated?  (level 3)
+The pressure switch senses a signal the bottle is discharged or has a leakage then send this signal to the Engine FDU turn on the DISCH light.
+The pressure switch senses a signal the bottle is discharged or has a leakage then send this signal to the Engine Fire Panel for turn on the DISCH light.
+The pressure switch senses a signal the bottle is discharged or has a leakage then send this signal to the FWC turn on the DISCH light.
+
+When smoke detected in the avionic compartment:  (level 3)
+The smoke detector sends signal to AEVC, local warning, the FWCs for activation Master Warning and CRC (continuous repetitive chime).
+The smoke detector sends signal to AEVC, local warning, the FWCs for activation Master Caution and SC (singe chime).
+The smoke detector sends signal to AEVC, the FWCs for activation Master Warning and CRC.
+
+When does the ENG 1(2) FIRE P/b light goes off?  (level 3)
+When ENG 1(2) FIRE P/b release out.
+When Master Warning P/b push.
+When The Fire warning is not generated by the FDU 1(2)
+
+How do you perform the test after installation of the avionic smoke detector?  (level 3)
+Use MCDU/SYSTEM REPORT/TEST FIRE PROT menu page to test SDCU.
+Use MCDU/SYSTEM REPORT/TEST FIRE PROT menu page to test AVI SMOKE DET
+Use MCDU/SYSTEM REPORT/TEST AIR COND menu page to test AEVC.
+
+Fire P/B is not released out, you push the AGENT P/B? (level 3)
+Fire bottle will discharge
+SQUIB light illuminates and DISCH light comes on indicates that the bottle is empty
+Nothing happen
+
+When second fire bottle can be used? (level 3)
+15 seconds after first bottle discharged
+30 seconds after first bottle discharged
+30 seconds after first bottle discharged if the fire still presented
+
+When is the FDU generates a fire warning signal? (level 3)
+Fault on loop A and fault on loop B within 5 seconds
+Fault on loop A and fault on loop B within 15 seconds
+Fault on loop A and loop B is normal
+
+When APU fire extinguishing bottle indicator (Red Disk) is disappeared, that indicates the bottle? (level2)
+Overpressure discharged.
+Low pressure
+Pressure not stable
+
+When the Engine fire P/B is released out, which corresponding system are isolatated? (level 2)
+Fuel, Air, Hydraulic, Electric
+Fuel, Electric, hydraulic
+Fuel, Air, Hydraulic
+
+What statement is correct about engine fire detection loop switch? (level 3)
+Alarm switch normally in open position, integrity switch normally in closed position.
+The core material of loop is helium charged.
+All above.
+
+Avionic smoke detector is install in the: (level 2)
+Blower duct.
+Extraction duct.
+Extra duct.
+
+Lavatory fire protection system consist of: (level 3)
+Smoke detection and portable fire extinguishing bottle.
+Automatic waste bin fire extinguishing.
+All above.
+
+If the panel in the cargo compartment is damage: (level 3)
+Aircraft must be AOG (Aircraft On Ground).
+Aircraft can flight with cargo compartment empty.
+Aircraft can flight with cargo compartment with inflammable material.
+
+Release engine fire push button will: (level 2)
+Isolate engine from aircraft.
+Arm the fire bottle.
+All above.
+
+How to cancel repetitive chime during engine fire procedure? (level 3)
+Release engine fire push button.
+Press master warning push button.
+All above.
+
+How to confirm the depressurization of APU fire extinguishing bottle is? (level 3)
+By a red disk.
+By DISCH light.
+All above.
+
+What statement is correct about APU fire extinguishing system? (level 3)
+Automatic on ground and manual in flight.
+Manual on ground by maintenance staff and automatic in flight by pilot.
+All above.
+
+The engine fire warning signals are sent to: (level 3)
+ECAM, Engine fire panel and engine start control panel
+Engine fire panel and ECAM.
+ECAM and start control panel.
+
+What action arms the engine fire extinguishing squibs? (level 2)
+Press AGENT PB
+No action, the engine fire extinguishing squibs automatically arms
+Release ENG FIRE PB.
+
+Press the APU shut off push button at 108VU panel:  (level 3)
+Initiate the shut down the APU with cooling down sequence.
+Initiate the emergency shutdown of APU without cooling down sequence.
+Initiate the emergency shutdown of APU and discharge the APU fire bottle.
+
+The engine fire protection is fulfilled by: (level 3)
+The FIRE detection system only
+The FIRE detection system and the FIRE extinguishing system
+The FIRE extinguishing system only
+
+The engine and APU fire protection is provided by: (Level 2)
+The FIRE detection system,
+The FIRE extinguishing system,
+The FIRE detection system and the FIRE extinguishing system.
+
+For the engines, the loops A and loop B are in three different areas with related detector elements. These three areas are: (Level 2)
+The fan case, the core engine and the pylon area,
+The left core, the right core and the pylon area,
+The left fan case, the right fan case and the pylon area.
+
+The number of fire extinguishing bottle for engine are: (Level 1)
+Two,
+One for each engine,
+Two for each engine.
+
+The number of fire extinguishing bottle for APU (Auxiliary Power Unit) are: (Level 1)
+1,
+2,
+3.
+
+The APU fire extinguishing bottle is located in the: (Level 2)
+APU compartment,
+Aft fuselage forward of the APU firewall,
+Cargo compartment.
+
+The Engine and APU fire TEST buttons are used to test: (Level 2)
+The fire detection system,
+The extinguishing system,
+The respective fire detection and extinguishing system integrity.
+
+For the APU, each loop consists of: (Level 1)
+Single detector element,
+Two detector elements,
+Three detector elements.
+
+The FDU (Fire Detection Unit) send to the FWC (Flight Warning Computer) for display on the ECAM: (Level 2)
+FIRE signal,
+FAULT signal,
+FIRE and FAULT signals.
+
+The smoke detector of avionic compartment is monitored by: (Level 2)
+The AEVC (Avionic Equipment Ventilation Computer),
+The SDCU (Smoke Detection Control Unit),
+The CIDS-SDF (Cabin intercommunication Data System – Smoke Detection Function).
+
+The LAV fire bottle pressure may be checked? (Level 2)
+Through the Central Maintenance System (CMS),
+Through the Flight Attendant Panel (FAP),
+At the pressure gage on the bottle.
+
+If the lavatory detector fail, the aircraft: (Level 2)
+May be dispatched with the lavatory locked closed and waste bin empty,
+May not be dispatched,
+May be dispatched as normal.
+
+You must do APU auto extinguishing test with: (Level 1)
+APU running,
+APU shut down,
+APU shutdown but with the master switch selected ON.
+
+The power supply to the cartridge squibs of the engine fire extinguishing bottles are: (Level 3)
+The hot bus supplies 28V DC to squibs of the bottle 1; The DC Bus 2 supplies 28V DC to squibs of the bottle 2
+The hot bus supplies 28V DC to squibs of the bottle 1 and 2.
+The hot bus supplies 28V DC to squib A of bottle 1(2); The DC Bus 2 supplies 28V DC to squib B of bottle 1(2).
+
+The FDU generates an engine fire warning signal if: (Level 3)
+Fire on loop A and fire on loop B or Fire on loop A and fault on loop B or fault on loop A and fire on loop B,
+Fault on loop A and fault on loop B within 5 seconds,
+Any of above conditions are met.
+
+The FDU generates an inoperative signal if: (Level 3)
+An electrical failure or An Integrity failure,
+A detection of a single loop FIRE during more than 16 seconds while the other loop is in normal condition,
+Any of above conditions are met.
+
+When the ENG 1(2) FIRE DETECTION FAULT message trigger on EWD? (Level 3)
+When loop A fault,
+When loop B fault,
+When both loops fault.
+
+When the Engine fire P/BSW is released out. Which system will be isolation? (Level 2)
+Fuel and electrical power,
+Fuel, air, electrical power and hydraulic power,
+Fuel, air, oil, electrical power and hydraulic power.
+
+When Engine Fire P/B released out: (Level 2)
+The squib circuit is armed, cancelled aural warning, and Fuel, Air, Hydraulic and Electric systems related to the Engine are isolated.
+Cut off power supplied to the EIU.
+Both A and B.
+
+To remove the engine fire extinguishing bottle, you must: (Level 2)
+Put a PLUG or CAP as a SHUNT device on the cartridge.
+Remove the bottle before cartridge.
+Put the safety pin on the discharge head to prevent bottle discharge.
+
+Each engine fire extinguishing system comprises: (Level 2)
+One ENG FIRE P/BSW, one SQUIB/DISCH P/BSW and one TEST P/B located on the ENG and APU PIRE panel,
+One ENG FIRE P/BSW, two SQUIB/DISCH P/BSWs and one TEST P/B located on the ENG and APU PIRE panel,
+One ENG FIRE P/BSW, two SQUIB/DISCH P/BSWs and one TEST P/B located on the ENG and APU PIRE panel; and two fire extinguishing bottles located in the pylon.
+
+How can you do operational test of the engine fire protection system in flight? (Level 2)
+Press and hold TEST p/b on engine fire panel,
+Do the FDU1/2 BITE test on MCDU,
+Can not do this test in flight.
+
+What does the Engine fire TEST push button verify? (Level 2)
+Only the fire detection loop A and B, FDU, indication and warnings,
+Only the squib circuit of AGENT 1 and 2,
+Both simultaneously.
+
+When the Engine fire P/B is released out, which corresponding fire valve are closed (Level 2)
+Fuel cross feed valve,
+LP fuel and hydraulic fire shut off valve,
+HP fuel shut off valve.
+
+When the Engine fire P/B is released out: (Level 2)
+Pack valve & Bleed valve closed,
+Only engine bleed valve closed,
+None of them closed.
+
+When the Engine fire P/B is released out, what happens to the electrical generation? (Level 2)
+IDG de-energized,
+IDG disconnected,
+IDG energized.
+
+What happens if one APU fire loop sends fire signal more than 16 sec and the other loop is in normal condition? (Level 2)
+The message FIRE APU DET FAULT appears on ECAM,
+The message FIRE APU LOOP A or B FAULT
+The APU FDU actives fire warning.
+
+When the APU FIRE DETECTION FAULT message trigger on EWD? (Level 2)
+When loop A fault,
+When loop B fault,
+When both loops fault.
+
+When the APU FIRE pushbutton is released out which systems on APU are isolated: (Level 2)
+Fuel, air, electrical power,
+Fuel, air, electrical power and hydraulic power,
+Fuel, air, oil and electrical power.
+
+How is an APU fire on ground normally extinguished: (Level 1)
+From APU fire panel,
+Automatically,
+From external power panel.
+
+What additional external warnings are activated in case of APU fire on GROUND? (Level 2)
+APU fire light on the EXT PWR panel comes on & external horn warning.
+An external horn warning and APU fire light on APU FIRE pushbutton,
+An external horn warning and red disk indicator disappears.
+
+In case of APU fire auto extinguishing: (Level 2)
+The APU should be shutdown by use the APU SHUT OFF switch on the EXT PWR panel,
+The APU should be shutdown as normal,
+It is not necessary to use the APU SHUT OFF switch on the EXT PWR panel.
+
+When the avionic smoke is detected: (Level 2)
+The FAULT light on GEN 1 LINE P/B on the EMER ELEC PWR panel, FAULT lights on BLOWER and EXTRACT P/Bs on the VENTILATION panel come on,
+The SMOKE light on GEN 1 LINE P/B on the EMER ELEC PWR panel, FAULT lights on BLOWER and EXTRACT P/Bs on the VENTILATION panel are come on,
+The SMOKE lights on GEN 1 LINE P/B on the EMER ELEC PWR panel and on BLOWER and EXTRACT P/Bs on the VENTILATION panel come on.
+
+To prevent smoke from entering into the cockpit and cabin: (Level 2)
+The BLOWER and EXTRACT should be set to OVRD,
+The PACK 1 and PACK 2 should be set to OFF,
+The cabin fans have to be stopped by setting to OFF the CAB FANS P/BSW on the VENTILATION panel.
+
+When only cargo smoke detector A detects smoke and the SDCU (Smoke Detection Control Unit) check smoke detector B found normal operation: (Level 1)
+The SMOKE warnings are activated,
+The smoke detector A is declared faulty,
+The smoke detector B is declared faulty.
+
+For A321 aircraft. How many cargo smoke detectors? (Level 1)
+Ten: Four in the FWD compartment and six in the AFT/BULK compartment,
+Ten: Six in the FWD compartment and four in the AFT/BULK compartment,
+Six: Two in the FWD compartment and four in the AFT/BULK compartment.
+
+For classic aircraft. When a lavatory smoke detector failure is detected by the SDCU: (Level 3)
+The faulty detector is automatically isolated from the loop,
+The smoke detection of all lavatory will lost,
+The affected lavatory smoke warning will be trigger.
+
+For classic aircraft. When cargo smoke is detected the SDCU sends the SMOKE warning signal to the cockpit through: (Level 3)
+The DMC,
+The FWC,
+The CFDIU.
+
+A cargo smoke detection fault message is displayed on the ECAM: (Level 2)
+When all smoke detectors of cargo and lavatory are detected faulty,
+When the two smoke detectors of the same cavity are detected faulty,
+When one smoke detectors of forward cargo and one smoke detectors of aft cargo  are detected faulty,
+
+What happens if the SDCU is faulty? (Level 1)
+The LAV smoke detection is INOP.
+The Cargo smoke detection is INOP.
+Both LAV and Cargo smoke detection system are INOP.
+
+If smoke is detected in AFT cargo compartment, what happens? (Level 3)
+AFT cargo ventilation system automatically closed.
+Fire extinguishing bottle will be discharged automatically in to AFT cargo compartment.
+Both of the above.
+
+For Enhanced aircraft, the cargo smoke detectors are monitored by: (Level 2)
+The SDCU (Smoke Detection Control Unit),
+The SDU (Smoke Detection Unit),
+The CIDS-SDF (Cabin intercommunication Data System – Smoke Detection Function).

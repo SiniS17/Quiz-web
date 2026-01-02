@@ -1,0 +1,474 @@
+Engine oil system is ventilated at? (Level 1)
+RH fan cowl exhaust nozzle.
+LH fan cowl exhaust nozzle.
+@@Engine center body exhaust.
+
+The aerodynamic station #2.5 locates at: (Level 1)
+@@Outlet of LPC
+Outlet of HPC
+Outlet of LPT
+
+How is thrust reverser fully deployed indicated? (Level 1)
+REV in amber appears inside the N1 gauge.
+@@REV in green appears inside the N1 gauge.
+REV in green appears inside the N2 gauge.
+
+What is the protection for N2 overlimit? (Level 3)
+There is no protection, the Thrust lever must be moved aftward manually
+@@There is an electrical and a mechanical protection
+There is a mechanical protection to close more the Bypass valve
+
+Which condition required to open the HPSOV? (Level 3)
+Commanded fuel pressure from the FMV.
+SOV latching solenoid de-energized.
+@@Both the above conditions.
+
+When open, where does the VBV direct airflow? (Level 1)
+Into the A/C bleed system.
+All valves discharge overboard directly.
+@@To secondary(fan air) flow.
+
+The fuel used indication is reset to zero: (Level 1)
+Five minutes after engine shut down
+Through the MCDU
+@@At each engine start
+
+What is the indications in case of metallic parts in the common scavenge oil pipe? (Level 1)
+@@Only a popped clogging visual indication
+An ECAM warning
+A low oil pressure indication and warning
+
+In case of ECU channel input loss, what happens? (Level 1)
+Switch over to the other channel
+@@The channel in control uses values from the other channel
+The channel in control uses default values.
+
+Fluids drained from the power plant are? (Level 1)
+Fuel,  oil or hydraulic
+Fuel,  oil or water
+@@Fuel,  oil,  hydraulic or water
+
+How does the starter operate? (Level 1)
+Hydraulically
+Electrically
+@@Pneumatically
+
+What controls the engine in all operating regimes? (Level 1)
+@@FADEC
+EVMU
+EIU
+
+How many bearing compartments does the engine have? (Level 1)
+1
+@@2
+3
+
+During engine start in manual mode, ignition systems A and B are shown on ecam: (Level 2)
+It means that either system A or B has failed
+It means that both systems A and B failed
+@@This is normal. A and B are selected in manual start
+
+How many blades in one engine fan set; (Level 1)
+22
+24
+@@36
+
+How many stages does the HPC have: (Level 1)
+@@nine
+ten
+twelve
+
+How many stages does the HPT have: (Level 1)
+@@only one stage
+two stages
+four stages.
+
+Which computer controls the engine thrust: (Level 1)
+EEC
+@@ECU
+ECB
+
+An output fault in one channel of ECU causes: (Level 3)
+system to go to the designed failed safe position
+@@switch over to control from the other channel
+affected channel to generate an another output signal
+
+The operating servo pressure in the VSV system is: (Level 3)
+stage 10th air pressure.
+@@fuel servo pressure.
+aircraft hydraulic system pressure.
+
+The A320/321 engines throttle control levers can: (Level 1)
+@@only be moved manually
+automatically in autothrust mode
+be moved manually or automatically.
+
+What shaft does the air starter rotate? (Level 1)
+LP shaft
+@@HP shaft
+Intermediate shaft
+
+What happen in case the main filter on the lubrication line is clogged  (Level 3)
+The by-pass valve opens, half of the oil flow passes through the main filter, and the other part through the back up filter
+A red warning is triggered, oil temperature increases
+@@The engine page appears on ECAM oil passes through the by pass valve, back up filter and to the bearings
+
+Engine oil heat exchanger is on? (Level 1)
+The oil supply circuit.
+@@The oil scavenge circuit.
+The oil ventilation circuit
+
+Which important safety procedure should be performed before any maintenance work on or near the ‘C’ ducts or reverser system? (Level 3)
+Unlock and pin the actuators.
+Lock out the translating sleeves.
+@@Deactivate and pin the lever on the HCU.
+
+The engine parameters sent directly to the ECAM by the Electronic Control Unit (ECU), are: (Level 2)
+N1, N2, Fuel Used, EGT.
+N1, Fuel Flow, T2.
+@@N1, N2, EGT, Fuel Flow
+
+With engine running, continuous ignition can be selected via the ECU: (Level 2)
+automatically by the EIU.
+manually using the master switch.
+@@manually using the ENG/MODE/CRANK/NORM/IGN/START selector switch to IGN/START
+
+What is the purpose of compressor airflow control? (Level 2)
+@@To limit compressor surge and to provide good acceleration
+To control the bypass compressor airflow
+To control the bleed air used for pneumatic system
+
+The aerodynamic station #25 locates at: (Level 2)
+@@Outlet of LPC
+Outlet of HPC
+Outlet of LPT
+
+What is true regarding to the VBV? (Level 3)
+The VBV actuator is powered by servo fuel.
+The VBV actuator is pneumatically operated by P3.
+@@The VBV is actuated by gear motor.
+
+Fluids drained from the pylon are? (Level 1)
+Fuel,  oil or hydraulic
+Fuel,  oil or water
+@@Fuel,  hydraulic or water
+
+During engine start sequence, how does the starter operate? (Level 2)
+Until 43% N2.
+@@Until 50% N2.
+Until 55% N2
+
+What is the engine type currently installed on VNA A320s A/C? (Level 3)
+CFM 56-5B3 (33 000lbs)
+@@CFM 56-5B4 (27 000lbs)
+CFM 56-5B5 (22 000lbs)
+
+For CFM56-5B/P, the fan cowl is equipped with: (Level 1)
+@@Three (3) latches
+Four (4) latches
+Five (5) latches
+
+For CFM56-5B/P, the thrust reverser cowl is equipped with: (Level 2)
+Three (3) latches
+@@Four (4) latches
+Five (5) latches
+
+For CFM56-5B/P, how many fan blades are there? (Level 2)
+Thirty two (32)
+Thirty four (34)
+@@Thirty six (36)
+
+For CFM56-5B/P, the thrust reverser cowl doors are opened: (Level 2)
+Electrically by a motor or manually and secured by a hold open rod.
+Hydraulically or manually and secured by a hold open rod.
+@@Hydraulically and secured by a hold open rod.
+
+For CFM56-5B/P, to support the thrust reverser cowls: (Level 3)
+Two hold open rods are used for each thrust reverser cowl door.
+@@One hold open rod is used for each thrust reverser cowl door.
+One rod supports both thrust reverser cowl doors at the same time.
+
+The CFM56-5B/P LP rotor (N1) is made of (Level 2)
+The fan and the booster compressor driven by the five stage LP turbine.
+Four stage compressor driven by a two stage turbine.
+@@Fan and a four-stage compressor driven by a four stage turbine.
+
+The CFM56-5B/P HP (N2) rotor is made of (Level 2)
+@@9-stage compressor driven by a single stage turbine.
+10-stage HP compressor driven by a 2-stage HP turbine.
+12-stage compressor driven by a single stage turbine.
+
+For CFM56-5B/P, what bearings support the HP rotor? (Level 2)
+@@Nº3 (dual bearing) and Nº4.
+Nº2 and Nº4.
+Nº2 and Nº3 (dual bearing).
+
+The forward mount: (Level 2)
+Carries the engine torque, thrust and side loads.
+Carries the engine torque, vertical and side loads.
+@@Carries the engine thrust, vertical and side loads.
+
+The aft mount: (Level 2)
+Carries the engine torque, thrust and side loads.
+@@Carries the engine torque, vertical and side loads.
+Carries the engine thrust, vertical and side loads.
+
+The FADEC automatically selects a continuous relight: (Level 2)
+In case of Engine Interface Unit (EIU) failure only.
+@@If engine anti-icing is detected ON or EIU failure or engine flame-out.
+In case of Electronic Control Unit (ECU) failure only.
+
+What is the purpose of the ENGINE MASTER SWITCH? (Level 3)
+To open or close the HP fuel Shut-Off Valve.
+To command and reset the FADEC functions.
+@@Both to open or close the HP fuel Shut-Off Valve and to command and reset the FADEC functions.
+
+The ENGine MANual START push buttons to operate the corresponding start valves in (Level 2)
+@@the manual start mode or during an engine cranking.
+the manual start mode.
+during an engine cranking.
+
+During an engine manual start, "AB" ignition indication on the ECAM: (Level 2)
+Means that ignition systems A and B have failed.
+Means that system A has failed but system B is operational.
+@@Is the normal indication for an engine manual start.
+
+The purpose of the LP and HP turbine clearance control systems is to: (Level 2)
+Reduce wear of the turbine blades.
+Prevent excessive nacelle temperature.
+@@Optimize engine performance.
+
+The compressor airflow control of the CMF56-5B/P includes (Level 2)
+@@a Variable Bleed Valve (VBV) system and a Variable Stator Vane (VSV) system.
+a BSBV system, a VSV system and bleed valves at the 7th and 10th stages of the HPC.
+a booster stage bleed valve system and a Variable Stator Vane (VSV) system.
+
+Where is the servo fuel for the fuel operated actuators supplied from? (Level 2)
+HMU
+@@FMU
+HP pump
+
+How many igniter plugs and exciter boxes are fitted in the combustion system? (Level 2)
+2 igniter plugs, 1 exciter box
+@@2 igniter plugs, 2 exciter boxes
+1 igniter plugs, 1 exciter box
+
+Which area of the inlet cowl has ice protection? (Level 3)
+@@The inlet cowl lip or “D” section
+There is no ice protection thanks to aerodynamic design of the engine.
+The inner barrel of inlet cowl
+
+In case of P2/T2 probe heating failure during engine operation, the affected engine will operate in: (Level 3)
+@@N1 unrated mode
+N1 rated mode.
+Minimum idle mode.
+
+Has the pressure filter a bypass valve fitted in the oil system? (Level 2)
+Yes
+@@No
+It depends on V2500 models.
+
+What is the purpose of an auto re-stow system if available? (Level 3)
+@@To prevent uncommanded deploy operation
+To prevent uncommanded stow operation.
+To stow the thrust reverser when the thrust control lever at idle reverse position.
+
+Approximately at what speed does the starter air valve (SAV) close during a start sequence? (Level 1)
+30% N2
+@@43% N2
+50% N2
+
+What senses movement of the T/R translating sleeve? (Level 1)
+@@The LVDT’s on the upper actuators.
+The proximity switches on the locking actuators.
+The LVDT’s on the lower actuators.
+
+Prior to performing maintenance on the thrust reverser: (Level 1)
+The yellow hydraulic system must be depressurized.
+@@Deactivate the thrust reverser by placing the lever in the inhibition position on the Hydraulic Control Unit (HCU).
+Deactivate the thrust reverser by disconnecting the hydraulic supply lines.
+
+The ENG FADEC GND PWR is used to: (Level 3)
+Enable the pilots to start the engines automatically.
+@@Supply the computers dedicated to the engines when the engines are not running.
+Enable the pilots to start the engines manually.
+
+The aerodynamic station Nº3 is: (Level 1)
+The HP compressor inlet.
+@@The HP compressor discharge.
+The combustion chamber discharge.
+
+EGT is picked up at (Level 1)
+@@The HP turbine outlet
+The LP turbine outlet
+The combustion chamber discharge
+
+What are the primary parameters displayed on the EWD? (Level 1)
+@@N1, N2, EGT, FF
+N1, N2, EPR, EGT, FF
+N1, N2, EGT, N1 and N2 Vibration
+
+Which valve ensures the adequate fuel flow to the nozzles? (Level 1)
+@@The Fuel Metering Valve.
+The pressurizing and Shut-Off Valve.
+The Burner Staging Valve.
+
+What does the master chip detector do in case of metal particules detection? (Level 1)
+It sends a signal to the ECU
+It provides a warning to the ECAM system.
+@@It operates a visual indicator for ground inspection.
+
+What happens if one of the latches is not unlocked during the reverse operation? (Level 2)
+The three other doors are deployed.
+The other latches are hyd. relocked.
+@@Thrust reverser is unavailable.
+
+When the throttle lever is between two detent points what position correspond to the thrust limit? (Level 3)
+The upper detent point.
+The lower detent point.
+@@The actual throttle lever position
+
+THE THRUST OF CFM56-5B4 ON VNA’S A320 AIRCRAFT FLEET IS: (Level 3)
+26.000lbs
+@@27.000lbs
+28.000lbs
+
+Where is the access panel to starter valve? (Level 2)
+On the left fan cowl door.
+@@On right fan cowl door
+Both fan cowl doors need to be opened.
+
+The fan cowl is equipped with: (Level 2)
+@@Two (2) hold open rods
+Three (3) hold open rods
+Four (4) hold open rods
+
+What turbine engine section provides for proper mixing of the fuel and air? (Level 2)
+@@Combustion section.
+Compressor section.
+Diffuser section.
+
+What bearings support the LP rotor? (Level 2)
+N01, N02 and N03 (dual bearing).
+N03 (dual bearing) and N04.
+@@N01, N02 and N05
+
+The engine thrust indicated on ECAM via what parameter? (Level 2)
+@@N1 speed.
+N2 speed
+EGT
+
+The LPTACC system uses(Level 2)
+@@Fan discharge air for LPT case cooling
+Booster discharge air for LPT case cooling
+HPT discharge air for LPT case cooling
+
+The oil tank content can be checked by? (Level 2)
+@@Opening a dedicated servicing access panel in the LH fan cowl.
+Opening an access panel on the LH “C’ duct.
+Opening the RH fan cowl
+
+What does the pressure detector indicate to the ECU? (Level 2)
+@@The system is pressurizing.
+The actuators are depressurized
+The actuators latches are unlocked.
+
+Select the correct type of combustion chamber for CFM-56-5B4 engine? (Level 2)
+@@Annular combustor.
+Tubular combustor.
+Reverse flow combustor.
+
+How is the thrust reverser controlled? (Level 2)
+By the ECU only.
+@@By the ECU and the two conditions from Spoiler Elevator Computers and EIU inhibition relay
+Directly by the reverser lever.
+
+EACH  THRUST REVERSER “C” DUCT  IS OPENED BY : (Level 1)
+One electric actuator
+One pneumatic  actuator
+@@One hydraulic actuator
+
+THE DRAINS ARE LOCATED: (Level 1)
+At the bottom of engine
+At the rear part of pylon
+@@Both A and B
+
+WHEN THE THROTTLE LEVER IS BETWEEN TWO DETENTS , THE THRUST RATING LIMIT CORRESPONDS TO : (Level 2)
+Upper  detent position
+Lower  detent position
+@@Actual throttle lever position
+
+When deploy blocker door manually. What is correct? (Level 2)
+All of blocker doors at a time.
+Each blocker door deploy independently but must follow the sequence.
+@@Each blocker door deploy independently.
+
+Engine control unit is supplied by a dedicated generator on the engine: (Level 2)
+When the start sequence is completed
+@@When N2 is greater than 12 %
+If the aircraft is in flight
+
+The HPTCC system operation (Level 2)
+Uses 5th and 9th stage HPC bleed air
+@@Uses 4th and 9th stage bleed air
+Has 3 modes of control, mixed failsafe and off
+
+The handcranking pad is located: (Level 2)
+@@On the front face of  main gearbox ( Forward looking aft )
+On the starter
+On the rear face of  main gearbox ( Forward looking aft )
+
+Of which type is the ignition system? (Level 2)
+Low voltage, high energy.
+High voltage, low energy.
+@@High voltage, high energy.
+
+What is the function of the HCU de-activation lever? (Level 2)
+@@Mechanically prevents operation of the Pressurization Valve.
+Mechanically prevents movement of the Directional Control Valve.
+Inhibits operation of the hydraulic pressure switch.
+
+Is the L.P. compressor bleed valve (VBV)? (Level 2)
+@@Multi – ports.
+Annular.
+Two positions slider.
+
+Ignition systems are controlled by: (Level 2)
+Electronic Control Unit (ECU) in automatic start mode.
+Engine Interface Unit (EIU) in manual start mode.
+@@Electronic Control Unit (ECU) in automatic and manual start mode.
+
+Thrust rating of the engine CFM56-5B41 is: (Level 2)
+23000 LBS.
+27000 LBS.
+@@30000 LBS.
+
+To replace the engine you need to   (Level 3)
+Open the thrust reverser cowls at 35 degrees position.
+@@Open the thrust reverser cowls at 45 degrees position.
+Open the thrust reverser cowls at 55 degrees position.
+
+How many bolts connects FWD ENGINE MOUNT to the PYLON  (Level 3)
+@@4
+5
+6
+
+What happen in automatic start when N2 reached 43%?  (Level 3)
+MAN start P/B ON light goes off.
+@@SAV opens.
+SAV closes automatically.
+
+For CFM56, the fan cowl is equipped with: (ME Repair, E&A Repair) (Level 3)
+@@Three (3) latches
+Four (4) latches
+Five (5) latches
+
+For CFM56, the thrust reverser cowl is equipped with: (ME Repair, E&A Repair) (Level 3)
+Three (3) latches
+@@Four (4) latches
+Five (5) latches.
+
+Can be replacement engine with the air intake cowl installed?(ME Repair) (Level 3)
+@@Yes, Engine can be replacement with or without the air intake cowl installed.
+No, Engine cannot replacement with the air intake cowl installed.
+No, Engine only can be replacement without the air intake cowl installed.

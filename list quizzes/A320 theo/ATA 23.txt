@@ -1,0 +1,751 @@
+On RMP, the LCD active window displays the: (level 2)
+Standby frequency or the course in back-up navigation mode.
+@@Operational frequency.
+Operational frequency or the course in back-up navigation mode.
+
+What is function of Push To Talk (PTT) button (level 2)
+Connect audio signal to loudspeaker
+Connect audio signal to transceiver
+@@Connect audio signal to transceiver and switch reception to transmission
+
+The audio control panels (ACP) are used for the: (level 2)
+Control of the received audio signal levels.
+@@Selection of communication systems (in transmission and reception) and for the control of the received audio signal levels.
+Selection of communication systems (in transmission and reception)
+
+The flight interphone system allows communication between the: (level 2)
+Flight crew members
+Flight crew and the ground mechanic only.
+@@Flight crew members, and between the flight crew and the ground mechanic.
+
+How many transmission channel can be selected at a time: (level 2)
+Two
+Three
+@@Only one
+
+Three green bars illuminated on the ACP’S VHF 2 key means: (level 2)
+VHF 2 operation is correct
+A SELCAL is received on VHF 2
+@@VHF 2 is selected in transmission
+
+The radio management panels (RMPs) are used for the selection of (level 2)
+Radio communication.
+Navigation frequencies.
+@@Radio communication and navigation frequencies.
+
+From where you can select frequencies for radio systems? (level 2)
+Audio Control Panels (ACPs),
+@@Radio Management Panels (RMPs),
+Multipurpose Control and Display Units (MCDUs).
+
+How many transmission key can be selected at a time? (level 2)
+@@Only ONE,
+Several transmission keys,
+All transmission keys.
+
+How is the audio signal from acoustic equipment connected to AMU (level 2)
+@@Directly
+Over ACPs
+Audio signal from acoustic equipment is not connected to AMU
+
+The radio management panels (RMP) are used for the selection of: (level 2)
+Radio communication.
+@@Radio communication and navigation frequencies.
+Navigation frequencies.
+
+If the flight crew needs to maintain contact and communicate with the mechanic, the flight crew can push: (level 2)
+The GROUND pushbutton on the CALLS panel on the overhead,
+@@The MECH pushbutton on the CALLS panel on the overhead,
+The MECH transmission key and reception knob on Audio Control Panels (ACPs)
+
+The RAD position of the INT/RAD selector switch is: (level 2)
+Stable position,
+@@Unstable position,
+Neutral position.
+
+The INT/RAD selector switches to the INT position: (level 2)
+@@This position enables permanent use of the flight interphone without any further reaction and whatever radio key is selected.
+This position acts like the selection of the hand microphone pushbutton or the Push To Talk trigger on the side-stick.
+This position is momentary contact to passenger address.
+
+The INT/RAD selector switch in INT position, when can direct flight interphone transmission be allowed? (level 2)
+No transmission key is selected.
+The transmission key is selected and no Push-To-Talk switch is activated
+@@No transmission key is selected or the transmission key is selected and no Push-To-Talk switch is activated
+
+The Communication between flight crew and ground mechanic is: (level 2)
+@@Flight interphone,
+Service interphone,
+Cabin interphone.
+
+Which acoustic equipment send audio signal to AMU when cockpit man set INT/RAD selector switch to the INT position to operates direct flight interphone: (level 2)
+@@The microphone of boomset.
+The hand mic.
+The microphone of CVR.
+
+For A320 family aircraft. How many service interphone jacks? (level 2)
+10
+@@8
+6
+
+How many type of interphone (level 2)
+5
+2
+@@3
+
+What is reason for the service interphone system is disabled when the weight off wheels? (level 2)
+It might not be necessary to communicate between personnel at various points around the aircraft when jacking the aircraft
+@@To eliminate potential static noise generated and amplified through the AMU due to the length of wires acting as antenna into the audio system.
+To protect static discharger.
+
+For RMP interface, what are the dialog buses used for? (level 3)
+@@Exchange of information between the three RMPs.
+To transmit data to transceiver.
+To test display of RMPs.
+
+What happens if RMP1 fails? (level 3)
+The communication systems are inoperative
+VHF1 frequencies cannot be controlled.
+@@All communication frequencies can be controlled by using RMP2 or RMP 3 .
+
+If two RMPS fail, the remaining RMP controls: (level 3)
+VHF1 transceiver.
+VHF1and VHF2 transceivers.
+@@All the VHF transceivers.
+
+What is purpose of RMP (level 3)
+Selection of radio communication frequencies and selection of interphone system frequencies
+@@Selection of radio communication frequencies and selection of radio navigation frequencies as back−up of the Flight Management Guidance Computers (FMGCs).
+Selection of radio communication frequencies
+
+The audio switching selector is used for the: (level 3)
+Selection of various items of acoustic equipment.
+Control of the received audio signal levels.
+@@Reconfiguration of channels, in case of ACP failure.
+
+What is function of the AUDIO SWITCHING selector? (level 3)
+@@Is used in case of communication failure on CAPT or F/O channels.
+Is used in case of boomset failure on CAPT or F/O side.
+Is used in case of handset failure on CAPT or F/O side.
+
+How can the Captain control audio when ACP 1 failed: (level 3)
+The control is loss
+Use ACP 2
+@@Use ACP 3 by using “AUDIO SWITCHING”
+
+The audio switching selector is used in case of communication failure on CAPT or F/O channels. when switch set to CAPT 3: (level 3)
+@@The CAPT will use the 3rd occupant ACP. The 3rd occupant audio equipment cannot be used.
+The CAPT will use the 3rd occupant ACP. The 3rd occupant audio equipment still can be used.
+The 3rd occupant will use ACP 1.
+
+How is CAPT’s acoustic equipment audio line connected when AUDIO SWITCHING selector is switched to CAPT 3 position: (level 3)
+CAPT’s acoustic equipment audio line is connected to 3rd occupant ACP
+@@CAPT’s acoustic equipment audio line is connected to AMU
+CAPT’s acoustic equipment audio line is connected to 3rd occupant RMP
+
+When is the muting circuit operative? (level 3)
+The muting circuit always mutes the audio output
+The muting circuit is operative only with the hand microphone selection
+@@The muting circuit is operative when any microphone is keyed to transmit
+
+What is purpose of muting circuit: (level 3)
+@@To avoid acoustic coupling between the loudspeakers and the microphones.
+To avoid acoustic coupling between the Flight Warning Computer (FWC) audio outputs and the microphones.
+To avoid noisy from high power engine running.
+
+Which does transceiver uses the coupler? (level 3)
+@@The HF transceiver.
+The VHF transceiver.
+The Satellite system.
+
+The high frequency (HF) system serves for: (level 3)
+@@All long-distance voice communications.
+All short-distance voice communications.
+All intercommunications.
+
+The HF system used for: (level 3)
+@@Long-distance communications,
+Short-distance communications,
+Medium-distance communications,
+
+The very high frequency (VHF) system serves for: (level 3)
+@@Short range voice communications.
+Long-distance voice communications
+Any range voice communications
+
+The VHF system used for: (level 3)
+Long-distance communications,
+@@Short-distance communications,
+Medium-distance communications,
+
+Which range is VHF system used to communicate (level 3)
+@@Short range
+Long range
+Medium range
+
+Which is unit used for select SELCAL code? (level 3)
+@@The SELCAL code panel.
+The RMPs
+The MCDUs
+
+The purpose of the SELCAL system is to give (level 3)
+Voice communications between different aircraft (in flight or on the ground), or between the aircraft and one or several ground stations.
+@@Visual and aural indications to the crew, concerning calls received from ground stations through VHF and HF systems.
+A/C identification for ATC ground stations.
+
+The SELCAL code panel is installed in the: (level 3)
+@@Aft avionics bay.
+Fwd avionics bay.
+Aft cargo compartment.
+
+The reset key on ACPS is used to: (level 3)
+Restart the system.
+Cancel the previous selections.
+@@Cancel all the lighted calls.
+
+When a selective calling is established, on the ACP: (level 3)
+SEL light come on
+@@Call light come on
+ATT light come on
+
+The SELCAL code is used for: (level 3)
+@@Receive calls from ground station
+Receive call from ground crew
+Receive the call from cabin attendant stations
+
+Which unit is used for select SELCAL code? (level 3)
+The MCDUs
+The RMPs
+@@The SELCAL code panel.
+
+SELCAL provides: (level 3)
+Visual and aural indication of calls received from other aircrafts
+@@Visual and aural indication of calls received from ground stations
+Visual and aural indication of calls received from ground stations and other aircrafts
+
+The ACPs reset key is used to (level 3)
+Extinguish the buzzer sound when the call is coming
+Extinguish all the lighted calls
+@@All above
+
+Which equipment provide SELCAL function (level 3)
+@@AMU
+VHF/ HF transceiver.
+ACP.
+
+When do CALL lights of transmission key on ACP go off automatically? (level 3)
+After 60 seconds if the call is not cancelled by the RESET key
+@@When transmission on the called channel is done
+CALL lights of transmission key on ACP can not go off automatically.
+
+Where is Aircraft SELCAL code from: (level 3)
+@@SELCAL code panel.
+SELCAL/CALL card in AMU.
+The MCDU.
+
+Which requisition must be meet to receive the SELCAL CALL? (level 3)
+At lease a reception knob on an ACP pops out (reception channel is selected).
+At lease a transmission key on an ACP is pressed.
+@@The code of SELCAL signal and the code programmed on the SELCAL code panel are agree.
+
+When a SELCAL call is received, which unit generates the buzzer signal? (level 3)
+AMU
+@@FWC
+ACP
+
+When the cockpit call pushbutton (on the 108vu) is pressed in: (level 3)
+@@The MECH light flashes amber on all ACPs and a buzzer is heard.
+The MECH light flashes amber on all ACPs and a horn sounds is heard.
+The CALL light flashes amber on all ACPs and a buzzer is heard.
+
+Which lights on ACPS go off automatically after 60 seconds if the call is not cancelled by the reset key: (level 3)
+@@The MECH and ATT lights.
+The MECH light only.
+The MECH and CALL lights.
+
+When Mechanic calls to cockpit from the External Power panel: (level 3)
+@@This will cause a buzzer sound in the cockpit, and the MECH light on the ACP come on.
+This will cause a buzzer sound in the cockpit, and the CALL light on the ACP come on.
+Only cause a buzzer sound.
+
+The MECH light on the ACP’S key flashes amber to indicate a: (level 3)
+@@Ground mechanic call.
+Cabin attendant call.
+Cockpit crew call.
+
+How do you cancel ATT legend on the ACP? (level 3)
+push RESET pushbutton on the ACP.
+It is automatically cancelled after 60 second
+@@By Push the Reset PB on ACP or it can be automatic cancelled after 60 seconds
+
+The INT/RAD selector switch on ACP permits the utilization of the: (level 2)
+Interphone when the boomsets or oxygen masks are used by the crew.
+@@Interphone or the radio communication, when the boomsets or oxygen masks are used by the crew.
+Radio communication when the boomsets or oxygen masks are used by the crew.
+
+The frequency of selected radio system is displayed on: (level 2)
+@@The active window of Radio Management Panel (RMP),
+The standby window of Radio Management Panel (RMP),
+The active window of Audio Control Panel (ACP),
+
+What is main purpose of transmission key on ACP? (level 2)
+Select transmission channel.
+@@To connect the transmission line to the chosen transmitter, when the corresponding transmission key is pressed in.
+Select transmission channel and display various calls received through SELCALsystem
+
+The purpose of the static discharges is to: (level 1)
+@@Discharge static electricity and to prevent interference of communication systems.
+Balance static electricity.
+Prevent interference of navigation systems.
+
+What is purpose of static dischargers? (level 1)
+To discharge the static electricity accumulated by the aircraft during its flight,
+To supply better intelligibility on the HF and VHF system,
+@@To discharge the static electricity accumulated by the aircraft during its flight and supply better intelligibility on the HF and VHF system
+
+What is main purpose of the static dischargers: (level 1)
+@@To avoid static electricity discharging noise and ensure a good quality of radio transmission, without interference.
+To avoid lightning
+To improve performance of VHF antenna
+
+When does ECAM show message “HF1 EMITTING”? (level 3)
+@@When a HF transceiver 1 (XCVR) emits for more than 60 seconds.
+When a HF transceiver 1 (XCVR) has a failure.
+When a HF transceiver 1 (XCVR) emits.
+
+What does the Warning message “COM VHF1 EMITTING” mean? (level 3)
+@@VHF1 transceiver emits for more than 60 seconds
+VHF1 received SELCAL
+VHF1 can not transmit signal for communication.
+
+The ACARS system normally use: (level 3)
+The VHF 1transceiver (XCVR)
+The VHF 2 transceiver (XCVR)
+@@The VHF 3 transceiver (XCVR)
+
+Which is transceiver used for the ACARS system? (level 3)
+VHF 1
+VHF 2
+@@VHF 3
+
+36. Which system is mainly dedicated to the ACARS Data Link System? (level 3)
+@@VHF3
+HF3
+VHF1
+
+Which transceiver is used for ACARS data transmission and reception? (level 3)
+VHF 1 transceiver
+@@VHF 3 transceiver.
+Any VHF transceiver.
+
+What happen to RMP windows when the VHF communication system that is used for ACARS is selected? (level 3)
+A window display ACARS, a window display dashes
+@@A window display ACARS, a window display frequency for voice communication
+A both window display ACARS.
+
+How is a SATCOM antenna beam steered? (level 3)
+Mechanically
+@@Electronically
+SATCOM antenna do not need to be steered, even though SATCOM is used to provide high data rate communications
+
+How does an Intermediate Gain Antenna (SATCOM antenna) control beam steering (level 3)
+mechanically
+no beam steering
+@@electronically
+
+Which data does the ADIRS provide for SATCOM Antenna Beam Steering? (level 3)
+@@Relative azimuth and relative elevation
+Airspeed
+Heading
+
+The CVR is automatically energized: (level 3)
+@@In flight or on the ground when at least one engine is running or on the ground during the first five minutes following energization of the aircraft electrical network or on the ground up to five minutes after second engine shutdown.
+In flight only.
+On ground only when at least one engine is running and for 5 minutes after the last engine is shut down.
+
+Which is unit used for recording the flight crew conversations, communications and aural warnings? (level 3)
+@@Solie State Cockpit Voice Recorder (SSCVR).
+Digital Flight Data Recorder (DFDR)
+DFRC in case of SSCVR has failure.
+
+When does the SSCVR operate? (level 3)
+@@On the ground with at least one engine running.
+
+When has energization of the aircraft electrical network?
+When parking brake release.
+Ref. Communication Training Documentation, page 56
+
+The cockpit voice recorder (CVR) records: (level 3)
+In-flight and on-ground crew conversations.
+In-flight and on-ground crew radio communications.
+@@In-flight and on-ground crew conversations and radio communications.
+
+When can you erase the SSCVR? (level 3)
+@@When aircraft on the ground, right and left main landing gear shock absorbers compressed and parking brake applied.
+When at leat one Engine shutdown.
+When both engine shutdown.
+
+Is installation of CVR in modern aircraft mandatory (level 3)
+No,
+Yes
+@@No information
+
+How many recording channels are there in a CVR? (level 3)
+@@4
+3
+5
+
+When is CVR manual erasure of the recording enable? (level 3)
+@@A/C on ground with parking brake applied.
+A/C on ground with parking brake released.
+A/C on ground
+
+With the switch in the AUTO position, how can the fixed ELT be automatically activated? (level 3)
+By load spring
+@@By the G−Switch
+By temperature sensor
+
+How is aircraft identification data transferred into fixed ELT? (level 3)
+@@Automatically, when the programming unit is connected to the ELT
+Manually
+Is done in shop
+
+When is a fixed ELT automatic operation triggered: (level 3)
+A maintenance-dongle which has a maintenance identification data code programmed in its memory is connected to fixed ELT.
+Fixed ELT auxiliary-antenna is wet by salt water.
+@@Fixed the ELT is connected to its system in the A/C, and the G-switch detects an impact sufficient.
+
+The AUTO/OFF/ON switch (located on the front face of the ELT) is set to ON position for manual operation: (level 3)
+When the ELT is connected to its system in the A/C
+When the ELT is disconnected from its system in the A/C
+@@When the ELT is connected to its system in the A/C and you do a self-test (BITE), or when the ELT is disconnected from its system, removed from the A/C and used in portable mode.
+
+Set The ON/OFF/ARM switch on the ELT panel to ARM, the ELT automatic operation is triggered when the ELT is connected to its system in the A/C and thank to: (level 3)
+@@The G-switch inside of ELT.
+The ADIRU
+When ELT loss of power.
+
+The type A DEUS provide the interface between the: (level 3)
+@@Directors and the passenger related systems.
+Directors and the attendant and cabin related systems.
+Directors and other aircraft systems.
+
+The forward attendant panel (FAP) is located in the: (level 2)
+Aft entrance area of the aircraft.
+@@Forward entrance area of the aircraft.
+Close to the emergency exit doors.
+
+A/C in normal configuration: (level 3)
+@@CIDS Director 1 is active, CIDS Director 2 is standby.
+CIDS Director 2 is active, CIDS Director 1 is standby.
+CIDS Director 1 is active for DEU A, CIDS Director 2 is active for DEU B.
+
+What does CIDS On Board Replaceable Module (OBRM) define: (level 3)
+@@Operational software of the CIDS.
+Database software of CIDS.
+Identification data of CIDS.
+
+The central units of the CIDS consist of: (level 3)
+@@The CIDS DIRECTORs.
+The Decoder/ Encoder Units (DEUs).
+The FAP & PTP.
+
+In normal operation director 1 is supplied by: (level 3)
+@@The DC essential bus
+The service bus
+The hot battery bus
+
+What happens if the DC essential bus fails? (level 3)
+Director 1 is lost
+@@The service bus supplies both directors
+The DEUs are no longer supplied.
+
+Which is the main unit if the CIDS? (level 3)
+The CAM
+The DEUs
+@@The director
+
+How does CIDS works when service bus unavailable? (level 3)
+Circuitry in the directors and DEUs switches the essential circuits to essential bus
+The DIR 2, the non-essential DEU B circuits and the FAP are inoperative
+@@The second DIR, the non-essential DEU circuits and the FAP are inoperative
+
+When are all CIDS units, which are supplied by essential bus, switched automatically to the hot battery bus? (level 3)
+@@The aircraft loses main power and the emergency exit lights switch is set to ARM or ON
+Essential bus is unavailable
+The aircraft loses main power
+
+What is role of Director 2 in normal operation of the CIDS? (level 3)
+Inactive.
+@@Hot-standby.
+Monitor Director 1.
+
+If the self-test of director fails: (level 3)
+Director 1 is switched to emergency mode.
+The top line data buss are switched off
+@@Director 2 take over automatically
+
+If the Director 1 fails, what happens? (level 3)
+Director 2 takes over and provides the PA function only.
+The DEU A are disconnected, due to the TOP CUT OFF relay
+@@Director 2 provides automatically all the CIDS functions
+
+Which CIDS Director is active in normal operation? (level 3)
+Director 2,
+@@Director 1,
+Both Directors.
+
+How does the outputs of the Director in stand-by mode work? (level 3)
+Same as outputs of the Director in active mode
+Disable when A/C on ground
+@@Disable
+
+Each type of DEU A interface with: (level 3)
+1 PSU, 3 loudspeakers, 4 fluorescent strip lights
+@@3 PSU, 2 loudspeakers, 4 fluorescent strip lights
+3 PSU, 3 loudspeakers, 1 fluorescent strip lights
+
+Main task of DEU is to: (level 3)
+Interface between directors and aircraft systems
+@@Interface between directors and cabin systems
+Control the various cabin systems
+
+A bus termination resistor used to impedance matching is installed (level 3)
+on the first DEU mount of each line
+On the last DEU of each line.
+@@on the last DEU mount of each line
+
+What do you necessary do when replace DEU mount? (level 3)
+@@Select the same code as used before on the coding switch.
+Set code as seri number of new DEU mount.
+Do no thing.
+
+Where are the coding switches located? (level 3)
+On the front of each DEU
+@@On each DEU mount
+Only on the last DEU mount of each line
+
+What must be done when DEU mount is replaced (level 3)
+@@Select the same code as used before on the coding switch of new mount
+Nothing to do
+Update Cabin Assignment Module (CAM)
+
+How is impedance matching of CIDS top/ middle line done (level 3)
+A resistor is located on the each DEU mount of each line
+A resistor is located on the fist DEU mount of each line
+@@A resistor is located on the last DEU mount of each line
+
+The Passenger Address (PA) allows Voice announcements to be broadcast to all passengers, from the: (level 3)
+@@Cockpit and cabin attendant stations through the CIDS.
+Cockpit through the CIDS.
+Cabin attendant stations through the CIDS.
+
+Who can make a passenger announcements via the Passenger Address (PA) System (level 3)
+Cockpit crew and passenger.
+Cabin crew and passenger.
+@@Cockpit and cabin crew.
+
+What is audio source priority in PA system?  (level 3)
+@@PA announcements from the cockpit crew, PA announcements from cabin crew, automatic announcements and the boarding music.
+PA announcements from the cockpit crew, PA announcements from cabin crew, the boarding music and automatic announcements
+PA announcements from the cockpit crew, PA announcements from cabin crew, PA announcements from passenger, the boarding music and automatic announcements
+
+Where is PA signal sent to (A/C have Passenger Entertainment System)? (level 3)
+Cabin loudspeakers
+@@Cabin loudspeakers and passenger headset
+Cabin loudspeakers, passenger headset and Cockpit Voice Recorder
+
+The cockpit handset is mounted on the: (level 2)
+@@Cockpit center pedestal.
+Overhead panel.
+Glareshield.
+
+How is a PA announcement using the boomset or the oxygen mask made? (level 3)
+@@The PA transmission key must be pressed and held on the ACP
+The PA transmission key must be pressed and held on the ACP and Push To Talk switch on side stick must be pressed
+The PA transmission key must be pressed and held on the ACP and Push To Talk switch on handmic must be pressed
+
+Which unit provides the amplification function for the cabin loudspeaker? (level 3)
+The AMU
+@@The directors
+The CAM
+
+How does cockpit crew have speech when he use oxygen masks (level 3)
+it is impossible
+@@use a built-in microphone of oxygen mask
+use the handmike in the cockpit
+
+The cabin interphone system allows communication between the: (level 3)
+Cockpit and the cabin attendant stations.
+@@Cockpit and the cabin attendant stations, and between the cabin attendant stations.
+Cabin attendant stations.
+
+Which type of interphone is provided by CIDS? (level 3)
+@@Cabin interphone and service interphone
+Flight interphone, cabin interphone and service interphone
+Flight interphone and cabin interphone
+
+The service interphone system enables communication between the: (level 3)
+Different service interphone jacks and the cockpit.
+@@Different service interphone jacks, the cockpit and the cabin attendant stations.
+Different service interphone jacks and the cabin attendant stations.
+
+What is function of the SERVICE INTERPHONE OVERRIDE P/BSW? (level 3)
+@@To re-enable the service interphone when A/C in the flight mode.
+To connect flight interphone and service interphone.
+To disconnect service interphone and cabin interphone.
+
+Aircraft on ground, in order to communicate from the cockpit to the APU position, you must: (level 3)
+Select the INT on the ACP, and press the “SERV INT” pushbutton.
+@@Press “CABIN” transmission key.
+Press “MECH” transmission key.
+
+How to establish a speech communications between the cockpit, the cabin stations and the jacks? (level 3)
+CAB and INT keys must be pressed on the ACPs in the cockpit
+@@CAB and INT keys must be pressed respectively on the ACPs in the cockpit and on the handset in the cabin
+CAB and INT keys must be pressed on the handset in the cabin
+
+Which key on any AUDIO CONTROL PANEL (ACP), must be pressed to establish a speech communication from the cockpit with the SERVICE INTERPHONE JACKS (level 3)
+INT key.
+SER key.
+@@CAB key.
+
+Where can passenger call be generated? (level 3)
+@@Passenger seat or a lavatory
+Passenger seat only
+Passenger seat or cockpit
+
+Where are Fasten Seat Belt (FSB) signs installed? (level 3)
+@@Cabin
+Cabin and lavatory
+Cockpit, cabin and lavatory
+
+A two positions switch in EVAC control panel set in CAPT: (level 3)
+It allows the system to be triggered either from the cockpit or the cabin.
+@@The system can only be triggered from the cockpit.
+The system can only be triggered from the cabin.
+
+Which equipment in cockpit broadcasts an EVAC intermittent signal?  (level 3)
+Loudspeaker
+EVAC speaker
+@@EVAC horn
+
+Where is EVAC aural signal sent to? (level 3)
+Cabin loudspeaker
+@@Attendant loudspeakers
+Cabin loudspeakers and passenger headset
+
+The additional attendant panel (AAP) is connected to: (level 3)
+The directors.
+@@The relevant type B DEUs.
+The relevant type A DEUs.
+
+The programming and test panel (PTP) enables: (level 3)
+@@Test and re-program the Cabin Intercommunication Data System.
+Test and re-program the cabin lighting systems.
+Test the cabin lighting systems.
+
+What happen to CIDS when you have to change the cabin layout (level 3)
+CIDS director hardware, the existing PAX equipment such as loudspeakers and lighting units must be modified
+Only the CIDS director hardware is modified, the existing PAX equipment such as loudspeakers and lighting units remain as before
+@@Only the controlling software of CIDS (CAM) is modified, the existing PAX equipment such as loudspeakers and lighting units remain as before
+
+The cabin loudspeakers are connected to the: (level 3)
+@@Deu A
+Directors
+Deu B
+
+Which items are connected to DEU B? (level 3)
+Passenger related items
+@@Cabin attendant related items
+Passenger and cabin attendant related items
+
+When service BUS has failure, how does the top line cut-off relay de-energize? (level 1)
+Push BAT switch to OFF position.
+@@Made a PA announcement.
+Open the cockpit door.
+
+How is fail safe operation of DEU A done when a broken wire in one top-line bus happen (enhanced system)? (level 3)
+The sound level of the operable top line is decreased
+@@The sound level of the operable top line is increased
+The sound level of the operable top line is increased and effective DEU A is connected to midde-line
+
+How is impedance matching done in CIDS top-line and midle-line bus? (Enhanced Aircraft) (level 3)
+@@A bus termination resistor is installed in last connection box
+A bus termination resistor is installed in first connection box
+A code switch resistor is installed in last connection box
+
+Are the type A and type B Decoder/Encoder Units (DEUs) physically the same? (level 3)
+No
+@@Yes
+Yes and they are interchangeable
+
+The aircraft is on jacks, in order to use the service interphone system, you must press: (level 3)
+@@The SERVICE INTERPHONE OVERRIDE pushbutton, on the overhead panel.
+The ATT key on the Audio Control Panels (ACPs).
+The CAB key on the Audio Control Panels (ACPs).
+
+To perform communication from cockpit to service jacks using SEVICE INTERPHONE, you must: (level 3)
+@@Selected the CAB transmission key and released out CAB reception knob,
+Selected the SERVICE transmission key and released out SERVICE reception knob,
+Selected the INT transmission key and released out INT reception knob,
+
+When are NO SMORKING and EXIT signs are switched on if NO SMOKING SW in cockpit is set in AUTO position? (level 3)
+The landing gear is down
+@@The landing gear is down and locked
+The landing gear is up and locked
+
+Which computer connected to smoke detector on the lavatory (enhanced aircraft) (level 3)
+SDCU
+DEU A
+@@DIRECTOR
+
+CAM/OBRM layout and their memories: (level 3)
+Operate in restricted operating mode
+Show a CIDS SW OUT OF DATE message on FAP
+@@Download OBRM and CAM data
+
+How to activate all the passenger reading light at the same time? (level 3)
+@@Use READING p/b on the FAP
+Use No smoking switch on the cockpit
+Use SYSTEM test menu on the PTP
+
+What is default mode of HF system (level 2) (Not correct)
+Amplitude modulation (AM) mode
+@@The single side board (SSB) mode
+Frequency modulation (FM) mode
+
+How is HF antenna tuned (level 2) (Not correct)
+@@by HF couple
+by HF transceiver
+by coaxial cable from transceiver to antenna
+
+How does ground station sent SELCAL code to selectived aircraft (level 2) (Not clear)
+by data link betweent them
+by Morse signal
+@@by modulation of the high frequency with four consecutive acoustic frequencies
+
+Why is a muting circuit installed in microphone circuit (level 2) (not correct)
+To cut off the sound of loudspeaker
+To cut off the microphone signal.
+@@To avoid acoustic feedback between the cockpit loudspeakers and the microphones
+
+What happen when VOICE ONLY switch in audio circuit is actived (level 2) (Not Clear)
+@@Identification signals of DME stations is suppressed by the use of a filter.
+VHF system operate in voice mode
+HF system operate in voice mode
+
+In normal case, how is the frequency of ACARS tuned automatically (level 2) (Not clear)
+By using aircraft heading information
+By using ACARS MU pin program
+@@By using aircraft present position information
+
+Is PTT signal from PTT switch on side stick and from hand microphone interchangeable: (level 3) (Câu hỏi này không có ý nghĩa)
+@@No.
+Yes.
+They are interchangeable if A/C on ground.
+
+When is the CVR automatically supplied: (level 3) (Câu này không đúng, đáp án là cho trường hợp Manual supplied)
+The aircraft in flight with at least one engine is stopped.
+The aircraft on the ground any time
+@@The aircraft on the ground with two engines not running and GND CTL P/B on the RCDR panel is pressed.

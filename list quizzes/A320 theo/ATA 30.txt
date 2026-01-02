@@ -1,0 +1,354 @@
+Air for wing anti-icing is supplied by   (level 1)
+Left engine.
+Left engine or APU on ground.
+@@The pneumatic system.
+
+Pressure control shut-off valve is   (level 1)
+pneumatically controlled to open and electrically operated
+@@electrically controlled to open and pneumatically operated.
+pneumatically controlled and operated
+
+Pressure control shut-off valve is   (level 1)
+@@Open for 30 Seconds on ground
+Always open on ground, when the WING ANTI ICE pushbutton pushed
+Always close on ground
+
+There is (are) (level 1)
+Three telescopic ducts on each wing
+No telescopic duct, but piccolo ducts,
+@@One telescopic duct on each wing.
+
+On ground, pitot heating is  (level 1)
+@@Off
+On but reduced
+On with full power when the "PROBE/WINDOW HEAT" pushbutton is at ON
+
+On ground, TAT heating is  (level 1)
+On but reduced
+on when the "PROBE/WINDOW HEAT" pushbutton is at ON.
+@@Off
+
+When CB of WHC1 pulled  (level 1)
+L Wind shield is heated at low power
+L Wind shield and windows are heated at normal power
+@@No heating for L Wind shield and windows
+
+Windows and windshield are heated:   (level 1)
+Automatically at first engine running.
+When selected PROBE/WINDOW HEAT PB ON
+@@A or B
+
+The window heat system comprises:   (level 1)
+A single computer.
+Two computers, one for the side windows and one for the windshields.
+@@Two computers, one for the left side windows and left windshield, and one for right side windows and right windshield.
+
+Probes and static ports are heated?   (level 1)
+Automatically when At least one engine running.
+When selected PROBE/WINDOW HEAT PB ON
+@@A or B
+
+Which components are ices protected by hot air?   (level 1)
+@@Three outboard leading edge slats of each wing and the engine air intakes
+All outboard leading edge slats of each wing and the engine air intakes
+The wing and vertical stabilizer leading edge.
+
+PITOT probe is heating:   (level 1)
+In flight, not on ground.
+In icing conditions only.
+@@Normal heating in flight, low heating on ground
+
+TAT probe is heated:   (level 1)
+@@In flight, not on ground.
+On ground, not in flight.
+In icing conditions only
+
+When is the rain repellent system inhibited?   (level 1)
+In flight.
+B.   On ground when at least one engine is shut down
+@@C.   On ground when both engines are shut down.
+
+Does each side of the rain repellent system operate independently?   (level 1)
+@@Yes.
+B.   No.
+C.   One side can be connected to the other.
+
+How many Engine Anti – Ice Pressure Regulating Shut-Off Valve (PRSOV) installed on each PW 1130 Engine? (level 1)
+1
+@@2
+3
+
+After heating the engine air intake, the hot air will: (level 2)
+Return to A/C bleed system
+Go to the engine Fan exhaust.
+@@Be discharged overboard
+
+There is Ice protection for  (level 2)
+Flaps, Engines, Windows, Probes, Ports, Water Lines and Drain Masts
+@@Slats, Engines, Windows, Probes, Ports, Water Lines and Drain Masts
+Slats, Engines, Windows, Probes, Ports, Water Lines and Drain Masts, oil tanks
+
+On Lower ECAM, BLEED System page, the “ANTI ICE” is displayed when  (level 2)
+@@The Wing anti-ice valve electrically controlled
+Any time when the wing anti-ice valve is (are) open
+In case in icing condition and anti ice is required
+
+On Lower ECAM, BLEED System page, the wing anti ice triangle is displayed when  (level 2)
+The valve is close
+The valve is controlled to open
+@@The valve is open
+
+The engine anti-ice valves are  (level 2)
+@@Electrically energized to close
+Electrically energized to open
+Electrically energized to fully open
+
+The engine anti-ice system activation is indicated  (level 2)
+On Lower ECAM, BLEED System page
+@@By a message appears in green on the ECAM MEMO display
+By the ON/OFF pushbutton
+
+The ice protection for static ports, Angle Of Attack (AOA), pitot and Total Air Temperature (TAT) probes is (level 2)
+By hot air
+@@By electrical heating
+By electrical heating or hot air
+
+With A/C on Jack, to prevent Probes and static ports heating  (level 2)
+Pull CB of Probe Heat Computer
+@@Pull CB of Probes and static ports heating supply.
+Pull CB of EIU
+
+The ice detection system is operating   (level 2)
+when manually switched on
+when engine or wing anti ice is on
+@@at electrical power up
+
+Can you operate the wing anti-ice system on ground?   (level 2)
+No, the system is operative in flight only
+@@Yes, but for a limited time
+Yes, for an unlimited time
+
+In case of electrical failure or lack of pressure the wing anti-ice valve:   (level 2)
+@@Closes
+Opens
+Half Opens
+
+The engine anti-ice air is supplied from:   (level 2)
+@@A High Pressure compressor stage of the engine.
+A Low Pressure compressor stage of the engine.
+A High Pressure turbine stage of the engine.
+
+The wing leading edge anti-iced sections are:  (level 2)
+Slats 1, 2 and 3.
+Slats 2, 3 and 4.
+@@Slats 3, 4 and 5.
+
+On each wing, hot air is provided for the anti-icing of: (level 2)
+All the slats.
+@@The three outboard slats.
+The four outboard slats.
+
+The complete probe heat system includes: (level 2)
+Four computers.
+Two computers.
+@@Three computers.
+
+The windshield heating operates:   (level 2)
+At low power on the ground and in flight.
+@@At low power on the ground an high power in flight.
+At high power on the ground and in flight.
+
+3.The areas that hot air supplies for Ice protection are:   (level 2)
+@@The leading edge of the slats 3, 4 and 5 on each wing and engine air intakes.
+The leading edge of the slats 1, 2 and 3 on each wing.
+All leading edge of the slats on each wing.
+
+At least one of the engine air intake anti-ice systems is selected ON?   (level 2)
+@@A message ENG A. ICE appears in green on the ECAM MEMO display.
+A message ENG A. ICE appears in green on the Bleed status page.
+A message ENG A. ICE appears in amber on the Air-conditioning page.
+
+How is the windshield heating operated?   (level 2)
+In flight, not on ground.
+In icing conditions only.
+@@High power in flight, low power on ground
+
+How is the wing anti-ice valve controlled and operated?   (level 2)
+Pneumatically controlled and electrically operated
+Electrically controlled and operated
+@@Electrically controlled and pneumatically operated
+
+Lighted ice indicator detects ice base on which following?   (level 2)
+Vibration at resonant frequency
+@@Visually
+Computer programming
+
+Which one following is wrong?   (level 2)
+Probes anti-ice is by electrically
+Wing anti-ice is by pneumatically
+@@Engine anti-ice is by electrically
+
+The ice detector generates message ice detected when:   (level 2)
+Wing anti ice is necessary.
+@@B.   Engine air intake anti ice is necessary
+C.   There is ice on the front windshield.
+
+The heating of fill/drain nipple at the potable service panel is operated?   (level 2)
+When ice is detected
+@@B.  As soon as the aircraft is electrically supplied.
+C. When the door of the potable service panel is opened.
+
+For PW 1130 Engine Nacelle Anti - Ice, the hot air leak detection is done by: (level 2)
+Two pressure transduce
+@@A dual temperature sensor
+One pressure sensor and one temperature sensor
+
+For PW 1130 Engine, Hot air for the Nacelle anti - ice system is supply by: (level 2)
+A dedicated HPC 4th Stage bleed
+@@A dedicated HPC 6th Stage bleed
+A dedicated HPC 8th Stage bleed
+
+For PW 1130 Engine, When the Engine Anti – Ice Pressure Regulating Shut-Off Valve (PRSOV) has failed (level 3)
+@@PRSOV can be manually set in opened position for MEL dispatch
+PRSOV can be manually set in closed position
+PRSOV automaticaly set in closed position
+
+In case of insufficient air pressure to the engine anti-ice valve? (level 3)
+The valve opened, as it is spring loaded open.
+@@The valve closed, as it is spring loaded closed.
+Stays at the last position selected.
+
+With both engine anti-ice valves opened: (level 3)
+The N1 limit will increase.
+@@The N1 limit will decrease.
+The N1 limit will not change
+
+The engine anti-ice valve is: (level 3)
+A pressure control shut-off valve
+@@Electrically controlled, failed safe open valve
+A pressure regulate valve
+
+Hot air used for engine anti-ice is taken from? (level 3)
+@@A high-pressure compressor stage of each engine.
+A low pressure compressor stage of each engine
+The bleed air manifold.
+
+Which slats are protected by the hot anti-icing air.(level 3)
+three outboard slats for A320 and four for A321
+@@Only the three outboard slats
+four outboard slats
+
+The wing ice protection system interfaces with EIU for (level 3)
+system monitoring and failure data to be stored
+@@engine power increase according to the bleed demand.
+shutting down the engine in case of Air wing leak
+
+Air for engine air intake protection is supplied from(level 3)
+The pneumatic system.
+@@The engine itself.
+APU on ground
+
+On ground, Probes and static ports heating comes on automatically when(level 3)
+Both engines are OFF with the "PROBE/WINDOW HEAT" pushbutton is at OFF.
+Both engines are OFF and regardless the "PROBE/WINDOW HEAT" pushbutton
+@@at least one engine is running or the "PROBE/WINDOW HEAT" pushbutton is at ON.
+
+The purpose of the dual advisory ice detection system is to provide: (level 3)
+auto cut-off of hot air heating
+@@caution of ice condition
+auto increase engine power
+
+The purposes of the ice and rain protection system is to provide:(level 3)
+Unrestricted operation in icing conditions and heavy rain.
+Protection of critical areas of the aircraft by hot air or electrical heating
+@@Both A & B.
+
+The Engine Interface Units acquire wing anti-ice selection for:(level 3)
+@@Engine power increase according to the bleed demand.
+Engine power increase to avoid high EGT
+Troubleshooting purpose
+
+The drain mast ice protection system can be tested from: (level 3)
+@@The PTP and the drain mast control unit test pushbutton.
+The test pushbutton in the cockpit and the PTP.
+The drain mast control unit test pushbutton.
+
+Engine anti-ice bleed air circulates through the engine inlet cowl and is:(level 3)
+@@Discharged overboard.
+Discharged into the fan air stream.
+Discharged into the low pressure turbine area.
+
+The Window Heat Computer (WHC) provides heating levels for the windshield (level 3)
+@@High level in flight, low level on the ground.
+High level in flight and ground.
+High level in flight, on the ground depends on outside temperature.
+
+How is drain mast ice protection system operated? (level 3)
+@@Permanently when the aircraft is electrically supplied.
+Manually when icing condition is met.
+Automatically when icing condition is met.
+
+What happens if the PHC or the EIU power supply circuit breakers are pulled? (level 3)
+@@Probes and static ports are heated
+Nothing happen
+Probes and static ports are inoperative.
+
+The message SEVERE ICE DETECTED is displayed when: (level 3)
+@@Engine air intake anti ice & Wing anti ice is necessary.
+Engine air intake anti ice is necessary
+Wing anti ice is necessary
+
+How is a serrated rod ice detector bench tested?. (Level 1)
+@@Screwdriver torque test.
+By a motor load test.
+Motor test and go/no-go gap measurement.
+
+Windshield heating provides. (Level 1)
+thermal expansion for a tighter fit.
+@@impact resistance enhancement.
+increases strength to resist cabin pressure.
+
+The advantage of leading edge fluid de-icing is. (Level 1)
+less of afirehazard.
+@@aerodynamic shape is not disturbed.
+more efficient.
+
+On large transport aircraft, the windshield wiper system is. (Level 1)
+one system for both sidesbut with thesamepowersource.
+independent on eachsidebut with thesamepowersource.
+@@independent on each side with different power sources.
+
+Prior to securing a leading edge de-icing boot you must. (Level 1)
+@@remove all paint.
+paint the surface.
+shave rivet to prevent further abrasion.
+
+On a 'hot rod' type of ice detector, it is switched on. (Level 1)
+all the time.
+@@when selected by the crew.
+when in the air.
+
+Ice formation on wings is due to. (Level 1)
+suspended ice crystals melting on contact with the wing and instantly re-freezing.
+ice crystals forming layers on contact with the wing.
+@@supercooled water changing state on contact with the wing.
+
+When a vibrating rod ice detector has de-iced, thewarning lamp on the flight deck. (Level 1)
+goes out immediately.
+goes out after one more cycle.
+@@goes out after a set period of time.
+
+In a cockpit window heater system, the autotransformer. (Level 1)
+supplies DC power for heating.
+supplies AC Power for heating.
+@@steps up output for severe weather conditions.
+
+Windshield rain repellent is applied. (Level 1)
+@@when rain is on windows and spread by wipers.
+before rain and spread on windowsurface bywipers.
+when in heavy rain so vision is unobscured.
+
+Pneumatic rain removal systems. (Level 1)
+@@use engine bleed air at high velocity to remove water droplets from windscreen.
+are not permitted on large transport aircraft.
+use a pneumatic motor to drive windscreen wipers.

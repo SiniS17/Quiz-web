@@ -1,0 +1,334 @@
+For PAX door, what happens when the arming lever is set to the ARMED position? (Level 1)
+@@The girt bar stays attached to the cabin floor.
+The girt bar slides towards the telescopic fork.
+The telescopic fork slides towards the girt bar fitting.
+
+The loads resulting from the cabin pressure are transmitted to the door frame by the: (Level 1)
+Support arm.
+Door seal.
+@@Adjustable stop fittings.
+
+In "ARMED" mode, if you open a passenger door from outside of the cabin: (Level 1)
+The door opens automatically and the escape slide/raft DISARMED.
+@@The door is opened manually and the escape slide/raft does not deploy.
+The door opens automatically and deploys the escape slide/raft.
+
+On A320 A/C, opening of the emergency exit: (Level 1)
+only from inside automatically releases the emergency escape slide.
+@@from inside or outside automatically releases the emergency escape slide.
+from outside automatically DISARMED the emergency escape slide.
+
+The red CABIN PRESSURE light flashes when: (Level 1)
+There is residual pressure in the cabin with slide disarmed and engines are running.
+There is residual pressure in the cabin with slide armed and both engines are off.
+@@There is residual pressure in the cabin with slide disarmed and at lease one engine is off.
+
+What does the green light fitted near the cargo manual selector valve indicate? (Level 1)
+The yellow hydraulic pressure is available to operate the door.
+@@The door is fully open and locked.
+The door is correctly unlatched and unlocked.
+
+In normal mode, in case of no response from the pilots, at a request to entry in the cockpit by the cabin attendant crew: (Level 1)
+@@The cockpit door remains closed.
+The cockpit door opens automatically after a defined time.
+The cockpit door can be open by the cabin attendant crew.
+
+For PAX door, what is the purpose of the Damping and Emergency Operation Cylinder? (Level 1)
+To damp door opening and closing.
+To assist in opening and closing the door.
+@@To damp door opening/closing and to pressurize the cylinder in case of an emergency opening.
+
+When the arming lever is set to ARMED, (Level 1)
+the girt bar remains part of the door when it is opened and remains in the telescopic forks.
+@@the girt bar slides towards the girt bar fitting, and the emergency operation cylinder percussion lever is moved to the door emergency configuration.
+the girt bar remains in the telescopic forks, and the emergency operation cylinder percussion lever is moved to the door emergency configuration.
+
+In case of emergency opening, the Passenger door: (Level 1)
+@@Opens and locks automatically.
+Opens automatically.
+Unlocks and opens automatically.
+
+To disarm the A320 emergency exit door: (Level 1)
+Turn the latch pin clockwise.
+Pull down the control handle and pull the exit top inwards
+@@Turn the latch pin counter-clockwise.
+
+The white light comes on steady in the door indicates that: (Level 1)
+the escape slide in ARMED mode and door locked.
+@@the escape slide is in the ARMED mode and door not locked.
+the escape slide is in the DISARMED mode and door not locked.
+
+The hydraulic system of the cargo doors  (Level 1)
+@@can not operate when the cargo doors are locked.
+includes the duplex actuators, two manual selector valves (one for each cargo door), and two electro selector valves.
+can not allow opening the FWD and the aft cargo doors at the same time.
+
+When the cargo door locking shaft is in the locked and the hooks are in the latched position. (Level 1)
+@@Green marks are visible through the locking indicators.
+Red marks are visible through the locking indicators.
+Yellow marks are visible through the locking indicators.
+
+When the emergency mode is activated from the keypad with the cockpit door toggle switch in norm neutral position: (Level 3)
+All the latches remain locked and the access is not possible from the cabin.
+All the latches are unlocked and the access is possible from the cabin.
+@@All the latches will unlock automatically after a preset time delay.
+
+On the ECAM Door/Oxy page, the slide indication appears _____ when the slide is not disarmed. (Level 1)
+@@White.
+Amber.
+Green.
+
+What happens to the cockpit door in the case of the electrical power failure? (Level 1)
+It operates normally on HOT BAT bus.
+@@It automatically unlocks.
+It automatically locks from outside but stays unlock from inside.
+
+What does illumination of the white slide armed light represent on the PAX door? (Level 1)
+This indicates that the slide has properly inflated and is safe for use.
+@@This indicates that the slide is armed and the slide will inflate if the door is opened from inside the aircraft.
+This indicates that the PAX cabin door has not been properly closed but the slide is properly armed.
+
+What does illumination of the red cabin pressure light represent on the main cabin door? (Level 1)
+This indicates that the evacuation slide is armed.
+@@This indicates that the aircraft cabin is still pressurized and the cabin door should not be opened.
+This indicates that the relevant EPSU supplies the door electrical system.
+
+How is it determined that the cockpit sliding window is closed and locked? (Level 3)
+The red ring below the release button should not be in view.
+The locking pin was placed in the forward position when the window was closed.
+@@The red ring below the release button should be in view.
+
+Regarding the cargo doors, the yellow hydraulic pump pressurizes when: (Level 1)
+The locking handle in unlocked position
+The selector in open or close position
+@@Both answer are correct
+
+The primary purpose of the holes on the door seal is: (Level 3)
+To drain water
+To decrease noise
+@@To inflate the seal during flight
+
+The cargo door is locked in the fully open position by means of: (Level 3)
+Yellow hydraulic pressure
+@@Mechanical internal lock inside the door actuator
+Moving locking handle to lock position
+
+The cargo door indicating on ECAM becomes amber as soon as (Level 1)
+@@The locking handle moving out of its recess
+The locking handle moving in unlock position
+The door moving to open
+
+When the locking handle moves to unlock position, the cargo door falls into the vertical position because of: (Level 1)
+Its gravity
+An internal hydraulic leakage
+@@Both answer are correct
+
+Which components indicate DOOR symbol on DOOR ECAM page. (Level 2)
+@@The locking hook proximity switch and the locking shaft proximity switch
+The escape slide proximity switch and the locking shaft proximity switch
+The locking hook proximity switch and the escape slide proximity switch
+
+Which components indicate SLIDE symbol on DOOR ECAM page. (Level 2)
+The locking hook proximity switch and the locking shaft proximity switch
+@@The escape slide proximity switch and the locking shaft proximity switch
+The locking hook proximity switch and the escape slide proximity switch
+
+What happens when you open the door from outside in ARMED mode? (Level 2)
+@@The system is automatically disarmed
+Can not open the door because the escape slide will deploy
+The cabin pressure light comes on
+
+The residual cabin pressure red light comes on: (Level 2)
+When all the engines are not running and the parking brake is applied and the cabin residual pressure exceeds 25 mbars
+@@When engines are not running, the slide in DISARMED position and the cabin residual pressure exceeds 25 mbars
+When engines are not running, the slide in ARMED position and the cabin residual pressure exceeds 25 mbars
+
+The cockpit door control unit opens the locks when: (Level 2)
+Pressure sensors sense decompression in the cockpit
+Cabin crew enters emergency code into the keypad
+@@All of above
+
+A passenger door escape slide indication on the ECAM DOOR page and on the door itself via the SDAC are given by: (Level 2)
+@@The locking shaft and the slide proximity switches
+The locking hook and the locking shaft proximity switches
+The slide proximity and the locking hook proximity switch
+
+With the cargo door sill YZ-latches in the lower position? (Level 3)
+Yellow Electric pump P/B must be selected ON when you want to close the cargo door
+@@The cargo door can’t be close using hydraulic power
+The Cargo Loading system is inoperative
+
+WHAT DOES THE GREEN LIGHT FITTED NEAR THE MANUAL SELECTOR VALVE OF THE CARGO DOOR INDICATE? (Level 2)
+The yellow hydraulic pressure is available to operate the door.
+@@The door is fully opened and locked.
+The door is correctly unlatched and unlocked
+
+How is latch pin of the A320 aircraft emergency exit door released for maintenance operation? (Level 2)
+By operating the outer control handle
+@@By retracting the latch pin
+By setting the disarming control handle to DISARMED
+
+The pressurization of the cargo door hydraulic system does not occur when: (Level 2)
+@@The locking mechanism is in the locked condition.
+The door not in fully close or/and open position.
+The door not in fully open position.
+
+When opened in an emergency, the passenger entry doors: (Level 2)
+@@Pneumatically assisted into the open position
+Are assisted to the open position by slide inflation
+Are electrically assisted into the open position.
+
+What happens to the cockpit door with electrical power failure? (Level 2)
+It operates normally on HOT BAT bus.
+@@It automatically unlocks.
+It automatically locks from outside but stays unlock from inside.
+
+Passenger door in closed- locked and armed position and it opens from outside(Level 2)
+@@Slide control lever moves to disarm position automatically
+Slide inflates automatically
+It impossible without power
+
+What indicates the red flashing light on a passenger door: (Level 2)
+The door is “ARMED”
+The door is DISARMED but both engines are still running
+@@The door is DIDARMED, both engines shut down and the cabin pressure is greater than set value.
+
+If door handle is lifted and the white indicator illuminates, what does this mean? (Level 2)
+@@The escape slide is armed and if you go on lifting the handle, door opens and slide will deploy.
+Pneumatic assistance of the door has failed
+The escape slide is in disarmed configuration
+
+A320 overwing exit in closed-locked and armed position, it opened from outside(Level 2)
+@@Slide inflates automatically
+Slide deactivates automatically
+It impossible
+
+The cargo door is normally operated by: (Level 2)
+@@The yellow hydraulic system
+The green hydraulic system
+The blue hydraulic system
+
+A321-Which components keep the emergency exit door in parallel with the fuselage during open/ close sequence? (Level 2)
+Hinge arm mechanism
+@@Two guide arms
+Handle gearbox
+
+The passenger door is opened and locked; the inner handle is in (Level 2)
+@@The upper position always
+The lower position always
+Neither the upper position nor the lower position
+
+How to disarm the overwing emergency exit? (Level 2)
+Use arm/ disarm lever.
+Use emergency control handle.
+@@Remove the cover flap then turn the retractable pin a quarter turn anticlockwise
+
+Slide armed indicator of overwing emergency exit illuminates to show that the escape slide release mechanism is in the armed configuration and: (Level 3)
+@@The cover flap is not in proper position
+The control handle is unlocked
+The overwing slide is inflated
+
+The purpose of the drift pins of the cargo door (Level 2)
+To lock the cargo door in closed position
+To latch the cargo door in closed position
+@@To decrease the contour offset between the door and the fuselage to fulfill aerodynamic requirements
+
+When the locking shaft of the cargo door is in unlocked position (Level 3)
+@@The drift pins retract from the pockets of the fuselage frame
+The vent door moves to closed position
+The yellow hydraulic pump pressurizes
+
+THE WARNING RED LIGHT OF PASSENGER DOOR IS FLASHING, ITS POWER SUPPLIED BY: (Level 3)
+A. APU generator
+B. external power
+@@C. Battery hot bus
+
+WHAT DOES THE GREEN LIGHT FITTED NEAR THE MANUAL SELECTOR VALVE OF THE CARGO DOOR INDICATE? (Level 3)
+A. The yellow hydraulic pressure is available to operate the door.
+@@B. Both door actuators are fully opened and locked, it’s both proximity switches are serviceable
+C. Both door actuators are fully opened and locked, only one proximity switch is serviceable
+
+What indicates the green light in the cargo door access?  (level 3)
+The cargo door is closed and locked
+The cargo door is not closed
+@@The cargo door is open and locked
+
+What happen when the passenger door is opened from the outside and the slide system is armed?  (level 3)
+The locking mechanism is blocked
+The escape slide will deploy
+@@The slide system is disarmed
+
+What happens when the arming lever of the PAX door is set to the ARMED position? (level 3)
+@@The girt bar stay attached to the cabin floor.
+The girt bar slide towards the telescopic fork.
+The telescopic fork slide towards the girt bar fitting
+
+Passenger door in closed- locked and armed position, to open it from inside safely (level 3)
+Check red difference pressure indicator not flushing
+Put slid control lever to disarm position, check outside clear
+@@All above
+
+A321 airplane emergency exit movement during opening sequence(level 2)
+Outward and forward
+Outward and upward
+@@Outward, forward and in parallel to fuselage
+
+What is the purpose of the damper and emergency operation cylinder? (level 3)
+A.	To damp the door opening and closing
+B.	To assist in opening and closing the door to do it
+@@C.	To damp door movement during opening and closing sequences and the damper and emergency operation cylinder forms an emergency actuator that assists and improves the opening speed of the door
+
+The center sections of aircrafts A319 A320 A321 are: (level 2)
+@@A. the same in length
+B. the same
+C. The center section of aircraft A321 is longer than of A320
+
+2. The structure is of pax door is conventional design, composed of: (level 2)
+@@A. an outer skin, frame segments and beams
+B. an outer skin, frame segments and stringers
+C. inner skin, frame segments and beams
+
+The loads resulting from cabin pressure on pax door are transferred by: (level 3)
+@@A. stop fittings (qty7) located on each side of the door and the frame.
+B. stop fittings (qty7) located on top and bottom of the door and the frame
+C. hinge connecting the door and the frame
+
+The loads resulting from cabin pressure on bulk cargo door are transferred by: (level 3)
+@@A. stop fittings (qty5) located on each side of the door and the frame.
+B. stop fittings (qty5) located on top and bottom of the door and the frame
+C. hinges connecting the door and the frame
+
+The APU access doors are made from: (level 2)
+A. Aluminum alloy
+@@B. Titanium alloy
+C. Stainless steel
+
+The A319/A320 overwing exit is pressure tight by its seal; (level 3)
+A. the seal installed on exit frame
+@@B. the seal installed on exit and the seal lip is always in contact with exit frame
+C. the seal installed on exit and pressurized by cabin air during flight
+
+Red flashing light on the cabin door if:(Level 3)
+The girt bar has failed to engage into the floor fittings
+The slide system is armed avoid the interior locking handle is partly lifted
+@@Both engine shut down, door disarmed, the cabin pressure is greater than 2,5 mb
+
+IF emergency exit door of A320 aircraft is opened from the outside and the slide system is armed? (Level 3)
+The locking mechanism is blocked
+@@The escape slide will deploy.
+The slide system is disarmed
+
+Cargo doors hydraulic system is pressurized by:(Level 3)
+Green electric pump
+Blue electric pump
+@@Yellow electric pump
+
+A320 Emergency exit hatch:(Level 3)
+Can be opened from outside or/and inside and the door fall outside of aircraft
+@@Can be opened from outside or/and inside and the door fall into the cabin.
+Can be opened from inside and the door fall into the cabin
+
+BULK Cargo is opened:(Level 3)
+Outward and upward.
+@@Inward and upward.
+Inward and downward.

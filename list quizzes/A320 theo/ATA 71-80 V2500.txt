@@ -1,0 +1,524 @@
+The thrust setting parameter is: (level 2)
+Engine Pressure Ratio in normal mode
+N1 in back up mode
+@@EPR in normal mode, N1 in degraded mode.
+
+The thrust reverser actuators are synchronized: (level 2)
+Hydraulically
+Electrically
+@@By flexible shafts
+
+The active clearance control (ACC) system ensures: (level 2)
+@@Better turbines efficiency
+Better turbine`s blades cooling
+Better turbine`s vanes cooling
+
+Which engine parameters are displayed on the upper ECAM? (level 2)
+EPR, N1, N2
+EPR, N1, N2, oil pressure, oil temperature
+@@EPR, N1, N2, EGT
+
+Where is the master chip detector located: (level 2)
+In the No. 4 bearing compartment scavange line
+@@In the combined oil scavange return line
+In the forward bearing compartment scavange line
+
+The HPC consists of: (level 2)
+Twelve stages,  numbering from 1
+@@Ten stages,  numbering from 3
+Twelve stages,  numbering from 3
+
+The FADEC system consists of: (level 2)
+A single EEC with its peripherals for both engines
+@@A single EEC with its peripherals per engine
+One main frame computer for all engines
+
+The function of the deactivation lever located on the HCU is to: (level 2)
+Deenergize the isolation valve solenoid
+@@Isolate hydraulic supply
+Energize the isolation valve solenoid
+
+The aerodynamic station # 3 is located at the: (level 2)
+LP compressor exit
+@@HP compressor exit
+HP turbine inlet
+
+Where does the TH/R hydraulic SOV locate? (level 2)
+At downstream of HCU
+In the HCU
+@@At upstream of HCU
+
+The ignition system uses: (level 2)
+28 VDC from aircraft
+@@115 VAC from aircraft
+115 VAC from dedicated alternator
+
+For calculating vibrations,  the EVMU receives signals from: (level 2)
+@@The 2 engine accelerometers (1 per engine) and the N1 and N2 of each engine
+the 2 engine accelerometers (1 per engine) and the N1 of each engine
+the 2 engine accelerometers (1 per engine) and the N2 of each engine
+
+In which conditions the engine oil passes through ACOC: (level 2)
+@@Always
+It depends on oil temperature logic computed in EEC
+It depends on fuel temperature logic computed in EEC
+
+The EEC controls the HMS via: (level 2)
+FCOC,  ACOC valve and FD&RV
+IDG FCOC and FD&RV
+@@ACOC valve and FD&RV
+
+Which statement below is correct? (level 2)
+The starter accelerates the spool N2 through geaboxes whenever starter valve opens and air is supplied
+The starter accelerates the spool N1 through geaboxes whenever starter valve opens and air is supplied
+@@The starter is disengaged from the gearbox when engine is running
+
+Which statement below is correct? (level 3)
+The 4 handling bleed valves are actuated by servo fuel.
+@@The 4 handling bleed valves have no feed-back position to EEC.
+The 4 handling bleed valves are controlled by EIU.
+
+“V2530-A5” means: (level 3)
+engine is rated at max thrust of 25300 lbs to install in the Airbus A/
+@@engine is rated at max thrust of 30000 lbs to install in the Airbus A/
+engine is rated at max thrust of 25000 lbs to install in the Airbus A/
+
+How many blades in one engine fan set; (level 1)
+@@22
+24
+36
+
+Which bearings is the HP rotor supported by: (level 1)
+#2, #4
+@@# 3, #4
+#1, #2, #5
+
+Which bearings is the LP rotor supported by: (level 1)
+#2, #4
+# 3, #4
+@@#1, #2, #5
+
+Aerodynamic station 4.9 means: (level 1)
+at the combustion section exit
+@@at LPT exit
+at HPT exit
+
+Aerodynamic station 2.5 means: (level 1)
+@@LPC exit
+Fan Outlet guide vanes exit
+LPT exit
+
+What is the engine pressure ratio (EPR): (level 1)
+p4/p2
+p4.5/p2
+@@p4.9/p2
+
+How is the HP fuel system protected against excessive pressure: (level 1)
+@@by a relief valve venting excess pump delivery pressure to the pump inlet
+by a relief valve in the FMU venting excess pressure to the diverter valve
+by a by pass valve opening in the LP filter
+
+How many modes does the HMS (Heat Management System) have: (level 1)
+3 modes
+@@4 modes
+5 modes
+
+Choose the most correct statement: (level 1)
+@@the purpose of the HMS is to maintain engine fuel temperature, engine oil temperature and IDG oil temperature within limits
+the purpose of the HMS is to maintain engine fuel temperature and engine oil temperature within limits
+the purpose of the HMS is to maintain engine oil temperature and IDG oil temperature within limits
+
+Choose the correct statement: (level 1)
+the ACOC valve regulates the engine oil flowing through the ACOC
+@@the ACOC valve regulates the flow of fan air crossing the ACOC
+the ACOC valve regulates the flow of ram air crossing the ACOC
+
+Is the fuel diverter valve a modulating valve: (level 1)
+@@no
+yes
+sometimes
+
+Is the fuel to tank flow modulating: (level 1)
+no
+@@yes
+sometimes
+
+When does the dedicated generator (PMA) supply the EEC: (level 1)
+when N1>10%
+@@when N2>10%
+only if the A/C electrical power fails
+
+What happens in case of failure of the EIU: (level 2)
+the engine shuts down
+the engine goes to flight idle mode
+@@the engine cannot be restarted
+
+How does the engine starter operate: (level 2)
+electrically
+@@pneumatically
+hydraulically
+
+In which case can the EEC abort the start: (level 1)
+automatic start and manual start
+@@automatic start only
+manual start only
+
+What causes an automatic continuous relight selection (level 1)
+IGN/START selected
+@@flame out detected
+EEC failure
+
+How many bleed valves are there to control the HPC airflow: (level 1)
+three 10th stage valves and one 7th stage valve
+@@three 7th stage valves and one 10th stage valve
+one 10th stage valves and one 7th stage valve
+
+Where is the air taken from to cool #4 bearing compartment: (level 1)
+the 7th stage of HPC
+the 10th stage of HPC
+@@the 12th stage of HPC
+
+Where are the engine primary parameters permanently displayed: (level 1)
+@@on the ECAM upper display
+on the ECAM lower display
+on both ECAM displays
+
+Where are the engine secondary parameters displayed: (level 1)
+on the ECAM upper display
+@@on the ECAM lower display
+on both ECAM displays
+
+Where is the T/R Hydraulic Isolation Valve located: (level 1)
+@@in the Hydraulic Control Unit
+on the upper actuator
+on the lower actuator
+
+Where is the T/R Directional Control Valve located: (level 1)
+@@in the Hydraulic Control Unit(HCU)
+on the upper actuator
+in the hydraulic supply between the HCU and the upper actuators
+
+What senses movement of T/R translating sleeves: (level 1)
+the proximity switches on the locking actuators
+@@the LVDT’s(Linear Variable Differential Transducers) on upper actuators.
+the LVDT’s on lower actuators.
+
+Has the pressure filter a bypass valve fitted in the oil system? (level 2)
+Yes
+@@No
+It depends on V2500 models.
+
+What is the purpose of an auto re-stow system if available? (level 1)
+@@To prevent uncommanded deploy operation
+To prevent uncommanded stow operation.
+To stow the thrust reverser when the thrust control lever at idle reverse position.
+
+Approximately at what speed does the starter air valve (SAV) close during a start sequence? (level 1)
+30% N2
+@@43% N2
+50% N2
+
+What senses movement of the T/R translating sleeve? (level 3)
+@@The LVDT’s on the upper actuators.
+The proximity switches on the locking actuators.
+The LVDT’s on the lower actuators.
+
+Where is the servo fuel for the fuel operated actuators supplied from? (level 2)
+HMU
+@@FMU
+HP pump
+
+How many igniter plugs and exciter boxes are fitted in the combustion system? (level 2)
+2 igniter plugs, 1 exciter box
+@@2 igniter plugs, 2 exciter boxes
+1 igniter plugs, 1 exciter box
+
+Which area of the inlet cowl has ice protection? (level 3)
+@@The inlet cowl lip or “D” section
+There is no ice protection thanks to aerodynamic design of the engine.
+The inner barrel of inlet cowl
+
+In case of P2/T2 probe heating failure during engine operation, the affected engine will operate in: (level 3)
+@@N1 unrated mode
+N1 rated mode.
+Minimum idle mode.
+
+What is true regarding to the No4 bearing compartment scavenge valve? (level 3)
+The EEC monitors its position.
+@@It is pneumatically operated.
+It is modulating valve.
+
+If EIU fails during the engine operation: (level 3)
+The FADEC increases the power setting.
+The dedicated alternator supplies power to FADEC.
+@@The ignition system is energized.
+
+When the engine is operated in thrust reverse mode: (level 3)
+The engine is controlled in EPR mode.
+@@The engine is controlled in N1 mode.
+The engine is controlled normally: in EPR mode and in the case of failure: in N1 mode.
+
+The Engine V2533-A5 can be understood that: (level 3)
+@@This engine is used on Airbus A/C with maximum thrust 33000lbs.
+This engine is used on McDonnell Douglas A/C with maximum thrust 33000lbs.
+This engine is used on Airbus A/C with maximum thrust 25000lbs.
+
+How is the thrust rating defined on the V2500? (level 3)
+By FADEC control.
+By a cockpit selection.
+@@By an engine data programming plug.
+
+For V2500, how many fan blades are there? (level 2)
+@@Twenty two (22)
+Twenty four (24)
+Twenty six (26)
+
+An oil tank access door is provided for servicing: (level 3)
+On the right side fan cowl door.
+@@On the left side fan cowl door.
+On the left side thrust reverser "C" duct door.
+
+A starter valve access panel is provided for manual operation: (level 3)
+@@On the right side fan cowl door.
+On the left side fan cowl door.
+On the right side thrust reverser "C" duct door.
+
+How to open the thrust reverser "C" duct doors(level 3)
+by manual using manpower.
+@@by an hydraulic actuator using a manual hand pump.
+by an hydraulic actuator using a engine hydraulic pump.
+
+How to open the fan cowl doors(level 3)
+@@by manual using manpower.
+by an hydraulic actuator using a manual hand pump.
+by an hydraulic actuator using a engine hydraulic pump.
+
+For V2500, how is the accessory gearbox driven? (level 3)
+By the HP rotor.
+@@By the HP rotor via the Angle gearbox.
+By the LP rotor via the transfer gearbox.
+
+For V2500, what bearings support the HP rotor? (level 3)
+Nº3 (dual bearing) and Nº4.
+Nº1, Nº2 and Nº5.
+@@Nº3 and Nº4 bearing.
+
+The fluids collected from the V2500 power plant are discharged overboard through: (level 3)
+the drain located at the rear part of pylon.
+the engine drains at the bottom of the engine.
+@@the pylon drains and the engine drains.
+
+For V2500, which fluids can be discharged through the drain? (level 3)
+@@Water, oil, hydraulic and fuel.
+Water, hydraulic and fuel.
+Hydraulic and fuel.
+
+The V2500-A5 engine is made of following modules: (level 3)
+@@Fan, intermediate case, High Pressure (HP) system, Low Pressure (LP) turbine, accessory drives.
+Fan and LP compressor, HP compressor, combustion chamber and HP turbine, LP turbine and turbine rear frame, Transfer and accessory gearboxes.
+Fan, intermediate case, High Pressure (HP) system, Low Pressure (LP) turbine, Transfer and accessory gearboxes.
+
+The V2500 HP (N2) rotor is made of: (level 3)
+12-stage compressor driven by a 4 stage turbine.
+9-stage compressor driven by a single stage turbine.
+@@10-stage HP compressor driven by a 2-stage HP turbine.
+
+The V2500 LP rotor (N1) is made of: (level 3)
+@@the fan and the booster compressor driven by the five stage LP turbine.
+Four stage compressor driven by a two stage turbine.
+fan and a four-stage compressor driven by a four stage turbine.
+
+The compressor stage Nº12 is: (level 3)
+The 12th stage of the HP compressor.
+@@The 10th stage of the HP compressor.
+The 7th stage of the HP compressor.
+
+The Engine vibration indications are displayed: (level 3)
+On the ENGINE/WARNING DISPLAY.
+On the ENGINE page.
+@@On the ENGINE page and the CRUISE page.
+
+The FADEC system includes the: (level 3)
+Engine Electronic Controller (EEC) and the Engine Interface Unit (EIU).
+EIU and the engine controls.
+@@EEC and the peripheral sensors and components on the engine.
+
+The V2500 FADEC system is self-powered by (level 3)
+@@a dedicated Permanent Magnet Alternator (PMA) when N2 is greater than 10%.
+a dedicated permanent magnet alternator when N2 is greater than 12%,
+the aircraft for starting, and for testing with engine running.
+
+The engine Full Authority Digital Engine Control (FADEC) provides (level 3)
+engine control and engine monitoring.
+engine control and trouble shooting.
+@@engine control, engine monitoring and help for maintenance and trouble shooting.
+
+HP/LP turbine blade tip clearance is achieved by: (level 3)
+Directing booster bleed air onto the turbine case.
+Directing 7th stage air into the LP turbine blades.
+@@Directing fan air onto the turbine case.
+
+During manual start, the starter air valve (SAV) is closed: (level 3)
+@@Automatically by EEC
+Manually by selecting “ENG MAN” pushbutton to OFF
+Manually by selecting “ENG MASTER” switch to OFF
+
+The ignition is inhibited during(level 2)
+Dry cranking
+Wet cranking
+@@All of above
+
+Engine oil parameters are monitored in the(level 2)
+Supply circuit
+@@Scavenge circuit
+Vent circuit
+
+What is the cooled HP 12th stage air used for? (level 1)
+@@Cooling and pressurization of the center bearing compartment (No 4 bearing)
+Cooling the combustion chamber.
+Internal cooling of HPT vanes and disks.
+
+The high pressure compressor airflow is controlled by the variable stator vanes (VSVs) and: (level 3)
+Two bleed valves.
+Three bleed valves.
+@@Four bleed valves.
+
+EEC get N2 signal from (level 3)
+N2 sensor fitted on the rear of the main gearbox
+N2 sensor fitted on the rear of the angle gearbox
+@@Converting frequency of one of the windings of the PMA
+
+During thrust reverser operation, EEC controls thrust (level 3)
+As a function of EPR
+@@As a function of N1
+As a function of N2
+
+EEC control thrust of the engine through (level 3)
+N1 as primary, EPR as back-up
+@@EPR as primary, N1 as back-up
+Only EPR
+
+Engine oil is cooled by (level 2)
+@@FCOC as primary, ACOC as secondary
+ACOC as primary, FCOC as secondary
+FCOC as primary, ACAC as secondary
+
+The engine thrust indicated on ECAM via EPR. What is the engine pressure ratio (EPR)? (Level 2)
+The ratio of P2 – P3.
+@@The ratio of P4.9 – P2.
+The ratio of P4.9 – P3.
+
+The airflow control system is a combination of which sub-SYSTEMS? (Level 2)
+Stage 7 and 10 Bleed valves and aircraft service bleed.
+@@BSBV, HPC VSV and stage 7 & 10 Bleed valves.
+HPC VSV, BSBV and stages 5 & 8 bleed valves.
+
+Engine naccelled temperature sensor is? (Level 3)
+In the pylon area.
+In the fan area.
+@@In the core area.
+
+If starter air valve solenoid is INOPERATIVE? (Level 3)
+You can not start the engine.
+You can still start the engine using manual start sequence.
+@@You can only start engine by operating the SAV manually.
+
+How many vibration sensors are installed on each engine? (Level 3)
+Two, one in bearing N0 1 compartment, one on the Turbine Rear Frame.
+@@One dual sensor on the intermediate case.
+One sensor on the fan case
+
+What is (are) the indications in case of metallic parts in the common scavenge oil pipe? (Level 2)
+Only a popped clogging indication on the electrical chip detector indicator.
+An ECAM warning and a popped clogging indication on the electrical chip detector indicator.
+@@There is no indication.
+
+BSBV Acuator operates by: (Level 1)
+Electrical power.
+@@Servo fuel from FMU.
+Pneumatic power.
+
+P3 is pressure of the air come from? (Level 1)
+Inlet of HP Compressor.
+@@Inlet of Combustion chamber.
+Inlet of HP Turbine.
+
+What controls the adequate cooling of the engine and IDG oils? (Level 1)
+The Fuel Cooled Oil Cooler.
+The IDG oil cooler.
+@@The Fuel Diverter and Return Valve
+
+THE FANCOWL DOOR IS HELD IN POSITION BY: (Level 1)
+One hold open rod
+One hydraulic  actuator
+@@Two hold open rods
+
+DURING ENGINE START IN MANUAL MODE, IGNITION SYSTEMS A AND B ARE SHOWN ON ECAM: (Level 3)
+It means that either system A or B has failed
+B.    It means that both systems A and B failed
+@@C.   This is normal. A and B are selected in manual start
+
+HOW DOES THE STARTER OPERATE ? (Level 1)
+Hydraulically
+B.  Electrically
+@@C.  Pneumatically
+
+THE AERODYNAMIC STATION No. 4 IS LOCATED AT THE : (Level 2)
+LP compressor  exit
+@@B.  HP compressor exit
+C.  Combustion section exit
+
+WHICH STATEMENT IS CORRECT ? (Level 2)
+The starter  accelerates N1 spool through the gearbox
+@@B.  The starter accelerates  N2 spool through  the gearbox
+C.  The starter  accelerates N1 and N2 spool through the gearbox
+
+What does the Heat Management System heat and cool? (Level 2)
+@@Fuel, engine oil and IDG oil
+Engine oil and IDG oil.
+Only engine oil
+
+The ACOC: (Level 2)
+Uses RAM air to remove heat from the engine oil
+@@Uses FAN air for additional cooling the engine oil
+Cools the engine oil downstream of the FCOC
+
+The thrust setting parameter is : (Level 2)
+Engine Pressure Ratio in normal mode
+B.   N1 in back up mode
+@@C.   Both A an B
+
+What is the logic of the reverse operation? (Level 3)
+TLA position and aircraft on ground only.
+TLA position, aircraft on ground and Reverse indication green.
+@@TLA position, aircraft on ground, engine running (N2 condition) and both SECs and EIU signals
+
+The thrust controlled during thrust reverser operation is: (Level 3)
+As function of EPR
+@@As function of N1
+As function of N2
+
+When the throttle lever is between two detents , the thrust rating limit corresponds to : (Level 2)
+Upper  detent position
+Lower  detent position
+@@Actual throttle lever position
+
+Features of V2530-A5 engine are: (Level 2)
+@@Two spools, axial flow, annular combustor and mixed exhaust.
+Two spools, radial flow, annular combustor and mixed exhaust.
+Two spools, axial flow, annular combustor and separated exhaust.
+
+Where is electrical power for P2/T2 probe heating comes from? (Level 2)
+From EEC.
+From EIU.
+@@From A/C.
+
+Which engine parameters are displayed on the ECAM upper display? (Level 2)
+EPR, N1 & N2.
+N1, N2, EPR, oil pressure, oil temperature.
+@@N1, N2, EPR & EGT
+
+What does the ACOC valve regulate? (Level 3)
+The engine oil flowing through the ACOC.
+@@The flow of fan air crossing the ACOC.
+The flow of ram air crossing the ACOC.

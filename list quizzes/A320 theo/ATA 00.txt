@@ -1,0 +1,259 @@
+The A318, A319, A320 and A321 (A320 family) are:
+@@Single Aisle, twin-engine subsonic medium range aircraft.
+Single Aisle, twin-engine subsonic short range aircraft.
+Double Aisle, four-engine subsonic long range aircraft.
+
+Amber colour is used:
+@@For failure needing awareness but no need immediate action,
+For failure needing awareness and immediate action,
+To indicate normal operation of system.
+
+How many main zone of the aircraft:
+Six.
+Seven.
+@@Eight.
+
+Zone number 100 -199 are located:
+@@Lower half fuselage.
+Upper half fuselage.
+Landing gear.
+
+Station 0 is located:
+200 inch from nose of aircraft,
+150 inch from nose of aircraft,
+@@100 inch from nose of aircraft.
+
+What you must NOT do:
+lift the aircraft at the forward jacking point only, with the wheels of the main landing gear on the ground
+use the safety stay as soon as the lift operation is finished
+@@use the safety stay to lift the aircraft
+
+What is the correct sequence?
+@@install the tow lever safety pin then install the tow bar on the tow fitting
+install the tow bar on the tow fitting then install the tow lever safety pin
+there is no specific sequence
+
+Where is access panel 540 BB located?
+@@On LH wing lower surface
+On RH wing lower surface
+On LH wing upper surface
+
+Sub-zone for LH side of Horizontal Stabilizer is identified by:
+@@330
+530
+630
+
+What is station number?
+The station number is the distance in centimeters of a cross-section from the Forward bulkhead.
+@@The station number is the distance in centimeters of a cross-section from a reference point.
+The station number is the distance in inch of a cross-section from a reference point.
+
+The reference (station 0) for all structural measurements for the X axis is set at:
+200 in (508 cm) forward of the A/C nose,
+@@100 in (254 cm) forward of the A/C nose,
+100 in (254 cm) after of the A/C nose,
+
+Which numbers are identified for the LH wing zones?
+@@The 500 numbers,
+The 600 numbers,
+The 700 numbers.
+
+Where is access panel 540 BB located?
+@@On LH wing lower surface
+On RH wing lower surface
+On LH wing upper surface
+
+In towing configurations the safety pin locks the control lever on the interphone box in:
+@@Disengaged position.
+Engaged position.
+Normal position.
+
+Access doors and panels are identified by:
+@@The number of the zone in which the panel is located followed by a two-letter suffix.
+The number of the zone in which the panel is located followed by one letter suffix.
+a two-letter followed by the number of the zone in which the panel is located suffix.
+
+The maximum permitted steering-angle on each side of the aircraft centerline is
+@@95 degrees.
+75 degrees.
+74 degrees.
+
+Communication system(s) to be used during towing is (are)?
+@@VHF and FLT INT.
+VHF or HF with FLT INT.
+VHF only.
+
+What indication on ECAM do you have to check prior to start towing?
+@@N WHEEL STEERG DISC
+N WHEEL STEERG INOP
+N WHEEL STEERG OFF
+
+In the AMM tasks, “WARNING” is meant:
+@@Calls attention to use of materials, processes, methods, procedures or limits which must be followed precisely to avoid injury of death to persons
+Calls attention to methods and procedures which be followed to avoid damage to equipment
+Calls attention to methods which make the job easier or provide supplementary or explanatory information
+
+Minimum separation from the nose wheels and the tractor while towing the aircraft is:
+2 m
+@@3 m.
+4 m.
+
+The aircraft frame 24 station is 950, it means:
+@@The  frame 24 distance to the reference point is 950 cm
+The  frame 24 distance to the reference point is 950 inch
+The  frame 24 distance to the aircraft nose is 950 cm
+
+Zone 713 location at
+The tail area
+The cargo compartment area
+@@The landing gear area
+
+Application of flight configuration precaution is required when
+@@Lifting the aircraft on jacks
+Jacking a MLG for wheels change
+Lifting the aircraft at Forward Jacking Point, MLG Wheels on the Ground
+
+You can weigh the aircraft with
+The aircraft on jacks only
+The aircraft on its wheels only
+@@The aircraft on jacks or the aircraft on its wheels or the aircraft on landing gear jacks
+
+When the NLG dimension H is more than 300 mm
+@@Do not tow the aircraft to prevent damage to the centering cams
+Do not tow the aircraft to prevent tail to ground contact
+Smooth and speed limited towing is possible
+
+Safety requirements for aircraft refueling and defueling are
+Operate the cell phones or mobile phones inside distances for 6m from aircraft is allowed
+Perform the operation test of the beacon or strobe light system
+@@Do not operate the weather radar or HF system
+
+When you do the refueling and/or defueling in the hangar
+The hangar doors must be closed until you have completed the refuel/defuel procedure
+@@The hangar doors must not be closed until you have completed the refuel/defuel procedure
+There is no requirement for hangar door
+
+The X axis in the:
+@@Longitudinal direction of the fuselage,
+Direction of the wing span,
+Vertical direction.
+
+The Y axis in the:
+Vertical direction,
+Longitudinal direction of the fuselage,
+@@Direction of the wing span.
+
+The Z axis in the:
+Longitudinal direction of the fuselage,
+@@Vertical direction,
+Direction of the wing span.
+
+When you set the BAT 1&2 P/BSW to AUTO position:
+@@The right hand dome light is on,
+The left hand dome light is on,
+Both dome lights are on.
+
+When you perform the pedestal panel check list. On the center pedestal, verify that the speed brake handle is in the:
+Extend/disarm position,
+@@Retract/disarm position,
+Retract/arm position.
+
+When you perform the overhead panel checklist and a/c power supply. The voltage should be about 25 volts with:
+The BAT 1&2 P/BSWs in ON position,
+The BAT 1&2 P/BSWs in AUTO position,
+@@The BAT 1&2 P/BSWs in OFF position.
+
+Each area is identified by:
+@@The major zones, the sub-zones, the zones.
+The zones and sub-zones.
+The major zones and the zones
+
+ST9500/FR24 is located:
+9500 cm from the reference point
+@@9500 mm from the reference point
+9500 mm from the aircraft nose
+
+How does the flight crew manually fly the aircraft?
+by control columns
+by side sticks mounted on the center pedestal
+@@by side sticks mounted on the side consoles
+
+Where safety instructions can be found?
+in SRM(Structure Repair Manual)
+@@in AMM(Aircraft maintenance Manual)
+in ASM(Aircraft schematic manual)
+
+Zone number 700 -799 are located:
+Lower half fuselage,
+Upper half fuselage,
+@@Landing gear.
+
+Engine install on the VNA CEO A321 A/C is:
+@@V2500
+CFM 56
+PW 4000
+
+What is Safety precautions must be taken to avoid danger from engine suction and exhaust areas?
+@@Access to the engine is only allowed through the entry corridor. Entry corridor must be closed for wind direction greater than 90o. There is no safe access corridor when the engine is running above minimum idle.
+Access to the engine is allowed entry in front of engine when engine is runing above minimum idle.
+Access to the engine is allowed entry behide of engine when engine is runing above minimum idle.
+
+Where can you check Attitude (ATT) of the A/C?
+ATT monitor
+MCDU
+@@MCDU or ATT monitor
+
+The GENERAL TAIL PLANE section base number is
+10
+20
+@@30
+
+for ZONE NUMBER, the EVEN numbers identify the ones on
+@@the RH side of the A/C
+the LH side of the A/C
+the upper fuselage of the A/C
+
+Which jacking point use to lift the aircraft?
+Nose l/g jacking point and main landing gears jacking point and safety stay
+@@Nose l/g jacking point and main landing gears jacking point
+Safety stay only
+
+Towing can be carried out using:
+@@Towbar or towbarless tractor at NLG
+Towbar or towbarless tractor at MLG
+Towbar at NLG only.
+
+A 320/321 are the aircrafts with:
+rod flight controls
+cable flight controls
+@@flight–by–wire flight controls
+
+For the horizontal stabilizer the reference station 0 is at the horizontal Y axis and at:
+the horizontal stabilizer tip
+@@the horizontal stabilizer root
+the middle horizontal stabilizer
+
+If an ENGINE is running
+You can tow the aircraft from the front only.
+You can push the aircraft only.
+@@Either tow or push is possible.
+
+The maximum SAFETY PRESSURE for refueling is:
+45psi
+@@50psi
+60psi
+
+The fuselage section base number is: (level 1)
+@@10
+20
+30
+
+There is no safe access to the engine through the entry corridor when: (level 1)
+Engine is running up to minimum idle
+@@Engine is running above minimum idle
+Engine is running at any power setting
+
+If the aircraft does not point into the wind and wind speed or gusts more than 50 Kts, moor the aircraft at: (level 1)
+MLG
+NLG
+@@MLG and NLG

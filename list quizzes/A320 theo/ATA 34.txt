@@ -1,0 +1,984 @@
+THE ADIRS IS AN INTEGRATED (level 1)
+Air Data System and a Radio Reference System
+@@Air Data System and an Inertial Reference System
+Inertial Reference System and a Radio Reference System
+
+THE AIR DATA REFERENCE MAINLY COMPUTES (level 1)
+@@Speed and altitude information from air parameters.
+Speed and attitude information from air parameters
+Speed and pressure information from air parameters
+
+THE INERTIAL REFERENCE MAINLY COMPUTES (level 1)
+Heading, altitude and position from gyros and accelerometers.
+@@Heading, attitude and position from gyros and accelerometers.
+Heading, attitude and track from gyros and accelerometers.
+
+THE STANDBY INSTRUMENTS CONSISTS OF (level 1)
+Altimeter and Airspeed indicators, Standby Compass and clock.
+@@Altimeter and Airspeed indicators, Standby Compass and Standby Horizon.
+Altimeter and Airspeed indicators, Standby Compass and Head-Up Display
+
+THE INSTRUMENT LANDING SYSTEM (ILS) IS USE TO  (level 1)
+@@Obtain the optimum aircraft position during an approach and landing phase.
+Obtain the optimum aircraft heading during an approach and landing phase.
+Obtain the optimum aircraft track during an approach and landing phase.
+
+THE MARKER (MKR) SYSTEM IS USED TO  (level 1)
+@@Indicate the distance to the runway threshold during an ILS descent.
+Indicate the time to the runway threshold during an ILS descent.
+Indicate the height above runway during an ILS descent.
+
+THE ILS FREQUENCY CONTROL IS ACHIEVED  (level 2)
+@@Either automatically or manually (through the MCDU) by the Flight Management and Guidance Computers (FMGCs) or for back up through the Radio Management Panels (RMPs).
+Either automatically through the MCDU or manually through the Radio Management Panels (RMPs).
+Either automatically through the MCDU or manually through the Radio Management Panels (RMPs) or for back up by FMGCs
+
+THE INDEPENDENT POSITION DETERMINING SYSTEMS ARE A PART OF THE NAVIGATION SYSTEMS WHICH PROVIDES (level 2)
+@@Information regarding the safety of the aircraft without taking reference from any ground station
+Information regarding the safety of the aircraft without taking reference from any other A/C system
+Information regarding the safety of the aircraft without taking reference from satellite
+
+WHAT DOES THE WEATHER RADAR (WR) SYSTEM DETECT? (level 2)
+@@The position and intensity of precipitations which are shown on the Navigation Displays (ND’s)
+The position and intensity of precipitations which are shown on the Primary Flight Displays (PFD’s)
+The direction and intensity of precipitations which are shown on the Navigation Displays (ND’s)
+
+WHAT DOES THE RADIO ALTIMETER (RSYSTEM GIVE?  (level 2)
+The aircraft height above the Sea level, independently of the atmospheric pressure.
+The aircraft height above the runway elevation, independently of the atmospheric pressure.
+@@The aircraft height above the ground, independently of the atmospheric pressure.
+
+WHAT DOES THE DISTANCE MEASURING EQUIPMENT (DME) SYSTEM GIVE?  (level 1)
+the aircraft slant distance to other aircraft
+@@the aircraft slant distance to a ground station
+the aircraft horizontal distance to a ground station
+
+WHAT IS THE PURPOSE OF THE AIR TRAFFIC CONTROL SYSTEM (ATC)? (level 2)
+@@To enable a ground operator to identify and track the aircraft without having to communicate with the flight crew.
+To enable a ground operator to identify and track the aircraft with having to communicate with the flight crew.
+To enable a ground operator to control the aircraft without having to communicate with the flight crew.
+
+WHAT DOES THE AUTOMATIC DIRECTION FINDER (ADF) SYSTEM PROVIDE? (level 2)
+@@The azimuth of a Non Directional Beacon (ND with respect to the aircraft center line.
+The azimuth of a Non Directional Beacon (ND with respect to the magnetic North.
+The azimuth of a Non Directional Beacon (ND with respect to the true North.
+
+WHAT DOES THE VHF OMNI RANGE (VOR) SYSTEM GIVE? (level 2)
+The aircraft angular deviation related to a pre-selected runway
+The bearing of a ground VOR Station with respect to the true North
+@@The bearing of a ground VOR Station with respect to the magnetic North
+
+WHICH UNIT IS MARKER BEACON PHYSICALLY INTEGRATED IN? (level 2)
+ILS receiver.
+@@VOR receiver.
+MMR
+
+THE ISIS IS INTEGRATED OF: (level 1)
+Standby AIS Indicator
+Standby Altimeter.
+Standby Horizon indicator.
+
+A SUPPRESSOR SIGNAL IS TRANSMITTED, VIA A COAXIAL, BY THE OPERATING SYSTEM TO INHIBIT THE OTHER SYSTEMS AND TO PREVENT SIMULTANEOUS TRANSMISSION. IS CONNECTED BETWEEN: (level 2)
+@@TCAS, ATC and DME
+TCAS, ATC, and ILS
+TCAS and ILS only
+
+WHICH IS STATEMENT INCORRECT: on the GPWS control panel, when pressed in: (level 2)
+the TERR P/BSW with the white OFF legend, inhibits the Terrain Awareness Display (TAD) and the Terrain Clearance Floor (TCF) modes.
+the SYStem P/BSW with the white OFF legend, inhibits all the GPWS warnings (mode 1 to 5).
+@@the SYStem P/BSW with the white OFF legend, inhibits all the EGPWS warnings (mode 1 to 5 and enhance function).
+
+WHAT IS THE ENHANCE FUNCTION OF EGPWS COMPARES WITH GPWS? (level 2)
+EGPWS uses an antenna to scan and detect the terrain.
+In auto flight mode, EGPWS can flight the aircraft over the terrain
+@@EGPWS can give terrain predictive detection and display on ND
+
+THE WINDSHEAR DETECTS (level 2)
+Rain and storm with lightning
+Strong wind and turbulence
+@@Sudden change of wind speed and/or direction
+
+TCAS INDICATION ON ND, THE MOST DANGEROUS INTRUDER IS PRESENTED BY:  (level 1)
+Red solid circle
+Red solid diamond
+@@Red square
+
+THE STAND BY COMPASS CAN BE USED AS BACK UP FOR (level 2)
+VOR
+@@ADIRU
+ADF
+
+THE ILS IS:	 (level 1)
+@@A system combined of LOC and G/S to give an optimum descent axis to the runway
+To calculate the A/C position using of satellites
+To give necessary warning/caution during A/C landing
+
+THE INSTRUMENT LANDING SYSTEM (ILS) AND THE MARKER (MKR) SYSTEM ARE BELONG TO: (level 1)
+Independent position determining group
+@@Landing and taxiing aids group
+Dependent position determining group
+
+WHAT IS THE PURPOSE OF THE GLOBAL POSITIONING SYSTEM (GPS)? (level 2)
+To determine the A/C heading based on signals received from satellites.
+@@To determine the A/C position based on signals received from satellites.
+To determine the A/C attitude based on signals received from satellites.
+
+WHEN DO YOU USE THE RMP FOR NAVIGATION FREQUENCY TUNING? (level 2)
+@@In case of dual FMGC failure
+In case of a FMGC failure
+When you tune the frequency for both ILS
+
+WHAT DOES THE TRAFFIC COLLISION AVOIDANCE SYSTEM (TCAS) DETECT?  (level 2)
+The aircraft at low altitude.
+The aircraft in the busy air traffic
+@@The aircraft in the immediate vicinity.
+
+WHAT IS PRINCIPLE OF STANDBY COMPASS? (level 2)
+It is driven by a Gyro
+It is driven by a Gyro and senses the Earth Magnetic Field
+@@It senses the Earth Magnetic Field
+
+CAN DME IDENTIFICATION SIGNALS BE SELECTED ON ACP? (level 2)
+No, there is no receiving knob for DME on ACP
+@@Yes, by using the knob of the collocated VOR or ILS.
+Yes, by using the knob of the collocated ADF
+
+THE RADIO ALTIMETER FUNCTION IS: (level 2)
+@@To calculate altitude with use of radio wave.
+To calculate altitude with use of static air pressure
+To show the A/C altitude on the Standby Altimeter
+
+WHICH STATEMENT IS CORRECT? (level 2)
+There are two VOR antennae, one is on the top of vertical stabilizer and the other is on the bottom of fuselage.
+There are two MKR antennae on the bottom of fuselage
+@@The GPS and ILS computers are combined in one box called MMR.
+
+The DME distance is shown on  (level 1)
+@@PFD, ND and DDRMI
+PFD and ND only
+DDRMI and ND only
+
+TCAS communicates with  (level 1)
+ATC of other A/C or TCAS of other aircraft
+@@ATC of other A/C only
+ATC of other A/C or ATC Ground Station
+
+ADF communicates with  (level 1)
+Ground ADF
+@@NDB
+Ground ATC
+
+A/C is below 1000ft with flap and LDG retract, there will be alert (level 1)
+Don’t sink
+Terrain below
+@@Too low terrain
+
+An amber message “CHECK ALT” displayed on both PFDs means  (level 1)
+@@An altitude discrepancy is detected between the captain air data source and the first officer air data source
+Too much altitude calculation error
+A/C is flying at too high or too low altitude
+
+AIDIRU 3 can supply information to (level 1)
+DMC 1 and DMC 2 only
+DMC 1 and DMC 3 only
+@@DMC 1, DMC 2 and DMC 3
+
+Can you transfer air data and IR independently? (level 1)
+@@Yes
+No
+A and B are not correct. It depends on condition.
+
+How do pitot and static probes supply the ADIRUs? (level 1)
+@@Using ADMs which convert pressure into digital format.
+Directly with total and static pressure
+Directly with digital format
+
+Which ADIRU does not supply DMC 1: (level 1)
+ADIRU 1
+@@ADIRU 2
+ADIRU 3
+
+In normal operation the ADIRUs are aligned using information from the: (level 1)
+ADIRUS CDU
+FCU
+@@FMGCs
+
+A water drain is fitted to: (level 1)
+The standby pitot line
+@@The standby static line
+Pitot and static lines
+
+Which TAT sensor provides information to ADIRS 3: (level 2)
+@@TAT 1
+TAT 2
+TAT 3
+
+Air Data Modules (ADM) supply pressure information to the ADIRUs from (level 1)
+@@All pitot probes and static ports
+All pitot probes and static ports except standby pitot probe and standby static port
+The pitot probes only
+
+What must be done in case of ADR 1 failure? (level 1)
+@@Set AIR DATA switch to CAPT 3 position
+Set ATT HDG switch to CAPT 3 position
+Nothing, the system will switch automatically to standby mode.
+
+With the loss of ADR 1, what would be lost on the Capt’s PFD? (level 2)
+PITCH and ROLL
+@@Airspeed and altitude information
+Airspeed and wind information
+
+IR part of ADIRS is based on computation of: (level 1)
+@@Three laser gyro and three accelerometers.
+Three laser gyro and one accelerometer.
+One laser gyro and one accelerometer.
+
+DME information can be displayed on: (level 2)
+@@PFD, ND and DDRMI
+DDRMI
+PFD and ND
+
+How can VOR/DME, ILS, ADF tune: (level 2)
+Automatically from FMGCs
+Manually via MCDUs and back-up via RMPs
+@@Both A and B
+
+Can TCAS determine distance to the intruder? (level 1)
+@@Yes
+No
+A and B are not correct. It depends on condition
+
+Weather radar can determine: (level 2)
+@@The range and bearing of turbulence area
+The range bearing and altitude of turbulence area
+The bearing and altitude of turbulence area
+
+RA1 fails below 2500 ft (level 1)
+A red RA flag appears on the Capt’s PFD
+@@The radio altitude displayed on the Capt’s PFD is provided by radio altimeter 2
+The radio altitude lost on the Capt’s PFD
+
+WHAT ARE SPECIAL PRECAUTION MUST BE TAKEN BEFORE USING WEATHER RADA SYSTEM ON GROUND (level 1)
+the dangerous zone forward of the aircraft must be free of metallic obstacles such as hangars or aircraft, within 15 m in an arc of + or - 90ºon either side of the aircraft centerline,
+@@make sure that nobody is within a distance of 1.5 m from the antenna, in an arc of + or - 135º on either side of the aircraft centerline,
+@@the system must not be operated during the refueling of the aircraft or during any refueling operation within 1000 m.
+
+WHAT IS "ENHANCED" FUNCTION OF THE EGPWS?(level 1)
+@@allow the terrain hazards to be displayed on the NDs.
+generate visual warnings through associated lights and synthetic warnings through the loudspeakers.
+allow the terrain hazards to be displayed on the PFDs.
+
+WHERE IS MAKER INDICATED? (level 1)
+@@On PFDs
+ON NDs
+On DDRMI
+
+THE ISIS IS INDICATE: (level 2)
+ATT, Heading, VOR
+Airspeed, ADF, DME
+@@Altitude, airspeed, ATT
+
+THE INSTRUMENT LANDING SYSTEM (ILS) IS INCLUDING:  (level 2)
+G/S (glide slope) and Heading function
+G/S and FD (flight director) function
+@@G/S and LOC (localizer) function
+
+THE ADIRU 3 RECEIVES THE TAT INFORMATION FROM: (level 2)
+@@TAT 1
+TAT 2
+TAT 2 in case of TAT 1 has failed.
+
+THE ATC1 RECEIVES BAROMETRIC INFORMATION FROM: (level 2)
+@@ADR1
+ADR 2 if ADR 1 has failed.
+ADMs.
+
+THE WINDSHEAR FUNCTION OF THE WEATHER RADAR TRANSCEIVER (WXR) ENABLE AUTOMATICALLY ACTIVATE WHEN:  (level 2)
+Two Qualifier A are valid
+One Qualifier B and one A qualifier are valid.
+@@One Qualifier B and one A qualifier are valid and A/C below 2300 ft RA.
+
+WHAT IS FUNCTION OF THE SUPPRESSOR COAXIAL BETWEEN THE ATC TRANSPONDER, THE TCAS AND DME INTERROGATORS? (level 2)
+@@To prevent simultaneous transmission and to interrupt reception of the other system.
+To transmit data to each other.
+To prevent tuning of the DME during TCAS in the RA (resolution advisory) mode.
+
+Which sensors are input of ADM (Air Data Module)? (Level 1)
+@@Pitot and Static port,
+Pitot and TAT (Total air temperature) sensor,
+Pitot , Static port, TAT (Total air temperature) sensor and AOA (Angle Of Attack) sensor,
+
+The sensor assembly of IR (Inertial Reference) part include: (Level 1)
+@@Gyros and accelerometers,
+TAT (Total air temperature) sensor and AOA (Angle Of Attack) sensor,
+Pitot and TAT (Total air temperature) sensor,
+
+Which pressure line required a water drain? (Level 1)
+Captain static port pressure lines,
+@@Standby static port pressure lines,
+Standby pitot probe pressure line.
+
+The PWS (Predicted Windshear System) is available in: (Level 1)
+WXR 1,
+WXR 2,
+@@Both WXR 1 and WXR 2.
+
+The GPS indication is displayed: (Level 1)
+On the MCDUs and on the NDs.
+@@On the MCDUs only,
+On the NDs only.
+
+What supplies the Standby Airspeed Indicator? (Level 1)
+@@The standby pitot probe and standby static ports
+The standby pitot probe only,
+The standby static ports only.
+
+The Integrated Standby Instrument System (ISIS) is a combined: (Level 1)
+@@Standby altimeter, horizon indicator and Air Speed Indicator (ASI),
+Standby altimeter, horizon indicator, standby compass and Air Speed Indicator (ASI),
+Standby altimeter, horizon indicator, Digital Distance Radio Magnetic Indicator (DDRMI) and Air Speed Indicator (ASI).
+
+In normal operation, RA 1 provides the radio height to the: (Level 1)
+CAPT PFD and CAPT ND through DMC 1,
+CAPT PFD and F/O PFD through DMC 1 & 2,
+@@CAPT PFD through the DMC 1.
+
+The Aircraft height data is displayed on the PFDs for heights: (Level 1)
+@@Less than or equal to 2500 ft,
+More than or equal to 2500 ft,
+Less than or equal to 2500 m,
+
+The WXR (Weather Radar) image is shown on: (Level 1)
+The CAPT PFD, CAPT ND, F/O PFD, F/O ND,
+@@The CAPT and F/O ND,
+The CAPT ND if system 1 is selected and F/O ND if system 2 is selected.
+
+What are the components of TCAS? (Level 1)
+@@Two TCAS antennas, one TCAS II computer and one TCAS/ATC control panel,
+Two TCAS antennas, one TCAS II computer, four ATC antennas, two ATC transponders and one TCAS/ATC control panel,
+Two TCAS antennas, one TCAS II computer and one TCAS control panel,
+
+The TCAS indications appear on the: (Level 1)
+PFD only,
+ND only,
+@@Both PFD and ND.
+
+The MKR (Marker) Function is active in: (Level 1)
+@@VOR 1 only,
+VOR 2 only,
+Both VOR 1 and VOR 2.
+
+The ADF data is sent to: (Level 1)
+The NDs and the DDRMI (Digital Distance and Radio Magnetic Indicator) directly,
+@@The NDs through the Display Management Computers (DMCs) and directly to the DDRMI (Digital Distance and Radio Magnetic Indicator),
+The PFDs through the Display Management Computers (DMCs) and directly to the DDRMI (Digital Distance and Radio Magnetic Indicator),
+
+Which mode of the ATC transponder responds to interrogation from aircraft equipped with a Traffic Alert and Collision Avoidance System (TCAS)? (Level 1)
+The ATC Mode A,
+The ATC Mode C,
+@@The ATC Mode S.
+
+What does ILS provide the pilot (LEVEL 2)
+vertical landing plane for the vertical guidance and a horizontal landing plane for the lateral guidance.
+@@vertical landing plane for the lateral guidance and a horizontal landing plane for the vertical guidance
+vertical landing plane and a horizontal landing plane for the vertical guidance
+
+What properties of electrical signal is used to determine deviation in ILS (LEVEL 2)
+@@difference in depth of modulation (ddm)
+phase difference
+frequency difference
+
+Which frequency is select to select a ILS (LEVEL 2)
+GS frequency (LOC is tuned automatically because there is a fixed linkage between LOC and GS frequency)
+@@LOC frequency (GS is tuned automatically because there is a fixed linkage between LOC and GS frequency)
+LOC or GS frequency
+
+How many ILS marker transmitters is positioned on the ground at known distances from the runway threshold (LEVEL 2)
+@@3
+2
+4
+
+What is disavantage of ILS (LEVEL 2)
+@@ILS must be located on flat terrain, since the surrounding area contributes to the formation of the beam.
+curved approach, non-precision approach
+wide area coverage
+
+How does MLS detemine the angles of elevation and azimuth. (LEVEL 2)
+using four beam at constant direction to make localize and glideslope plane
+interrogate with airborne transponder
+@@using two scanning beams one in azimuth and one in elevation
+
+Which system is used to provide distance to go information in MLS operation (LEVEL 2)
+Marker
+VOR
+@@Precision Distance Measuring Equipment (PDME)
+
+What is main function of Distance Measuring Equipment (DME) (LEVEL 2)
+@@measures the line−of−sight distance from the aircraft to a selected ground station
+measures the Height between the aircraft and the Ground
+measures the distance from the aircraft to other aircraft
+
+Is The Distance Measuring Equipment (DME) is a Primary Radar System (LEVEL 2)
+Yes
+@@No
+DME is not a Radar System
+
+How does the DME interrogator find out its own pulse pairs (reply signal) among many other pulses which can be replies for other aircraft (LEVEL 2)
+integrate aircraft identification information into transmitted interrogation signal
+vary pulse width of interrogation signal from one transmission to the next (JITTERING)
+@@vary repetition rate of interrogation signal from one transmission to the next (JITTERING)
+
+Why is a suppression circuit for DME, ATC and TCAS systems required (LEVEL 2)
+To prevent interference between systems that are secondary radar system
+To prevent interference between systems that use same modulation method
+@@To prevent interference between systems that operate in the same L−band frequency range
+
+How does RMI windows show in case of No Computed Data (NCD) (LEVEL 2)
+8888 is showed
+@@horizontal dashed line
+window is blanked.
+
+How long is operational altitude of Radio Altimeter (RA) (LEVEL 2)
+less than 2.500 ft
+more than 2.500 ft
+more than 5.000 ft
+
+Which method of measurement is used in Radio Altimeter (RA) (LEVEL 2)
+@@Pulse and FM-CW (Continuous Wave)
+Pulse and AM-CW (Continuous Wave)
+Pulse
+
+Which signal is used to modulate carrier wave in Constant Modulation Frequency Continuous Wave Radio Altimeter (LEVEL 2)
+variable sawtooth signal
+@@constant 100 Hz triangle signal
+constant 100 Hz rectangle signal
+
+Which signal is used to modulate carrier wave in Constant Difference Frequency Continuous Wave Radio Altimeter (LEVEL 2)
+@@variable sawtooth signal
+constant 100 Hz triangle signal
+constant 100 Hz rectangle signal
+
+How is/ are the antenna(s) of an Radio Altimeter arranged (LEVEL 2)
+an antenna is used for both transmission and reception
+Radio Altimeter do not use antenna
+@@one antenna for transmission and one antenna for reception
+
+What does ATC SSR system enable to (LEVEL 2)
+@@distinguish between aircraft and to maintain effective ground surveillance of the air traffic
+establish a ground to air voice comunication and to maintain effective ground surveillance of the air traffic
+establish a ground to air data link and to maintain effective ground surveillance of the air traffic
+
+What does an airborne ATC transponder provide (LEVEL 2)
+coded reply signals in response to interrogation signals from the ground secondary radar
+@@coded reply signals in response to interrogation signals from the ground secondary radar and from aircraft which will be eventually equipped with the TCAS.
+coded reply signals in response to interrogation signals from the ground secondary radar and from aircraft which will be eventually equipped with the ATC transponder.
+
+What are defined interrogation modes (LEVEL 2)
+Mode A, Mode C
+Mode A, Mode B and Mode C
+@@Mode A, Mode C and Mode S (all call and selective call)
+
+How is ATCRBS Side Lobe Suppression (mode A or C Side Lobe Suppression) done (LEVEL 2)
+@@A control pulse is radiated by the omnidirectional antenna of the SSR while interrogation pulses are transmitted from the directional antenna of the SSR
+A control pulse is radiated by the directional antenna of the SSR while interrogation pulses are transmitted from the omnidirectional antenna of the SSR
+A control pulse is integrated into interrogation pulses and radiated by the directional antenna of the SSR
+
+In case Mode S−selective call interrogation (discrete address interrogations), is transmission of a control pulse on an SLS control pattern (to prevent side lobe replies) not required (LEVEL 2)
+@@Yes
+No
+Mode S interrogation (all call or selective call) do not transmit control pulse
+
+How does a TCAS II equipped aircraft avoid the intruders (LEVEL 2)
+@@changing the flight path in the vertical plane only
+changing the flight path in the vertical or lateral plane
+changing the flight path in the lateral plane only
+
+What does the area in which a threat is imminent depends on (LEVEL 2)
+altitude of the own A/C and the threat A/C
+the speed and heading of the own A/C and the threat A/C
+@@the speed and path of the own A/C and the threat A/C
+
+Which requisition must be meet to allow an TCAS system helps the flight crew maintain safe air traffic separation from other airplanes (LEVEL 2)
+@@all airplane (except own airplane) must be ATC transponder equipped airplanes.
+all airplane (except own airplane) must be TCAS transponder equipped airplanes.
+all airplane (except own airplane) must be ATC/ Mode S transponder equipped airplanes.
+
+What do Corrective Advisories instruct the pilot (LEVEL 2)
+avoid certain maneuvers
+@@deviate from current vertical rate
+deviate from current heading
+
+How does the TCAS generate resolution advisories for a Mode A transponders only equipped aircraft (LEVEL 2)
+initiates the communication procedure
+a data link between the two aircraft is establish
+@@the TCAS cannot generate resolution advisories for Mode A transponders only equipped aircraft
+
+What is Sensitivity Time Control function of weather radar receiver (LEVEL 2)
+@@the receiver gain is made to vary with range
+the receiver gain is made to vary with pulse width
+the receiver gain is made to vary with bearing of antenna
+
+Concerning weather radar, what is used to detect turbulence  (LEVEL 2)
+@@spectrum of return signals
+spectrum of transmited signals
+received power
+
+Concerning weather radar, what is used to detect downburst (windshear occurring near the ground level) (LEVEL 2)
+amount of precipitation
+@@the spread of target velocities
+density of precipitation
+
+How is velocity of target determined in weather radar (LEVEL 2)
+@@base on Doppler frequency shift of return signal and aircraft velocity
+base on Doppler frequency shift of return signal and received power
+base on Doppler frequency shift of return signal
+
+Which Newton’s Law of Motion is used to caculate acceleration (LEVEL 2)
+First
+@@Second
+Third
+
+In classical INS systems, how is accelerometers mounted (LEVEL 2)
+they are directly connected to the geographical coordinates of the aircraft.
+@@they are mounted on a gyrostabilized platform that must always be maintained in the horizontal position
+they are mounted on the computer platform.
+
+How does a strap-down IRS work out the magnetic heading (LEVEL 2)
+throught compass equipment
+throught flux valve
+@@throught variation map that has been stored in IRU
+
+Which data is entered to align IRS (LEVEL 2)
+@@Present Position
+Present Position and Heading
+Present Position and Attitude
+
+How does GPS receiver figure out exactly when the signal left the satellite (LEVEL 2)
+sent the time at which signal left the satellite to receiver
+sent travel time of the radio signal to receiver
+@@Synchronize the satellites and receivers so they’re generating the same code at exactly the same time
+
+How does GPS receiver cancel out receiver clock errors (LEVEL 2)
+base on Doppler frequency shift of received signal
+@@make an extra satellite range measurement and apply a trigonometry trick
+apply a trigonometry trick.
+
+How does differential GPS work (LEVEL 2)
+use a trigonometry trick to improve measurement precision
+@@use errors of well known location to improve measurement precision
+use extra satellite range measurement to improve measurement precision
+
+Which data can a GPS receiver provide (LEVEL 2)
+@@position, time, velocity
+position, time, attitude
+position, time, heading
+
+What is new function of EGPWS (LEVEL 2)
+Windshear Alerting
+@@Terrain Clearance Floor (TCF) and Terrain Awareness alerting and Display
+No new function
+
+What is main function of EGPWS envelope modulation feature (LEVEL 2)
+@@provides alerting protection at some key locations throughout the world
+address the remaining CFIT issues and to add virtual look−ahead capability
+show terrain image on Navigation Display
+
+What is basic elements of lateral operational flight plan (LEVEL 2)
+Enroute-Segment and Flight Phases
+@@Standard Instrument Departure (SID), Enroute and Standard Arrival Route (STAR)
+Enroute-Segment, Waypoint and Flight Phases
+
+What can Area Navigation provide (LEVEL 2)
+allows an aircraft to navigate independently from radio navigation ground station
+@@allows an aircraft to navigate along any track independent of airways marked by radio navigation aids
+allows an aircraft to navigate across ocean
+
+What does GPS PRIMARY mean (LEVEL 2)
+GPS change to primary mode
+GPS is used to detemine heading
+@@GPS is used to compute A/C position and generate MAP on ND
+
+The VOR selection through RMP is used as a backup operation only in case of failure of: (Level 2)
+Both FMGCs (Flight management and  guidance computers),
+The MCDUs (Multipurpose Control Display Units),
+@@Both FMGCs, or failure of the MCDUs.
+
+Which external sensors the ADIRU uses as inputs? (Level 2)
+AOA (Angle Of Attack), TAT (Total Air Temperature) and Pitot,
+AOA (Angle Of Attack), TAT (Total Air Temperature) and Static Port,
+@@AOA (Angle Of Attack), TAT (Total Air Temperature) and ADM (Air Data Module).
+
+The function of ADM (Air Data Module) is: (Level 2)
+Convert the pitot probe pressure to digitized pressure,
+Convert the static port pressure to digitized pressure,
+@@Convert the pitot probe pressure or static port pressure to digitized pressure,
+
+The ADM (Air Data Module) inputs are: (Level 2)
+@@One pressure input and several discrete inputs,
+An ARINC bus and several discrete inputs,
+One pressure input and an ARINC bus.
+
+Air Data Modules (ADM) supply pressure information to the ADIRUs from: (Level 2)
+@@All pitot probes and static ports,
+The pitot probes only,
+The static ports only.
+
+The standby Pitot probe supplies total pressure to: (Level 2)
+The standby AirSpeed Indicator (ASI) via standby ADM (Air Data Module),
+@@The standby AirSpeed Indicator (ASI) directly and the Air Data Reference (ADR) 3 through its related Air Data Module (ADM),
+The standby AirSpeed Indicator (ASI) and the Air Data Reference (ADR) 3 through its related Air Data Module (ADM).
+
+What supplies the Standby Airspeed Indicator? (Level 2)
+@@The standby pitot probe and standby static ports
+The standby pitot probe only,
+The standby static ports only.
+
+The ADIRU 3 receives the TAT from: (Level 2)
+@@TAT sensor 1 only,
+Both TAT sensor 1 and TAT sensor 2,
+TAT sensor 3.
+
+Which probe’s pressure line requires a water drain? (Level 2)
+@@The pressure line of standby static ports,
+The pressure line of standby pitot probe,
+a and b.
+
+How many ADM (Air Data Module) are installed on A320/A321 aircraft? (Level 2)
+9: Two for CAPT static port, two for F/O static port, two for standby static port, one for CAPT pitot probe, one for F/O pitot probe, one for standby pitot probe.
+@@8: Two for CAPT static port, two for F/O static port, one for standby static port, one for CAPT pitot probe, one for F/O pitot probe, one for standby pitot probe.
+6: One for CAPT static port, one for F/O static port, one for standby static port, one for CAPT pitot probe, one for F/O pitot probe, one for standby pitot probe.
+
+How do TAT and AOA sensors supply the ADIRUs? (Level 2)
+Via ADMs which convert analog into digital format,
+Directly with digital format,
+@@Directly with analog format.
+
+Which ADIRU (Air Data Inertial Reference Unit) provide data to the DDRMI (Digital Distance and Radio Magnetic Indicator)? (Level 2)
+@@ADIRU 1,
+ADIRU 2,
+ADIRU 3.
+
+AIDRU 3 can supply information to: (Level 2)
+DMC3 only,
+DMC1 and DMC2,
+@@DMC1, DMC2 and DMC3.
+
+When the ADR1 fail: (Level 2)
+@@The AIR DATA selector should be select at CAPT 3 position,
+The AIR DATA selector should be select at F/O 3 position,
+The AIR DATA selector should be select at NORM position.
+
+When the IR2 fail: (Level 2)
+The ATT HDG selector should be select at CAPT 3 position,
+@@The ATT HDG selector should be select at F/O 3 position,
+The AIR DATA selector should be select at F/O 3 position.
+
+Which ADIRU data is sent to the ECAM SD? (Level 2)
+Airspeed, Altitude and Vertical speed,
+Ground Speed, Attitude and Heading,
+@@Static Air Temperature (SAT), Total Air Temperature (TAT), International Standard Atmosphere (ISA).
+
+The ALTI DISCREPANCY warning appears when the difference between altitude displayed on CAPT and F/O is greater than: (Level 2)
+500 ft if BARO reference STD is selected,
+250 ft if QNH or QFE (optional) is selected,
+@@Both a and b.
+
+The HDG DISCREPANCY warning in case of heading discrepancy between the: (Level 2)
+CAPT and the F/O NDs,
+CAPT and the F/O PFDs,
+@@CAPT and the F/O NDs and PFDs.
+
+In electrical emergency configuration, the warning associated with which ADR fault are inhibited? (Level 2)
+ADR1,
+ADR2,
+@@ADR3.
+
+In electrical emergency configuration, the warning associated with which ADR fault are inhibited? (Level 2)
+IR1,
+IR2,
+@@IR3.
+
+The ISIS (Integrated Standby Instrument System) is a combined: (Level 1)
+@@Standby altimeter, horizon indicator and AisSpeed Indicator (ASI),
+Standby altimeter, standby compass and AisSpeed Indicator (ASI),
+Standby altimeter, standby compass, horizon indicator and AisSpeed Indicator (ASI).
+
+Standby airspeed indicator function of ISIS (Integrated Standby Instrument System) measures: (Level 1)
+The pitot pressure from the standby pitot,
+The static pressure from the standby static port,
+@@The pitot/static pressure differential from the standby air data system.
+
+The standby altimeter indication of ISIS (Integrated Standby Instrument System) is supplied: (Level 1)
+@@With static pressure by the standby air data system,
+With total pressure by the standby air data system,
+With total/static pressure differential from the standby air data system.
+
+In case of failure of the pitch or roll information to ISIS (Integrated Standby Instrument System): (Level 1)
+The magnetic heading display is replaced by a red HDG flag,
+@@The attitude display is replaced by a red ATT flag,
+The altitude display is replaced by a red ALT flag.
+
+To display maintenance data of ISIS (Integrated Standby Instrument System) indicator: (Level 1)
+Push the BUGS P/B at least 2s,
+Push the LS P/B at least 2s,
+@@Push simultaneously the BUGS and LS P/Bs at least 2s.
+
+The ISIS (Integrated Standby Instrument System) test is inhibited when: (Level 1)
+Aircraft is inflight,
+Aircraft is on ground,
+@@The CAS (Calibrated Air Speed) is greater than 60 kts.
+
+The MMR (Multi Mode Receiver) system is a navigation sensor with 2 internal receivers are: (Level 2)
+@@ILS and GPS,
+VOR and ADF,
+VOR and DME.
+
+The principle of GPS position computation is based on the measurement of transmission of the GPS signals broadcast by: (Level 2)
+At least one satellite,
+@@At least four satellites,
+At least three satellites.
+
+When GPS mode is active: (Level 2)
+@@No VOR/DME/ADF data is used for navigation,
+VOR/DME/ADF data is used for navigation,
+Both GPS and VOR/DME/ADF data is used for navigation.
+
+When the ILS data appears on ND? (Level 3)
+When ROSE/VOR mode has been selected,
+@@When ROSE/LS mode has been selected,
+When ROSE/NAV mode has been selected.
+
+The GPS data is displayed on: (Level 3)
+The PFDs and the NDs,
+The PFDs and the MCDUs,
+@@The MCDU and the NDs.
+
+The MMR (Multi Mode Receiver) system includes: (Level 1)
+Four ILS antennas (Two glide slope and two localizer antennas), two GPS antennas and two MMR units,
+@@One dual glide slope (G/S), one dual localizer (LOC) antenna, two GPS antennas and two MMR units,
+Two MMR antennas and two MMR units.
+
+The ILS back-up tuning is provided by: (Level 1)
+Both FMGCs,
+Both MCDUs,
+@@RMP1 and RMP2.
+
+When GPS/IRS mode is active: (Level 1)
+Radio updating DME/DME is not allowed,
+Radio updating VOR/DME is not allowed,
+@@Radio updating DME/DME or VOR/DME is not allowed.
+
+Where is ILS 2 data displayed? (Level 1)
+@@On CAPT ND and F/O PFD,
+On CAPT PFD and F/O ND,
+On F/O PFD and F/O ND.
+
+Where is ILS 1 data displayed? (Level 3)
+On CAPT ND and F/O PFD,
+@@On CAPT PFD and F/O ND,
+On F/O PFD and F/O ND.
+
+Pure GPS data is available for display on: (Level 3)
+@@The GPS MONITOR page of the MCDUs,
+The NDs,
+The GPS MONITOR page of the MCDUs and the NDs.
+
+Maximum range for windshear detection is: (Level 3)
+320 NM,
+40 NM,
+@@5 NM.
+
+The main components of WXR/PWS system are: (Level 3)
+@@An antenna, a wave-guide, a WXR transceiver (XCVR) dual mounting tray with an optional second XCRV, and a control unit,
+Two antennas, two wave-guides, two WXR transceivers (XCVRs), and a control unit,
+An antenna, a wave-guide, a WXR transceiver (XCVR), and a control unit.
+
+The weather radar image is shown on: (Level 3)
+@@Both NDs,
+Both PFDs,
+CAPT PFD and CAPT ND.
+
+The predictive windshear indications and warning/caution alerts are shown on: (Level 3)
+The CAPT and F/O PFDs,
+The CAPT and F/O NDs,
+@@The CAPT and F/O PFDs and ND.
+
+The WXR/PWS transceiver is de-energized when: (Level 3)
+Both EFIS control panels are in ROSE mode,
+Both EFIS control panels are in ARC mode,
+@@Both EFIS control panels are in PLAN mode.
+
+During normal transit, to avoid possible danger for personnel on ground, you have to check control panel to make sure that? (Level 3)
+Radar is selected OFF,
+Predicted Wind Shear (PWS) is selected OFF,
+@@All of the above,
+
+The aircraft RA height data is displayed on the PFDs when: (Level 3)
+@@The aircraft height is less than or equal to 2500 ft,
+The aircraft height is more than to 2500 ft,
+The aircraft height is less than or equal to 2500 m.
+
+The RA information is displayed on: (Level 3)
+@@PFDs,
+NDs,
+PFDs and NDs.
+
+In normal operation, RA1 provides the radio height to: (Level 1)
+The CAPT and F/O PFDs,
+@@The CAPT PFD,
+The CAPT PFD and CAPT ND.
+
+RA1 fails below 2500 ft: (Level 1)
+A red RA flag appears on the CAPT PFD,
+@@The radio altitude displayed on CAPT PFD is provided by radio altimeter 2
+The radio altitude is lost on. CAPT PFD.
+
+To evaluate threat potential of other aircraft the system divides the space around aircraft into: (Level 1)
+Two volumes,
+Three volumes,
+@@Four volumes.
+
+What are the components of TCAS? (Level 1)
+@@Two TCAS antennas, one TCAS II computer and one TCAS/ATC control panel,
+Two TCAS antennas, one TCAS II computer, four ATC antennas, two ATC transponders and one TCAS/ATC control panel,
+Two TCAS antennas, one TCAS II computer and one TCAS control panel,
+
+The TCAS indications appear on: (Level 1)
+The PFDs,
+The NDs,
+@@The PFDs and the NDs.
+
+What is the main function of the TCAS computer? (Level 1)
+A transmission/reception function for intruder acquisition,
+A processing function for operation control,
+@@Both a and b.
+
+The TCAS antennas transmit signal at: (Level 1)
+@@1.030 MHz,
+1.090 MHz,
+1000 MHz.
+
+Which systems operate in the same frequency range with TCAS? (Level 1)
+@@The ATC and the DME,
+The ATC and the VOR,
+The DME and the VOR.
+
+Which aircraft are detected by the TCAS? (Level 1)
+All,
+@@Only ATC Mode S equipped A/C,
+TCAS equipped A/C.
+
+The Enhanced Ground Proximity Warning System (EGPWS) has: (Level 3)
+@@1 Enhanced Ground Proximity Warning Computer (EGPWC), 2 PULL UP/GPWS P/BSWs with integral lights, 1 GPWS control panel and 2 TERR ON ND P/BSWs,
+1 Enhanced Ground Proximity Warning Computer (EGPWC), 2 GS/GPWS P/BSWs with integral lights, 1 GPWS control panel and 2 TERR ON ND P/BSWs,
+1 Enhanced Ground Proximity Warning Computer (EGPWC) and 1 GPWS control panel.
+
+The terrain data is displayed on the ND in place of the radar image: (Level 3)
+@@Automatically when a Terrain Caution or Warning is detected or any time by using the TERR ON ND pushbutton,
+When weather radar is off,
+Any time in ROSE and ARC mode.
+
+When pressed in the PULL UP GPWS P/BSW, on the instrument panels: (Level 3)
+It sends a ground signal to trigger the self test sequence,
+It cancels the G/S (glideslope) aural and visual warnings when triggered,
+@@Both a and b.
+
+The components of the DME system are: (Level 3)
+@@Two antennas and two interrogators,
+Four antennas and two interrogators,
+Two antennas and one interrogator.
+
+Where the DME distance is shown? (Level 3)
+On the PFD and DDRMI,
+On the ND and DDRMI,
+@@On the PFD, ND and DDRMI.
+
+The DME distance is shown on the PFD if: (Level 3)
+@@The ILS display is selected via LS P/B,
+The ADF/VOR selector is set to VOR,
+The ADF/VOR selector is set to ADF.
+
+The DME distance is shown on the ND if: (Level 3)
+The ILS display is selected via LS P/B,
+@@The ADF/VOR selector is set to VOR,
+The ADF/VOR selector is set to ADF.
+
+How to tunes the DME? (Level 3)
+Auto tuning and manual tuning,
+Auto tuning and backup tuning,
+@@Auto tuning, manual tuning and backup tuning.
+
+Which ATC transponder respond to interrogations from aircraft equipped with a Traffic Alert and Collision Avoidance System (TCAS)? (Level 3)
+ATC Mode A,
+ATC Mode C,
+@@ATC Mode S.
+
+ATC transponder communicate with: (Level 3)
+@@ATC ground station or TCAS of other aircraft,
+VHF ground station,
+NDB ground station.
+
+The ATC: (Level 3)
+@@Responds to interrogations from ground ATC or TCAS,
+Interrogates ground ATC for distance measurement,
+Responds to interrogations from ground ATC for bearing measurement.
+
+The ATC mode A supply: (Level 3)
+Automatic altitude reporting,
+@@Aircraft identification,
+Selective calling and transmission of flight data of the aircraft on the ground controller’s radar scope.
+
+The Air Traffic Control (ATC) system includes: (Level 3)
+2 transponders, 2 antennas and 1 ATC/TCAS control panel,
+2 transponders, 4 antennas and 1 ATC control panel,
+@@2 transponders, 4 antennas and 1 ATC/TCAS control panel.
+
+The ADF is a radio navigation aid. It provides: (Level 3)
+An identification of the relative bearing of the aircraft to a selected ground station called Non-Directional Beacon (NDB),
+An aural identification of the ground station,
+@@An identification of the relative bearing of the aircraft to a selected ground station called Non-Directional Beacon (NDB), and An aural identification of the ground station
+
+The ADF information is displayed on: (Level 3)
+ND and PFD,
+@@ND and DDRMI,
+PDF and DDRMI.
+
+On the NDs with the VOR/ADF selectors switch to VOR position. The ADF1 is represented by: (Level 3)
+@@A single pointer,
+A double pointer,
+A ground station identification.
+
+On the NDs and the DDRMI, with the VOR/ADF selector switched to ADF position. Which ADF is represented by a double pointer? (Level 3)
+ADF1,
+@@ADF2,
+Both ADF1 and ADF2.
+
+The ADF system includes: (Level 3)
+Two different ADF receivers and two different ADF antennas,
+Two identical ADF receivers and two different ADF antennas,
+@@Two identical ADF receivers and two identical ADF antennas.
+
+The MKR (Marker) system indicates: (Level 3)
+The distance between the aircraft and the respect ground station,
+@@The distance between the aircraft and the runway threshold,
+The bearing is the angle between the magnetic north and the ground station/aircraft axis.
+
+The MKR (Marker) system is normally used together with: (Level 3)
+@@The ILS system during an ILS approach,
+The DME system,
+The ADF system.
+
+When the aircraft overflies the MKR, the type of MKR is display on: (Level 3)
+@@The PFDs in different colors,
+The NDs in different colors,
+The PFDs and the NDs in different colors.
+
+The VOR and MKR system includes: (Level 3)
+Two identical VOR/MKR receivers, one dual VOR antenna and one dual MKR antenna,
+Two identical VOR/MKR receivers, two VOR antennas and two MKR antennas,
+@@Two identical VOR/MKR receivers, one dual VOR antenna and one MKR antenna.
+
+Where is VOR data displayed? (Level 3)
+On PFDs and NDs,
+On PFDs and DDRMI,
+@@On NDs and DDRMI.

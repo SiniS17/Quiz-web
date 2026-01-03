@@ -1,0 +1,591 @@
+Which is the primary indication for landing gear system (level 1)
+The landing gear indicator panel.
+@@On the ECAM.
+Data from both LGCIUs.
+
+To continue the sequence to retract the landing gear, the LGCIU needs (level 1)
+@@A signal the doors fully open position from the doors proximity detectors.
+A signal the gears fully open position from the gears proximity detectors.
+A signal from the doors proximity detectors.
+
+When a Landing Gear Control and Interface Unit (LGCIU) detects any shock absorber not extended: (level 1)
+@@The control lever is locked in the "DOWN" position.
+The control lever is locked in the "DOWN" position by hydraulic.
+The control lever is locked in any position.
+
+What are main braking modes: (level 2)
+Auto brake, alternate brake and parking brake
+@@Normal brake, alternate brake, in FLT brake and parking brake
+Normal and alternate brake and in FLT brake
+
+Which is supplied to the computer for braking and anti-skid computation: (level 2)
+Wheels rotation speed.
+Air data.
+@@Wheels rotation speed and ADIRU data
+
+Which send the digital signals of temperature to ECAM display unit: (level 2)
+The Brake Temperature Monitoring Unit (BTMU).
+@@The Braking and Steering Control Unit (BSCU).
+The Landing Gear Control and Interface Unit (LGCIU).
+
+In enhance system, what controls the antiskid function: (level 1)
+@@BSCU via ABCU
+ABCU via BSCU
+BSCU
+
+Does the steering system remains when the gear extend by gravity: (level 1)
+No if a/c equips enhance system
+Yes if a/c equips classic system
+@@Yes if a/c equips enhance system
+
+The nose wheel steering classic system is: (level 1)
+@@Electrically controlled and powered by the green hydraulic system.
+Electrically controlled and powered by the yellow hydraulic system.
+Electrically controlled and powered may be by mechanical system.
+
+On the LANDING GEAR PANEL a green triangle light indicates: (level 1)
+The related gear is not locked down.
+The related door gear is locked down.
+@@The related gear is locked down.
+
+When the parking brake handle is pulled and turned to the "ON" position: (level 2)
+The yellow pressure is immediately applied to the brakes.
+The yellow pressure is applied to the brakes after 5 minutes.
+@@The parking pressure only applied when the yellow pressure is available.
+
+Can you retract the landing gear when aircraft on ground:  (level 1)
+@@No, an interlock mechanism prevents when any shock absorber is not extended.
+Yes, when any shock absorber is not extended.
+A and B
+
+Which cuts landing gear hydraulic supply in free fall extension: (level 1)
+The safety valve.
+@@The cut-out valve.
+The supply valve.
+
+Rotation of the free fall extension handle closes the cut out valve and: (level 1)
+Open two vent valve to let hydraulic back to the return line.
+Releases door and gear uplocks.
+@@A & B.
+
+What is the normal retraction sequence?  (level 2)
+@@Door open, gear up, door close, cancel gear up signal.
+Door open, gear up, door close, maintain gear up signal.
+Door open, gear up, door close, cancel door close signal.
+
+How is inflight braking initiated?  (level 1)
+@@By setting the landing lever to the UP position.
+By shock absorber extension.
+By auto brake deactivation.
+
+When does the UNLK light come on?  (level 1)
+When the gear and the related doors are not locked up.
+When the gear is not locked down.
+@@None of above
+
+When does the BSCU provide anti-skid control?  (level 1)
+During Alternate braking.
+During normal braking.
+@@Both of above
+
+What is the purpose of the hydraulic fuses?  (level 1)
+Only use during Maintenance
+To shut off the return lines
+@@None of above
+
+Which hydraulic system powers normal braking?  (level 1)
+Blue for classic system.
+Yellow for enhance system.
+@@None of the above
+
+What are the auto brake arming condition? (level 3)
+@@An AUTO BRK pushbutton pressed in, green pressure and anti-skid powered and no failure in normal braking system.
+An AUTO BRK pushbutton pressed in, yellow pressure and anti-skid powered and no failure in normal braking system.
+An AUTO BRK pushbutton pressed in, green pressure and anti-skid deactivated and no failure in normal braking system.
+
+When does the automatic changeover of the LGCIUs in control occur? (level 3)
+When "UP" is selected.
+When a LGCIU failure
+@@Both of above
+
+Before the landing gear can be retracted, what must the LGCIU detect?  (level 3)
+Three shock absorbers compressed.
+@@Three shock absorbers extended.
+Main shock absorbers extended.
+
+Can you operate the "nose wheel steering” during take off and landing when the speed above 130 kts?  (level 3)
+@@It is not possible
+It is possible through rudder pedals
+It is possible through hand wheels
+
+When is the anti-skid function inhibited by the BSCU?  (level 3)
+During alternate braking.
+When the auto brake system has failed.
+@@During in flight braking
+
+Which component gives priority to the green hydraulic system during classic system?  (level 2)
+Brake selector valve.
+Normal brake selector valve
+@@None of the above
+
+There are two triangles for each gear on the ECAM WHEEL page. What do they represent? (level 3)
+Each triangle represents one wheel on the gear.
+@@Each triangle represents the position detected by one of the two LGCIUs.
+Each triangle represents one of the braking systems available for that gear.
+
+What does each turn of the gravity gear extension handle do?  (level 3)
+Open gear doors, unlock gear, drop gear.
+@@Shutoff hydraulic pressure, open doors, unlock gear.
+Open gear doors, shutoffs hydraulics, unlock gear, drop gear.
+
+For A320 when the landing gear is gravity extended, will nose wheel steering be available?  (level 3)
+Yes, if the A/SKID & N/W STRG switch is selected ON.
+@@No.
+Limited nose wheel steering is available only through the captain's rudder pedals.
+
+What happens to the other brake modes when parking brakes are applied (classical version)? (level 3)
+There is no change.
+@@All other braking modes and anti-skid are deactivated.
+Antiskid mode only is deactivated.
+
+What computer controls the Anti-Skid function on the classical and enhanced aircraft? (level 2)
+Either LGCIU in turn.
+ABCU.
+@@BSCU.
+
+If the brake system automatically transitions to alternate brakes with the A/Skid & N/W strg switch in the ON position, which of the following will be available? (level 2)
+Only auto brakes.
+Brakes, auto brakes, anti-skid.
+@@Anti-skid.
+
+The function of the MLG’s torque links damper is: (level 1)
+@@To damp side load to the shock absorber.
+To increase the landing gear steering angle.
+To damp the landing vertical load.
+
+The BRK fan pushbutton can be used to operate the fans: (level 1)
+@@To cool all the brakes at same time.
+To cool the highest temperature brake only.
+To cool 2 brakes on one gear that has highest temperature brake.
+
+LGCIU system 1 and 2 changeover occurs when: (level 1)
+Setting the landing gear control lever to DOWN.
+@@Setting the landing gear control lever to UP.
+After each flight at engine start.
+
+After take-off, the nose wheels are automatically centered by means of: (level 1)
+One centering cam.
+Two steering actuators.
+@@Two centering cams.
+
+When does LGCIU turn from standby to active control? (level 1)
+@@LGCIU control lever is removed away from DOWN position.
+LGCIU control lever is removed away from UP position.
+None above.
+
+What happen if aircraft on ground Landing gear control lever to be moved to UP position? 
+(level 3)
+Landing gears do not retract due to installation of safety pin in each landing gear.
+@@Landing gear control lever cannot be moved to UP position due to baulk interlock mechanism.
+All above.
+
+What is the function of the Triple Pressure indicator? (level 3)
+Indicates accumulator pressure and L/H + R/H gear parking brake pressure.
+Indicates accumulator pressure and L/H + R/H gear alternate brake pressure.
+@@All above.
+
+What are differences between nose landing gear steering system of Classic and Enhance aircraft? (level 3)
+Classic steering system is powered by Yellow hydraulic system.
+Enhance steering system is powered by Green hydraulic system.
+@@After landing gear free fall extension for classic version, nose gear steering system is lost.
+
+Before towing aircraft what safety features must be followed? (level 2)
+Check message: “NOSE WHEEL STEER DISC” appears on upper ECAM.
+Check the extension of nose gear shock absorber (dimension H) must be less than 300mm.
+@@All above.
+
+How many turns need to be turned the landing gear free fall handle to complete landing gear free fall extension? (level 3)
+1 turn.
+2 turns.
+@@3 turns.
+
+What is the function of the torque links mechanism of the main landing gear? (level 2)
+Permit inner cylinder (sliding tube) rotate around outer cylinder (main fitting).
+@@Permit inner cylinder (sliding tube) slide up and down inside the outer cylinder (main fitting).
+All above.
+
+What statement is most correct about the Anti-skid system? (level 3)
+@@If all ADIRU data is not valid, the reference speed is equal to the maximum of either main landing gear wheel speed.
+If all ADIRU data is not valid, the anti-skid function is lost due to no reference speed.
+None of above.
+
+What happen if rudder pedal disconnect pushbutton is pressed? (level 1)
+Deflection rudder order is disconnected.
+@@Nose wheel steering is disconnected from pedal.
+All above.
+
+How to center the nose landing gear during retraction/extension sequence? (level 1)
+By hydraulic power.
+@@By centering cams.
+All above.
+
+What is the brake accumulator pressure when the yellow system is pressurized to 3000 psi? (level 2)
+@@3000 psi.
+1450 psi (accumulator pre-charged pressure).
+None above.
+
+What happen if temperature of any brake is reached the threshold? (level 3)
+Brake Fan pushbutton ON line comes on, the FAN automatically run to cool the brake.
+@@Brake Fan pushbutton ON line comes on, the FAN manually turn on to cool the brake.
+None of above.
+
+Under normal condition, which hydraulic system is used to extend/retract the aircraft landing gears: (level 1)
+@@GREEN
+BLUE
+YELLOW
+
+Which computer controls the aircraft landing gear extension/retraction cycles: (level 1)
+BSCU
+CFDIU
+@@LGCIU
+
+Which computer controls the aircraft braking and steering system: (level 1)
+@@BSCU
+CFDIU
+LGCIU
+
+When will the LGCIU switch over automatically to the another LGCIU to control the landing gear extension/retraction: (level 1)
+when landing gear control lever is set to down
+@@when landing gear control lever is set to up
+when electrical power is supplied
+
+Which computer gives the indication on the landing gear indicator panel: (level 3)
+@@LGCIU#1
+LGCIU#2
+both LGCIUs
+
+When is the cut-out valve closed: (level 3)
+as soon as the air speed is greater than 260Kts
+as soon as the control lever is moved to UP
+@@during gear gravity extension
+
+In the classic braking system, how is the alternate braking pressure controlled: (level 2)
+@@by the auxiliary low pressure system
+by ABCU
+by LGCIU
+
+In the classic braking system, in case of the normal braking system low pressure, how does the alternate braking system pressure take over:  (level 3)
+as soon as the braking pedals are pressed in
+by ABCU
+@@automatically through the automatic selector
+
+The anti-skid function is obtained by: (level 1)
+@@BSCU
+ABCU
+the auxiliary low pressure system
+
+Which component(s) does the gravity extension crank handle operate: (level 3)
+the cut-out and the safety valves
+@@the cut-out and the vent valves
+the safety and the vent valves
+
+Which computer(s) sends the landing gear position indication to ECAM display (level 3)
+LGCIU#1 only
+either LGCIU in turn
+@@both LGCIUs simultaneously
+
+When will the "LGCIU" change-over for landing gear control takes place (level 2)
+When the landing gear control lever is set to down
+@@When the landing gear control lever is set to up
+When electrical power is applied
+
+What controls the landing gear operating sequence? (level 2)
+@@Either LGCIU In turn
+Both LGCIU's simultaneously
+Landing gear control lever
+
+When airborn, NLG will be centered by? (level 1)
+LGCIU
+@@An internal cam.
+BSCU
+
+Which hydraulic systems are used for the aircraft braking system: (level 2)
+GREEN(for the normal braking) and BLUE(for the alternate braking)
+@@GREEN(for the normal braking) and YELLOW(for the alternate braking)
+BLUE(for the normal braking) and YELLOW(for the alternate braking)
+
+THE GEAR AND DOORS ARE ELECTRICALLY CONTROLLED AND: (level 2)
+Hydraulically operated by the green or yellow hydraulic system.
+@@Hydraulically operated by the green hydraulic system.
+Hydraulically operated by the blue hydraulic system.
+
+THE TRIPLE INDICATOR DISPLAYS: (level 2)
+The green pressure and the normal braking pressure delivered to the LH and RH brakes.
+The green brake accumulator and the normal pressure delivered to the LH and RH brakes.
+@@The yellow brake accumulator and the braking pressure delivered to the LH and RH brakes.
+
+WHEN THE PARKING BRAKE HANDLE IS PULLED AND TURNED TO THE "ON" POSITION: (level 2)
+The green pressure is applied to the brakes.
+Only the yellow accumulator pressure is applied to the brakes.
+@@The yellow pressure is applied to the brakes.
+
+CAN YOU RETRACT THE LANDING GEAR WHEN AIRCRAFT ON GROUND: (level 2)
+@@No, because of an interlock mechanism
+Yes, when any shock absorber is compressed.
+A and B
+
+THE STEERING SYSTEM DEACTIVATION FOR TOWING PURPOSE IS ALLOWED BY: (level 2)
+A lever on the towing electrical box located on the MLG.
+@@A lever on the towing electrical box located on the NLG.
+A “towing switch” on the overhead panel .
+
+THE NOSE WHEEL STEERING SYSTEM IS (Classic Aircraft): (level 2)
+@@Green hydraulically powered and electrical controlled by the BSCU.
+Electrically powered and controlled by the BSCU.
+Hydraulically powered and mechanical controlled by the hand wheel.
+
+THE PARKING BRAKE SYSTEM IS HYDRAULICALLY SUPPLIED BY: (level 2)
+The yellow pressure.
+By an accumulator.
+@@A or B.
+
+THE GREEN PRESSURE SUPPLIES THE NORMAL BRAKES THROUGH (Classic): (level 2)
+@@The automatic selector and normal servo valves.
+The dual valves and normal servo valves.
+The main anti-skid valve.
+
+THE NORMAL BRAKE PRESSURE HAS INDICATION: (level 2)
+Yes, on ECAM.
+Yes, on triple indicator.
+@@No.
+
+THE PURPOSE OF THE SPARE SEAL ACTIVATING VALVE IS TO: (level 2)
+@@Isolate the bottom gland seals if a leak occurs.
+Open the bottom gland seals if a leak occurs.
+Isolate the shock absorber lower chamber.
+
+When will the "LGCIU" change-over for landing gear control takes place (Level 2)
+When the landing gear control lever is set to down
+@@When the landing gear control lever is set to up
+When electrical power is applied
+
+When airborn, NLG will be centered by? (Level 2)
+LGCIU
+@@An internal cam.
+BSCU
+
+Before the LDG can be retracted, the LGCIU must detect that : (Level 2)
+@@Three shock absorbers are extended
+Three shock absorbers are compressed
+Main shock absorbers are extended
+
+When is the hydraulic circuit depressurized after retraction? (Level 2)
+As soon as the selector lever is move to neutral.
+@@As soon as the airspeed is greater than 260 ± 5 Kts
+As soon as the last door is closed
+
+Which system sends the signal to the safety valve to shut off the LDG hydraulic pressure? (Level 2)
+ADIRU 2 and 3
+@@ADIRU 1 and 3
+ADIRU 1 & 2
+
+How many BTMU does the aircraft have? (Level 2)
+One.
+One per each wheel.
+@@One per main gear.
+
+The MLG door uplock is: (Level 2)
+@@Closed mechanically and hydraulically opened.
+Opened mechanically and hydraulically closed.
+Opened and closed hydraulically
+
+What is the normal retraction sequence?  (Level 3)
+@@Door open, gear up, door close, cancel gear up signal.
+Door open, gear up, door close, maintain gear up signal.
+Door open, gear up, door close, cancel door close signal.
+
+How is inflight braking initiated? (Level 3)
+@@By setting the landing lever to the UP position.
+By shock absorber extension.
+By auto brake deactivation.
+
+When does the BSCU provide anti-skid control? (Level 3)
+During  Alternate braking.
+During  normal braking.
+@@Both of above
+
+What is the purpose of the hydraulic fuses? (Level 3)
+Only use during Maintenance
+To shut off the return lines
+@@None of above
+
+Which hydraulic system powers normal braking? (Level 3)
+Blue for  classic system .
+Yellow for enhance system.
+@@None of the above
+
+What are the auto brake arming condition? (B1,B2) (Level 3)
+@@An AUTO BRK pushbutton pressed in, green pressure and anti-skid powered and no failure in normal braking system.
+An AUTO BRK pushbutton pressed in, yellow pressure and anti-skid powered and no failure in normal braking system.
+An AUTO BRK pushbutton pressed in, green pressure and anti-skid deactivated and no failure in normal braking system.
+
+When does the automatic changeover of the LGCIUs in control occur? (B1,B2) (Level 3)
+When "UP" is selected.
+When a LGCIU failure
+@@Both of above are correct.
+
+Before the landing gear can be retracted, what must the LGCIU detect?  (Level 3)
+Three shock absorbers compressed.
+@@Three shock absorbers extended.
+Main shock absorbers extended.
+
+Can you operate the "nose wheel steering” during take off and landing when the speed above 130 kts? (Level 3)
+@@It is not possible
+It is possible through rudder pedals
+It is possible through hand wheels
+
+When is the anti-skid function inhibited by the BSCU? (Level 3)
+During alternate braking.
+When the auto brake system has failed.
+@@During in flight braking
+
+Which component gives priority to the green hydraulic system during classic system? (Level 3)
+Brake selector valve.
+Normal brake selector valve
+@@None of the above
+
+Safety valve cutoff hydraulic to landing gear system when speed: (Level 3)
+More than 100 kts.
+More than 130 kts
+@@None of above
+
+In case of normal braking system failure, how is alternate barking applied? (B1,B2) (Level 3)
+Automatically when the selector valve is de-energized
+Automatically through the automatic selector
+@@As soon as the braking pedals are pressed in
+
+In the A321 enhance  (Level 3)
+@@A/SKID is controlled by BSCU.
+A/SKID is controlled by BSCU & ABCU.
+None of above
+
+In which mode is progressive pressure sent to the brakes 2 seconds after ground spoilers deployment? (Level 3)
+MAX mode.
+@@MED mode.
+Both of A and B
+
+Function of the hydraulic fuse, which is fitted in the line  to brake unit is: (Level 2)
+To make sure that inadvertent braking action can not happen.
+To make sure that no hydraulic pressure from green system can be transferred to yellow system.
+@@To shut off the hydraulic supply to the brake unit case too much fluid flows in to the direction of the brake unit due to line damaged.
+
+What effect on the slat and flap system will failure of  SFCC 2 cause? (Level 2)
+Slat system operates at half speed.
+Flap system operates at half speed.
+@@Slat and flap systems operate at half speed.
+
+When does the UNLK light come on? (Level 3)
+When the gear and the related doors are not locked up.
+When the gear is not locked down.
+@@When the gear is not locked in the selected position.
+
+What happens when the gravity extension crank handle is rotated? (Level 3)
+@@The cut-out and vent valves operate
+The safety and cut-out valves operate
+The safety and vent valves operate
+
+How can the parking brake be hydraulically powered? (Level 3)
+Only by yellow high pressure
+Only by the brake accumulator
+@@Either by yellow high pressure or by the brake accumulator
+
+What is the purpose of the by pass valve of the hydraulic steering control unit? (Level 2)
+@@To interconnect the two chambers of the steering actuator.
+To apply hydraulic pressure to the servovalve.
+To by pass the servovalve in case of BSCU failure.
+
+Which component gives priority to the green hydraulic system?  (level 2)
+Brake selector valve.
+Throttle valve
+@@Automatic selector
+
+Can you operate the Nose Wheel Steering during take off and landing when the speed is above 130 Kts? (Level 3)
+@@It is not possible
+It is possible through rudder pedals
+It is possible through hand wheels
+
+How is the in flight braking initiated? (Level 1)
+@@By selecting the landing lever to the "UP" position
+By the main landing gear door opening
+By auto brake deactivation
+
+What are the auto brake arming conditions? (Level 1)
+@@An auto brake pushbutton pressed in, green pressure and anti-skid powered and no failure in normal braking system.
+An auto brake pushbutton pressed in, yellow pressure and anti-skid powered and no failure in normal braking system.
+An auto brake pushbutton pressed in, green pressure and anti-skid deactivated and no failure in normal braking system.
+
+During Landing Gear free fall extension, the cut out vavlve and both vent valves operate to depressurize the hydraulic system if: (Level 3)
+Crank handle moves up to 0.5 turn.
+@@Crank handle moves up to 1,5 turns.
+Crank handle moves up to 2.5 turns.
+
+If normal braking system failure, alternate braking applied:(Level 1)
+Automatically when the selector valve is de-energized
+Automatically through the automatic selector
+@@As soon as the braking pedals are pressed in.
+
+Which computer monitors the aircraft tire pressure and brake temperature:(Level 1)
+@@BSCU.
+CFDIU
+LGCIU
+
+A changeover between the two BSCU channels takes place:(Level 1)
+@@when landing gear control lever is set to down
+when landing gear control lever is set to up
+when electrical power is supplied
+
+Which computer gives the indications on the landing gear wheel page:(Level 1)
+LGCIU 1
+The LGCIU 1(2) on duty, then the other LGCIU 2(1) if LGCIU 1 (2) failed.
+@@Both LGCIUs.
+
+In normal condition, with all hydraulic systems availability and nose wheel steering toggle switch OFF, applying braking system using pedals will operate:(Level 1)
+Alternate braking with anti-skid
+Normal braking system
+@@Alternate braking without anti-skid
+
+The CLASSIC nose wheel steering and gear/door control system is supplied from:(Level 1)
+@@green hydraulic system
+yellow hydraulic system
+green and yellow hydraulic system
+
+When is the entire aircraft landing gear hydraulic circuit isolated from the pressure source after retraction:(Level 1)
+as soon as the control lever is moved to neutral
+as soon as the airspeed is greater than 260 kts.
+@@by rotating joint for nose gear and by safety valve for main gear upon a certain aircraft speed reached.
+
+Which statement is correct concerning alternate braking indication?(Level 1)
+The "DECEL" light comes on green when the correct deceleration is reached deceleration is reached
+@@A triple indicator for alternate braking system.
+The applied alternate braking pressure to be monitored via lower ECAM wheel page
+
+Which one controls the aircraft braking and steering system:(Level 1)
+@@BSCU.
+Hand wheel for steering system and BSCU for aircraft braking
+LGCIU
+
+How many air charging valve used to service MLG shock absorber?(Level 1)
+1.
+@@2
+3
+
+Free fall lever movement between 1.9 and 3 turns:(Level 1)
+The doors uplocks are released
+@@Gear uplocks are released and the landing gear extends by gravity.
+Operted the cut-out valve and both vent valves to depressurize the system
+
+Which computer monitors the aircraft brake temperature:(Level 1)
+BSCU.
+CFDIU
+@@BTMU
+

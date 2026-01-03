@@ -1,0 +1,429 @@
+The passenger door is “ARMED” and the door is opened from outside: (Level 3)
+@@the evacuation system is disarmed automatically
+the evacuation system activates
+the red warning light flashes
+
+The passenger door is “ARMED” and the door is opened from inside: (Level 3)
+the evacuation system is disarmed automatically
+@@the evacuation system activates
+the red warning light flashes
+
+Red light flashes: (Level 3)
+stop opening procedure because door is ARMED
+@@stop opening procedure due to cabin residual pressurea
+stop opening procedure because engines are running
+
+On the A320 A/C, if overwing emergency exits are “ARMED”: (Level 3)
+the evacuation system is disarmed automatically if these exits are being opened from outside
+@@the evacuation system activates if these exits are being opened from outside
+the evacuation system activates only if these exits are being opened from inside
+
+Escape slide inflation bottles of passenger doors are located: (Level 1)
+@@inside the slide stowed in a container attached to the lower side of the door
+in the overhead-lockers of the cabin
+in the after cargo compartment
+
+What indicates the red flashing light on a passenger door: (Level 1)
+the door is “ARMED”
+the door is DISARMED but both engines are still running
+@@the door is DIDARMED, both engines shut down and the cabin pressure is greater than some value
+
+What indicates the white light on a passenger door: (Level 1)
+the door is “ARMED”
+@@the door handle is operated when the door is “ARMED”
+the door is DISARMED, both engines shut down and the cabin pressure is greater than some value
+
+The rapid-decompression safety-system is installed in the aircraft (Level 3)
+@@Prevents structural damage to the fuselage and damage to the equipment and furnishings
+Provides quick escape facility of the aircraft
+Prevents overpressure to aircraft area
+
+The A320 aircraft is fitted with emergency evacuation slide at: (Level 1)
+The 4 entry doors.
+The overwing exits
+@@The 4 entry doors and the overwing exits
+
+Where are the A320 aircraft inflation reservoirs of the escape slide of emergency exit door located? (Level 2)
+in the container at the bottom of the door
+In the overhead stowage compartment over the door
+@@In the aft cargo compartment
+
+When you check the PAX door escape/slide inflation cylinder, where must the pressure indication be? (Level 3)
+@@In the green GO band
+In the red band
+At zero.
+
+Which cabin panels are removable? (Level 1)
+Lower sidewall panels only.
+@@All the panels.
+Upper sidewall panels only.
+
+Where are passenger oxygen masks stored? (Level 1)
+@@In the passenger service unit
+In the seat arm rest
+In the overhead stowage compartment
+
+Smoke hoods are supplied for the cabin attendants to: (Level 1)
+Supply oxygen for passengers.
+@@Fight a fire or against emission of smoke or noxious gases.
+Breathe oxygen.
+
+Which device has to be unlocked before closing the slide window? (Level 3)
+@@A locking pin on the sliding window frame.
+The sliding window operating handle.
+None.
+
+The decompression panels are used: (Level 3)
+In case of decompression in the lower compartment, to maintain the pressure in the cargo compartment.
+In case of decompression in the upper compartment, to maintain the pressure in the cabin.
+@@In case of decompression in the cabin or in the cargo compartment, they equalize the pressure in both sections, to avoid damage to the structure.
+
+Decompression panels are installed at the: (Level 1)
+Passenger cabin lower side wall panels only.
+Forward cargo compartment ceiling panels.
+@@Passenger cabin lower sidewall panels and cargo compartment ceiling panels.
+
+The captain and first officer seats are interchangeable: (Level 2)
+@@No, because they are symmetrical.
+Yes, because they are identical in their operation.
+No, because the first officer seat has no electrical control.
+
+In the cabin: (Level 2)
+@@All panels are removable.
+Only the ceiling panels are removable.
+Panels are removable depending on the area.
+
+For the A/C A321, where are the emergency escape slide inflating bottle located? (Level 2)
+In the aft cargo compartment.
+In a container underneath each door in the fuselage.
+@@In the overhead stowage compartment above each door.
+
+It is possible to move the pilot's seats without electrical power: (Level 3)
+No, the cockpit seats are only controlled electrically.
+@@Yes, the captain and first officer seats have a mechanical control system.
+Yes, but only the captain's seat has a mechanical control system.
+
+In an emergency, the flight crew can leave the cockpit: (Level 3)
+Via an escape rope, through the avionics bay.
+Only through the cockpit door and then through the avionics bay.
+@@Either through the sliding window or the cockpit door.
+
+To close the cargo door hydraulically, the cargo door manual sill latches must be: (Level 2)
+Lowered.
+@@Raised
+Removed.
+
+For the A/C A321, where are the emergency escape slide inflation reservoirs located? (Level 2)
+In the aft cargo compartment.
+In a container underneath each door in the fuselage.
+@@In the overhead stowage compartment above each door.
+
+To assist passengers during an emergency evacuation using the emergency exits: (Level 3)
+Grasp lines are fitted around the inside of the inflatable to facilitate the use of the slide as a flotation device.
+@@Lights located along the slide tubes and across the runway are supplied from the Emergency Power Supply Unit (EPSU).
+The slide can be disconnected from the aircraft door when necessary.
+
+Which condition considers cabin attendant seat INOP(Level 3)
+@@Seat bottom does not stow automatically when not used
+Seat bottom stows automatically when not used
+Seat belt available in correct condition
+
+To install passenger door escape slide safely: (Level 3)
+Safety pin must be inserted to avoid an uncontrolled activation of the percussion system of the inflating bottle of the emergency dampening actuator
+Escape Slide inflating bottle must be deactivated by safety pin
+@@Both A and B
+
+In case of emergency all lavatories doors: (Level 3)
+Only be unlocked from the cockpit.
+@@Can be unlocked from the outside.
+Can be unlocked from FAP (Forward Attendant Panel)
+
+The wet galleys are: (Level 2)
+Not connected to the aircraft systems such as ventilation or potable water.
+@@Connected to the water and waste system and the main air cabin ventilation system.
+Not connected to the waste system.
+
+The pressure of the escape slide’s cylinder can be checked: (Level 3)
+@@On a direct reading gauge on the cylinder.
+On door and oxygen page of the ECAM system.
+Directly on the gauge or on ECAM
+
+In an emergency case, the flight crew can leave the cockpit: (Level 3)
+Via an escape rope, through the avionics bay.
+Only through the cockpit door and then through the avionics bay.
+@@Either through the sliding window or the FWD passenger door.
+
+To replace the cabin window light, you must remove: (Level 3)
+The upper sidewall panel.
+The ceiling panel.
+@@The cove light panel
+
+What is true regarding the 3rd observer seat? (Level 3)
+When in the extreme side position, it can rotate left or right
+@@It has mechanical control
+It is fixed, folding seat.
+
+The Captain and First officer seats are: (Level 3)
+Interchangeable and asymmetrical
+Symmetrical and interchangeable
+@@Symmetrical and not interchangeable
+
+Which is true about third occupant seat? (Level 3)
+For electrical control, place the control switch in the UP and DOWN position until the seat reaches the required position.
+@@A manual control moves the seat from is stowage.
+For electrical control, place the control switch in the FWD and REAR position until the seat reaches the required position.
+
+Before open the sliding windows, you must (Level 3)
+Pulling the locking pin.
+Push down the red indicator on the top on the locking pin.
+@@Push down the red indicator on the top on the opening handle.
+
+The lavatory door can be unlock (Level 2)
+@@From inside or out side of the lavatory door.
+From outside of the lavatory door.
+From Forward Attendant Panel.
+
+The inflation and deployment sequence of the slide rafts is automatically initiated (Level 3)
+If the door is opened in closed and locked condition
+@@If the door is opened in armed and locked condition
+If the door is opened in disarmed and locked condition
+
+When the off-wing escape slide operates automatically (Level 3)
+@@If one of the wing exit off each side opened in ARMED mode.
+If any passenger door off each side opened in ARMED mode.
+If both of the wing exits off each side opened in ARMED mode.
+
+Where are the passenger door escape slide and its inflation reservoir? (Level 2)
+They are in the AFT cargo compartment.
+@@They are in the container at the bottom of the door.
+They are underneath of cabin floor
+
+Where can you check the emergency exit escape slide cylinder pressure? (Level 2)
+At the AFT cargo compartment or on the Programming Test Panel.
+At the AFT cargo compartment.
+@@At the passenger overhead storage.
+
+During flight, the cockpit door is closed and locked. If a rapid-decompression in the cabin occurs (Level 3)
+@@The cockpit door stays closed and locked.
+The cockpit door unlocked and opened.
+None of them
+
+The Emergency evacuation alert system may be activated: (Level 3)
+Only from the cockpit
+Only from the purser station
+@@Either from the cockpit or the purser station
+
+For the Captain and First Officer Seats, the side stick armrest located: (Level 2)
+On the inboard side of the seat
+@@On the outboard side of the seat
+Either of them
+
+Passenger Service Unit has: (Level 2)
+An attendant call panel, a reading light panel, a loudspeaker, a fresh air outlet panel
+@@An attendant call panel, a reading light panel, an emergency oxygen mask container, a fresh air outlet panel
+An emergency oxygen mask container, a lighted sign NO SMOKING, a lighted sign FASTEN SEAT BELT
+
+Passenger Information Unit has: (Level 2)
+An emergency oxygen mask container, a lighted sign NO SMOKING
+@@A loudspeaker, a lighted sign NO SMOKING, a lighted sign FASTEN SEAT
+A lighted sign FASTEN SEAT , a reading light panel, a loudspeaker, a fresh air outlet panel
+
+When you check the slide pack assembly, if the gage needle is to the left of the green cursor, it is may be (Level 3)
+Overpressure of the cylinder.
+High pressure of the cylinder.
+@@None of the above
+
+Pilot seat movements can be: (Level 1)
+Electrically adjusted.
+Manually adjusted.
+@@Electrically or manually adjusted.
+
+The Third Occupant seat can: (Level 1)
+Not adjustable folding seat.
+@@Slide along the lateral axis.
+Slide along the longitudinal axis.
+
+The Fourth Occupant seat: (Level 1)
+@@Not adjustable folding seat.
+Slide along the lateral axis.
+Slide along the longitudinal axis.
+
+Regarding the Pilot seats: (Level 1)
+The manual controls may be inoperative, if pilot accepts.
+@@Electrical controls may be inoperative.
+All the manual and electrical controls must be operative.
+
+Passenger oxygen masks are store in: (Level 1)
+@@The Passenger Service Unit.
+The seat armrest.
+The overheat stowage compartment.
+
+The cabin depressurization doors are mounted on: (Level 1)
+The upper sidewall panels.
+The ceiling panels.
+@@The lower sidewall panels.
+
+The inflation and deployment sequence of the slide raft is automatically initiated when the door is opened in: (Level 3)
+@@Armed configuration.
+Locked and disarmed configuration.
+Closed and locked configuration.
+
+Which device has to be unlocked before closing the slide window? (Level 1)
+@@A locking pin on the sliding window frame.
+The sliding window operating handle.
+None.
+
+Which cabin panels are removable? (Level 1)
+Lower sidewall panels only.
+@@All the panels.
+Upper sidewall panels only.
+
+Where are passenger oxygen masks stored? (Level 1)
+@@In the passenger service unit
+In the seat arm rest
+In the overhead stowage compartment
+
+Where are the A320 aircraft inflation reservoirs of the escape slide of emergency exit door located? (Level 1)
+in the container at the bottom of the door
+In the overhead stowage compartment over the door
+@@In the aft cargo compartment
+
+When you check the pax door escape/slide inflation cylinder, where must the pressure indication be? (Level 1)
+@@In the green GO band
+In the red band
+At zero.
+
+Captain and First Officer Seats electrical control system permits  (Level 1)
+@@Control the seats in vertical and horizontal direction
+Control the seats in vertical and horizontal direction and adjust the backrest
+Control the seats in vertical and horizontal direction and adjust the lumbar rest
+
+What happen when the emergency exit door of A321 aircraft is opened from the outside and slide system is armed? (Level 1)
+The locking mechanism is blocked
+The escape slide will deploy
+@@The slide system is disarmed
+
+Where the inflation reservoir of the emergency exits door of A321 A/C located? (Level 1)
+At the bottom of the door.
+@@In the overhead stowage compartment.
+In the AFT cargo compartment
+
+For the Passenger seat, what is true statement? (Level 1)
+All the armrests are foldable
+@@The armrests between the seat can be folded up
+The outer armrests can be folded up
+
+If a Decompression panel in the cargo compartment was damaged: (Level 1)
+The panel must be repair or replace before flight
+The cargo must be empty for flight
+@@None of above is correct
+
+Where are the  cabin depressurization doors mounted? (Level 2)
+On the upper sidewall panels
+On the ceiling panels
+@@On the lower sidewall panels
+
+The aircraft galley has two optional configurations: wet galley and dry galley (Level 3)
+@@Wet galley has electrical equipment, a potable water supply and waste water equipment.
+Wet galley has a potable water supply only
+Wet galley has no system supplies
+
+From where the escape slide inflation cylinder of Emergency Exit Door (A320 A/C) is checked? (Level 2)
+From the cargo compartment only.
+From the PTP only.
+@@From the cargo compartment or from the PTP.
+
+The cargo loading control box being supplied, which latch insures the energization of the PDUs? (Level 3)
+The door sill latch
+@@The XZ latch.
+The fixed YZ latch.
+
+The side stick armrest of Captain and First Officer seats. (Level 2)
+Possible to lift it vertically and stow it behind the backrest
+Located on the inboard side of the seat
+@@Possible to adjust the height and the tilt angle of the side stick armrest
+
+The Passenger Service/Information Units (PSIUs) (Level 2)
+Has two primary units: Passenger Service Unit (PSU) and Passenger Information Unit (PIU)
+The Passenger Service Unit (PSU), installed above each seat row
+The Passenger Information Unit (PIU), installed above each second seat row
+
+Where is the inflation cylinder of the passenger door escape slide located? (Level 2)
+@@In a container at the bottom of the door.
+In the overhead stowage compartment over the door.
+In the aft cargo compartment.
+
+The A320 aircraft is fitted with emergency evacuation slide at:  (Level 2)
+The 4 entry doors.
+The overwing exits
+@@The 4 entry doors and the overwing exits
+
+Third Occupant seat in the cockpit. (Level 2)
+@@Can slide along the Y-axis to take up a position on the aircraft centerline
+Have longitudinal adjustment
+Can moves longitudinally and vertically
+
+On A320/ A321, the forward and aft cargo compartments can be optionally equipped with: (Level 2)
+A manual cargo loading system.
+@@A semi-automatic cargo loading system.
+A automatic cargo loading system.
+
+When the Lavatory door is locked from inside. Can it be opened this door from outside? (Level 2)
+No, it can not.
+Yes, with the special tool must be used.
+@@Yes, without using special tool.
+
+To remove Passenger escape slide, What do you have to do for safety? (Level 2)
+Install the safety/lock pin in inflation reservoir, install the safety/lock pin in door damper/ emergency cylinder.
+@@Install the safety/lock pin in inflation reservoir, install the safety/lock pin in door damper/ emergency cylinder and disarm striker lever.
+Install the safety/lock pin in inflation reservoir, install the safety/lock pin in door damper/ emergency cylinder, disarm striker lever and pull out the circuit braker (C/B).
+
+In the cargo compartment where are the rapid decompression panels installed? (Level 2)
+In the cut out of the ceiling panels
+In the fixed partition walls
+@@In the cut out of the ceiling panels and lateral right side wall linings
+
+For A320 Passenger door slide raft, the inflation and deployment is automatically initiated when the cabin door is opened in the armed mode. If the escape slide does not inflate automatically, the red manual inflation handle must be pulled. Where the red manual inflation handle is located? (Level 3)
+On the left hand side of the gird bar.
+@@On the right hand side of the gird bar.
+On the middle of the gird bar.
+
+Which device has to be unlocked before closing the slide window? (Level 2)
+@@A locking pin on the sliding window frame.
+The sliding window operating handle.
+None.
+
+Which cabin panels are removable? (Level 2)
+Lower sidewall panels only.
+@@All the panels.
+Upper sidewall panels only.
+
+Where are passenger oxygen masks stored? (Level 2)
+@@In the passenger service unit
+In the seat arm rest
+In the overhead stowage compartment
+
+Where are the A320 aircraft inflation reservoirs of the escape slide of emergency exit door located? (Level 1)
+in the container at the bottom of the door
+In the overhead stowage compartment over the door
+@@In the aft cargo compartment
+
+What happen when the emergency exit door of A321 aircraft is opened from the outside and slide system is armed? (Level 1)
+The locking mechanism is blocked
+@@The slide system is disarmed
+There is no possibility to open the door from the outside
+
+Where the inflation reservoir of the emergency exits door of A321 A/C located? (Level 3)
+At the bottom of the door.
+@@In the overhead stowage compartment.
+In the AFT cargo compartment.
+
+On A320/ A321, the forward and aft cargo compartments can be optionally equipped with: (Level 3)
+A manual cargo loading system.
+@@A semi-automatic cargo loading system.
+A automatic cargo loading system.
+
+To remove Passenger escape slide, What do you have to do for safety? (Level 3)
+Install the safety/lock pin in inflation reservoir.
+Install the safety/lock pin in inflation reservoir, install the safety/lock pin in door damper/ emergency cylinder.
+@@Install the safety/lock pin in inflation reservoir, install the safety/lock pin in door damper/ emergency cylinder and disarm striker lever.

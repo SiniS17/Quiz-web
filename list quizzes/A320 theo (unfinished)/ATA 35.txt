@@ -1,0 +1,271 @@
+The warning message appears amber on the ECAM DOOR/OXY page (Level 3)
+@@In low pressure conditions only.
+in case of overpressure
+In high pressure condition.
+
+Test operation of the crew oxygen system by (Level 1)
+@@Push the reset test slider.
+Using MCDU.
+Check system pressure on ECAM Door/Oxy Page.
+
+How many ways to drop the oxygen masks: (Level 1)
+1.
+2.
+@@3.
+
+On ground, if the chemical oxygen units has been used you must: (Level 1)
+Replaced the unit only.
+Reset and refill the unit.
+@@Replaced the unit and all masks restowed.
+
+The expended generator is show by (Level 1)
+A green stripe indicator.
+@@A black indicator.
+A thermal yellow indicator.
+
+In the passenger oxygen system, a chemical oxygen generator, once activated, delivers Oxygen for: (Level 3)
+30 minutes, if only one mask is in use
+5 minutes, if all masks are used
+@@13 minutes, regardless of the number of the masks used
+
+An oxygen generator starts to make oxygen when: (Level 2)
+The panel is opened.
+@@The lanyard is pulled.
+The MAN OVRD pushbutton on the passenger oxygen control panel is operated.
+
+How is the passenger chemical generator activated? (Level 2)
+By pushing the MASK MAN ON pushbutton.
+As soon as the ALTITUDE PRESSURE SWITCH is closed.
+When the TIME DELAY RELAY is fully energized.
+@@By a release pin which is connected via a lanyard to the oxygen mask
+
+What is indicated when the white "SYS ON" light (Panel 21 VU) on the passenger oxygen system is illuminated? (Level 3)
+The chemical oxygen generators are activated
+The time delay relay is fully energized
+@@The passenger oxygen system is electrically operated
+
+Masks are supplied with undiluted Oxygen on demand if the cabin altitude rises above 14.000 ft, passenger oxygen masks will drop out? (Level 2)
+Only by actuation of a switch on the captain panel
+Automatically by the cabin pressure and/or cabin attendant action
+@@Automatically by the cabin pressure and/or flight crew action
+
+How do the time delay relays control the Pax. system automatic operation (Level 2)
+@@They cut off electrical supply after 30 seconds
+They supply the system for 3 seconds
+They supply the system after 30 seconds
+
+What happen when the 100% position is selected on crew oxygen masks? (Level 3)
+The user breathes filtered cabin air
+The user breathes pure oxygen at a permanent positive pressure.
+@@The user breathes pure oxygen
+
+What is the "reset TEST SLIDER" of crew oxygen system used for? (Level 2)
+To control mask oxygen inlet.
+To prevent oxygen inlet to mask.
+@@To control oxygen supply during tests and mask operation.
+
+The passenger and cabin attendant oxygen system is supplied by: (Level 2)
+@@The chemical oxygen generator units.
+A high pressure oxygen cylinder.
+The high pressure portable cylinder.
+
+The smoke hood system provides breathing means and eye protection for: (Level 2)
+The crew members only.
+@@The crew members and cabin attendants.
+The crew members and passenger.
+
+The oxygen system on the aircraft consists of: (Level 3)
+A fixed high pressure cylinder and a high pressure portable cylinder.
+A high pressure portable cylinder and a chemical generator.
+@@A fixed high pressure cylinder, a high pressure portable cylinder and a chemical generator.
+
+Normally overboard discharge is indicated by: (Level 1)
+A warning on the oxygen control panel 21VU.
+The direct reading pressure gauge on the oxygen cylinder.
+@@A yellow indicator.
+
+The oxygen masks are automatically dropped when (Level 1)
+@@The cabin altitude is higher than 14000 feet.
+The cabin altitude is 8000 feet.
+Positive pressure presented.
+
+The crew oxygen is supplied by: (Level 2)
+A portable bottle.
+@@A high pressure oxygen cylinder.
+A chemical unit.
+
+Without electric the cylinder pressure can be checked by (Level 2)
+@@A direct reading pressure gage.
+An overboard green discharge indicator.
+ECAM indication
+
+With The manual ON/OFF valve is closed the cylinder pressure: (Level 2)
+@@Can be checked by the pressure gage.
+Can not be checked
+Can be checked if electric are available
+
+Overpressure protection of the crew oxygen is achieved by  (Level 2)
+@@A frangible disk type and a pressure relief valve.
+An overpressure valve.
+An overboard green discharge indicator
+
+The chemical generator units provide oxygen for: (Level 1)
+@@Approximately 13 or 15 minutes.
+At least 30 minutes.
+Passenger only.
+
+The oxygen units are installed in the passenger compartment as follows: (Level 3)
+Above the passenger seats.
+Above the passenger seats, in the lavatories.
+@@Above the passenger seats, in the lavatories and at the cabin attendant stations.
+
+The oxygen masks may be dropped: (Level 1)
+Automatically only
+Manually only.
+@@Automatically or manually
+
+In case of failure of the container door opening system. A release tool allows: (Level 2)
+Bypass opening of the door.
+@@Mechanical opening of the door.
+Electrical trigger.
+
+Pressing the MASK MAN ON pushbutton The passenger oxygen masks: (Level 1)
+presented at some case.
+@@presented at any time.
+Presented and oxygen supplied.
+
+The time delay relays control the Pax oxygen system automatic operation by (Level 2)
+@@Cut off electrical supply after 30 seconds.
+Supply the system for 3 seconds.
+Supply the system after 30 seconds.
+
+The chemical oxygen generator supplies a flow of (Level 3)
+@@Low pressure oxygen.
+High pressure oxygen for a minimum time of 13 or 15 minutes.
+A mixture of cabin air and oxygen for passengers.
+
+On ground, used chemical oxygen units (Level 2)
+Are reset by momentarily pressing the TMR RESET pushbutton on the maintenance panel.
+@@Must be replaced.
+Must be recharged.
+
+The passenger and cabin attendant oxygen system can be supplied by: (Level 2)
+The chemical oxygen generator units.
+A high pressure oxygen cylinder.
+@@A portable oxygen bottle and chemical oxygen generator units.
+
+The warning message “REGUL LO PR” appears amber on the ECAM DOOR/OXY page when: (Level 3)
+@@The oxygen pressure drops below the minimum operating pressure of 50 plus or minus 5 PSI.
+in case of overpressure
+In high pressure condition.
+
+An amber half frame appears at oxygen pressure on the ECAM page (Level 3)
+if the crew oxygen pressure is less than 1450 psig.
+@@if the crew oxygen pressure is less than 1500 psig.
+if the crew oxygen pressure is less than 1850 psig.
+
+Which is NOT true? (Level 3)
+The user get pure oxygen when Normal/100% selector is in the 100% position at any aircraft altitude higher than 36000 ft.
+The user get pure oxygen when Normal/100% selector is in the Normal position at any aircraft altitude higher than 36000 ft.
+@@The user get mixure of cabin air and oxygen when Normal/100% selector is in the Normal position at any aircraft altitude higher than 36000 ft.
+
+How you can change “OXY” indication on the DOOR/OXY page from amber to green when you do Operational test of the Crew Oxygen Distribution: (Level 3)
+Push the MASK MAN ON pushbutton switch on the panel 21VU.
+@@Push the OXYGEN/CREW SUPPLY pushbutton switch on the panel 21VU.
+Push the PRESS TO TEST AND RESET pushbutton switch on the oxygen mask stowage boxes.
+
+What does the PASSENGER SYS ON light mean (Level 1)
+The passenger oxygen system has been actived by flight crew.
+@@The signal to release the oxygen mask doors has been sent.
+The passenger oxygen generator has been used.
+
+The discharge indicator which is a green blow-out disc will blow out at a pressure of: (Level 3)
+@@40 to 100 psi
+500 to 1000 psi
+1000 to 1500 psi.
+
+REGUL LO PR Message shown on ECAM page if pressure decreases to: (Level 3)
+@@50 ± 5 psi.
+100 ± 5 psi
+150 ± 5 psi.
+
+When the full-face quick-donning mask is removed, the crew oxygen system is: (Level 3)
+Automatically switched on
+Supplied oxygen to the mask
+@@Armed.
+
+The flag OXY ON will go out of sight when the supply valve: (Level 2)
+Opened.
+Closed.
+@@Closed and reset.
+
+The Normal/100% selector in the Normal position. Above 34778 ft, the crew oxygen system supply: (Level 2)
+@@100 % oxygen,
+80 % oxygen & 20 % cabin air,
+75 % oxygen & 25 % cabin air.
+
+How to know the PAX chemical oxygen generator is used or not more usable: (Level 3)
+@@An indicator on the housing will change color from yellow to black,
+An indicator on the housing will change color from green to red,
+Check on the overhead panel 21VU.
+
+When you Do the operational test of the passenger-oxygen system, If you hold the MASK MAN ON pushbutton switch for more than 30 sec: (Level 3)
+The emergency announcements stop,
+The ON indicator light on the TMR RESET pushbutton switch comes on,
+@@The FAULT indication light in the TMR RESET pushbutton switch comes on.
+
+The Cabin Portable Oxygen Cylinders are equipped with protective device: (Level 2)
+A high-pressure relief valve with a rupture disc
+A low-pressure relief valve
+@@Both A & B.
+
+The aircraft oxygen system has: (A,B1) (Level 1)
+@@A separate crew and pax system
+For the crew a H.P. and a L.P. system
+2 (each) crew cylinders
+
+When the passenger oxygen masks have been deployed automatically: (B1,B2) (Level 1)
+To reset the system provisions are available at the oxygen generators
+The crew will automatically receive oxygen at the same time
+@@The timer relay is reset by its pushbutton on panel 50 VU
+
+Can the crew oxygen cylinder pressure be checked when there is no electrical power? (A,B1,B2) (Level 1)
+@@Yes
+No
+Never
+
+What indicates an overboard discharge? (A,B1,B2) (Level 1)
+A warning on the oxygen control panel 21VU.
+The direct reading pressure gauge on the oxygen cylinder.
+@@A yellow indicator.
+
+The TMR reset fault light comes on if?  (B1,B2) (Level 1)
+The reset operation is not yet completed.
+The reset operation has failed
+@@The time delay relays has failed during the automatic operation.
+
+What is the function of the hood absorption system of the smoke hood? (B1) (Level 1)
+To add oxygen to the expired gas.
+@@To trap the carbon dioxide contain in the expired gas
+To allow the expired gas to flow out the hood
+
+A manual ON/OFF valve of flight crew Oxygen Cylinder  is used: (B1,B2) (Level 1)
+@@During the replacement of the cylinder and to isolate the cylinder if there is a leak in the oxygen system.
+Allow flight crew to adjust the air flow into the masks.
+To reduce the air pressure  from high pressure to low pressure
+
+A direct-reading pressure gage of flight crew Oxygen Cylinder: (B1,B2) (Level 1)
+Provide direct indication of the cylinder high-pressure to flight crew during flight.
+@@Independent of the open or closed position of the manual ON/OFF valve.
+Ground engineer must check oxygen pressure through direct-reading pressure gage before dispatch the aircraft.
+
+Low-Pressure Supply Valve of flight crew Oxygen system is: (B1,B2) (Level 1)
+A manual ON/OFF valve and can control from avionic compartment.
+@@A solenoid valve and can control from the control panel in the cockpit.
+A manual ON/OFF valve and can control from the control panel in the cockpit.
+
+A warning signal "REGUL LO PR" appears on the ECAM when: (B1,B2) (Level 1)
+@@Pressure of the distribution manifold decreases to 50 ± 5 psi.
+Pressure of Crew Oxygen Cylinder decreases to 1000 ± 5 psi
+Pressure of Crew Oxygen Cylinder decreases to 1450 ± 5 psi
+

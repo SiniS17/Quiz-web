@@ -1,331 +1,332 @@
 The function of the Fuel Tank Inerting System (FTIS) is: (level 1)
-A.	FTIS supplies inert gas into center tank to reduce flammability
-B.	FTIS supplies inert gas into wing tank to reduce flammability
-C.	FTIS supplies inert gas into all fuel tank to reduce flammability
+@@FTIS supplies inert gas into center tank to reduce flammability
+FTIS supplies inert gas into wing tank to reduce flammability
+FTIS supplies inert gas into all fuel tank to reduce flammability
 
 The CSAS operates (level 1)
 All the time.
 In flight only.
-On ground to test system or in flight
+@@On ground to test system or in flight
 
 What is the function of TCM? (level 1)
-A.	Controls the air temperature of the air to approximately 40deg.C
-B.	Controls the air temperature of the air to approximately 60deg.C
-C.	Controls the air temperature of the air to approximately 80deg.C
+Controls the air temperature of the air to approximately 40deg.C
+@@Controls the air temperature of the air to approximately 60deg.C
+Controls the air temperature of the air to approximately 80deg.C
 
 What is the function of IGGS? (level 1)
 Discard Nitrogen Enriched Air (NEA) and collect Oxygen Enriched Air (OEA)
-Discard Oxygen Enriched Air (OEA) and collect Nitrogen Enriched Air (NEA)
+@@Discard Oxygen Enriched Air (OEA) and collect Nitrogen Enriched Air (NEA)
 Discard Oxygen Enriched Air (OEA) and discard Nitrogen Enriched Air (NEA)
 
 How IGGS Controller Unit can monitor the ASM health? (level 1)
-By data from Oxygen sensor.
+@@By data from Oxygen sensor.
 By data from Pressure sensor.
 By data from Temperature sensor.
 
 In IGGS, what happen when air stream pressure less than 15PSI and temperature more than 85 deg.C?  (level 1)
 Isolation valve closes.
-Isolation valve and dual flow shut- off valve close.
+@@Isolation valve and dual flow shut- off valve close.
 Isolation valve, dual- flow shut off valve and dual- flapper check valve close.
 
 In flight, when FTIS is failure. what's correct ? (level 2)
 ECAM warning message come into view.
 There is no cockpit effect.
-There is no cockpit effect in flight but maintenance Status message occur on ground.
+@@There is no cockpit effect in flight but maintenance Status message occur on ground.
 
 What sentence is correct? (level 1)
-A. CSAS isolation valve: electrical controlled, pneumatic actuated.
-B. CSAS isolation valve: electrical controlled, electrical actuated.
-C. CSAS isolation valve: pneumatic controlled, pneumatic actuated.
+@@CSAS isolation valve: electrical controlled, pneumatic actuated.
+CSAS isolation valve: electrical controlled, electrical actuated.
+CSAS isolation valve: pneumatic controlled, pneumatic actuated.
 
 What is the acceptable oxygen concentration percentage for commercials aircraft ? (level 1)
 9%
-12%
+@@12%
 20%
 
 What controls the Conditioned Service Air System (CSAS)? (level 1)
 Pack controller 1( or ACSC 1)
 Pack controller 2( or ACSC 2)
-CCU(CSAS Controller Unit)
+@@CCU(CSAS Controller Unit)
 
 What controls the Inert Gas System ( IGGS)? (level 2)
 Pack controller 1( or ACSC 1)
 Pack controller 2( or ACSC 2)
-ICU(IGGS Controller Unit)
+@@ICU(IGGS Controller Unit)
 
 Purpose of Fuel Tank Inerting System is: (level 1)
 Isolate the tank from fuel sytem within the conditions of tank leak
-Protection to decrease the risk of fire and explosion in the tank
+@@Protection to decrease the risk of fire and explosion in the tank
 Increase Fleet Flammability Exposure to satisfactory levels
 
 Fuel Tank Inerting System (FTIS) : (level 2)
-Causes inert condition in the ullage space, refer above of fuel
+@@Causes inert condition in the ullage space, refer above of fuel
 Causes inert condition in the ullage space, refer below of fuel
 Causes inert condition in the ullage space, refer surround  of fuel
 
 How many sub-sytem of the FTIS: (level 1)
 1
-2
+@@2
 3
 
 What is supply a conditioned air stream of the correct temperature, pressure and flow (level 2)
 FTIS
 IGGS
-CSAS
+@@CSAS
 
 Iner gas goes into the tank, it push the air with oxygen to (level 2)
 Overboard
-Through the vent line of the fuel tank
+@@Through the vent line of the fuel tank
 Direct to NACA intake
 
 Which component divide air into OEA and NEA: (level 2)
-Air Separation Module
+@@Air Separation Module
 Conditioned Service Air System (CSAS)
 D-ULPA Filter
 
 Which sensor data help to know ASM health, monitor FTIS performance one time for each flight during the cruise phase (level 1)
 Temperature sensor
 Pressure sensor
-Oxygen sensor
+@@Oxygen sensor
 
 Where does the FTIS get air source from? (level 2)
-The CSAS supplies the conditioned air to the Inert Gas Generation System (IGGS).
+@@The CSAS supplies the conditioned air to the Inert Gas Generation System (IGGS).
 Direct from Engine bleed.
 Outside of Aircraft.
 
 What is purpose of Fuel Tank Inerting System (FTIS)? (level 2)
-
 To pressurize of the  Fuel tank?
-FTIS gives protection to decrease the risk of fire and explosion in the center fuel tank.
-
+@@FTIS gives protection to decrease the risk of fire and explosion in the center fuel tank.
 FTIS gives conditioned air to Air conditioning system?
 
 What is the correct statement? (level 1)
 The OEA goes out of the Air Separation Module to the fuel tank.
 The OEA goes out of the Air Separation Module to the bleed system.
-The OEA goes out of the Air Separation Module to the atmosphere.
+@@The OEA goes out of the Air Separation Module to the atmosphere.
 
 What is the function of Air Separation Module? (level 2)
-It divide the air into OEA and NEA streams.
+@@It divide the air into OEA and NEA streams.
 It cool the air  which go into the fuel tank.
 None of above is correct answer.
 
 Which computers involve in the FTIS controlling/monitoring? (level 1)
 Pack controller.
 BMC (Bleed Monitoring Controller).
-ICU (IGGS Controller Unit).
+@@ICU (IGGS Controller Unit).
 
 How to test/reset the Fuel Inert System? (level 2)
 Test with bleed via MCDU only.
 Test without bleed via MCDU only.
-Test with bleed or without bleed via MCDU.
+@@Test with bleed or without bleed via MCDU.
 
 How does the FTIS operates? (level 2)
-The FTIS operates automatically in flight.
+@@The FTIS operates automatically in flight.
 The FTIS operates when the pilot select P/B in flight.
 The FTIS operates automatically in flight and on ground.
 
 The fuel tank is inert when the average oxygen concentration: (level 2)
-Below 12% at sea level up to 3048 m (10000.18 ft.).
+@@Below 12% at sea level up to 3048 m (10000.18 ft.).
 Below 15% at sea level up to 3048 m.
 12% to 14% at sea level up to 3048 m.
 
 The isolation valve closes if:  (level 1)
 The air stream pressure is less than 15 psi (1.0342 bar)
 The air stream temperature is hotter than 85 deg.C
-A and/or B.
+@@A and/or B.
 
 The oxygen sensor measures the oxygen concentration of the: (level 2)
-NEA flow.
+@@NEA flow.
 OEA flow.
 NEA flow and OEA flow.
 
 FTIS operate on ground when: (level 2)
 FTIS operate in fligh only.
-Maintenance operations.
+@@Maintenance operations.
 Select P/B on cockit.
 
 The Fuel Tank Inerting System (FTIS) reduces the amount of oxygen in the air within: (level 2)
-Center tank
+@@Center tank
 Wing tank
 ACT
+All above
 
 The OEA is sent to the: (level 1)
 Center tank
 Pack 1
 Cabin
+@@Overboard
 
 The ICU control the valve to closes in case of: (level 2)
 Too low pressure
 Overtemperature
-a and b
+@@a and b
 
 Which computer controlling the ASM (level 1)
 CCU
 ICU
-None of above
+@@None of above
 
 Where is the temperature sensor? (level 2)
 Downstream of IGGS Isolation Gate Valve
-Downstream of D-ULPA
+@@Downstream of D-ULPA
 Downstream of ASM
 
 What is the cockpit effect when the FTIS is malfunctioning? (level 2)
 There is ECAM Warning.
-There is Maintenance status message.
+@@There is Maintenance status message.
 There is Reminding memo message on upper ECAM.
 
 Which computers involve in the FTIS controlling/monitoring? (level 1)
-ICU and CCU
+@@ICU and CCU
 ACSCs
 ICU, CCU and ACSCs
 
 Where does the FTIS get air source from? (level 3)
-From pneumatic system
+@@From pneumatic system
 From ram air source
 From the air conditioning system directly from mixer unit.
 
 Where is the oxygen sensor? (level 3)
-Downstream of ASM
+@@Downstream of ASM
 Upstream of ASM
 Inside of ASM
 
 What happen if the oxygen sensor senses an oxygen concentration higher 12% (level 1)
 IGGS Isolation Gate Valve close
 DFSOV close
-Both of above
+@@Both of above
 
 WHERE DOES THE FTIS GET AIR SOURCE FROM? (level 3)
 Outside
 Pack 1
-Air bleed
+@@Air bleed
 
 Where does OEA go after flown ASM (Air Separate Module)? (level 3)
 continues to inside system for ventilation center fuel tank
 support further to crew oxygen system
-discharge outboard
+@@discharge outboard
 
 What is D-ULPA (Double Ultra Low Partical Air) filter for? (level 3)
-Remove dust from the air which going to air separate module
+@@Remove dust from the air which going to air separate module
 Separate air to be OEA (Oxygen Enriched Air) and NEA (Nitrogen Enriched Air)
 Absorb moisture and dust from air before coming to air separate module
 
 What is result if over temperature detected in the duct?
 IGGS still works with air is taken from another source
-Isolation valve closes for protection
+@@Isolation valve closes for protection
 Isolation valve open half travel
 
 To test inert gas system, what configuration you have to set? (level 1)
 No bleed works during test
 Pack 1 is on
-align ADIRU1 then follow test with or without bleed
+@@align ADIRU1 then follow test with or without bleed
 
 To test inert gas system with bleed, you set up? (level 1)
 align ADIRU1 only
-align ADIRU1, Bleed on, and Pack 1 on
+@@align ADIRU1, Bleed on, and Pack 1 on
 Bleed on
 
 When temperature is detected raising y sensor  (level 3)
-IGGS mode will be degraded
+@@IGGS mode will be degraded
 IGGS mode will be upgraded
 IGGS mode is not affected because it has only one mode
 
 Temperature sensor has 2 channel analog and digital. What are those? (level )
 Both analog and digital channels control IGGS modes which analog control is back-up
 Digital channel controls isolation valve while analog channel controls IGGS modes
-Digital channel controls IGGS mode while analog channel controls isolation valve
+@@Digital channel controls IGGS mode while analog channel controls isolation valve
 
 Which fuel tank is NEA functional in? (level 3)
-center tank
+@@center tank
 all tanks
 wing tanks
 
 Does fuel tank inert system work on ground? (level 1)
 In flight or on ground
-In flight only
+@@In flight only
 on ground only
 
 How fuel tank inert system works? (level 3)
-By supply only nitrogen enriched air into fuel tank ullage space
+@@By supply only nitrogen enriched air into fuel tank ullage space
 By supply air mixed mainly between oxygen and nitrogen air into fuel tank ullage space
 By supply only oxygen enriched air into fuel tank ullage space
 
 What is the purpose of the Fuel Tank Inerting System (FTIS) ? (level 3)
-A.	The FTIS creates inert conditions in the ullage space of the fuel tank
-B.	The FTIS reduces the spark generation in the ullage space of the fuel tank
-C.	The FTIS reduces the fuel vapor concentration in the ullage space of the fuel tank
+@@The FTIS creates inert conditions in the ullage space of the fuel tank
+The FTIS reduces the spark generation in the ullage space of the fuel tank
+The FTIS reduces the fuel vapor concentration in the ullage space of the fuel tank
 
 Where does the FTIS get air source from? (level 3)
-A.	Ambient air( RAM air)
-B.	Cabin recirculated air
-C.	Pneumatic system( through conditioned process)
+Ambient air( RAM air)
+Cabin recirculated air
+@@Pneumatic system( through conditioned process)
 
 IGGS discards: (level 3)
-A.	Oxygen Enriched Air (OEA) overboard
-B.	Nitrogen EnRiched Air (NEA) overboard
-C.	Oxygen Enriched Air (OEA) to the vent line of fuel tank
+@@Oxygen Enriched Air (OEA) overboard
+Nitrogen EnRiched Air (NEA) overboard
+Oxygen Enriched Air (OEA) to the vent line of fuel tank
 
 The Dual Flow and Shut-Off Valve(DFSOV) is used: (level 3)
 To isolate the IGGS from the CSAS.
-To shut-off and to give the correct flow for the related flight phase.
+@@To shut-off and to give the correct flow for the related flight phase.
 To isolate and to prevent reverse flow of fuel vapor from the tanks.
 
 Air Separation Module provides air: (level 3)
-A.	Rich in carbon dioxide
-B.	Depleted in oxygen.
-C.	Free of dust
+Rich in carbon dioxide
+@@Depleted in oxygen.
+Free of dust
 
 What is the maximum acceptable oxygen concentration percentage for commercials aircraft ? (level 3)
-A.	9%
-B.	12%
-C.	20%
+9%
+@@12%
+20%
 
 Function of IGGS is: (level 3)
-A.	Correct temperature, pressure of condioned air stream and supply to CSAS
-B.	Remove oxygen from the airstream, and supply Oxygen Enriched Air (OEA) to the fuel tank
-C.	Remove Oxygen from the airstream, make Nitrogen Enriched Air (NEA) and Oxygen Enriched Air (OEA)
+Correct temperature, pressure of condioned air stream and supply to CSAS
+Remove oxygen from the airstream, and supply Oxygen Enriched Air (OEA) to the fuel tank
+@@Remove Oxygen from the airstream, make Nitrogen Enriched Air (NEA) and Oxygen Enriched Air (OEA)
 
 IGG discards: (level 3)
-A.	Oxygen Enriched Air (OEA) overboard
-B.	Nitrogen EnRiched Air (NEA) overboard
-C.	Oxygen Enriched Air (OEA) to the vent line of fuel tank
+@@Oxygen Enriched Air (OEA) overboard
+Nitrogen EnRiched Air (NEA) overboard
+Oxygen Enriched Air (OEA) to the vent line of fuel tank
 
 The Inert Gas Generation System ( IGGS) operates : (level 3)
 In flight only.
 All time when available.
-On ground to test system or in flight.
+@@On ground to test system or in flight.
 
 The Dual Flow and Shut-Off Valve (DFSOV) is used: (level 3)
 To isolate the IGGS from the CSAS.
-To shut-off and to give the correct flow for the related flight phase.
+@@To shut-off and to give the correct flow for the related flight phase.
 To isolate and to prevent reverse flow of fuel vapor from the tanks.
 
 Iner gas use in FTIS to make iner condions in fuel tank: (level 2)
 Oxygen
-Nitrogen
+@@Nitrogen
 Helium
 
 What is the function of the Conditioned Service Air System (CSAS)? (level 2)
 Supplies NEA( Nitrogen Enreached Air) into center fuel tank
 Discharged OEA( Oxygen Enreached Air) outboard
-Provides conditioned air to the IGGS( Inert Gas Generation System)
+@@Provides conditioned air to the IGGS( Inert Gas Generation System)
 
 What controls the Inert Gas Generation System ( IGGS)? (level 2)
 Pack controller 1( or ACSC 1)
 Pack controller 2( or ACSC 2)
-ICU (IGGS Controller Unit)
+@@ICU (IGGS Controller Unit)
 
 Where does the Conditioned Service Air System (CSAS) locate? (level 2)
 Near the air conditioning pack #2 in the belly fairing on the righ hand side of the aircraft
-Near the air conditioning pack #1 in the belly fairing on the left hand side of the aircraft
+@@Near the air conditioning pack #1 in the belly fairing on the left hand side of the aircraft
 In the main landing gear bay
 
 Where is the temperature sensor? (level 2)
 Downstream of IGGS Isolation Gate Valve
-Downstream of D-ULPA
+@@Downstream of D-ULPA
 Downstream of ASM
 
 What is the cockpit effect when the FTIS is malfunctioning? (level 2)
 There is ECAM Warning.
-There is Maintenance status message.
+@@There is Maintenance status message.
 There is Reminding memo message on upper ECAM.
+

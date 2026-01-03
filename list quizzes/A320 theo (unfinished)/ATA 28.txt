@@ -1,0 +1,419 @@
+A320, fuel stored in: (level 1)
+Center tank, inner cell, outer cell and vent surge tank
+Center tank, inner cell, and vent surge tank
+@@Center tank, inner cell and outer cell
+
+Fuel is used (level 1)
+First center tank, outer cell then inner cell
+First inner cell, outer cell then center tank
+@@First center tank, inner cell then outer cell
+
+Transfer valves allow fuel to be transferred from  (level 1)
+Inner to Outer cells.
+@@Outer to Inner cells.
+Left to right wing
+
+Transfer valves are controlled by (level 2)
+@@low level sensors in Inner cell
+high level sensors in outer cell
+low level sensors in Inner cell and high level sensors in outer cell
+
+APU pump runs (level 2)
+when a tank pump push button is set to ON
+when a tank pump push button is set to OFF
+@@if the tank pumps are not operating
+
+The MODE SEL pushbutton selects  (level 2)
+@@the center tank pumps to automatic or manual mode
+the center tank and wing tank pumps to automatic or manual mode
+the fuel feeding to automatic or manual mode
+
+In MAN mode, the CTR TK pumps are  (level 2)
+@@manually switched off when the CTR TK is empty
+automatically switched off when the CTR TK is empty
+automatically switched off when the CTR TK is low level and 5 minutes
+
+Amber box on FOB means (level 2)
+FOB is not accurate
+FOB is too low
+@@FOB is not entirely usable
+
+After landing, engines stop F.USED Is (level 2)
+zero
+amber
+@@Not zero
+
+ECAM displays “FUEL: AUTO FEED FAULT” when (level 2)
+Wing tank pumps run while center tank pumps is running
+@@L or R wing tank less than 5000 KG and the center tank is above 250 KG
+center tank pumps stop before center tank low level
+
+After cooling IDG oil, fuel returns to  (level 1)
+@@outer cell
+inner cell
+center tank
+
+A320, FULL and underfull sensors are used to (level 1)
+@@Close the refuel valve when the tank is full
+Stop the center tank pumps
+Stop fuel recirculation
+
+The Refuel valve is controlled to close by the  (level 1)
+high level sensor
+@@full sensor
+overflow sensor
+
+To control fuel recirculation (level 1)
+@@FLSCU takes signal from sensors in the wing tank
+FLSCU takes signal from sensors in the wing tank and center tank
+ECU takes signal from sensors in the wing tank
+
+A320, to transfer from center tank to L wing (level 1)
+Defuel/Transfer valve open, L wing refuel valve open, wing tank pumps run
+@@Defuel/Transfer valve open, L wing refuel valve open, center tank pumps run
+Defuel/Transfer valve open, L wing refuel valve close, center tank pumps run
+
+A321, to transfer from center tank to R wing (level 1)
+Defuel/Transfer valve open, R wing refuel valve open, wing tank pumps run
+@@Defuel/Transfer valve open, R wing refuel valve open, center tank pumps run
+Defuel/Transfer valve close, R wing refuel valve close, center tank R transfer valve open, R wing tank pump run.
+
+A321, fuel transfer from center tank to wing tank stopped by (level 1)
+@@high level sensor in the wing tank
+full level sensor in the wing tank
+overflow sensor in the vent surge tank
+
+A321, can we check fuel qty of ACT on REFUEL PANEL (level 1)
+@@no,
+no, only center tank qty
+yes, when set the FQI CTR/ACT Selector to ACT
+
+A321, when auto refuel (level 3)
+ACT will be refueled regardless the preselected fuel quantity
+@@ACT will only be refueled if the preselected fuel quantity is greater than the maximum capacity of both the center tank and the wing tanks
+ACT will be refueled after center tank is full
+
+The fuel in the ACT(Additional Center Tank) on A321 is emptied first by forward transferring using: (level 1)
+ACT transfer pump
+@@suction of jet pumps of center tank
+cabin pressure
+
+If fuel quantity in wing tanks are not balanced before refuel: (level 2)
+@@Fuel automatically becomes balance after automatic refuel.
+You have to balance the tanks by manual refuel operation.
+It is accepted to have fuel in wing tanks not balancing.
+
+The Fuel Used indication on ECAM is reset: (level 2)
+Manually by the pilot.
+@@Automatically at engine start on the ground.
+Automatically at electric power up of the aircraft.
+
+What happens when the first inner tank level reaches 750kg ( A320)?  (level 3)
+Transfer valves on the associated wing will open
+@@One transfer valve in each wing will open
+The centre tank pumps will stop
+
+The Fuel Quantity Indicating System comprises: (level 3)
+Two FQIC and two FLSCU.
+@@One FQIC and two FLSCU.
+One FQIC and one FLSCU.
+
+Center tank is supplying, are wing tank pumps running? (level 3)
+@@Yes, wing tank pumps are always running.
+No, only when center tank is empty.
+No, because of center tank pump priority.
+
+The engine LP valve closes when: (level 2)
+The fuel booster pumps pressure decreases.
+@@The engine is shut down or the ENG FIRE pushbutton is released out.
+The engine fire detection system senses an engine fire.
+
+What is the function of the main pump pressure switch? (level 3)
+@@Monitor the pump pressure for the low pressure warning
+Monitor the pump for overpressure warning.
+Stop the pump when over pressure occurred
+
+The APU pump operation is controlled by: (level 3)
+@@APU Pressure switch.
+A push-button switch on the overhead panel.
+A push-button switch on the Refuel/Defuel panel
+
+Refuel valves may be actuated: (level 3)
+Electrically only.
+Manually only.
+@@Electrically or manually.
+
+The fuel level magnetic indicators are used when: (level 3)
+The quantity indicating system is inoperative.
+There is no electrical power.
+@@There is no electrical power and the quantity indicating system is inoperative.
+
+Which statement below is true regarding A321?(level 3)
+The XFR valves are automatically set to open or closed, independently of each other.
+In MAN mode the XFR valves operates continuosly until the related CTR TK XFR sw is released out.
+@@Both are correct
+
+The recirculation fuel is returned into(A320): (level 1)
+@@Wing tank outer cell,
+Center tank,
+Wing tank inner cell.
+
+APU fuel can be supplied from? (level 3)
+L/H engine fuel feed system.
+R/H engine fuel feed system.
+@@L/H or R/H depends on position of cross-feed valve.
+
+Push and hold APU fuel Vent Push button in APU compartment caused: (level 3)
+@@APU pump operates; APU fuel low pressure valve open to purge APU fuel feed line.
+To prevent APU pump operation.
+APU pump operates; APU fuel low pressure valve open to ventilate APU fuel feed line.
+
+What statement is correct about APU pump? (level 2)
+The pump running as long as it is turned on.
+@@The pump running when pressure in the cross-feed line is low.
+The pump running when pressure in the cross-feed line is high.
+
+How to transfer Additional Center Tank (ACT) fuel to inner tank? (level 3)
+By manual and automatic mode.
+Only automatic mode.
+@@ACT fuel transfer to center tank only.
+
+Push and hold HI LVL test push button on fuel service panel, you: (level 1)
+Do the high level function test.
+Do the light and indication test.
+@@All above.
+
+A321 fuel system: (level 3)
+Fuel in center tank is directly feed engines by 2 center tank pumps.
+@@Fuel in center tank is transferred to inner tank to feed engines.
+Fuel first feed engines from inner tank, when inner tank is empty. The center tank pumps start to transfer fuel to inner tank.
+
+A320 engine fuel feed system: (level 3)
+Fuel in wing tank is empty first by the sequence valve.
+@@Fuel in center tank is empty first by the sequence valve.
+When slat is extended, only 2 center tank pumps are running to feed engine.
+
+If all fuel pumps are inoperative. Engines are still supplied fuel by: (level 2)
+Gravity suction valve.
+@@Suction by engine fuel drive pump via suction valve.
+Suction by engine fuel drive pump via sequence valve.
+
+The recirculated fuel is returned into the: (A320) (level 1)
+@@Wing tank outer cell,
+Center tank,
+Wing tank inner cell.
+
+The APU fuel system: (level 2)
+Uses it's own dedicated DC powered fuel pump.
+Obtains fuel from either center tank pump.
+@@Obtains fuel from the left fuel manifold via the left side fuel pumps or if needed, the APU fuel pump.
+
+What does the fuel mode sel pushbutton control? (A321) (level 2)
+Center and wing tank pumps
+@@Center tank XFR valves
+Wing tank pumps only
+
+During refueling, the wing tank is filled in the following order: (A320) (level 3)
+@@The Outer cell first, then the Inner cell
+The Outer cell and Inner cell at the same time
+The Inner cell first, then the Outer cell
+
+The center tank is vented into: (level 1)
+@@The left vent surge tank.
+The right vent surge tank.
+The left wing tank
+
+Refuel valves may be controlled: (level 1)
+Electrically only
+Manually only
+@@Electrically or manually
+
+The END light in the refuel/defuel panel illuminate, means? (level 3)
+@@Pre-selected fuel is equal to actual fuel.
+All fuel tanks are full, refuel process stopped automatically.
+Any high level sensor detected fuel.
+
+What happens when low level is detected in the inner cell? (A320) (level 3)
+@@Inner cell transfer valves open.
+Inner cell transfer valves close to isolate the inner cells
+Pumps restart to suck fuel from outer cells.
+
+CENTER TANK XFR VALVES ARE USE TO: (A321) (level 2)
+@@Transfer fuel from center tank to wing tanks through the jet pumps.
+B.    Transfer fuel from center tank to the engines through the jet pumps.
+C.    Transfer fuel from center tank to the APU feed line
+
+IN NORMAL OPERATION, EACH ENGINE IS SUPPLIED BY: (A321) (level 3)
+One wing tank and/ or one center tank pump
+B.   Two wing tanks and/ or two center tank pumps
+@@C.   Two wing tanks
+
+ARE MAIN PUMPS RUNNING WHILE CENTER TANK IS TRANSFERRING? (A321) (level 2)
+@@Yes, main pumps are always running.
+B.   No, only when center tank is empty.
+C.   No, because of center tank pump priority.
+
+During normal operations when should the fuel intercell transfer valves open (A320)? (level 2)
+When a low level is sensed in the center tank.
+When a low level is sensed in either outer wing cell.
+@@When low level is sensed in either inner wing cell.
+
+What is the function of the sequence valves? (A320) (level 2)
+Give priority to wing tank pumps supply.
+Give priority to refuel the wing tank before the center tank.
+@@Give priority to center tank pump supply by limiting wing tank pumps output pressure.
+
+In flight, slats are extended, with fuel in the center tank, Auto mode is selected (A320): (level 2)
+Center tank pumps start.
+@@Center tank pumps stop.
+Center tank pumps start to transfer fuel to the wing tanks.
+
+The function of the pressure holding valve is: (level 3)
+@@To prevent fuel boiling.
+To avoid fuel overpressure
+To prevent fuel returns to the engine
+
+The Fuel used indication on ECAM is reset: (level 1)
+@@At engine start
+At engine shut down
+At aircraft power up.
+
+The fuel level sensing control units (FLSCUs): (level 1)
+Monitor the fuel probes.
+@@Monitor all the level sensors and temperature sensors.
+Control the wing tank pumps in Auto mode.
+
+When a high level sensor is immersed in fuel: (level 3)
+@@The related refuel valve automatically closes
+The related refuel valve opens
+You should manually close the related refuel valve
+
+From the Engine, recirculated fuel returns to: (level 3)
+@@Wing tank
+Center tank
+Dry tank
+
+FADEC close the fuel return valve (Level 3)
+@@With a signal from the FLSCU.
+If the IDG oil is too hot
+With an outer cell overfilling
+
+IF slats extaend, with fuel in the center tank, all pumps are running, center tank pumps are on “AUTO” mode? (Level 2)
+@@Center tank pumps stop.
+Center tank pumps start
+Wing tank pumps start
+
+If a high level is detected?(Level 1)
+A warning is triggered: too much fuel
+@@The corresponding REFUEL valve closes.
+All the refueling operating is stopped
+
+If the center tank is empty, in auto mode, center tank pumps: (Level 1)
+Must be manually switched OFF
+Stop and wing tank pumps start running
+@@Stop automatically.
+
+Re-circulated fuel (A320) returns to:(Level 1)
+Inner cells
+@@Outer cells.
+Center tanks
+
+Which tank are the main supply tanks (A320)?(Level 1)
+@@Center tank and Inner cells
+Outer cells.
+Center tanks
+
+When center tank is empty, in AUTO mode, the center tank tranfer valve: (Level 3)
+Must be manual OFF after 5mn
+@@Close automatically after a time delay of 5 mn.
+Stop automatically and wing pump start
+
+IDG SHUT OFF sensor use for:(Level 2)
+@@Stop the cooling fuel recirculation.
+Stop the center tank transfer valve
+Restart cooling fuel recirculation
+
+The vent float valves:(Level 2)
+@@Prevent fuel entering the vent line.
+Allow fuel drain from vent line
+Maintain the fuel tanks pressurized
+
+In which tank are temperature sensor fitted?(Level 1)
+Inner cells
+@@Wing tanks.
+Center tanks
+
+Are main pump running while center tank is transfering?(Level 2)
+@@Yes, main pumps are alway running.
+No
+No, because CTR tank pump is priority
+
+Fuel drain valve used to:(Level 2)
+Decrease fuel flow in R/D gallery
+Avoid a reverse flow to R/D gallery
+@@Drain remaining fuel from R/D gallery.
+
+Refuel/defuel electrical circuit are enable by:(Level 3)
+Aircraft electrical network only
+Contact of the panel door position relay.
+Carry out HI LVL test
+
+Refuel valve normally open by:(Level 3)
+@@Energization of a solenoid and application of fuel pressure.
+Only pressing in the manual command p/b
+Only by open refuel panel
+
+Refuel valve may be actuated:(Level 2)
+Electrically
+@@Electrically and manually.
+Manually
+
+A320 inner cell is refuelled only when:(Level 1)
+Center tank is full
+@@Outer cells is full.
+Center tanks is empty
+
+How many motor in APU LP valve:(Level 3)
+One DC motor
+@@Two DC motor.
+Two: 1 DC motor, 1 AC motor
+
+Apu fuel pump pressure switch use to:(Level 3)
+Signal any low pressure to ECAM
+@@Control the APU pump operation.
+Shut of APU LP valve in case of fire
+
+On ground, engine off, how to close fuel LP valve?(Level 3)
+By disconnect Aircraft electrical power
+By ENGNE FIRE p/b release
+@@The valve is ready closed.
+
+In normal condition, which tank will be emptied first?(Level 1)
+Inner cell
+@@Center tank.
+Outter cell
+
+The APU can normally be supplied with fuel by:(Level 3)
+Apu pump only.
+LH main pumps only.
+@@Both APU pump and LH main pump.
+
+Fuel Quatity Indicating system comprise:(Level 2)
+1 FQIC and 1 FLSCU
+2 FQICs and 1 FLSCU
+@@1 FQIC and 2 FLSCUs.
+
+FRTT valve closes if: (Level 2)
+Fuel temperature in the wing tank is low
+Fuel under-full level is sensed
+@@Vent surge tank overflow is sensed
+
+When will the wing tank pumps supply the fuel to the engine? (Level 2)
+@@until approximately 500 kg of fuel are used and the UNDERFULL sensor is reached.
+until approximately 500 kg of fuel are used.
+Until the UNDERFULL sensor is reached.
+
+How does the FRTT close when the fuel temperature is too high in the outer cell? (Level 2)
+@@the EEC closes the FRTT.
+the FLSCU closes the FRTT.
+the FLSCU sends a closure signal directly to the EEC to close the FRTT.

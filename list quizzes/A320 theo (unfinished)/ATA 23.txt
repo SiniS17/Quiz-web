@@ -370,10 +370,8 @@ DFRC in case of SSCVR has failure.
 
 When does the SSCVR operate? (level 3)
 @@On the ground with at least one engine running.
-
 When has energization of the aircraft electrical network?
 When parking brake release.
-Ref. Communication Training Documentation, page 56
 
 The cockpit voice recorder (CVR) records: (level 3)
 In-flight and on-ground crew conversations.
@@ -749,3 +747,4 @@ When is the CVR automatically supplied: (level 3) (Câu này không đúng, đ
 The aircraft in flight with at least one engine is stopped.
 The aircraft on the ground any time
 @@The aircraft on the ground with two engines not running and GND CTL P/B on the RCDR panel is pressed.
+

@@ -1,16 +1,16 @@
 How is the basic temperature regulated by the zone controller? (Level 3)
-By using the lowest zone temperature demand.
+@@By using the lowest zone temperature demand.
 By using the temperature demanded in the three zones.
-@@By using the highest zone temperature demand.
+By using the highest zone temperature demand.
 
 In case of pack controller failure: (Level 3)
-@@The By-pass Valve control pack discharge temperature at a fixed value
-The Anti-Ice Valve control pack discharge temperature at a fixed value
+The By-pass Valve control pack discharge temperature at a fixed value
+@@The Anti-Ice Valve control pack discharge temperature at a fixed value
 The Ram air inlet control pack discharge temperature at a fixed value
 
 The water extractor temperature sensor is used to: (Level 2)
-Modulate the pack outlet temperature.
-@@Modulate the compressor outlet temperature.
+@@Modulate the pack outlet temperature.
+Modulate the compressor outlet temperature.
 Modulate the water extractor outlet temperature.
 
 In closed circuit configuration, the extracted avionics equipment air goes: (Level 3)
@@ -25,8 +25,8 @@ Run when different pressure between inboard and outboard<1psi.
 
 What computers control the cabin and cockpit conditioned air? (Level 2)
 Two pack controllers that pass information and requests to three zone controllers.
-@@Three zone controllers that pass information and instructions to two pack controllers for three zones.
-One zone controller that passes information and instructions to two pack controllers for three zones.
+Three zone controllers that pass information and instructions to two pack controllers for three zones.
+@@One zone controller that passes information and instructions to two pack controllers for three zones.
 
 What is the function of the RAM air inlet valve? (Level 1)
 Ventilation while on the ground.
@@ -38,14 +38,14 @@ Trim air valves are modulated by: (Level 1)
 Anti-ice valve.
 Hot air pressure regulating valve.
 
-Each pack controller regulates the temperature of its associated pack by modulating (Level 2)
+Each pack controller regulates the temperature of its associated pack by modulating  (Level 2)
 The Bypass valve
 The Ram air outlet flap and Ram Air Inlet Flap.
 @@All of the above.
 
 The outflow valve is powered by: (Level 1)
-@@One of two electric motors.
-One of three electric motors.
+One of two electric motors.
+@@One of three electric motors.
 Three mechanically linked electric motors.
 
 When landing elevation is set to auto, the landing elevation is sent to the controller from: (Level 3)
@@ -75,15 +75,15 @@ By zone controller
 
 in case of failure The cooling of the avionic equipments is ensured: (Level 1)
 By cabin air
-By airconditioned air
-@@By RAM air
+@@By airconditioned air
+By RAM air
 
 What are the functions of the anti-ice valve (classical system)? (Level 2)
 To stop the ice formation across the both direction of the condenser.
 To back up the temperature regulation of the pack
 @@Both A and B
 
-What is the main function of the Pack's Flow Control Valve? (Level 2)
+What is the main function of the Pack’s Flow Control Valve? (Level 2)
 To regulate the air pressure supplying by the pneumatic system
 @@To ensure the correct air flow passing through the valve
 To limit the air pressure leaving the valve
@@ -95,8 +95,8 @@ How many safety valves installed on the aircraft? (Level 1)
 
 For the enhanced system, the control of the cockpit and cabin air conditioning system is now ensured by: (Level 3)
 ACSC1 (Air Conditioning System Controller) for FWD and AFT cabin and ACSC 2 for cockpit.
-@@Both ACSCs at the same time.
-ACSC1 for cockpit and ACSC 2 for FWD and AFT cabin.
+Both ACSCs at the same time.
+@@ACSC1 for cockpit and ACSC 2 for FWD and AFT cabin.
 
 The mixer unit flap opens if: (Level 3)
 Pack #2 is selected OFF
@@ -159,9 +159,9 @@ On the PRESS page.
 @@On the BLEED page
 
 How is the basic temperature regulation generated? (Level 2)
-It corresponds to the lowest zone temperature demand,.
+@@It corresponds to the lowest zone temperature demand,.
 It adjusts the temperature in the three zones.
-@@It corresponds to the highest zone temperature demand
+It corresponds to the highest zone temperature demand
 
 The A/C skin temperature is monitored by the AEVC because it is used to: (Level 1)
 @@Control the configuration of the valves of the Avionics Ventilation System
@@ -174,26 +174,26 @@ Cabin Pressure Controller 2 (CPC2).
 The Zone Controller.
 
 Lavatory and galley extract air is used to: (Level 2)
-Ventilate the cabin zone temperature sensors
-@@Ventilate the cockpit zone temperature sensor.
+@@Ventilate the cabin zone temperature sensors
+Ventilate the cockpit zone temperature sensor.
 Ventilate the AFT cargo compartment.
 
 AC with no electric, FCV position is: (Level 3)
 You select LDG ELEV to MAN, cabin pressurization system shall be controlled manually only.
-You select LDG ELEV to MAN, cabin pressurization system shall be controlled automatically.
-@@Cabin pressurization system shall work on the CPC 1 only.
+@@You select LDG ELEV to MAN, cabin pressurization system shall be controlled automatically.
+Cabin pressurization system shall work on the CPC 1 only.
 
 How many components in the Pack where air cooled air cooler principle is used? (Level 3)
-@@2
+2
 3
-4
+@@4
 
 Both packs are operating, what might cause high difference between packs outlet temperature? (Level 3)
-It's normal if the 2 pack components overall ageing is difference
+It’s normal if the 2 pack components overall ageing is difference
 @@Condenser
-Anti --ice valve
+Anti –ice valve
 
-On ground outside temperature is 13°C , what is the config of the AVIONICS VENTILATION system (Level 3)
+On ground outside temperature is 13oC , what is the config of the AVIONICS VENTILATION system (Level 3)
 @@Open
 Closed
 Transient
@@ -204,7 +204,7 @@ To pull the cabin temperature down faster you must OFF the HOT TRIM AIR
 @@When you OFF the CAB FANs, the Flow of air thru cabin is much lower despite having fresh low air temperature
 
 What is most correct? (Level 1)
-ACM INOP, pack still operates in heat -- exchange mode
+ACM INOP, pack still operates in heat – exchange mode
 ACM operation is not controllable, it rotates if there is present of air flow thru its compressor
 @@a and b are correct
 
@@ -214,24 +214,24 @@ After landing with time delay 17 seconds
 After landing with time delay 140 seconds
 
 When CABIN PRESSURE CONTROL operates SEMI-AUTO mode? (Level 3)
-@@01 CPC Fault
+01 CPC Fault
 Both CPCs Fault
-Input from FMGS lost
+@@Input from FMGS lost
 
 The amount of air mixed of cabin air and conditioned air (Level 3)
 Is fixed because cabin fans operate at constant speed
-@@Can be vary by switching CAB FAN P/B ON or OFF
-Can be vary due to the change of bleed air flow thru FCV
+Can be vary by switching CAB FAN P/B ON or OFF
+@@Can be vary due to the change of bleed air flow thru FCV
 
 A pack flow control valve is electrically controlled to close if: (Level 3)
 Engine start, fire P/B released out or leak detection.
-Engine start, fire P/B released out or ditching mode
-@@Engine start, leak detection or ditching mode.
+@@Engine start, fire P/B released out or ditching mode
+Engine start, leak detection or ditching mode.
 
 To dispatch the aircraft with one pack INOP under the appropriate MEL item, Flight Level reduction is? (Level 3)
 Always required.
-@@Only when related Pack FCV need to be secured
-Only when Speed Brake is also INOP
+Only when related Pack FCV need to be secured
+@@Only when Speed Brake is also INOP
 
 If the lavatory and galley ventilation fan is inoperative with classic air conditioning system (Level 3)
 @@The cabin duct temperature is fixed at 15 deg. C
@@ -264,9 +264,9 @@ The crew did not open the outflow valve in the manual mode.
 @@All of above
 
 How to control the pack outlet temperature? (Level 1)
-Pack controller modulates the bypass valve and ram air inlet doors.
+@@Pack controller modulates the bypass valve and ram air inlet doors.
 Zone controller modulates the trim air valves.
-@@All above.
+All above.
 
 How to control of aircraft pressurization? (Level 1)
 By outflow valve.
@@ -284,8 +284,8 @@ Ram air push button must be press ON.
 Ram air emergency flap automatically open when aircraft altitude is lower than 10000 ft.
 
 To test manual motor of outflow valve you do: (Level 3)
-Select Mode selector to Man, V/S control switch is held to down, outflow valve more close.
-@@Select Mode selector to Man, V/S control switch is held to down, outflow valve more open.
+@@Select Mode selector to Man, V/S control switch is held to down, outflow valve more close.
+Select Mode selector to Man, V/S control switch is held to down, outflow valve more open.
 None above.
 
 Feedback signal (position of outflow valve) during manual outflow control mode is sent thru: (Level 3)
@@ -299,9 +299,9 @@ Protect cabin again negative differential pressure.
 @@All above.
 
 If FCV is malfunction aircraft can be dispatched with: (Level 3)
-FCV is secured in close position.
+@@FCV is secured in close position.
 FCV is secured in open position.
-@@All above.
+All above.
 
 FCV is: (Level 2)
 Electrically operated , electrically controlled, spring load opened.
@@ -310,13 +310,13 @@ Pneumatically operated, electrically controlled.
 
 FCV automatic closes in case of? (Level 3)
 Opposite engine start, cross bleed valve in closed position.
-Compressor of air cycle machine over heat.
-@@All above.
+@@Compressor of air cycle machine over heat.
+All above.
 
 The function of mixer unit is: (Level 1)
-Mix air from: packs, cabin re-circulated air.
+@@Mix air from: packs, cabin re-circulated air.
 Mix air from: packs, cabin re-circulated air, trim air from FCV.
-@@All above.
+All above.
 
 AEVC changes system configuration depending on: (Level 1)
 Aircraft skin temperature.
@@ -330,10 +330,10 @@ A turbine, a compressor.
 
 THE FWD ISOL VALVE PUSHBUTTON CONTROLS: (level 2)
 The extraction fan through the ventilation controller.
-The isolation valves and the extraction fan through the ventilation controller.
-@@The isolation valves.
+@@The isolation valves and the extraction fan through the ventilation controller.
+The isolation valves.
 
-ON CARGO VENTILATION SYSTEM, WHEN THE ISOLATION VALVES ARE CLOSED: (level 2)
+ON CARGO VENTILATION SYSTEM, WHEN  THE ISOLATION VALVES ARE CLOSED: (level 2)
 @@The extraction fan stops.
 The extraction fan still run 5 minutes.
 The extraction fan run continuously .
@@ -364,19 +364,19 @@ Pneumatically in manual and automatic mode
 @@Electrically in manual and automatic mode
 
 For the enhanced A/C, which of the following computer calculates the demandflow in normal mode? (level 3)
-ACSC 1
+@@ACSC 1
 ACSC 2
-@@ACSC corresponding to the required pack
+ACSC corresponding to the required pack
 
 The FCV can be locked in: (level 2)
 Open position by means of locking screw located on the valve
-Close position by means of locking screw located on the valve
-@@Either open or close position by means of locking screw located on the valve depending on nature of defect
+@@Close position by means of locking screw located on the valve
+Either open or close position by means of locking screw located on the valve depending on nature of defect
 
 Which statement below is correct regarding the pack operation ? (level 3)
 In the case of dual chanel PC failure the related pack operation is no longer available
 In the case of dual chanel PC failure the related pack outlet temperature is assured by RAM air doors along with BPV
-@@In the case of dual chanel PC failure the related pack outlet temperature is controled to fixed setting by AIV
+@@In the case of dual chanel PC failure the related pack outlet temperature is controled to fixed setting  by AIV
 
 The purpose of the safety valves is to avoid: (Level 2)
 Excessive positive differential pressure.
@@ -409,14 +409,14 @@ The outflow valve must be controlled manually
 @@LDG ELEV selector signal overrides the FMGS data
 
 When the cabin to ambient air differential pressure is less than 1 PSI: (level 3)
-@@The pressure controller fully opens the outflow valve.
-The pressure controller half opens the outflow valve.
+The pressure controller fully opens the outflow valve.
+@@The pressure controller half opens the outflow valve.
 The zone controller half opens the outflow valve.
 
 Where location of the ASCU? (Level 1)
 In avionic compartment
-In FWD Cargo
-@@In FWD belly fairing
+@@In FWD Cargo
+In FWD belly fairing
 
 To control temperature of Pack Outlet then ASCU regulated which component? (Level 1)
 Pack Discharge Heating Valve
@@ -425,5 +425,6 @@ Ram Air Inlet Actuator and Ram Air Outlet Actuator
 
 Which unit is controlled the Emergency Ram Air Inlet Actuator in Auto mode? (Level 1)
 ASCU 1
-FWD Outflow Valve Control Unit
-@@Semi Automatic Control Unit(SACU)
+@@FWD Outflow Valve Control Unit
+Semi Automatic Control Unit(SACU)
+

@@ -1,0 +1,325 @@
+The cabin light system provides illumination of the: (Level 1)
+Cabin and entrances, lavatories and attendant work areas.
+Cabin and entrances, galleys and attendant work areas.
+@@Cabin and entrances, lavatories, galleys and attendant work areas.
+
+The cabin lighting consists of: (Level 1)
+@@Four strips of fluorescent lamps.
+Two strips of fluorescent lamps.
+Three strips of fluorescent lamps.
+
+In electrical emergency configuration, which cockpit lights remain ON? (Level 1)
+CAPT dome light and RH CENTER lighting instrument panel.
+@@F/O dome light and LH CENTER lighting instrument panel.
+F/O dome light and F/O and RH CENTER lighting instrument panel.
+
+When the Engines are running and the Cockpit Door is open, what is Lighting automatically switches to DIM2 brightness the: (Level 3)
+FWD RIGHT ENTRY Area.
+@@FWD LEFT ENTRY Area.
+AFT LEFT ENTRY Area.
+
+When the LAV pushbutton is pressed on, lavatory door closed and locked, the integral light comes on green and the Lighting of all the Lavatories comes on at: (Level 3)
+@@FULL (100%) brightness.
+50% brightness.
+10% brightness
+
+How many dome lights provide shadowless general cockpit lighting? (Level 1)
+One.
+@@Two.
+Three.
+
+A flood light located on the overhead panel is used to illuminate the: (Level 2)
+@@Instruments and panels on the pedestal.
+Instruments and panels on the glare shield.
+Instruments and overhead panels.
+
+The passenger reading lights are installed in the: (Level 2)
+Passenger Service Units (PSU) fitted under the passenger seats.
+Passenger Service Units (PSU) fitted on the FAP.
+@@Passenger Service Units (PSU) fitted above the passenger seats.
+
+The reading lights can be tested, via the deus, using the: (Level 2)
+@@Programming and Test Panel.
+Forward Attendant Panel,
+Aft Attendant Panel,
+
+The emergency lighting system can be controlled from the: (Level 3)
+Cockpit by the Flight Crew.
+Cabin by the Cabin Attendants.
+@@Cockpit by the Flight Crew and Cabin by the Cabin Attendants
+
+The emergency lighting system provides illumination of the: (Level 1)
+EXIT MARKING signs.
+@@EXIT MARKING signs and EXIT LOCATION signs.
+EXIT LOCATION signs.
+
+As soon as the 28 VDC ESS bus is lost, the lavatory auxiliary lights are: (Level 1)
+Supplied by the EPSUs integrated batteries.
+Supplied by the aircraft batteries.
+@@No longer supplied.
+
+If the 28 VDC ESS BUS is lost, with the EMER exit light selector in the arm position, the emergency lighting system is supplied by the EPSUS integrated batteries: (Level 3)
+@@Automatically.
+Manually.
+Automatically on ground.
+
+In the exterior light control panel, switch the three position nose selector to the T.O position (Level 2)
+Taxi light comes on
+Take off light comes on
+@@Taxi and take-off light come on
+
+When the strobe lights come on: (Level 3)
+When the strobe light switch set to ON position.
+When the strobe light switch set to AUTO position and landing gear is not compressed.
+@@Switch set to ON position or AUTO position and landing gear is not compressed
+
+Can you switch on the Emergency Lighting System? (Level 2)
+@@Yes, on the FAP or form the cockpit.
+Yes, form the cockpit.
+No.
+
+When the logo lights come on: (Level 3)
+@@The switch NAV& LOGO LIGHT set to On position and Landing gear is extended.
+Landing gear retracted.
+Flap/slat retracted.
+
+When the DIM2 pushbutton is pressed to control The ENTRY Areas Lighting the integral light comes on green and the associated ENTRY Area comes on at: (Level 3)
+FULL (100%) brightness.
+50% brightness.
+@@10% brightness.
+
+With ANN LT SW in BRT position, the lighting of the ANN LT is activated: (Level 3)
+If the relative system failed,
+If there is an action on the relative P/BSW (OFF position),
+@@If the relative system failed or there is an action on the relative P/BSW (OFF position).
+
+If engines are running and the cockpit door is open, the CIDS directors signal the DEU of the left forward entry light: (Level 3)
+@@To set the intensity to 10%,
+To set lighting to full brightness (100%),
+To set lighting to DIM1 (50% BRT),
+
+For CIDS enhanced. When the entrance lighting comes on automatically to 100% BRT level? (Level 3)
+If full failure of the FAP and/or CIDS occurs,
+If cabin decompression occurs,
+@@If full failure of the FAP and/or CIDS occurs or cabin decompression occurs
+
+With EMER EXIT LT switch OFF. When are the EXIT signs and the emergency escape hatch-handle lights come on? (Level 3)
+@@When the NO SMOKING switch is ON position or in AUTO position with landing gear extended,
+When cabin decompression occurs,
+When landing gears down and locked,
+
+With the EMER EXIT LT switch at ARM position. When the emergency lighting system is supplied from batteries of all EPSUs? (Level 3)
+When the 28VDC NORM BUS voltage is not available,
+@@When the 28VDC ESS SHED BUS voltage is not available,
+When the 28VDC ESS BUS voltage is not available.
+
+When are the avionic compartments lights come on? (Level 1)
+When the AVIONICS COMPT LT P/B in cockpit is in AUTO and the relative avionic compartment door open,
+When the AVIONICS COMPT LT P/B in cockpit is set to ON,
+@@When the AVIONICS COMPT LT P/B in cockpit is in AUTO and the relative avionic compartment door open or When the AVIONICS COMPT LT P/B in cockpit is set to ON
+
+When the TAXI and TAKE-OFF lights automatically go off? (Level 2)
+When nose landing gear is down and locked,
+@@When nose landing gear is retracted.
+When all gears are retracted.
+
+With the STROBE switch at auto position. When the strobe lights flash? (Level 3)
+@@When MLG strut is not compressed,
+When MLG strut is retracted,
+When MLG strut is extended.
+
+When the LAND switch (L or R) is set to ON: (Level 1)
+The corresponding LDG light come on immediately,
+@@The corresponding LDG light come on when fully extended,
+The corresponding LDG light come on when MLG down and locked,
+
+If the RWY TURN OFF and LAND switches are all in the “ON” position, which light automatically extinguish after take off? (Level 3)
+The LDG lights,
+@@The RWY TURN OFF lights when the landing gear is retracted,
+The TAXI & TAKE-OFF lights,
+
+The navigation lights include: (Level 2)
+@@RED light on the left hand, GREEN light on the right hand and WHITE light on the APU tail
+GREEN light on the left hand, RED light on the right hand and WHITE light on the APU tail.
+WHITE light on the left hand, GREEN light on the right hand and RED light on the APU tail.
+
+Annunciators lights in the cockpit is supplied with: (Level 2)
+@@5 VAC-400 Hz
+5 VDC
+115 VAC- 400 Hz
+
+Which lights illuminate when aircraft in clean configuration (flight control surfaces and LDGs retracted): (Level 2)
+@@Wing lights.
+TAXI and TAKE-OFF lights
+RWY TURN- OFF lights.
+
+In case of emergency supply, annunciators lights in the cockpit is supplied by: (Level 2)
+Essential shed bus (801 XP)
+@@Static Inverter bus (901 XP)
+Static Inverter bus (901 XP) or Essential shed bus (801 XP)
+
+If ANN LT SW is set in BRT position, the ANN LT is ON only if: (Level 3)
+There is system failure
+There is action on the relative P/B
+@@There is system failure or action on the relative P/B
+
+The EXIT light can be manually switched on from: (Level 2)
+FASTEN SEAT BELT switch.
+@@NO SMOKING switch.
+EXIT switch.
+
+Door escape slide lights are switched on when: (Level 2)
+@@The slides are armed and the doors are open.
+The slides are armed or the doors are open.
+The slides are armed only.
+
+When the MAIN ON pushbutton is pressed: (Level 2)
+@@Cabin, entry Area lighting come on at full brightness.
+Lavatories, Passenger lighting come on at full brightness
+None above
+
+What happen when engines are running and cockpit door is open? (Level 3)
+Forward entry lights set the intensity to 10%
+Forward entry light set the intensity to 50%
+@@Only left forward entry light set the intensity to 10%
+
+When landing light selector in “ON’ position: (Level 2)
+The landing lights are fully extended
+@@Extends the landing light (left or right) which automatically comes on when fully extended.
+The landing light( left or right) come on but not fully extended
+
+In order to see the engine air intakes and wing leading edges, we have to switch on: (Level 1)
+The BEACON switch
+@@The WING switch
+The LAND switch
+
+With the RWY turn off switch set to on, when are the runway turn off lights on (Level 1)
+When nose landing gear is retracted.
+Always
+@@When nose landing gear is downlocked
+
+To program zone lighting in cabin, use: (Level 1)
+@@PTP
+FAP
+MCDU
+
+If the RWY turn off, land and nose switches are all in the “ON” position, which light automatically extinguish after take off? (Level 3)
+The TAKE OFF Light
+The TAKE OFF, RWY TURN OFF and LAND lights.
+@@The NOSE and RWY TURN OFF lights when the landing gear is retracted.
+
+When you select the seat belt switch to “ON” position: (Level 3)
+@@The FASTEN SEAT BELT and RETURN TO SEAT signs come on together with a low tone chine sounds
+The FASTEN SEAT BELT signs come on only
+The FASTEN SEAT BELT and RETURN TO SEAT signs come on together with a high tone chine sounds
+
+When AVIONICS COMPT LT switch in “AUTO” position: (Level 3)
+@@The AVIONICS COMPT lighting is automatically controlled by corresponding access door opening and closing
+The AVIONICS COMPT lights automatically illuminated when one engine running
+The AVIONICS COMPT lights automatically illuminated when A/C touchdown
+
+What happen if emergency exit light selector in “ARM” position and normal aircraft electrical power system fail? (Level 3)
+All EMER EXIT signs automatically
+All EMER EXIT signs and overhead emergency lighting automatically come on
+@@The proximity emergency escape path marking system, overhead emergency lighting, and EXIT signs automatically come on
+
+Push the power LAV switch on FAP, with lavatory door closed and locked: (Level 3)
+The lavatory lighting DIM position
+@@The lavatory lighting FULL Brightness position
+The lavatory lighting switch OFF
+
+WING lights illuminate the Wing Leading Edges and Engines Air Intakes: (Level 1)
+On ground only.
+@@On ground and in flight.
+In flight only.
+
+In electrical emergency configuration, which cockpit light remain: (B1,B2) (Level 1)
+CAPT DOME light , F/O DOME light and standby compass
+F/O DOME light , F/O RH centre instrument light and standby compass
+@@F/O DOME light , CAPT/ LH centre instrument light and standby compass
+
+Switch the taxi and take off light in T.O position: (B1,B2) (Level 1)
+Take off  light comes on
+@@Take off and Taxi light come on
+Taxi light comes on
+
+Which lighting includes fluorescent lamps and integral ballast units: (A, B1,B2) (Level 1)
+Passenger reading lights and work attendant light
+@@Cabin light, entrance light and lavatory lights
+Lavatory lights sign
+
+To program zone lighting in cabin, use: (B1,B2) (Level 1)
+@@PTP
+FAP
+CFDS
+
+Push the power lav switch on FAP, with lavatory door closed and locked : (B1,B2) (Level 1)
+The lavatory lighting in DIM position
+@@The lavatory lighting in FULL Brightness position
+The lavatory lighting switch OFF
+
+In order to see the engine air intakes and wing leading edges, we have to switch on: (B1,B2) (Level 1)
+@@The WING switch
+The RUN WAY TURN-OFF switch.
+The LAND switch
+
+The navigation lights include: (A, B1,B2) (Level 1)
+@@RED light on the left hand, GREEN light on the right hand and WHITE light on the APU tail.
+GREEN light on the left hand, RED light on the right hand and WHITE light on the APU tail.
+WHITE light on the left hand, GREEN light on the right hand and RED light on the APU tail.
+
+With the RWY turn off switch set to on, when are the runway turn off lights are on? (Level 1) (B1,B2)
+When the nose landing gear is retracted.
+@@When the nose landing gear is downlocked.
+Always
+
+When does the logo light illuminate with the switch in 2 position? (B1,B2) (Level 2)
+@@MLG strut compression or slat extension
+NLG compression or flap extension
+NLG compression or slat extension
+
+When do the strobes flash in auto? (B1,B2) (Level 2)
+@@MLG strut is not compressed
+NLG is not compressed
+NLG compression or slat extension
+
+If the RWY turn off, land and nose switches are all in the “ON” position, which light automatically extinguish after take off? (B1,B2) (Level 2)
+The TAKEOFF light
+The TAXI light
+@@The NOSE and RWY TURN OFF lights when the landing gear is retracted
+
+What external light automatically illuminated when MLG strut is not compressed? (B1,B2) (Level 2)
+The TAXI light
+The TAKEOFF light
+@@The STROBES lights flash when the strobe switch in auto position
+
+What happen when you select the ANN LT switch to “TEST” position? (B1,B2) (Level 2)
+@@All annunciator lights come on and 8’s up in all LCDs
+All annunciator lights on overhead panel come on
+All annunciator lights changes it status
+
+What is the purpose of the flood light? (B1,B2) (Level 2)
+@@Illuminates the center pedestal
+Illuminates the cockpit floor
+Illuminates the overhead panel
+
+What is the purpose of the integrated light? (B1,B2) (Level 2)
+Illuminates the overhead panel
+@@Illuminates all the instruments and panels in the cockpit
+Illuminates the cockpit floor
+
+When landing light  selector in “ON” position: (B1,B2) (Level 2)
+The landing lights are fully extended
+@@Extends the landing light(left or right) which automatically comes on when fully extended
+The landing light(left or right) comes on but not fully extended
+
+With NO SMOKING selector in  “AUTO” position the NO SMOKING and  EXIT signs go off when: (B1,B2)   	(Level 2)
+The Landing gear is extended
+The Landing gear is compressed
+@@The Landing gear is retracted
+
+When you select the seat belt switch to  “ON” position: (B1,B2) (Level 2)
+@@The FASTEN SEAT BELT and RETURN TO SEAT signs come on together with a low tone chime sounds
+The FASTEN SEAT BELT signs come on and low tone chime sounds only
+The FASTEN SEAT BELT and RETURN TO SEAT signs come on together with a high tone chime sounds
+

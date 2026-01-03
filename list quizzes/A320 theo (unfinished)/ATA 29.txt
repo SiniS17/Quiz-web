@@ -1,0 +1,404 @@
+Fire shut-off valve are installed for:  (level 1)
+Blue system and Green system.
+Yellow system and Blue system.
+@@Green system and Yellow system.
+
+The engine-pump fire valve is installed in the wing between the rear spar and the rear false spar, inboard of the pylon. It is in  (level 3)
+The suction line between the reservoir and the engine-driven pump
+@@The pressure line between engine-driven pump and the manifold
+The suction line between the reservoir and the electric pump
+
+The hydraulic priority valve  (level 3)
+@@Makes sure that all available hydraulic pressure is sent to the primary flight controls if pressure in the system is reduced.
+Makes sure that the secondary flight control are supplied by hydraulic pressure if pressure in the system is reduced.
+Makes sure that all available hydraulic pressure is sent to landing gear system if pressure in the system is reduced.
+
+The aircraft is supplied with AC power, if the cargo compartment doors are set to open or close on the ground: (level 3)
+The blue electric pump starts automatically.
+@@The yellow electric pump starts automatically.
+The yellow electric pump starts automatically and the green system also pressurized.
+
+When is engine fire Shut Off valve of a hydraulic system closed? (level 1)
+Automatically when the engine is shut down
+@@If the ENGINE FIRE pushbutton is released out.
+Automatically as soon as engine fire is detected
+
+Reservoir OVHT indication appears amber on ECAM. The signal comes from the temperature sensor installed on: (level 3)
+The return filter
+The high pressure manifold
+@@The pump out let line
+
+Regarding hydraulic system, which statement is NOT correct? (level 2)
+@@It is not possible to pressurize each main system with one or more of the auxiliary systems without main pumps.
+Blue electric pump operates when any one of the two engines starts
+In the normal configuration, three main systems automatically supply hydraulic power when the engines operate.
+
+The Ram Air Turbine (RAT) is deployed if: (level 1)
+@@By using the guarded P/B.
+All AC electrical power sources are lost at speeds greater than 100 kts, or manually by using the guarded P/Bs.
+All hydraulic power sources are lost at speeds greater than 100 kts, or manually by using the guarded P/Bs.
+
+When you push the fire panels: (level 1)
+The green fire valve closes.
+@@The green fire valve and the yellow fire valve closes.
+The green fire valve, the yellow fire valve and blue fire valve closes.
+
+A reservoir quantity indicator allows refilling monitoring. It shows the contents of the selected hydraulic reservoir that is indicated by: (level 2)
+the three colored lights.
+one of the three colored light.
+@@one ofthe three colored lights.
+
+If there is no electrical power available: (level 1)
+the fluid level can be checked by push BAT ON.
+@@the fluid level can be checked on the reservoir itself.
+the fluid level can’t be checked.
+
+When the PTU operation is inhibited? (level 2)
+@@In case of cargo door operations with the yellow electric pump or first engine start.
+Only if an engine failure has been detected.
+Never, it cannot be inhibited.
+
+What are the manual depressurization valves provided for? (level 1)
+Depressurization of related hydraulic circuit
+Hydraulic system depressurization
+@@None of above
+
+With both engines stop, is it possible to pressurized only Green system for maintenance (level 1)
+Yes, with yellow electric pump and the PTU
+Yes, with blue electric pump and the PTU
+@@None of above
+
+The hydraulic PTU will activate if: (level 1)
+A significant pressure loss (500 Psi) occurs in any of the three hydraulic systems.
+@@A significant pressure loss (500 Psi) occurs in the Green or Yellow hydraulic system.
+Both are correct.
+
+After extending the RAT, is it possible to check its position and status? (level 2)
+Yes, select the ECAM ELEC page.
+@@Yes, select the ECAM HYD page.
+No. It is not possible.
+
+When will normal operation of the Blue system hydraulic pump begin? (level 1)
+@@During the first engine start.
+When the first engine MASTER switch is moved to the ON position.
+After both engines are started.
+
+For hydraulic system malfunctions, when will the RAT deploy? (level 2)
+Automatically with the failure of both the Green and Blue hydraulic systems.
+Automatically with the failure of both the Green and Yellow hydraulic systems.
+@@When the guarded RAT MAN ON push button is selected by the crew.
+
+During A/C push back , only one engine running : (level 2)
+the PTU operation is operative
+@@the PTU operation is inhibited
+the PTU operation is depending on PTU p/b switch
+
+For normal supply, all three reservoirs are pressurized from: (level 1)
+@@Engine 1.
+Engine 2.
+APU.
+
+The green reservoir is located in: (level 1)
+@@The main landing gear bay
+The nose landing gear bay
+The green hydraulic compartment
+
+All the reservoirs are filled from: (level 2)
+@@The green ground service panel
+Separated service panel
+The blue ground service panel
+
+Rat is retracted by: (level 1)
+spring force.
+solenoid operation.
+@@blue hydraulic pressure.
+
+Filling hydraulic  with fluid : (level 1)
+to the middle of the scale.
+@@to the upper end of the scale.
+to the special value of (blue, green, yellow) hydraulic system.
+
+A hand pump is provided in: (level 1)
+The yellow system for landing gear door manual operation.
+@@The yellow system for cargo door manual operation.
+The yellow system for PTU operation.
+
+The identification of the pipe as a hydraulic pipe, its function with: (level 2)
+Black round, the direction of the fluid flow and a color code.
+@@Black dots, the direction of the fluid flow and a color code.
+Black round, the direction of the fluid flow and a black code.
+
+The threshold of the hydralic pressure relief valve is: (level 1)
+@@237 bar.
+245 bar.
+
+Which is the first priority of the pressure source for reservoir pressurization: (level 1)
+@@The engine 1 HP compressor.
+The engine 2 HP compressor.
+The pneumatic system or ground supply.
+
+On the blue hydraulic system, the Constant Speed Motor/Generator (CSM/G) is used:    (level 2)
+@@To provide A/C electrical power in case of emergency.
+To provide hydraulic power in case of emergency.
+Both A & B
+
+An identification of a hydraulic system comprising: (level 2)
+A number 1, 2 or 3 respectively indicating the Yellow, Blue, or Green system.
+A number 1, 2 or 3 respectively indicating the Blue, Green, or Yellow system.
+@@A number 1, 2 or 3 respectively indicating the Green, Blue, or Yellow system.
+
+The RAT retraction done: (level 1)
+On GND by green hydraulic pressure.
+@@On GND by blue hydraulic pressure
+On GND or in the air by blue hydraulic pressure.
+
+Where can you check the hydraulic quantity: (level 1)
+On ECAM and Green service panel.
+On ECAM and reservoirs.
+@@A & B
+
+The yellow electric pump runs: (level 1)
+If the ELEC PUMP pushbutton is set to ON
+If the cargo door selector is activated.
+@@A or B.
+
+A bidirectional Power Transfer Unit (PTU) enables: (level 2)
+The green hydraulic fluid to flow into the yellow system
+The green and yellow hydraulic fluid to power both systems
+@@The green system powered by the yellow system or vice versa, without fluid transfer.
+
+A Ram Air Turbine (RAT) is provided in: (level 2)
+@@The blue system for emergency use.
+The green system for emergency use.
+The yellow system for emergency use.
+
+A fire shut-off valve is positioned: (level 2)
+Downstream of the engine driven pump
+@@Upstream of the engine driven pump
+On the engine driven pump
+
+In flight, if the blue electric pump fails the blue system: (level 1)
+Is lost.
+@@Can be recovered by the RAT.
+Can be recovered by the PTU.
+
+During first engine start the PTU is: (level 2)
+Automatically running.
+Tested.
+@@None of above.
+
+How can the LH wing be supplied independently during the leak measurement test?    (level 1)
+By setting the leak measurement valve to OFF.
+By using the LH wing spool valve.
+@@Both A and B
+
+Is it possible to extend the Ram Air Turbine in flight? (level 2)
+Yes, if blue pressure is available.
+Yes, but for automatically extend only.
+@@None of above
+
+The leak measurement valves are used for? (level 1)
+Stop the leak of hydraulic to minimize the risk of fire.
+Stop movement of the high lift devices during maintenance.
+@@None of the above.
+
+With the aircraft on the ground and the blue electric pump switch in auto; the blue pump will be energized when: (level 2)
+One engine is running.
+The BLUE PUMP OVRD switch has been pressed.
+@@First two statements are correct.
+
+The aircraft's three hydraulic systems are normally pressurized by: (level 2)
+@@Two engine driven pumps and one electric pump.
+Two electric pumps and one PTU.
+Two electric pumps and two engine driven pumps.
+
+When will the yellow system electric pump operate? (AC power is available). (level 2)
+During the engine #2 start.
+When the first engine MASTER switch is moved to the ON position.
+@@When the yellow electric system ELEC PUMP push button is selected to ON or the ground crew activates a cargo door switch.
+
+What is the nominal system pressure? (level 1)
+1000 PSI
+2000 PSI
+@@3000 PSI
+
+Each hyd. Fluid’s ‘ OVHT ’ status is monitored by sensor installed in: (level 2)
+Suction line
+High pressure line
+@@Return line
+
+The EDP in the de-pressurized mode: (level 2)
+Does not operate
+Still operates and supplies reduced pressure to the system
+@@Still operates and does not supply pressure to the system
+
+Is it possible to pressurize only Green system for maintenance with both engines stop and no usage of hydraulic ground cart? (level 2)
+Yes, with yellow electric pump and the PTU.
+Yes, with blue electric pump and the PTU.
+@@No
+
+With the BLUE ELEC PUMP pushbutton set to AUTO (level 2)
+@@The electric pump operates at first engine start.
+The pump is de-energized.
+The pump operates in case of both EDP failure.
+
+The RAT is automatically extended in case of: (Level 3)
+@@Loss of AC bus1 and bus2 and speed above 100 Knots.
+Blue hydraulic pump failure
+Can only be extended manually.
+
+During second engine start the PTU is: (Level 3)
+Automatically running.
+@@Tested.
+Inhibited.
+
+To which system(s) will the Ram Air Turbine provide hydraulic power? (Level 3)
+@@The blue system
+The yellow system
+The green and yellow systems
+
+What will happen when the Yellow electric pump P/B is set to "ON", with aircraft on ground, electrical power available, PTU selected to "AUTO" and engines not running? (Level 3)
+@@The green and yellow systems are pressurized
+The green and blue systems are pressurized
+Only the yellow system is pressurized
+
+A Blue system pipeline is identified by: (Level 2)
+A blue band and number 1.
+@@A blue band and number 2.
+A blue band and number 3.
+
+How can the LH wing be supplied independently during the leak measurement test? (Level 3)
+By setting the leak measurement valve to OFF and operating the electric pump.
+By pressurizing the yellow system by using the PTU.
+@@By setting the leak measurement valve to OFF and manually open the LH wing spool valve
+
+Which is the correct statement: (Level 3)
+In the yellow hydraulic system, the electrical pump operates automatically when one engine is operating
+In the yellow system, the electrical pump operates automatically when A/C is in flight configuration
+@@In the yellow system, the electrical pump is manually controlled or automatically operates
+
+In flight, in normal condition, which is the correct statement for the PTU : (Level 3)
+@@In stand-by
+Working continuously
+Working continuously and there is no transfer of hydraulic fluid from one system to the other
+
+What happens if hydraulic pressure drops? (Level 3)
+The priority valves give priority to the heavy loads users.
+@@The priority valves give priority to the essential systems
+The priority valves modulate the pressure to the users
+
+When is the engine fire shut off valve closed? (Level 3)
+When the engine is shut down
+Automatically as soon as an engine fire is detected.
+@@If the engine fire pushbutton is release out.
+
+What can the hand pump be used for? (Level 3)
+To pressurized the reservoir.
+To check the flight controls
+@@To operate the cargo doors
+
+What are the manual depressurization valves provided for? (Level 3)
+@@Individual reservoir depressurization
+Depressurization of related hydraulic circuit
+Hydraulic system depressurization
+
+The Green system is powered by: (Level 2)
+Engine driven pump (EDP)
+Yellow system via PTU
+@@A and B
+
+Hydraulic reservoir is normally pressurized by: (Level 3)
+@@Bleed air from ENG 1
+Bleed air from Pneumatic system
+By ground card only
+
+Where can we do maintenance with RAT: (Level 3)
+At Green service panel
+@@At Blue service panel
+At Yellow service panel
+
+What is the purpose of the leak management valves: (Level 3)
+To isolate the hydraulically heavy load users in order to maintain normal supply to essential users
+@@To isolate the primary controls
+To collect leak from seal drains of some hydraulic components
+
+When is the engine driven pump in the depressurized mode? (Level 3)
+@@When the ENG PUMP pushbutton is set to OFF
+The engine pump can not be depressurized as long as the engine is running
+The engine pump is automatically depressurized if the output pressure drops below 1450psi
+
+What happens if hydraulic pressure drops? (Level 3)
+The priority valves cut off power to the heavy loads users.
+The priority valves give priority to the essential systems
+@@Both A and B
+
+Is it possible to extend the Ram Air Turbine in flight? (Level 3)
+@@Yes, event the blue system pressure is available.
+Yes, but for automatically extend only.
+Yes, Only speed under 100 knots.
+
+Which hydraulic systems are pressurized by an EDP? (Level 1)
+@@Yellow and green.
+Blue and green
+Yellow and blue
+
+In normal operation, what is the blue hydraulic system pressurized by? (Level 1)
+PTU
+@@The electric pump.
+EDP
+
+Is it possible to stow the RAT in flight:(Level  2)
+@@No.
+Yes
+Yes, with aircraft speed more than 100kts
+
+What happens when the filter of the filling citcuit is clogged? (Level 3)
+Fluid bypasses the filter element
+@@Fluid is stopped, filling is impossible.
+The filling pressure has to be increased
+
+What is the main funtion of the restrictor: (Level 3)
+@@To protect the system against overpressure.
+To limit the pressure of the hand pump
+To limit thermal expansion of the hydraulics fluid
+
+Do the hydraulic reservoir have to be depressurized to refill with hydraulic fluid?:(Level 2)
+@@No.
+Yes
+No, with special filling tool
+
+Each hydraclic system  “OVHT” status is monitored by sensor installed in: (Level 3)
+Suction line
+High pressure line
+@@Return line
+
+Which component(s) send a Warning and Fault signals on the blue hydraulic system? (Level 3)
+Only the low air pressure switch
+The high level detector
+@@Overheat sensor, low air pressure switch and low level detector
+
+In flight, the blue hydraulic system can be supplied by:  (Level 3)
+@@The RAT and the electrical pump.
+The engine driven pump.
+The PTU (Power Transfer Unit).
+
+What happens if the hydraulic pressure drops, in the Yellow hydraulic systems? (Level 3)
+The priority valve close automatically, cuts the pressure to the primary flight controls, in order to supply the flaps
+The priority valve opens, and supply only the primary flight controls
+@@The priority valve closes cut off hydraulic power to the flaps, in order to supply the other users
+
+Where is the hydraulic system temperature sensor located? (Level 3)
+In the reservoir
+@@On the return manifold
+On the HP. filter
+
+What happens if the hydraulic pressure drops, in the Yellow system? (Level 3)
+The priority valve closes automatically, cuts the pressure to the primary flight controls, in order to supply the flaps
+The priority valve opens, and supply only the primary flight controls
+@@The priority valve closes to cut off hydraulic power to the flaps, in order to supply the other users
+
+During which operation is the leak measurement valve closed automatically (Level 3)
+PTU operation.
+@@Cargo door operation.
+Hand pump operation.
+

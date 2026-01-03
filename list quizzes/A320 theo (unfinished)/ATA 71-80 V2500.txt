@@ -455,23 +455,23 @@ One hydraulic  actuator
 
 DURING ENGINE START IN MANUAL MODE, IGNITION SYSTEMS A AND B ARE SHOWN ON ECAM: (Level 3)
 It means that either system A or B has failed
-B.    It means that both systems A and B failed
-@@C.   This is normal. A and B are selected in manual start
+It means that both systems A and B failed
+@@This is normal. A and B are selected in manual start
 
 HOW DOES THE STARTER OPERATE ? (Level 1)
 Hydraulically
-B.  Electrically
-@@C.  Pneumatically
+Electrically
+@@Pneumatically
 
 THE AERODYNAMIC STATION No. 4 IS LOCATED AT THE : (Level 2)
 LP compressor  exit
-@@B.  HP compressor exit
-C.  Combustion section exit
+@@HP compressor exit
+Combustion section exit
 
 WHICH STATEMENT IS CORRECT ? (Level 2)
 The starter  accelerates N1 spool through the gearbox
-@@B.  The starter accelerates  N2 spool through  the gearbox
-C.  The starter  accelerates N1 and N2 spool through the gearbox
+@@The starter accelerates  N2 spool through  the gearbox
+The starter  accelerates N1 and N2 spool through the gearbox
 
 What does the Heat Management System heat and cool? (Level 2)
 @@Fuel, engine oil and IDG oil
@@ -485,8 +485,8 @@ Cools the engine oil downstream of the FCOC
 
 The thrust setting parameter is : (Level 2)
 Engine Pressure Ratio in normal mode
-B.   N1 in back up mode
-@@C.   Both A an B
+N1 in back up mode
+@@Both A an B
 
 What is the logic of the reverse operation? (Level 3)
 TLA position and aircraft on ground only.
@@ -522,3 +522,4 @@ What does the ACOC valve regulate? (Level 3)
 The engine oil flowing through the ACOC.
 @@The flow of fan air crossing the ACOC.
 The flow of ram air crossing the ACOC.
+

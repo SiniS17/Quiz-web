@@ -1,0 +1,550 @@
+Composite materials are used for (level 1)
+Secondary structure.
+Primary structure.
+@@Primary and secondary structure.
+
+The fuselage is divided into: (level 1)
+the forward fuselage, the center fuselage and the rear fuselage.
+the nose forward fuselage, the forward fuselage, the center fuselage, the rear fuselage, the rear/cone fuselage and the tail cone.
+@@the nose forward fuselage, the forward fuselage, the center fuselage, the rear fuselage, and the cone/rear fuselage.
+
+The function of the engine pylons installed under each wing is: (level 3)
+@@support the engine, transmit the engine thrust to the aircraft and enable the routing and attachment of all the systems connected with the engine.
+support the engine, transmit the engine thrust to the aircraft and supports the thrust reverser system.
+give the engine an aerodynamic shape and supports the thrust reverser system and enable the routing and attachment of all the systems connected with the engine.
+
+The primary structure of the horizontal stabilizer are: (level 1)
+the attachment fittings.
+@@the spar boxes (Center, Left Hand and Right Hand sides)
+the leading edge and the trailing edge.
+
+The cabin windows are: (level 1)
+installed and removed from the inside and outside of the aircraft.
+installed and removed from the outside of the aircraft.
+@@installed and removed from the inside of the aircraft.
+
+Each outer wing has: (level 1)
+@@a main structure (outer wing box), a wing tip, a leading edge and leading edge devices, a trailing edge and trailing edge devices.
+the wing spars (front and rear), the ribs (1-27), the top and bottom skin panels, the top and bottom stringers, the wing-root joint.
+the front and the rear spars, top and bottom skin panels, the two main frames, internal spanwise lattice ribs, the left rib 1 and the right rib 1.
+
+The structure repair manual is (level 1)
+@@a non-customized document.
+a non-approved document.
+a customized document.
+
+An allowable damage (level 3)
+has significant effect on the strength or fatigue life of the structure.
+@@enables the damaged airplane may be returned into service without repair.
+must require minimal rework such as cleanup or drilling of stop holes.
+
+Corrosion is one typical defect of (level 1)
+composite material
+@@aluminum alloy
+CFRP
+
+Fuselage and wing are mainly made from (level 1)
+@@aluminum alloy
+steel
+composite
+
+Radome made from (level 1)
+aluminum alloy
+@@QFRP composite
+CFRP composite
+
+On typical fuselage structure of A320/321 airplane, the standard frames: (level 3)
+have common Z-shaped section
+are attached to the skin and stringers by sheet metal cleats.
+@@all above
+
+What is the first document to be used to assess the structure damage?  (level 1)
+IPC
+AMM
+@@SRM
+
+The main load carrying member of a wing are: (level 2)
+@@rear spar and front spar
+Rips
+Both A and B
+
+The fuselage stringer reinfore the skin panel in (level 1)
+The circunferential direction
+@@The longitudinal direction
+Both A and B
+
+Most of sheet metal used in the airplane structure is: (level 1)
+Steel alloy
+@@Aluminum alloy
+Titanium alloy
+
+What is the purpose of the damper nitrogen bottle and emergency operation cylinder?  (level 3)
+To damp the door opening and closing
+To assist in opening and closing the door to do it
+@@To damp the door opening/closing and to pressurize the cylinder in case of emergency opening
+
+A wing give airfoil section by the: (level 1)
+Spars
+@@Ribs
+Stringers
+
+Aircraft structure is made of : (level 1)
+Metallic materials only.
+Composite materials only.
+@@Both metallic and composite materials.
+
+Composite material CFRP means: (level 1)
+@@Carbon Fiber Reinforced Plastic.
+Composite Fiber Reinforced Plastic.
+Carbon Fiber Reinforced Product.
+
+The Radom of A320 is made of: (level 3)
+CFRP
+AFRP
+@@QFRP
+
+Choose the correct statement: (level 3)
+The A321 A/C has 8 type C passenger doors.
+The A321 A/C has 4 type C passenger doors and 4 type III emergency exit doors.
+@@The A321 A/C has 4 type C passenger doors and 4 type C emergency exit doors.
+
+For A320/A321 A/C: (level 3)
+Bulk cargo door is located between fr10 and fr12.
+Bulk cargo door is located between fr30 and fr32.
+@@Bulk cargo door is located between fr60 and fr62.
+
+Fuselage of A320 A/C is divided into? (level 3)
+Three main parts: forward, center and rear fuselage.
+Four main parts: nose,  forward, center and rear fuselage.
+@@Five  main parts: nose forward,  forward, center, rear and rear/cone fuselage.
+
+Pylon box of A320 A/C is made of: (level 3)
+Steel and Aluminum alloys.
+@@Steel and Titanium alloys.
+Aluminum and Titanium alloys.
+
+A320 A/C THS Tip is made of: (level 3)
+@@Aluminum alloy.
+Titanium alloy.
+Steel alloy.
+
+On A320 A/C, Wing spar is made of: (level 3)
+Titanium alloy.
+Steel alloy.
+@@Aluminum alloy.
+
+Delamination in composite material means: (level 3)
+@@Separation between skin plies.
+Separation between skin and core.
+Separation between cores.
+
+In each SRM chapter, allowable damage page block is: (level 3)
+Page 000-099.
+@@Page 100-199.
+Page 200-999.
+
+When structure damage of A320 A/C is not mention in SRM, repaired solution must be approved from: (level 3)
+@@Airbus.
+Vietnam Airlines.
+VAECO.
+
+The forward fuselage extends from: (level 2)
+FR1  to FR24
+@@FR24  to FR35.8
+FR35.8  to FR47
+
+The pressurized zone of the A/C are:  (level 3)
+The radome, wing center box, nose and main gear bays, belly fairing and cone/rear fuselage
+@@The cockpit, cabin, avionics compartment and the FWD and AFT cargo compartments.
+The cockpit, cabin, avionics compartment, wing center box, nose and cone/rear fuselage.
+
+The Structural Repair Manual describes two types of repair which are designed for the repair of structural damage. They are defined as follows: (level 3)
+Major repairs, minor repair
+@@Permanent Repairs, Temporary Repairs.
+None of above.
+
+Allowable damage is damage:  (level 3)
+which have effected on the structural strength or on other aspects of airworthiness (e.g.: fire resistance, electrical conductivity, system, aerodynamics, aircraft performance, etc.).
+@@which does not have effect on the structural strength or on other aspects of airworthiness (e.g.: fire resistance, electrical conductivity, system, aerodynamics, aircraft performance, etc.).
+Which have no repair instruction given in SRM.
+
+Permanent Repairs are: (level 2)
+Major repairs or major structural replacements requiring special repair drawings and information from the aircraft manufacturers.
+Repairs are designed for quick fabrication/installation, and restore ultimate strength. Good appearance, aerodynamic smoothness and maximum fatigue resistance are not required.
+@@Repairs fully restore the structural integrity of the aircraft.
+
+The dents in metallic parts on external aerodynamic surfaces can cause: (level 2)
+A reduction in flight performance; a good effect on flight characteristics, a bad effect on stall speed; Buffeting.
+@@A reduction in flight performance; a bad effect on flight characteristics, a bad effect on stall speed; Buffeting.
+None above.
+
+Primary structure is: (level 2)
+@@Structure parts significantly transmit ground, flight and pressure load.
+Structure parts that do not significantly transmit ground, flight and pressure load.
+An element that contributes significantly to the carrying of flight, ground or pressure load, and whose integrity is essential in maintaining the overall structural integrity of the airplane
+
+A method of nondestructive inspection used to check a piece of composite for crack damage is: (level 2)
+@@Ultrasonic inspection
+Eddy-current inspection.
+Tap test.
+
+The fuselage stringers reinforce the skin panels in (level 3)
+The circumferential direction
+@@The longitudinal direction.
+Both a and b.
+
+Fuselage frames are numbered to: (level 3)
+@@Give an easy reference for location of component etc.
+Ensure that frames are manufactured to the correct specification.
+Aid the manufacturer on assembly in the jig.
+
+The chord of a wing is measured from (level 2)
+Wingtip to wingtip
+Wing root to the wingtip.
+@@Leading edge to trailing edge.
+
+A wing is given airfoil section by the: (level 2)
+Spars
+@@Ribs.
+Stringers
+
+Passenger windows in aircraft have: (level 3)
+@@Two pane
+One pane
+Three pane.
+
+The airplane is divided into (level 3)
+9 major zones
+7 major zones
+@@8 major zones.
+
+What is a Category A repair?  (level 3)
+@@A permanent repair and no other actions are necessary.
+A permanent repair for which supplemental inspections are necessary at the specified threshold and repeat intervals.
+A time-limited repair which must be replaced or reworked within a specified time limit.
+
+What is a Category B repair?  (level 3)
+A permanent repair and no other actions are necessary.
+@@A permanent repair for which supplemental inspections are necessary at the specified threshold and repeat intervals.
+A time-limited repair which must be replaced or reworked within a specified time limit.
+
+What is a Category C repair?  (level 3)
+A permanent repair and no other actions are necessary.
+A permanent repair for which supplemental inspections are necessary at the specified threshold and repeat intervals.
+@@A time-limited repair which must be replaced or reworked within a specified time limit.
+
+Where you can get the WEIGHT VARIANT information  (level 3)
+@@“Weight Variant Information” in the INTRODUCTION of the SRM.
+“Weight Variant Information” in the chapter of the SRM.
+“Weight Variant Information” in the table content of related chapter
+
+A wing give aerofoil section by the: (level 3)
+Spars
+@@Ribs
+Stringers
+
+What indicates the green light in the cargo door access?  (level 3)
+The cargo door is closed and locked
+The cargo door is not closed
+@@The cargo door is open and locked
+
+What happen when the passenger door is opened from the outside and the slide system is armed?  (level 3)
+The locking mechanism is blocked
+The escape slide will deploy
+@@The slide system is disarmed
+
+What happens when the arming lever of the PAX door is set to the ARMED position? (level 3)
+@@The girt bar stay attached to the cabin floor.
+The girt bar slide towards the telescopic fork.
+The telescopic fork slide towards the girt bar fitting
+
+Door seal features: (level 2)
+One piece
+Pressurized by cabin air
+@@All above
+
+What is made of the main pylon structure? (level 2)
+@@The stainless steel and the titanium alloy
+The aluminium alloy and the titanium alloy
+The aluminium alloy and Aramid Fiber Reinforced Composite
+
+Airplane structure is from (level 1)
+Metal material
+Composite material
+@@Metal and composite material
+
+Stabilizer made mainly from (level 2)
+Aluminum alloy
+Steel
+@@CFRP composite
+
+Which force do spigot / spigot bearing transmit from pylon to wing structure (level 2)
+@@Engine thrust
+Engine weight
+Lateral force
+
+Deboning and delamination is defect of (level 2)
+@@Composite material
+Steel
+Titanium
+
+On A320/321 aircraft, Composite materials represent (level 2)
+@@About 15% of the A/C structural weight
+About 30% of the A/C structural weight
+About 50% of the A/C structural weight
+
+A321 Vertical stabilizer leading edge protected by: (level 1)
+@@Stainless steel
+Titanium
+Glass Fiber Reinforced Plastic (GFRP)
+
+Elevator structure is mainly from (level 3)
+Aluminum/CFRP
+@@Composite CFRP
+Composite GFRP/ CFRP
+
+Which statement below is correct? (level 3)
+@@Most of the frames of the belly fairing become extension to the fuselage frames and are made of the aluminum alloy
+Most of the belly fairing’s panels are made of the aluminum alloy
+Most of the frames of the belly fairing are made of the steel alloy.
+
+A dent or paint damage found on radome, inspection c/out and it can be repaired temporarily by  (level 3)
+@@Specific tape
+Hi-speed tape
+Any tape
+
+The A/C weight variant (WV): (level 2)
+Is always the same as it is the 1st time delivered.
+@@May change with times depending on the modifications /SBs… application
+Depends on the MSN only.
+
+Which ATA is to be taken into account to assess the damage found on the pylon? (level 1)
+ATA 52.
+ATA 53
+@@ATA 54
+
+The allowable limits can be found in SRM at: (level 1)
+Page block 101 of ATA 51.
+@@Page block 101 of  the relevant ATA where the damage located
+Page block 201 of ATA 51
+
+Necessary information to carry out permissible repairs can be found in SRM at: (level 2)
+Page block 101.
+@@Page block 201 of  the relevant ATA where the damage located
+Page block 201 of ATA 51
+
+What is not true about SRM (level 1)
+SRM  is updated
+@@SRM  is customized
+SRM  is approved by DGAC
+
+Cockpit window visibility is determined IAW  (level 2)
+@@AMM
+SRM
+MEL
+
+Inspection of a structure damage of SDR must give information  (level 2)
+Type of damage
+Dimension and location of damage
+@@Type of damage, dimension and location of damage
+
+How many jacking points in A320F aircraft: (level 2)
+2
+@@3
+4
+
+The fuselage stringer reinforces the skin panel in (level 2)
+The circumferential direction
+@@The longitudinal direction
+Both A and B
+
+The door seal around the door is inflated through holes when  (level 2)
+Aircraft in flight only
+The cabin is depressurized.
+@@The cabin pressure is available.
+
+A321 Aircraft Fuel tank can arrange at: (level 1)
+@@Wings
+Horizontal stabilizers to control CG on some A/C
+A and B
+
+The main load carrying member of  a wing are: (level 2)
+@@rear spar and front spar
+Rips
+Both A and B
+
+Most of sheet metal used in the structure of a airplane is: (level 1)
+Steel alloy
+@@Aluminum alloy
+Titanium alloy
+
+Moisture drain valve in pressurized fuselage (level 2)
+Open when the cabin is pressurized
+@@Open when the cabin is de-pressurized
+A or B
+
+The reference (station 0) for all structural measurements in the X axis is located  (level 2)
+At the rib 1 of the aircraft.
+@@100 in (254cm) forward of aircraft nose.
+251.2 in. (638.2 cm) forward of the aircraft nose.
+
+ALLOWABLE DAMAGE CAN BE FOUND AT (level 2)
+@@PAGE BLOCK (PB 101)
+PAGE BLOCK (PB 201)
+A or B
+
+How many cockpit windows are found on A321? (level 2)
+02
+04
+@@06
+
+The chord of a wing is measure from (level 2)
+Wingtip to wingroot
+Wingroot to wingtip
+@@Leading edge to trailing edge.
+
+A wing spar is subject mainly to: (level 2)
+@@Bending load
+Tension load
+Shear load
+
+SRI (STRUCTURAL REPAIR INSPECTIONS) TASK APPLY FOR: (level 2)
+ALLOWABLE DAMAGE.
+REPAIRABLE DAMAGE.
+@@A OR B
+
+WEIGHT VARIANT INFORMATION CAN FOUND AT: (level 2)
+ATA 51
+PB. 101 OF EACH CHAPTER
+@@SRM INTRODUCTION PART
+
+Composite materials are used for primary structure are: (level 2)
+@@Carbon Fiber Reinforced Plastic (CFRP).
+Aramid Fiber Reinforced Plastic (AFRP)
+Fiber Reinforced Plastic (GFRP)
+
+The opened frames are arranged at: (level 2)
+@@openings for windshield and side windows.
+At the all PAX window area.
+Both A & B.
+
+Fr 35 to Fr 35.8 belong to: (level 2)
+@@The A321 section 14A
+The A320 section 14A
+The A321 section 16A
+
+The CLEAT  is install at: (level 1)
+@@Fuselage structure
+Wing structure.
+Tail structure
+
+The tail cone unit ( that is located aft of Fr 77 and houses the APU) is connected to section 19 by: (level 2)
+@@Four lugs and one spigot.
+Fastener as all structure sections
+None of above
+
+The primary structue of pylon: (level 1)
+The AFT fairing.
+The Lower fairing.
+@@None of above
+
+On A321 AC, which slat have de-ice function? (level 2)
+@@Slats 3 to 5
+Slats 2 to 5
+Al l slat.
+
+The interconnecting strut is used on: (level 2)
+Slat system.
+@@Flap system.
+Both Slat & Flap system.
+
+Flap tab on A321 is installed on: (level 2)
+Inboard Flap.
+Outboard Flap
+@@Both inboard & outboard Flap.
+
+The forward upper structure of Nose forward fuselage has: (level 1)
+@@Titanium skins.
+Aluminum Aloy skins.
+Composite skins.
+
+Leading edge of vertical stabilizer on A320 A/C is made of: (level 1)
+CFRP.
+AFRP.
+@@GFRP.
+
+The fixed side windows on A320 A/C have: (level 1)
+1 layer.
+@@2 layers.
+3 layers.
+
+The cabin windows of A320 A/C: (level 1)
+Can remove/install from outside A/C.
+@@Can remove/install from inside A/C.
+Can remove/install from either inside or outside A/C.
+
+In each SRM chapter, repair  page block is: (level 1)
+Page 000-099.
+Page 100-199.
+@@Page 200-999.
+
+Where can you find the corrective action for each type of cabin window defect: (level 1)
+In SRM.
+@@In AMM.
+Both of above.
+
+Vertical Stabilizer Tip is made of: (level 1)
+@@GFRP.
+Titanium alloy.
+Aluminum alloy.
+
+For 21 access panels in the bottom skin panel of the outer wing box, what is correct? (level 1)
+They are non load- carrying panels
+@@There are 7 non load- carrying clamped panels between rib 1 and rib 13, 14 load – carrying bolted panels between rib 14 and rib 27
+There are 7 load – carrying bolted panels between rib 1 and rib 13, 14 non load- carrying clamped panels between rib 14 and rib 27
+
+The crack of structure component causes by: (level 3)
+Mechanical action or Inherent metallurgical characteristics.
+@@Mechanical action or Thermal action or cycling.
+Mechanical action or Inherent metallurgical characteristics or Thermal action or cycling.
+
+The disbond of stucture component causes by: (level 3)
+Mechanical action or Inherent metallurgical characteristics or Thermal action or cycling.
+Chemical or electrochemical reaction or Inherent metallurgical characteristics or Thermal action or cycling.
+@@Mechanical action or Chemical or electrochemical reaction or Thermal action or cycling.
+
+Fixed door attached to Nose landing gear leg is made from: (level 3)
+@@Aluminum alloy.
+Titanium alloy.
+CFRP( Carbon Fiber Reinforced Plastic).
+
+Hinged fairing door of main landing gear (a small door hinged to the wing structure in the neighborhood of the upper end of the main leg) is made from: (level 3)
+Aluminum alloy.
+Titanium alloy.
+@@CFRP( Carbon Fiber Reinforced Plastic).
+
+The Forward Fuselage part of A320: (level 3)
+Includes section 13/ 14/ 14A. Between frame 24 and frame 35.8.
+@@Includes section 13/ 14. Between frame 24 and frame 35.
+Includes section 13/ 14. Between frame 24 and frame 35.8
+
+Stabilizer of A320 composed of: (level 3)
+Trimmable Horizontal Stabilizer (THS), the vertical stabilizer.
+Trimmable Horizontal Stabilizer (THS), the vertical stabilizer, elevators.
+@@Trimmable Horizontal Stabilizer (THS), the vertical stabilizer, elevators, rudder.
+
+Fill form – corrosion is: (level 3)
+Depth of corrosion is smaller than 5% thicknees of sheet.
+@@The corroion occure in CLADING only.
+Depth of corrosion is smaller than 10% thicknees of sheet.
+
+Standard practices, general procedures, typical repairs and rework procedures within allowable damage applicable to more than one chapter are included in: (level 3)
+From chapter 52-57
+Related chapter.
+@@Chapter 51.
+
+Where can you find the instruction to get information about Modification/Service Bulletin List. (level 3)
+@@In Identification Scheme (Page Block 1 to 99)
+Allowable Damage (Page Block 101
+Repairs (Page Block 201 to 999)
+

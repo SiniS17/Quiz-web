@@ -1,0 +1,493 @@
+In normal configuration DMC 2 process (A321_ENHANCE): (Level 1)
+@@PFD2, ND2 Only.
+PFD1, ND2 and upper ECAM display.
+PFD2, ND2 and lower ECAM display.
+
+ECAM level 3 corresponds to (Level 1)
+An abnormal configuration.
+@@An emergency configuration.
+A configuration requiring crew monitoring only.
+
+The inputs received by the FWC are used to (Level 1)
+@@Elaborate red warnings.
+Elaborate amber warnings
+Elaborate red and amber warnings
+
+The EIS DMC selector switch is at the first officer 3 position (Level 1)
+DMC 3 replaces DMC 1
+@@DMC 3 replaces DMC 2
+DMC 2 replaces DMC 1
+
+The ECAM highest priority of alert level is: (Level 1)
+Level 1
+Level 2
+@@Level 3
+
+A second failure is a failure: (Level 3)
+Affecting an isolated equipment or system without affecting another one.
+Of an equipment or system causing the loss of other equipment.
+@@Cause by loss of an equipment or system resulting from a primary failure
+
+Class 1 failures: (Level 3)
+Require maintenance action at the next adequate opportunity
+Can be left until the next scheduled maintenance check.
+@@Are the most serious ones and require an immediate maintenance action subject to the Minimum Equipment List (MEL)
+
+Type 2 systems: (Level 3)
+@@Can memorize failures only from the last flight leg
+Cannot memorize failure messages.
+Can memorize failures occurred in the last 64 flight legs
+
+The navigation display presents: (Level 3)
+@@Navigation and radar information
+Velocity and altitude information
+Aircraft system parameters
+
+The ECAM displays comprise: (Level 3)
+One Engine and Warning Display (E/W)
+One system or Status Display (SD)
+@@Both E/W and SD.
+
+The crew can manually transfer displays: (Level 3)
+From SD to ND
+From Upper ECAM (E/W) to Lower ECAM (SD)
+@@From SD to ND, PFD to ND and ND to PFD
+
+The display management computers process data in order to  (Level 2)
+@@Generate codes and graphic instructions corresponding to the image to be displayed.
+Generate red warning message
+Generate red warning message
+
+Pressing the captain PFD/ND transfer pushbutton will: (Level 2)
+@@Interchange the Captain PFD and ND images.
+Replace DMC 2 by DMC3 in control of the captain side
+Interchange the Captain PFD and Lower ECAM
+
+What is the meaning of “TO INHIB” a message? (Level 1)
+The pilot is not allowed to flight manually.
+One system operates in abnormal condition
+@@During take off and landing, most of the warnings are inhibited to avoid distraction of the crew.
+
+The flight phases are computed by the: (Level 1)
+SDAC
+@@FWC
+DMC
+
+The ‘SSFDR’ power supply is available: (Level 3)
+At the first engine start up and five minutes after the last engine shutdown.
+Using the GND CTL pushbutton in the cockpit
+@@Both A and B
+
+The manual tests (system test and specific tests) can be initiated via: (Level 2)
+@@CFDIU
+AIDS
+DFDRS
+
+The post flight report is made up from  (Level 2)
+The LAST LEG ECAM REPORT.
+@@The LAST LEG ECAM REPORT and the LAST LEG REPORT.
+The LAST LEG REPORT.
+
+Type 3 systems: (Level 2)
+Can memorize failures only from the last flight leg
+@@Cannot memorize failure messages.
+Can memorize failures occurred in the last 64 flight legs
+
+The CFDS ” system report/ test” is available: (Level 2)
+@@On ground only
+In flight only
+Both A and B
+
+What is the functions of AIDS? (Level 3)
+@@To perform engine condition, APU condition and aircraft performance monitoring as well as trouble shooting assistance.
+To record mandatory parameter of APU
+To record mandatory parameter of Engine
+
+Electronic instrument systems present data for the: (Level 2)
+Electronic Flight Instrument System (EFIS).
+Electronic Centralized Aircraft Monitoring (ECAM)
+@@ECAM and EFIS
+
+The engine and warning display presents: (Level 1)
+Primary Engine parameters indications,
+Fuel quantity, and Flaps/Slats position.
+@@Engine indications, fuel quantity, and Flaps/Slats position.
+
+the displays in DUs can be transferred: (Level 1)
+Automatically
+Manually.
+@@Manually and automatically
+
+Which statement is correct? (Level 3)
+@@Master Warning use for any Red warning, Master Caution use for level 2 amber warning
+Master Warning use for any level 2 amber warning Master Caution use for Red warning,
+Both Master Warning and Master Caution use for any Red warning
+
+In normal configuration DMC 1 process: (Classic A/C) (Level 1)
+PFD1, ND2 and upper ECAM display.
+@@PFD1, ND1 and upper ECAM display.
+PFD2, ND2 and lower ECAM display.
+
+The FWC generates: (Level 1)
+@@All warning messages and supplies the attention getters.
+Only Red Warning messages
+Only Attention getters
+
+The engine parameters are indicated on? (Level 1)
+@@The upper part of the engine warning display
+The right part of the engine warning display
+The lower part of the engine warning display
+
+The post flight report can be printed: (Level 1)
+In flight only
+@@On ground only
+Both A and B
+
+The purpose of the digital flight data recording system (DFDRS) is: (Level 3)
+@@To record various critical flight parameters in a solid state memory to fulfill the mandatory requirements of crash recording
+To record maintenance parameter only
+To record various systems data which are sent to the ground.
+
+The CFDS ” LRU identification” provides: (Level 1)
+Deactivation of the Computer
+Computer lockout
+@@PART NUMBER of the LRUs
+
+Type 1 systems: (Level 2)
+Can memorize failures only from the last flight leg
+Cannot memorize failure messages.
+@@Can memorize failures occurred in the last 64 flight legs
+
+During flight, A/C speed <100kts, both ac bus loss (Level 2)
+RAT will automatic extend
+@@Nothing happen
+RAT extend but only supply the hydraulic blue.
+
+If both FWC 1+2 fault (Level 2)
+The Master caution light comes on
+The Master Warning light comes on
+@@None of above
+
+If both SDAC 1+2 fault (Level 2)
+@@The Master caution light comes on
+The Master Warning light comes on
+None of above
+
+In case of main clock fault (Level 2)
+PFR can not established
+@@CFDIU will take its own clock through GMT/DATE INIT menu
+CFDIU will take clock from GPS signal
+
+The ECAM spurious maintenance messages info can collect from (Level 3)
+Aircraft Operator
+Local authority
+@@SIL 00-028
+
+In case of stall condition detected on one engine, which report will trigger on AIDS (Level 3)
+Engine mechanical advisory report
+@@Engine gas path advisory report
+Engine run up report
+
+This report is generated in case of abnormal APU shutdown (Level 3)
+@@APU shutdown report
+APU main engine start/idle report
+ENVIRONMENTAL control system report
+
+This report is generated when excessive loads are applied to the airframe during landing (Level 3)
+@@Load report
+Engine divergence report
+Environmental control system report
+
+What is the function of ECAM? (Level 2)
+To present the failure
+@@To present data for Aircraft Monitoring
+To present data for maintenance
+
+What is the color of the Master caution light? (Level 2)
+Red
+@@Amber
+Red or Amber
+
+Engine and Warning Display (E/W) and System or Status Display (S) (Level 2)
+Engine and Warning Display (E/W) and Navigation Display (ND)
+Engine and Warning Display (E/W) and Primary Flight Display (PFD)
+
+What is the function of EFIS? (Level 2)
+@@To present data for flight
+To present the failure
+To present data for maintenance
+
+Where is the navigation and radar information displayed? (Level 2)
+@@On ND
+On E/W
+On PFD
+
+Which computer generates graphics and symbols to be displayed on a display unit? (Level 2)
+@@DMC, Display Management Computer.
+SDAC, System Data Acquisition Concentrator
+FWC, Flight Warning Computer.
+
+Are the 6 display units (DUs) identical and interchangeable? (Level 2)
+@@Yes
+No
+No, they are identical but not interchangeable.
+
+The EFIS displays are: (Level 2)
+PFD: Primary Flight Display and SD: System Display
+PFD: Primary Flight Display and E/W: Engine data and warning
+@@PFD: Primary Flight Display and ND: Navigation Display
+
+Which computer calculates the flight phase? (Level 2)
+SDAC
+@@FWC
+Both A and B
+
+What is the highest priority of the 3 selection modes of system page presentation? (Level 2)
+@@Manual mode
+Failure mode
+Flight phase mode
+
+The warning messages are accompanied by: (Level 3)
+@@MASTER WARNING, or a MASTER CAUTION and an aural warning.
+Only MASTER WARNING
+MASTER CAUTION and an aural warning.
+
+In normal configuration DMC 2 process: (Level 2)
+PFD1, ND1 and upper ECAM display.
+PFD1, ND2 and upper ECAM display.
+@@PFD2, ND2 and lower ECAM display
+
+The fuel on board is indicated on: (Level 2)
+The upper part of the engine warning display
+@@The right part of the engine warning display
+The lower part of the engine warning display,
+
+Permanent data at the bottom of the system display is: (Level 2)
+Displayed on Door page only
+@@Always displayed whatever the page presented.
+Displayed in-flight only
+
+The mode showing 90 degree dynamic pattern which provides the aircraft position with respect to the flight plan is the: (Level 3)
+ROSE/NAV
+@@ARC MODE
+ROSE/VOR
+
+A loss of an item of equipment or system resulting from other failure is: (Level 2)
+A primary failure,
+@@A secondary failure,
+An Independent failure.
+
+A failure, which affects an isolated item of equipment or system without affecting another one is: (Level 2)
+A primary failure,
+A secondary failure,
+@@An Independent failure.
+
+The main functions of SDAC (System Data Acquisition Concentrator) are: (Level 3)
+Data acquisition and data digitalization,
+Data concentration and data digitalization,
+Data acquisition and data concentration,
+
+The DFDR (Digital Flight Data Recorder) stores data, which the FDIU (Flight Data Interface Unit) has collected during: (Level 2)
+@@The last 25 hour,
+The last 120 minute,
+The last 64 flight legs.
+
+For Classic Aircraft. If DMC 2+3 failure: (Level 3)
+The F/O EFIS data is lost,
+The F/O EFIS data is remain avail,
+@@The F/O EFIS and ECAM SD data is lost.
+
+For Enhanced Aircraft. If DMC 2+3 failure: (Level 2)
+@@The F/O EFIS data is lost,
+The F/O EFIS data is remain avail,
+The F/O EFIS and ECAM SD data is lost.
+
+What is corrects statement for class 1 failure? (Level 2)
+@@Class 1 failures are the most serious ones and require an immediate maintenance action subject to the Minimum Equipment List (MEL),
+Class 1 failures may have consequences if a second failure occurs. A class 1 failure must be repaired within 10 days,
+Class 1 failures can be left uncorrected until the next scheduled maintenance check.
+
+What is corrects statement for type 1 system? (Level 2)
+@@The type 1 systems can memorize failures, which occurred in the last 64 flight legs,
+The type 1 systems memorize only failures from the last flight leg.
+The type 1 systems cannot memorize failure messages.
+
+The PFR start recording at: (Level 2)
+3 minutes after first engine start if flight number inserted prior to first engine start,
+Aircraft speed more than 80 knots if flight number doesn’t inserted prior to first engine start,
+3 minutes after first engine start if flight number inserted prior to first engine start or Aircraft speed more than 80 knots if flight number doesn’t inserted prior to first engine start,
+
+What are two modes of CFDS? (Level 2)
+@@NORMAL and MENU modes,
+NORMAL and INTERACTIVE modes,
+FLIGHT and GROUND modes.
+
+What is the functions of AIDS?  (Level 2)
+@@To perform engine condition, APU condition and aircraft performance monitoring as well as trouble shooting assistance.
+To record mandatory parameter of APU
+To record mandatory parameter of Engine
+
+Type 3 systems: (Level 2)
+Can memorize failures only from the last flight leg
+@@Cannot memorize failure messages.
+Can memorize failures occurred in the last 64 flight legs
+
+The flight phases are computed by the: (Level 2)
+SDAC
+@@FWC
+DMC
+
+Which statement is correct? (Level 3)
+@@Report 14 is generated when there is an APU auto shutdown due to a detected failure
+Report 14 is generated when the ENG is started with the APU
+Report 14 is generated when the ENG start failure.
+
+The FDIU sends DFDR parameters to the DMU (Level 2)
+@@Though an ARINC 429 bus so that they can be recorded on the DAR
+Though an ARINC 429 bus so they can not be recorded on the DAR
+Though an ARINC 453 bus so that they can be recorded on the DAR
+
+The DUs send back some feedback signals to their driving DMC, The feedback information is: (Level 2)
+@@Acknowledgment signals, DU faiure information, Critical parameter feedback signals.
+DU faiure information, Critical parameter feedback signals.
+No, DUs don’t send feedback information to the DMCs.
+
+Which statement is correct? (Level 2)
+@@Report 14 is generated when there is an APU auto shutdown due to a detected failure
+Report 14 is generated when the ENG is started with the APU
+Report 14 is generated when the ENG start failure.
+
+The FDIU sends DFDR parameters to the DMU  (Level 3)
+@@Though an ARINC 429 bus so that they can be recorded on the DAR
+Though an ARINC 429 bus so they can not be recorded on the DAR
+Though an ARINC 453 bus so that they can be recorded on the DAR
+
+The DUs send back some feedback signals to their driving DMC, The feedback information is: (Level 3)
+@@Acknowledgment signals, DU faiure information, Critical parameter feedback signals.
+DU faiure information, Critical parameter feedback signals.
+No, DUs don’t send feedback information to the DMCs.
+
+EFIS and ECAM CRT’S: (Level 3)
+Are mechanically but not electrically interchangeable
+Are electrically but not mechanically interchangeable
+@@Are fully interchangeable
+
+The systems transmit their failure information to the CFDIU : (B2) (Level 3)
+@@Permanently in flight and on the ground
+Only in flight
+Only on the ground
+
+Which function to initiate test for one aircraft system by CFDS menu: (B1,B2) (Level 3)
+@@System report/test
+Last leg ECAM report
+Avionic status
+
+The report accessible in flight are only the: (B1,B2) (Level 3)
+Avionics status and the system report
+Last leg report and the last leg ECAM report
+@@Current leg report and the current leg ECAM report
+
+In case of DMC1 or 2 failure: (B1,B2) (Level 3)
+The opposite DMC replaces the faulty one
+DMC 3 replaces it automatically
+@@DCM 3 has to be switches over manually
+
+The EIS display switching is done: (B2) (Level 3)
+Manually only
+@@Automatically only in case of failure or manually in all circumstances
+Automatically or manually only in case of failure
+
+Each DMC processes: (B2) (Level 1)
+2 ECAM displays and 1 EFIS display
+@@2 EFIS display and 1 ECAM display
+2 EFIS displays
+
+The navigation parameters displayed on: (B2) (Level 1)
+E/W display
+SYSTEM display
+@@ND displays
+
+You can display a class 3 fault by selecting: (B1,B2) (Level 3)
+@@Avionic status or system report, then class 3 faults
+Last leg report, then class 3 faults
+System report/test, then troubleshooting data
+
+The purpose of the avionic status report is to: (B1,B2) (Level 3)
+Provide on ground the list of system affected by a failure during the last leg
+Provide on ground the list of system fitted on the aircraft.
+@@Provide on ground the list of system presently affected by a failure
+
+The highest priority of the ECAM system display is: (B1,B2) (Level 1)
+@@Manual selection
+Automatic related to the flight phase
+Automatic related to a failure
+
+Which type of systems can not memorize failure message: (B1,B2) (Level 1)
+Type 1
+@@Type 3
+Type 2 and Type 3
+
+Which is the main computer of the AIDS system: (B1,B2) (Level 1)
+DMC
+@@DMU
+CFDIU
+
+In case of PFDs failed, how to read PFD parameters: (B1,B2) (Level 1)
+@@Automatic display in NDs
+Must be press PFD/ND XFR pushbuttons
+Mode selector ECAM/ND XFR to CAPT
+
+In case of  SDAC 1+2 fault: (B1,B2) (Level 1)
+Lost of RED warnings
+@@Lost of AMBER warnings
+Lost of attention getters.
+
+In case of  FWC 1+2 fault: (B1,B2) (Level 1)
+@@Lost of aural warnings, text messages on E/W display and attention getters
+Lost of RED warnings
+Lost of AMBER warnings
+
+The emergency cancel function on the ECAM CTR panel allows: (B1,B2) (Level 1)
+Cancellation of aural warning only
+@@Cancellation of aural warning and ECAM amber messages
+Cancellation of aural warning and ECAM red warning messages
+
+What is the purpose of the DFDR? (A,B1,B2) (Level 3)
+Condition monitoring of the engines
+To record mandatory parameters.
+@@To record parameters in a solid state memory for ground maintenance.
+
+Which ECAM page displayed in cruise? (B1,B2) (Level 1)
+ENGINE page
+FLT/CTL page
+CRUISE page
+
+On which display does the warning message appear? (B1,B2) (Level 1)
+SYSTEM display
+@@ENGINE/WARNING display
+STATUS display.
+
+Post Flight Report can be printed: (B1,B2) (Level 1)
+In flight only
+@@On ground only
+By programming in MCDU only
+
+The audio signal generated by: (B1,B2) (Level 1)
+DMC
+@@FWC
+FWC and SDAC
+
+Which are the main function of AIDS? (B1,B2) (Level 1)
+To recording of the mandatory flight data request by authority.
+Trouble shooting the avionic computers only
+@@Engine condition, APU condition and aircraft performance monitoring
+
+The Post Flight Report is made from (B1,B2) (Level 1)
+Only LAST LEG ECAM REPORT
+@@The LAST LEG ECAM REPORT and LAST LEG REPORT
+Only LAST LEG REPORT
+
+The status page can be displayed: (B1,B2) (Level 1)
+Automatic display
+@@When press the STATUS key on the ECAM control panel
+When INOP system more than 3 items

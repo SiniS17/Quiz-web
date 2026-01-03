@@ -1,0 +1,405 @@
+The auto flight system (AFS) calculates orders to automatically control the (level 1)
+@@Flight controls and the engines.
+The Yaw Damper and the engines.
+The Primary Flight Display and the Navigation Display.
+
+During auto flight system controls flight control and thrust system, side sticks and thrust levers (level 1)
+@@Do not move.
+Move automatically.
+Move automatically at high speed.
+
+The auto flight system is designed around four computers: (level 1)
+02 Flight Management and Guidance Computers (FMGCs) and 02 elevator aileron computers (ELACs).
+@@02 Flight Management and Guidance Computers (FMGCs) and 02 Flight Augmentation Computers (FACs).
+02 Flight Management and Guidance Computers (FMGCs) and 02 spoiler elevator computers (SECs).
+
+During AFS operation, side sticks and thrust levers: (level 2)
+Move automatically,
+@@Do not move automatically,
+Move accordance with AFS order.
+
+The main parts of the AFS are: (level 1)
+@@FM, FG, FAC
+FM, ADIRU, FAC
+FM, MCDU, FAC
+
+How many FMGC are installed in A320/A321 A/C? (level 1)
+1
+@@2
+3
+
+Which are the Automatic Flight System (AFS) calculates? (level 1)
+@@The AFS calculates orders to automatically control the flight controls and engines,
+The AFS calculates orders to send to FCU and MCDU,
+The AFS calculates orders to automatically control the side sticks and thrust levers.
+
+The auto flight system computes orders and sends them to the:  (level 1)
+Electrical Flight Control System (EFCS) and Air Data & Inertial Reference Systems (ADIRs).
+Full Authority Digital Engine Control (FADEC) and Air Data & Inertial Reference Systems (ADIRs).
+@@Electrical Flight Control System (EFCS) and to the Full Authority Digital Engine Control (FADEC).
+
+The MCDUS are used for: (level 1)
+@@Long-term control of the aircraft.
+Short-term control of the aircraft.
+Maintenance activity only
+
+The FIDS function is active in:  (level 1)
+@@The FAC 1
+The FAC 2
+The FAC 1 or FAC 2 if FAC 1 has a failure.
+
+The basic functions of the FACS are the: (level 1)
+@@Rudder control and the flight envelope protection.
+Engines control and the flight envelope protection.
+Rudder control and the Flight Management.
+
+The FMGC functions can be controlled from: (level 1)
+The MCDUs and rudder trim control panel.
+The FCU and rudder trim control panel.
+@@The FCU and MCDUs.
+
+The FMGC functions are: (level 1)
+Flight guidance and flight envelope protection
+@@Flight management and Flight guidance
+Flight management and flight envelope protection
+
+Which unit will let the pilots control the functions of the FMGCs (Flight management and guidance computers)? (level 1)
+The FCU (Flight Control Unit),
+The MCDUs (Multipurpose Control and Display Units),
+@@The FCU and MCDUs.
+
+Which part of FMGCs (Flight management and guidance computers) gives the functions related to the aircraft control? (level 1)
+The FM part (Flight Management),
+@@The FG part (Flight Guidance),
+The FE part (Flight Envelope).
+
+The basic functions of the flight augmentation computer (FAC) are: (level 1)
+@@Yaw damper, rudder trim, rudder travel limitation, flight envelope protection and FIDS (Fault Isolation and Detection System).
+Yaw damper, rudder trim and rudder travel limitation.
+Yaw damper, rudder travel limitation and flight envelope protection.
+
+The rudder travel limiting unit limits the deflection of the rudder according to the:  (level 1)
+Aircraft vertical speed.
+@@Aircraft speed.
+Wind speed.
+
+The fault isolation and detection system (FIDS) allowed interface between the auto flight system and the centralized fault display system (CFDS): (level 1)
+@@Only available in FAC 1.
+Only available in FAC 2.
+Available in FAC1 and FAC 2
+
+The trim function of FAC is: (level 1)
+@@Rudder trim
+A pitch trim
+Rudder trim and pitch trim
+
+Rudder travel limitation is a function of: (level 1)
+@@FAC only
+FAC in normal and ELAC in alternate
+ELAC only
+
+The Management part of FMGC mainly provides:  (level 1)
+Navigation, performance optimization, radio navigation tuning and information display management
+@@Flight plan selection with its lateral and vertical functions. Navigation, performance optimization, radio navigation tuning and information display management.
+Flight plan selection with its lateral and vertical functions, autopilot, flight director and AUTOTHRUST.
+
+The Fault Isolation and Detection System (FIDS) is activated with: (level 1)
+@@FAC in position 1 only,
+FAC in position 2 only,
+Both FACs in position 1 and 2.
+
+The FCU allowed: (level 1)
+The modification and the display of flight plans.
+@@The engagement of the autopilot, Flight Director and AUTOTHRUST functions.
+The modification of the parameters associated with the flight management functions.
+
+FCU provides the short term interface as:  (level 1)
+@@Engagement of the autopilot, flight director and A/THR functions.
+Engage/disengage AP, disengage A/THR, select cabin landing altitude.
+Select air speed, heading, cabin landing altitude.
+
+The flight management part mainly provides the flight plan selection with its: (level 1)
+Vertical functions.
+Lateral functions.
+@@Lateral and vertical functions.
+
+The FCU is used for: (level 1)
+Long-term control of the aircraft.
+@@Short-term control of the aircraft.
+Back up control for sidestick
+
+The Multipurpose Control and Display Units (MCDUs) are used for: (level 1)
+Medium-term control of the aircraft,
+Short-term control of the aircraft,
+@@Long-term control of the aircraft.
+
+The flight guidance part provides: (level 1)
+The autopilot, Flight management and AUTOTHRUST functions.
+Performance optimization, Flight Director and autothrust functions.
+@@The autopilot, Flight Director and AUTOTHRUST functions.
+
+The functions of the FG part are: (level 1)
+@@AP, FD, A/THR
+AP, FD, flight plan
+AP, FD, A/THR, flight plan
+
+The FD is displayed on: (level 1)
+@@PFD
+PFD and ND
+ND
+
+The flight director (FD) displays the guidance commands on: (level 1)
+Both Navigation Displays (NDs).
+@@Both Primary Flight Displays (PFDs).
+Lower ECAM Display.
+
+What is purpose of FD? (level 1)
+Helps pilot to monitor the AP orders if AP engaged
+Displays the Flight orders which would be followed if AP not engaged
+@@Helps pilot to monitor the AP orders if AP engaged and Displays the Flight orders which would be followed if AP not engaged
+
+The AP (Autopilot) is function of: (level 1)
+@@The Flight Guidance part,
+The Flight Management part,
+The Flight Envelope part.
+
+For maintenance purposes, the autopilot can be engaged on ground with: (level 1)
+Both engines running.
+@@Both engines shut down.
+Hydraulic power available.
+
+The autopilot can be engaged: (level 1)
+@@For at least 5 seconds after lift-off.
+In cruise only.
+At top of climb.
+
+The second autopilot can be engaged when: (level 1)
+Cruise mode engaged.
+Approach mode engaged.
+@@Approach mode engaged and ILS is armed.
+
+The AP function gives orders to control:  (level 1)
+The position of the control surfaces on the pitch, roll and yaw axes.
+The nose wheel steering
+@@A or b is corrected
+
+With aircraft in cruise phase and AP1 (Auto Pilot) is engaged. Can you engage the AP2? (level 1)
+@@Yes, but the AP1 will disengage,
+No, the AP1 has higher priority in cruise phase,
+Yes, both APs can be engaged at the same time in cruise phase.
+
+The AP (Auto Pilot) can be engaged? (level 1)
+In flight, provided the aircraft has been airborne for at least 5 seconds,
+On ground with both engines shutdown,
+@@In flight, provided the aircraft has been airborne for at least 5 seconds or on ground with both engines shutdown.
+
+Each PFD show –FD2 mean that: (level 1)
+@@no FD symbols can be displayed on PFD1 and FD2 is engaged on the F/O side.
+FD2 is engaged on both PFD.
+FD 2 symbol cannot displayed on PFD2
+
+The flight director (FD) functions engage automatically: (level 1)
+@@As soon as the system is electrically supplied and logic conditions are fulfilled.
+As long as no AP/FD mode is active.
+When the take-off mode engaged.
+
+The Flight Director is engaged: (level 1)
+By pressing the FD P/B on the FCU
+@@Automatically at system power rise
+By selecting a mode on the FCU
+
+The A/THR (Auto thrust) function can be engaged: (level 1)
+Manually from the dedicated P/BSW (Push button switch) from the FCU (Flight Control Unit),
+Automatically when some conditions are fulfilled.
+@@Automatically or manually
+
+How can we initiate power up test for FCU when AC is energized.  (level 3)
+Pull CB of one of the FCU and wait 7 minutes
+@@Pull both CB of FCUs and wait 7 minutes
+Pull both CB of FCUs and wait 1minute
+
+Which computer can make power up test in flight? (level 3)
+FMGC
+FAC
+@@FCU
+
+Which AFS LRU (Auto Flight System Line Replaceable Unit) can make safety test on ground or in flight? (level 3)
+@@The FCU (Flight Control Unit),
+The MCDUs (Multipurpose Control and Display Units),
+The FMGCs (Flight management and guidance computers),
+
+The rudder trim control signal from the rudder trim control panel is sent to: (level 3)
+the FM part of the FMGC
+@@the FAC
+the FG part of the FMGC
+
+Which is correct statement when AP is not engaged?  (level 3)
+@@In normal configuration, the yaw damper order calculated by the ELAC provides turn coordination; dutch roll damping and engine failure compensation.
+If both ELACs fail the yaw damper order calculated by the FAC provides turn coordination; dutch roll damping and engine failure compensation.
+the FAC calculates the yaw damper order except in LANDING mode where it is computed by the Flight Management and Guidance Computer (FMGC).
+
+The rudder travel limitation is computed by: (level 3)
+@@The FAC.
+The Rudder travel limiting unit.
+The FMGC
+
+IF AP is not engaged, which computer calculates yaw damper order? (level 3)
+@@ELAC
+FAC
+FCU
+
+If AP engaged, can we use rudder trim selector to trim rudder? (level 3)
+yes, if AC in flight
+@@No
+Yes, if AC on ground
+
+For the yaw damper actuator 1, the changeover logic get fail signal of selector valves or FAC 1 from:  (level 3)
+@@the hydraulic press switch.
+The LVDT
+The RVDT
+
+Turn coordination calculation base on: (level 3)
+ENG thrust
+Information entered in MCDU
+@@FGMC roll order.
+
+Which computer calculates speed limit? (level 3)
+FMGC
+@@FAC
+ADIRU
+
+Which function of FAC is independent on FAC engagement? (level 3)
+@@Flight envelop protection
+Rudder control
+Yaw damper
+
+The mandatory parameter used by FAC for Alpha Floor protection is: (level 3)
+A/C maximum speed
+A/C minimum speed
+@@A/C angle of attack
+
+Which parameter FACS must be use to control the VMAX speed (level 3)
+Landing gear level
+@@Slat/Flap position
+Rudder position
+
+Low energy warning is available when: (level 3)
+A/C altitude between 100 ft and 2000 ft and alpha floor condition is triggered.
+@@The current thrust, it is not possible to recover a positive flight path angle through pitch control and A/C altitude between 100 ft and 2000 ft out of alpha floor condition.
+AOA excessive value
+
+When the A/THR function is engaged, A/THR is not active if: (level 3)
+At least one thrust lever is above the FLX/MCT detent and both thrust levers are above the CL detent.
+@@At least one engine is in FLX TO mode, with the alpha-floor protection not active.
+The alpha-floor protection is active independently of the thrust lever positions.
+
+The FAULT light of FAC 1 pushbutton is controlled by:  (level 3)
+FWC
+@@FAC1
+FMGC
+
+The A/THR engaged and not active, on the FCU, the A/THR pushbutton light is on and: (level 3)
+The A/THR system controls the engines; the FMA displays the A/THR engagement status (in green) and the A/THR mode.
+@@The thrust levers controls the engines, the FMA displays the A/THR engagement status (in cyan) and the manual thrust rating.
+The A/THR system controls the engines; the FMA displays the A/THR engagement status (in white) and the A/THR mode.
+
+When the A/THR functions is engaged, A/THR is not active if: (level 3)
+at least, one thrust lever is between the CL detent (included) and 0 stop (included) and at the most, one thrust lever is between the FLX/MCT detent and the CL detent.
+@@At least one thrust lever is above the FLX/MCT detent, or both thrust levers are above the CL detent, or at least one engine is in FLX TO mode, with the alpha-floor protection not active.
+the alpha-floor protection is active independently of the thrust lever positions.
+
+In case of the alpha floor protection is active, the AUTOTHRUST is: (level 3)
+Engage and not active.
+@@Active independently of the thrust lever positions.
+Active depends on the position of the thrust levers.
+
+Thrust mode is:  (level 3)
+@@when the AP controls the aircraft speed with the elevators, the A/THR has to control the engines by a fixed thrust demand.
+When the AP controls another aircraft parameter (e. g. altitude), the A/THR has to take care of the aircraft speed by a variable thrust demand to the engines.
+only available in automatic landing when engine thrust has to be reduced to idle
+
+Which statement is incorrect? (level 3)
+Thrust mode: when the AP controls the aircraft speed with the elevators, the A/THR has to control the engines by a fixed thrust demand.
+SPEED/MACH mode: when the AP controls another aircraft parameter (e. g. altitude), the A/THR has to take care of the aircraft speed by a variable thrust demand to the engines.
+@@RETARD mode: only available in automatic landing or go-around when engine thrust has to be reduced to idle for the flare phase below 40 feet RA.
+
+The 1FD2 indication is displayed on each flight mode annunciator (FMA) to show that: (level 3)
+@@FD1 is engaged on CAPT side and FD2 is engaged on F/O side.
+FD1 is engage on CAT and F/O side.
+FD1 is engage on CAT and F/O side.
+
+Both APS can be engaged as soon as the approach mode is selected on the flight control unit (FCU) (level 3)
+@@AP1 has priority, AP2 is in standby
+AP2 has priority, AP1 is in standby
+First AP engaged has priority.
+
+The A/THR function is, in fact, composed of two systems (A/THR1 and A/THR2), which are ready to be engaged at the same time, but only one system is selected. (level 3)
+@@The selection of A/THR1 or A/THR2 depends on the engagement of the AP and FD.
+A/THR1 is active and A/THR2 standby.
+A/THR1 control Engine 1, A/THR 2 control Engine 2
+
+Which ATHR control the engine in case of AP 2 active and both FD active (level 3)
+ATHR 1
+@@ATHR 2
+Both ATHRs
+
+When both APs are engaged. Which FMGC supplies (Flight management and guidance computers) both FMA (Flight Mode Annunciation)? (level 3)
+@@FMGC 1 supplies both FMA,
+FMGC 1 supplies FMA 1 and FMGC 2 supplies FMA 2,
+FMGC 2 supplies both FMA if AP 2 was engaged first.
+
+With AP2 is engaged, the FMA (Flight Mode Annunciation) will be supplied following: (level 3)
+Both FMAs supplied by FMGC1,
+@@Both FMAs supplied by FMGC2,
+FMA1 supplied by FMGC1 and FMA2 supplied by FMGC2.
+
+With at least one AP (Auto pilot) engaged. Which FMGC (Flight management and guidance computers) supplies both FMA (Flight Mode Annunciation)? (level 3)
+@@The master FMGC,
+The FMGC1,
+The FMGC2,
+
+Which window on the FCU (Flight Control Unit) always displays a target value selected by the crew? (level 3)
+@@The ALT window,
+The SPEED/MACH window,
+The HDG/TRK window.
+
+In flight AP can be engaged when:  (level 3)
+Aircraft in take off phase
+Aircraft in climb phase
+@@At least 5 seconds after lift-off
+
+Where does the Navigation Data Base store? (level 3)
+@@FM part of FMGC
+FG part of FMGC
+MCDU only
+
+The position of the aircraft, used in flight plan, is computed by: (level 3)
+FG part of the FMGC
+The MCDU
+@@FM part of the FMGC
+
+What happens if we press instinctive disconnect P/B for more than 15sec? (level 3 )
+A/THR will be inhibited recovery engagement in whatever reason.
+@@A/THR will be inhibited recovery engagement for that flight whatever reason.
+A/THR will be disconnected and can be re-engaged whenever.
+
+The fuel and time prediction functions are performed by: (level 3)
+FG part of the FMGCs
+@@FM part of the FMGCs
+The FAC
+
+To perform the AUTOTHRUST (A/THR) function, the thrust limit computed by the: (level 3) (Not clear)
+FMGCs which depends on the AP/FD mode.
+@@FADECs, which depends on the position of the thrust levers.
+FACs, which depends on the aircraft speed.
+
+In the manual mode, the AP is not engaged and the ELAC (Elevator Aileron Computer)  sends to the FAC (Flight Augmentation Computers): (level 3) (Not Clear)
+The turn coordination and the dutch roll damping,
+The engine failure compensation yaw orders,
+@@The turn coordination, the dutch roll damping and the engine failure compensation yaw orders.
+
+What is different between control loop of AP and ATHR  (level 3) (Not Clear)
+ATHR control single loop, AP double loop
+AP and ATHR control double loop
+@@AP control single loop, ATHR double loop
+

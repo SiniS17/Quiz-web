@@ -1,0 +1,510 @@
+What is the output of APU generator? (level 1)
+@@90 KVA
+50 KVA
+5 KVA
+
+The supply priorities for AC BUS 1 (2) are: (level 1)
+The related IDG, then the other IDG, then External Power, then the APU Generator
+External Power, then the APU Generator, then the related IDG, then the other IDG
+@@The related IDG, then External Power, then the APU Generator, then the other IDG
+
+The AC ESS BUS is normally supplied by: (level 1)
+AC BUS 2	.
+@@AC BUS 1
+Static Inverter
+
+When the AC ESS BUS is supplied by the AC BUS 2? (level 1)
+@@When AC BUS 1 failure,
+When EMERGENCY configuration,
+Any time.
+
+The AC electrical system can be supplied by: (level 1)
+Two engine integrated drive generators
+APU generator or an external power source
+@@02 IDG, 01 APU Gen, 01 External Power Source
+
+When APU started while A/C is supplied by external power: (level 1)
+External power will supply AC BUS 1, APU GEN will supply AC BUS 2
+APU GEN will supply AC BUS 1 and AC BUS 2
+@@External power will supply AC BUS 1 and AC BUS 2
+
+What is the function of BUS TIE CONTACTORS? (level 1)
+@@To enable AC buses to be supplied by any generator or external power,
+To enable an AC bus to be connected with two generator at the same time
+To isolate AC BUS1 and AC BUS2
+
+Which statement is correct? (level 1)
+Both main engine generators and APU generator have the same characteristics
+APU generator characteristics are: 115 Volts, 400Hertz, 90 KVA.
+@@Both A and B are correct
+
+Aircraft is on ground and both APU GEN and EXT PWR are available: (level 1)
+APU GEN supplies AC BUS 1 and AC BUS 2
+EXT PWR supplies AC BUS 1 and APU GEN supplies AC BUS 2
+@@EXT PWR supplies AC BUS 1 and AC BUS 2
+
+EMERGENCY GENERATOR works: (level 1)
+Normally to supply part of the AC and DC electrical systems
+@@In case of normal supply lost.
+In caseof batteries lost
+
+AC transfer circuit enables AC buses: (level 1)
+to be connected in parallel
+@@to be supplied by any generator or external power
+to be supplied by APU GEN or EXT PWR only
+
+The Engine generators characteristics are: (level 1)
+220V, 50 Hz and three phase,
+@@115/200 V, 400 Hz, 90 kVA and three phase,
+115/200 V, 400 Hz, 90 kVA and single phase.
+
+The EMR GEN characteristics are: (level 1)
+115/200 V, 400 Hz, 90 kVA and single phase,
+@@115/200 V, 400 Hz, 5 kVA and three phase
+115/200 V, 400Hz, 5 kVA and single phase.
+
+The AC ESS BUS normally supplied by: (level 1)
+AC BUS 1 and AC BUS 2,
+AC BUS 2,
+@@AC BUS 1.
+
+The Static Inverter is connected to: (level 1)
+@@Battery 1,
+Battery 2,
+Battery 1 and 2.
+
+When Battery is installed on A/C: (level 1)
+@@HOT BUS is supplied permanently
+DC BAT BUS is supplied permanently
+HOT BUS is supplied only if Battery is connected
+
+DC BAT BUS is normally SUPPLIED BY THE: (level 1)
+@@DC BUS 1
+Batteries
+DC BUS 2
+
+DC BAT BUS can be supplied by the: (level 1)
+DC BUS 1 or batteries
+@@DC BUS 1, DC BUS 2 or batteries
+DC BUS 2 or batteries
+
+The EMERGENCY GENERATOR can supply: (level 1)
+Part of the DC electrical system in case of loss of normal supply
+@@Part of the AC and DC electrical systems in case of loss of normal supply
+Part of the AC electrical system in case of loss of normal supply
+
+How is the HOT BUS supplied? (level 1)
+From Battery when it is connected
+From DC BAT BUS
+@@From Battery permanently
+
+DC GENERATION is accomplished by: (level 1)
+@@Transformer Rectifiers
+Static inverter
+The transformer
+
+The STATIC INVERTER is supplied from: (level 1)
+@@Battery 1
+Battery 2
+DC BAT BUS
+
+In normal configuration: (level 1)
+AC ESS BUS is supplied by  AC BUS 2
+@@DC BAT BUS is supplied by DC BUS 1
+DC ESS BUS is supplied by BAT 2
+
+DC BAT BUS is supplied by: (level 1)
+ESS TR
+Batteries only
+@@DC BUS 1 or by DC BUS 2 if DC BUS 1 fails.
+
+In flight when loss of main generators and before the emergency generator connection (level 1)
+BAT 1 supplies the static inverter then AC BUS 1
+DC ESS BUS is supplied from DC BAT BUS
+@@BAT 1 supplies the static inverter then AC ESS BUS, BAT 2 supplies DC ESS BUS
+
+When EMERGENCY GENERATOR comes on line: (level 1)
+@@Emergency generator supplies AC ESS BUS and DC ESS BUS via ESS TR
+Emergency generator supplies DC BAT BUS via ESS TR
+BAT 2 supplies DC ESS BUS
+
+Which statement is correct? (level 1)
+@@Hot bus is directly connected to Battery.
+Static inverter is connected to Battery 2
+RAT only extend in the AIR.
+
+The static inverter operates: (level 1)
+Permanently
+@@When on batteries only
+When one engine generator fails
+
+The Static Inverter characteristics are: (level 1)
+@@115 V, 400 Hz and single phase,
+115 V, 400 Hz and three phases,
+220 V, 50 Hz and single phase.
+
+In normal configuration, Transformer Rectifier (TR) 1 supplies successively: (level 1)
+DC BUS 1, DC BAT BUS,
+DC BUS 1, DC ESS BUS and  DC ESS SHED BUS,
+@@DC BUS 1, DC BAT BUS, DC ESS BUS and DC ESS SHED BUS.
+
+FAULT LIGHT on IDG PUSHBUTTONS comes on when: (level 3)
+IDG is disconnected
+Low oil level or high oil temperature
+@@Low oil pressure or high oil temperature
+
+In normal configuration, on the ELEC system page, the electrical parameters is shown: (level 2)
+@@Green
+White
+Blue
+
+The FAULT light on IDG pushbutton means: (level 3)
+GEN fault
+@@IDG oil overheat or low press
+IDG disconnected
+
+In case of AC bus 2 Fault: (level 3)
+DC ESS BUS is supplies by HOT bus 2 and DC BUS 2 is supplied by DC BUS 1 through DC BAT bus
+@@DC ESS BUS is supplies by ESS TR and DC BUS 2 is supplied by DC BUS 1 through DC BAT bus.
+DC ESS BUS is supplies by HOT bus 1 and DC BUS 2 is supplied by DC BUS 1 through DC BAT bus.
+
+IDG 1(2) OIL OVHT warning message appears when: (level 3)
+@@The oil outlet temperature is above 1800C,
+The oil inlet temperature is above 1800C,
+The oil outlet temperature is above 2000C.
+
+On ground, in case of APU generator overload, the whole galley network is: (level 3)
+@@Automatically shed,
+Still available,
+Manually shed.
+
+The IDG is: (level 2)
+An APU generator
+@@An engine generator,
+An external power source.
+
+The IDG comprises of: (level 2)
+Constant Speed Motor (CSM) and an AC generator
+An AC generator
+@@Constant Speed Drive (CSD)  and the generator
+
+The main AC generators are: (level 2)
+@@GEN 1, GEN 2, APU GEN and EXT PWR,
+GEN 1, GEN 2, EMER GEN and EXT PWR,
+GEN 1, GEN 2, APU GEN and EMR GEN.
+
+When IDG oil filter is clogged: (level 2)
+@@Has a visual pop out indicator mounted on the IDG.
+The FAULT light of related IDG pushbutton switch comes on.
+The FAULT light of related GEN pushbutton switch comes on.
+
+A IDG clogged filter indication is provided by: (level 2)
+An ECAM warning message,
+@@A local  visual Delta Pressure pop-out Indicator (DPI),
+A local warning on related IDG P/B.
+
+The IDG oil to be service when: (level 2)
+Oil level at green band,
+Oil level at yellow band,
+@@Oil level at red band.
+
+The IDG will be disconnected in case of: (level 2)
+Oil overheat (high oil out temperature),
+Oil pressure drop when not caused by drive under speed,
+@@Oil overheat (high oil out temperature) or oil pressure drop when not caused by drive under speed.
+
+If IDG charge oil pressure is detected low: (level 2)
+Low pressure warnings are automatically triggers.
+@@Low pressure warning are triggered only when IDG input speed is higher than a threshold
+Low pressure warning are triggered only both engines are running.
+
+For monitoring IDG overheat temperature condition, the GCU use information from: (level 3)
+IDG oil in temperature sensor.
+@@IDG oil out temperature sensor.
+IDG oil in and out temperature sensors.
+
+The CHARGE PRESSURE SWITCH of IDG is used to: (level 3)
+Monitor oil pressure during servicing IDG oil.
+@@Monitor IDG oil pressure during IDG operation.
+Give a message IDG Fault when IDG oil overfill.
+
+When the IDG PUSHBUTTON is momentarily pressed: (level 3)
+The IDG is reconnected
+Drive shaft stops rotating
+@@The Integrated Drive Generator is disconnected from its drive shaft.
+
+IDG must immediately be disconnected in case of: (level 3)
+The IDG oil press is more than 140 PSI or the oil outlet TEMP is above 1850 C
+@@The IDG oil press is less than 140 PSI or the oil outlet TEMP is above 1850 C
+The IDG oil press is less than 140 PSI or the oil outlet TEMP is above 2000 C.
+
+GEN PUSHBUTTON is selected off: (level 3)
+Only the line contactor opens
+The generator is de-energized and the line contactor still stays closed
+@@The generator is de-energized and the line contactor opens
+
+With the engine stopped: (level 3)
+@@The IDG cannot be manually disconnected,
+The IDG can be manually disconnected,
+The IDG automatically disconnected
+
+When the fuel pump 1 on left wing and right wing are supplied by GEN 1 directly? (level 3)
+When RAT (Ram Air Turbine) extended,
+@@When the EMER ELEC GEN 1 LINE is selected to OFF,
+When GEN 2 is failure.
+
+During the avionic smoke procedure, the GEN 1 LINE P/B is release out and: (level 3)
+The IDG 1 stops and all users connecting to IDG 1 are deenergized
+@@Only the corresponding GLC is open and fuel pumps 1LH and 1RH are still energized by IDG1
+GLC1 opens and fuel pumps 1LH and 1RH are automatically supplied by IDG2
+
+When APU generator oil  is overheat, (level 2)
+APU GCU will send an immediate automatic shutdown signal to APU.
+@@ECB will send an immediate automatic shutdown signal to APU.
+APU need to be shutdown manually by APU GEN P/B
+
+If a high APU generator oil temperature detection occurs: (level 3)
+@@An immediate APU shut down is commanded and the APU Generator is de energized
+The APU Generator is disconnected only
+The APU Generator Fault Light illuminates only
+
+Which statement is correct? (level 3)
+Engine generators and APU generator are the same
+@@The output speed of APU is constant so APU generator does not need a Constant  Speed Drive
+The power of  Emergency Generator and APU generator are the same
+
+EXTERNAL POWER receptacle is located: (level 2)
+Forward of the Main Landing Gear well
+@@Forward of the Nose Landing Gear well
+Under the wing
+
+When the EXTERNAL POWER is plugged in and correct, (level 2)
+@@The NOT IN USE and AVAIL lights on the External power receptacle come on
+The NOT IN USE light is off and AVAIL light is on
+The NOT IN USE light is on and AVAIL light is off
+
+Both light “AVAIL” and “NOT IN USE” in the external power receptacle are illuminated when: (level 2)
+An External Power Source is supplying the Aircraft Network
+At least one External Power Parameter is not correct, the External Power Contactor (EPC) stays Open
+@@All External Power Parameters are correct but the EPC is Open
+
+What does the EXT PWR AVAIL light indicate when lit? (level 2)
+The Ground Power Control Unit has tripped the external ground cart.
+The external ground cart is connected to the aircraft network.
+@@The external ground cart can be connected to the aircraft network.
+
+DC GND/FLT bus normally is supplied by: (level 3)
+TR1
+@@TR2
+DC BAT bus
+
+Maintenance buses only are supplied when: (level 3)
+External power is connected and blue ON light on EXT PWR pushbutton illuminated; MAIN BUS switch in ON position
+@@External power is connected and the green AVAIL light on EXT PWR pushbutton illuminated; MAIN BUS switch is ON position
+Any generator is coupled to the network; MAIN BUS switch is in ON position. The APU generator or external power is connected.
+
+MAINT BUS SWITCH: (level 3)
+@@Selected ON, and with only the EXT PWR available, the AC and DC GRND FLT buses are supplied.
+Selected On, the AC and DC GRND FLT buses are supplied from the Bat Bus.
+Enables  AC and DC GRND FLT buses to be supplied from any generators
+
+What is the configuration if BTC 1 is open and BTC 2 closed: (level 3)
+EXT PWR "supplies AC BUS 1 and GEN 2 supplies AC BUS 2
+APU GEN supplies AC BUS 1 and EXT PWR supplies AC BUS 2
+@@GEN 1 supplies AC BUS 1 and EXT PWR supplies AC BUS 2
+
+APU GEN PUSHBUTTON in normal operation: (level 3)
+Line contactor closes, if electrical parameters are correct
+@@Line contactor stays open, if electrical parameters are correct but APU generator does not have priority
+Line contactor kalways closes when aicraft is on ground
+
+What is priority order for AC bus 1? (level 3)
+IDG2/ External Power / APU Generator/ IDG1
+@@IDG1/ External Power / APU Generator/ IDG2
+IDG2/ APU Generator/External Power /  IDG2
+
+The two normal buses (AC BUS 1 & AC BUS 2) are supplied by the available suppliers in the following priority: (level 3)
+@@Onside generator (IDG), external power, APU GEN, offside generator,
+Onside generator (IDG), APU GEN, external power, offside generator,
+Onside generator (IDG), offside generator, external power, APU GEN,
+
+The LEFT BTC is controlled by: (level 3)
+@@GCU1.
+APU GCU or  GAPCU.
+GCUs and GPCU/GAPCU.
+
+With APU generator ON and the IDG 2 generator ON: (level 3)
+@@The BTC 1 is energized and the BTC 2 is de-energized,
+The BTC 1 and the BTC 2 are de-energized,
+The BTC 1 and the BTC 2 are energized.
+
+If only one generator is available in flight: (level 3)
+@@The main galley loads are automatically shed,
+The RAT (Ram Air Turbine) will extend automatically,
+The main AC BUS 1 and AC BUS 2 are lost.
+
+GALEY & CAB PUSHBUTTON: (level 3)
+In AUTO, the main and secondary electrical circuits of the galleys are always supplied.
+In OFF, the main electrical circuits of the galleys is shed.
+@@In AUTO and in flight, the main electrical circuits are automatically shed when only one generator is available
+
+EGIU is installed on the: (level 1)
+@@Classic system.
+Enhanced system.
+FADEC system.
+
+After a thermal disconnection, the IDG: (level 2)
+@@Must be changed,
+Can be reconnected on ground,
+Reconnected at next engine start.
+
+Can you reset IDG in the flight? (level 1)
+Yes
+@@No
+Yes, when the related engine is at idle
+
+What does the EXT PWR PB “AVAIL” light illuminated on EXT PWR panel means? (level 2)
+@@External power is plugged in,and all parameters are normal
+All external power parameters are normal but not plugged in
+External power is plugged in and supplied to A/C network
+
+If any EXTERNAL POWER parameter is not correct: (level 2)
+The NOT IN USE light is on and AVAIL light stays off
+@@The NOT IN USE light and AVAIL light stay off
+The NOT IN USE light is off and AVAIL light is on
+
+When the EXTERNAL POWER is plugged but not connected to network and  parameters are correct: (level 2)
+@@The indicator lights on the external power receptacle and the AVAIL light on the cockpit come on.
+The NOT IN USE light on the external power receptacle stay off.
+Only NOT IN USE light on the external power receptacle comes on.
+
+When GPU available but not connected to network: (level 3)
+@@The AVAIL and NOT IN USE lights at EXT PWR PANEL come ON,
+The AVAIL light at EXT PWR PANEL come ON,
+The NOT IN USE light at EXT PWR PANEL come ON.
+
+Which following sentence is correct? (level 3)
+GND/FLT bus can be directly supplied by external power unit when the external power contactor (EPC) closes.
+GND/FLT bus can be directly supplied by external power unit when the generator line contactor (GLC) closes.
+@@GND/FLT bus can be directly supplied by external power unit not depending on the position of the EPC
+
+The EMERGENCY GENERATOR is located: (level 3)
+@@In the Main Wheel Well
+In the Avionics Compartment above batteries
+Next to the Ram Air Turbine (RAT)
+
+The EMERGENCY GENERATOR is driven by: (level 3)
+The Ram Air Turbine
+The wind force
+@@The Blue Hydraulic System
+
+When does the CSM/G supply the DC and AC ESS buses? (level 3)
+@@When AC Bus 1 and 2 is lost.
+When the Emergency Generator parameters are correct.
+As soon as BAT 2 is lost.
+
+The Ram Air Turbine extended when: (level 3)
+Loss of DC BUS 1 and DC BUS 2 at speed higher than 100 knots,
+@@Loss of AC BUS 1 and AC BUS 2 at speed higher than 100 knots,
+Loss of AC BUS 1 and AC BUS 2 at speed lower than 100 knots.
+
+Which following sentence is correct? (level 3)
+@@In case of total loss all the main generator, BAT 1 will supply the AC ESS BUS, BAT 2 will supply the DC ESS BUS, then the emergency generator connection.
+In case of total loss all the main generator, BAT 1 will supply the DC ESS BUS, BAT 2 will supply the AC ESS BUS, then the emergency generator connection.
+In case of total loss all the main generator, the emergency generator connection, then BAT 1 will supply the DC ESS BUS, BAT 2 will supply the AC ESS BUS.
+
+If the AC BUS 1 and AC BUS 2 are lost with airspeed of aircraft is above 100 kts: (level 3)
+The main galley loads are automatically shed,
+@@The RAT (Ram Air Turbine) will extend automatically,
+The AC ESS BUS is lost.
+
+If the MAN ON P/BSW is pressed in: (level 3)
+The RAT extends if aircraft in flight,
+The RAT extends if aircraft is energized,
+@@The RAT extends, even in cold aircraft configuration.
+
+The STAT INV transforms the direct current into a single-phase alternating current from: (level 3)
+@@Battery 1,
+Battery 2,
+Both batteries 1 and 2.
+
+In emergency electrical configuration. With airspeed above 100 kts, the AC ESS BUS is supplied by: (level 2)
+@@The CSM/G (Constant Speed Motor/Generator),
+The STAT INV (Static Inverter),
+The AC BUS 2.
+
+In emergency electrical configuration. With airspeed between 50kts and 100kts, the AC ESS BUS is: (level 3)
+Supplied by the CSM/G (Constant Speed Motor/Generator),
+@@Supplied by the STAT INV (Static Inverter),
+No longer supplied.
+
+Which following sentence is correct? (level 3)
+@@AC STATIC INV BUS can be supplied by BAT 1 through Static Inverter
+AC STATIC INV BUS can be supplied by BAT 2 through Static Inverter
+AC STATIC INV BUS can be supplied by BAT 1,2 through Static Inverter
+
+In case of loss of main Generators, When the speed is lower than 100 knots: (level 2)
+@@The emergency generator is deactivated, the BAT supply the AC and DC ESS BUSes.
+The AC ESS BUS disconnects from the static inverter
+The emergency generator supply the AC and DC ESS BUSes.
+
+Which power source supplies the ESS TR? (level 3)
+AC BUS 1 or AC BUS 2.
+AC BUS 1 AND AC BUS 2.
+@@AC ESS BUS or EMERGENCY GENERATOR.
+
+DC ESS bus can be supplied by: (level 3)
+Batteries 1, 2 or ESS TR or DC BAT bus
+Battery 1 or ESS TR
+@@Battery 2 or ESS TR
+
+What is the DC ESS network power source if TR 1 has failed? (level 3)
+@@AC ESS BUS
+DC BAT BUS
+CSM/G
+
+When TR1 fails: (level 3)
+TR2 supplies DC BUS 2, DC BAT BUS then DC ESS BUS.
+@@DC ESS BUS is supplied by ESS TR
+DC BUS 1 is supplied by ESS TR
+
+The ESS TR supply DC ESS BUS when: (level 3)
+The TR 1 failure,
+The TR 2 failure,
+@@The TR 1 or TR 2 failure.
+
+What is the DC ESS BUS supplied by if TR2 has failed: (level 3)
+TR 1
+@@ESS TR
+BAT 2
+
+The TR protection reset is possible from: (level 3)
+MCDU via CFDIU,
+The guarded toggle switch located in the avionics bay,
+@@Either from MCDU via CFDIU or the guarded toggle switch located in the avionics bay.
+
+In cold aircraft configuration, where the batteries voltage can checked? (level 3)
+There is NO INDICATION
+On the ECAM ELEC page
+@@On the ELEC-OVERHEAD panel
+
+Bus ties Contactors are controlled by: (level 2)
+GCU 1
+GCU 2
+@@Automatically operate.
+
+When a green CB popped out  (level 1)
+The Green Hydraulic system will be inop
+Nothing happen
+@@A message will appear on ECAM
+
+the number on the top of the C/B indicates (level 2)
+The position of C/B
+@@The nominal current in AMP
+The voltage
+
+The green C/Bs are: (level 2)
+@@Monitored ones
+C/Bs for flight control system
+C/Bs of Green Hydraulic system
+

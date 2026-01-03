@@ -1,0 +1,350 @@
+What is the purpose of the ATSU router Initialization?  (level 1)
+For ATSU power up
+To test ATSU operation
+@@For the Air-Ground communications functions and services of the ATSU to be activated.
+
+What is the purpose of VHF3 Link test?  (level 1)
+@@To confirms that the communication link between VHF3 and the ground is operational.
+To confirms that the communication link between VHF3 and the RMP is operational
+To confirms that the communication link between VHF3 and the ATSU is operational
+
+The ACARS STBY memo message on ECAM go off when: (level 1)
+@@The initialization of the ATSU router is completed.
+ATSU operation test is completed
+Reset ATSU.
+
+What are the parameters required for ATSU router initialization?  (level 3)
+The A/C Registration Number only
+Scan Mask validation only
+@@The A/C Registration Number, airline ident parameter and Scan Mask validation.
+
+Routing data to and from AOC is the function of: (level 1)
+@@Remote AOC applications
+Hosted AOC applications
+Remote AOC applications or hosted AOC applications
+
+What is/are warnings if there is an ATSU failure? (level 3)
+A message “COM ACARS FAULT” on EWD, aural warning and master light on.
+A message “COM ACARS FAULT” on EWD, aural warning and master light on and a SD page is called
+@@A message “COM ACARS FAULT” on EWD only.
+
+MSG “company data link standby” green memo displayed on the ECAM means (level 3)
+@@Initialization of the ATSU Router needs to be done
+ATSU is powered but not working
+ATSU is standby on ground
+
+What is the main computer of ITIMS. (level 1)
+@@ATSU
+VHF1
+VHF2
+
+Which computer does ITIMS use to transfer data? (level 1)
+HF1
+VHF1
+@@VDR3
+
+The test function of the maintenance menu is used to: (level 2)
+@@Test the link between the communication media and the ground.
+For media and router statistic.
+Print out exchanged messages per media and router depending on selection.
+
+What is corrected statement? (level 3)
+@@The AOC MENU can be customized and gives access to the hosted AOC applications loaded in the ATSU.
+The CONFIG function gives access to a SYSTEM CONFIG page to verify that the correct AOC software (S/W) and data base Seri Number (SN) have been successfully loaded into the ATSU.
+a and b are uncorrected.
+
+ATIMS use VHF3 for: (level 2)
+data mode
+voice mode
+@@both data mode and voice mode
+
+What does AOC stand for? (level 2)
+ATC Option Communication
+Airline Option Control
+@@Airline Operation Control
+
+What does ACARS STBY green memo displayed on the ECAM mean? (level 2)
+@@Initialization of the ATSU Router needs to be done
+ATSU is powered but not working
+ATSU is standby on ground
+
+What is the air / ground communication media of ATIMS? (level 1)
+VHF1
+HF1
+@@VHF3
+
+When the OPS frequency is activated (132.225 given as an example), the ATSU controls the VHF3 frequency in VOICE mode. On the Radio Management Panel (RMP): (level 3)
+@@the ACARS indication stays in view in the active window.
+the number 132.225 indication stays in view in the active window.
+the ACARS indication stays in view in the standby window.
+
+Where can you test the VHF3 link? (level 2)
+From the RMP
+from the AMP
+@@From MCDU
+
+The A/C interface/ Host platform software is composed of: (level 3)
+@@air/ ground communication, used for the management of air/ground communication media.
+the AOC application.
+the host application.
+
+Which is component used for uploading ATSU software? (level 1)
+MCDU 1
+@@MDDU
+MDDU in case of MCDU1 has failed.
+
+When there is an ATSU failure (if ATSU is installed): (level 2)
+the message COMM ACARS FAULT
+the message DATA LINK ATSU FAULT
+@@the message COMM ACARS FAULT and master caution lights come on.
+
+The RMPs sends and receives signal to/from the ATSU by: (level 2)
+Analog signal.
+@@Discrete signal.
+ARINC 429 signal.
+
+What are the parameters required when initialize the ATSU router (level 2)
+The A/C Registration Number only
+Scan Mask validation only
+@@The A/C Registration Number, airline ident parameter and Scan Mask validation.
+
+The ATSU Software are included:   (level 1)
+Aircraft interface/host platform
+Data link applications.
+@@Both of above
+
+What is AOC applications ?  (level 2)
+It is communication services between the aircraft and the airline facility
+@@It is data communication services between the aircraft and the airline facility
+It is data communication services between the aircraft and  the ATC ground station.
+
+What does Scan Mask do ?  (level 1)
+@@To select and activate the VHF service providers contracted by the airline.
+To scan and tune VHF frequency available
+To test VHF links.
+
+The ATSU automatically controls data frequencies in the order defined in:  (level 2)
+VHF3 VOICE DIRECTORY menu
+@@VHF3 SCAN SELECT menu
+From RMP 3.
+
+To carry out initialization of the Air Traffic Service Unit (ATSU) router:  (level 3)
+The A/C registration number must be must be entered.
+@@The A/C registration number is sent by the CFDIU.
+No need A/C registration number information.
+
+Right memo "ACARS CALL" appears in green when: (level 2)
+@@A call request message from ground is received.
+A call request from Cabin attendant.
+A call request from Forward attendant Panel.
+
+The MAINTENANCE menu is composed of: (level 3)
+TEST, which is used to test the link between the communication media (VHF3, SATCOM and HF if installed) and the ground,
+STATISTICS used for media and router statistics: number of up linked messages, number of down linked messages.
+@@All above.
+
+Which computer is a center of information system ? (level 1)
+@@ATSU
+ACARS
+ATIMS
+
+Which function is belong to ATSU ? (level 1)
+AOC
+COMM
+@@All of above
+
+How does the ATSU load software ? (level 1)
+Via PMAT
+@@Via MDDU
+Via USB
+
+Which menu of ATSU does the pilot get weather information ? (level 1)
+COMM -> WEATHER RQ
+MAINT -> WEATHER RQ
+@@AOC -> WEATHER RQ
+
+Which menu of ATSU can we do the datalink test of ATSU ? (level 1)
+AOC -> MAINTENANCE
+AOC -> BITE
+@@COMM -> MAINTENANCE
+
+Which VHF system does the ATSU use to transport data ? (level 1)
+VHF1
+VHF2
+@@VHF3
+
+Which procedure do we must perform when install new ATSU ? (level 2)
+Load software
+Initialization procedure of the ATSU router
+@@All of above
+
+Which computer interface with ATSU ? (level 2)
+@@LGCIU
+DFDR
+SFCC
+
+You can access to ATSU via: (level 2)
+DCDUs
+@@MCDUs
+DCDU and MCDU
+
+ATSU DATA LINK menu consists of: (level 3)
+AOC menu
+COMM menu
+@@AOC menu and COMM menu
+
+The ATSU software is partitioned into main parts: (level 2)
+Aircraft interface.
+Data link application.
+@@Aircraft interface and data link application
+
+When there is an text AOC message, a message displays on ECAM, that is: (level 1)
+ACARS STBY
+@@ACARS MSG
+ACARS CALL
+
+When the right memo “VHF3 VOICE” appears in green that means: (level 3)
+@@VDR3 is not available for data transmission
+VDR3 is in voice mode
+VDR3 is in data mode
+
+Which softwares following require to be loaded when install an ATSU? (level 2)
+@@ATSU interface & ATSU config & ATSU router parameter & AOC
+ATSU interface & ATSU router parameter & ATSU config & AOC softwares
+ATSU interface & ATSU config are enough
+
+The Air Traffic and Information Management System (ATIMS) for the pre-FANS configuration mainly consists of an: (level 3)
+@@Air Traffic Services Unit (ATSU), which allows ACARS functionalities.
+ACARS, which allows Air Traffic Services Unit (ATSU) functionalities.
+ATC transponder, which allows ACARS functionalities.
+
+Hosted AOC applications (level 2)
+Only routes data to and from AOC peripherals.
+@@Depend on airline definition and uploaded into the ATSU.
+Receive ground messages and route them to the right AOC peripheral.
+
+Concerning Initialization of the ATSU Router (level 3)
+The ATSU creates the airline ident by concatenating the flight ident parameter and the flight number parameter coming from the FMS.
+@@The airline ident is not available and must be entered.
+airline ident is sent by the CFDIU.
+
+The ATSU software is partitioned into two main parts: (level 2)
+@@Aircraft interface / host platform and Data link applications.
+Aircraft interface / host platform and hardware.
+Data link applications and hardware.
+
+The VHF scan mask gives: (level 2)
+AOC software and data base part number and the ATSU AOC identification.
+@@an ordered list of service providers usable for VHF data communications.
+an list of tests for maintenance of VHF3 comunication.
+
+After an ATSU removal/installation some tasks have to be performed (level 3)
+@@The A/C Interface software must be loaded into the ATSU, an ATSU router initialization, the AOC software and database must be loaded into the ATSU and BITE test of the ATIMS.
+an ATSU router initialization and BITE test of the ATIMS.
+Nothing.
+
+Memo message DATALINK COMPANY STBY comes on ECAM means? (level 1)
+@@Lost temporarily communication
+Lack of essential ATSU softwares.
+Communication datalink is faulty
+
+The initialization (through COMM INIT menu) is considered as completed when the ATSU has received (level 3)
+a SELCAL code, Airline Ident and scan mask.
+a Flight Number , Airline Ident and scan mask.
+@@a valid Aircraft Registration Number (ARN), Airline Ident and scan mask.
+
+The Air Traffic and Information Management System (ATIMS) mainly consists of?  (level 3)
+An ACARS computer
+@@An Air Traffic Services Unit (ATSU), which allows ACARS functionalities.
+A VHF 3 transceiver
+
+How are the Air-Ground communications  managed by the ATSU communication function? (level 3)
+Pilots choose appropriate Menu in MCDU
+They are automatically handled.
+@@They may be either automatically or manually handled using MCDU pages and/or RMPs.
+
+After ATSU router initialization, which parameter can be changed? (level 3)
+Tail number
+@@Scan mask
+Airline Id
+
+When can we use VHF3 in voice mode ? (level 2)
+COMPANY CALL
+VHF 2 failure
+@@VHF 1 or VHF 2 failure or COMPANY CALL
+
+If A/L Id is accidentally wrong entried? (level 3)
+A/l Id is always selected automatically
+A/L Id can be re-selected manually
+@@ATSU must be re-installed all softwares
+
+What is purpose of the ATSU router initialization? (level 3)
+@@For air/ground communications functions and service of the ATSU activated
+For ATSU power up
+To test ATSU operation
+
+The Air-Ground communications are managed by the ATSU? (level 3)
+manually using MCDU pages and/or ACPs
+only automatically managed.
+@@automatically without pilot action or manually using MCDU pages and/or RMPs
+
+What are downlink messages ? (level 3)
+@@Aircraft to ground messages (downlink) comprise maintenance, monitoring, operational, performance and cabin data
+contain requests for transmission of specific downlink reports
+operated automatically without pilot action.
+
+Remote AOC applications(Level 3)
+a. uploaded into the ATSU.
+b. Depend on airline definition.
+@@c. Receive ground messages and route them to the right AOC peripheral.
+
+If a complete S/W uploading is required, which action can be made(Level 3)
+@@a. re-initialization of the ATSU
+b. active "ATSU installed" pin programming on the FWC
+c. active "ATSU installed" pin programming on VHF 3 transceiver
+
+The MCDU gives the following functions: (Level 3)
+@@a. Airline Operational Control (AOC) hosted applications management and air-ground communication management.
+b. Airline Operational Control (AOC) remote applications management and air-ground communication management.
+c. air-ground communication management
+
+Which page gives an ordered list of authorized service providers usable for data communications(Level 2)
+a. VHF3 DATA MODE
+b. VHF3 VOICE DIRECTORY
+@@c. VHF3 SCAN SELECT
+
+Which menu is used to customized and gives access to the AOC applications loaded in the ATSU(Level 2)
+a. COMM menu
+@@b. AOC menu
+c. ROUTER menu
+
+Before Initialization of the ATSU Router is completed, which memo is display on upper ECAM(Level 3)
+a. ACARS MSG or COMPANY MSG.
+@@b. ACARS STBY or COMPANY DATALINK STBY.
+c. ACARS CALL or COMPANY CALL.
+
+Three essential parameters are required for Initialization of the ATSU Router (Level 3)
+a. a SELCAL code, Airline Ident and scan mask.
+b. a Flight Number , Airline Ident and scan mask.
+@@c. a valid Aircraft Registration Number (ARN), flight ident and scan mask.
+
+Which action must be done to the COMPANY DATALINK STBY green memo is displayed instead of the ACARS STBY memo (Level 3)
+@@a. active “ATSU installed" pin programming on the FWC
+b. active “ATSU installed" pin programming on the SDAC
+c. active “ATSU installed" pin programming on the ATSU
+
+Which menu is used for Air-Ground communication management (Level 3)
+a. AIDS Menu.
+@@b. COM Menu.
+c. AOC Menu
+
+AOC software and data base part number and the ATSU AOC identification are showed on: (Level 3)
+a. CFDS Menu.
+b. COM Menu.
+@@c. AOC CONFIG page.
+
+The ATSU is interfaced with MCDUs for (Level 3)
+@@a. Automatic Flight System
+b. Communication System
+c. Indicating System
+

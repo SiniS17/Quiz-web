@@ -1,7 +1,3 @@
-DOCUMENTATION
-
-(level 2)
-
 Where can you find characteristics and complimentary information of the Part Number: (level 1)
 IPC or AMM
 ASM or AMM
@@ -101,3 +97,4 @@ AMM gives: (ME Repair, E&A Repair) (level 3)
 The status of the item of equipment, semi-equipment and related wiring
 Information required for trouble shooting is contained in the manual
 @@The information required to service, repair, replace, adjust, inspect and check equipments and systems of the A/C normally performed on the ramp or in the maintenance hangar
+

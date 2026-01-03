@@ -1,0 +1,290 @@
+Where can the potable water quantity be checked? (level 1)
+On the indicator on the water service panel only.
+On the FAP.
+@@On the indicator on the water service panel and on the FAP.
+
+Why are drain valves installed in the waste water drain system? (level 1)
+To allow the sinks and wash basins to be isolated.
+@@To prevent a permanent loss of cabin air pressurization.
+To prevent ice formation.
+
+Where does the toilet bowl rinsing water come from? (level 1)
+Waste water tank.
+@@Potable water tank.
+Waste water system.
+
+How is the waste transported to the waste holding tank? (level 1)
+@@By the vacuum created in the waste tank.
+By the water flushing and gravity.
+By the vacuum created in the toilet bowl
+
+Is it possible to drain the whole water system without electrical power? (level 1)
+No, electrical power is always required.
+@@Yes, all the drain valves can be operated manually.
+No, only the water tank can be drained by using the fill/overflow drain valve.
+
+How are the wash basin water heaters protected from damage should the normal temperature control fail? (level 2)
+There is no protection
+@@An over temperature safety device cuts off the electrical power
+By a warning on the ECAM display
+
+Why are the drain valve installed in the waste water drain system? (level 2)
+To allow the sink and wash basin to be isolated
+@@To prevent a permanent loss of cabin air pressurization
+To prevent wash basin from being isolated
+
+Can any toilet be used during servicing? (level 2)
+Yes, because toilet use and servicing is independent
+Yes, but only the front toilet
+@@No, the door limit switch on the toilet servicing panel deactivates the toilet control system.
+
+From where does the LAV INOP Fault light come at the FWD Attendant Panel? (level 2)
+A level sensor in each toilet unit
+@@A fault of the related lavatory flush control unit (FCU)
+The door limit switch (panel door open) on the servicing panel.
+
+How many valves are used during draining operation of A320 aircraft water tank (level 1)
+Two
+Three
+@@Four
+
+How many potable water service and drain panels are fitted to the A320 aircraft? (level 1)
+One
+Two
+@@Three
+
+Which signal close the Fill/ Drain valve during servicing with electrical power available? (level 3)
+@@By a quantity transmitter which sends a tank full signal to close the fill/drain valve automatically
+When the quantity gauge indicates full the valve has to be closed manually
+There is no signal available, the tank has to be filled with a measured amount of water.
+
+How is the water tank depressurized during servicing? (level 2)
+By operating a wash basin faucet
+@@By operating the fill/over flow valve
+By a push button the servicing panel
+
+To prevent ice formation on the drain masts, the drain masts are (level 2)
+@@Heated by electrical
+Heated by bleed air.
+heated by electrical on the ground or heated by hot air in the air.
+
+the waste moves from the toilet bowl to the waste holding tank by(level 2)
+@@Differential pressure between the cabin and the atmosphere
+Differential pressure between the waste tank and the atmosphere
+Pressure of the rinse water.
+
+On ground, when the toilet service panel is open(level 2)
+@@The "SYS INOP" light comes on.
+The "LAVatory INOPerative" light comes on
+The vacuum generator comes on.
+
+What is liquid level sensor function of waste system? (level 3)
+@@To detect full of the waste tank
+To control and monitor the toilet system operation.
+To stop vacuum generator when A/C altitude more than 16000ft.
+
+What is function of VSC? (level 2)
+Fault reporting
+Control and monitor the toilet system operation
+@@control and monitor the toilet system operation a Fault reporting
+
+For enhance system, the difference pressure information is supplied by: (level 2)
+DEU B
+@@CPC
+Pressure switch.
+
+lavatory can be isolated from the potable water distribution system through (level 2)
+@@A manual shut-off valve.
+A fill/drain valve.
+An automatically shut-off valve.
+
+For A320, using the fill/drain control handle to fill position: (level 2)
+cannot electrically control overflow valve
+@@can electrically control overflow valve
+can electrically control drain valves
+
+The potable water system can be pressurized by: (level 1)
+Bleed air system only.
+Airconditioning system.
+@@Bleed air system or optional compressor
+
+The waste water from lavatory wash basins and galley sinks to be: (level 3)
+@@Discharged overboard via drain masts.
+Drains into a tank onboard.
+Keeps in integral container with lavatory.
+
+The water quantity on FAP is displayed when: (level 3)
+The "IND ON" pushbutton on the FAP is pressed in.
+The potable water service door is open.
+@@The "IND ON" pushbutton on the FAP is pressed in or The potable water service door is open.
+
+The tank full light of water system controlled by: (level 3)
+The overflow valve.
+@@The water quanlity transmiter
+The tank drain valve.
+
+The tank full light comes on when: (level 2)
+The overflow valve is open.
+@@The water tank is full.
+The tank drain valve is open.
+
+Signal from the high-level switch use to (level 3)
+@@Closes the fill/drain valve.
+Opens the fill/drain valve.
+To disconnect electrical supply to the water heaters in the lavatories.
+
+The drain masts are (level 2)
+@@Electrically heated to prevent ice formation.
+Heated by bleed air.
+Heated by both electrical and hot air.
+
+The difference of pressure between the cabin and the atmosphere can be caused by (level 2)
+The vacuum generator only
+By aircraft pressurization.
+@@The vacuum generator or by aircraft pressurization
+
+Why the potable water tank is pressurized (level 2)
+To ease draining operation.
+To prevent cavitation condition.
+@@To enable water supply from the tank to the service users.
+
+Using the fill/drain control handle: (level 3)
+cannot electrically control other valves
+@@can electrically control other valves
+can electrically control overflow valve only
+
+How many drain service panel(s) is(are) installed on the A320 aircraft? (level 1)
+1.
+@@2.
+3.
+
+When the waste tank is full (A320) (level 2)
+@@The vacuum system cotroller (VSC) shuts down the toilet system.
+The VSC sends a “LAV INOP” message to the forward attendent panel.
+The Flush Control Units (FCUs) are automatically de-activated
+
+When are the water and waste indications displayed on the Flight Attendant Panel (FAP) (Enhance sysem)? (level 3)
+@@The Service panel is open or push Water/Waste pushbutton on the FAP.
+The water tank or the waste tank is full.
+The Fill drain valve or Fill/overflow valve is open.
+
+The drain valves installed in the waste water system to (level 2)
+Allow the sinks and wash basins to be isolated.
+@@Prevent a permanent loss of cabin air pressurization.
+Prevent wash basins from being isolated.
+
+On ground, the vacuum generator start to operate as soon as (level 3)
+The aircraft is energized.
+Altitude pressure switch opens.
+@@Flush switch is pressed in.
+
+Without electrical power, the forward drain valve (level 2)
+Can not be controlled.
+Can be controlled by operating the fill/drain valve handle.
+@@Is mechanically controlled by the forward drain valve handle.
+
+For enhance system, the LGCIU is used to (level 3)
+Supply air/ground signal to the CIDS Director to open the drain valve when A/C on the ground.
+@@Backup in case of the Cabin Pressure Controller or the System Data Acquisition Concentrator failure.
+Backup in case of the Altitude Pressure Switch failure.
+
+The Flush Control Unit (FCU) controls (level 2)
+@@The rinse and flush cycle.
+The vacuum generator operation.
+Backup in case of the Altitude Pressure Switch failure.
+
+The Water Valves and Flush Valves of the toilet system are monitored by: (level 3)
+The Vacuum Generator.
+The Vacuum System Controller.
+@@The associated Flush Control Unit.
+
+Which device protects the water heaters in the lavatories from damage when the normal temperature control is failed? (level 3)
+You should pull out the circuit breaker
+You have to switch off the associated water heater when a related warning message appears on the ECAM.
+@@An over temperature safety device will cut off the electrical power.
+
+When the high level of the water quantity transmitter is trigged (level 3)
+The warming of water tank overfill is trigged
+@@The fill/drain valve closes and the water filling is stop
+The electrical supply to the water fill/drain valve is cut
+
+How many quantity transmitters are in the potable water tank? (level 3)
+@@One capacitor type transmitter
+Two capacitor type transmitters
+One capacitor type transmitter and one ultra sonic type transmitter
+
+The toilet system is monitored by (A321 enhanced): (level 3)
+The FCU Bite.
+@@The CIDS.
+The VSC Bite.
+
+Why is the potable water tank pressurized? (level 3)
+To ease the draining operation.
+@@To enable water supply from the tank to the service users.
+To prevent ice formation.
+
+Where does the potable water tank locate (A 321)? (level 2)
+@@Behind the aft cargo , in LH pressurized area
+Behind the forward cargo , in RH pressurized area
+Behind the aft cargo , in RH pressurized area
+
+Why is water tank pressurized?  (level 1)
+To ease draining operation.
+To warm up water.
+@@To allow water distribution.
+
+What is used for A320 aircraft water tank filling operation?  (level 1)
+One handle, one valve.
+Two handles, one valve.
+@@One handle, two valves.
+
+Where is the main drain port of the A320 aircraft potable water system?  (level 1)
+@@On the portable water service panel.
+On the fwd service panel.
+Both
+
+How many potable water quantity indicators are there?  (level 1)
+One
+@@Two
+Three
+
+How many quantity TRANSMITTER is in the potable water tank?  (level 1)
+@@One
+Two
+Three
+
+What is purpose of the high level switch of the water quantity TRANSMITTER? (level 1)
+@@De-energized a relay which closes the fill/drain valve when the tank is full.
+To disconnect electrical supply to the water heater in the lavatories
+To disconnect electrical supply to the fill/drain valve to closes it when the tank is full.
+
+What is purpose of the water service panel door microswitch? (level 1)
+To de-energized the indicating system when the portable water service panel door is opened.
+To energized the indicating system when the portable water service panel door is closed.
+@@To isolate the indicating system when the portable water service panel door is closed.
+
+When does the vacuum generator operate? (level 1)
+On ground only.
+@@Up to an altitude of 16.000 t during climb and below 12.000 ft during descent.
+During servicing operation.
+
+How many toilet service panels are fitted on the aircraft?  (level 1)
+@@One
+Two
+Three
+
+Where is the waste quantity displayed?  (level 1)
+On the toilet service panel
+On the Forward Attendant Panel
+@@On both panels.
+
+The water valve and the flush valve are monitor by: (level 1)
+The Vacuum System Controller.
+The Vacuum Generator.
+@@The associated Flush Control Unit BITE.
+
+What are the functions of the VSC? (level 1)
+@@System control and monitoring and fault reporting.
+System control and monitoring
+Fault reporting.
+

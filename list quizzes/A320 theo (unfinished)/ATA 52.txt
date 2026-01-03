@@ -239,14 +239,14 @@ The vent door moves to closed position
 The yellow hydraulic pump pressurizes
 
 THE WARNING RED LIGHT OF PASSENGER DOOR IS FLASHING, ITS POWER SUPPLIED BY: (Level 3)
-A. APU generator
-B. external power
-@@C. Battery hot bus
+APU generator
+external power
+@@Battery hot bus
 
 WHAT DOES THE GREEN LIGHT FITTED NEAR THE MANUAL SELECTOR VALVE OF THE CARGO DOOR INDICATE? (Level 3)
-A. The yellow hydraulic pressure is available to operate the door.
-@@B. Both door actuators are fully opened and locked, it’s both proximity switches are serviceable
-C. Both door actuators are fully opened and locked, only one proximity switch is serviceable
+The yellow hydraulic pressure is available to operate the door.
+@@Both door actuators are fully opened and locked, it’s both proximity switches are serviceable
+Both door actuators are fully opened and locked, only one proximity switch is serviceable
 
 What indicates the green light in the cargo door access?  (level 3)
 The cargo door is closed and locked
@@ -274,39 +274,39 @@ Outward and upward
 @@Outward, forward and in parallel to fuselage
 
 What is the purpose of the damper and emergency operation cylinder? (level 3)
-A.	To damp the door opening and closing
-B.	To assist in opening and closing the door to do it
-@@C.	To damp door movement during opening and closing sequences and the damper and emergency operation cylinder forms an emergency actuator that assists and improves the opening speed of the door
+To damp the door opening and closing
+To assist in opening and closing the door to do it
+@@To damp door movement during opening and closing sequences and the damper and emergency operation cylinder forms an emergency actuator that assists and improves the opening speed of the door
 
 The center sections of aircrafts A319 A320 A321 are: (level 2)
-@@A. the same in length
-B. the same
-C. The center section of aircraft A321 is longer than of A320
+@@the same in length
+the same
+The center section of aircraft A321 is longer than of A320
 
 2. The structure is of pax door is conventional design, composed of: (level 2)
-@@A. an outer skin, frame segments and beams
-B. an outer skin, frame segments and stringers
-C. inner skin, frame segments and beams
+@@an outer skin, frame segments and beams
+an outer skin, frame segments and stringers
+inner skin, frame segments and beams
 
 The loads resulting from cabin pressure on pax door are transferred by: (level 3)
-@@A. stop fittings (qty7) located on each side of the door and the frame.
-B. stop fittings (qty7) located on top and bottom of the door and the frame
-C. hinge connecting the door and the frame
+@@stop fittings (qty7) located on each side of the door and the frame.
+stop fittings (qty7) located on top and bottom of the door and the frame
+hinge connecting the door and the frame
 
 The loads resulting from cabin pressure on bulk cargo door are transferred by: (level 3)
-@@A. stop fittings (qty5) located on each side of the door and the frame.
-B. stop fittings (qty5) located on top and bottom of the door and the frame
-C. hinges connecting the door and the frame
+@@stop fittings (qty5) located on each side of the door and the frame.
+stop fittings (qty5) located on top and bottom of the door and the frame
+hinges connecting the door and the frame
 
 The APU access doors are made from: (level 2)
-A. Aluminum alloy
-@@B. Titanium alloy
-C. Stainless steel
+Aluminum alloy
+@@Titanium alloy
+Stainless steel
 
 The A319/A320 overwing exit is pressure tight by its seal; (level 3)
-A. the seal installed on exit frame
-@@B. the seal installed on exit and the seal lip is always in contact with exit frame
-C. the seal installed on exit and pressurized by cabin air during flight
+the seal installed on exit frame
+@@the seal installed on exit and the seal lip is always in contact with exit frame
+the seal installed on exit and pressurized by cabin air during flight
 
 Red flashing light on the cabin door if:(Level 3)
 The girt bar has failed to engage into the floor fittings
@@ -332,3 +332,4 @@ BULK Cargo is opened:(Level 3)
 Outward and upward.
 @@Inward and upward.
 Inward and downward.
+

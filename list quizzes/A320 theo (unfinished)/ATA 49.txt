@@ -90,7 +90,7 @@ Only after the cool down period has elapsed
 
 What kind of design is the turbine for APU? (HONEYWELL 131-9) (Level )
 Two stage centrifugal turbine design.
-@@Single stage centrifugal turbine design.
+Single stage centrifugal turbine design.
 @@Two stage axial turbine design
 
 Which component regulates the airflow to the pneumatic system? (Level 2)
@@ -409,36 +409,36 @@ Clogged oil filter
 @@Overspeed
 
 The starter of APU is: (Level 2)
-@@Pneumatically operated
+Pneumatically operated
 @@Electrically operated
 Hydraulically operated
 
-1. APU emergency shut down can be initiated from:(Level 1)
+APU emergency shut down can be initiated from:(Level 1)
 Refuel/Defuel panel; External power panel and Cockpit
 @@External power panel and Cockpit.
 External power panel only, if the aircraft is on ground
 
-2.Indication can be displayed on the APU page:(Level 2)
+Indication can be displayed on the APU page:(Level 2)
 FLAP OPEN.
 FUEL LO PR; LOW OIL LVL
 @@FLAP OPEN; FUEL LO PR; LOW OIL LVL.
 
-3. APU modules include:(Level 1)
+APU modules include:(Level 1)
 Compressor, Combustion chambers, Turbine
 Power section, Load Compressor, Turbine
 @@Power section, Load Compressor, Gearbox.
 
-4. APU OIL quantity can check on:(Level 1)
+APU OIL quantity can check on:(Level 1)
 @@APU page, on sight glass located on the gear box and interrogate the CFDS.
 APU page, on sight glass located on the gear box
 APU page, on sight glass located on the oil cooler and interrogate the CFDS
 
-6. During Main Engine Start: (Level 1)
+During Main Engine Start: (Level 1)
 @@APU speed 101 %, IGV opened, SCV modulated and load valve opened.
 APU speed 99 %, SCV closed, load valve opened
 APU speed 101 %, IGV opened, SCV closed, load valve modulated
 
-8. Incase APU has an automatic shut down, information of the shut down in:(Level 2)
+Incase APU has an automatic shut down, information of the shut down in:(Level 2)
 PFR
 APU page
 @@Shut Down menu on CFDS.
@@ -495,7 +495,7 @@ Air/oil seperator pad in right hand side of the gearbox.
 
 After crank APU shaft for BSI, we need:(Level 1)
 Install plug and do leak check.
-@@Install/replace new performed packing.
+Install/replace new performed packing.
 @@Install cranking plug, Install/replace new performed packing BSI Port and do leak check.
 
 The 131-9A APU is:(Level 1)
@@ -537,3 +537,4 @@ Purpose of Inlet guide Vane is:(Level 1)
 @@Control the compressor output to the aircraft pneumatic system.
 Modulate airflow coming from inlet plenum to Power section compressor.
 Modulate airflow coming from inlet plenum to Power section turbiner.
+

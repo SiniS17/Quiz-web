@@ -65,13 +65,13 @@ In icing conditions only
 
 When is the rain repellent system inhibited?   (level 1)
 In flight.
-B.   On ground when at least one engine is shut down
-@@C.   On ground when both engines are shut down.
+On ground when at least one engine is shut down
+@@On ground when both engines are shut down.
 
 Does each side of the rain repellent system operate independently?   (level 1)
 @@Yes.
-B.   No.
-C.   One side can be connected to the other.
+No.
+One side can be connected to the other.
 
 How many Engine Anti – Ice Pressure Regulating Shut-Off Valve (PRSOV) installed on each PW 1130 Engine? (level 1)
 1
@@ -190,13 +190,13 @@ Wing anti-ice is by pneumatically
 
 The ice detector generates message ice detected when:   (level 2)
 Wing anti ice is necessary.
-@@B.   Engine air intake anti ice is necessary
-C.   There is ice on the front windshield.
+@@Engine air intake anti ice is necessary
+There is ice on the front windshield.
 
 The heating of fill/drain nipple at the potable service panel is operated?   (level 2)
 When ice is detected
-@@B.  As soon as the aircraft is electrically supplied.
-C. When the door of the potable service panel is opened.
+@@As soon as the aircraft is electrically supplied.
+When the door of the potable service panel is opened.
 
 For PW 1130 Engine Nacelle Anti - Ice, the hot air leak detection is done by: (level 2)
 Two pressure transduce
@@ -352,3 +352,4 @@ Pneumatic rain removal systems. (Level 1)
 @@use engine bleed air at high velocity to remove water droplets from windscreen.
 are not permitted on large transport aircraft.
 use a pneumatic motor to drive windscreen wipers.
+

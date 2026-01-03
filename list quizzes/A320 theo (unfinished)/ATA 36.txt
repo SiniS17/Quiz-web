@@ -26,7 +26,7 @@ Yes, through BMCs
 If one HP valve failed open? (Level 3)
 @@The aircraft can be dispatched with the subject HPV deactivated close.
 The aircraft can be dispatched with the subject HPV deactivated open.
-@@The aircraft can only be dispatched if related bleed system is considered INOP.
+The aircraft can only be dispatched if related bleed system is considered INOP.
 
 The E/W message: LH WING DET FAULT means? (Level 2)
 @@LH wing loop A and B fault
@@ -357,3 +357,4 @@ What type of compressor is used on a pneumatic system?. (Level 1)
 Rotary vane type.
 Spur gear type.
 @@Positive displacement type.
+

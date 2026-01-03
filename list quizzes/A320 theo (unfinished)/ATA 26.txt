@@ -263,7 +263,7 @@ When is the FDU generates a fire warning signal? (level 3)
 Fault on loop A and fault on loop B within 15 seconds
 Fault on loop A and loop B is normal
 
-When APU fire extinguishing bottle indicator (Red Disk) is disappeared, that indicates the bottle? (level2)
+When APU fire extinguishing bottle indicator (Red Disk) is disappeared, that indicates the bottle? (level 2)
 @@Overpressure discharged.
 Low pressure
 Pressure not stable

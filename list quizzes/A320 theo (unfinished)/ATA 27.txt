@@ -459,7 +459,7 @@ On the torque sharps
 On the PCU output sharps
 
 The rudder travel limitation value is frozen immediately  (Level 2)
-A.  And the rudder traveling is limited to lowspeed configuration
+And the rudder traveling is limited to lowspeed configuration
 @@If both FACs fail or if airspeed more than 380 knots.
 And may return to the lowspeed configuration when the slats are extended
 
@@ -469,9 +469,9 @@ Pitch control is provided by the FAC's
 Pitch control is controlled by the FCDC's
 
 Rudder Travel Limit function is performed by: (Level 1)
-A. 1 Hydraulic motor.
-@@B. 2 Electrical motors
-C.  2 hydraulic motors
+1 Hydraulic motor.
+@@2 Electrical motors
+2 hydraulic motors
 
 FAC 1 controls and monitors one yaw damper, one electrical rudder trim motor and: (Level 3)
 @@One electrical motor for the rudder travel limitation unit
@@ -489,9 +489,9 @@ In damping mode.
 In neutral position.
 
 High lift function of A321 A/C is achieved by: (Level 1)
-A. 4 Slats and 2 Flaps on each wing.
-@@B. 5 Slats and 2 Flaps on each wing.
-C. 6 Slats and 2 Flaps on each wing.
+4 Slats and 2 Flaps on each wing.
+@@5 Slats and 2 Flaps on each wing.
+6 Slats and 2 Flaps on each wing.
 
 What happens if an electric trim motor of THS actuator fails (Level 1)
 THS electric trim is lost
@@ -504,99 +504,99 @@ At the wing tip, outboard of the APPU
 Between track 7 and 8, in each wing.
 
 Which spoilers are used as speed brake function (Level 1)
-@@A. Spoilers 2 to 4.
-@@B. Spoilers 2 to 5.
-@@C. Spoilers 1 to 4.
+@@Spoilers 2 to 4.
+@@Spoilers 2 to 5.
+@@Spoilers 1 to 4.
 
 The aileron droop function means: (Level 3) ® sai
-@@A. The ailerons are deflected downwards when the flaps are extended.
-@@B.The ailerons are deflected downwards when the flaps are retracted.
-@@C.The ailerons are deflected upwards when the flaps are extended.
+@@The ailerons are deflected downwards when the flaps are extended.
+@@The ailerons are deflected downwards when the flaps are retracted.
+@@The ailerons are deflected upwards when the flaps are extended.
 
 A computer arrangement permanently controls and monitors the flight control surfaces, it also records and stores faults. This arrangement includes: (Level 3)
-A. 2 ELACS, 2 SECS, 2 FACS, 2 FCDCS, 2 SFCCS.
-B. 2 ELACS, 2 SECS, 2 FACS, 3 FCDCS, 2 SFCCS.
-@@C. 2 ELACS, 3 SECS, 2 FACS, 2 FCDCS, 2 SFCCS.
+2 ELACS, 2 SECS, 2 FACS, 2 FCDCS, 2 SFCCS.
+2 ELACS, 2 SECS, 2 FACS, 3 FCDCS, 2 SFCCS.
+@@2 ELACS, 3 SECS, 2 FACS, 2 FCDCS, 2 SFCCS.
 
 What is the correct? (Level 3)
-@@A. There are two FACs (FAC 1 and FAC 2) are installed on the A/C. An inoperative FAC 1 is a NO GO item. FAC 2 may be inoperative and deactivated provided all MMEL restrictions are applied.
-B. There are two FACs (FAC 1 and FAC 2) are installed on the A/C. An inoperative FAC 2 is a NO GO item. FAC 1 may be inoperative and deactivated provided all MMEL restrictions are applied.
-C. There are two FACs (FAC 1 and FAC 2) are installed on the A/C. Both FACs may be inoperative and deactivated provided all MMEL restrictions are applied.
+@@There are two FACs (FAC 1 and FAC 2) are installed on the A/C. An inoperative FAC 1 is a NO GO item. FAC 2 may be inoperative and deactivated provided all MMEL restrictions are applied.
+There are two FACs (FAC 1 and FAC 2) are installed on the A/C. An inoperative FAC 2 is a NO GO item. FAC 1 may be inoperative and deactivated provided all MMEL restrictions are applied.
+There are two FACs (FAC 1 and FAC 2) are installed on the A/C. Both FACs may be inoperative and deactivated provided all MMEL restrictions are applied.
 
 To Extend/ Retract Spoiler actuator manually: (Level 2)
-A. You can not do without hydraulic power.
-B. You can do without specific tool.
-@@C. You can do with specific unlocking tool.
+You can not do without hydraulic power.
+You can do without specific tool.
+@@You can do with specific unlocking tool.
 
 Each elevator is powered by two actuators, which are controlled by ELAC1 and ELAC2. What is the correct? (Level 3)
-A. ELAC 1 controls the green and yellow actuators and ELAC 2 controls the blue actuators.
-@@B. ELAC 2 controls the green and yellow actuators and ELAC 1 controls the blue actuators.
-C. ELAC 2 controls the green and blue actuators and ELAC 1 controls the yellow and blue actuators.
+ELAC 1 controls the green and yellow actuators and ELAC 2 controls the blue actuators.
+@@ELAC 2 controls the green and yellow actuators and ELAC 1 controls the blue actuators.
+ELAC 2 controls the green and blue actuators and ELAC 1 controls the yellow and blue actuators.
 
 The THS ball hydraulic motors are control by? (Level 2)
-A. One of the three electric motors.
-@@B. One of the three electric motors or Trim wheels.
-C. One of the three electric motors or Pedals.
+One of the three electric motors.
+@@One of the three electric motors or Trim wheels.
+One of the three electric motors or Pedals.
 
 If the normal law of both ELACs fails, the alternate law takes over. (Level 2)
-A. In ELAC with protections.
-B. In ELAC without protections.
-@@C. Either A or B.
+In ELAC with protections.
+In ELAC without protections.
+@@Either A or B.
 
 In case of failure of ELAC1 servo control on L/H aileron, (Level 3)
-A. ELAC2 will take over ELAC 1.
-B. L/H aileron will be inoperative.
-@@C. ELAC1 still computes the orders.
+ELAC2 will take over ELAC 1.
+L/H aileron will be inoperative.
+@@ELAC1 still computes the orders.
 
 In case of failure of a spoiler servo control: (Level 2)
-A. All spoilers surfaces are retracted.
-@@B. The opposite spoiler surface is retracted.
-C. All spoilerssurfacesin the same wing are retracted.
+All spoilers surfaces are retracted.
+@@The opposite spoiler surface is retracted.
+All spoilerssurfacesin the same wing are retracted.
 
 What is the maximum deflection of  A321 Rudder? (Level 2)
-@@A. 25 Deg.
-B. 30 Deg.
-C.  30.5 Deg.
+@@25 Deg.
+30 Deg.
+30.5 Deg.
 
 Which Compter send rudder trim command to FAC? (Level 2)
-@@A. ELACs in manual flight, FMGCs in auto flight.
-B. ELACs in auto flight, FMGCs in manual flight.
-C. FMGCs. Active, ELACs stanby.
+@@ELACs in manual flight, FMGCs in auto flight.
+ELACs in auto flight, FMGCs in manual flight.
+FMGCs. Active, ELACs stanby.
 
 If the Angle-Of-Attack (AOA) protection is activated with speed brakes extended, (Level 3)
-A. The speed brakes are still extended.
-B. The speed brakes are damping.
-@@C. The speed brakes are retracted.
+The speed brakes are still extended.
+The speed brakes are damping.
+@@The speed brakes are retracted.
 
 When Flaps are in fully extended postion, spoilers are: (Level 1)
-A. Automatically extended.
-@@B. Automatically retracted.
-C. Not moved.
+Automatically extended.
+@@Automatically retracted.
+Not moved.
 
 How many solenoid valves in each slat pcu block valve? (Level 1) ® sai
-A. 2.
-@@B. 3.
-C. 4.
+2.
+@@3.
+4.
 
 Where is the Command Sensor Unit of Slats/ Flaps systems located? (Level 1) ® sai
-@@A. In the cockpit.
-B. In the avionic compartment.
-C. In the forward cargo compartment.
+@@In the cockpit.
+In the avionic compartment.
+In the forward cargo compartment.
 
 SFCCs get the actual position of Slats/ Flaps through signal of position sensors. What are the sensors? (Level 3)
-A. APPUs.
-B. LVDTs.
-@@C. FPPUs.
+APPUs.
+LVDTs.
+@@FPPUs.
 
 As the flap extends to the requested position, (Level 2)
-A. Extend solenoid is de- energized.
-B. Retract solenoid is de- energized.
-@@C. Retract solenoid is energized.
+Extend solenoid is de- energized.
+Retract solenoid is de- energized.
+@@Retract solenoid is energized.
 
 The flap disconnect sensors, which are proximity sensors, detect any flap disconnection. It sends the signal to: (Level 3)
-@@A. LGCIU.
-B. SFCC.
-C. ELAC.
+@@LGCIU.
+SFCC.
+ELAC.
 
 If one hydraulic system fails: (Level 3)
 Only the roll and pitch axes are available
@@ -619,19 +619,19 @@ Operates normally.
 Is locked by the pressure off brakes on both wings.
 
 Wing Tip Brakes are actived in flight: (Level 2) ®
-@@A. They can be reset as soon as all fault of Slats/ Flaps systems gone.
-@@B. They can be reset on ground when A/C has electrical power. ®
-@@C. They can be reset on ground when A/C has hydraulic power (electrical pumps operate).
+@@They can be reset as soon as all fault of Slats/ Flaps systems gone.
+@@They can be reset on ground when A/C has electrical power. ®
+@@They can be reset on ground when A/C has hydraulic power (electrical pumps operate).
 
 If one control valve or its driving mechanism of THS actuator is jammed, what will happen? (Level 3)
-A. One hydraulic motor will be cut and THS will stop.
-@@B. Both hydraulic motors will be cut.
-C. One hydraulic motor will be cut andTHS will operate at half speed
+One hydraulic motor will be cut and THS will stop.
+@@Both hydraulic motors will be cut.
+One hydraulic motor will be cut andTHS will operate at half speed
 
 When the elevator servo control is in the active mode. What is the correct? (Level 3)
-@@A. Both solenoid valves are de-energized.
-B. Both solenoid valves are energized.
-C. One solenoid valve is de-energized and the other is energized.
+@@Both solenoid valves are de-energized.
+Both solenoid valves are energized.
+One solenoid valve is de-energized and the other is energized.
 
 With complete EFCS (ELECTRIC FLIGHT CONTROL SYSTEM) failure the rudder and THS are: (Level 3)
 Lost.
@@ -647,3 +647,4 @@ What signals cause the rudder pedal movement? (Level 3)
 Yaw damping signals.
 @@Rudder trim signals.
 Turn coordination signal.
+

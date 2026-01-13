@@ -19,6 +19,7 @@
    15. Animations
    16. Responsive Design (Tablet & Mobile)
    17. Print Styles
+   18. MULTI-SELECT QUIZ STYLES
    =========================================== */
 
 /* ===========================================
@@ -1827,4 +1828,98 @@ input:focus,
     font-size: 0.85rem;
     padding: 0.6rem 0.85rem;
   }
+}
+
+/* ===========================================
+   18. MULTI-SELECT QUIZ STYLES
+   =========================================== */
+
+/* Selected quiz box - Vibrant emerald green */
+.quiz-box.quiz-selected {
+  background: linear-gradient(135deg, #d1fae5 0%, #6ee7b7 100%) !important;
+  border: 4px solid #10b981 !important;
+  box-shadow: 0 0 0 4px rgba(16, 185, 129, 0.3), 0 8px 20px rgba(16, 185, 129, 0.4) !important;
+  transform: translateY(-4px) scale(1.02) !important;
+  animation: selectPulse 2s ease-in-out infinite;
+}
+
+.quiz-box.quiz-selected h3 {
+  color: #065f46 !important;
+  font-weight: 700;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.5);
+}
+
+.quiz-box.quiz-selected p {
+  color: #047857 !important;
+  font-weight: 600;
+}
+
+.quiz-box.quiz-selected i.fa-file-text {
+  color: #059669 !important;
+  transform: scale(1.15);
+  filter: drop-shadow(0 2px 4px rgba(16, 185, 129, 0.3));
+}
+
+.quiz-box.quiz-selected::before {
+  background: linear-gradient(135deg, #10b981, #059669) !important;
+  transform: scaleX(1) !important;
+  height: 6px;
+}
+
+.quiz-box.quiz-selected .quiz-checkbox {
+  accent-color: #10b981 !important;
+  transform: scale(1.4);
+  filter: drop-shadow(0 2px 6px rgba(16, 185, 129, 0.5));
+}
+
+.quiz-box.quiz-selected:hover {
+  background: linear-gradient(135deg, #a7f3d0 0%, #34d399 100%) !important;
+  border-color: #059669 !important;
+  box-shadow: 0 0 0 5px rgba(5, 150, 105, 0.4), 0 12px 24px rgba(16, 185, 129, 0.5) !important;
+  transform: translateY(-6px) scale(1.03) !important;
+}
+
+@keyframes selectPulse {
+  0%, 100% {
+    box-shadow: 0 0 0 4px rgba(16, 185, 129, 0.3), 0 8px 20px rgba(16, 185, 129, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 6px rgba(16, 185, 129, 0.2), 0 10px 24px rgba(16, 185, 129, 0.5);
+  }
+}
+
+/* Utility Classes */
+.hidden { display: none !important; }
+
+/* Flagged quiz warning */
+.quiz-box.quiz-flagged {
+  background: rgba(239, 68, 68, 0.95);
+  border-color: #dc2626;
+  color: white;
+}
+
+.excess-warning {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  color: white;
+  font-size: 1.5rem;
+  animation: pulse 2s ease-in-out infinite;
+  z-index: 10;
+}
+
+/* Invalid question styles */
+.question-invalid {
+  position: relative;
+  background: rgba(239, 68, 68, 0.05) !important;
+  border: 2px solid var(--error-color) !important;
+  pointer-events: none;
+  user-select: text;
+}
+
+.round-box.invalid {
+  background: var(--error-color);
+  border-color: var(--error-color);
+  color: white;
+  cursor: not-allowed;
 }

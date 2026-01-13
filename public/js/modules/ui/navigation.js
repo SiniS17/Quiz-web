@@ -1,20 +1,22 @@
-// modules/ui/navigation.js - Quiz List and Folder Navigation with Min/Max Line Validation
+// modules/ui/navigation.js - Quiz List and Folder Navigation with Multi-Select Support
 import CONFIG, { getQuizFilePath } from '../../config.js';
-import { fetchQuizList } from '../api.js';
+import { fetchQuizList, fetchQuizContent } from '../api.js';
 import { showNotification } from './notifications.js';
 import { showLoading, hideLoading, disableAllControlsDuringLoad, enableAllControlsAfterLoad } from './loading.js';
 import { addFadeInAnimation } from '../utils.js';
-import { clearLevelCounts, setLevelCounts, setCurrentFolder, getCurrentFolder } from '../state.js';
+import { clearLevelCounts, setLevelCounts, setCurrentFolder, getCurrentFolder, setSelectedFileName } from '../state.js';
 import { loadQuiz } from '../quiz-loader.js';
+import { parseQuestions } from '../parser.js';
+import { showTopControls } from './controls.js';
+import { createTopLevelCheckboxes, setupTopQuestionCountInput } from '../quiz-settings.js';
+import { displayQuestions } from '../quiz-manager.js';
 
 // Track current folder path
 let currentFolderPath = '';
+let selectedQuizzes = new Set();
 
 /**
  * Check if a quiz file has valid consecutive line count
- * Returns object with validation results
- * @param {string} filePath - Path to quiz file
- * @returns {Promise<{valid: boolean, min: number, max: number, reason: string}>}
  */
 async function validateConsecutiveLines(filePath) {
   try {
@@ -44,18 +46,15 @@ async function validateConsecutiveLines(filePath) {
       }
     }
 
-    // Handle last group if file doesn't end with empty line
     if (consecutiveCount > 0) {
       minConsecutive = Math.min(minConsecutive, consecutiveCount);
       groupCount++;
     }
 
-    // If no groups found, set minConsecutive to 0
     if (groupCount === 0 || minConsecutive === Infinity) {
       minConsecutive = 0;
     }
 
-    // Check against configured thresholds
     const { MAX_CONSECUTIVE_LINES, MIN_CONSECUTIVE_LINES } = CONFIG;
 
     let valid = true;
@@ -69,12 +68,7 @@ async function validateConsecutiveLines(filePath) {
       reason = `Too few consecutive lines (${minConsecutive} < ${MIN_CONSECUTIVE_LINES})`;
     }
 
-    return {
-      valid,
-      min: minConsecutive,
-      max: maxConsecutive,
-      reason
-    };
+    return { valid, min: minConsecutive, max: maxConsecutive, reason };
   } catch (error) {
     console.error('Error validating line count:', error);
     return { valid: true, min: 0, max: 0, reason: 'Validation error' };
@@ -83,14 +77,11 @@ async function validateConsecutiveLines(filePath) {
 
 /**
  * Check if a folder contains any invalid quizzes
- * @param {string} folderPath - Path to folder
- * @returns {Promise<boolean>} True if folder contains flagged quizzes
  */
 async function folderHasInvalidQuizzes(folderPath) {
   try {
     const data = await fetchQuizList(folderPath);
 
-    // Check all files in this folder
     const fileChecks = await Promise.all(
       data.files.map(file => {
         const filePath = folderPath ? `${folderPath}/${file}` : file;
@@ -98,12 +89,10 @@ async function folderHasInvalidQuizzes(folderPath) {
       })
     );
 
-    // If any file is invalid, return true
     if (fileChecks.some(result => !result.valid)) {
       return true;
     }
 
-    // Recursively check subfolders
     const folderChecks = await Promise.all(
       data.folders.map(folder => {
         const fullPath = folderPath ? `${folderPath}/${folder}` : folder;
@@ -120,16 +109,15 @@ async function folderHasInvalidQuizzes(folderPath) {
 
 /**
  * List available quizzes and folders
- * @param {string} folder - Current folder path
  */
 export function listQuizzes(folder = '') {
   if (folder && folder.target) {
     folder = '';
   }
 
-  // Update current folder path
   currentFolderPath = folder;
   setCurrentFolder(folder);
+  selectedQuizzes.clear();
 
   showLoading();
   disableAllControlsDuringLoad();
@@ -243,6 +231,9 @@ async function renderQuizList(data, quizGrid, folder) {
   data.folders.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
   data.files.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
 
+  // Check if current folder has files (enable multi-select only if there are files)
+  const hasFiles = data.files.length > 0;
+
   // Validate folders and files in parallel
   const folderChecks = await Promise.all(
     data.folders.map(async (folderName) => {
@@ -260,19 +251,24 @@ async function renderQuizList(data, quizGrid, folder) {
     })
   );
 
-  // Render folders
+  // Render folders (exclude subfolders from multi-select)
   folderChecks.forEach(({ folderName, hasInvalid }) => {
     const folderBox = createFolderBox(folderName, folder, hasInvalid);
     quizGrid.appendChild(folderBox);
     addFadeInAnimation(folderBox);
   });
 
-  // Render files
+  // Render files with checkboxes if in a folder with files
   fileChecks.forEach(({ file, validation }) => {
-    const quizBox = createQuizBox(file, folder, validation);
+    const quizBox = createQuizBox(file, folder, validation, hasFiles);
     quizGrid.appendChild(quizBox);
     addFadeInAnimation(quizBox);
   });
+
+  // Add "Start Multi-Quiz" button if files are present
+  if (hasFiles) {
+    createMultiQuizButton(quizGrid, folder);
+  }
 
   enableAllControlsAfterLoad();
   hideLoading();
@@ -291,9 +287,6 @@ function handleQuizListError(error, quizGrid) {
 
 /**
  * Create folder box element
- * @param {string} folderName - Folder name
- * @param {string} currentFolder - Current folder path
- * @param {boolean} hasInvalid - Whether folder contains invalid quizzes
  */
 function createFolderBox(folderName, currentFolder, hasInvalid = false) {
   const folderBox = document.createElement('div');
@@ -320,16 +313,15 @@ function createFolderBox(folderName, currentFolder, hasInvalid = false) {
 }
 
 /**
- * Create quiz box element with validation indicator
- * @param {string} file - File name
- * @param {string} folder - Current folder
- * @param {object} validation - Validation result object
+ * Create quiz box element with optional checkbox
  */
-function createQuizBox(file, folder, validation) {
+function createQuizBox(file, folder, validation, showCheckbox = false) {
   const quizBox = document.createElement('div');
   const isInvalid = !validation.valid;
+  const filePath = folder ? `${folder}/${file}` : file;
 
   quizBox.className = 'quiz-box' + (isInvalid ? ' quiz-flagged' : '');
+  quizBox.style.position = 'relative';
 
   let warningIcon = '';
   let warningTitle = '';
@@ -339,7 +331,31 @@ function createQuizBox(file, folder, validation) {
     warningIcon = `<i class="fas fa-exclamation-triangle excess-warning" title="${warningTitle}"></i>`;
   }
 
+  // Add checkbox if multi-select is enabled
+  let checkboxHTML = '';
+  if (showCheckbox) {
+    checkboxHTML = `
+      <input type="checkbox"
+             class="quiz-checkbox"
+             data-file-path="${filePath}"
+             style="
+               position: absolute;
+               top: 1rem;
+               right: 1rem;
+               width: 24px;
+               height: 24px;
+               cursor: pointer;
+               z-index: 10;
+               accent-color: #10b981;
+               transform: scale(1.3);
+               filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+             "
+             onclick="event.stopPropagation();">
+    `;
+  }
+
   quizBox.innerHTML = `
+    ${checkboxHTML}
     <i class="fas fa-file-text"></i>
     <h3>${file.replace('.txt', '').replace(' (-)', '')}</h3>
     <p>Click to start quiz</p>
@@ -350,12 +366,171 @@ function createQuizBox(file, folder, validation) {
     quizBox.title = warningTitle;
   }
 
-  quizBox.onclick = () => {
-    const filePath = folder ? `${folder}/${file}` : file;
-    initializeQuiz(filePath, folder);
-  };
+  // Handle checkbox change
+  if (showCheckbox) {
+    const checkbox = quizBox.querySelector('.quiz-checkbox');
+    checkbox.addEventListener('change', (e) => {
+      e.stopPropagation();
+      if (checkbox.checked) {
+        selectedQuizzes.add(filePath);
+        quizBox.classList.add('quiz-selected');
+      } else {
+        selectedQuizzes.delete(filePath);
+        quizBox.classList.remove('quiz-selected');
+      }
+      updateMultiQuizButton();
+    });
+
+    // Handle box click in multi-select mode
+    quizBox.onclick = (e) => {
+      // If clicking the checkbox itself, let it handle naturally
+      if (e.target.classList.contains('quiz-checkbox')) {
+        return;
+      }
+
+      // If ANY quiz is selected, prevent single quiz start
+      if (selectedQuizzes.size > 0) {
+        e.preventDefault();
+        e.stopPropagation();
+        showNotification('Use checkboxes to select quizzes, then click "Start Combined Quiz"', 'info');
+        return;
+      }
+
+      // No quizzes selected - allow normal single quiz start
+      initializeQuiz(filePath, folder);
+    };
+  } else {
+    // No checkbox mode - normal single quiz start
+    quizBox.onclick = (e) => {
+      initializeQuiz(filePath, folder);
+    };
+  }
 
   return quizBox;
+}
+
+/**
+ * Create multi-quiz start button
+ */
+function createMultiQuizButton(quizGrid, folder) {
+  const buttonContainer = document.createElement('div');
+  buttonContainer.id = 'multi-quiz-button-container';
+  buttonContainer.style.cssText = `
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  `;
+
+  const startButton = document.createElement('button');
+  startButton.id = 'start-multi-quiz-btn';
+  startButton.className = 'primary-btn';
+  startButton.innerHTML = '<i class="fas fa-play"></i> Start Combined Quiz (0 selected)';
+  startButton.disabled = true;
+  startButton.style.cssText = `
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    opacity: 0.5;
+    cursor: not-allowed;
+    transition: all 0.3s ease;
+  `;
+
+  startButton.onclick = () => {
+    if (selectedQuizzes.size > 0) {
+      startMultiQuiz(Array.from(selectedQuizzes), folder);
+    }
+  };
+
+  buttonContainer.appendChild(startButton);
+  quizGrid.appendChild(buttonContainer);
+}
+
+/**
+ * Update multi-quiz button state
+ */
+function updateMultiQuizButton() {
+  const button = document.getElementById('start-multi-quiz-btn');
+  if (!button) return;
+
+  const count = selectedQuizzes.size;
+  button.innerHTML = `<i class="fas fa-play"></i> Start Combined Quiz (${count} selected)`;
+
+  if (count > 0) {
+    button.disabled = false;
+    button.style.opacity = '1';
+    button.style.cursor = 'pointer';
+  } else {
+    button.disabled = true;
+    button.style.opacity = '0.5';
+    button.style.cursor = 'not-allowed';
+  }
+}
+
+/**
+ * Start multi-quiz with combined questions
+ */
+async function startMultiQuiz(filePaths, folder) {
+  showLoading('Loading Combined Quiz', 'Combining questions from multiple quizzes...');
+  disableAllControlsDuringLoad();
+
+  try {
+    let allQuestions = [];
+
+    // Fetch and parse all selected quizzes
+    for (const filePath of filePaths) {
+      const text = await fetchQuizContent(filePath);
+      const lines = text.split('\n');
+      const questions = parseQuestions(lines);
+      allQuestions = allQuestions.concat(questions);
+    }
+
+    if (allQuestions.length === 0) {
+      showNotification('No questions found in selected quizzes', 'error');
+      enableAllControlsAfterLoad();
+      hideLoading();
+      return;
+    }
+
+    // Set a combined filename for state tracking
+    setSelectedFileName(`Combined (${filePaths.length} quizzes)`);
+    setCurrentFolder(folder || '');
+
+    // Update title
+    updateQuizTitle(`Combined Quiz (${filePaths.length} banks)`);
+
+    // Hide quiz selection and show controls
+    hideQuizSelection();
+    showTopControls();
+
+    // Update quiz info
+    updateQuizInfo(allQuestions.length);
+
+    // Create level checkboxes and question count input
+    createTopLevelCheckboxes();
+    setupTopQuestionCountInput(allQuestions);
+
+    // Display questions
+    displayQuestions(allQuestions);
+
+    showNotification(`Combined ${allQuestions.length} questions from ${filePaths.length} quizzes!`, 'success');
+  } catch (error) {
+    console.error('Error loading combined quiz:', error);
+    showNotification('Error loading combined quiz. Please try again.', 'error');
+    enableAllControlsAfterLoad();
+    hideLoading();
+  }
+}
+
+/**
+ * Update quiz info display
+ */
+function updateQuizInfo(questionCount) {
+  const maxQuestionsInfo = document.getElementById('max-questions-info');
+  if (maxQuestionsInfo) {
+    maxQuestionsInfo.innerHTML = `
+      <strong>Total questions: ${questionCount}</strong>
+    `;
+  }
 }
 
 /**

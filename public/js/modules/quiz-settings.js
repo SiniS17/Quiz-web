@@ -1,4 +1,4 @@
-// modules/quiz-settings.js - Quiz Settings Management with Flexible Levels + Select All/Deselect All
+// modules/quiz-settings.js - Quiz Settings with Fixed Level Counting
 import {
   getLevelCounts,
   getGlobalSelectedCount,
@@ -7,13 +7,13 @@ import {
   getPendingQuestionCount,
   getQuizState
 } from './state.js';
-import { sortLevelsForDisplay, getSelectedLevels } from './parser.js';
+import { sortLevelsForDisplay, getSelectedLevels, getQuestionLevels } from './parser.js';
 import { showNotification } from './ui/notifications.js';
 import { showLoadingScreen, hideLoadingScreen } from './ui/loading.js';
 import { updateQuizWithNewLevels, changeQuestionCount } from './quiz-manager.js';
 
 /**
- * Create level selection checkboxes with flexible level names + Select All/Deselect All buttons
+ * Create level selection checkboxes with Select All/Deselect All buttons
  */
 export function createTopLevelCheckboxes() {
   const checkboxContainer = document.getElementById('level-checkboxes');
@@ -164,7 +164,7 @@ export function createTopLevelCheckboxes() {
     const label = document.createElement('label');
     label.htmlFor = `level-${CSS.escape(level)}`;
 
-    // Format label text: if it's just a number, prefix with "Level"
+    // Format label text
     const isNumber = !isNaN(parseInt(level)) && String(parseInt(level)) === level;
     const labelText = isNumber ? `L${level}` : level;
     label.textContent = `${labelText} (${count})`;
@@ -186,20 +186,39 @@ export function createTopLevelCheckboxes() {
 }
 
 /**
+ * Calculate actual max questions based on selected levels
+ * This counts each question only once, even if it has multiple matching levels
+ */
+function calculateActualMaxQuestions(allQuestions, selectedLevels) {
+  if (selectedLevels.length === 0) return 0;
+
+  let count = 0;
+  allQuestions.forEach(question => {
+    const questionLevels = getQuestionLevels(question);
+
+    // Check if this question has ANY of the selected levels
+    const hasMatchingLevel = questionLevels.some(level => selectedLevels.includes(level));
+
+    if (hasMatchingLevel) {
+      count++;
+    }
+  });
+
+  return count;
+}
+
+/**
  * Update max questions display based on selected levels
  */
 function updateMaxQuestionsDisplay() {
   const quizState = getQuizState();
   if (!quizState.allQuestions) return;
 
-  // Calculate max questions for selected levels
   const selectedLevels = getSelectedLevels();
   const levelCounts = getLevelCounts();
 
-  let maxQuestions = 0;
-  selectedLevels.forEach(level => {
-    maxQuestions += levelCounts[level] || 0;
-  });
+  // Calculate actual max questions (counting each question only once)
+  const maxQuestions = calculateActualMaxQuestions(quizState.allQuestions, selectedLevels);
 
   // Update the question count input max attribute
   const questionCountInput = document.getElementById('question-count');
@@ -232,13 +251,14 @@ function updateMaxQuestionsDisplay() {
     maxQuestionsInfo.innerHTML = `
       <strong>Total questions: ${maxQuestions}</strong><br>
       <small>${levelInfo || 'No levels selected'}</small>
+      <br>
+      <small style="color: var(--text-muted); font-size: 0.75rem;">* Questions with multiple levels counted once</small>
     `;
   }
 }
 
 /**
  * Setup question count input
- * @param {Array} questions - All questions
  */
 export function setupTopQuestionCountInput(questions) {
   const questionCountInput = document.getElementById('question-count');
@@ -274,13 +294,13 @@ export function setupTopQuestionCountInput(questions) {
  * Handle question count input changes
  */
 function handleQuestionCountInput(e, maxQuestions) {
-  // Recalculate max based on selected levels
+  const quizState = getQuizState();
   const selectedLevels = getSelectedLevels();
-  const levelCounts = getLevelCounts();
-  let actualMax = 0;
-  selectedLevels.forEach(level => {
-    actualMax += levelCounts[level] || 0;
-  });
+
+  // Calculate actual max based on selected levels
+  const actualMax = quizState.allQuestions
+    ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
+    : maxQuestions;
 
   let value = parseInt(e.target.value);
   if (value > 0) {
@@ -303,13 +323,13 @@ function handleQuestionCountKeypress(e, maxQuestions) {
   if (e.key === 'Enter') {
     e.preventDefault();
 
-    // Recalculate max based on selected levels
+    const quizState = getQuizState();
     const selectedLevels = getSelectedLevels();
-    const levelCounts = getLevelCounts();
-    let actualMax = 0;
-    selectedLevels.forEach(level => {
-      actualMax += levelCounts[level] || 0;
-    });
+
+    // Calculate actual max based on selected levels
+    const actualMax = quizState.allQuestions
+      ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
+      : maxQuestions;
 
     let value = parseInt(e.target.value);
     if (value > 0) {
@@ -330,8 +350,6 @@ function handleQuestionCountKeypress(e, maxQuestions) {
 
 /**
  * Apply question count change
- * @param {number} newCount - New question count
- * @param {number} maxQuestions - Maximum available questions
  */
 function applyQuestionCountChange(newCount, maxQuestions) {
   const quizState = getQuizState();

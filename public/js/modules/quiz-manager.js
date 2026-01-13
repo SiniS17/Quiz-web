@@ -33,12 +33,41 @@ export function displayQuestions(allQuestions) {
   const selectedLevels = getSelectedLevels();
   saveQuizState(allQuestions, selectedLevels);
 
+  const quizState = getQuizState();
   const filteredQuestions = filterQuestionsByLevel(allQuestions, selectedLevels);
-  const shuffledFullOrder = shuffle(filteredQuestions);
-  updateQuizState({ originalQuestionOrder: shuffledFullOrder });
+
+  // Preserve bank info during shuffle if it exists
+  let shuffledFullOrder, shuffledBankInfo;
+  if (quizState.bankInfo && quizState.bankInfo.length === allQuestions.length) {
+    // Create array of {question, bank} pairs
+    const paired = filteredQuestions.map(q => {
+      const originalIndex = allQuestions.indexOf(q);
+      return { question: q, bank: quizState.bankInfo[originalIndex] };
+    });
+
+    // Shuffle the pairs
+    const shuffledPairs = shuffle(paired);
+
+    // Separate back into questions and bank info
+    shuffledFullOrder = shuffledPairs.map(p => p.question);
+    shuffledBankInfo = shuffledPairs.map(p => p.bank);
+  } else {
+    shuffledFullOrder = shuffle(filteredQuestions);
+    shuffledBankInfo = null;
+  }
+
+  updateQuizState({
+    originalQuestionOrder: shuffledFullOrder,
+    bankInfo: shuffledBankInfo
+  });
 
   const globalSelectedCount = getGlobalSelectedCount();
   const selectedQuestions = shuffledFullOrder.slice(0, globalSelectedCount);
+
+  // Update bankInfo to match selected questions only
+  if (shuffledBankInfo) {
+    updateQuizState({ bankInfo: shuffledBankInfo.slice(0, globalSelectedCount) });
+  }
 
   if (selectedQuestions.length === 0) {
     quizContainer.innerHTML = '<div class="no-questions">No questions available for selected criteria.</div>';
@@ -181,11 +210,30 @@ export function updateQuizWithNewLevels() {
   const currentAnswers = saveCurrentAnswers();
 
   const filteredQuestions = filterQuestionsByLevel(quizState.allQuestions, selectedLevels);
-  const shuffledFullOrder = shuffle(filteredQuestions);
-  updateQuizState({ originalQuestionOrder: shuffledFullOrder });
+
+  // Preserve bank info during shuffle if it exists
+  let shuffledFullOrder, shuffledBankInfo;
+  if (quizState.bankInfo && quizState.bankInfo.length > 0) {
+    const paired = filteredQuestions.map(q => {
+      const originalIndex = quizState.allQuestions.indexOf(q);
+      return { question: q, bank: quizState.bankInfo[originalIndex] || 'Unknown' };
+    });
+
+    const shuffledPairs = shuffle(paired);
+    shuffledFullOrder = shuffledPairs.map(p => p.question);
+    shuffledBankInfo = shuffledPairs.map(p => p.bank);
+  } else {
+    shuffledFullOrder = shuffle(filteredQuestions);
+    shuffledBankInfo = null;
+  }
 
   const globalSelectedCount = getGlobalSelectedCount();
   const selectedQuestions = shuffledFullOrder.slice(0, globalSelectedCount);
+
+  updateQuizState({
+    originalQuestionOrder: shuffledFullOrder,
+    bankInfo: shuffledBankInfo ? shuffledBankInfo.slice(0, globalSelectedCount) : null
+  });
 
   if (selectedQuestions.length === 0) {
     showNotification('No questions available for selected levels', 'error');
@@ -248,6 +296,11 @@ export function changeQuestionCount(newCount) {
     selectedQuestions = quizState.originalQuestionOrder
       .filter(q => filteredQuestions.includes(q))
       .slice(0, newCount);
+
+    // Update bankInfo to match new count
+    if (quizState.bankInfo) {
+      updateQuizState({ bankInfo: quizState.bankInfo.slice(0, newCount) });
+    }
   } else {
     const shuffledFullOrder = shuffle(filteredQuestions);
     updateQuizState({ originalQuestionOrder: shuffledFullOrder });

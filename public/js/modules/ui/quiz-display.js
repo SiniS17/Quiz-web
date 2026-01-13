@@ -5,6 +5,7 @@ import { shuffle, addFadeInAnimation } from '../utils.js';
 import { getAnsweredQuestions, setAnsweredQuestions } from '../state.js';
 import { updateProgressIndicator } from './progress.js';
 import { getLiveTestCheckbox, updateLiveScore, highlightLiveAnswers } from '../live-test.js';
+import { getQuizState } from '../state.js';
 
 /**
  * Validate if a question block has correct line count
@@ -70,9 +71,16 @@ export function createQuestionElement(questionText, index) {
   const questionHeader = document.createElement('div');
   questionHeader.className = 'question-header';
 
+  // Get bank name if available (for multi-quiz mode)
+  const quizState = getQuizState();
+  const bankName = (quizState.bankInfo && quizState.bankInfo[index]) ? quizState.bankInfo[index] : null;
+
   // Build question HTML with cleaned title
   let headerHTML = `
-    <span class="question-number">${validation.valid ? `Question ${index + 1}` : `⚠️ Invalid Question ${index + 1}`}</span>
+    <span class="question-number">
+      ${validation.valid ? `Question ${index + 1}` : `⚠️ Invalid Question ${index + 1}`}
+      ${bankName ? `<span class="bank-label">${bankName}</span>` : ''}
+    </span>
     <h3>${cleanTitle.replace(/\\n/g, '<br>')}</h3>
   `;
 

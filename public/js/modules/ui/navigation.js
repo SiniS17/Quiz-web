@@ -4,7 +4,7 @@ import { fetchQuizList, fetchQuizContent } from '../api.js';
 import { showNotification } from './notifications.js';
 import { showLoading, hideLoading, disableAllControlsDuringLoad, enableAllControlsAfterLoad } from './loading.js';
 import { addFadeInAnimation } from '../utils.js';
-import { clearLevelCounts, setLevelCounts, setCurrentFolder, getCurrentFolder, setSelectedFileName } from '../state.js';
+import { clearLevelCounts, setLevelCounts, setCurrentFolder, getCurrentFolder, setSelectedFileName, updateQuizState } from '../state.js';
 import { loadQuiz } from '../quiz-loader.js';
 import { parseQuestions } from '../parser.js';
 import { showTopControls } from './controls.js';
@@ -475,14 +475,24 @@ async function startMultiQuiz(filePaths, folder) {
 
   try {
     let allQuestions = [];
+    let questionsWithBanks = [];
 
-    // Fetch and parse all selected quizzes
+    // Fetch and parse all selected quizzes with bank tracking
     for (const filePath of filePaths) {
       const text = await fetchQuizContent(filePath);
       const lines = text.split('\n');
       const questions = parseQuestions(lines);
-      allQuestions = allQuestions.concat(questions);
+
+      // Extract bank name from file path (keep it short for display)
+      const bankName = filePath.split('/').pop().replace('.txt', '').substring(0, 15);
+
+      // Tag each question with its bank name
+      questions.forEach(q => {
+        questionsWithBanks.push({ text: q, bank: bankName });
+      });
     }
+
+    allQuestions = questionsWithBanks.map(q => q.text);
 
     if (allQuestions.length === 0) {
       showNotification('No questions found in selected quizzes', 'error');
@@ -494,6 +504,9 @@ async function startMultiQuiz(filePaths, folder) {
     // Set a combined filename for state tracking
     setSelectedFileName(`Combined (${filePaths.length} quizzes)`);
     setCurrentFolder(folder || '');
+
+    // Store bank info in quiz state
+    updateQuizState({ bankInfo: questionsWithBanks.map(q => q.bank) });
 
     // Update title
     updateQuizTitle(`Combined Quiz (${filePaths.length} banks)`);

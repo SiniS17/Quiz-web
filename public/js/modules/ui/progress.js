@@ -1,7 +1,7 @@
 // modules/ui/progress.js - Question Progress Tracking with Invalid Question Support
 import { scrollToQuestion } from '../utils.js';
 import { getLiveTestCheckbox } from '../live-test.js';
-import { setAnsweredQuestions } from '../state.js';
+import { setAnsweredQuestions, getQuizState } from '../state.js';
 
 /**
  * Setup results container with progress boxes
@@ -24,6 +24,13 @@ export function setupResultsContainer(questionCount) {
     roundBox.className = 'round-box unanswered';
     roundBox.textContent = i + 1;
     roundBox.setAttribute('data-question-index', i);
+
+    // Add bank name if available (for multi-quiz mode)
+    const quizState = getQuizState();
+    if (quizState.bankInfo && quizState.bankInfo[i]) {
+      roundBox.setAttribute('data-bank-name', quizState.bankInfo[i]);
+    }
+
     roundBox.onclick = () => scrollToQuestion(i);
     resultsContainer.appendChild(roundBox);
 

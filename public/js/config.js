@@ -50,7 +50,7 @@ export const CONFIG = {
   /**
    * Whether live test mode is enabled by default
    */
-  DEFAULT_LIVE_TEST_MODE: false,
+  DEFAULT_LIVE_TEST_MODE: true,
 
 
   // ===================================

@@ -1,4 +1,5 @@
 // modules/state.js - Centralized State Management with Folder Tracking
+import CONFIG from '../config.js';
 export let selectedFileName = '';
 export let globalSelectedCount = 20;
 export let pendingQuestionCount = 20;
@@ -7,11 +8,12 @@ export let answeredQuestions = [];
 export let currentFolder = ''; // Track current folder path
 
 // Current quiz state for try again functionality
+// Current quiz state for try again functionality
 export const quizState = {
   fileName: '',
   questionCount: 20,
   selectedLevels: [],
-  isLiveMode: false,
+  isLiveMode: CONFIG.DEFAULT_LIVE_TEST_MODE, // Use config default
   allQuestions: [],
   hasSubmitted: false,
   originalQuestionOrder: null
@@ -76,7 +78,10 @@ export function saveQuizState(allQuestions, selectedLevels) {
   quizState.fileName = selectedFileName;
   quizState.questionCount = globalSelectedCount;
   quizState.selectedLevels = [...selectedLevels];
-  quizState.isLiveMode = false; // Will be set by live test module
+  // Only set isLiveMode if it hasn't been set yet (use config default)
+  if (quizState.isLiveMode === undefined) {
+    quizState.isLiveMode = CONFIG.DEFAULT_LIVE_TEST_MODE;
+  }
   quizState.allQuestions = [...allQuestions];
 }
 

@@ -1,4 +1,5 @@
 // modules/live-test.js - Live Test Functionality
+import CONFIG from '../config.js';
 import { getQuizState, updateQuizState } from './state.js';
 import { showNotification } from './ui/notifications.js';
 import { showLoadingScreen, hideLoadingScreen } from './ui/loading.js';
@@ -29,8 +30,15 @@ export function setupLiveTestInTopControls() {
   liveTestCheckbox.addEventListener('change', liveTestHandler);
 
   const quizState = getQuizState();
-  if (quizState.isLiveMode) {
+
+  // Apply default live test mode from config if quiz state doesn't have it set
+  const shouldBeLive = quizState.isLiveMode !== undefined
+    ? quizState.isLiveMode
+    : CONFIG.DEFAULT_LIVE_TEST_MODE;
+
+  if (shouldBeLive) {
     liveTestCheckbox.checked = true;
+    updateQuizState({ isLiveMode: true });
     applyLiveTestUIState(true);
   }
 

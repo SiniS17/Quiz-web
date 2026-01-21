@@ -63,7 +63,6 @@ export function parseQuestions(lines) {
 /**
  * Extract levels from question and increment counts
  * Only checks the END of the first line for level indicators
- * Case-insensitive: converts all levels to uppercase
  * @param {string} questionText - Question text
  */
 function extractAndCountLevel(questionText) {
@@ -78,7 +77,7 @@ function extractAndCountLevel(questionText) {
   let foundLevels = new Set();
 
   if (match) {
-    const content = match[1].trim().toUpperCase(); // Convert to uppercase
+    const content = match[1].trim();
 
     // Skip if it contains "IMG:" (image reference)
     if (!content.includes('IMG:')) {
@@ -107,7 +106,6 @@ function extractAndCountLevel(questionText) {
 /**
  * Get levels from a single question
  * Only checks the END of the first line
- * Case-insensitive: converts all levels to uppercase
  * @param {string} questionText - Question text
  * @returns {string[]} Array of level names
  */
@@ -122,7 +120,7 @@ export function getQuestionLevels(questionText) {
   let levels = [];
 
   if (match) {
-    const content = match[1].trim().toUpperCase(); // Convert to uppercase
+    const content = match[1].trim();
 
     // Skip if it contains "IMG:"
     if (!content.includes('IMG:')) {

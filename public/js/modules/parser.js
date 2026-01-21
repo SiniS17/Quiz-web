@@ -3,6 +3,24 @@ import { clearLevelCounts, incrementLevelCount } from './state.js';
 import { getLevelCounts } from './state.js';
 
 
+function normalizeLevel(level) {
+  const lower = level.toLowerCase();
+
+  // Standard numbered levels
+  const match = lower.match(/^level\s*(\d+)$/);
+  if (match) {
+    return `Level ${match[1]}`;
+  }
+
+  // Known text levels
+  if (lower === 'no level') return 'No level';
+  if (lower === 'not clear') return 'Not clear';
+
+  // Fallback: capitalize first letter only
+  return lower.charAt(0).toUpperCase() + lower.slice(1);
+}
+
+
 /**
  * Parse question text and extract image references
  * @param {string} questionText - Raw question text
@@ -88,7 +106,7 @@ function extractAndCountLevel(questionText) {
 
       parts.forEach(part => {
         if (part) {
-          foundLevels.add(part);
+          foundLevels.add(normalizeLevel(part));
         }
       });
     }
@@ -131,7 +149,7 @@ export function getQuestionLevels(questionText) {
 
       parts.forEach(part => {
         if (part && !levels.includes(part)) {
-          levels.push(part);
+          levels.push(normalizeLevel(part));
         }
       });
     }

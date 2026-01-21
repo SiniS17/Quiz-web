@@ -1,4 +1,4 @@
-// modules/parser.js - Question Parsing Logic with Simplified Parsing
+// modules/parser.js - Question Parsing Logic with Fixed Multi-Quiz Level Counting
 import { clearLevelCounts, incrementLevelCount } from './state.js';
 
 /**
@@ -29,20 +29,29 @@ export function parseQuestionWithImages(questionText) {
  * Parse raw quiz text into structured questions
  * All quizzes now use blank line separation
  * @param {string[]} lines - Lines of quiz text
+ * @param {boolean} countLevels - Whether to count levels (default: true)
  * @returns {string[]} Array of question texts
  */
-export function parseQuestions(lines) {
+export function parseQuestions(lines, countLevels = true) {
   const questions = [];
   let currentQuestion = [];
 
-  clearLevelCounts();
+  // Only clear level counts if we're counting levels (for single quiz loads)
+  if (countLevels) {
+    clearLevelCounts();
+  }
 
   lines.forEach((line) => {
     if (line.trim() === '') {
       if (currentQuestion.length > 0) {
         const questionText = currentQuestion.join('\n');
         questions.push(questionText);
-        extractAndCountLevel(questionText);
+        
+        // Only count levels if flag is true
+        if (countLevels) {
+          extractAndCountLevel(questionText);
+        }
+        
         currentQuestion = [];
       }
     } else {
@@ -54,10 +63,24 @@ export function parseQuestions(lines) {
   if (currentQuestion.length > 0) {
     const questionText = currentQuestion.join('\n');
     questions.push(questionText);
-    extractAndCountLevel(questionText);
+    
+    if (countLevels) {
+      extractAndCountLevel(questionText);
+    }
   }
 
   return questions;
+}
+
+/**
+ * Count levels from an array of questions (used for multi-quiz)
+ * @param {string[]} questions - Array of question texts
+ */
+export function countLevelsFromQuestions(questions) {
+  clearLevelCounts();
+  questions.forEach(question => {
+    extractAndCountLevel(question);
+  });
 }
 
 /**

@@ -1,12 +1,12 @@
-// modules/ui/navigation.js - Quiz List and Folder Navigation with Multi-Select Support
+// modules/ui/navigation.js - Quiz List and Folder Navigation with FIXED Multi-Quiz Level Counting
 import CONFIG, { getQuizFilePath } from '../../config.js';
 import { fetchQuizList, fetchQuizContent } from '../api.js';
 import { showNotification } from './notifications.js';
 import { showLoading, hideLoading, disableAllControlsDuringLoad, enableAllControlsAfterLoad } from './loading.js';
 import { addFadeInAnimation } from '../utils.js';
-import { clearLevelCounts, setLevelCounts, setCurrentFolder, getCurrentFolder, setSelectedFileName, updateQuizState } from '../state.js';
+import { clearLevelCounts, setLevelCounts, setCurrentFolder, getCurrentFolder, setSelectedFileName, updateQuizState, getLevelCounts } from '../state.js';
 import { loadQuiz } from '../quiz-loader.js';
-import { parseQuestions } from '../parser.js';
+import { parseQuestions, recountLevelsForQuestions } from '../parser.js';
 import { showTopControls } from './controls.js';
 import { createTopLevelCheckboxes, setupTopQuestionCountInput } from '../quiz-settings.js';
 import { displayQuestions } from '../quiz-manager.js';
@@ -468,6 +468,7 @@ function updateMultiQuizButton() {
 
 /**
  * Start multi-quiz with combined questions
+ * PHASE 1 FIX: Added recountLevelsForQuestions() after combining all questions
  */
 async function startMultiQuiz(filePaths, folder) {
   showLoading('Loading Combined Quiz', 'Combining questions from multiple quizzes...');
@@ -501,6 +502,27 @@ async function startMultiQuiz(filePaths, folder) {
       return;
     }
 
+    // ============================================
+    // PHASE 1 FIX: Recount levels for the COMBINED question array
+    // This treats the combined banks as ONE unified bank
+    // ============================================
+    console.log('====================================');
+    console.log('PHASE 1 FIX: Multi-Quiz Level Recounting');
+    console.log('====================================');
+    console.log(`📦 Combined ${filePaths.length} banks into one unified quiz`);
+    console.log(`📊 Total questions: ${allQuestions.length}`);
+
+    // Clear and recount levels as if this is ONE bank
+    recountLevelsForQuestions(allQuestions);
+
+    const levelCounts = getLevelCounts();
+    console.log('✅ Level counts after recounting:', levelCounts);
+    console.log('💡 Each count = number of questions that HAVE that level');
+    console.log('====================================');
+    // ============================================
+    // END PHASE 1 FIX
+    // ============================================
+
     // Set a combined filename for state tracking
     setSelectedFileName(`Combined (${filePaths.length} quizzes)`);
     setCurrentFolder(folder || '');
@@ -519,6 +541,7 @@ async function startMultiQuiz(filePaths, folder) {
     updateQuizInfo(allQuestions.length);
 
     // Create level checkboxes and question count input
+    // These will now show CORRECT counts (not inflated)
     createTopLevelCheckboxes();
     setupTopQuestionCountInput(allQuestions);
 

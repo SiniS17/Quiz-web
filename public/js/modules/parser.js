@@ -1,5 +1,7 @@
-// modules/parser.js - Question Parsing Logic with Simplified Parsing
+// modules/parser.js - Question Parsing Logic with Multi-Quiz Level Recounting
 import { clearLevelCounts, incrementLevelCount } from './state.js';
+import { getLevelCounts } from './state.js';
+
 
 /**
  * Parse question text and extract image references
@@ -141,6 +143,34 @@ export function getQuestionLevels(questionText) {
   }
 
   return levels;
+}
+
+/**
+ * Recount levels for an array of questions (for multi-quiz mode)
+ * This treats the combined questions as one unified bank
+ * PHASE 1 FIX: This is the key function for fixing multi-quiz level counting
+ * @param {string[]} questions - Array of all combined questions
+ */
+export function recountLevelsForQuestions(questions) {
+  // Clear all existing level counts
+  clearLevelCounts();
+
+  console.log('🔄 Recounting levels for combined quiz...');
+  console.log(`📊 Total questions to process: ${questions.length}`);
+
+  // Iterate through each question and count its levels
+  questions.forEach(question => {
+    const levels = getQuestionLevels(question);
+    levels.forEach(level => {
+      incrementLevelCount(level);
+    });
+  });
+
+  // Log the results for verification
+  const finalCounts = getLevelCounts();
+  console.log('✅ Final level counts:', finalCounts);
+  console.log('📈 Total unique levels:', Object.keys(finalCounts).length);
+  console.log('💡 Each count = number of questions that HAVE that level');
 }
 
 /**

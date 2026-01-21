@@ -2,6 +2,10 @@
 import { clearLevelCounts, incrementLevelCount } from './state.js';
 import { getLevelCounts } from './state.js';
 
+function getQuestionText(input) {
+  return typeof input === 'string' ? input : input?.text || '';
+}
+
 
 function normalizeLevel(level) {
   const lower = level.toLowerCase();
@@ -85,8 +89,9 @@ export function parseQuestions(lines) {
  * Only checks the END of the first line for level indicators
  * @param {string} questionText - Question text
  */
-function extractAndCountLevel(questionText) {
+function extractAndCountLevel(questionInput) {
   // Get the first line (the question title)
+  const questionText = getQuestionText(questionInput);
   const firstLine = questionText.split('\n')[0].trim();
 
   // Pattern to match parentheses at the END of the line
@@ -129,8 +134,9 @@ function extractAndCountLevel(questionText) {
  * @param {string} questionText - Question text
  * @returns {string[]} Array of level names
  */
-export function getQuestionLevels(questionText) {
+export function getQuestionLevels(questionInput) {
   // Get the first line (the question title)
+  const questionText = getQuestionText(questionInput);
   const firstLine = questionText.split('\n')[0].trim();
 
   // Pattern to match parentheses at the END of the line

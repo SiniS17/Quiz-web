@@ -493,7 +493,7 @@ async function startMultiQuiz(filePaths, folder) {
       });
     }
 
-    allQuestions = questionsWithBanks.map(q => q.text);
+    allQuestions = questionsWithBanks;
 
     if (allQuestions.length === 0) {
       showNotification('No questions found in selected quizzes', 'error');

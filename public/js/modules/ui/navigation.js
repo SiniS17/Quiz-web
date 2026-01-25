@@ -14,6 +14,7 @@ import { displayQuestions } from '../quiz-manager.js';
 // Track current folder path
 let currentFolderPath = '';
 let selectedQuizzes = new Set();
+let currentRequestId = 0;
 
 /**
  * Check if a quiz file has valid consecutive line count
@@ -111,45 +112,57 @@ async function folderHasInvalidQuizzes(folderPath) {
  * List available quizzes and folders
  */
 export function listQuizzes(folder = '') {
-  if (folder && folder.target) {
-    folder = '';
-  }
+    if (folder && folder.target) {
+        folder = '';
+    }
 
-  currentFolderPath = folder;
-  setCurrentFolder(folder);
-  selectedQuizzes.clear();
+    // 1. Increment the ID for this new request
+    const requestId = ++currentRequestId;
 
-  showLoading();
-  disableAllControlsDuringLoad();
-  clearLevelCounts();
+    currentFolderPath = folder;
+    setCurrentFolder(folder);
+    selectedQuizzes.clear();
+    showLoading();
+    disableAllControlsDuringLoad();
+    clearLevelCounts();
+    updateQuizTitle('Aviation Quiz');
+    clearQuizContainer();
+    closeAllOpenMenus();
+    hideTopControls();
+    hideQuizControls();
+    showQuizSelection();
 
-  updateQuizTitle('Aviation Quiz');
-  clearQuizContainer();
-  closeAllOpenMenus();
-  hideTopControls();
-  hideQuizControls();
-  showQuizSelection();
+    const quizGrid = document.getElementById('quiz-grid');
+    if (!quizGrid) {
+        console.error('Quiz grid container not found');
+        enableAllControlsAfterLoad();
+        hideLoading();
+        return;
+    }
 
-  const quizGrid = document.getElementById('quiz-grid');
-  if (!quizGrid) {
-    console.error('Quiz grid container not found');
-    enableAllControlsAfterLoad();
-    hideLoading();
-    return;
-  }
+    quizGrid.innerHTML = '';
 
-  quizGrid.innerHTML = '';
+    if (folder) {
+        const backButton = createBackButton(folder);
+        quizGrid.appendChild(backButton);
+        addFadeInAnimation(backButton);
+    }
 
-  if (folder) {
-    const backButton = createBackButton(folder);
-    quizGrid.appendChild(backButton);
-    addFadeInAnimation(backButton);
-  }
-
-  fetchQuizList(folder)
-    .then(data => renderQuizList(data, quizGrid, folder))
-    .catch(error => handleQuizListError(error, quizGrid));
+    fetchQuizList(folder)
+        .then(data => {
+            // 2. Only render if this is still the latest request
+            if (requestId === currentRequestId) {
+                renderQuizList(data, quizGrid, folder);
+            }
+        })
+        .catch(error => {
+            // 3. Only handle error if this is the latest request
+            if (requestId === currentRequestId) {
+                handleQuizListError(error, quizGrid);
+            }
+        });
 }
+
 
 /**
  * Close all open menus and overlays

@@ -209,10 +209,14 @@ function createBackButton(folder) {
   backButton.className = 'quiz-box back-button';
   backButton.innerHTML = '<i class="fas fa-arrow-left"></i> Back to Categories';
 
-  backButton.onclick = () => {
-    const parentFolder = folder.split('/').slice(0, -1).join('/');
-    listQuizzes(parentFolder);
-  };
+    backButton.onclick = () => {
+      const parentFolder = folder.split('/').slice(0, -1).join('/');
+      if (!parentFolder) {
+        window.location.hash = '#/';
+      } else {
+        window.location.hash = `#/folder/${parentFolder.split('/').map(encodeURIComponent).join('/')}`;
+      }
+    };
 
   return backButton;
 }
@@ -301,13 +305,11 @@ function createFolderBox(folderName, currentFolder, hasInvalid = false) {
     ${warningIcon}
   `;
 
-  folderBox.onclick = () => {
-    const fullPath = currentFolder ? `${currentFolder}/${folderName}` : folderName;
-    showLoading(CONFIG.LOADING_MESSAGES.FOLDER_OPEN, `Loading quizzes from ${folderName}...`);
-    setTimeout(() => {
-      listQuizzes(fullPath);
-    }, 100);
-  };
+    folderBox.onclick = () => {
+      const fullPath = currentFolder ? `${currentFolder}/${folderName}` : folderName;
+      // Update hash, let router handle the rest
+      window.location.hash = `#/folder/${fullPath.split('/').map(encodeURIComponent).join('/')}`;
+    };
 
   return folderBox;
 }
@@ -402,8 +404,10 @@ function createQuizBox(file, folder, validation, showCheckbox = false) {
   } else {
     // No checkbox mode - normal single quiz start
     quizBox.onclick = (e) => {
-      initializeQuiz(filePath, folder);
-    };
+    // Construct full path for the URL
+    const fullPath = folder ? `${folder}/${file}` : file;
+    window.location.hash = `#/quiz/${fullPath.split('/').map(encodeURIComponent).join('/')}`;
+  };
   }
 
   return quizBox;
@@ -824,4 +828,4 @@ if (typeof window !== 'undefined') {
 }
 
 // Export for use in other modules
-export { updateQuizTitle, clearQuizContainer };
+export { updateQuizTitle, clearQuizContainer, initializeQuiz };

@@ -1,0 +1,524 @@
+How many kind of wiring harness installed on CFM Engine? (B2)
+1
+2
+3
+
+What does harness HCJxxx means? (B2)
+This harness is belong to core section
+This harness is belong to fan section
+Both A & B
+
+Can Engine wiring harness be replaced? (B2)
+Yes but need approved from CFM
+Yes refer AMM
+No.
+ATA71
+
+For CFM56, the thrust reverser cowl doors are opened: (A, B1, B2)
+Electrically by a motor or manually and secured by a hold open rod.
+Hydraulically or manually and secured by a hold open rod.
+Hydraulically and secured by a hold open rod
+
+The air intake cowl, the fan cowl, the thrust reverser cowl and the primary exhaust (primary nozzle and center body). (A, B1, B2)
+The air intake cowl, the fan cowl, the thrust reverser cowl and the common nozzle assembly.
+The air intake cowl, the fan cowl, the thrust reverser cowl and the center body.
+
+Which cowls incorporate a lightning protection system? (B1)
+Fan cowl and thrust reverser cowl
+Inlet cowl and fan cowl
+Inlet cowl, fan cowl and thrust reverser cowl.
+
+The fan cowl hold open rods are:(A, B1, B2)
+Telescopic type with fixed open position at 40 degree.
+Telescopic type with 2 positions: 40 degree for routine maintenance and 55 degree for increased access.
+Telescopic type with 3 positions: 30 degree for routine maintenance, 40 degree for ECU removal access and 55 degree for increased access.
+
+What is one of the major structural and aerodynamic components of the engine?(B1)
+Fan/Booster Rotor
+Fan/Booster Stator
+Fan frame.
+
+The engine is attached to the pylon by (A, B1, B2)
+FWD and AFT mounts.
+FWD, middle and AFT mounts.
+Three mounts.
+
+The FAN cowl door is held in position by: (A, B1, B2)
+One hold open rod
+One hydraulic  actuator
+Two hold open rods.
+
+Each thrust reverser “C” duct is opened by: (A, B1, B2)
+One electric actuator
+One pneumatic  actuator
+One hydraulic actuator
+
+The power plant drain system is located: (A, B1, B2)
+At the bottom of engine
+At the rear part of pylon
+Both A and B.
+
+For CFM56, the fan cowl is equipped with: (A, B1, B2)
+Three (3) latches
+Four (4) latches
+Five (5) latches
+
+For CFM56, the thrust reverser cowl is equipped with: (A, B1, B2)
+Three (3) latches
+Four (4) latches
+Five (5) latches.
+
+The forward mount: (B1, B2)
+Carries the engine torque, thrust and side loads.
+Carries the engine torque, vertical and side loads.
+Carries the engine thrust, vertical and side loads.
+
+The aft mount: (B1, B2)
+Carries the engine torque, thrust and side loads.
+Carries the engine torque, vertical and side loads.
+Carries the engine thrust, vertical and side loads.
+
+Can be replacement engine with the air intake cowl installed?(B1)
+Yes, Engine can be replacement with or without the air intake cowl installed.
+No, Engine cannot replacement with the air intake cowl installed.
+No, Engine only can be replacement without the air intake cowl installed.
+ATA72
+
+The aft sump is in the:(B1)
+Fan frame
+Turbine rear frame
+Between fan frame and turbine rear frame
+
+When the engine is to be preserved and stored, it is recommended that(B1)
+The variable bleed valves (VBV) must be closed.
+The variable stator vanes (VSV) must be closed.
+The booster stage and bleed valve (BSBV) must be closed.
+
+In case of engine FOD associated with normal parameters: (B1)
+The borescope inspection shall be performed to make sure all the components in good conditions.
+The borescope inspection may be delayed provided FOD did not result in missing material to the fan blades. Service extension is permitted on both engines in the event of a dual engine FOD.
+The borescope inspection may be delayed provided FOD did not result in missing material to the fan blades. Service extension is only permitted on one engine in the event of a dual engine FOD.
+
+The engine washing is carried out when: (B1)
+The EGT is below 660C.
+The EGT is below 1500C
+The EGT is below 2000C
+
+The aircraft external cleaning task can contribute to(B1, B2)
+Oil savings
+Hydraulic savings
+Fuel savings
+
+The trim balance bolts are installed in(B1)
+Spinner Front Cone
+Spinner Rear Cone
+Fan disk
+
+The vibration survey is required if(B1)
+More than a pair of fan blades or one fan blade (not a pair) are replaced.
+More than two pairs of fan blades or one fan blade (not a pair) are replaced.
+More than three pairs of fan blades or one fan blade (not a pair) are replaced.
+
+The mechanical coupling between the HPC rotor and the TGB is(B1)
+Inlet gearbox
+Outlet gearbox
+Angle gearbox
+
+Which component is NOT mounted in accessory gear box housing? (B1, B2)
+Lubrication unit
+N2 speed sensor
+TRF accelerometer
+
+The hand cranking pad is located: (B1, B2)
+On the front face of  main gearbox (forward looking aft )
+On the starter
+On the rear face of main gearbox (forward looking aft).
+
+How is the accessory gearbox driven? (B1)
+By the HP rotor.
+By the LP rotor.
+By the HP rotor via the transfer gearbox
+
+How many bearing compartments does the engine have? (B1, B2)
+1
+2
+3.
+
+For CFM56, what bearings support the HP rotor? (B1)
+Nº3 (dual bearing) and Nº4.
+Nº2 and Nº4.
+Nº2 and Nº3 (dual bearing).
+
+For CFM56, what bearings support the LP rotor? (B1)
+N01, N02 and N03 (dual bearing).
+N03 (dual bearing) and N04.
+N01, N02 and N05.
+
+The CFM56 LP rotor (N1) is made of (B1)
+The fan and the booster compressor driven by the five stage lp turbine.
+Four stage compressor driven by a two stage turbine.
+Fan and a four-stage compressor driven by a four stage turbine.
+
+The CFM56 HP (N2) rotor is made of (B1)
+9-stage compressor driven by a single stage turbine.
+10-stage hp compressor driven by a 2-stage hp turbine.
+12-stage compressor driven by a single stage turbine.
+ATA73
+
+The purpose of the fuel return valve is(B1, B2)
+To return fuel back to the tank.
+To return fuel back to the LP fuel pump inlet.
+To return fuel back to the servo fuel heater inlet.
+
+Which component prevents ice from entering the control servos inside the hydromechanical fuel unit (HMU)?(B1)
+FRV
+Oil cooler
+Servo fuel heater
+
+The servo fuel heater is(B1)
+A heat exchange between cool fuel from the tank and hot fuel from the return line occurs by conduction and convection inside the unit.
+A heat exchange between oil and fuel occurs by conduction and convection inside the unit.
+A heat exchange between air and fuel occurs by conduction and convection inside the unit.
+
+The servo fuel heater system has(B1)
+No fuel anti-clogging valve
+Fuel anti-clogging valve
+Oil anti-clogging valve
+
+Engine protection is in term of(B1)
+Fan speed (N1), core speed (N2) and engine vibration (N1/N2) to prevent exceedance of certified red lines.
+Fan speed (N1), core speed (N2) and engine oil pressure to prevent exceedance of certified red lines.
+Fan speed (N1), core speed (N2) and Engine turbine exhaust gas temperature monitoring (EGT) to prevent exceedanceof certified red lines.
+
+The engine idles control is comprised of (B1, B2)
+Minimum idle and ground idle
+Minimum idle and maximum idle
+Minimum idle and approach idle.
+
+During the reverser is in transit (B1, B2)
+The ECU sets the engine at idle.
+The ECU sets the engine at climb.
+N1 follows throttle demand.
+
+What controls the engine in all operating regimes? (B1, B2)
+FADEC
+EVMU
+EIU.
+
+The function of the deactivation lever located on the HCU is to (A, B1, B2)
+De-energized the isolation valve solenoid
+Isolate hydraulic supply
+Energized the isolation valve solenoid.
+
+How can ECU be supplied by power? (B1, B2)
+By Aircraft electrical network
+By dedicated alternator generator
+Both A & B
+By HOT BAT BUS
+
+When does Alternator generator operate and supply power to ECU? (B1, B2)
+When ENGINE at Idle speed
+When 10% N2 reach.
+When 10% N1 reach.
+Always operate provided Aircraft is powered on.
+
+45. Which connector of ECU used for Identification plug? (B2)
+J14
+B.J15
+C.J13
+D.J4
+
+The CFM56 FADEC system of each engine consists of (B1, B2)
+An EEC, EIU, EVMU and its peripheral components and sensors.
+A dual channel electronic control unit (ECU), with its associated peripherals.
+A dual channel electronic control box (ECU) and an engine interface unit (EIU).
+
+Before performing the operational test of the FADEC on GND (with Engine motoring), you must: (B1, B2)
+Make sure that the travel ranges of the flight control surfaces are clear before you motor the engine. Movement of the flight control surfaces can be dangerous and/or cause damage
+Make sure that the safety pin is installed in the N/W-steering deactivation electrical-box. Movement of nose wheels can cause damage.
+Make sure that the thrust reverser is locked. If not, the thrust reverser can operate accidentally and cause injury to personnel and/or damage to the reverser
+
+The FADEC automatically selects a continuous relight: (B1, B2)
+In case of engine interface unit (EIU) failure only.
+If the ANTI ICE pb is selected ONor In case of EIU failure or engine flame-out.
+In case of electronic control unit (ECU) failure only.
+
+The ENG FADEC GND PWR is used to: (B1, B2)
+Enable the pilots to start the engines automatically.
+Supply the computers dedicated to the engines when the engines are not running.
+Enable the pilots to start the engines manually.
+
+How is the thrust rating changed on the CFM56? (B1, B2)
+By change the ECU.
+By a setting up in MCDU.
+By an engine data programming plug.
+
+The HP fuel Shut-Off Valve is:
+A line replaceable unit upstream of the HMU.
+A line replaceable unit downstream of the HMU.
+Not a line replaceable unit, in the HMU.
+
+How is the fuel LP VALVE controlled?(B1, B2)
+By the Master lever or Fire P/B SW.
+By the EEC and the Master lever.
+By the EEC and Fire P/B SW.
+ATA74
+
+Ignition systems are controlled by: (B1, B2)
+Electronic Control Unit (ECU) in automatic start mode.
+Engine Interface Unit (EIU) in manual start mode.
+Electronic Control Unit (ECU) in automatic and manual start mode.
+Engine Interface Unit (EIU) in automatic and manual start mode.
+
+What is the purpose of the fuel return valve in the recirculation system? (B1, B2)
+To maintain engine oil, IDG oil and fuel temperature within limits.
+To provide better fuel filtering.
+To depressurize the fuel system at engine shut-down.
+
+What is the purpose of the ENGINE MASTER switch? (B1, B2)
+To open or close the LP and HP fuel Shut-Off Valve.
+To command and reset the FADEC functions.
+Both to open or close the HP fuel Shut-Off Valve and to command and reset the FADEC functions.
+
+With engine running, continuous ignition can be selected via the ECU (B1, B2)
+Automatically by the EIU.
+Manually using the master switch.
+Manually using the rotary selector.
+
+The ignition system uses : (B1, B2)
+28 VAC from aircraft
+115 VAC from aircraft
+115 VAC from dedicated alternator
+ATA75
+
+The active clearance control (ACC) system ensures: (B1, B2)
+Better turbines efficiency
+Better turbine`s blades cooling
+Better turbine`s vanes cooling
+
+The purpose of the LP and HP turbine clearance control systems is to: (B1, B2)
+Reduce wear of the turbine blades.
+Prevent excessive nacelle temperature.
+Optimize engine performance.
+
+The compressor airflow control of the CMF56 includes (B1, B2)
+A variable bleed valve (VBV) system and a variable stator vane (VSV) system.
+A BSBV system, a VSV system and bleed valves at the 7th and 10th stages of the HPC.
+A booster stage bleed valve system and a variable stator vane (VSV) system.
+
+The CFM56 engine air system includes: (B1, B2)
+The compressor airflow control, turbine clearance control, transient bleed and cooling.
+The compressor airflow, turbine clearances control, cooling and pressurizing airflows.
+The compressor airflow control and turbine clearance control.
+
+What is used to cool the fan and core compartments? (B1, B2)
+Ram air for both compartments.
+Fan air both compartments.
+Ram air for the fan compartment and fan air for the core compartment.
+
+A nacelle temperature sensor monitors: (B1, B2)
+The accessory gearbox area temperature only
+The pylon area temperature only
+The High Pressure turbine area temperature only
+The core compartment exit temperature.
+
+The thrust setting parameter is(B1, B2)
+N1
+N2
+EPR
+
+Thrust throttle lever detents are(B1, B2)
+TO/GA, FLX, CR, IDLE, REV
+TO/GA, FLX/MCT, CL, IDLE, REV
+TO/GA, FLX/MCT, CR, IDLE, REV
+
+The purpose of using FLEXIBLE TAKE-OFF is (B1, B2)
+To obtain reduced thrust operation.
+To obtain increased thrust operation.
+To obtain maximum thrust operation.
+
+Two available thrust setting modes are (B1, B2)
+The autothrust mode and the active mode.
+The autothrust mode and the manual mode.
+The autothrust mode and the selected mode.
+
+The ATHR de-activation and ATHR disengagement are achieved (B1, B2)
+By action on the disconnect pushbutton switch located on the throttle control levers.
+By pressing the ATHR pushbutton switch provided that the ATHR was engaged.
+By selection of the reverse thrust.
+Either of above
+
+When ATHR is deactivated (due to FMGC command or failure) (B1, B2)
+The thrust is frozen to the actual value at the time of the deactivation.
+The thrust is increased to the value corresponding to the throttle lever upper detent at the time of the deactivation.
+The thrust is decreased to the value corresponding to the throttle lever lower detent at the time of the deactivation.
+
+On ground, as soon as the engine is running, the computation of thrust limit parameter is initialized in (B1, B2)
+MCL mode
+FLEX/MCT mode
+MTO/GA mode
+
+Alpha floor protection is (B1, B2)
+Part of autothrust function
+Manually selected by pilots
+Automatically activated by EIU
+
+The A320/321 engines throttle control levers can (B1, B2)
+Only be moved manually.
+Move automatically in autothrust mode
+Be moved manually or automatically.
+
+What can provide closure of the HPSOV? (B1, B2)
+The related ECU only
+The related ECU or the engine fire push button
+Directly from master lever to OFF or respective ECU during engine starting.
+
+When the throttle lever is between two detents, the thrust rating limit corresponds to: (B1, B2)
+Upper  detent position
+Lower  detent position
+Actual throttle lever position.
+ATA77
+
+The vibration parameters for display on ECAM:(B1, B2)
+Are sent directly from EVMU.
+Are sent by EVMU through DMCs.
+Are sent by EVMU to DMCs though SDACs.
+
+Where is PS12 sensor located?(B1, B2)
+At the outlet of HP compressor
+Downstream from OGV
+At the Fan Frame.
+AT the booster discharge pressure.
+
+Which sensor used for EGT indication?(B1, B2)
+T49.5
+T5
+T Case
+T3
+
+Which parameters can speed sensors supply for ECU?(B1, B2)
+N1, N2, VIB
+N1, N2
+N1 and VIB
+N2 and VIB
+
+How many thermocouples used to measure EGT?(B1, B2)
+4
+6
+9
+12
+
+Where can the maximum value (N1, N2 or EGT) be read if the engine has exceeded the operational limits? (B1, B2)
+From DMC
+From ECU last leg report.
+From DMU.
+
+The engine parameters sent directly to the DMCs for ECAM display by the Electronic Control Unit (ECU) are: (B1, B2)
+N1, N2, Fuel Used, EGT.
+N1, Fuel Flow, T2.
+N1, N2, EGT, Fuel Flow
+N2, EGT, P2.
+
+The fuel used indication is reset to zero: (B1, B2)
+Five minutes after engine shut down
+Through the MCDU.
+At each engine start.
+ATA78
+
+Where is located the hydraulic SOV? (B1)
+Downstream of the HCU
+Inside the HCU
+Upstream of the HCU.
+
+How is the thrust reverser controlled? (B1, B2)
+By the ECU only.
+By the ECU and the two conditions from Spoiler Elevator Computers and EIU inhibition relay.
+Directly by the reverser lever
+
+Prior to performing maintenance on the thrust reverser: (A, B1, B2)
+The yellow hydraulic system must be depressurized.
+Deactivate the thrust reverser by placing the lever in the inhibition position on the hydraulic control unit (HCU).
+Deactivate the thrust reverser by disconnecting the hydraulic supply lines.
+
+The CMF56 thrust reverser system consists of (A, B1, B2)
+Two translating sleeves
+4 pivoting blocker doors,
+4 pivoting blocker doors and cascade vanes
+
+The CFM56 thrust reverser system is (B1, B2)
+Hydraulically supplied by the corresponding hydraulic pump on the engine.
+Isolated from the hydraulic supply by an engine fire shut off valve.
+Designed for use on the ground and in flight to reduce aircraft landing roll.
+
+When is it possible to operate the thrust reverser system? (B1, B2)
+On ground only.
+On ground or in flight.
+In flight only.
+
+The CFM56 thrust reverser system is controlled (B1, B2)
+Through the ECU from the two reverser latching levers located on the throttle control levers.
+By the ECU only
+Directly by the reverser lever
+
+Is there any mechanical links to open 4 blocker doors manually at the same time?(B1, B2)
+No, each blocker door is open individually.
+Yes, by means of the manual drives to turn the flexible shaft of synchronizing system.
+Yes, through the CFDS menu.
+ATA79
+
+The engine indicating oil pressure is: (B1, B2)
+Main supply line pressure
+Differential pressure between main supply line and vent line
+Scavenge line pressure.
+
+What happens when the main oil filter is clogged? (B1, B2)
+The oil flows through the bypass valve and the backup filter.
+The IDG oil temperature increases.
+The engine oil temperature increases.
+
+What does the master chip detector do in case of metal particules detection?(B1, B2)
+It sends a signal to the ECU
+It provides a warning to the ECAM system.
+It operates a visual indicator for ground inspection
+ATA80
+
+During start, in case of ignition delay, the FADEC will(B1)
+Automatically cancel the start sequence after an automatic dry motoring.
+Automatically operate both ignition exciters after an automatic dry motoring sequence.
+Automatically operate standby ignition exciter after an automatic dry motoring sequence.
+
+Automatic start will be aborted automatically by the FADEC(B1)
+When N2 is below 16%
+When N2 is below 43%
+When N2 is below 50%
+
+The FADEC has the capability to turn fuel off(B1)
+Only during automatic ground start
+If engine fire occurs
+If engine master warnings appear.
+
+How does the starter operate? (A, B1, B2)
+Hydraulically
+Electrically
+Pneumatically.
+
+Which statement below is correct? (B1, B2)
+The starter valve is pneumatically operated and electrically controlled by ECU
+The starter motor is pneumatically operated and electrically controlled by ECU
+Both above statements.
+
+Which statement is correct? (B1, B2)
+The starter  accelerates N1 spool through the gearbox
+The starter accelerates  N2 spool through  the gearbox
+The starter accelerates N1 and N2 spool through the gearbox.
+
+If the starter air valve solenoid is INOP? (A, B1, B2)
+You cannot start the engine.
+You can still start the engine using manual start sequence.
+You can only start engine by operating the SAV manually using the cranking tool.
+You can only start engine by operating the SAV manually using its handle.
+
+The engine manual start push buttons to operate the corresponding start valves in (B1, B2)
+The manual start mode or during an engine cranking.
+The manual start mode.
+During an engine cranking.

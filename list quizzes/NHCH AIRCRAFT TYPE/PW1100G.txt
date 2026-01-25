@@ -1,0 +1,551 @@
+Fire detectors on PW1100G engine are located at:
+Pylon area,fan area, core area
+@@Pylon area, AGB area, core area
+Fan area, AGB area, core area
+
+The fire extinguishing system of each PW1100G engine comprises of:
+02 fire extinguishing bottles, 01 SQUIB P/B switch
+@@02 fire extinguishing bottles, 02 SQUIB P/B switches
+01 fire extinguishing bottle, 02 SQUIB P/B switches
+
+The fire detection loops on PW1100G engines are
+@@Dual loops
+Singe loops
+Single loops on pylon area, the other areas are dual loops
+
+The fire detectors of each fire detection loop onPW1100G engine are
+@@Parallel connected
+Serial connected
+Not connected together
+
+FRTT valve closes if:
+Fuel temperature in the wing tank is low
+Fuel under-full level is sensed
+@@Vent surge tank overflow is sensed
+
+When will the wing tank pumps supply the fuel to the engine?
+@@until approximately 500 kg of fuel are used and the UNDERFULL sensor is reached.
+until approximately 500 kg of fuel are used.
+Until the UNDERFULL sensor is reached.
+
+How does the FRTT close when the fuel temperature is too high in the outer cell?
+@@the EEC closes the FRTT.
+the FLSCU closes the FRTT.
+the FLSCU sends a closure signal directly to the EEC to close the FRTT.
+
+Hot air for nacelle anti-ice system on PW1100G engineis supplied from
+A/C bleed air system
+Dedicated bleed air from LPC stage 3
+@@Dedicated bleed air from HPC stage 6
+
+The nacelle anti-ice valves are
+@@Electrical controlled & pneumatically operated
+Electrical controlled & operated
+Pneumatically controlled and operated
+
+On PW1100G engine the ENG ANTI-ICE P/B switches on overhead panel
+Control the engine anti-ice valves directly
+@@Send signal to EEC, then the EEC controls the engine anti-ice valves
+Send signal to EIU, then the EIU controls the engine anti-ice valves
+
+On PW1100G engine, nacelle anti-ice duct leak or burst is monitored by
+A leak detector located in the core zone
+@@01 PT (Pressure Transducer)in the core zone, 01 PT in the fan zone and 01 dual temperature sensor in the fan zone
+A leak detector located in the fan zone
+
+On PW1100G engineanti-ice system, there is (are):
+01 PRSOV (Pressure Regulating an Shut Off Valve)
+01 SOV (Shut Off valve) and 01 PRV (Pressure Regulating Valve)
+@@02 PRSOVs (Pressure Regulating an Shut Off Valve)
+
+Regard to PW1100G engine anti-ice system, A/C can be dispatched with
+Two PRSOVs deactivated in OPEN position
+One PRSOV deactivated in CLOSED position
+@@One PRSOV deactivated in OPEN position
+
+On PW1100G engine anti-ice system, to deactivate an anti-ice PRSOV
+You must open the fan cowls
+You must open the thrust reverser cowls
+@@You can deactivate the PRSOV with the fan cowls and reverser cowls closed
+
+ENG anti-ice valve deactivated in the OPEN position through the Manual Overridemechanism on the PRSOV, so A/c can
+dispatch with 2 PRSOVS locked in open position
+@@dispatch with 1 PRSOVS locked in open position
+A & B are correct
+
+Hot air for the Nacelle anti-ice system is supplied by a dedicated HP Compressor (HPC) bleed:
+on the PWl000G, 7th stage.
+@@on the PWl000G, 6th stage.
+on the PWl000G, 8th stage.
+
+ln this NEO configuration, one BMC can
+@@control& monitor both sides when the other BMC fails.
+control& monitor both sides with degraded mode when the other BMC fails.
+control& monitor both sides with limit function when the other BMC fails.
+
+For the monitoring, the BMCs read
+@@pressure transducers (upstream/downstream of the PRV), Precooler Differential Pressure and downstream temperature with the Bleed Temperature Sensor (BTS)
+pressure transducers (upstream/downstream of the PRV), Precooler Differential Pressure.
+pressure transducers (upstream/downstream of the PRV), and downstream temperature with the Bleed Temperature Sensor (BTS)
+
+The temperature regulation components are in the pylons :
+Bleed Temperature Sensor (BTS), the Precooler, Fan air valve, Precooler Differential Pressure
+@@Bleed Temperature Sensor (BTS), the Precooler, Fan air valve.
+Bleed Temperature Sensor (BTS), Fan air valve, Precooler Differential Pressure
+
+Oil Shuttle Valve (JOSV) which modulates
+@@the flow of oil to the No. l, 1.5, 2 and Fan Drive Gear System (FDGS) based on engine power settings.
+the flow of oil to the No. l, 1.5, 3 and Fan Drive Gear System (FDGS) based on engine power settings.
+the flow of oil to the No. l, 1.5 and Fan Drive Gear System (FDGS) based on engine power settings.
+
+The AODV is electrically controlled by the EEC to supply oil to the
+@@damper during starting, acceleration and shut it off at high power
+damper during starting and acceleration and shut it off at low power
+damper during starting and acceleration and shut it off at minimum idle power
+
+The Engine Bleed Air System (EBAS) uses:
+Hydro-pneumatic valves
+@@Electro-pneumatic valves
+Electrical valves
+
+Which area has the single detection loop?
+@@APU aft supply duct
+Pylon
+Wing
+
+The Main Oil Temperature (MOT) sensor is a dual channel sensor and is used to
+Measure the temperature of the scavenge oil returning to the tank
+@@Measure the temperature of the lubrication oil pressure from the tank
+Measure the pressure of the scavenge oil returning to the tank
+
+The Oil Debris Monitoring (ODM) sensor
+sends signals proportional to size and type of the pollution particles to the HMU
+sends signals proportional to size and type of the pollution particles to the EIU
+@@sends signals proportional to size and type of the pollution particles to the PHMU
+
+Which permit to increase the periodic inspection interval IDG servicing
+@@The IDG has two new additional sensors(oil level sensor and oil filter DPI) providing warnings IDG OIL LVL,IDG FILTER CLOG.
+The IDG has new additional sensors(oil level sensor and oil filter DPI) providing warning IDG OIL LVL.
+The IDG has new additional sensors(oil level sensor and oil filter DPI) providing warning IDG FILTER CLOG.
+
+The N1& N2 speed sensors send signals direct to
+@@The EEC
+The PHMU.
+The PHMU &EEC .
+
+The fan speed (Nf) speed sensors send signals direct to
+The PHMU &EEC .
+The PHMU.
+@@The EEC .
+
+The engine EGT is sensed and averaged by
+five thermocouple probes (T5 probes)
+@@four thermocouple probes (T5 probes)
+six thermocouple probes (T5 probes)
+
+What are(is) kind of different pressure fuel filter clog indication(s) available
+degrad
+@@clog & degrad
+clog
+
+If the signal from one vibration sensor (either forward or aft vibration sensor) is lost during engine operation,the display for the affected sensor will be presented in
+@@degraded mode.
+normal mode
+cross amber
+
+What are indication ENG speed sensors on the ECAM.
+Nf& N2
+@@N1 & N2
+N1 , N2 &Nf
+
+The No. 4 bearing magnetic chip collector is located
+the lubrication and scavenge oil pump, at the 6 o'clock position..
+@@in the No. 4 bearing oil scavenge line.
+exist in supply oil.
+
+For de-activation thrust reverser Hydraulic Control Unit (HCU), we need to
+@@open the oil tank access-door on the left fan cowl-door, or if necessary, open the fan cowl doors
+open the RH fan cowl door.
+open engine thust reserve doors
+
+Proximity sensors are installed on each latch of fan cowl doors which sends its position signal to
+the Engine lnterface Unit (EIU) & the EEC
+the EEC
+@@the Engine lnterface Unit (EIU)
+
+The engine rotor comprises
+@@a single stage fan rotor, 3 stage LP Compressor,8 stage HP Compressor,2 stage HP turbine and 3 stage Lp turbine.
+a single stage fan rotor, 3 stage LP Compressor,9 stage HP Compressor,2 stage HP turbine and 3 stage Lp turbine.
+a single stage fan rotor, 4 stage LP Compressor,8 stage HP Compressor,2 stage HP turbine and 3 stage Lp turbine.
+
+The inlet cone is made of composite material and is anti-iced with a continuous airflow from
+the HP compressor stage
+@@the 2.5 compressor stage
+the ram air inlet
+
+The Fan rotor contributes to approximately
+70% of the thrust.
+80% of the thrust.
+@@90% of the thrust.
+
+The FDGS permits the LPC to rotate at a higher speed and
+@@helps in reducing the fan rotating speed .
+helps in increasing the fan rotating speed .
+helps in remaining the fan rotating speed constant.
+
+Each half of C ducts includes one translating sleeves, two actuators,
+ten blockers doors and cascades.
+@@five blockers doors and cascades.
+five blockers doors and pivoting doors
+
+A vent grill of fan cowl doors near the 6 o' clock position permits
+@@the air to escape out in case of damage of the anti-ice duct and drain any fluids in and around the fan case
+drain any fluids in and around the fan case
+the air to escape out in case of damage of the anti-ice duct
+
+The lire seal fingers (turkey feathers) at the top ofthe exhaust nozzle prevents
+any flame from entering the nacelle  compartment area in the event of fire.
+@@any flame from entering the core compartment area in the event of fire.
+any flame from entering the fan cowl compartment area in the event of fire.
+
+The FDGS is a reduction gear mechanism which comprises of a central sun gear and
+@@five planetary gears arranged like a star
+four planetary gears arranged like a star
+six planetary gears arranged like a star
+
+A single stage Variable Inlet Guide Vanes (VIGVs) which direct the air to the LP Compressor at the correct angle and
+are controlled by the PHMU
+@@are controlled by the EEC
+are not controlled by the EEC
+
+The aircraft systems are supplied the HP compressor air from
+@@Stage 3 and stage 8.
+Stage 3 and stage 7.
+Stage 3 and stage 6.
+
+TIC which directs the HP Turbine airflow to align with the LP Turbine. It supports
+the number 3 bearing.
+the number 5 & 6 bearing.
+@@the number 4 bearing.
+
+The Air Starter is mounted on
+@@the right side aft of the MGB
+the left  side aft of the MGB
+the fan cowl  area
+
+The forward mount assembly bears
+@@the engine thrust, vertical and lateral loads
+the engine vertical and radial loads
+the engine thrust and radial loads
+
+The annular combustion chamber houses
+@@18 fuel nozzles(6 simplex and 12 duplex)
+18 fuel nozzles(9 simplex and 9 duplex)
+18 fuel nozzles(12 simplex and 6 duplex)
+
+The fan rotational speeds being lower
+@@helps in reducing rotational loads and bird strike fan damage.
+helps in increasing rotational loads and bird strike fan damage.
+helps in reducing rotational loads.
+
+The geared turbo fan engine reduces the CO2 and NOx emissions and provides improved
+fuel efficiency and low cost
+@@fuel efficiency and reduces engine noise.
+fuel efficiency and reduces flight range
+
+The PW1 l00G engine is
+@@an axial flow, dual-rotor, geared fan, variable stator, ultra high bypass ratio power plant.
+an axial flow, dual-rotor, variable stator, ultra high bypass ratio power plant.
+an axial flow, dual-rotor, geared fan, variable stator, high bypass ratio power plant.
+
+When opening the engine cowls:
+Respect the wind limitations and the opening/closing sequence,
+Always secure cowls with the hold-open rods,
+Make sure that the slats are retracted and install a warning notice to prevent slat operation
+@@All above
+
+When an automatic start is manually aborted.
+EEC does dry motor the engine
+@@EEC does not dry motor the engine
+EEC does wet  motor the engine
+
+The EEC will abort a start, will not dry motor the engine and will not attempt a restart if
+@@the starter duty cycle is exceeded.
+EEC unable to control fuel flow
+N 1 locked rotor
+
+The A/THR function is engaged
+manually when the A/THR P/B is selected
+automatically at take-off power application.
+@@manually when the A/THR P/B is selected or automatically at take-off power application.
+
+The usual starter duty cycle is 3 starter crank cycles and
+60 seconds cooling period between each start attempt
+@@35 seconds cooling period between each start attempt
+45 seconds cooling period between each start attempt
+
+The Electronic Engine Control (EEC) is electrically supplied by the A/Celectrical network when
+@@high pressure rotor speed (N2) is below l0%
+the dedicated Permanent MagnetAlternator (PMA) has failed, and then by its dedicated PMA when N2 is above l0%.
+A & B are correct
+
+Track Lock Valve (TLV) solenoids are controlledindependently by SEC.
+independently by EECs.
+independently by LGCIUs.
+@@independently by SEC.
+
+The 3 PW fire detectors are located:
+@@around the AGB, in the Core between the fuel nozzles and the aft circumferential ventilation outlet, at the pylon above the combustion chamber.
+around the AGB, in the Core between the fuel nozzles and the aft circumferential ventilation outlet, at around ventilation exit grid of the fan compartment
+around the AGB, in the Core between the fuel nozzles and around ventilation exit grid of the fan compartment, at the pylon above the combustion chamber.
+
+The consequence of having the HPV secured closed is that the bleed air from the lntermediate Pressure (lP) port will be
+@@insufficient at low engine power settings (taxi, descent, holding)
+sufficient at low engine power settings (taxi, descent, holding)
+A & B are not correct
+
+Each PW1100G engine fire loop comprises:
+Fan fire detector, core fire detector and pylon fire detector
+@@Accessory Gear Box fire detector, core fire detector and pylon fire detector
+Accessory Gear Box fire detector, core fire detector and turbine fire detector
+
+To dispatch aircraft under failure of two engine anti-ice valves?
+Deactivate the valves in open position through the manual override mechanism
+@@Deactivate the valves in closed position through the manual override mechanism
+No dispatch allowed
+
+In this NEO configuration, one BMC can:
+Control and monitor both sides when the other BMC fails
+Report the failure independently of each other
+@@Both A & B
+
+Which Engine Bleed Air System sensor is used by BMC for overpressure alarms?
+@@Bleed Pressure Sensor (BPS)
+Bleed Monitoring Pressure Sensor (BMPS)
+Differential Pressure Sensor (DPS)
+
+Features of PW1100G engine are:
+Axial flow, dual-rotor, variable stator, high bypass ratio power plant
+Radial flow, dual-rotor, variable stator, high bypass ratio power plant
+@@Axial flow, dual-rotor, geared fan, variable stator, ultra high bypass ratio power plant
+
+Engine drains system provides an aerodynamic drain mast protrudes:
+@@Exit holes on the sides and bottom surface which are identified to enable trouble shooting
+Exit holes on the sides which are identified to enable trouble shooting
+Exit holes on the bottom surface which are identified to enable trouble shooting
+
+Each half of reverser cowl doors:
+Is held closed by 4 latches
+@@Is held open by a hold open rod and an opening actuator
+Is held open by two hold open rods
+
+How many fan blades are there at the fan rotor?
+@@20
+24
+36
+
+Which component does help in improving engine performance by reducing fan rotating speed and permitting LPC to higher speed?
+Fan Exit Guide Vane (VIGV)
+Variable Inlet Guide Vanes (VIGV)
+@@Fan Drive Gear System (FDGS)
+
+What kind of bearing is used for bearing compartments (4, 5, 6)?
+Tapered Roller
+Ball
+@@Roller
+
+Is fuel flow used to cool down IDG oil and engine oil through?
+Integrated Fuel Pump and Control
+@@Fuel/Oil Heat Exchanger
+Return-To-Tank valve
+
+The collected fuel remains in ecology collector tank is drawn back into fuel system when?
+@@Next engine start up
+Last engine shut down
+Aircraft is energized
+
+The FADEC consists of?
+EEC and PHMU
+EEC, PHMU and sensors
+@@EEC, PHMU, sensors and output drivers
+
+“Dual Cooling” mode during engine start:
+ECAM Memo “DUAL COOLING” is displayed
+@@Select DUAL COOLING P/B to ON, “COOLING” sequence starts after initiating engine start sequence
+Select DUAL COOLING P/B to ON, “COOLING” sequence starts on both engine
+
+Which sensor is used by the EEC to measure compressor discharge temperature for total temperature calculation :
+T2 sensor
+T2.5 sensor
+@@T3 sensor
+
+Oil Debris Monitoring Sensor:
+@@Detects any type of pollution that crossed its electromagnetic field
+Detects any type of pollution between the main oil scavenge line and oil supply line
+Sends signal corresponding to ferrous and non-ferrous debris to EEC
+
+The hot section of PW1100G turbine engine comprises of?
+HPC, FDGS, FIC, LPC, CIC
+@@Diffuser, Combustor, HPT/TIC, LPT, TEC
+Engine inlet, Compressor and Turbine sections
+
+2.5 Stage Bleed Valve locates at:
+@@Low Pressure Compressor
+Compressor Intermediate Case
+High Pressure Compressor
+
+What are purposes of Prognostics and Health Management Unit (PHMU)?
+Monitor and process levels for engine oil debris and rotor vibration
+Calculate fan trim balance solutions
+Respond to requests from avionics system that are received through EEC
+@@All of above
+
+Each PW1100G engine fire loop comprises:
+Fan fire detector, core fire detector and pylon fire detector
+@@Accessory Gear Box fire detector, core fire detector and pylon fire detector
+AccessoryGear Box fire detector, core fire detector and turbine fire detector
+
+Each engine NAI system consists of:
+@@One command P/B SW and two Pressure Regulating and Shut-Off Valves (PRSOVs)
+Two command P/B SWs andonePressure Regulating and Shut-OffValve (PRSOV)
+Two command P/B SWs and two Pressure Regulating and Shut-OffValves (PRSOVs)
+
+On PW1100G engine anti-ice system, to deactivate an anti-ice PRSOV
+You must open the fan cowls
+You must open the thrust reverser cowls
+@@You can deactivate the PRSOV with the fan cowls and reverser cowls closed
+
+Features of PW1100G engine are:
+Axial flow, dual-rotor, variable stator, high bypass ratio power plant
+Radial flow, dual-rotor, variable stator, high bypass ratio power plant
+@@Axial flow, dual-rotor, geared fan, variable stator, ultra high bypass ratio power plant
+
+Which component does help in improving engine performance by reducing fan rotating speed and permitting LPC to higher speed?
+Fan Exit Guide Vane (VIGV)
+Variable Inlet Guide Vanes (VIGV)
+@@Fan Drive Gear System (FDGS)
+
+What kind of bearing is used for bearing compartments (4, 5, 6)?
+Tapered Roller
+Ball
+@@Roller
+
+Thrust rating of engine is set by
+Entering on MCDU
+@@A DSU (Data Storage Unit) which connects to channel A of EEC
+A DSU (Data Storage Unit) which connects to channel B of EEC
+
+The collected fuel remains in ecology collector tank is drawn back into fuel system when?
+@@Next engine start up
+Last engine shut down
+Aircraft is energized
+
+The FADEC consists of?
+EEC and PHMU
+EEC, PHMU and sensors
+@@EEC, PHMU, sensors and output drivers
+
+To open the PW1100G engine’s thrust reverser cowls
+@@Slats must be fully retracted
+Slats must be fully extended
+Slats can be at any position
+
+The Fan Cowl latches are monitored by proximity switches which send their position signals to
+@@EIU
+EEC
+PHMU
+
+The engine inlet cone is anti-iced with
+@@Continuous airflow from the 2.5 compressor stage
+Continuous airflow from the 3 compressor stage
+Continuous airflow from the 6 compressor stage
+
+Which component modulates flow of oil based on engine power settings?
+@@VORV/JOSV
+FOHEBV
+IDGOOHE
+
+FDGS comprises of
+A central star gear and five sun gears
+A central sun gear and seven star gears
+@@A central sun gear and five star gears
+
+In case of overspeed, EEC will control:
+@@Thrust Control Malfunction (TCM)/Overspeed TM in IFPC
+FMV TM in IFPC
+FDR to stop the fuel in the combustion chamber
+
+What are purposes of Prognostics and Health Management Unit (PHMU)?
+Monitor and process levels for engine oil debris and rotor vibration
+Calculate fan trim balance solutions
+@@All of above
+
+Which mechanical device keeps a continuous supply of oil to the fan drive journal bearings from the auxiliary oil supply in windmill
+@@JOSV
+AODV
+VORV
+
+To open the PW1100G engine’s fan cowls
+@@Slats must be fully retracted
+Slats must be fully extended
+Slats can be at any position
+
+The latches equipped with proximity sensor are
+@@Only fan cowl latches
+Only thrust reverser cowl latches
+Both fan cowls and thrust reverser cowls latches
+
+To deactivate aPW1100G engine’s thrust reverser for maintenance
+@@Turn the lever on the inhibition cable handle assembly to the inhibited position and secure it with the lockout pin
+Inhibit the thrust reverser on the MCDU
+Install the lockout pin on the translating cowls
+
+Thrust rating of engine is set by
+Software loaded to EEC using portable data loader
+Entering on MCDU
+@@A DSU (Data Storage Unit)
+
+Engine oi level should be checked and serviced
+Within 15 to 60 minutes after engine shutdown
+Within 30 to 90 minutes after engine shut down
+@@Within 15 to 120 minutes after engine shutdown
+
+The SAV (Start Air Valve) can be opened manually
+Using a handle on the valve, through an access door on the R/H thrust reverser cowl
+Using a handle on the valve, through an access door on the R/H fan cowl
+@@Using a 3/8” square drive extension, through an access port on the R/H thrust reverser cowl
+
+On a PW1100G engine thrust reverser, the translation sleeves can be opened manually
+Using hydraulic pump
+@@Using manual drive
+Using a built in electric motor
+
+With engine # 1 running on ground, and 01 fan cowl latch of ENG # 1 open
+There is a warning message displayed on upper ECAM to indicate that the fan cowl latch is open
+There is a symbol displayed on upper ECAM to indicate that the fan cowl latch is open
+@@There is NO warning message nor symbol displayed to indicate that the fan cowl latch is open
+
+The push-open device on the fan cowl door
+Holds the fan cowls at open position for maintenance access
+Automatically push the fan cowls to open and locked position
+@@Push two fan cowl doors apart after the last latch released from the latch keeper
+
+After you release the three latches of the fan cowl doors
+You can leave the doors unlatched but not open
+You must open both fan cowl doors
+@@You must either open at least one fan cowl door or re-latch the latches
+
+The two thrust reverse cowl doors
+Can be opened/closed at the same time
+@@Must be opened/closed one after the other
+Must be open one after the other and can be closed at the same time
+
+The HORs (Hold Open Rod) on each fan cowl door are
+02 fixed HORs
+@@01 fixed and 01 telescopic HOR
+02 telescopic HORs
+
+How to make sure a telescopic HOR (Hold Open Rod) is correctly engaged and locked
+@@The green band is visible
+The red band disappears
+The red ban is visible

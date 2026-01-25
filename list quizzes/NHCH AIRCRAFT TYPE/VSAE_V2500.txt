@@ -1,0 +1,571 @@
+What is the FADEC?
+The interface between the Display Management Computer and the Engine Interface Unit.
+@@The EEC, sensors and data input and the engine output devices such as fuel operated actuators and pneumatic valves.
+The Electronic Engine Controller.
+
+Is the same channel of the EEC, always in command?
+Yes - except with channel failure.
+No - command alternates between channels each hour.
+@@No - command alternates between channels on consecutive flights.
+
+If a single data input signal to the EEC fails, will control revert to the other channel?
+Yes - in all cases.
+Yes - in certain identified conditions.
+@@No - the input is used from the other channel.
+
+What is the purpose of the dedicated alternator or permanent magnet alternator (PMA)?
+To supply electrical power for whole aircraft operation.
+@@To supply electrical power for the EEC.
+To supply electrical power for the thrust lever resolver signals.
+
+If both EEC channels failed, what engine power will automatically be set ?
+TOGA, power or maximum power of the day.
+Maximum climb power.
+@@Approximately idle power.
+
+Are both of the EEC controlling channels operationally identical?
+@@Yes.
+No.
+
+Will the channel in back-up mode compute control signals at the same time as the controlling channel?
+@@Yes.
+No.
+
+Identify how many main bearings are in the engine?
+@@Three on the LP rotor and two on the HP rotor.
+Two on the LP rotor and three on the HP rotor.
+Five on the LP rotor and two on the HP rotor.
+
+Identify the thrust/location bearing for the LP and HP rotors?
+2 and 5.
+3 and 5.
+@@1 and 3.
+
+How are the bearing compartments sealed?
+Air supported labyrinth seals.
+@@Air supported carbon seals.
+Combination of labyrinth and hydraulic seals.
+
+Identify which are roller type bearings?
+1, 2 and 4.
+1, 3 and 5.
+@@2, 4 and 5.
+
+Can the lower locking actuators be manually unlocked?
+@@Yes.
+No.
+
+Identify the number of blades in one engine fan set?
+Thirty three (33).
+@@Twenty two (22).
+Thirty two (32).
+
+How many damaged fan blades can be replaced?
+Three.
+Four.
+@@All
+
+What location is engine station 12.5?
+@@Fan bypass air.
+HP Compressor delivery air.
+Fan inlet
+
+The fan inner annulus line is formed by?
+@@Annulus fillers.
+Machining a platform on each blade root.
+The inner annulus assembly.
+
+How many of the turbine stages have internal air cooling?
+@@Two (2) HP only.
+Two (2) HP and three (3) lP.
+All stages.
+
+Cooled compressor stage 12 air (buffer air) is used to?
+Pressurise No 5 bearing compartment.
+@@Cool, seal and scavenge the No4 bearing compartment.
+Pressurise the hydraulic seal in the front bearing compartment.
+
+Is the data entry plug (J6) exchanged if the EEC is replaced?
+Yes.
+@@No.
+Only if the engine is sent for overhaul.
+
+At what speed will the dedicated alternator power the EEC?
+@@At approximately 10% N2.
+At stabilised idle speed.
+At 43% N2 with starter control valve closed.
+
+What additional task must be performed to supply power for the EEC when ground maintenance interrogation is required?
+None
+@@Select the FADEC ground power switch on, after energising the aircraft 28v DC bus – bar
+Select emergency power by the rotary switch.
+
+The T/R hydraulic actuators use which fluid?
+Engine specification lubricating oil.
+Mineral oil.
+@@Aircraft hydraulic system oil.
+
+What provides the EEC channels A & B with a back – up N2 speed signal?
+The frequency of the output of a dedicated single phase winding.
+The Phonic wheel and Pulse probe arrangement on the LP stubshaft.
+@@One of the three phase windings of Channel “B” power generation.
+
+How is movement of the thrust lever sensed by the EEC?
+@@Electrical signals from the dual output throttle resolver.
+A cable and pulley input to resolvers in the EEC.
+By dual thrust level rod input to the mechanical box.
+
+What is the primary mode setting and controlling steady state engine power?
+@@Fuel flow scheduled to deliver EPR - closed loop control.
+Fuel flow scheduled to deliver N1 - closed loop control.
+N1 set by thrust lever position – open loop.
+
+How is the fuel flow signal transmitted from the EEC to the fuel metering valve?
+Mechanically - thrust resolver angle (TRA).
+@@Electrically - changes in electrical current value.
+Electrically – changes in voltage level.
+
+Will aircraft dispatch be permitted (Refer to MEL) If EEC cannot compute actual EPR?
+@@Yes - with rated N1 available.
+No.
+Yes - select unrated N1 mode.
+
+What power level is set if auto thrust is lost?
+Forward idle.
+@@Manual thrust lock position (Frozen).
+TOGA power.
+
+The actual fuel flow signal to the EEC control circuits originates from?
+@@Dual position resolver driven by the fuel metering valve.
+The mass fuel flow meter.
+Computed from the thrust lever resolver angle (TRA).
+
+In autothrust mode, will changes in engine power cause movement of the thrust lever?
+Yes - by a servo motor mechanism.
+Yes - but only in the thrust lock mode.
+@@No - autothrust is based on a fixed thrust lever concept.
+
+What type of pump is the LP fuel pump?
+Sliding vane positive displacement.
+Spur gear.
+@@Centrifugal impeller.
+
+Where are the fuel pumps located?
+On the rear of the main gearbox, LP pump on the RH side and the HP pump on the LH side.
+@@The LP and HP pump form a single unit (LRU) on the rear LH side of the main gearbox.
+The combined pump unit is on the front face of the gearbox.
+
+Where is the fuel temperature measured on the engine?
+At the inlet to the fuel oil heat exchanger.
+@@At the outlet from the LP filter.
+At the outlet from the HP fuel pump.
+
+The HP fuel system is protected against excessive pressure by?
+@@A relief valve venting excess pump delivery pressure to the pump inlet.
+A relief valve in the FMU vents excess pressure to the diverter valve.
+A bypass valve in the LP filter outlet case opens.
+
+A differential pressure switch on the LP fuel filter case indicates?
+@@Partial blockage of the LP fuel filter.
+The LP fuel filter bypass valve is open.
+A low fuel pressure.
+
+How is icing/waxing of the fuel prevented at low temperatures?
+By a fuel heater in the HP fuel system.
+@@Heat from the engine oil system transfers to the LP fuel in the fuel/oil heat exchanger.
+By alteration of the fuel metering valve position and directly change the fuel flow to the combustion system.
+
+How does the FMU schedule the fuel supply to the engine?
+@@By positioning a pressure drop/spill valve to change the flow rate of return fuel to the LP system.
+By changing the pump delivery rate to match the engine requirement.
+By positioning of the fuel metering valve and directly change the fuel flow to the combustion system.
+
+How many torquemotors are used in the FMU?
+@@Three.
+Two plus one solenoid.
+Four.
+
+Where is the Fuel Metering Unit located?
+@@Bolted onto the dual fuel pumps unit.
+Clamped to the gearbox rear face, LH side.
+Bolted to the bottom of the fan case.
+
+The EEC interface with the Fuel Metering Valve is by?
+A two position torquemotor.
+A three position solenoid.
+@@A modulating torquemotor.
+
+where is the pressure drop/spill valve located?
+In the HP fuel pump.
+@@In the FMU.
+In the fuel diverter valve.
+
+what positions the spill valve?
+Signals from a modulatingtorquemotor.
+Resolver signals from the fuel metering valve.
+@@The pressure drop governor movement.
+
+Servo fuel for the fuel operated actuators is supplied from?
+The HP pump inlet.
+The delivery tube between the HP pump and the FMU.
+@@Directly from the Fuel Metering Unit.
+
+How many fuel distributor lines and spray nozzles are in the system?
+Ten lines and ten fuel spray nozzles.
+@@Ten lines and twenty fuel spray nozzles.
+Twenty lines and twenty fuel spray nozzles.
+
+The Overspeed valve and the PRSOV are opened by?
+Signals from the EEC to a modulating torquemotor.
+Signals from the EEC to a micro switch.
+@@Metered fuel pressure.
+
+What type of fuel nozzles are used?
+Duplex.
+Simplex.
+@@Airspray.
+
+Fuel samples can be taken from?
+@@The LP fuel filter cover.
+The LP fuel pump case.
+The HP fuel pump outlet.
+
+What letter should be visible in the “Switch window” of an FMU 8061 – 637 (V2530 & V2533)?
+@@“X”.
+“O”.
+No letter displayed.
+
+What range of engine thrust ratings is applicable to a “switchable” FMU, which is set to show ”O” in the switch window?
+30K & 33K.
+@@22K, 24K & 27K.
+All possible engine ratings.
+
+In normal engine operation, has the air/oil heat exchanger, total oil flow through the unit at all conditions?
+@@Yes.
+No.
+
+Is the fuel diverter valve a modulating valve?
+@@No.
+Yes.
+Sometimes.
+
+The fuel diverter valve is positioned by?
+@@A solenoid.
+A modulating torquemotor.
+A two position torquemotor.
+
+Is the fuel return to tank flow modulating?
+No.
+Sometimes.
+@@Yes.
+
+Is the fuel return to tank valve controlled by?
+A two position torquemotor.
+A solenoid.
+@@A modulating torquemotor.
+
+The combined fuel diverter and return to tank valve (FDRV) is located on?
+The HP fuel pump case.
+@@Bolted to the rear of the fuel/oil heat exchanger.
+Bolted to the main gearbox.
+
+What flight conditions inhibit the fuel return to tank flow?
+All conditions when engine is operating and aircraft is in flight.
+@@High power conditions, take – off and early climb.
+High altitude above 25,000 feet (7576m) in cruise,
+
+The air starter is located?
+@@On the front of the accessory gearbox.
+On the rear of the accessory gearbox.
+On the intermediate case.
+
+What restrictions are imposed by the AMM when opening the fan cowl doors?
+Engine temperature.
+@@Wind speeds.
+
+When is the auxiliary latch assembly (take up device) to be used?
+For the opening of the thrust reverser “C” ducts.
+For the closing of the thrust reverser “C” ducts.
+@@For opening and closing of the thrust reverser “C” ducts.
+
+Is it possible to open the thrust reverser “C” ducts when the fan cowl doors are closed?
+Yes.
+@@No.
+
+What must be checked before opening the thrust reverser “C” ducts?
+Ensure that the leading edge slats are retracted.
+Ensure that the thrust reverser is in the fully stowed position.
+@@Ensure that FADEC ground power is off, leading edge slats are retracted and the thrust reverser is in the stow position.
+
+What is the hydraulic fluid used in the hand pump that opens and closes the “C” ducts?
+@@Engine oil.
+Hydraulic oil.
+Fuel.
+
+Where is zone 1 located?
+@@Engine fan case (intermediate case).
+Core engine.
+Upper pylon area.
+
+Where is the zone 2 located?
+Engine fan case (intermediate case).
+@@Core engine.
+Upper pylon.
+
+What is the fire detection system for the V2500 engine called?
+@@Systron Donner firewire system.
+Fenwall fire cable system.
+Graviner heat sensing elements.
+
+Where is the fire detection system located about the engine?
+Zone 1.
+Zone 2.
+@@Zone 1 and 2.
+
+What alert level and message is generated to the ECAM CRT when the fire detection system has operated?
+@@Alert class 1 level 3 and engine fire.
+Alert class 1 level 3 and engine overheat.
+Alert class 1 level 2 and engine overheat.
+
+What indication is used to represent Low - Pressure shaft speed?
+@@N1.
+N2.
+LPC.
+
+How many stages has the Low Pressure Compressor?
+One fan stage.
+One fan stage and one stage LPC.
+@@One fan stage and three (A1) or four (A5) LPC stages.
+
+How many stages has the Low Pressure Turbine?
+@@Five.
+Seven.
+Two plus five stage.
+
+The HP compressor has how many stage?
+Twelve.
+Fourteen.
+@@Ten.
+
+How are the LP Compressor stages numbered?
+1,2,3.
+@@1.5, 2, 2.3 (A5 only), 2.5.
+2,3,4.
+
+What is the purpose of the LP stubshaft?
+Provide the drive to the angle gearbox.
+@@Transmits the drive from the LPT shaft to the fan disk.
+Transmits the drive from the angle gearbox to the main gearbox.
+
+Where are the locations of the engine mounting points?
+The HPT case and the intermediate module.
+The LPT case and the fan case.
+@@The LPT exhaust case and the rear of the intermediate module.
+
+In low temperature start conditions, how is the oil system protected from high pump delivery pressure?
+@@A relief valve set at 450 psi, return pressure to the oil tank.
+Excess pressure vents to the gearbox.
+With the low oil temperature the pressure pump output is restricted.
+
+Does the pressure filter of the oil systemhas a bypass valve fitted?
+Yes.
+@@No.
+There is no pressure filter in the system.
+
+Which filters in the oil system have associated “filter clog” messages on the ECAM?
+Pressure, Scavenge and Scavenge strainers.
+Pressure only.
+@@Scavenge only.
+
+How is the main cooling of the oil system achieved?
+By an air - cooled oil cooler.
+By a fuel - cooled oil cooler in the HP fuel system.
+@@By as fuel - cooled oil cooler in the LP fuel system.
+
+How many Scavenge pumps are in the oil system?
+Five.
+Seven.
+@@Six.
+
+What is the total number of magnetic chip detectors in the oil system?
+@@Seven.
+Five.
+Six.
+
+Which location should be checked to confirm debris found on the magnetic chip detectors (MCD’s)?
+The scavenge strainers.
+@@The scavenge filter.
+The pressure filter.
+
+How is access gained to check the master MCD?
+Open the RH fan cowl.
+Dedicated access panel in LH “C” duct.
+@@Dedicated access panel in the LH fan cowl.
+
+The oil quantity can be checked by?
+@@Opening a dedicated servicing access panel in the LH fan cowl.
+Opening an access panel on the LH “C” duct.
+Opening the RH fan cowl.
+
+Which normal indications are displayed on the ECAM for the oil system?
+@@Oil differential pressure, oil temperature, oil tank quantity.
+Oil temperature, oil pressure.
+Oil differential pressure, oil quantity, oil temperature and No 4 bearing scavenge valve position.
+
+Is oil removed from the No 4 bearing chamber by?
+A dedicated scavenge pump.
+Air cooled air cooler (buffer) air.
+@@Air pressure through the carbon seals.
+
+Why is a compressor airflow control system used on the V2500?
+@@To maintain adequate surge margin for compressor operation.
+To give adequate bleed airflow for aircraft services.
+To give stable operation of compressor at cruise condition.
+
+The compressor airflow system is controlled by?
+The Bleed Monitoring Computer (BMC).
+@@The Electronic Engine Control (EEC).
+The Compass system.
+
+The airflow control system is a combination of which sub-systems?
+Stage 7 and 10 bleed valves and aircraft service bleed.
+@@LP compressor bleed valve, variable inlet guide vanes, variable stator vanes and stage 7 and 10 bleed valves.
+Variable inlet guide vanes, LP compressor bleed valve and stage 8 vortex reducer off – take.
+
+Which compressor bleed valve fully modulating?
+Stage 7.
+@@Stage 2.5.
+Stage 10.
+
+The actuators for the LP compressor (2.5) bleed valve are located?
+On the fancase.
+On the HP compressor case.
+@@On the rear of the intermediate case.
+
+What type is the LP compressor bleed valve?
+Multi - port.
+@@Fully modulating continuous ring.
+2 position annulus slider.
+
+The operating servo pressure in the VSV system actuator is?
+Stage 10 air pressure.
+@@HP fuel pump delivery pressure (via FMU).
+Aircraft hydraulic system pressure.
+
+Have the VIGV’s and VSV’s separate actuators?
+Yes.
+@@No.
+
+Is the VSV system position indicated on the ECAM during flight?
+Yes.
+@@No.
+Only in transient operation.
+
+VIGV/VSV’s are fitted at which stages of the HP compressor?
+3, 4, 5 & 6 (A1) and 3, 4 & 5 (A5).
+@@Inlet, 3, 4, 5 & 6 (A1) and Inlet, 3, 4 & 5 (A5).
+Inlet, 3, 4, 5, 6 & 7 (A1) and Inlet, 3, 4, 5 & 6 (A5).
+
+The servo control pressure to operate the stage 7 & 10 bleed valves is from?
+P2.5 pressure.
+HP fuel pump pressure.
+@@P3 (Pb) pressure.
+
+Are all stage 7 bleed valves operate in transient conditions?
+Yes.
+@@No.
+
+How many stage 7 & 10 bleed valves are on the engine?
+@@3 stage 7, 1 stage 10.
+2 stage 7, 2 stage 10.
+1 stage 7, 3 stage 10.
+
+Air is supplied from which source for engine ice protection?
+Fan delivery.
+@@HP compressor stage 7.
+HP compressor stage 10.
+
+Is the nose cone (spinner) supplied with anti - icing air?
+Yes.
+@@No.
+Only in icing conditions.
+
+The anti - ice air overboard discharge grille is located?
+On the outboard side of the inlet cowl.
+On the right side fan cowl door.
+@@On lower right side of the inlet cowl.
+
+Which area of the inlet cowl has ice protection?
+The entire cowl.
+The outer skin surface only.
+@@The inlet cowl lip or “D” section.
+
+When and how is the P2/T2 probe heated?
+@@Automatically & continuously, when the engine is running, by 115v supply.
+Only if selected by the pilot by 115v supply.
+Continuously at all conditions, by stage 7 air.
+
+The anti - ice control valve can be manually locked open for?
+@@Despatch of aircraft with valve inoperative.
+Engine operation when icing conditions will not be met.
+Valve is never locked for any operating conditions.
+
+The N1 (LP) speed signal is sensed from?
+@@Speed probes interacting with a phonic wheel in the front bearing compartment.
+A tachometer generator fitted into the accessory gearbox.
+Speed probes located in the LP Turbine.
+
+The indicated N2 speed is measured from?
+Speed probes and a phonic wheel.
+@@A dedicated frequency probe (primary) and the frequency of 1 phase of channel B, 3 phase power supply (secondary) of the dedicated alternator (PMA).
+A tachometer generator fitted into the accessory gearbox.
+
+Which engine parameters are displayed on the ECAM upper display?
+EPR, N1 & N2.
+N1, N2, EPR, oil pressure, oil temperature.
+@@N1, N2, EPR & EGT.
+
+When will the engine secondary parameters be displayed on the lower ECAM?
+@@When selected and during certain engine conditions.
+Only if a fault occurs.
+Continuously during engine operation.
+
+Which speed signals are supplied to the Engine Vibration Monitoring Unit?
+N1 only.
+N2 only.
+@@N1 and N2.
+
+What is the preferred bolt ring that the balancing weights should be attached to?
+The 22 Annulus Filler bolt ring.
+The 24 Nose Cone bolt ring.
+@@The 36 Front Retaining Disc bolt ring.
+
+How is access to the front blade retaining ring 24 bolt hole flange achieved?
+@@Remove the 6 bolts retaining the Nose cone fairing and remove the fairing.
+Remove the nose cone and fairing.
+Remove the annulus filler.
+
+How is the front blade retaining ring secured to the fan disk?
+By 22 annulus filler safety bolts.
+By a ring of 24 bolts.
+@@By a ring of 36 bolts.
+
+How is the front blade retaining ring removed from the fan disk?
+@@By the use of 6 specially designed “extractor” bolts inserted into specially designed threaded holes.
+By the use of 4 “puller” bolts inserted into the 36 bolt hole flange threaded holes.
+By the use of a special “lever” tool.
+
+Where on the fan blade is data recorded?
+On the fan module data plate.
+@@On the fan blade root.
+On the blade front retaining plate.
+
+The fan inner annulus line is formed by?
+@@Annulus fillers.
+Machining a platform on each blade root.
+The inner annulus assembly.
+
+What is the minimum duct pressure required before initiating a start cycle?
+@@30 - 40 psi.
+50 - 60 psi.
+20 - 30 psi.

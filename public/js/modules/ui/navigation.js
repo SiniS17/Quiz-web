@@ -1,4 +1,4 @@
-// modules/ui/navigation.js - Quiz List and Folder Navigation with FIXED Multi-Quiz Level Counting
+// modules/ui/navigation.js - Quiz List and Folder Navigation
 import CONFIG, { getQuizFilePath } from '../../config.js';
 import { fetchQuizList, fetchQuizContent } from '../api.js';
 import { showNotification } from './notifications.js';
@@ -209,14 +209,14 @@ function createBackButton(folder) {
   backButton.className = 'quiz-box back-button';
   backButton.innerHTML = '<i class="fas fa-arrow-left"></i> Back to Categories';
 
-    backButton.onclick = () => {
-      const parentFolder = folder.split('/').slice(0, -1).join('/');
-      if (!parentFolder) {
-        window.location.hash = '#/';
-      } else {
-        window.location.hash = `#/folder/${parentFolder.split('/').map(encodeURIComponent).join('/')}`;
-      }
-    };
+  backButton.onclick = () => {
+    const parentFolder = folder.split('/').slice(0, -1).join('/');
+    if (!parentFolder) {
+      window.location.hash = '#/';
+    } else {
+      window.location.hash = `#/folder/${parentFolder.split('/').map(encodeURIComponent).join('/')}`;
+    }
+  };
 
   return backButton;
 }
@@ -305,11 +305,10 @@ function createFolderBox(folderName, currentFolder, hasInvalid = false) {
     ${warningIcon}
   `;
 
-    folderBox.onclick = () => {
-      const fullPath = currentFolder ? `${currentFolder}/${folderName}` : folderName;
-      // Update hash, let router handle the rest
-      window.location.hash = `#/folder/${fullPath.split('/').map(encodeURIComponent).join('/')}`;
-    };
+  folderBox.onclick = () => {
+    const fullPath = currentFolder ? `${currentFolder}/${folderName}` : folderName;
+    window.location.hash = `#/folder/${fullPath.split('/').map(encodeURIComponent).join('/')}`;
+  };
 
   return folderBox;
 }
@@ -399,15 +398,16 @@ function createQuizBox(file, folder, validation, showCheckbox = false) {
       }
 
       // No quizzes selected - allow normal single quiz start
-      initializeQuiz(filePath, folder);
+      // Use URL routing
+      const fullPath = folder ? `${folder}/${file}` : file;
+      window.location.hash = `#/quiz/${fullPath.split('/').map(encodeURIComponent).join('/')}`;
     };
   } else {
     // No checkbox mode - normal single quiz start
     quizBox.onclick = (e) => {
-    // Construct full path for the URL
-    const fullPath = folder ? `${folder}/${file}` : file;
-    window.location.hash = `#/quiz/${fullPath.split('/').map(encodeURIComponent).join('/')}`;
-  };
+      const fullPath = folder ? `${folder}/${file}` : file;
+      window.location.hash = `#/quiz/${fullPath.split('/').map(encodeURIComponent).join('/')}`;
+    };
   }
 
   return quizBox;
@@ -472,7 +472,6 @@ function updateMultiQuizButton() {
 
 /**
  * Start multi-quiz with combined questions
- * PHASE 1 FIX: Added recountLevelsForQuestions() after combining all questions
  */
 async function startMultiQuiz(filePaths, folder) {
   showLoading('Loading Combined Quiz', 'Combining questions from multiple quizzes...');
@@ -506,26 +505,8 @@ async function startMultiQuiz(filePaths, folder) {
       return;
     }
 
-    // ============================================
-    // PHASE 1 FIX: Recount levels for the COMBINED question array
-    // This treats the combined banks as ONE unified bank
-    // ============================================
-    console.log('====================================');
-    console.log('PHASE 1 FIX: Multi-Quiz Level Recounting');
-    console.log('====================================');
-    console.log(`📦 Combined ${filePaths.length} banks into one unified quiz`);
-    console.log(`📊 Total questions: ${allQuestions.length}`);
-
-    // Clear and recount levels as if this is ONE bank
+    // Recount levels for the COMBINED question array
     recountLevelsForQuestions(allQuestions);
-
-    const levelCounts = getLevelCounts();
-    console.log('✅ Level counts after recounting:', levelCounts);
-    console.log('💡 Each count = number of questions that HAVE that level');
-    console.log('====================================');
-    // ============================================
-    // END PHASE 1 FIX
-    // ============================================
 
     // Set a combined filename for state tracking
     setSelectedFileName(`Combined (${filePaths.length} quizzes)`);
@@ -545,7 +526,6 @@ async function startMultiQuiz(filePaths, folder) {
     updateQuizInfo(allQuestions.length);
 
     // Create level checkboxes and question count input
-    // These will now show CORRECT counts (not inflated)
     createTopLevelCheckboxes();
     setupTopQuestionCountInput(allQuestions);
 
@@ -598,7 +578,12 @@ export function goBackToFolder() {
     'Return to Folder?',
     `Are you sure you want to go back to the quiz selection? Your current progress will be lost.`,
     () => {
-      listQuizzes(folder);
+      // Replaced listQuizzes with hash navigation
+      if (!folder) {
+        window.location.hash = '#/';
+      } else {
+        window.location.hash = `#/folder/${folder.split('/').map(encodeURIComponent).join('/')}`;
+      }
     }
   );
 }
@@ -615,11 +600,11 @@ export function goHomeWithConfirmation() {
       'Return to Home?',
       `Are you sure you want to return to the main menu? Your current progress will be lost.`,
       () => {
-        listQuizzes('');
+        window.location.hash = '#/';
       }
     );
   } else {
-    listQuizzes('');
+    window.location.hash = '#/';
   }
 }
 

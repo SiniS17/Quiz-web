@@ -23,7 +23,8 @@ function handleRoute() {
   const parts = hash.substring(2).split('/'); // Remove #/
   const type = parts[0];
   const encodedPath = parts.slice(1).join('/'); // Rejoin the rest
-  const path = parts.slice(1).map(decodeURIComponent).join('/');
+  // Important: decode the individual parts to form the valid path
+  const path = parts.slice(1).map(p => decodeURIComponent(p)).join('/');
 
   console.log(`📍 Routing to: ${type} -> ${path}`);
 
@@ -31,18 +32,21 @@ function handleRoute() {
     listQuizzes(path);
   }
   else if (type === 'quiz') {
-    // For quizzes, we need to separate folder and filename
-    // Path example: "Category 1/Systems/Hydraulics.txt"
+    // Corrected Logic:
+    // initializeQuiz expects the FIRST argument to be the full relative path
+    // (e.g. "A320/ATA.txt") which matches 'path'.
+    // It uses the second argument 'folder' for state tracking.
+
     const lastSlashIndex = path.lastIndexOf('/');
     let folder = '';
-    let fileName = path;
 
     if (lastSlashIndex !== -1) {
       folder = path.substring(0, lastSlashIndex);
-      fileName = path.substring(lastSlashIndex + 1);
     }
 
-    initializeQuiz(fileName, folder);
+    // Pass 'path' as the filename because the app expects the full path string
+    // for the API fetch to work correctly.
+    initializeQuiz(path, folder);
   }
 }
 
@@ -83,8 +87,6 @@ function setupEventListeners() {
 
       if (hasActiveQuiz) {
         // Use the confirmation logic, but redirect via hash on success
-        // We redefine the callback behavior locally or update the hash directly
-        // For simplicity, we assume user wants to go home:
         if (confirm('Return to Home? Your progress will be lost.')) {
            window.location.hash = '#/';
         }

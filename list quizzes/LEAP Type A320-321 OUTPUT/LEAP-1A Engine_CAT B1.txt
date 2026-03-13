@@ -1,0 +1,500 @@
+What can you do when operate Engine Leap 1-A at idle power:
+@@Open fan cowl door
+Open thrust reverser cowl
+Supply hydraulic power through hydraulic ground power cart
+
+When starting the Engine Leap 1-A (Normal Automatic Start), unsatisfactory start occurs:
+You must set Master switch to OFF, and restart
+EEC will automatically start 1 more time before it will abort the start
+@@EEC will automatically start 2 more times before it will abort the start
+
+How to make sure Engine Leap 1-A Fan cowl door fully locked:
+@@Make sure 03 latch handles are fully locked and flush with the fan cowl surface and the flag on the LH Fan cowl door is fully retracted.
+Make sure that all the latch handles stay in the fan cowl slots and are aligned with the adjacent fan cowl surface. And the key removed after turnback to lock position.
+Use a SCREWDRIVER to push the pin towards the door locator then make sure that all the latches stay in the fan cowl slots and are aligned with the bottom of the adjacent cowl surface and the key removed.
+
+If you see the red flag shown on the Eng Leap 1-A LH Fan cowl door, what does it mean:
+@@Fan cowl latch keeper No.1 opened (AMM 71-13-00-00 CONF 03)
+All Reverser latches opened.
+All Fan cowl and Reverser latches opened.
+
+The warning message “Eng 1(2) Fan Cowl Not CLSD” come into view when:
+Engine Fan cowl door latch No.1 opened.
+@@At least 02 Fan cowl door latches opened.
+All Fan cowl door latches opened.
+
+How does Anti-icing system working on Eng Leap 1-A Air Intake :
+@@The hot air from the Engine is supplied to the nose lip assembly of Air intake
+The hot air from the Engine is supplied to the inner barrel of Air intake
+The hot air from the Engine is supplied to the outer barrel of Air intake
+
+How many zones are Drain system divided to:
+2 zones : Fan and core, Turbine
+@@3 zones : Fan, Core, Turbine (AMM 71-00-00-00 CONF 03)
+4 zones : Fan, Core, Turbine, Pylon
+
+What types of fluid you can find on fan zone drainmast:
+Oil and fuel
+@@Oil and hyraulic fluid and fuel (AMM 71-00-00-00 CONF 03)
+Oil and hydraulic fluid
+
+For CFM – LEAP 1A Engine, the Engine fan cowl door latches opening sequence is:
+L1 - L2 - L3
+@@L1 - L3 - L2
+L2 - L1 - L3
+
+How many holds open rod of Eng Leap 1-A nacelle:
+1 rod for Fan Cowl and 1 rod for Reverser
+@@2 rod for Fan Cowl and 1 rod for Reverser
+2 rod for Fan Cowl and 2 rod for Reverser
+
+How many strake installed on Engine Leap 1-A Fan Cowl door:
+1 for each Engine, on the right Fan cowl door
+1 for each Engine, on the left Fan cowl door
+@@2 for each Engine, 1 on each Fan cowl door
+
+What should you check before open the Engine Leap 1-A Fan cowl door:
+@@Slat in fully retracted position (AMM 71-13-00-010-803)
+Flap in fully retracted position
+Parking brake applied
+
+How many Fan Cowl Door latches are there on CFM-LEAP 1A?
+2
+@@3
+8
+
+For CFM – LEAP 1A Engine, the Engine fan cowl door latches opening sequence is:
+L1 - L2 - L3
+@@L1 - L3 - L2
+L2 - L1 - L3
+
+How to turn N2 rotor manually:
+With hand by turning Fan blades
+@@with core engine rotation and adapter offset crankpad tools and electric turnover tool
+Cannot turn N2 rotor manually
+
+When there is Evidence of the FOD or the bird debris has entered the booster inlet, Borescope inspection can be deferred within:
+10 FH or 25 FC
+@@25 FH or 10 FC
+20 FH or 15 FC
+
+Special caution when washing engine:
+@@Do not wash an engine unless the egt is below 150 deg.f (66 deg.c).
+Do not wash an engine at temperature above 14 deg.f (-10 deg.c).
+Engine can be washed anytime needed
+
+Maximum serviceable limit for OGV platform to be missing:
+@@No more than 3 platforms are affected
+No more than 3 adjacent platforms are affected
+Any amount can be missing
+
+Fan blade tip rub with frayed carbon fiber
+Must be replaced
+@@Any amount is acceptable
+Need Engine borescope inspection
+
+How many Inector Nozzles are stage 1 High Pressure Turbine (HPT) Nozzle Assembly (CAT B1)
+@@The stage 1 HPT nozzle assembly contains 18 two-nozzle segments for a total of 36 stator nozzle. Each stator nozzle has a thermal barrier coating and contains holes for cooling. The nozzle segment are supported at the inner band by the front inner HPT nozzle support.
+The stage 1 HPT nozzle assembly contains 36 two-nozzle segments for a total of 36 stator nozzle. Each stator nozzle has a thermal barrier coating and contains holes for cooling. The nozzle segment are supported at the inner band by the front inner HPT nozzle support.
+The stage 1 HPT nozzle assembly contains 24 two-nozzle segments for a total of 36 stator nozzle. Each stator nozzle has a thermal barrier coating and contains holes for cooling. The nozzle segment are supported at the inner band by the front inner HPT nozzle support.
+
+Stage 2 HPT Nozzle Assembly operation?
+The HPT stator case and stage 1 HPT stator nozzle comprise the stationary portion of the HPT consisting of the stage 1 and stage 2 HPT stator hangers, the stage 1 and stage 2 HPT stator shrouds and stage 2 HPT stator nozzles. The HPT stator case is used to contain high-pressure high-temperature air.
+@@The HPT stator case and stage 2 HPT stator nozzle comprise the stationary portion of the HPT consisting of the stage 1 and stage 2 HPT stator hangers, the stage 1 and stage 2 HPT stator shrouds and stage 2 HPT stator nozzles. The HPT stator case is used to contain high-pressure high-temperature air.
+The HPT stator case and stage 2 HPT stator nozzle comprise the stationary portion of the HPT consisting of the stage 1 and stage 2 HPT stator hangers, the stage 1 and stage 2 HPT stator shrouds and stage 2 HPT stator nozzles. The HPT stator case is used to contain low-pressure low-temperature air.
+
+How many nozzole airfoils in stage 1 HPT ?
+@@36
+19
+24
+
+How many Outlet Guide Vanes (OGVs) on ENG ?
+42
+@@41
+40
+
+The Transfer Gear Box (TGB) Position on ENG ?
+@@The TGB is located on the fan frame, at 8 o'clock position (ALF).
+The TGB is located on the fan frame, at 9 o'clock position (ALF).
+The TGB is located on the fan frame, at 12 o'clock position (ALF).
+
+During installing the main fuel filter bowl to the housing, if there is a sudden decrease in torque: (CAT B1)
+Continue to tighten the fuel filter bowl by hand.
+@@Remove the fuel filter bowl and do an inspection of the o-ring and backup rings for damage.
+Use a torque wrench to perform the final seating of the fuel filter bowl (not to exceed 50 lbf.ft)
+
+The fuel LPSOV is controlled to open/close by:
+An electric motor
+@@A dual electric motor
+A dual servo fuel motor
+
+The fuel temp sensor of engine fuel system is:
+@@Downstream of fuel flow meter
+Upstream of the fuel flow meter
+Downstream of FMV
+
+The Fuel Return Valve (FRV) is controlled via:
+@@Torque motor by the EEC depending on the fuel temperature.
+Torque motor by the EEC depending on the fuel flow.
+Torque motor by the EEC depending on the thrust lever angle (TLA).
+
+The IDG fuel oil heat exchanger (FOHX) get cool fuel from:
+The FMV bypass
+Servo fuel return
+@@Fuel boost pump
+
+The fuel pressure sensor is located on:
+@@Pilot Primary/Main enriched manifold (PPMe)
+Pilot Primary/Main non-enriched manifold (PPMne)
+Pilot Secondary manifold (Psec)
+
+Sensor is installed in the flow path, on the air inlet duct:
+P2T2
+@@T12
+T3
+
+When message “ENG 1(2) FUEL FILTER CLOG” trigger on ECAM:
+A/C No Dispatch
+A/C is Serviceable
+@@Alert is confirmed to be false by Troubleshooting and associated Filter is replaced every day
+
+Rating Plug is located on:
+PMA
+EEC
+@@PSS Box
+
+Split Control Unit (SCU)/Servo Valve Assembly (SVA) convert the EEC signals to:
+Air Pressure
+Fuel Temperature
+@@Hydraulic Flows
+
+PMA gives:
+N2 Speed Signal to EEC
+@@Electric Power to each EEC
+N2 Speed Signal to EEC and Electric Power to each EEC
+
+What is main function of main fuel pump?
+To give fuel pressure and flow.
+To protect the fuel system from over-pressuriztion with bypass valve
+@@To give fuel pressure and flow and to protect the fuel system from over-pressuriztion with bypass valve.
+
+What is connected to the centrifugal boost stage in main fuel pump?
+Inlet is connected to the aircraft fuel system, outlet is connected to main fuel filter
+@@Inlet is connected to the aircraft fuel system, outlet is connected to the idg oil cooler
+Inlet is connected to the main heat exchanger, outlet is connected to the main fuel filter
+
+What is connected to the high stage boost stage in main fuel pump?
+Inlet is connected to the aircraft fuel system, outlet is connected to main fuel filter
+Inlet is connected to the aircraft fuel system, outlet is connected to the idg oil cooler
+@@Inlet is connected to the main heat exchanger, outlet is connected to the main fuel filter
+
+What is the main function of the servo fuel heater?
+Uses cold fuel to cool the engine oil
+@@Uses hot engine oil to heat the fuel.
+Uses cold fuel to cool the engine oil and uses hot engine oil to heat the fuel.
+
+What is the fuel outlet connection of servo fuel heater?
+Fuel metering unit and servo valve assembly
+Split control unit and servo valve assembly
+@@Fuel metering unit and split control unit/servo valve assembly.
+
+What are the functions of fuel return valve?
+@@To regulate the level of fuel flow being returned to the fuel tank and to allow more cold fuel to be deliveried to the idg oil cooler
+To regulate the level of fuel flow being returned to the fuel tank and to allow more cold fuel to be deliveried to the fcoc.
+To regulate the level of fuel flow to the fuel nozzle and to allow more cold fuel to be deliveried to the idg oil cooler
+
+What does the propulsion control system consist in?
+Eiu and eec
+@@Eiu and fadec system
+Fadec system
+
+What are the directly inlets of fuel to the FMU?
+@@The idg oil cooler, main fuel filter and servo fuel heater
+Lp valve, main fuel filter and servo fuel heater
+Main fuel pump, main fuel filter and idg oil cooler.
+
+Which Ignition system is supplied by ESS BUS:
+@@System A
+System B
+System A for Eng 1 and System B for Eng 2
+
+During Ignition test, the EEC will abort the Ignition Test function when
+N2 is less than 10 percent
+TLA (Throttle Level Angle) at idle state.
+@@Engine not in default start state
+
+As required by procedure, circuit breaker of ENGINE/1 AND 2/IGN/SYS A need be PULLED OUT during:
+C/o Dry crank ENGINE
+@@C/o automatic engine start with IGN A fault
+C/o Ignition test (menu mode).
+
+During automatic engine start, ECAM alert ENG X START FAULT-ENG X IGNITION FAULT appears if:
+Immediately auto start attempt fails
+The EEC accommodation for a ground auto start No Light Up condition and this auto-restart attempt fails.
+@@The EEC accommodation for a second ground auto start No Light Up condition and this auto-restart attempt fails.
+
+During the engine auto-start, the first and second automatic starting attempts performed by the EEC fail. Light-off typically achieved on the third automatic attempt. Choose correct action:
+@@If the fault did not occur again within the next three engine starts, then no maintenance action is needed
+Immediately do the operational ignition test on channel A and B, with engine non-motoring
+Replace PLUG-IGNITER
+
+During automatic engine start. Ignition is TURN OFF when
+@@At 55 percent N2
+At 55 percent N1
+At 50 percent N1
+
+Which procedure below requires IGN Circuit Breakers to be pulled out during performance?
+Manual start
+Dry-motoring check
+@@Wet-motoring check
+
+Which channel in control of the Electronic Engine Control (EEC) activates the ignition system?
+@@EEC channel A connects 115V AC to the ignition exciter 1 and EEC channel B connects 115V AC to the ignition exciter 2
+EEC channel A and B connect 115V AC to the ignition exciter 1 and 2
+EEC channel A connects 115V AC to the ignition exciter 2 and EEC channel B connects 115V AC to the ignition exciter 1
+
+The High Pressure Compressor (HPC) controls include
+The Variable Bleed Valve (VBV) system.
+The Variable Stator Vane (VSV) system.
+@@The Variable Bleed Valve (VBV) system, The Variable Stator Vane (VSV) system, and The Transient Bleed Valve (TBV) system.
+
+The Engine Anti-Icing consist of:
+Start-Bleed/Booster Anti-Ice (BAI) valve and actuator.
+@@Start-Bleed/Booster Anti-Ice (BAI) valve and actuator, Anti-ice tube and manifolds, Flow splitter.
+Flow splitter.
+
+EEC ventilation system consists of the following:
+An assembly of rigid and flexible pipes.
+@@An assembly of rigid and flexible pipes, Two blowers, and One bracket (covered in zonal).
+One bracket (covered in zonal).
+
+HPTACC Valve position feedback to EEC by:
+A RVDT.
+A LVDT.
+@@Dual LVDTs.
+
+The HPTACC system located at:
+@@The left of the HPC case at the 9 o’clock position.
+The left of the HPC case at the 7 o’clock position.
+The left of the HPC case at the 11o’clock position.
+
+The TBV is installed on:
+The HPC case.
+@@The Combustor case.
+The LPT case.
+
+Transient Bleed Valve (TBV) System:
+@@The TBV is normally closed and will open (10th stage HPC bleed) during engine decelerations as the HPC requires additional operability margin.
+TBV is normally open and will close (10th stage HPC bleed) during engine decelerations as the HPC requires additional operability margin.
+TBV is always open (10th stage HPC bleed) during engine operation.
+
+EEC control Start-Bleed/Booster Anti-Ice (BAI) Valve by:
+Uses torque motor to control the BAI exhaust port to direct HPC 7th stage air to the anti-ice tubes.
+@@Uses servo fuel to control the BAI exhaust port to direct HPC 7th stage air to the anti-ice tubes.
+Uses Electro-hydraulic servo valve to control the BAI exhaust port to direct HPC 7th stage air to the anti-ice tubes.
+
+The engine control system consists of ?
+The throttle control lever,EEC,EIU
+@@The throttle control lever, The HP fuel shut-off valve control, The LP fuel shut-off valve control
+The throttle control lever,EEC.PSS
+
+How many ways to engage A/THR function?
+1
+2
+@@3
+
+What should you pay attention when adjust of the Artificial Feel Unit?
+Measure this value in the Reveser Idle /Max Climb range when turn the nut to get load
+@@Measure this value in the Idle Stop /Max Climb range when turn the nut to get load
+Measure this value in the Max Climb /MCT range when turn the nut to get load
+
+How many rigging pins are used when replacing of the Throttle Control Artificial Feel Unit?
+1
+@@2
+4
+
+What shoud you pay attention when removing of the Throttle Control Lever Assembly?
+Throttle control levers are at -20 degree
+@@Throttle control levers are at 0 degree
+Throttle control levers are at 25 degree
+
+What statement is correct?
+@@The accuracy of the throttle control unit (error between the input lever position and the resolver angle) is 0.5 degree TRA
+The accuracy of the throttle control unit (error between the input lever position and the resolver angle) is 1.5 degree TRA
+The accuracy of the throttle control unit (error between the input lever position and the resolver angle) is 1 degree TRA
+
+The EEC shall enable the fuel cut back function when:?
+@@Fan speed greater than thrust control manfunction threshold, pressure altitude below 15000 ft and Mach number less than 0.4.
+Fan speed less than thrust control manfunction threshold, pressure altitude below 15000 ft and Mach number less than 0.4.
+Fan speed greater than thrust control manfunction threshold, pressure altitude above 15000 ft and Mach number less than 0.4.
+
+Which statement is correct (Regarding to HP Fuel SOV?
+If the selected master lever signal switches from ON to OFF when the engine is at idle and the aircraft is on the ground, two EEC channels energize the electro-hydraulic servo valve of the HP fuel SOV with EOS circuitry.
+If the selected master lever signal transitions from ON to OFF position while the engine is not at idle or the aircraft is in the air, one of two EEC channels energizes the electro-hydraulic servo valve of the HP fuel SOV with EOS circuitry.
+@@If the selected master lever signal transitions from ON to OFF position while the engine is not at idle or the aircraft is in the air, the two EEC channels energize their applicable EOS circuitry to ensure that fuel is promptly shut off.
+
+Which sensor used for EGT indication?
+@@T48
+T49
+T25
+
+How EEC computes the Exhaust Gas Temperature?
+Take average value of two lowest and highest sensors.
+@@The measurements given by the EGT sensors are compared to each other and are averaged.
+The measurements given by 4 random EGT sensors are averaged.
+
+Where is N2 sensor located?
+@@fitted on the Transfer Gearbox (TGB) transfer tube, located on the accessory gearbox on the fan case.
+installed at 6:30 o'clock on the accessory gearbox (AGB) rear face.
+There is no N2 sensor for LEAP 1A Engine, N2 signals originate from the dedicated alternator.
+
+Where is N1 sensor located?
+@@fitted on the fan hub with two bolts located on the n4 strut.
+fitted on the fan hub with two bolts located on the n8 strut.
+installed in the fan frame strut No.6 at the 5:00 o'clock position.
+
+How are EGT sensors connected to EEC?
+@@Via 2 Harnesses T48L and T48R routed and mounted on the core area engine external case.
+Three identical and interchangeable thermocouple lead assemblies with two probes.
+to the junction box by a flexible harness.
+
+How are accelerometers for vibration sensing named?
+@@No. 1 bearing accelerometer and Turbine center frame accelerometer.
+Vibration transducer on each engine fan case.
+N1 Bearing accelerometer and N2 signal form dedicated alternator.
+
+What is(are) the N1 sensor used for:
+The speed signals are used for engine control (i.e. thrust setting) and vibration monitoring.
+The once-per-revolution signal is also used for the fan trim balance during maintenance
+@@The speed signals are used for engine control (i.e. thrust setting) and vibration monitoring. The speed signals are used for engine control (i.e. thrust setting) and vibration monitoring.
+
+What are N1 sensors made of?
+@@It is a two-channel magnetic reluctance sensor.
+It is a single axis piezo-electric sensor.
+The N1 sensor includes a two-channel magnetic reluctance sensor and a single axis piezo-electric sensor.
+
+How are the EGT sensors connected to EEC?
+@@The EGT sensors 1, 8, 7 and 6 are connected to the EEC channel A. The EGT sensors 2, 3, 4 and 5 are connected to the EEC channel B.
+The EGT sensors 1, 3, 5 and 7 are connected to the EEC channel A. The EGT sensors 2, 4, 6 and 8 are connected to the EEC channel B.
+Each EGT sensor is connected to EEC A&B
+
+What happen if one EGT sensor has failed?
+@@In case of failure of one of the sensors, its weighting is set to zero and thus its measurement is not used in the calculation anymore.
+The calculation of the affected channel is INOP, the remaining channel takes place the calculation and indication of EGT.
+The integrated STBY probe inside the sensor itself will be active.
+
+How many Synchronized locking feedback actuators of hydraulic Thrust Reverser Actuation System?
+1
+@@2
+3
+
+Can Translating Cowl manual deploy when Deactived of the Thrust Reverser System for Ground Maintenance (the manual locking actuator is locked)?
+Yes.
+Yes but the taks Deactivate the electrical tertiary lock must carry out.
+@@No, Translating cowl can not  deploy when Manual Locking actuator is locked.
+
+After Thrust Reverser Cycling the T/R deploy more than 40 second the T/R can be stow as follow:
+Do Thrust Reverser (T/R) Cycling Test again.
+@@Apply manual stow procedure.
+Thrust reveser automatic stow after 50 second.
+
+How many type actuator of thrust reveser system?
+1
+2
+@@3
+
+How the left and right thrust reverser are synchronized?
+@@By Over the top flex shaft.
+By the left and the right sync shaft.
+The Two SFLA self adjusted.
+
+Can Thrust reverser system work if Thrust reverser system Tertiary Lock  inoperative?
+No.The thrust reverser must consider inoperative ref MEL:78-30-04A
+@@Yes.The associated thrust reverser door tertiary lock is secured in the open position and  the ENG REV LOCK with affected thrust reverser is not display on EWD after deactivation.
+Yes. The associated thrust reverser door tertiary lock is secured in the close position and the ENG REV LOCK with affected thrust reverser is not display on EWD after deactivation.
+
+Do not OPEN the Thrust reverser doors if:
+@@The wind speed is more than 40 Knots
+The wind speed is more than 30 Knots
+The wind speed is more than 50 Knots
+
+Do not connect the hold open rod before the thrust reverser cowl is open to:
+20 Degrees
+40 Degrees
+@@45 Degrees
+
+Where location oil tank of engines Leap1a
+On the left-hand side of the Fan Case at the 4 o'clock aft looking forward position.
+@@On the right-hand side of the Fan Case at the 4 o'clock aft looking forward position.
+On the right-hand side of the Fan Case
+
+After you do the instalation of the LEAP-1A Oil CAT senser, What do you need:
+FADEC test (menu mode)
+Harness test (menu mode)
+@@Idle test (menu mode)
+
+How do you check for no fault of the Oil Debris Monitoring System of LEAP-1A:
+FADEC test (menu mode)
+Idle test (menu mode)
+@@FADEC test (menu mode), verify that the message "ENGXB ODMS SENSOR MONITOR" is not displayed.
+
+Where is the OPTS of LEAP-1A transmits EGN oil temperature and pressure to:
+ECU
+DMC
+@@EEC
+
+How to Oil Debris Reset and purpose chip count ?
+On EEC channel A and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights
+@@On EEC channel B and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights
+Both EEC channel A+B and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights
+
+With oil pressure lower than 17.4 psi (1.20 bar) to 29 psi (2.00 bar)  depeding N2 speed above ilde
+@@Remove engine and return to shop if engines operative more 14s
+Raised add interval 25 flight hours, 50 flight hours and 100 flight hours to check any presence of particles
+With oil temperature more than 140 deg.C Remove engine and return to shop
+
+The maximum serviceable oil consumption rate is limited with ENG LEAP 1-A.
+@@45 qt/hr (0.42 l/hr )
+35 qt/hr (0.33 l/hr)
+20 qt/hr (0.19 l/hr)
+
+What device is used to stabilize engine oil temperature of LEAP-1A?
+Non cooling device needed
+the Engine Surface Air Cooling Oil Cooler (SACOC)
+@@the Servo Fuel Heater (SFH) and the Engine Surface Air Cooling Oil Cooler (SACOC)
+
+After replacing the Oil Debris Monitoring System (ODMS) Sensor of LEAP-1A, what do you need to do?
+Idle Test (Menu Mode)
+@@Oil debris reset (Menu Mode)
+Harness Test (Menu Mode)
+
+Which failsafe position of Starter Air Valve in the event of loss of solenoid control or transducer feedback signal?
+Open
+Partially open
+@@Close
+
+What shoud you pay attention when manually Operate the Starter Air Valve in case of APU inop?
+Do not do a manual start override of the starter valve with the engine cross bleed or a ground start cart unless the engine is shut down for a minimum of 8 hours
+Do not do a manual start override of the starter valve with the engine cross bleed or a ground start cart unless the engine is shut down for a minimum of 10 hours
+@@Do not do a manual start override of the starter valve with the engine cross bleed or a ground start cart unless the engine is shut down for a minimum of 12 hours
+
+When is the Starter valve commanded closed in automatic start mode?
+N2 reached 45%
+@@N2 reached 60%
+N1 reached 55%
+
+How many methods you can use to fill the starter with oil?
+1
+@@2
+3
+
+What shoud you do when you found of oil leak on the pneumatic air starter mount?
+Replace the pneumatic air starter?
+@@Replace the preformed packing on the pneumatic air starter shaft, the flange groove and the lubrication nozzle
+Re torque the Nuts
+
+Which statement is correct?
+The Electronic Engine Controls (EECs) abort the automatic start, dry motor the engine and attempt an auto-restart for the following reasons: No light up (Exhaust Gas Temperature (EGT) low), Hung Start
+@@The Electronic Engine Controls (EECs) abort the automatic start, dry motor the engine and attempt an auto-restart for the following reasons: No light up (Exhaust Gas Temperature (EGT) low), Hot start
+The Electronic Engine Controls (EECs) abort the automatic start, dry motor the engine and attempt an auto-restart for the following reasons: No light up (Exhaust Gas Temperature (EGT) low), Stall
+

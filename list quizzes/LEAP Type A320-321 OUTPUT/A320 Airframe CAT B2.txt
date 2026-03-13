@@ -1,0 +1,3101 @@
+For all structural measurements in the X-axis the reference point located:
+@@54 m (100 inches) forward of the Aircraft.
+Km (100 inches) forward of the Aircraft.
+254 m (100 inches) forward of the Aircraft.
+
+Integrated Standby Instrument System (ISIS) replaces the:
+Main instrumentation
+Only Altimeter.
+@@Standby Horizon, Standby Airspeed Indicator, and Standby Altimeter
+
+The Two Multipurpose Control Display Units (MCDU) installed on:
+Side console
+@@Center Pedestal
+Main Instruments Panel.
+
+How many points do you Jack the Aircraft during Maintenance:
+Three Points Point A near Nose landing gear, Point B&C located outside of the Pylon under the wing only.
+@@Three Points Point A near Nose landing gear, Point B&C located outside of the Pylon under the wing only, a safety jack positioned at the rear of the Aircraft.
+Three Points Point A near Nose landing gear, Point B&C located outside of the Pylon under the wing only but Tail safety support not required.
+
+The requirements for safe Towing Operations during Maintenance are:
+Either a Pilot or qualified maintenance man on the brakes.
+Any Technician.
+@@Either a Pilot or qualified maintenance man on the brakes. And wing/Tail walkers during all the Towing operation.
+
+The Documents to be referred for Placards and Markings is:
+@@Aircraft Maintenance Manual (AMM) chapter ATA 11
+Wiring Diagram Manual (WDM) ATA11
+Electrical Standard Practice Manual (ESPM) ATA11
+
+How to know the placard and markings are required.:
+@@They are Identified by a flag Note Required by Regulation
+Not Required.
+Refer other Aircraft.
+
+How many potable waters draining panel in A320:
+@@Two the second one at the center of the Aircraft
+Only one
+Three draining panels.
+
+What is aircraft configuration to refill the water tanks?
+You cannot refill the water tanks if A/C have no electrical
+You  can only refill the water tanks when A/C is energized
+@@It does not matter if the aircraft is energized or not.
+
+The Lavatory/Toilet Service Panel Located in A320 Family:
+At Rear Left Hand Side
+At the Center of Aircraft
+@@At Rear Right Hand Side
+
+Potable water service Panel located in A320 Family at:
+@@Rear Left Hand Side
+Center of Aircraft
+Rear Right Hand Side
+
+The Gravity Refueling Panel Located at:
+@@Top of the Left and Right sides of Wing Top
+Left Top side of the wing
+Right Top Side of the Wing
+
+Turning Radii depend on:
+Aircraft Location in the Ramp
+@@Effective Turn and Steering Angle
+Location in the Ramp and airfield wind speed.
+
+Parking and Mooring procedures are found in:
+@@AMM 10-11-00 chapters.
+IPC 10-11-00 chapters
+ESPM chapters
+
+During Parking and Mooring safety precaution to be observed are:
+Landing Gear Safe tied, Wheel Chokes in Position, all locking devices is on.
+@@Landing Gear Safe tied, Wheel Chokes in Position, all locking devices is on and move all access   Platforms at a safe distance.
+Only Parking Brakes are enough.
+
+During refueling, the green END light comes study in refuel panel indicates.
+@@Refueling operation completed
+Refueling operation not complete
+Some problem detected during refueling operation
+
+Storage Procedures can be found in:
+ASM 10-12-00 chapters
+IPC 10-12-00 chapters
+@@AMM 10-12-00 chapters
+
+During Storage, safety precaution to be observed are:
+Landing Gear Safe tied, Wheel Chokes in Position, all locking devices is on.
+@@Landing Gear Safe tied, Wheel Chokes in Position, all locking devices is on and move all access   Platforms at a safe distance.
+Only Parking Brakes are enough.
+
+During Mooring, safety precaution to be observed are:
+Airspeed Between 50-70 Kts only NLG.
+Airspeed More than 70Kts both NLG and MLG.
+@@Position Aircraft into the wind. Airspeed 50-70Kts only NLG more then 70Kts both NLG and MLG.
+
+Earthing (Grounding) operation is for:
+@@Electrical Continuity between the Aircraft and The Earth.
+Electrical Continuity between the Aircraft and The Equipment’s.
+Electrical Continuity between the Aircraft and The Ground power unit.
+
+Bonding operation is for:
+Electrical Continuity between the Aircraft and the Earth.
+@@Electrical Continuity between the Aircraft and the ground equipment’s connected with aircraft.
+Electrical Continuity between the Aircraft and the chocks.
+
+The document referred for bonding/earthing is:
+@@AMM 12-34-24-869-002(Servicing) for Maintenance operations.
+AMM ATA 33 chapters.
+AMM ATA 23 Chapters.
+
+The safety precaution observed during bad weather is:
+@@Do not wear headset or touch cables/lines connected to the aircraft when there is a risk of lightning.
+We can use the Head set or touch any cables nothing will happen.
+No any precaution required if you wear safety shoes.
+
+Which one is connected first bonding or earthing?
+@@Always connect earth(ground) cable to parking earth(ground) first, then to Aircraft.
+First bonding with Aircraft then Earthing (grounding)
+We can connect any way we want.
+
+Electronics Instrument Systems (EIS) consists of two sub systems namely: -
+@@Electronic Flight Instruments System (EFIS) and Electronic Centralized Aircraft Monitoring (ECAM)
+EIS and Computers
+Black boxes and Computers.
+
+Electronic Centralized Aircraft Monitoring (ECAM) gives the information to flight crew are:
+Navigation Parameters.
+@@Aircraft System Displays, Faults, Checklists and the current operational status of the aircraft.
+Flight path information
+
+The Flight Warning Computers (FWC) supply the following information to EIS are:
+Only Attention getters
+Attention getters, Audio
+@@Attention getters, Audio alerts, Synthetic voice messages and Text messages.
+
+Engine Warning Display (EWD) is divided into how many main areas:
+The upper area is used for Main Engine parameters, Fuel on Board, and Slat/Flap position, and lower part not used.
+@@The upper area is used for Main Engine parameters, Fuel on Board, and Slat/Flap position, and lower part is used for warning, caution and memo messages
+Upper and lower part used only for Engine parameters
+
+System Display (SD) is divided into how many main areas:
+@@The upper area is used to display various system pages, the lower part for permanent data.
+The upper area for permanent data, lower area for system displays.
+Upper area and lower area used for system pages
+
+Under normal operation the DMCs process the data and generate images to display:
+@@DMC1 for CAPT EFIS displays, DMC2 for F/O EFIS displays and DMC3 as a backup.
+DMC3 for CAPT EFIS displays, DMC1 for F/O EFIS displays and DMC2 as a backup.
+DMC2 for CAPT EFIS displays, DMC3 for F/O EFIS displays and DMC1 as a backup.
+
+The Aircraft clock gives:
+UTC/Time/Date/Month/year to the crew and all peripheral systems.
+@@UTC/Time/Date/Month/year to the crew and all peripheral systems. Also Elapsed Time (ET) & Chronometer (CHR)
+UTC/Time/Date/Month/year to the crew and all peripheral systems.
+
+The main Purpose of Centralized Fault Display Interface Unit (CFDIU) are:
+Collect all A/C system failures and memorizes.
+@@Collect and memorizes all A/C system failures, can be read or Printed using MCDU.
+Only memorizes for STATUS messages.
+
+Post Flight Report consists of (PFR) following information for Maintenance crew are:
+Summarized list of ECAM Warning messages and fault messages occurred during last flight.
+Summarized list of ECAM Warning messages and fault messages occurred during last flight only with NO associated time, NO flight phase and NO ATA reference.
+@@Summarized list of ECAM Warning messages and fault messages occurred during last flight also with associated time, flight phase and ATA reference.
+
+The Printer can Print reports in the following conditions.
+On Request in GND only.
+@@Automatically controlled by DMU or Manually controlled from MCDU or Using AIDS P/B on the center pedestal.
+Only during engine running.
+
+The green overflow arrow in EWD indicates that:
+@@The warning messages exceed the capacity of the display.
+Look into SD page
+Look in to MCDU
+
+The ECAM operates in four modes for SD page display with priority order is:
+@@Normal mode /Failure mode/ Advisory mode/ Manual mode.
+No such modes
+Manual mode/ Emergency mode/Caution mode/ warning mode
+
+If you select a manual mode and it changes automatically when:
+@@If a warning or an advisory message.
+when you select one more SD page
+Manual mode cannot be changed.
+
+What are the 3-Levels of Alert classification:
+Level 3 cautions/Level 2 cautions /Level 1 cautions.
+@@Level 3 Warnings /Level 2 cautions /Level 1 cautions
+Level 3 Warnings /Level 2 warnings /Level 1 warnings
+
+ECAM system components are:
+SDACs and FWCs
+@@SDACs, FWCs, DMCs and ECAM control panel (ECP)
+ECP and FWCs
+
+If upper display (EWD) fails, then:
+EWD automatically transferred to SD, called ECAM failure display mode.
+@@EWD automatically transferred to SD, called ECAM single display mode.
+EWD automatically transferred to ND, called ECAM transfer display mode.
+
+How many computers are connected with Printer:
+6 computers only print one system at a time.
+6 computers print randomly.
+@@6 computers print one at a time but as per priority.
+
+The DFDR records:
+Last 2 hours of data
+@@Last 25 hours of data
+Last 100 hours of data.
+
+How many reports can be generated with AIDS
+@@13 standard reports and 10 Airline specific reports
+10 standard reports and 13 Airline specific reports
+12 standard reports and 11 Airline specific reports
+
+To print/read AIDS report via MCDU:
+@@Only one MCDU can be used at a time.
+Both the MCDUs can be used simultaneously.
+Portable Data Loader can be used.
+
+RS 232 BUSES used for:
+Data exchange between DUs
+FWCs MESSAGE BUS
+@@Workshop test.
+
+The DUs receive Weather Radar Information in:
+ARINC 429 buses
+@@ARINC 453 high-speed buses
+Analog signals for Display.
+
+To load a new software in all the 3-DMCs the steps to be followed is:
+Install on each DMCs separately.
+Install first in DMC 3, followed by DMC 2 and DMC 1.
+@@Install in DMC 1 first, then cross loading to DMC2 and DMC 3 via MCDU.
+
+If new DU is installed the software is loaded from:
+@@Cross loading from corresponding DMC via the MCDU.
+From DU1 to rest of the DUs by cross loading.
+From data loader to directly to the DU.
+
+The RS422 buses are used by FWCs to:
+@@Send Text Messages like warnings, MEMO, and Status to the DMCs
+Used to switch from DMCs
+Used to switch from DUs.
+
+In case of PFD and ND failed on the same side:
+Reconfiguration is possible.
+Reconfiguration is possible only on ground.
+@@No reconfiguration is possible.
+
+If the ECP fails then:
+@@The main function EMER CANC/CLR/RCL/ALL and STS are available.
+No function is possible.
+only Electrical SD page available.
+
+If Both the FWCs fail in flight:
+EWD messages are lost.
+Attention getters are lost.
+@@EWD messages, aural warnings and attention getters are lost.
+
+When the PFR is available after flight:
+@@After Landing A/C speed below <80 knots + 150 seconds.
+In flight during approach phase
+In flight during descent phase.
+
+EVMU receives Engine S/N from:
+@@DMC
+SDAC
+FWC
+
+DMC receives Engine S/N from:
+@@ECU for CFM engines or EEC for V2500 and PW engines.
+only for ECU for all the engines
+only from EEC for all the engines.
+
+The SIL 00-028 spurious maintenance messages data base:
+@@Is an envelope data base used by Airlines engineering to make customized filter data base.
+Is an envelope data base used by Line Maintenance engineering to make customized filter data base.
+Is an envelope data base used by Base Maintenance engineering to make customized filter data base.
+
+If DMC 1 fails, DMC 2 takeover the following displays:
+EWD only but selection manually using 8VU switching panel.
+SD only but selection manually using 8VU switching panel.
+@@Both EWD and SD automatically.
+
+The 3 axis Linear Accelerometer (LA) send analog signals to:
+@@SDACs, which digitalize it before sending to the FDIU part
+SDACs, which digitalize it before sending to the DMU part
+FWCs, which digitalize it before sending to the FDIU part
+
+The FDIU part of the FDIMU sends the data for recording into DFDR is:
+ARINC 429
+ARINC 453
+@@ARINC 717
+
+The pin program gives FDIMU:
+45 discrete inputs for A/C identification code.
+@@54 discrete inputs for A/C identification code.
+25 discrete inputs for A/C identification code.
+
+The two parameters call up function available in AIDS function are:
+only Alpha call up
+only Label call up
+@@Label call up in binary code and Alpha call up with engineering units.
+
+The manual selection of SD page is canceled in case of:
+Any warning Messages
+Any caution messages.
+@@Any warning or A caution or an advisory message.
+
+The main power source for Aircraft Electrical Network is:
+@@Two identical engine driven Integrated Drive Generators (IDGs)
+Two identical Batteries (BAT)
+Two identical Static Inverters (STINV)
+
+Each Generators give output of:
+@@115V/400HZ/ 3 -PHASE AC,90 KVA
+115V/400HZ/ 2- PHASE AC,60KVA
+115V/500HZ /SINGLE PHASE AC 90 KVA
+
+The Electrical priority for AC buses in A320 Family is:
+APU generator/External power/Opposite generator/own side IDGs.
+Opposite IDGs/APU generator/Own side IDGs/External power.
+@@Own Side Generator/External power/APU generator/Opposite Generator
+
+The RAM AIR TURBINE(RAT) will deploy automatically when:
+@@AC 1 lost, AC 2 Lost and Aircraft speed above > 100 Knots.
+AC 1 lost, AC 2 Lost and Aircraft speed below < 100 Knots.
+AC 1 lost, AC 2 Lost and Aircraft speed above > 50 Knots.
+
+The battery voltage can be monitored at:
+At Over Head Panel (OVHD PNL) 35VU only
+ECAM -SD- Elect page only.
+@@Over Head Panel (OVHD PNL) 35VU and/or SD Elect system page.
+
+What is the Safety precaution to be Taken when working near 21VU EMER ELEC PWR PNL.
+@@Activation of the Red Guarded MAN ON P/B on the GND or in flight will extend the RAT, even in the cold Aircraft.
+Activation of the Red Guarded MAN ON P/B on the GND or in flight will NOT extend the RAT.
+EMER ELEC PWR PNL 21VU not energized on ground so any precaution required.
+
+ARINC 429 buses are numbered from:
+5000 to 5999
+6000 to 6999
+@@7000 to 7999
+
+If the IDG disconnected in Flight can be:
+@@Reconnected only on ground after maintenance actions.
+Reconnected in Flight at any time.
+Reconnected in Flight or Ground at any time
+
+The maintenance action required after thermal disconnection of IDG is:
+Can be repaired on the Line
+@@IDG Must be replaced
+Can be swapped with other side.
+
+The APU generator control module is part of the:
+Auxiliary Power Control Unit (APCU)
+Generator control Unit (GCU)
+@@Ground and Auxiliary Power Control Unit (GAPCU)
+
+If all the parameters are correct on external power:
+@@AVAIL (amber) and NOT IN USE (White) lights in External Power Panel (108VU) will come on.
+Only amber AVAIL light is on.
+Only white NOT IN USE light is on.
+
+Generally the oil Filter clogged indication checked by:
+@@Visual pop out indicator (DPI) installed opposite side of IDG drive end.
+On the ECAM -SD-ELEC -page
+On the MCDU.
+
+The most typical reason for IDG failures are due to:
+@@Over OR Under servicing of IDG oil.
+Electrical loads.
+Engine vibration.
+
+APU speed regulation done by:
+FADEC
+GAPCU
+@@ECB
+
+Ext, PWR is on, MAINT BUS SW selected, TR 2 Overheats >172,then:
+The MAINT BUS SW trips off, de-energize AC GND/FLT buses.
+The MAINT BUS SW trips off, de-energize DC GND/FLT buses.
+@@The MAINT BUS SW trips off, de-energize AC & DC GND/FLT buses.
+
+An ARINC 429 BUS shielded cable consists of two wires and they are colour coded as:
+@@Blue and Red
+Red and Green
+C Green and Yellow.
+
+The reference maintenance document for Grounding (Earthing) and Bonding is:
+CMM chapter 12-34-24/page Block 201.
+@@AMM chapter 12-34-24/page Block 201
+ESPM chapter 12-34-24/page Block 201
+
+The External IDG oil cooler is part of:
+Oil management System.
+Fuel Management system
+@@Engine Heat Management System (HMS)
+
+In case of under speed detection or Engine shut down:
+The GEN P/B reset action required.
+@@The GEN P/B reset action NOT required
+The GEN P/B reset action required only in flight.
+
+If an open cable is detected or if the ENG FIRE P/B SW released out:
+@@The GCU trips the GCR and the PRR and PRR opens GLC.
+rips only PRR.
+Trips only GCR
+
+The GAPCU Ext Pwr card detect at least one Faulty parameter, then:
+Opens Interlock Monitoring Relay (IMR) only.
+opens Power Ready Relay (PRR) only
+@@Opens both IMR & PRR relays.
+
+Ext, PWR is on, MAINT BUS SW selected, TR 2 Overheats >172,then:
+The MAINT BUS SW trips off, de-energize AC GND/FLT buses.
+The MAINT BUS SW trips off, de-energize DC GND/FLT buses.
+@@The MAINT BUS SW trips off, de-energize AC & DC GND/FLT buses.
+
+Aircraft is on Ground, APU only running, if an overload detected then:
+@@All the galley power sheds automatically.
+Manually shed after ECAM message.
+Galleys are working normally.
+
+When the RAT is extended the Aircraft Network power supplied by:
+@@AC ESS BUS and Via ESS TR, the DC ESS BUS.
+AC ESS BUS and Via main Batteries to DC ESS BUS.
+AC ESS BUS and TR1 or TR2 to DC ESS BUS
+
+When RAT starts operating normally, the CSM/G control unit (CSM/G GCU) get power supply from.
+@@CSM/G (RAT) Permanent Magnet Generator (PMG)
+28V from battery
+DC bus 1.
+
+The constant speed of CSM/G is controlled by:
+@@Speed Regulation module of the CSM/G Control unit.by controlling Servo Valve.
+Solenoid Control Valve.
+Windmilling.
+
+In Flight or Ground, if AC BUS 1 failed.
+@@AC ESS BUS automatically connected to AC BUS 2
+STAT.INV bus is supplied.
+AC BUS 1 available
+
+In Smoke configuration if GEN 1 LINE OFF PB is pressed, then:
+Generator Line Contactor (GLC) 1 opens.
+@@GLC, Generator 1 remains energized and supplies one Left and One Right fuel pumps.
+All the fuel pumps are switched off.
+
+The TR protection are;
+@@Over heat and minimum current flow detection.
+Over heat and maximum current flow detection.
+Internal short circuit.
+
+The TR 2 minimum current detection system is inhibited when:
+External power is connected for maintenance.
+@@External power is connected, the 2000VU panel MAINT Bus SW is on.
+Over Heat detected.
+
+The Amber FAULT light comes on in the event of Battery:
+@@Thermal run away or internal short circuit.
+During charging cycle.
+During discharge cycle
+
+Battery complete discharge protection available if battery voltage below 23VDC on:
+@@Ground only
+Flight only
+Ground or in Flight.
+
+The AC/DC shed able Bus are shed when:
+Emergency Generator test.
+@@Emergency Generator test, Battery only configuration.
+Any time we can shed the AC/DC shed able buses.
+
+In Flight or Ground If AC BUS 1 loss, the auto switching not taking place then:
+The FAULT amber legend comes on AC ESS FEED P/B SW.
+The AC ESS FEED SW has to be release out to do a manual switching.
+@@White ALTN legend comes on view and amber FAULT legend goes off
+
+The components which are an Integral part of Air Data Reference (ADR)portion are
+@@Pitot probs/Static Ports/Angle of Attack Sensors (AoA)/Total Air Temperature (TAT) Sensors.
+Only AoA and TAT are the part of ADR.
+Only Pitot and Static are the part of ADR
+
+The three ADIRUs are controlled through:
+By three separate ADIRS Mode Selector Units (MSU)
+@@A single ADIRS Mode Selector Unit (MSU)
+By ADIRS individual MCDUs installed in center pedestal.
+
+The three ADIRUs supply information to cockpit EFIS as follows:
+ADIRU#1 Supplies CAPT PFD 1 and ND 2
+ADIRU#2 Supplies F/O PFD 2 and ND 1
+@@ADIRU #1 Supplies PF1/ND1, ADIRU #2 PFD 2/ND 2, ADIRU #3 hot spare.
+
+The Safety Precaution to be Followed when working on Pitot/Static systems or Probs are:
+Before any Test Remove the Protective covers, do not test more than one minute.
+Do not touch the probs immediately after the test, they are hot
+@@Follow AMM procedure and above safety precautions.
+
+The Static ports are connected to ADR part as:
+@@Six static ports provide Static pressure to Five ADMs (Air Data Modules)
+Six static ports provide Static pressure to six ADMs (Air Data Modules)
+Six static ports provide Static pressure to three ADMs (Air Data Modules)
+
+As soon as the ISIS is energized, it shows:
+Will take some time for warm up.
+It shows four yellow boxes only.
+@@Four yellow boxes showing INIT90s/ATT/SPD/ALT
+
+ISIS the airspeed data is not valid, the airspeed scale shows;
+@@A red SPD flags
+A yellow SPD flags
+Blank display
+
+ISIS test can be done only:
+In flight
+@@On GND, and the test is inhibited if A/C speed above >60 kts.
+Ground or in flight.
+
+The power supplies for ISIS is:
+115 v AC ESS bus.
+Normal supply is 28v DC ESS bus.
+@@If Normal supply not available Back-up 28V DC from HOT Battery bus if airspeed >50kts
+
+In normal operation the ADIRUs are aligned using information from the:
+ADIRS CDU
+FCU
+@@FMGC'S
+
+A water drain is fitted to
+All static lines
+@@The standby static line
+All pitot and static lines
+
+AIDRU 3 receives TAT information from:
+@@The captain TAT sensor
+The first officer TAT sensor
+The standby TAT sensor
+
+The baro correction or reference selected is sent to each ADIRU from the
+RMPs
+@@FCU
+Master FMGC
+
+How can GPWS test initiated from the cockpit?
+By Pressing The GPWS system pushbutton on the GPWS panel
+By using the CFDS system report/test
+@@By pressing one of the GPWS/GS warning pushbutton on the CAPT or FO instrument panel
+
+ILS 1 data is normally displayed
+@@On Capt's PFD and F/Os ND
+On Capt's PFD and Capt's ND
+On F/O PFD and Capt's ND
+
+ILS 1 fails:
+ILS 2 data are provided to Capt's PFD and F/Os ND
+@@ILS 1 deviations disappear and are replaced by a LOC and a GS red flag
+Scales and deviations disappear from Capt's PFD and F/Os ND
+
+MKR information displayed on PFD 1 and PFD 2 is sent from VOR/MKR receiver
+2
+@@1
+1 on both PFD's in the event of VOR/MKR 1 failure there is an automatic switching to VOR/MKR receiver 2
+
+Where is VOR data displayed?
+Both ND’s and CAPT’s PFD
+Both PFD’s and DDRMI
+@@Both ND’s and DDRMI
+
+The ATC
+@@Responds to interrogations from ground ATC or TCAS
+Interrogates ground ATC for distance measurement
+Responds to  interrogations from ground ATC for bearing  measurement
+
+Marker (MKR) Function is done in side VOR receivers, but active only in:
+@@VOR #1 ONLY
+VOR #2 ONLY
+BOTH THE VOR having Marker Function
+
+All navigation systems can be tested from:
+@@The MCDUs
+on the Units itself from cockpit.
+Automatically tested on Ground during power up.
+
+The VOR station entered manually through MCDU keys Shown in:
+@@Big fonts.
+Small fonts
+Normal fonts]
+
+The power supplies for ISIS is:
+115 v AC ESS bus.
+Normal supply is 28v DC ESS bus.
+@@If Normal supply not available Back-up 28V DC from HOT Battery bus if airspeed >50kts
+
+Radio Altimeter (RA) altitude displayed on Both PFDs:
+All altitudes
+@@only below 2500 feet above Ground Level (AGL)
+only below 10000ft above AGL
+
+What are the Specific Safety Precaution during WxRdr Test on Ground
+When Wx Rdr is ON no persons not be within 5 meters of the Radome.
+No metal obstacle within 5 meters and no refueling within 60 meters.
+@@As above follow AMM procedure for any other additional Safety Requirements.
+
+In normal operation of MMR ILS function, the data are used from:
+@@GPS 1 data used by ADIRUs 1 and 3; GPS 2 data by ADIRU 2.
+GPS 2 data used by ADIRUs 1 and 3; GPS 1 data by ADIRU 2.
+GPS 1 data used by ADIRUs 1, GPS 2 data by ADIRU 2.GPS 3 data used by ADIRU 3.
+
+The main function of the GPS is:
+Provides A/C position, Velocities, and exact time for computations by the three ADIRUs.
+@@Provides 3D A/C position, Velocities, and exact time for computations by the three ADIRUs.
+Provides 2D A/C position, Velocities, and exact time for computations by the three ADIRUs.
+
+The MMR 1 data sent to the EGPWS for:
+@@Mode 5 (descent below G/S) computation.
+Mode 3 (Altitude loss after take-off) computation
+Mode 1 (Excessive rate of descent) computation
+
+The WXR antenna is energized and controlled in azimuth & elevation by;
+ADIRUs
+WXR XCVR.
+@@WXR XCVR receiving Stabilization data from ADIRUs
+
+The Wind shear function is automatically activated if:
+@@A/C below 2300 ft and one each qualifier A1 or A2 and B1 or B2 is valid.
+A/C above 2300 ft and one each qualifier A1 or A2 and B1 or B2 is valid.
+A/C in flight and one each qualifier A1 or A2 and B1 or B2 is valid.
+
+In case of one RA transceiver failed in Flight then:
+The DMC manually switched to other side.
+@@The DMC automatically switches to the other side.
+The RA is lost on the failed side
+
+The EIUs sends a ground discrete signal to RAs for:
+o give RA height.
+@@To inhibit the GND test when N2 is greater than minimum idle rating.
+To inform RAs A/C is on GND.
+
+The information provided by IR part of ADIRU 1, to TCAS computer is:
+@@Magnetic heading, Pitch and Roll attitude.
+Air Data information.
+Barometric altitude.
+
+TCAS is inhibited with higher priority function, they are;
+@@Stall /Wind shear /Predictive WS(PWS)/TAWS (EGPWS)
+GPWS/PWS/Stall/WS
+WS/PWS/TAWS/Stall
+
+The software loading of TCAS is done by:
+Data loading can be done only in Flight.
+@@Data loading can be done only on Ground.
+Data Loading can be done on GND or in Flight.
+
+TAWS basic mode 5 warnings is:
+A, Pull up-pull up
+GLIDE SLOPE
+@@GLIDE SLOPE, the voice message and the repetition rate increases when closing to the Ground.
+
+The Predictive modes of TAWS are:
+Collision Prediction & Alerting (CPA)
+Terrain Hazard Display (THD)
+@@CPA & THD provide a forward-looking alert function
+
+RA1 fails then:
+@@EGPWS no RA data.
+EGPWS continue to work normally.
+EGPWS will receive data from RA2.
+
+The Fault Isolation and Detection System (FIDS) is active in:
+@@FAC # 1 only.
+FAC # 2 only
+FMGCs only.
+
+The AFS system designed around:
+2 FMGCs,2 FACs, and 2 FCUs
+1 FMGC, 1 FAC, 1 FCU and 1 MCDU
+@@2 FMGCs, 2 FACs, 2 MCDUs and 1 FCU.
+
+The FMGC made of two parts FM & FG functions are used for:
+FM part used for Aircraft Control
+FG part used for Flight plan definition.
+@@FM part used for Flight plan, revision and Monitoring; FG part used for  Aircraft Control functions.
+
+The basic Functions of FACs are:
+Rudder control
+Rudder control and Flight envelope protection.
+@@Rudder control & Flight Envelope protection & runway overrun protection (ROPS) if installed.
+
+The Airspeed information for Rudder Travel Limiting Function comes from:
+Engines
+@@ADIRUs
+FCU
+
+For maintenance purposes the AP can be engaged on ground with:
+Both Engines running.
+@@Both engines shut down and Hydraulic power is NOT required.
+Both engines shut down and all Hydraulic power is required
+
+AP related information are displayed at:
+System Display (SD) page
+@@Top part of the PFD called Flight Mode Annunciator (FMA)
+On the Over Head panel.
+
+AFS test on Ground done to check:
+All control surfaces are moving correctly.
+@@All AFS related LRU are working properly.
+No such test required in Autopilot System.
+
+The AP system Menu Mode through MCDU gives access to:
+Ground Scan
+AFS Test Only.
+@@Ground Scan, AFS Test and Land Test
+
+The Land Test Enables maintenance to:
+@@Test the availability of the LAND mode and equipment required to obtain CAT 3 capability.
+Check an AFS Line Replaceable Unit before removal, or after installation.
+Displays failures recorded in the ground area of the FIDS memory
+
+If both ELAC fail, only Dutch roll damping is calculated by:
+The FAC using FMGCs data
+@@The FAC using ADIRS data.
+Dutch roll damping is lost.
+
+In LAND mode. The yaw damper actuators controlled by:
+@@FMGC yaw order control the yaw damper actuators via the FAC.
+Directly by FAC
+Using ADIRS data via FMGC.
+
+When Autopilot is not engaged the Rudder Trim is controlled by:
+The ELAC
+Using ADIRS data
+@@The RUDder TRIM Panel in manual mode.
+
+If one or several yaw axis control functions fail, the FAC FAULT light  remains:
+@@OFF and only ECAM amber message appears in ECAM Display Units.
+ON and NO ECAM amber message appears in ECAM Display Units.
+Flashes and NO ECAM amber message appears in ECAM   Display Units.
+
+The two-yaw damper actuators powered by:
+Yaw damper actuator 1 by Yellow & Yaw damper 2 by Green hydraulic.
+@@Yaw damper actuator 1 by Green & Yaw damper 2 by Yellow hydraulic.
+Yaw damper actuator 1 by Yellow & Yaw damper 2 by Blue hydraulic.
+
+The Alpha floor Detection is lost when:
+If Two ADIRU fails
+If Two ELAC fails
+@@If Two ADIRU or Two ELAC Fails.
+
+A/THR modes are:
+SPEED/MACH only
+THRUST/RETARD only
+@@SPEED/MACH,THRUST,& RETARD Can be over passed by the Alpha-floor protection.
+
+The operating modes of FM part are:
+Normal mode
+Independent mode
+@@Normal/Independent/Single Modes of operation possible.
+
+In Normal mode of operation the FMs operates as:
+@@Both the FM parts processed the input data from Any MCDU.
+FM 1 processes data from MCDU 1 only.
+FM 2 processes data from MCDU 2 only
+
+FMGC database loading is done with the help of:
+Portable Data loader or MDDU.
+@@Portable Data loader or MDDU to cross-loading function allows database cross loading to other FMGC.
+Data loading can be done in Flight.
+
+For Flight Envelope Protection, The FAC Computes The:
+@@Various characteristic speeds for aircraft operation, the low energy warning, the excessive angle of attack and wind shear detentions.
+Low energy warning, the engine power and wind shear detentions.
+Various characteristic speeds for aircraft operation, the excessive angle of attack and low altitude defections.
+
+The Flight Management Part Provides:
+@@Navigation, performance optimization, radio navigation tuning and information display management.
+Performance optimization, radio navigation tuning and information display management.
+Navigation, performance optimization and radio navigation tuning.
+
+When the FAC computer itself fails:
+The FAC remains engaged and NO-FAULT light and Message in  ECAM
+@@The FAC is disengaged, and FAULT light comes ON. Message in  ECAM, a FAC reset must be attempted following the ECAM procedure.
+Replace the FAC computer.
+
+The FCU allows:
+modification of the flight plan of FM parts
+used control of the aircraft for long term
+@@used control of the aircraft for short term
+
+The Flight Director is engaged:
+by pressing the FD p/b on the FCU
+by selecting a mode on the FCU
+@@automatically at system power rise
+
+The AFS computers are:
+@@FMGC and FAC
+FAC and ELAC
+FMGC and SEC
+
+The FMGC functions are:
+flight guidance and flight envelope protection
+flight management and flight envelope protection
+@@flight management and flight guidance
+
+The Flight Guidance are:
+@@autopilot, flight director, autothrust
+flight management, autopilot, autothrust
+autopilot, flight plan, autothrust
+
+The MCDUs allow:
+used control of the aircraft for short term
+@@used control of the aircraft for long term
+make the flight plan and engage the autopilots
+
+The main function of the FAC are:
+yaw damper, rudder trim, rudder travel limitation
+yaw damper, rudder trim, flight envelope protection
+@@yaw damper, rudder trim, rudder travel limitation, flight envelope protection
+
+In flight AP can be engaged when:
+aircraft in take  off phase
+aircraft in climb phase
+@@at least 5 seconds after lift-off
+
+The mandatory parameter used by FAC for Alpha Floor protection is: (B2)
+A/C maximum speed
+A/C minimum speed
+@@A/C angle of attack
+
+The fuel and time prediction functions are performed by: (B2)
+FG part of the FMGCs
+@@FM part of the FMGCs
+The FAC
+
+The Basic allocation of RMPs are:
+RMP 1 for VHF2.RMP 2 for VHF 1 & RMP 3 for VHF3
+RMP 1 for VHF1.RMP 2 for VHF 1 & RMP 3 for VHF 1&3
+@@RMP 1 for VHF1.RMP 2 for VHF 2 & RMP 3 for VHF3 normally used for ATSU data.
+
+If the Standby navigation mode is selected in RMPs:
+RMP 1 controls VOR1,ADF1, ILS1 &2.
+RMP 2 controls VOR 2,ADF2,ILS 1 & 2.
+@@RMP 1 for VOR1/ADF1/ILS 1&2, RMP 2 for VOR2/ADF2/ILS 1&2, AND RMP 3 Not used in Backup Nav tuning.
+
+The RMPs receives a discrete signal given by Landing Gear Control and Interface Unit(LGCIU) as:
+RMP 1 from LGCIU 1
+RMP 2 from LGCIU 2
+@@RMP1 from LGCIU 1 and RMP 2 & 3 from LGCIU 2.
+
+The New Cockpit Voice and Data Recorder (CVDR) installed at:
+One CVDR at pressurized  avionics compartment
+Both the CVDR installed at rear pressurized compartment.
+@@One in Avionics compartment and One at the rear un pressurized THS compartment.
+
+The Emergency Locator Transmitter (ELT) test can be carried out at:
+Only at the ELT unit front face
+@@On the Remote Control Panel (RCP) installed in Cockpit OVHD panel or at the ELT unit front face.
+External power panel.
+
+The CVDRs can store the information of:
+The last 2 hrs data.
+@@The last 25 hrs data.
+The last  10 hrs of dta.
+
+The Lavatory/Cargo smoke detectors are connected to Type B DEUs via:
+Arinc 429.
+@@Controller Area Network (CAN) bus.
+Arinc 717.
+
+The Normal power supply for CIDS DIRs on GND is:
+Hot Bus
+28V DC Ess Bus
+@@28V DC SVCE Bus.
+
+Each DEU- A can control How many Pax Interface and Supply Adapter(PISA):
+Any number of PISAs.
+Maximimum 18-PISAs.
+@@Up to 6 PISAs.
+
+If the VHF/HF system transmitting continuously for more than One minute.Then:
+VHF/HF TxRCVR stops automatically.
+@@An ECAM message displays in Amber ;COMVHF/ HF1/2 EMITTING(transmitting)
+Audio & Amber Caution  in cockpit.
+
+The Air Traffic Service Unit (ATSU) connected to VHF system for:
+@@VHF Data Link System(VDL) called VDR
+Backup function only.
+ATSU is a part of VHF systems.
+
+The SELCAL function done in the AMU by:
+SELCAL code from SELCAL code Panel only.
+HF/VHF Trans-receivers independently.
+@@SELCAL code panel and Audio calls from Ground Stations and send Visual and aural warnings in cockpit
+
+The Passenger Address (PA) priority levels are:
+Decided by Cockpit crews.
+Decided Cabin Crews
+@@Programmed in Cabin Assignment Module(CAM) flash card and integrated into the FAP.
+
+To Adjust PA volume :
+By using Cabin Hand set.
+@@By Level Adjustment page in FAP.
+Is Automatic.
+
+The Cabin Audio adjustment by maintenance can be carried out by using:
+Test set.
+@@Using FAP Volume Adjustment sub panel.
+Cockpit contros.
+
+All the Audio going to Cockpit has to be Routed through:
+The CIDS directors.
+Via Hand sets.
+@@Audio Management Unit (AMU) for recording in CVR.
+
+The Cabin communication Like PA,Cabin Inter phone routed through:
+AMU
+@@CIDS Directors
+Via Cabin Crew Handset.
+
+The Service Inter phone Used by Maintenance crews to talk between:
+Only other Maintenance crew around the Aircraft.
+Only to Cabin crews.
+@@The Flight crew,other GND crew and Cabin.
+
+The EVAC control Panel has following positions:
+Only one Position CAPT.
+Only one position PURSer.
+@@Two Position CAPT , CAPT& PURS
+
+At Engine start an automatic Audio level increase of 6dB in cabin Loudspeakers achieved by:
+@@The EIU send the Oil pressure information to CIDS-DIR.
+Engine Start S/W.
+FQIC..
+
+How the Line Replaceable Units (LRUs)are identified for Electrostatic Discharge sensitive(EDS):
+All LRUs are ESD sensitive.
+@@The LRUs that are sensitive are identified by a Black and Yellow label on the equipment front face.
+Refer AMM.
+
+If the Aircraft on Jacks for maintenance communications, then:
+Can not possible..
+@@The Service Inter phone Override switch in 50VU maintenance panel must be switched ON..
+Only Hand Signals possible..
+
+The CVR energized on ground for recording by:
+@@GND CTL P/B located  at OVHD PNL.
+By starting any one of the Engine
+By Starting APU
+
+What Safety precautions to be observed during HF test on Ground:
+No testing during Refueling.
+we can check at any time
+@@No testing during refueling and refer AMM for any additional safety requirements.
+
+The purpose of the ATSU router initialization is:
+For ATSU power up,
+To test ATSU operation,
+@@For air/ground communications functions and service of the ATSU activated.
+
+The scan mask carried  out during ATSU installation:
+@@To select and active VHF service providers contracted by airlines,
+To scan and tune VHF frequency available,
+To test VHF links.
+
+The parameters required when initialize the ATSU router?
+Aircraft registration number and airlines identification parameters,
+@@Aircraft registration number, airlines identification parameters and scan mask validation.
+Scan masks validation is activated.
+
+The“Company data link standby” green memo displayed on the ECAM means?
+Initialization of the ATSU Router complete and ready to use.
+@@ATSU is powered but not working
+ATSU is standby on ground.
+
+The purpose of VHF3 Link test is:
+@@To confirms that the communication link between VHF3 and the ground is operational and available.
+To confirms that the communication link between VHF3 and the RMP is operational and available
+To confirms that the communication link between VHF3 and the ATSU is operational and available.
+
+The  main Components of ATSU  are:
+ATSU, control panels, On board peripherals
+@@ATSU, On board peripherals and ATSU software.
+ATSU, control panels, AOC applications
+
+Aircraft interface/Host Platform Software information are:
+@@Air/ground communication service, HMI, Onboard peripherals, system managements
+Air/ground communication service, HMI, Onboard peripherals, Data Link application
+HMI, Remote AOC applications, Hosted AOC applications
+
+For Initialization of the Air Traffic Service Unit (ATSU) router required  information are:
+A/C ICAO CODE, valid Arline identification, valid A/C registration number, valid scan Mask, VHF status.
+A/C ICAO CODE, valid Arline identification, valid scan Mask
+@@A/C ICAO CODE, valid Arline identification, valid A/C registration number, valid scan Mask,
+
+The COMM STATUS pages are used  to verify the:
+The air/ground COMM status(VHF/HF/SATCOM)
+The ROUTER STATUS (FMGC/DMU/CFDIU)
+@@The air/ground COMM status and The Router Status
+
+The Maintenance Menu is composed of :
+Only TEST function.
+Only STATISTICS function.
+@@TEST/STATISTICS and AUDIT functions.
+
+The ATSU sends two discrete signals to VDR3 to control:
+VDR3 switching between voice and Data mode.
+@@VDR3 switching between voice and Data mode and Frequency selection.
+RMP3 power supply.
+
+The ATSU receives Landing Gear Control and Interface Unit (LGCIU) information for:
+To determine if the aircraft is on ground.
+To determine if the aircraft is in flight..
+@@To determine if the aircraft is on ground or in flight.
+
+The ATSU uses the 24 bit address ICAO code from:
+ATC transponder 1.
+ATC tranponder 2.
+@@Normally from ATC transponder 1,if not available from ATC 2.
+
+The ATSU receives UTC time and date from:
+Aircraft main clock.
+FMGC.
+@@Main clock also as a backup the MMR2 transmits the time and date from GPS source.
+
+The purpose of HF Link test is:
+@@To confirms that the communication link between HF and the ground is operational and available.
+To confirms that the communication link between VHF3 and the RMP is operational and available.
+To confirms that the communication link between VHF3 and the ATSU is operational and available.
+
+STBY compass light is :
+@@Integral Lighting.
+Extenal Lighting.
+Ambient Lighting.
+
+The Avionics compartment Light Push Button Switch (AVIONICS COMPT LT P/B) Located at:
+Over Head (OVHD) panel.
+Side consoal panel.
+@@OVHD Maintenance Panel (50VU)
+
+In A321LR,The Cargo compartments has additional service Area Lights for:
+General illumination.
+Cargo compartments inspection.
+@@Aircraft equipped with additional ACTs.
+
+The Cockpit Annunciator Lights are supplied by.
+AC Bus1 and AC Bus2.
+ACBus 1/AC Bus 2/AC ESS SHED BUS.
+@@ACBus 1/AC Bus 2/AC ESS SHED BUS and STAT INV Bus in case of emergency only.
+
+The 6.3 V (full wave rectified ) supply used in:
+Master Warning and Caution Lights
+Master Warning/Caution And Auto Land lights.
+@@Master Warning/Caution / Auto Land/Audio Control Panels (ACP) lights.
+
+The Advanced Integrated Ballast Units (AIBUs)Are replaced by:
+LED lights.
+@@Cabin LED Unit Coast Optimized White (CLEDU COW) units.
+Normal Cabin Lights.
+
+The FAP  controls the DEUs via CIDS DIRs to give brightness (BRT) levels which are:
+BRT/DIM/OFF
+Low/Medium/High.
+@@BRT 100%, DIM 1 50% and DIM 2 10%
+
+If the engines are running and the cockpit door is open then:
+The CIDS DIR signals the DEU of the all entry light to set 10%..
+@@The CIDS DIR signals the DEU of the left FWD entry light to set 10%..
+The CIDS DIR signals the DEU of the all Cabin light to set 10%.
+
+If a full failure of the FAP and/or CIDS or Cabin decompression occurs then.:
+No cabin Lights
+50% of Cabin lights available.
+@@The entrance lighting comes on automatically to 100% BRT level.
+
+The interfaces between Pax Reading Lights and FAP are:
+PISA and DEU A
+DEU A and CIDS DIR.
+@@PISA, DEU A and CIDS DIR
+
+The Pax Reading Lights replacement procedure is:
+@@There is no replacement Procedure because of High Mean Time Between Failure(MTBF) the complete assembly to be replaced..
+Individually.
+Replace Pax Service Unit.
+
+The Cabin signs must be replaced if:
+All LED's Failed
+LED's never Fail so no replacement.
+@@Three or more LED's have Failed.
+
+The Navigation Lights are:
+Installed on the wings.
+@@Operate independently each system supply one set of NAV lights in RH&LH wing tips and tail cone.
+Red and Green on the wing tips and Yellow on tail cone.
+
+The LED wingtip light assemblies include a Near End of Life(NEOL) function to indicate:
+The position of NAV lights.
+For testing of NAV lights.
+@@When the light is near the end of its useful life.
+
+When the LDG LIGHTS extended the indication in the Cockpit is:
+A buzzer sounds
+@@The “LAND LT”memo message is displayed in ECAM-EWD.
+An Audio  Single Chime.
+
+In CEO aircraft the retractable landing lights can be retrofitted with:
+@@LED technology optical head Light assembly.
+One side LED and other side Halogen Lights.
+Only Halogen lights are used.
+
+The LOGO lights are controled by NAV&LOGO SW when:
+The Flaps are Extended at least 15 Degrees.
+The Main Landing Gears are compressed.
+@@Flaps 15 Degrees or LDG compressed
+
+The New LED type LOGO lights :
+Are same Part Number for R/H and L/H units.
+Are inter Chang able.
+@@Are Different Part Number for R/H and L/H units.
+
+If the Strobe lights are off in Flight  :
+@@The STROBE LT OFF ECAM memo message.
+The STROBE LT OFF SD message
+The STROBE LT OFF Audio message
+
+The Power Supply Unit (PSU) for tail cone strobe installed at:
+Forward avionics compartment.
+Aft avionics compartment
+@@Rear tail cone (THS) compartment.
+
+The Near End Of Life (NEOL) in new LED  light heads:
+@@Flashes Blue LED light.
+Flashes Red LED light
+Flashes Green LED light
+
+The 115V AC from Normal Bus used by EPSU for:
+@@NORMal BUS voltage sensing.
+For converting into 28V DC.
+For Converting into 6V DC.
+
+To operate their associated lights EPSU convert:
+28V DC into 6V AC.
+@@28V DC into 6V DC.
+28V DC into 28V AC.
+
+If the 28V DC SHED ESS BUS voltage falls below 16V then:
+The batteries are continuously charged
+@@The Internal batteries continue to supply the loads for at least 10 minutes & the batteries are no longer charged.
+The battery Bus will supply the EPSUs.
+
+The duration of EPSU battery Capacity test via MCDU  will take:
+Around 5 minutes
+@@Around 3 Hours
+No test Possible.
+
+An individual test on each EPSU can be done via:
+MCDU only.
+FAP only
+@@MCDU or FAP or EPSU unit itself.
+
+The STBY compass light is:
+Automatic operation.
+@@Manually switching using STBY compass/ Visual ice Det SW from OVHD lighting panel.
+From Glareshield panel
+
+The LAV maintenance P/B from FAP sub panel will:
+@@Set the LAV lights to full Bright.
+Set the LAV lights to 75% Bright.
+Set the LAV lights to 50% Bright.
+
+During Annunciator Light Test will test:
+Only DC systems.
+Only AC systems.
+@@All AC & DC systems.
+
+The Passenger reading lights can be tested from the:
+FAP only
+MCDU only
+@@FAP or MCDUs.
+
+Before removing Strobe Light assembly the safety precaution to be followed is:
+The aircraft has been defuelled.
+All AC/DC power must be switched off.
+@@Make sure the Strobe light is de-energised for more than 10 minutes.
+
+In case of failure of FAP or CIDS,the Entrance lighting are:
+Controlled from Cockpit OVHD light Panel.
+Turned off.
+@@Goes automatically full bright (100%).
+
+The cabin attendant work area lights are supplied by:
+CIDS directliy
+DEU Bs.
+@@Standalone PISA via DEU As
+
+The STROBE lights in AUTO  will come on automatically when:
+Flaps are extended.
+Aircraft on ground.
+@@Aircraft is airborne.
+
+The FAP bottom slots used for:
+Cabin Assignment Module (CAM). Onboard Replaceable Module (OBRM),
+Prerecorded Announcement and Music (PRAM) in flash card format.
+@@CAM/OBRM and PRAM.
+
+On the Blue system the source of pressure are:
+The Engine Driven pump (EDP) as normal source.
+The Ram Air Turbine (RAT) as auxiliary source.
+@@The Electrical pump (E-Pump) as normal source and RAT as an auxiliary source.
+
+On the yellow system the source of pressure are:
+The Engine Driven pump (EDP) as normal source .
+Electric (E-Pump) pump as an alternate source.
+@@EDP normal source,PTU and E-Pump as auxiliary sources.
+
+The Operation of PTU is:
+Manual only on Ground.
+@@Automatic if there is a Delta Pressure of 500psi between the G/Y or Y/G hydraulic systems.
+Manual only in cruise flight.
+
+The RAT extension/retraction by:
+Hydraulic only..
+@@Extension by spring force and Retraction by Blue hydraulic
+Spring force only.
+
+The Blue electric pump and RAT are located in:
+The Yellow hydraulic bay.
+AFT cargo compartment.
+@@The Blue Hydraulic bay .
+
+The Direct reading gauges on hydraulic reservoir are used when:
+@@No electrical power supply available.
+To cross check with ECAM-HYD page.
+During Transit.
+
+If you get the hydraulic fluid on your skin or EYES:
+Take sick leave
+@@Flush it away with clean water and get medical aid.
+Hydraulic fluids are harmless.
+
+During maintenance inspection found case drain filter Red clogging indicator pope out:
+@@Replace filter elements
+Reset the filter elements.
+Clean and Refit the filter elements.
+
+To prevent a possible RAT extension during maintenance:
+RAT safety tool must be removed..
+RAT electrical and hydraulic connection removed.
+@@RAT safety tool must be installed
+
+The hydraulic systems having Fire Shut off Valve is:
+Blue/Green/Yellow
+Blue and Yellow
+@@Green and Yellow.
+
+The Source for Blue system pressurization is :
+Engine Driven Pumps (EDP s)
+Ram Air Turbine (RAT)
+@@An Electric pump (E-Pump).
+
+For maintenance operation Blue System can be selected from:
+@@OVHD (50VU) Maintenance panel.
+External Power (108 VU) panel..
+OVHD Hydraulic (40VU) panel.
+
+The Temperature switch sends a signal to ECAM if the Blue E-Pump body temperature exceeds:
+180 Degree C.
+@@165 Degree C
+140 Degree C.
+
+To  monitor and detect fault on B or Y electric pump:
+Current transformers are used.
+Phase unbalance detectors are used.
+@@The current transformers and phase unbalance detectors used together to monitor the operation of the E-pump.
+
+The signals from both HP manifold pressuer switches are sent to the:
+ECAM for indication.
+ECAM and Flight Control Computers (FCCs).
+@@ECAM & FCC, the threshold of the pressure switches is 1450 psi.
+
+The purpose of priority valve is to:
+@@Make sure that all available hydraulic pressure is sent to Primary Flight controls if pressure in the system reduced.
+Make sure that all available hydraulic pressure is sent to Secondary Flight controls if pressure in the system reduced.
+Make sure that all available hydraulic pressure is sent to PTU if pressure in the system reduced
+
+The Temperature switch and transducers send data for the:
+ECAM warnings only.
+@@ECAM warnings and Indication on OVHD P/B's.
+Printer
+
+The aircraft inside the hangar for maintenance, there is no power on the aircraft (Cold Aircraft)If you push the red guarded MAN on P/B from Hydraulic panel then:
+C/SMG will run
+@@RAT will be deployed.
+RAT fan starts running.
+
+Most of the Yellow system components are installed in the:
+@@Yellow hydraulic compartment RH side of belly fairing, FWD of the MLG compartment.
+Yellow hydraulic compartment LH side of belly fairing, FWD of the MLG compartment.
+Yellow hydraulic compartment RH side of belly fairing, AFT of the MLG compartment.
+
+On the yellow system the source of pressure is:
+The Engine Driven pump (EDP) as normal source.
+Electric (E-Pump) pump as an alternate source.
+@@EDP normal source, PTU and E-Pump as auxiliary sources.
+
+For maintenance operation Y-E-pump can be selected from:
+OVHD (50VU) Maintenance panel.
+External Power (108 VU) panel.
+@@OVHD Hydraulic (40VU) panel.
+
+The yellow reservoir quantity indication can be read from:
+Direct reading gauge.
+@@Direct reading gauge, and quantity indicator and a low-level switch for ECAM indication and warning...
+A separate dedicated indicator for Y-system in cockpit.
+
+The yellow system fire valve installed in the:
+@@RH wing, inboard of the pylon.
+LH wing, outboard of the pylon
+RH wing, AFT of the pylon
+
+The fire valve controlled by ENG 2 FIRE P/B,when the valve closes:
+@@It stops the supply of fluid from reservoir to EDP.
+It stops the supply of fluid from reservoir to PTU.
+It stops the supply of fluid from reservoir to EDP & PTU.
+
+The Yellow solenoid valve is automatically closed if the Y/E-pump is energized by using Cargo door selectors this is to:
+@@Prevent any movement of the Flight controls.
+To allow the movement of the Flight Controls.
+Prevent PTU operation.
+
+The quick disconnect is used for maintenance operation to:
+@@To prevent PTU operation.
+To activate PTU operation.
+To transfer the fluids.
+
+The solenoid valve installed in the PTU supply line is to:
+Allow the PTU operation.
+@@Stops the PTU operation.
+To inhibit Yellow-EDP operation.
+
+The air pressure gauge installed on each hydraulic reservoir to indicate the:
+Average pressure.
+@@Actual Pressure
+Ambient pressure.
+
+The LOW AIR pressure warning is triggered in ECAM when pressure is:
+Less than 40 psi
+Less than 18 psi
+@@Less than 22 psi.
+
+The RAT extension/Retraction (Stowing) is controlled by:
+RAT Extension/Retraction solenoids.
+Blue Hydraulic system.
+@@Extension by solenoids and Retraction by Blue hydraulic system.
+
+Each LGCIU in turn controls a complete gear cycle as:
+One UP selection and two DOWN selection.
+Two UP selection and two DOWN selection
+@@One UP selection and one DOWN selection
+
+The Safety valve closes when the aircraft in:
+Ground.
+Take –off
+@@Flight at High speed.
+
+The computer Responsible for Normal Braking operation is;
+@@Braking/Steering Control Unit (BSCU)
+Alternate Braking Control Unit (ABCU)
+Landing Gear Control and Interface Unit (LGCIU)
+
+The computer Responsible for Alternate Braking operation is:
+Braking/Steering Control Unit (BSCU)
+@@Alternate Braking Control Unit (ABCU)
+Landing Gear Control and Interface Unit (LGCIU)
+
+In Alternate Braking the Brake pressure indicated at:
+ECAM-WHEEL page.
+@@Triple Pressure indicator.
+ECAM-EWD.
+
+The Maximum Towing Angle is:
+@@+/- 95 degrees
++/- 70 degrees
++/- 50 degrees
+
+The Maximum Steering Angle is:
+@@+/- 74 degrees using Hand wheels.
++/- 50 degrees using Hand wheels
++/- 35 degrees using Hand wheels
+
+The Maximum  Rudder Pedal Steering Angle is:
++/- 2 Degrees.
++/- 3 Degrees.
+@@+/- 6 Degrees.
+
+The Break Temperature Monitoring Unit (BTMU) transmit the Brake temperature information received from  each sensor to:
+LGCIU
+@@BSCU.
+ABSU.
+
+The Brake cooling fans system is controlled :
+Automatticaly.
+@@Manually.
+Intermittantly.
+
+The Tire Pressure Indicating Computer (TPIC) control and monitors the system also, includes an:
+@@Electronic sensor called Tire Pressure Indicating System(TPIS) on each wheel.
+Electronic sensor called Tire Pressure Indicating System(TPIS) on main wheel.
+Electronic sensor called Tire Pressure Indicating System(TPIS) on Nose  wheel.
+
+During Maintenance the Tire pressure can be checked by;
+Visual Inspections.
+Using Tire Pressure Gage (TPG) only.
+@@TPG or ECAM -SD WHEELpage
+
+The Landing Gear Computers are installed in :
+AFT Main avionics bay(80VU)
+@@Forward avionics bay(90VU)
+Landing Gear bay.
+
+The ECAM-WHEEL page provides the information for:
+Wheel Rotation speed.
+Break Pressure indication.
+@@LDG Door position/Gear Position/Brake Temperature/Tire Pressure Indications.
+
+The parking Brake Control valve operates:
+Mechanically by cable.
+Solenoid control.
+@@Motor Operated
+
+The LDG Door/Extension/Retraction sequence controlled and monitored by:
+@@LGCIU 1&2.
+BSCU
+ABSU.
+
+The number of proximity switch detectors per door provide the door open signals are:
+@@Two proximity switch detectors, one signal per door.
+Two proximity switch detectors, two signal per door.
+One proximity switch detectors, one signal per door.
+
+NLG door up-lock assembly with proximity detectors used for:
+Door closed.
+Door locked.
+@@Door Closed and locked.
+
+The Nose Gear shock absorber extended and nose wheel centered signal comes from the:
+Different proximity detectors.
+@@Same proximity detectors.
+L/G control lever.
+
+The safety precautions are observed before working on the L/G.
+@@Follow the AMM for working on the L/G area.
+Just put wheel chocks are in place.
+The Ground opening handles are in the closed position.
+
+When Aircraft is on ground always install safety devices on the:
+MLG door only.
+NLG door only.
+@@Both MLG and NLG doors.
+
+The Landing Gear door position will be shown in the cockpit on:
+@@ECAM-SD- WHEEL page.
+ECAM-SD-FLT CTL page.
+ECAM-EWD page.
+
+The Brake pedals give mechanical inputs to normal and to the alternate pedal transmitter (XMTR) units for:
+@@Manual normal Braking and Alternate Braking.
+Manual Alternate Braking only.
+Manual Normal braking only.
+
+The Brake pedal XMTR units transform the mechanical input from LH/RH pedals into electrical signals and sent to:
+@@BSCU for Normal Braking & ABSU for Alternate braking.
+BSCU for Alternate Braking & ABSU for Normal braking.
+BSCU for Emergency Braking & ABSU for parking brake.
+
+The BSCU controls :
+@@Normal Braking,Auto Braking as well as Anti-skid operation during normal and alternate braking.
+Normal Braking,Auto Braking as well as Anti-skid operation during normal braking only.
+Normal Braking,Auto Braking as well as Anti-skid operation during alternate braking only.
+
+The triple indicator the gives pressure indication are:
+@@The top pointer shows alternate braking accumulator supply pressure and the bottom pointers for left and right brake supply pressure.
+The top pointer shows alternate braking accumulator supply pressure and the bottom pointers for  right brake supply pressure.
+The top pointer shows alternate braking accumulator supply pressure and the bottom pointers for left  brake supply pressure
+
+The triple pressure indication available only if:
+PARKING BRAKE is set to on,or Normal Brake is active.
+@@ALTERNATE BRAKING is active or PARKING BRAKE is set to on.
+Always available
+
+Each main wheels has multi disc carbon breaks,and speed given by a tachometer is sent to the:
+@@BSCU for anti-skid computation.
+ABCU for anti-skid computation.
+LGCIU for anti-skid computation
+
+The Auto Braking system receives the deceleration rate from.
+LGCIU.
+ADIRS signals to BSCU.
+@@ADIRS signals to BSCU to be compared with Mode selected for Braking computation.
+
+The Auto Brake system is activated when ground spoiler extension signals coming from:
+Elevator Aileron Computers(ELACs).
+@@Spoiler Elevator Computrs (SECs)
+Auto Pilot computers.
+
+The Break and Steering Control Unit (BSCU) has two systems (Two Channels) if they are supplied simultaneously than:
+System1& 2 has priority.
+System 2 has priority and System 1 is in standby.
+@@System 1 has priority and System 2 is in standby.
+
+The ALTN brake pedal transmitter unit supplied by HOT BAT BUS for:
+@@Let the ABCU brake the A/C during towing operation.
+Let the BPCU brake the A/C during towing operation.
+Let the ABCU brake the A/C during taxing operation
+
+When the parking brake handle is set to ON position then:
+@@A signal sent to the BSCU and ABCU in order to-override all other braking modes.
+The Green Hydraulic pressure is shut closed.
+The Yellow Hydraulic pressure is shut closed
+
+The Brake cooling fan is a:
+A single -phase type motor, an impeller and a debris guard.
+A two -phase type motor, an impeller and a debris guard.
+@@A three -phase type motor, an impeller and a debris guard.
+
+The Linear Variable Differential Transducer (LVDT) sensor used in servo valve is to:
+@@Provide position feedback for the steering control.
+Gear position feedback.
+Landing Gear Lever control feedback.
+
+The steering actuator drives the rotating tube in the NLG structure via:
+@@Rock and Pinion assembly.
+Differential pressure.
+Electrical actuators.
+
+The nose wheels are steered depending on the:
+@@BSCU reference speed and the nose wheel steering orders.
+ABSC reference speed and the nose wheel steering orders.
+ADIRU reference speed and the nose wheel steering orders
+
+The A/C reference speed for nose wheel steering and anti-skid functions is obtained from:
+Flight Management Systems (FMS)
+Landing Gear Control and Interface Unit (LGCIU)
+@@Air Data Inertial Reference Units (ADIRUs)
+
+To enable Automatic Breaking the enable signals coming from the:
+Landing Gear Control and Interface Unit (LGCIU).
+@@Ground spoilers extended signal from Spoiler Elevator Computers (SECs).
+Alternate Break Control Unit (ABCU)
+
+Breaking and nose wheel steering control logic, Inputs coming from :
+@@Landing Gear Control and Interface Units (LGCIUs).
+Elevator Aileron Computers (ELACs)
+Flight Augmentation Computers(FACs)
+
+The link between the BSCU and the ELAC serves for Nose wheel steering purposes but the orders coming from:
+Rudder Pedals.
+Autopilot.
+@@Rudder Pedals and Autopilot
+
+The Brake Temperature Monitoring Units (BTMUs) send analog signals to BSCU converted into Digital signals and sent to:
+@@ECAM-SD-WHEEL page for indication.
+OVHD panel for indication.
+ECAM-MEMO page for indication.
+
+The Tachometers send wheel speed valves for the:
+BSCU for reference speed computation only.
+SECs for ground spoilers’ extension logic only.
+@@BSCU for reference speed computation also SECs for ground spoilers’ extension logic
+
+The BSCU sends the wheel speed computation to the Pack Controllers for:
+Adjusting Cabin temperature.
+Adjusting cabin pressurization cycle.
+@@Pack Ram air inlet operation during Take-off and Landing phases.
+
+In BSCU if there is a disagreement between the control and the monitoring channels then:
+Both the systems is disengaged.
+@@The related system is disengaged and the system in standby (STBY) takes over.
+The ABSU takes over
+
+The BSCU sends 4 discrete to Flight Management and Guidance Computers (FMGC) for:
+@@This is to meet the safety requirements of CAT-III B landings.
+This is to meet the safety requirements of CAT-II landings.
+This is to meet the safety requirements of CAT-I landings.
+
+The Alternate Braking Control Unit (ABCU) is made of:
+One functional module.
+@@Two, the power supply selection module and The main functional module.
+Four, two power supply selection modules and two main functional modules.
+
+The Alternate Braking Control Unit (ABCU) is supplied with:
+Two different AC power supply.
+Two different DC power supply.
+@@DC Essential power supply and DC Battery bus (HOT BUS)
+
+The Nose Wheel Steering system supplied by:
+Blue Hydraulic system.
+@@Yellow hydraulic system.
+Green Hydraulic system
+
+Two Elevators and the Trimmable Horizontal Stabilizer (THS) achieve the pitch control as:
+@@Elevators for short-term activity and THS for long - term    activity.
+Elevators for long-term activity and THS for short - term    activity.
+Elevators & THS for manual control activity.
+
+The Roll control achieved by:
+One Aileron on Each wing.
+All spoilers 1 to 5 on each wing.
+@@Ailerons and Spoilers 2 to 5 on each wing.
+
+The spoilers 1 to 5 numbered from:
+Wing tip to wing root.
+@@Wing root to wing tip.
+No.1 &2 in Left side, N0.3 in middle and No.4,5 in Right side.
+
+The Speed brake function is used in flight to increase the aircraft drag; the spoilers used as speed brake are:
+Spoilers 1.2.3.4.&5
+@@Spoilers 2.3, &4.
+Spoilers 1.2.4.&5
+
+The Roll orders and Speed brake orders are added together to give priority to the:
+@@Roll function.
+Speed brake function.
+Pitch function.
+
+All spoilers 1 to 5 used as ground spoiler function during:
+@@To destroy the lift during landing & in case of aborted take-off.
+To destroy the lift during take-off & in case of go-around.
+To increase the Lift during take-off.
+
+The Aileron droop function increases the lift when:
+@@The Ailerons are deflected downwards when flaps are extended.
+The Ailerons are deflected downwards when flaps are retracted.
+The Ailerons are deflected upwards. when flaps are extended
+
+The Slats and Flaps are used for achieve the:
+Landing function.
+@@High Lift Function.
+Speed Brake function.
+
+The Slats and Flaps are controlled by:
+@@Electrically controlled and hydraulically operated.
+@@Hydraulically controlled and electrically operated.
+Mechanically controlled and electrically operated.
+
+The Power Control Unit (PCU) drives the Slats and Flaps with:
+@@Two Hydraulic motors coupled to a differential Gear box.
+Two Electric motors coupled to a differential Gear box.
+Two Electric motors coupled to Two Hydraulic motors.
+
+The Purpose of Wing Tip Brakes (WTB) is:
+@@To stop and lock the system when major failures are detected.
+They are electrically activated.
+They can only reset in Flight.
+
+The Position Pick-Off Units (PPUs) send feedback signals to:
+FWC and LGCIU.
+@@SFCC and ECAM.
+ELAC and SEC.
+
+To prevent an aircraft stall the safety function available in slats are:
+@@The slats cannot be retracted fully at high angle of attack, or Low speeds.( Alpha/Speed lock function).
+The slats can be retracted to clean configuration.
+Slats and flaps are fully extended.
+
+The Flight control computers are:
+@@2 SFCC,2 ELAC,2 FAC and 3 SEC.
+2 SFCC,2 ELAC,2 FAC, and 2 SEC.
+1 SFCC,1 ELAC,1 FAC and 3 SEC.
+
+In normal configuration, the flight control servo actuators act as:
+@@Active servo control and the second one is in damping mode.
+Both are in Active mode.
+Both are in Damping mode.
+
+When only manual pitch trim is available the actuators are hydraulically maintained in neutral position, is called:
+Active mode.
+Damping mode.
+@@Centering mode.
+
+The computer normally responsible for rudder control is:
+ELACs.
+SECs.
+@@FACs
+
+The main function of side sticks is to transmit electrical signals to the Electrical Flight Control System (EFCS) in:
+@@Lateral and longitudinal manual control orders.
+Only Lateral manual control orders.
+Only Vertical manual control orders.
+
+Safety warning during handling of side stick assembly to be followed is;
+@@The assembly stays in vertical position, to prevent damper fluid leakage.
+No any special procedure required
+No standard procedure / practice required
+
+ELAC 1 normally controls Ailerons, in case of failure of ELAC1 then:
+@@ELAC 2 will automatically take over the control.
+ELAC 2 manually take over the control.
+SEC 1 take over the control after switching.
+
+The side stick hand grip includes two Push Button switches for:
+Autopilot Disconnect.
+Autopilot Disconnect and Side stick priority P/B.
+@@Autopilot Disconnect and Side stick priority P/B and a Push-to-talk button.
+
+ELAC 1 normally controls Ailerons, in case of failure of ELAC1 then:
+@@ELAC 2 will automatically take over the control.
+ELAC 2 manually take over the control.
+SEC 1 take over the control after switching.
+
+The Flight Augmentation Computer (FAC) one of the functions is:
+@@Transmits the Turn coordination orders for the rudder.
+Pitch control.
+Auto thrush control
+
+When the autopilot is engaged, the Flight Management and Guidance Computer send the roll commands to the:
+ELACs only.
+FACs only.
+@@ELACs and FACs for turn coordination.
+
+In case of total electrical power loss then roll control is
+Not possible.
+May be possible using symmetric thrust.
+@@Obtained by using the rudder pedals called induced roll, rudder have a mechanical control.
+
+In case one SEC electrical power is lost then:
+All spoilers automatically retract.
+@@The affected spoilers automatically retract.
+the affected spoilers remains in the last commanded position.
+
+The pedal position signals are sent to the:
+@@ELevator Aileron Computers (ELAC) by the transducer (XDCR)
+Air Data Inertial Reference Units (ADIRUs)
+Flight Management Guidance Computers (FMGC)
+
+The two Flight Augmentation Computers (FACs) control the yaw damper servo controls as:
+FAC1 has the priority.
+FAC 2 has the priority.
+@@FAC 1 has the priority and FAC 2 is in Hot stand-by.
+
+The rudder position is transmitted to the SDAC through a position XDCR unit and shown on the:
+ECAM-EWD.
+@@ECAM-SD-FLT CTL page.
+MCDU.
+
+FAC 1 & FAC 2 failure will cause the rudder travel limitation unit. (TLU) frozen and:
+Stay in high-speed configuration.
+Return to low-speed configuration when Flaps are extended
+@@Return to low speed configuration when slats are extended
+
+To prevent icing in Travel Limitation Unit. (TLU) :
+@@There is a heating system with two coils and two regulating thermostats.
+There is a heating system with one coil and one regulating thermostats.
+There is a heating system with one coil and two regulating thermostats.
+
+Each elevator is powered by two actuators, one is active mode, and the other is in damping mode and:
+ELAC 1 controls the green and yellow actuators, and ELAC 2 blue actuators.
+ELAC 1 control the green and blue actuators and ELAC 2 yellow actuator.
+@@ELAC 2 controls the green and yellow actuators, and ELAC 1 blue actuators.
+
+The THS G/Y hydraulic motors are controlled by one of the three electrical trim motors one at a time and the other two in standby:
+Electrical Trim Motor 1,2 and 3 is controlled by ELAC 2.
+Electrical Trim Motor 1,2 and 3 is controlled by ELAC 1
+@@Electrical Trim Motor 1 is controlled by ELAC 2,motor 2 by ELAC 1 or SEC 1, and motor 3 by SEC 2.
+
+If the normal law ELAC 2 fails than:
+@@The control goes to ELAC 1 automatically.
+The control goes to SEC 1 automatically.
+The control goes to SEC 3 automatically
+
+In case of total electrical failure or loss of all computers then:
+Pitch control is lost.
+@@Pitch control can be archived by the mechanical trim system (Mechanical Back-Up).
+Pitch control available only for captain side.
+
+The Pitch Direct law is active in case of:
+@@Triple IR failure or Two RA failure at landing gear extension.
+Two IR failure or one RA failure at landing gear extension.
+One IR failure or Two ELACs failure.
+
+EFCS computers calculate the Pilots side stick orders input and their control laws to:
+@@Calculate the Elevator, Aileron, Spoiler, THS and Rudder deflections.
+Calculate the Slat/Flap deflections.
+Calculate only Pitch deflections.
+
+The P/B's located on the Flt Control over head Panels (23VU &24 VU) are used to:
+Engage the Flight Control computers.
+Disengage the Flight Control computers.
+@@Engage/Disengage or rest their respective computer software.
+
+The Signals from Rudder pedal transducers is used by ELACs and BSCU for:
+Nose wheel steering (NWS).
+@@NWS and tell other EFCS computers pilot now control for turn coordination.
+Aircraft being towed on ground.
+
+When the Autopilot is active the FMGC compute Pitch, Roll and Yaw orders and sent to ELACs and FACs for:
+@@To control and monitor the surface deflections.
+To control auto-land function.
+To give indications on ECAM.
+
+The Radio Altimeter (RA) transmit the radio altitude information to the ELACs for:
+@@Flare law activation.
+Level flight at cruise.
+Flap Retraction speeds.
+
+The vertical accelerometer installed in FWD cargo compartments, the signals used by ELACs and SECs for:
+Pitch trim function only.
+Load factor function only.
+@@Pitch trim and Load factor function
+
+In slat/flap system, the position demand and actual position coming from:
+@@Feedback Position Pick-off Unit (FPPU).
+Asymmetry Position Pick-off Unit APPU).
+Pressure-Off Brake (POB)
+
+If an SFCC failed, the other SFCC receives a WTB-arm signal automatically then:
+@@The second SFCC detects a failure and solenoid valve on each WTB is energized.
+The second SFCC detects a failure and solenoid valve on each WTB is de-energized.
+The second SFCC detects a failure and solenoid valve on each WTB is in ST BY-MODE.
+
+The SLAT/FLAP SLOW green message is displayed in   ECAM-SD-STSTUS page when:
+@@Both the Engines are running.
+On ground with engines off.
+Always when aircraft is powered up.
+
+The number of Asymmetry Position Pick Off (APPU) installed on the wings are:
+@@12-APPUs in each wing.
+12- APPUs for both the wings.
+6 -APPUs in LH side and 6 APPUs on RH side.
+
+The Flap Disconnect Sensors give signals to Landing Gear Control Interface Unit(LGCIU) then:
+The LGCIU transmits this data to its related SEC.
+@@The LGCIU transmits this data to its related SFCC.
+The LGCIU transmits this data to its related SDAC.
+
+ADIRUs 1 & 2 send corrected angle of attack and computed airspeed data to SFCC for:
+@@ALPHA LOCK computation.
+LGCIU LDG down computation.
+LGCIU LDG up computation.
+
+The Instrumentation Position Pic-off units (IPPUs) supply Slat/Flap position data to Flight Warning Computer (FWC) for:
+@@Warning Activation.
+Caution Activation.
+Advisory Activation
+
+The Ground Proximity Warning Computer (GPWC) receives the position data from:
+@@Flap position for approach and landing.
+Slat position for approach and landing.
+Slat/Flap position for approach and landing
+
+The SFCC computers are located at:s
+FWD avionics compartment (90VU)
+@@AFT avionics compartment (80VU)
+FWD cargo bay.
+
+For Maintenance Dispatch Conditions Under MEL for ELACs are:
+@@Both ELACS are MEL items, but Inoperative ELAC 2 is a NO GO item.
+Both ELACS are MEL items, but Inoperative ELAC 1 is a NO GO item.
+No MEL restrictions.
+
+For Maintenance Dispatch Conditions Under MEL for FACs, FCDCs, SFCCs are:
+@@FAC 1, FCDC 1, and SFCC 1 is a NO GO item.
+FAC 2, FCDC 2, and SFCC 2 is a NO GO item.
+FACs, FCDCs, and SFCCs are all GO-IF items.
+
+Do not open Passenger/crew door if the wind speed is more than:
+100 Kts.
+@@65 Kts.
+10 Kts.
+
+If the RED warning light flashes inside door windows than:
+Stop the opening procedure of the doors.
+The residual pressure can cause sudden opening of the door with force and injure persons and cause damage to aircraft.
+@@Stop the opening procedure of the doors and follow AMM servicing procedures
+
+The over-wing evacuation slide will deploy if the over -wing emergency door (OWD) is:
+Opened from outside.
+Opened from inside.
+@@Opened from Outside or inside.
+
+During Emergency Exit slide maintenance to prevent accidental deployment of the off-wing escape slide:
+Remove the off-wing slide assembly.
+@@Install the lock-pin assembly on the head of inflation reservoir.
+Remove the Grit bar.
+
+During maintenance the over wing slide slide must be disarmed by:
+Keeping pressed.
+@@Turning it Counter-clockwise.
+Turning it clock-wise
+
+Before opening cargo doors, it is necessary to make sure that the door is:
+Unlatched.
+Unlocked.
+@@Unlocked and unlatched.
+
+Each Passenger door is monitored by proximity switches that are:
+Locking hook proximity S/W.
+Locking Shaft proximity S/W.
+@@Locking hook, Locking Shaft and escape slide proximity S/W's.
+
+The door indication on the ECAM DOOR page via SDAC provided by:
+@@Locking hook and Locking shaft proximity S/W’s.
+Weight on wheel proximity S/W’s.
+Door open/close handle.
+
+The FWD and AFT cargo doors, the number of proximity S/W’s installed.
+One handle proximity S/W.
+Two Latching shaft and Frame Proximity S/W’s.
+@@Three the handle/the frame and latching shaft proximity S/W’s.
+
+The locking handle and the frame proximity S/W’s give the Door indication on the ECAM for Fwd., and AFT cargo doors via:
+@@Landing Gear Control and Interface Unit (LGCIU)
+Directly.
+System Data Acquisition Concentrator (SDAC).
+
+If it is necessary to open the emergency exit for maintenance, the safety precaution must be followed:
+Switch of the Ground Power.
+Switch of the APU if running.
+@@The automatic slide deployment mechanism must be deactivated
+
+When operating FWD or AFT cargo doors manual selector, a signal sent to:
+@@Inhibit PTU operation.
+SFCC to inhibit Slat/Flap operation.
+FADEC to inhibit engine start.
+
+When you are working on Ramp, the expected wind speed above 40 Knots:
+Not to open FWD or AFT cargo door.
+up to 80 Knots we can open.
+@@Not to open FWD or AFT cargo door and follow AMM for any other additional requirements.
+
+The cove light panels between the upper side wall panels and the overhead stowage compartments are:
+Fixed panels can not be removed.
+Sliding panels used to adjust Passengers air vent.
+@@Removable used to replace cabin window lights
+
+The ceiling panels are installed along the full length of cabin and utility areas are:
+Removable with special tools.
+@@Removable Easily with out any tools.
+Removable only during major inspections
+
+The passengers service information units (PSIU) includes:
+The Passenger Service units (PSUs).
+The Passenger Information Units (PIUs)
+@@PSUs and PIUs in relation to the A/Cs cabin configurations
+
+The Pilots seat movements can be adjusted by:
+Hydraulically.
+@@Electrically or Mechanically.
+Cables.
+
+The Pilots seat are adjusted according to the indicators located on the center windshield frame coloured as :
+@@Two Red and One white balls.
+Two white and One Red balls.
+Three white balls
+
+The In-Seat Power Supply Unit converts the 115V AC/400Hz into:
+220 V AC/400Hz, and provides the Outlet Units(OU)
+@@110V AC/60 Hz,and provides the Outlet Units(OU)
+110V AC/200Hz,and provides the Outlet Units(OU)
+
+The lavatory units has following interfaces:
+Exhaust air interface.
+Potable water and waste water interface.
+@@Exhaust air,water and waste,vacuum and electrical interfaces
+
+The Passenger(PAX) Portable Electronic Device Power (PED) is controlled by:
+@@P/BSW installed in FAP.
+P/BSW installed in AFT cabin crew CTL panel.
+P/BSW installed in PAX seat armrest
+
+There is no electrical power supply to the Portable Electronic Device(PED) power outlets during the:
+In cruise flight.
+@@Take-off and Landing
+Decent phase
+
+The Door area panel optionally heated in all Single aisle aircraft are:
+@@Front Passenger/Crew door (door area1).
+Fwd/Aft Passenger/Crew doors (door area1 and4).
+Rear Passenger/Crew door (door area 4).
+
+The A321 the door area heated are:
+@@Cabin and Emergency exits doors areas 2 and 3.
+Cabin and Emergency exits doors areas 3 and 4.
+Cabin and Emergency exits doors areas 2 and 4
+
+The A321LR  the door area heated are:
+@@Cabin and Emergency exits doors area 3.
+Cabin and Emergency exits doors area 3 and AFT door
+Cabin and Emergency exits doors area 2, 3 and 4
+
+The A321 the heating control units are installed on:
+FWD cargo entrance for door area 2.
+@@FWD cargo entrance for door area 2 and AFT cargo entrance for door area 3.
+FWD cargo entrance for door areas 2 and 3.
+
+The A321LR the heating control units are installed at:
+@@For Door area 3 is in AFT cargo compartment.
+For Door area 3 is in FWD cargo compartment.
+For Door area 3 is in Bulk cargo compartment
+
+The heated floor panels are supplied with:
+@@115V AC  via control units.
+115V AC directly.
+28V AC directly.
+
+The crew oxygen supplies oxygen to the flight crew in case of:
+Loss of cabin pressurization.
+All the time in flight.
+@@Loss of cabin pressurization or smoke or dangerous gases in the cockpit
+
+In CEO the oxygen for cockpit crew supplied by the:
+@@High pressure oxygen cylinder and quick-donning masks.
+Low pressure oxygen cylinder and quick-donning masks.
+Two separate oxygen cylinder and quick-donning masks.
+
+In NEO the oxygen for cockpit crew supplied by the:
+@@Two segregated High pressure oxygen cylinders.
+A single High Pressure oxygen cylinder.
+Cabin air is used.
+
+There are two types of chemical generators that supply oxygen for:
+@@15 minutes or 22 minutes.
+25 minutes or 32 minutes.
+5 minutes or 12 minutes
+
+The oxygen system pressure information available to the pilots are:
+Total pressure in Direct gauge in HP bottle.
+@@ECAM-DOOR/OXY page HP and LP pressure of the system.
+In ECAM-ND page
+
+The pilots can open or close the oxygen supply by using:
+Manual ON/OFF valve.
+By tripping the C/B.
+@@The CREW SUPPLY P/B (21VU) on the oxygen panel controls the supply valve
+
+During walk around inspection if maintenance found green visual oxygen disc  missing means:
+Oxygen bottle charging required.
+@@The cylinder was discharged or the pressure relief valve is open.
+Oxygen is leaking
+
+The  safety precaution maintenance team must follow  when working in Oxygen concentration area is:
+No special requirements to be followed.
+@@The person must avoid any source of ignition (like smoking etc..)
+Take a shower immediately
+
+During maintenance operation if a thunderstorm or bad weather condition occur then:
+@@Immediately stop all oxygen related operations.
+Continue the oxygen related operations.
+Refueling and oxygen servicing can be done
+
+Oxygen cylinders and oxygen chemical generators are classified as:
+Standred materials.
+Special materials.
+@@Dangerous materials.(Dangerous Goods -DG)
+
+Air transportation of Oxygen cylinders and oxygen chemical generators are restricted by:
+@@International Air Transport Association (IATA).
+Local Civil Aviation Authorities.
+Air Transport companies
+
+The electrical supply for oxygen containers in the cabin is split into four separate circuits as two RH and two LH for:
+@@Each circuit on each side is feeding alternate oxygen containers.
+Each circuit on each side is feeding same oxygen containers.
+The APU can power the circuits in case of electrical emergency
+
+The white SYS ON light indicates in cockpit OVHD panel that.
+All the passengers masks are deployed.
+@@The masks are deployed electrically in auto or manual modes.
+To indicate the pilots the chemical generators working
+
+The FAULT light on the TMR RESET P/B comes on  if:
+@@A failure is detected in TIME DELAY RELAYS.
+A failure is detected in OVHD P/B switch.
+A failure is detected in the Chemical generator
+
+The Reset of oxygen system is done by pressing OXYGEN/TMR RESET P/B SW on:
+MAN OVRD P/B SW in OVHD panel.
+@@Maintenance Panel (50VU) above F/Os OVHD.
+Electrical system OVHD panel
+
+To prevent ice formation in flight and during the cold weather operation:
+@@The two drain masts have integrated electrical heating elements.
+Externally heated by ground cart on ground.
+Engine bleed air is used in flight
+
+The water/waste system distribution in the forward area near avionics compartments routed as:
+@@Added protection and goes through a house.
+No protection necessary.
+All the lines routed through side walls.
+
+To prevent ice formation in and around the potable water distribution lines they are:
+Insulated.
+@@Insulated and Electrically heated around the lines.
+Bleed air used to heat the lines
+
+To prevent water spillage in the cabin area ,during water service the maintenance crew.
+@@Without electrical power you must open the overflow valve manually before filling operation.
+With electrical power you must open the overflow valve manually before filling operation.
+Must use the FAP only for filling operation
+
+During filling operation if the water tank is empty than:
+Amber light in the water service panel comes ON.
+@@All valves are closed and there are no indicator lights.
+All the service panel lights blinks
+
+If the water service Panel door is opens then:
+The system is electrically powered.
+The FAP water/Waste page to be selected.
+@@The system is electrically powered and FAP water indication page is automatically called
+
+The aircraft on ground during cold weather conditions then the maintenance must:
+@@Drain the potable water to prevent damage of the system by ice.
+Water service must be carried out with hot water.
+Aircraft must be parked inside the hanga
+
+The cold weather maintenance procedures for the potable water system are given in the:
+AMM 38-00.
+@@AMM 12-31-38.
+FCOM Vol 1
+
+When the waste tank Liquid Level Sensor(LLS) becomes wet,the CFDS via DEU B then:
+Display a memo message on the ECAM.
+Sounds ground horn ,if the aircraft is on ground.
+@@Shuts down the toilet system
+
+As per MEL/Deactivation If any of the drain mast is not heated, the aircraft can :
+Not dispached.
+@@Dispatched provided the associated galleys or toilets are not used and placarded “Inoperative”and        water shutoff valves are closed.
+The toilet door is locked
+
+The Flush valve for the toilet bowl operation :
+@@Is controlled by the Flush Control Unit (FCU) part of the toilet assembly.
+Remains open as long as the Flush switch is kept pressed.
+Is controlled by the Vacuum System Controller
+
+The water taps can supply:
+Cold water only
+Hot or Cold water only on GND.
+@@Clod/Hot water, heater installed under the wash basin in each unit can supply hot water in Flight   or in GND’
+
+Vacuum Generator are controlled by the Vacuum System Controller Function (VSCF) integrated in:
+Water/waste service panel.
+@@CIDS Director
+FAP
+
+Drain mast heated on.
+only in flight
+only on ground
+@@Darin mast always heated in ground or in flight
+
+Potable water service Panel located in A320 Family at:
+@@Rear Left Hand Side
+Center of Aircraft
+rear Right Hand Side
+
+The number of fuel pumps installed are:
+@@Two pumps for each wing tanks and one for APU
+Two pumps for each wing tanks and two for APU
+one pump for each wing tanks and one for APU
+
+APU fuel system feeds directly from:
+Right hand side
+@@Left hand side
+Right or Left side as per the flight phases
+
+Which A320 Family shares common wing tank design:
+@@A318/A319/A320 have five cells design.
+A318/A319/A320/A321 have the same design.
+All the family members differ in fuel tank construction
+
+The fuel transfer from ACTs to centre tank sequence as follows:
+@@First Fwd. ACT then ACT# 2 and then ACT# 1
+ACT#1, then ACT#2, then ACT fwd.
+ACT#2, ACT Fwd., then ACT #1
+
+The wing tank pumps are controlled manually but the centre tank can be controlled:
+Automatically if the Fuel CTRL Panel the MODE SEL P/B pushed in (AUTO)
+Manually if the MODE SEL P/B released out (White MAN mode)
+@@The mode selector can be either Auto or Manual.
+
+The Fuel page available in flight at:
+ECAM- EWD only
+ECAM-SD FUEL page
+@@ECAM -SD FUEL page and Fuel on Board (FOB) duplicated on the ECAM-EWD
+
+The Fuel information avilable on grround at:
+ECAM- EWD only
+ECAM-SD FUEL page
+@@ECAM -SD FUEL page and Fuel on Board (FOB) duplicated on the ECAM-EWD And External Refueling panel.
+
+The Fueling computers are:
+FLSCU #1 & FLSCU #2 (Fuel Level Sensing Control Unit)
+Single channel FQIC (Fuel Quantity Indication Computer)
+@@FLSCU#1 and FLSCU #2 and 2-channel FQIC
+
+The firefighting equipment required during Fueling operations is:
+Any type of fire extinguisher.
+@@Adequate capacity fire extinguisher as per AMM.
+No fire extinguisher required during fuel operations
+
+The crossfeed valve in the fuel system :
+Electrically controlled and operated by two AC motors.
+@@Electrically controlled and operated by two DC motors.
+Electrically controlled and operated by one DC and one AC motor
+
+The main fuel pumps are driven by :
+@@3-Phase 115V AC motor supplied by different bus bars.
+3-Phase 115V AC motor supplied by same bus bar.
+Single-Phase 115V AC motor supplied by  bus bars
+
+The IDG oil cooling circulation system is controlled by the:
+Fuel Level Sensing Control Unit (FLSCU) 1 and The Electronic Control Unit (ECU) 1 for both the wing system.
+@@FLSCU 1 and ECU 1 for the left wing,FLSCU 2 and ECU 2 for the right wing.
+Air Cooled Oil Cooler (ACOC) system
+
+The IDG fuel cooling re circulation is monitored by using information from:
+Over Flow level sensors.
+Fuel temperature sensors.
+@@Full Level sensors,Low Level sensors and Under full sensors
+
+The IDG cooled fuel is returned into:
+Center Tank.
+Wing tank Inner cell.
+@@Wing tank outer cell.
+
+The Fuel Return Valve (FRV) in the Right Wing is controlled by:
+ECU 1 or 2.
+@@FLSCU 2 and ECU 2.
+FLSCU 2 and ECU 1.
+
+The Fuel Return Valve (FRV) in the Left Wing is controlled by:
+ECU 1 or 2.
+FLSCU 2 and ECU 2.
+@@FLSCU 1 and ECU 1.
+
+The under-full sensors are located in:
+Center tank.
+Outer cell.
+@@Inner cell.
+
+A single channel failure of the Fuel Quantity Indication Computer (FQIC) will result in:
+A status message on lower ECAM -SD page.
+A level 1 caution message on ECAM.
+@@Normal system operation and CFDS report will be generated for the failure.
+
+The Fuel Quantity Indicating (FQI) system is a:
+Analog capacitance type system.
+@@Computerized capacitance type system.
+Digital capacitance type system.
+
+The dual comp is installed in the:
+@@LH fuel tank.
+RH fuel tank.
+Center tank.
+
+The ultra comp is installed in the:
+@@Center and RH wing tank.
+LH wing tank.
+Center and LH wing tank.
+
+The ultra comp has the function as:
+Variable capacitance function.
+Temperature sensing function.
+@@Variable capacitance function,Temperature sensing and Velocimeter measurement functions
+
+A319/ A320/A321 the total number of quantity probs installed are:
+Center tank 5 probes.
+Wing tanks 12 probes.
+@@Center tank 5 probes and wing tanks 14 probes.
+
+During refuel operation the diffuser installed on refuel lines for:
+Diffuse fuel into the tanks with minimum turbulence.
+Diffuse fuel into the tanks with maximum turbulence.
+@@Diffuse fuel into the tanks with minimum turbulence and electrostatic build-up.
+
+The Engine and APU fire protection is done by two sub-systems,they are:
+@@The Fire detection and the Fire extinguishing system.
+The Fire detection and the Fire fighting system.
+The Fire detection and the Fire eliminating system
+
+The Fire Detection Unit (FDU) monitors the :
+FDU 1 and FDU 2 monitor Engine loops no 1 and APU.
+@@FDU 1 for Engine No.1 and FDU 2 for Engine No.2.
+FDU 2 for Engine No1,Engine No 2 and APU
+
+The Fire Detection Units sends the FIRE and FAULT signals to the:
+@@Flight Warning Computer (FWC).
+Cabin Intercommunication Data System (CIDS).
+System Data Acquisition Concentrater (SDAC)
+
+In CEO and NEO aircraft the OVHD(20VU) guarded red FIRE P/B are used to:
+Isolate the related systems.
+The Engine or APU will shut down.
+@@Isolate the  related system,shut down the related system and also arms the extinguishing system
+
+On ground an APU fire will cause an:
+Automatic shutdown of the APU only.
+Automatic discharge of the fire bottle only.
+@@Automatic shut down and Auto discharge of the bottle
+
+The Avionics Smoke Detection controlled and monitored by:
+@@Avionics Equipment Ventilation Controller (AEVC)
+Fire Detection Unit (FDU)
+Dedicated fire bottle.
+
+The avionics cooling, circulation of the air supplied by:
+@@Blower fan for cool air supply and Extraction fan for warm air removal.
+Ram Air inlet.
+Engine fanair.
+
+The smoke detector installed on Avionics Smoke Detection system is:
+Radio active detector type.
+Laser detector type.
+@@Photo-electric type
+
+The Cargo compartment smoke detection system is monitored by the:
+Photo-electric type detectors.
+@@Smoke Detection Function(SDF) integrated in the Cabin Intercommunication Data System(CIDS).
+Fire Detection loops.
+
+Engine loop A & B are connected to the Fire Detection Unit (FDU) in:
+Series
+@@Parallel
+ARINC 429 bus
+
+The  engine fire warning signals are sent to:
+@@ECAM, Engine fire panel and start control panel
+Engine fire panel and ECAM
+ECAM and start control pane
+
+The fire extinguishing agent pressure is monitored by:
+@@A pressure switch.
+A red light in the cockpit.
+A red disk on the pylon
+
+APU fire on ground is normally extinguished:
+From APU FIRE panel.
+@@Automatically by auto extinguishing system.
+From EXTERNAL POWER panel.
+
+APU fire in flight is normally extinguished by:
+@@Cockpit crew Manually from APU FIRE panel.
+Automatically by the FDU.
+Automatically when fire handle is pulled
+
+Thermal discharge of the APU bottle can be detected on walk around inspection:
+By the FDU.
+By the ECAM.
+@@By the red disc indicator located near rear fuselage
+
+The A/C on ground, the APU fire warning signals are sent to:
+@@ECAM, APU fire panel and external power control panel
+ECAM, APU fire panel
+APU fire panel and external power control panel
+
+Where is the Avionics smoke detector installed?
+@@On the air extraction duct of the avionics ventilation system located in 80VU.
+On the air inlet duct of the avionics ventilation system
+In the Avionics compartment ceiling
+
+In case of Avionics smoke detection, the smoke detector activates the:
+@@GEN 1 LINE SMOKE, BLOWER FAULT and EXTRACT FAULT lights are on.
+GEN 1 LINE SMOKE light on
+BLOWER FAULT and EXTRACT FAULT lights on
+
+The lavatory fire protection is provided by:
+The lavatory automatic extinguishing
+The lavatory smoke detection system.
+@@The lavatory smoke detection system and the waste bin automatic extinguishing
+
+The lavatory & cargo smoke detectors are monitored by:
+Fire Detection Unit (FDU)  ARINC 429 bus.
+Smoke Detection Control Unit(SDCU) ARINC 429 bus.
+@@Smoke Detection Function (SDF) in CIDS director CAN bus.
+
+As soon as the fire P/BSW is released out then:
+Fuel,Electrical power is disconnected.
+Air,Hydraulic power is disconnected.
+@@Fuel,air,electrical,hydraulic power,and Engine Interface Unit electrical power supply are disconnected.
+
+On NEO aircraft,the Fire Detection Units(FDU) can identify faulty fire detector in:
+Pylon area only.
+Core area only.
+@@Pylon,core or fan areas.
+
+In A321 and A321LR for EDTO/(ETOPS)  certified flight the fire bottles:
+Installed with fire metering system on the First bottle only.
+@@Installed with fire metering system on the Second bottle only
+Installed with fire metering system on both 1 and 2 bottles
+
+For EDTO/(ETOPS) flights  certifications, the bottles are certified based on capacity as:
+ETOPS (standared) 60 minutes.
+ETOPS -90 minutes
+@@ETOPS- 60/ 120/180 minutes
+
+In maintenance the ENGINE and APU FIRE tests must be performed at:
+Any time on ground.
+Only in transit .
+@@All times before starting Engine or APU
+
+The Engines fire bottles Squib connected to:
+@@BTL 1 squib A and BTL 1 squib B in HOTBUS 1 and 2.
+BTL 1 squib A and BTL 1 squib B in HOTBUS 1.
+BTL 1 squib A and BTL 1 squib B in HOTBUS 2
+
+The APU Auto extinguishing test push button installed at:
+@@Over head maintenance panel (50VU).
+External Power Panel (108VU).
+APU Master Switch panel(25VU)
+
+What is the Safety precaution for Maintenance crew when working in Fire bottles:
+Nothing Do your task as usual.
+The Engine and APU bottles are connected to HOT BUS.
+@@Pull all applicable C/B s and put warning notices as per AMM
+
+The lavatory smoke detector installed :
+@@In the ceiling panel, beside the air extraction duct
+In the waste bin
+In the air extraction duct
+
+IN APU the hot gases from the power section and unused bleed air are released through:
+@@The exhaust pipe to the atmosphere
+Inside the cabin
+Used in air-conditioning system.
+
+The APU is controlled and monitored by:
+Electrical Control box.
+@@A full authority Electronic Control Box called ECB.
+Engine Electronic Control box
+
+The APU electrical power available in flight at the:
+@@Entire flight envelope.
+Until Cruise altitude.
+During decend phase
+
+The types of APU available for A320 Family are:
+Honeywell  type 131-9(A).
+APIC type APIC3200 only.
+@@Either Honeywell or APIC type can be installed
+
+The APU oil level information available in the cockpit are from:
+Displayed in EIS only.
+MCDU only.
+@@ECAM-APU-SD page for Low Oil Level advisory and from MCDU APU Service Data page
+
+In case of an APU inlet actuator failure,the APU may be dispatched, as per MEL with the:
+Inlet OPEN only.
+Inlet CLOSED only.
+@@Inlet OPEN or CLOSED with AMM/MEL procedures
+
+The Safety precaution taken during  APU cowls open position during maintenance is to:
+@@Make sure that proper size fire fighting equipment is  available.
+No any safety precaution required APU fire bottle is adequate.
+No any safety procedure required because the APU doors are open during maintenance
+
+During APU  normal operations:
+@@The electric power supply has priority over the bleed air supply
+The bleed air supply has priority over the electric power supply
+There is no priority order
+
+The ECB controlled oil component in the APU oil system is:
+Low oil level sensor
+Low oil pressure sensor
+@@De-oiling solenoid valve
+
+The inlet Guide Vane (IGV) is controlled :
+By theBMC1.
+By the BMC2
+@@By the ECB
+
+The APU Air intake Flap open:
+@@As soon as MASTER SW in `ON` position
+As soon as N>7%
+As soon as ignition begin
+
+When the FUEL VENT push button switch is pressed in  at the APU compartment then:
+@@APU fuel pump runs and fuel isolation valve opens.
+Left wing main fuel pumps runs and APU fuel isolation valve closes.
+APU fuel pump stops and Fuel Control Unit close
+
+During Ram Air Turbine extension(RAT),in electrical emergency configuration the starting of APU is:
+@@Inhibited  by 45 seconds by Battery Charge Limiter (BCL).
+Not limited can start APU at any time.
+Normally RAT will start the APU once it is on line
+
+In the APU, ECB power Up test is performed at each time :
+When any one of the main engine started.
+When Battery P/B SW is ON.
+@@When APU master switch is set to ON
+
+The APU total operation hours/APU cycles can be obtained from:
+Post Flight Report (PFR) on ground.
+Current Leg report in flight.
+@@System Report Menu -APU pages on MCDU
+
+The parameters displayed on the ECAM-SD-APU page,when APU is in operation are:
+@@APU Speed (N) and EGT temperature.
+Fuel Flow and Oil temperature.
+Oil quantity and Oil temperature.
+
+The APU generator parameters available on ECAM are:
+In flight cruise page.
+Always in STATUS page.
+@@ECAM-SD Electrical and ECAM-SD APU pages
+
+The ECB monitored Oil system parameters are:
+High Oil temperature and High oil Pressure.
+Low oil temperature and oil clog conditions.
+@@High oil temperature,low oil pressure,oil pressure differential and oil clog condition
+
+A320 F the APU is installed at:
+Pressurized Tail compartment.
+THS compartment.
+@@Un pressurized Tail compartment.
+
+The ONLY engine powers complete SA Family(A318/319/320/321) is:
+V2500
+@@CFM 56-5B
+PW 1100 G
+
+How to change the Thrust Rating of CFM 56 engines as per requirements:
+All engine is basically different cannot change the thrust rating.
+Different A320 Family requires different thrust rated CFM56 engines
+@@All the CFM 56-5B engines are basically the same, a programming plug on the Electronic Cont Unit (ECU) changes the available thrust
+
+The speed of Low Pressure (LP) rotor is Indicated on the ECAM as:
+@@N1
+N2
+N1 + N2
+
+The speed of High Pressure (HP) rotor is Indicated on the ECAM as:
+N1
+@@N2
+N1 + N2
+
+The annular combustion chamber has:
+1- igniter plug
+4-igniter plugs known as A1, A2 and B1, B2
+@@2-ignitor plugs known as A & B
+
+The Engine Vibration Monitoring Unit function (EVMU) are:
+@@Collects Vibration data from both engines, and displayed on the ECAM.
+Collects Vibration data from both engines, and displayed on the MCDU.
+Collects Vibration data from both engines, and displayed on the PFD
+
+The engine primary parameters are permanently displayed on the:
+@@Upper ECAM (EWD)
+Lower ECAM (SD)
+MCDU
+
+What is the one of the safety precautions observed during Engine Ground Run:
+The entry corridor will be open when engine power is above the minimum
+The entry corridor will be open/closed when engine power is above the minimum
+@@The entry corridor will be closed when engine power is above the minimum
+
+What is the one of the safety precautions observed on Engine ignition system:
+Do not do maintenance on the ignition system while the engines operate.
+you can do maintenance on the ignition system while the engines operate.
+@@Do not do maintenance on the ignition system while the engines operate, wait more than >5 minutes after shut down
+
+The EIU  input signals types are:
+Discrete and digital
+Analog and digital
+@@Discrete , analog and digital
+
+The FADEC system consists of :
+A single Channel ECU with its peripherals for both engines
+@@Dual channel ECU with its peripherals per engine.
+Two computer for each engines
+
+The Ignition system uses the electrical power:
+28 VAC from aircraft
+@@115 VAC from aircraft
+115 VAC from dedicated alternator
+
+The System that controls the Engines at all operating conditions is:
+@@Full Authority Digital Engine control (FADEC)
+Engine Vibration Monitoring Unit (EVMU)
+Engine Interface Unit (EIU)
+
+The Permanent Magnet Alternator (PMA) also called Control Alternator supplies the ECU when:
+@@When engine is running and N2 speed> 15%.
+When engine is running and N2 speed> 50%.
+When engine is running and N2 speed> 75%
+
+The FADEC automatically selects a continuous relight:
+In case of Engine Interface Unit (EIU) failure only.
+@@If engine anti-icing is detected ON or EIU failure or engine flame-out.
+In case of Electronic Control Unit (ECU) failure
+
+The purpose of the ENGINE MASTER SWITCH is
+To open or close the HP fuel Shut-Off Valve.
+To command and reset the FADEC functions.
+@@Both to open or close the HP fuel Shut-Off Valve and to command and reset the FADEC functions
+
+The eng FADEC GND PWR is used to:
+Enable the pilots to start the engines automatically.
+@@Supply the computers dedicated to the engines when the engines are not running.
+Enable the pilots to start the engines manually
+
+In case of emergency,the fire push-button is pressed then:
+@@Fuel LP shut-off valve closes and the engine is shutdown.
+Fuel HP shut-off valve closes and the engine is shutdown.
+Fuel LP and HP shut-off valves closes and the engine run in low power
+
+The ECU calculates the relationship between the Throttle Lever Angle (TLA) and Throttle Resolver Angle (TRA) linearly as:
+1 degree TLA is 1 degree TRA.
+@@1 degree TLA is 1.9 degrees TRA.
+1 degree TLA is 19 degrees TRA
+
+The ECU is electrically supplied via the:
+APU only.
+A/C main batteries only.
+@@EIU only when N2 is below 58%
+
+The power supply module from EIU supply electrical power to:
+@@The ECU and ignition systems.
+Start valve.
+OVHD ENG  fire panel
+
+If the EIU electrical power is lost  the EIU fails and then:
+No ECAM indication.
+@@Engine start or restart is NOT possible.
+Cross engine start possible
+
+The Thrust Reverser system is controlled for the engines:
+@@Independently by the associated FADEC system.
+Simultaneously by FADEC No.1.
+Simultaneously by FADEC No.2
+
+To tell the crew that the thrust reverser system mechanically inhibited for dispatch:
+@@A caution amber message “ENG X REV INHIBITED is displayed on the ECAM.
+A memo green message “ENG X REV INHIBITED is displayed on the ECAM.
+A advisory white message “ENG X REV INHIBITED is displayed on the ECAM
+
+The master chip detector used for ground inspection which is a.
+@@Electrical type and also has a visual pop-out indicator.
+Operates only in differential pressure type.
+Indicator with Red or Green flag
+
+Pneumatic system indicated on:
+@@Lower part of ECAM/SD-BLEED page.
+upper part of ECAM/SD-BLEED page.
+Lower part of ECAM/SD-AIRCON page
+
+Safety precaution to be followed during working on Bleed System
+@@Follow AMM procedure and Bleed air is very Hot.
+Bleed Air is cool air can work normally.
+Wear protective hears plug
+
+The Pressure regularization components are on the engines are:
+Engine FAN AIR(FAV) valve.
+Engine Pre-cooler.
+@@Engine High Pressure Valve(HPV),Bleed Valve (PRV) and Over Pressure Valve
+
+In ECAM-SD BLEED page the white GND and triangle indicates:
+When Ground air supply is connected turns green and indicate the pressure.
+@@The GND indication DOES NOT indicate ground air supply is connected or available.
+It is available to indicate aircraft in flight or ground.
+
+The Engine Bleed Valve(PRV)is :
+Pneumatically controlled, motor operated valve.
+@@Solenoid controlled,pneumatically operated valve.
+A spring loaded and air pressure controlled valve
+
+The Dual Loop leak detection provided for:
+Wings,Packs and Pylons.
+APU AFT fuselage ducts.
+@@Wings,Packs and Mid -fuselage APU ducts
+
+The APU leak detection  loop is connected to the:
+@@Bleed Monitoring Computer (BMC) 1.
+Bleed Monitoring Computer (BMC) 2.
+Bleed Monitoring Computers (BMC) 1 and 2
+
+The X-BLEED valve is a:
+@@Electrically controlled shut-off valve.
+Pressure regulating valve.
+Pneumatically operating valve
+
+The X-Bleed Valve electrically controlled by:
+Two servo-valves.
+One electrical motor
+@@Two independent electrical motors
+
+In Case of BMC 1 failure:
+BMC 2 ensures the complete leak detection.
+The leak detection is completely lost.
+@@BMC 2 ensures its wing leak detection
+
+A FAULT light is on the ENG 1 BLEED P/BSW,indicates an:
+@@Over heat condition sensed in LH pylon or LH wing or LH MID fuselage area.
+Over heat condition sensed in APU duct area.
+BMC 1 is faulty
+
+The APU and Cross bleed (X-BLEED) valves do not close during:
+@@Main Engine Start (MES).
+BMC 1 fault.
+BMC 2 fault.
+
+The Bleed Pressure Regulating Valve Control Solenoid (CTS) function is to:
+Prevent reverse airflow through the precooler..
+@@Prevent reverse air flow through the engine PRV.
+Prevent reverse  air flow through IP valve
+
+The two Air Conditioning System Controllers (ACSC) controls:
+@@BY PASS VALVE and RAM-AIR INLET door by modulating.
+BY PASS VALVE and RAM-AIR INLET door by closing.
+BY PASS VALVE and RAM-AIR INLET door by opening
+
+The upper section of ECAM/SD-BLEED page shows:
+By pass valve position
+Pack outlet Temperature
+@@Pack flow, by pass valve position and pack outlet temperature
+
+The Packs supply conditioned air to the cabin for:
+Air conditioning only.
+Ventilation only,
+@@Air conditioning,Ventilation and Pressurization of cabin
+
+The two Air Conditioning System Controller (ACSC) calculates the:
+Mass flow demand.
+Controls the flow control valve.
+@@Mass Flow demand and sets the flow control valve in the necessary reference position.
+
+The each ACSC controls one pack for:
+The pack outlet temperature.
+@@The ACSC Modulates the BYPASS VALVE and the RAM-AIR INLET doors.
+The pack inlet temperature
+
+The pressurized areas are:
+The Cockpit,Cabin zones.
+The Avionics bay and APU bay .
+@@The cockpit,Cabin,Avionics bay and Cargo compartments
+
+The Out Flow Valve has three motors for:
+Two for automatic and the third one as a standby.
+Two for system one and one for system two.
+@@The third motor for manual operation in case of both automatic systems fails.
+
+The Residual Pressure Control Unit (RPCU),prevents residual pressure in the cabin by:
+Manual operation.
+Controlling the outflow valve automatically.
+@@Automatically,it supplies power directly to the manual motor of the outflow valve.
+
+The Avionics Ventilation blower fan and extract fan operates:
+@@Continuously while the aircraft electrical system is supplied.
+During takeoff (TO) phases.
+During landing(LDG) phases
+
+To prevent water ingestion during heavy rain conditions the maintenance action to be followed with the ventilation system in the OPEN configuration on ground:
+The Ventilation system should be put in the CLOSED configuration by selecting EXTRACT P/B SW to Over Ride(OVRD)on the ventilation panel 22VU.
+@@After OVRD selection on panel 22VU,select the Packs on.
+No action required by the maintenance it is an auto operation
+
+When Maintenance carry out CPC test through MCDU the precaution to be followed are:
+Aircraft may get pressurize.
+It is an normal routine task no  any special requirements.
+@@It is a dynamic test,out flow valve cycle very fast,follow the AMM procedure
+
+The Flow Control Unit (FCU) controlled by:
+Air Conditioning System Controllers.(ACSC)
+ACSC  1 controls both the FCU.
+@@ACSC 1 controls the FCU for pack 1 and ACSC 2 controls the FCU for pack 2.
+ASK 21-31-00-710-002-A
+
+If there is a malfunction of an FCU component (e.g. Flow sensor,Torque Motor or Pressure Sensor) in flight then:
+The pack regulation is lost.
+@@The ACSC energize the second solenoid and pack operates in Back-Up mode.
+Fly at pressure altitude
+
+The REHEATER is used in the system for:
+Heat the cool air before distribution.
+@@To vaporize the last remaining water droplets before the air sent to the ACM turbine and to prevent damage to the turbine.
+To heat the RAM air
+
+For maintenance the ACSCs are connected to CFDIU as:
+Both ACSC 1 and ACSC 2 connected directly.
+Only ACSC 1 is connected to CFDIU.
+@@ll BITE data from ACSC 1 will be transmitted to ACSC 2 and ACSC 2 only connected to CFDIU
+
+In Normal operation the cockpit OVHD ventilation panel:
+@@The BLOWER and EXTRACT PB/SW are set to AUTO.
+The BLOWER set to OVRD and EXTRACT PB/SW set to AUTO.
+The BLOWER set to AUTO and EXTRACT PB/SW set to OVRD
+
+The Cabin Pressure Controller (CPC) receives signals from LGCIU for:
+@@Pre-pressurization,pressurization,depressurization sequences and system transfer from CPC1 or CPC2
+Pressurization,depressurization sequences and system transfer.
+Pre-pressurization,pressurization,depressurization sequences
+
+The LDG Elevation mode selector in auto position:
+The landing elevation comes CPC.
+@@The landing elevation comes from the  FMGC.
+The landing elevation comes from the GPS
+
+To close the pack ram Air Inlet flap, the pack controller needs information from:
+The ECB.
+The anti-ice system.
+@@LGCIU 2, BSCU and EIUs
+
+The basic function of Zone Temperature sensors are:
+@@Detect corresponding zone temperature for zone temperature control and indication on ECAM display.
+etect corresponding zone temperature for zone temperature control
+Zone temperature indication on ECAM display
+
+The Trim Air Pressure Regulating Valve (TAPRV) :
+@@Pneumatically operated and electrically controlled by two solenoids.
+Pneumatically operated and electrically controlled by one solenoids.
+Hydraulically operated and electrically controlled by two solenoids.
+
+The Pack Outlet Temperature sensor is used to:
+@@Pack outlet temperature indication on ECAM display.
+Modulate the water extractor outlet temperature.
+Modulate the pack outlet temperature
+
+During Ground Maintenance the team must make sure OVHD Ventilation panel (22VU) the Blower and Extractor fan P/BSW indication as:
+Off legend is ON.
+@@No Amber FAULT is ON.
+No OVRD is ON
+
+The Out Flow Valve (OFV) has 3 motors for:
+All Three for automatic control of OFV.
+One for Cabin Pressure Controller (CPC 1), two for CPC 2.
+@@One motor for CPC 1, One for CPC 2 and the third one for manual control if both auto mode fails
+
+The ECAM/SD-AIR COND page contains the:
+Duct temperature,
+Zone temperature
+@@Duct temperature, Zone temperature, and Trim air system indications
+
+The systems included in Fuel Tank Inerting System (FTIS) are:
+The Conditioned Service Air System.(CSAS) only.
+The Inert Gas Generation System(IGGS) only.
+@@Both CSAS and IGGS.
+
+The Conditioned Service Air System Controller Unit (CCU) interfaced with A/C systems computer are:
+Flight Warning System (FWS).
+Bleed Monitoring Computer (BMC).
+@@FWS and Centralized Fault Display System (CFDS)
+
+The Inert Gas Generation System main function are:
+Separates the Oxygen from atmosphere.
+Separates the Oxygen from the conditioned air stream.
+@@Separates the Oxygen from the conditioned air stream and regulates the Nitrogen Enriched Air(NEA) flow to the centre fuel tank
+
+The Air Separation Module (ASM) removes the Oxygen from the:
+Outside air.
+Conditioned air stream called Oxygen Enriched Air (OEA).
+@@From the OEA and is discharged overboard to atmosphere
+
+The FTIS operates in;
+Fully automatically and active in Flight only.
+Automatically and active in ground only.
+@@Automatically in Flight but on Ground preforms self monitoring when energized
+
+The Conditioned Service Air Controller Unit (CCU) is installed in the:
+AFT main Avionics compartment (80VU) .
+@@Forward  Avionics compartment (90VU) .
+AFT  Cargo  compartment
+
+The FTIS supplies Nitrogen Enriched Air (NEA),which is a gas with low Oxygen content maintenance personnel must:
+Follow the Safety and warning as per AMM 28-00-00.
+Wear mask that is enough.
+@@Follow the AMM safety procedures,if not may cause serious injury or Death
+
+The operational impact on FTIS for maintenance MEL dispatch are:
+FTIS is a MEL item.
+It is a NO GO item.
+@@FTIS can stay inoperative during 10 days
+
+The purpose of Dual element temperature sensor (T) and a pressure sensor (P) on the CSAS output duct to:
+Monitors the temperature and pressure.
+@@If there is a over-pressure or over-temperature detected the CSAS Isolation Valve closes.
+Send the information to BMC
+
+The CSAS controller is interconnected with ACSC and EIU  to keep a:
+@@Minimum bleed pressure during descent.
+Minimum bleed pressure during climb.
+Minimum bleed pressure during level flight
+
+The ICU supplies the two solenoids of the DFSOV to control the position as:
+OPEN/CLOSE.
+OPEN/HIGH flow.
+@@OPEN/CLOSE and NEA flow as LOW/MID/HIGH.
+
+The information  ADIRU 1 supplies to the ICU are:
+STD Altitude (STD ALT), True Air Speed (TAS) only.
+Total Air Temperature (TAT) only.
+@@STD ALT,TAS,TAT,and Altitude Rate signals.
+
+When the Aircraft speed is below 30 Knots,The ADIRU data are sent by ICU to CCU as:
+@@No Computer Data (NCD).
+Aircraft on Ground.
+FTIS in STBY mode
+
+Currently the FTIS applicable for:
+Left and Right Main fuel tanks.
+only for Left or Right Fuel tanks.
+@@only for centre tank.
+
+The ATA 47 FTIS consists of:
+ATA #28 fuel system
+ATA#36 Bleed System
+@@ATA#21 Air-condition +ATA# 26 Fuel System + ATA# 36 Bleed System.
+
+CSAS Isolation valve,which is a protection of the system if there is:
+Low pressure or Low temperature.
+Over pressure or Low temperature.
+@@Low pressure,Over Pressure or Over temperature
+
+In CSAS, the heat ex-changer is used to:
+@@Decrease the Bleed air temperature.
+Decrease outside air temperature.
+Increase the outside air temperature
+
+CSAS system is installed on the:
+@@Left hand side of the aircraft belly fairing.
+Right  hand side of the aircraft belly fairing.
+Right hand side of the aft cargo belly fairing
+
+The wing anti-ice bleed supply to both wings is controlled by:
+@@A single P/BSW on the overhead ANTI ICE panel.
+Two LH wing,RH wing P/BSW in over head BLEED panel.
+Two LH wing,RH wing P/BSW in over head ELECT panel.
+
+The wing anti-icing provided for the:
+All leading edge slats (No.1,2,3,4,5)
+@@The three out board slats (No.3,4,5)
+The two inboard slats (No.1,2)
+
+The engine air intake is protected from ice by an independent air bleed supply from the HP compressor of:
+Opposite side engine.
+@@Same side engine.
+APU bleed.
+
+The engine anti-ice is manually selected by the crew and is available in:
+Flight only.
+Ground only.
+@@Flight or Ground with the engine running.
+
+In order to provide reliable information for the air data systems,the air data probes are heated:
+@@Automatically when at least one engine is running.
+Automatically when  the engines is running.
+Manually before engine start.
+
+The front windshields and side windows are heated Automatically when:
+If Both the engines are running.
+If APU is running.
+@@At least one engine is running
+
+The wing anti-ice valves are installed at:
+@@One in each wing leading edge outboard of the pylons.
+FWD cargo compartment.#
+Main wheel well area
+
+In CEO aircraft,the engine anti-ice valve is installed on the:
+Lower left hand side of the engine.
+@@Lower right hand side of the engine.
+Top side side of the engine at 12 o’clock position.
+
+The wing anti-ice valves operate as:
+Electrically controlled.
+Pneumatically controlled.
+@@Electrically controlled and Pneumatically operated
+
+The wing anti-ice valve,in case of electrical failure or lack of pneumatic supply pressure,then the valve:
+@@Closes.
+Open fully.
+Open partially.
+
+For maintenance ground test function of Wing anti-ice valves limited to:
+30 mintus only.
+@@30 seconds only.
+One hour only.
+
+Prevent Ice formation on the probes,the probes Electrically heated are:
+Angle – Of - Attack (AOA) and Static probes.
+otal Air Temperature (TAT) and Pitot probes.
+@@Static, Pitot, TAT, and AOA probes
+
+The probe Heat Computers (PHC) are connected as:
+All the probs are connected to PHC  CAPT side.
+All the probs are connected to PHC  F/O side.
+@@The CAPT,F/O and STBY systems are independent.
+
+There are only Two Total Air Temperature probs and are connected to:
+@@Probe Heat Computer (PHC) 1 and2.
+ADIRU 1 and 2.
+FMGC 1 and 2
+
+The Probes and static ports heating come on automatically when;
+A/C in flight.
+A/C in Ground.
+@@At least one engine is running.
+
+The Heating monitoring and fault indication is given by the related PHC to:
+ECAM.
+ADIRU.
+@@ECAM via related ADIRU and FWC,also fault messages to CFDIU
+
+In maintenance pulling the PHC C/B or Engine Interface Unit(EIU) power supply C/Bs will result in:
+Unwanted heating on Pitot and Static ports.
+Unwanted heating of TAT and Static ports.
+@@Unwanted heating on ALL the probes and Static ports always follow AMM instruction.
+
+On ground Probs and Static ports can be checked by following AMM procedures and by pulling:
+LGCIU 1 and ADIRU 1 C/Bs and System is ON.(Flight mode).
+ADIRU2,and LGCIU2 C/Bs.and system ON (Flight mode)
+@@LGCIU 1 and LGCIU 2 C/Bs and System is ON(Flight mode)
+
+Windshield or windows heating fault monitored by Window Heating Computer (WHC) and the output signals sent to:
+ECAM directly.
+ECAM via SDAC.
+@@ECAM via SDAC and fault message to CFDIU.
+
+Before Jacking up the aircraft the maintenance team must follow the AMM for:
+@@The Flight Configuration precautions to prevent unwanted heating of the windshield and side windows.
+During Jacking up operation no special precaution required.
+No electrical power supplied.
+
+The two drain mast system status send to the:
+CIDS and For indication in the FAP.
+CIDS,FAP, Control Unit(CU) front face for HTR and CU lights.
+@@CIDS,FAP,CU and CFDIU for storage of fault data
+
+The engine anti-ice valve is:
+Pressure control shut-off valve
+@@Electrically controlled, fail safe to open valve
+Pressure regulate valve
+
+The Control Unit regulates the heating temperature of the associated drain mast:
+@@Between 5°C and 15°C.
+Between 5°C and 20°C.
+At 57°C.
+
+Maintenance test of the potable/waste water lines anti-ice system can be checked from:
+On the FAP via CIDS.
+@@On the respective Control Units(CU)
+Water/Waste ground service panels
+
+The wind shield wipers are controlled :
+@@By OVHD position rotary selector for LH and RH side.
+By an On/Off Switch.
+Automatically, depending on the weather conditions
+
+The number of Ice detector probe installed in A320 Family:
+@@Two,in nose area LH and RH sides.
+Three, bottom LH/RH and center of belly area.
+Four, two in the bottom and two on the top of aircraft
+
+Ice detection system will activate and sends warning signal:
+In flight, above 1500 feet or TAT more then 18°C.
+At electrical power on
+@@In flight  and TAT less then 8°C
+
+The Waning message of the dual advisory ice detection system is sent to;
+@@On the EWD as class 1 message.
+On the SD as class 2 message.
+On the MCDU as class 3 message
+
+The ice detector generates message ICE DETECTED when:
+Wing anti- ice is necessary.
+@@Engine air intake anti- ice is necessary.
+There is ice on the front windshield.
+
+The message SEVERE ICE DETECTED is displayed when:
+@@Engine air intake anti- ice & Wing anti- ice is necessary.
+Engine air intake anti ice is necessary only
+Wing anti ice is necessary only
+
+The ice detector generates ICE DETECT FAULT message when:
+At least one detector is faulty
+Anti ice system is faulty
+@@Both detectors are faulty
+
+The maintenance precaution to be followed when operating the wipers are:
+@@Not to operate the wipers on a dry windshield.
+Operate the wipers only at headwind direction.
+Operate the wipers with rain repellent system
+
+The ice indicator made out of:
+Composite parts.
+Aluminium Parts.
+@@Titanium parts
+
+The Ice Indicator lighting is controlled by:
+ICE INDicator(ICE IND) switch from OVHD lighting panel.
+STandBY COMPASS(STBY) switch from OVHD panel.
+@@The single ICE IND and  STBY COMPASS switch
+
+The ICE INDICATOR  LED light is supplied with:
+@@28V DC
+115 V AC.
+5V AC
+
+The visual ice indicator is installed in the:
+Capt side.
+F/O side.
+@@Central retainer of the windshield
+

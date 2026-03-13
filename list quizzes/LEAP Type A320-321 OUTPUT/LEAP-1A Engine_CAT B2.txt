@@ -1,0 +1,251 @@
+The Leap -1A cowling assembly consists of:
+@@Air intake cowl, fan cowl, thrust reverser cowl, exhaust system.
+Drain mast.
+Engine build up.
+
+How to deactivate thrust reverser system for maintenance (Eng Leap 1-A):
+@@Pull the lock handle at manual locking actuator.
+With Lockout Pin with red warning flag
+Install the quick-release pin to hold the inhibit lever in the OFF position.
+
+How to make sure Engine Leap 1-A Fan cowl door fully locked:
+@@Make sure 03 latch handles are fully locked and flush with the fan cowl surface and the flag on the LH Fan cowl door is fully retracted.
+Make sure that all the latch handles stay in the fan cowl slots and are aligned with the adjacent fan cowl surface. And the key removed after turnback to lock position.
+Use a SCREWDRIVER to push the pin towards the door locator then make sure that all the latches stay in the fan cowl slots and are aligned with the bottom of the adjacent cowl surface and the key removed.
+
+If you see the red flag shown on the Eng Leap 1-A LH Fan cowl door, what does it mean:
+@@Fan cowl latch keeper No.1 opened (AMM 71-13-00-00 CONF 03)
+All Reverser latches opened.
+All Fan cowl and Reverser latches opened.
+
+The warning message “Eng 1(2) Fan Cowl Not CLSD” come into view when:
+Engine Fan cowl door latch No.1 opened.
+@@At least 02 Fan cowl door latches opened.
+All Fan cowl door latches opened.
+
+For CFM – LEAP 1A Engine, the Engine fan cowl door latches opening sequence is:
+L1 - L2 - L3
+@@L1 - L3 - L2
+L2 - L1 - L3
+
+How many holds open rod of Eng Leap 1-A nacelle:
+1 rod for Fan Cowl and 1 rod for Reverser
+@@2 rod for Fan Cowl and 1 rod for Reverser
+2 rod for Fan Cowl and 2 rod for Reverser
+
+How many strake installed on Engine Leap 1-A Fan Cowl door:
+1 for each Engine, on the right Fan cowl door
+1 for each Engine, on the left Fan cowl door
+@@2 for each Engine, 1 on each Fan cowl door
+
+What should you check before open the Engine Leap 1-A Fan cowl door:
+@@Slat in fully retracted position (AMM 71-13-00-010-803)
+Flap in fully retracted position
+Parking brake applied
+
+How many Fan Cowl Door latches are there on CFM-LEAP 1A?
+2
+@@3
+8
+
+Bearing functions of LEAP-1A engine:
+@@Decrease the rolling friction, control the forces of gravity weight and the gyroscopic loads, aerodynamic loads of pumping and turbine driving
+Decrease the rolling friction, control the forces of gravity weight and the linear loads, aerodynamic loads of pumping and turbine driving
+Decrease the rolling friction, support the rotors axially, control the forces of gravity weight and the linear loads, aerodynamic loads of pumping and turbine driving
+
+Visual Inspection of the Fan Rotor Blades after Engine Operation in Severe Icing Condition:
+The leading edge of fan Inlet Guide Vanes (IGVs) and Outlet Guide Vanes (OGVs), the front acoustic panel, the flow splitter and the abradable flowpath
+@@The leading edge of fan Inlet Guide Vanes (IGVs) and Outlet Guide Vanes (OGVs), the rear acoustic panel, the abradable flowpath, the flow splitter and flowpath panel
+The leading edge of fan Outlet Guide Vanes (OGVs) and Inlet Guide Vanes (IGVs), the front acoustic panel, the flow splitter and flowpath panel
+
+The IGVs at the inlet to the HPC are:
+Used to convert air pressure increase into velocity rise and direct air from the booster to the stage 1 high pressure compressor stator blades
+Used to convert air pressure increase into velocity rise and direct air from the booster to the stage 1 high pressure compressor rotor blades
+@@Used to convert air velocity increase into pressure rise and direct air from the booster to the stage 1 high pressure compressor rotor blades
+
+Fault of the Bowed Rotor Overspeed Start Abort on Engine 1(2) on Channel A or Channel B:
+@@No troubleshooting is necessary
+Do a borescope inspection of HPC stage 5 and stage 9, Check for concurrent fault in the PFR,EEC LAST LEG REPORT, SMR Report, Class 3 report related to Variable Stator Vane (VSV)
+Do a borescope inspection of HPC stage 4 and stage 9, Check for concurrent fault in the PFR, EEC LAST LEG REPORT, the engine automatic start
+
+Inspection after Engine Windmilling with the operational limits have not been exceeded:
+Inspect the Oil Filter, the Oil Debris Monitoring System Sensor and the AGB and TGB sumps scavenge screen plugs
+Inspect the Oil Filter, the A, B and C sumps, and the LPT and TGB sumps scavenge screen plugs
+@@Inspect the Oil Filter, the Oil Debris Monitoring System Sensor, the A, B and C sumps, and the AGB and TGB sumps scavenge screen plugs
+
+Preservation renewal of an engine for a period up to 30 days, chose correct answer:
+There is no limit on the number of times you can do this procedure.
+@@Two renewals are allowed.
+No renewal is allowed.
+
+PMA gives:
+N2 Speed Signal to EEC
+@@Electric Power to each EEC
+N2 Speed Signal to EEC and Electric Power to each EEC
+
+FMV is monitored:
+@@Directly by a dual LVDT, indirectly by fuel flow meter
+Directly by two dual LVDTs, indirectly by fuel flow meter
+Directly by a dual RVDT, indirectly by fuel flow meter
+
+HPSOV is monitored:
+Directly by fuel pressure sensor versus N2 speed.
+@@Indirectly by fuel pressure sensor versus N2 speed.
+Directly by EEC in control.
+
+What is the true sentence :
+@@The only way to download data from EEC channel A is through “J9” connector.
+The only way to download data from EEC channel B is  through “J9” connector.
+Download data is avaiable from both EEC channel A and B through “J9” connector
+
+What is the true sentence :
+The engine wiring harness transmit electrical signals between the engine sensors, actuators,EIU and EEC units.
+@@The engine wiring harness transmit electrical signals between the engine sensors, actuators and EEC units.
+The engine wiring harness transmit electrical signals between the engine sensors, actuators and EIU.
+
+What is the analog signal from the A/C to the EEC units?
+The engine position.
+The T/R control.
+@@The Throttle Lever Angle (TLA).
+
+What is the true sentence?
+The Oil Debris Monitoring System (ODMS) unit is connected to EEC channel A only through J6 connector.
+@@The Oil Debris Monitoring System (ODMS) unit is connected to EEC channel B only through J6 connector.
+The Oil Debris Monitoring System (ODMS) unit is connected to both EEC  through J6 connector.
+
+How many connectors are there on EEC?
+8
+@@9
+10
+
+The starter air valve is confirmed open on engine page by:
+SAV single pressure sensor feedback
+SAV position sensor feedback
+@@SAV dual pressure sensor feedback.
+
+The EEC control the ignition via:
+External high voltage relays
+Internal low voltage relays
+@@Internal high voltage relays
+
+Dry crank is used for:
+Leak check of system LRUs located upstream of the FMU, HPSOV.
+Dry the remaining fuel that can collect in the combustion chamber.
+@@Cool down the engines, leak check and dry the remaining fuel that can collect in the combustion chamber
+
+For CFM Leap-1a Engine, an amber annunciator fault legend dedicated to each engine is supplied by the EIU When:
+@@Starting failure is detected in auto mode or disagreement between HP fuel shut off valve and control
+Starting failure in manual mode
+HP fuel shut off valve in close position
+
+For CFM LEAP-1A engine, the ignition systems are selected alternatly by the EEC during:
+@@Automatic start
+Manual start
+Continous relight
+
+The High Pressure Compressor (HPC) controls include
+The Variable Bleed Valve (VBV) system.
+The Variable Stator Vane (VSV) system.
+@@The Variable Bleed Valve (VBV) system, The Variable Stator Vane (VSV) system, and The Transient Bleed Valve (TBV) system.
+
+The Engine Anti-Icing consist of:
+Start-Bleed/Booster Anti-Ice (BAI) valve and actuator.
+@@Start-Bleed/Booster Anti-Ice (BAI) valve and actuator, Anti-ice tube and manifolds, Flow splitter.
+Flow splitter.
+
+EEC ventilation system consists of the following:
+An assembly of rigid and flexible pipes.
+@@An assembly of rigid and flexible pipes, Two blowers, and One bracket (covered in zonal).
+One bracket (covered in zonal).
+
+The autothrust function can be active if engaged, in which throttle range?
+From -20 degrees TLA to 0 degree TLA
+@@From 0 degree to 35 degrees TLA
+From 35 degrees to 45 degrees TLA
+
+The engine master control switch is power supplied with:
+115 VDC
+@@28 VDC
+115 VAC
+
+In Automatic Thrust Setting Mode (the autothrust function is active), which computer computes the target thrust parameter?
+EEC
+EIU
+@@FMGC
+
+Which sensor used for EGT indication?
+@@T48
+T49
+T25
+
+How EEC computes the Exhaust Gas Temperature?
+Take average value of two lowest and highest sensors.
+@@The measurements given by the EGT sensors are compared to each other and are averaged.
+The measurements given by 4 random EGT sensors are averaged.
+
+Where is N2 sensor located?
+@@fitted on the Transfer Gearbox (TGB) transfer tube, located on the accessory gearbox on the fan case.
+installed at 6:30 o'clock on the accessory gearbox (AGB) rear face.
+There is no N2 sensor for LEAP 1A Engine, N2 signals originate from the dedicated alternator.
+
+Where is N1 sensor located?
+@@fitted on the fan hub with two bolts located on the n4 strut.
+fitted on the fan hub with two bolts located on the n8 strut.
+installed in the fan frame strut No.6 at the 5:00 o'clock position.
+
+How are EGT sensors connected to EEC?
+@@Via 2 Harnesses T48L and T48R routed and mounted on the core area engine external case.
+Three identical and interchangeable thermocouple lead assemblies with two probes.
+to the junction box by a flexible harness.
+
+The electrical harnesses connect each of the TRAS components to the EECs installed:
+@@On the fan case of the engine
+On the core of the engine
+On both fan case and core of engine
+
+Thrust Reverser System is controlled by:
+Electronic Engine Control (EEC) from the cockpit by the aircraft throttle control lever   position
+The flight/ground status provided by the Engine Interface Unit (EIU)
+@@Both EEC and EIU
+FMGC
+
+With the throttle controll lever in the idle stop position, the reserver can be set to:
+Min reverse and Max reverse
+@@Reverse idle and Max reverse
+Reverse idle and continue reverse
+
+How to Oil Debris Reset and purpose chip count ?
+On EEC channel A and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights
+@@On EEC channel B and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights
+Both EEC channel A+B and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights
+
+With oil pressure lower than 17.4 psi (1.20 bar) to 29 psi (2.00 bar)  depeding N2 speed above ilde  (CAT B1, B2)
+@@Remove engine and return to shop if engines operative more 14s
+Raised add interval 25 flight hours, 50 flight hours and 100 flight hours to check any presence of particles
+With oil temperature more than 140 deg.C Remove engine and return to shop
+
+The maximum serviceable oil consumption rate is limited with ENG LEAP 1-A
+@@45 qt/hr (0.42 l/hr )
+35 qt/hr (0.33 l/hr)
+20 qt/hr (0.19 l/hr)
+
+Where is the electrical signal of the LEAP-1A Oil CAT sensor sent to:
+@@EEC channel A
+EEC channel B
+ECU
+
+Rotate the engine core of LEAP-1A by:
+the pressurized air from bleed system to  the Air Turbine Starter (ATS) to start eng
+@@the pressurized air from bleed system to  the Air Turbine Starter (ATS) through Starter Air Valve (SAV) to start eng
+the Electrical Motor Starter (EMS)
+
+In the event of loss of solenoid control or transducer feedback signal of LEAP-1A:
+@@The SAV failsafe position is closed
+The SAV failsafe position is opened
+The SAV failsafe position is not change
+
+After engine start cycle of LEAP-1A:
+@@check on starter valve that the manual handle is in closed position.
+check on starter valve that the manual handle is in opened position.
+No need to check posotion
+

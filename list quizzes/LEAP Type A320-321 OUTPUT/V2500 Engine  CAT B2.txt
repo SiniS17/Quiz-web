@@ -1,0 +1,500 @@
+“V2530-A5” means:
+Engine is rated at max thrust of 25300 lbs to install in the Airbus A/C.
+@@Engine is rated at max thrust of 30000 lbs to install in the Airbus A/C.
+Engine is rated at max thrust of 25000 lbs to install in the Airbus A/C.
+
+Reverser cowling:
+Is attached to the engine core by 6 hinges each half.
+Is hold closed by 5 single latches.
+@@Should be opened/closed using the Auxiliary latch assembly.
+
+Fan cowls:
+Must be held open by both struts each when the wind is more than 26 knots (30 mph).
+Should be opened by releasing 6 latches in sequence from the front to the rear.
+@@Must always be held open by both struts each.
+
+What statement is NOT correct?
+Fan stage has 22 fan blades.
+@@Fan stage has 24 fan blades.
+Engine is constructed by 05 modules.
+
+Aerodynamic station 2.5 means:
+@@LPC Outlet guide vanes exit.
+Fan Outlet guide vanes exit.
+LPC inlet.
+
+EGT thermal couples are at?
+HPT area.
+First stage of LPT.
+@@Exhaust area.
+
+What is the engine pressure ratio (EPR)?
+The ratio of P3 – P2.
+@@The ratio of P4.9 – P2.
+The ratio of P4.9 – P3.
+
+When open, where does the bleed valve direct airflow?
+BSBV to bypass flow; stages 7 & 10 valves into the A/C bleed system.
+@@To Bypass flow all.
+BSBV to bypass flow; stages 7 & 10 valves discharge overboard directly.
+
+Servo pressure to operate HPC stage 7 & 10 bleed valves is from?
+P 2.5 bleed pressure.
+Servo fuel pressure from FMU.
+@@P3 air pressure.
+
+What is (are) the indications in case of metallic parts in the common scavenge oil pipe?
+Only a popped clogging indication on the electrical chip detector indicator.
+An ECAM warning and a popped clogging indication on the electrical chip detector indicator.
+@@There is no indication.
+
+Which filters in the oil system have associated “filter clog” messages on the ECAM?
+Pressure Scavenge and Scavenge strainers.
+Pressure only.
+@@Scavenge only.
+
+What does the HMS heat and cool?
+@@Fuel, engine oil and IDG oil.
+Engine oil and IDG oil.
+Fuel only.
+
+How the Nose Cone (Spinner) is anti-iced?
+Electrically.
+Pneumatically.
+@@Neither electrically nor pneumatically.
+
+What senses movement of the T/R translating sleeve?
+@@The LVDT’s on the upper actuators.
+The proximity switches on the locking actuators.
+The LVDT’s on the lower actuators.
+
+The lower actuators can be unlocked:
+Manually only.
+Hydraulically only.
+@@Manually or hydraulically.
+
+Fuel samples can be taken from?
+@@The LP fuel filter cover.
+The LP fuel pump case.
+The HP fuel pump outlet.
+
+How many probes interact with the phonic wheel?
+@@4 - 3 Speed probes and a once per revolution probe.
+3 - 2 Speed probes and 1 spare probe.
+2 - 1 for Channel A and 1 for Channel B.
+
+Which engine parameters are displayed on the ECAM upper display?
+EPR, N1 & N2.
+N1, N2, EPR, oil pressure, oil temperature.
+@@N1, N2, EPR & EGT.
+
+The engine igniters are on?
+@@RH of the engine.
+LH of the engine.
+One is on the RH, one is on the LH of the engine.
+
+Engine nacelle temperature sensor is?
+In the pylon area.
+In the fan area.
+@@In the core area.
+
+What is the purpose of the dedicated alternator or permanent magnet alternator (PMA)?
+To supply electrical power for whole aircraft operation.
+@@To supply electrical power for the EEC.
+To supply electrical power for the thrust lever resolver signals.
+
+Identify the thrust/location bearing for the LP and HP rotors?
+2 and 5.
+3 and 5.
+@@1 and 3.
+
+What location is engine station 12.5?
+@@Fan bypass air.
+HP Compressor delivery air.
+Fan inlet
+
+How many of the turbine stages have internal air cooling?
+@@Two (2) HP only.
+Two (2) HP and three (3) lP.
+All stages.
+
+At what speed will the dedicated alternator power the EEC?
+@@At approximately 10% N2.
+At stabilised idle speed.
+At 43% N2 with starter control valve closed.
+
+The actual fuel flow signal to the EEC control circuits originates from?
+@@Dual position resolver driven by the fuel metering valve.
+The mass fuel flow meter.
+Computed from the thrust lever resolver angle (TRA).
+
+What type of pump is the LP fuel pump?
+Sliding vane positive displacement.
+Spur gear.
+@@Centrifugal impeller.
+
+Where is the fuel temperature measured on the engine?
+At the inlet to the fuel oil heat exchanger.
+@@At the outlet from the LP filter.
+At the outlet from the HP fuel pump.
+
+How many torquemotors are used in the FMU?
+@@Three.
+Two plus one solenoid.
+Four.
+
+Servo fuel for the fuel operated actuators is supplied from?
+The HP pump inlet.
+The delivery tube between the HP pump and the FMU.
+@@Directly from the Fuel Metering Unit.
+
+What type of fuel nozzles are used?
+Duplex.
+Simplex.
+@@Airspray.
+
+The combined fuel diverter and return to tank valve (FDRV) is located on?
+The HP fuel pump case.
+@@Bolted to the rear of the fuel/oil heat exchanger.
+Bolted to the main gearbox.
+
+When is the auxiliary latch assembly (take up device) to be used?
+For the opening of the thrust reverser “C” ducts.
+For the closing of the thrust reverser “C” ducts.
+@@For opening and closing of the thrust reverser “C” ducts.
+
+What is the hydraulic fluid used in the hand pump that opens and closes the “C” ducts?
+@@Engine oil.
+Hydraulic oil.
+Fuel.
+
+Where is the zone 2 located?
+Engine fan case (intermediate case).
+@@Core engine.
+Upper pylon.
+
+What alert level and message is generated to the ECAM CRT when the fire detection system has operated?
+@@Alert class 1 level 3 and engine fire.
+Alert class 1 level 3 and engine overheat.
+Alert class 1 level 2 and engine overheat.
+
+How many stages has the Low Pressure Compressor?
+One fan stage.
+One fan stage and one stage LPC.
+@@One fan stage and three (A1) or four (A5) LPC stages.
+
+The HP compressor has how many stage?
+Twelve.
+Fourteen.
+@@Ten.
+
+What is the purpose of the LP stubshaft?
+Provide the drive to the angle gearbox.
+@@Transmits the drive from the LPT shaft to the fan disk.
+Transmits the drive from the angle gearbox to the main gearbox.
+
+How many Scavenge pumps are in the oil system?
+Five.
+Seven.
+@@Six.
+
+Which location should be checked to confirm debris found on the magnetic chip detectors (MCD’s)?
+The scavenge strainers.
+@@The scavenge filter.
+The pressure filter.
+
+The oil quantity can be checked by?
+@@Opening a dedicated servicing access panel in the LH fan cowl.
+Opening an access panel on the LH “C” duct.
+Opening the RH fan cowl.
+
+The compressor airflow system is controlled by?
+The Bleed Monitoring Computer (BMC).
+@@The Electronic Engine Control (EEC).
+The Compass system.
+
+The actuators for the LP compressor (2.5) bleed valve are located?
+On the fancase.
+On the HP compressor case.
+@@On the rear of the intermediate case.
+
+The operating servo pressure in the VSV system actuator is?
+Stage 10 air pressure.
+@@HP fuel pump delivery pressure (via FMU).
+Aircraft hydraulic system pressure.
+
+How many stage 7 & 10 bleed valves are on the engine?
+@@3 stage 7, 1 stage 10.
+2 stage 7, 2 stage 10.
+1 stage 7, 3 stage 10.
+
+The anti - ice air overboard discharge grille is located?
+On the outboard side of the inlet cowl.
+On the right side fan cowl door.
+@@On lower right side of the inlet cowl.
+
+When will the engine secondary parameters be displayed on the lower ECAM?
+@@When selected and during certain engine conditions.
+Only if a fault occurs.
+Continuously during engine operation.
+
+What is the minimum duct pressure required before initiating a start cycle?
+@@30 - 40 psi.
+50 - 60 psi.
+20 - 30 psi.
+
+THE HIGH PRESSURE COMPRESSOR AIRFLOW IS CONTROLLED BY THE VARIABLE STATOR VANES (VSVs) AND:
+Three bleed valves.
+No bleed valves.
+@@Four bleed valves.
+
+THE ENGINE OIL SUPPLY SYSTEM INCLUDES:
+@@A low pressure switch, an oil pressure transmitter and an oil quantity transmitter.
+Two low pressure switches and two oil pressure transmitters.
+A high pressure switch and a pressure transmitter.
+
+THE NUMBER 4 BEARING SCAVENGE VALVE IS:
+@@Controlled by HPC 10th stage pressure and monitored by the Engine Interface Unit (EIU).
+Controlled and monitored by the EEC.
+A pneumatically operated two-position valve monitored by the EIU.
+
+HOW MANY MODULES DOES THE V2500 CONSIST OF?
+3: Fan, Compressor and Turbine
+4: Fan, High Pressure Compressor, Diffuser/Combustor and Turbine
+@@7: Fan, Intercase, High Pressure Compressor, Diffuser/Combustor, High Pressure Turbine, Low Pressure Turbine and Accessory Drive Gearbox.
+
+HOW MANY IGNITION EXCITERS ARE INSTALLED AND WHAT IS THEIR INPUT POWER
+@@2, input 115VAC
+2, input 28VDC
+1, Normal input of 115VAC and 28VDC backup
+
+WHERE/WHEN IS THE NACELLE TEMPERATURE INDICATION DISPLAYED
+Permanently on the ENGINE page
+Permanently on the CRUISE page
+@@Displayed on the ENGINE page only when above 320 deg.C
+
+HOW IS THE N1 ROTATIONAL SPEED SENSOR REPLACED?
+Access via the fan case
+@@Can only be replaced in the engine shop
+Access via the accessory drive gearbox
+
+WHAT IS THE LOCATION OF THE ENGINE MASTER CHIP DETECTOR?
+On the oil tank
+On the gearbox
+@@On the scavenge oil filter assembly
+
+THE V2500 EEC IS NORMALLY POWERED…
+@@By its dedicated alternator
+By normal aircraft electrical systems
+Directly from its own IDG
+
+V2500 ENGINE, THE EGT MAXIMUM LIMIT WHEN ENGINE STARTING IS:
+610 deg. C
+@@635 deg. C
+650 deg. C
+
+AERODYNAMIC STATION 4.5, STATION LOCATION:
+@@H.P Turbine Exit
+L.P Turbine Exit
+Fan Exit
+
+WHICH DRAIN HOLE IS PROVIDED TO INDICATE A POSSIBLE LEAKAGE AT THE No.4 BEARINGCOMPARTMENT?
+The drain hole is on engine drains mast
+@@Located in the exhaust at 5 o’clock (Aft looking forward)
+Pylon drain system
+
+ENGINE OIL SYSTEM, NUMBER 4 BEARING SCAVENGE VALVE OPERATES BY
+@@Compressor 10th stage pressure
+Muscle fuel pressure
+Oil pressure
+
+CLOSURE OF THE HP FUEL PRSOV IS CONTROLLED DIRECTLY FROM (B, B2)
+@@Engine MASTER control switch in OFF position
+The engine FIRE PUSH switch released out
+Both (A) and (B)
+
+WHICH ENGINE MOUNTIS DESIGNATED TO TRANSMIT THE TORSIONAL LOAD
+Forward engine mount
+@@Rear engine mount
+Forward engine mount and Rear engine mount
+
+STARTING ENGINE, WHEN IS THE FUEL AND IGNITION ARE SELECTED ON
+At 43% N2
+At 23% N2
+@@N2 is rotated for 30 seconds
+
+HOW MANY BOLTS CONNECT FWD ENGINE MOUNT TO THE PYLON
+4
+@@5
+6
+
+WHAT TYPE OF LUBRICATION IS USED ON THE FAN BLADE
+Dry lubrication
+Wet lubrication
+@@Both Dry and Wet lubrication
+
+WHICH PARAMETER OF ENGINE USE IN THE PRIMARY MODE
+N1
+N2
+@@EPR
+
+THE ENGINE FORWARD MOUNT IS THE:
+Anti-torque mount
+@@Thrust mount
+Thermal expansion mount
+
+V2500 ENGINE’S DRAIN SYSTEM IS LOCATED:
+@@At the bottom of engine
+At the rear part of pylon
+Both A and B
+
+THE AERODYNAMIC STATION # 3 IS LOCATED AT THE:
+LP compressor exit
+@@HP compressor exit
+HP turbine inlet
+
+WHEN THE THROTTLE LEVER IS BETWEEN TWO DETENTS, THE THRUST RATING LIMIT CORRESPONDS TO:
+@@Upper detent position
+Lower detent position
+Actual throttle lever position
+
+THE MAIN GEARBOX IS DRIVEN BY:
+N1 rotor
+N2 rotor
+@@N2 rotor via the angle gearbox
+
+WHAT IS THE MEANING WHEN “REV” CHANGES FROM AMBER TO GREEN AFTER SELECTING REVERSER
+Reverse system receiving signal and starting the sequence
+Reverse sequence completed and reversers stow completely
+@@The translating sleeves are fully deployed
+
+WHICH STATEMENT IS CORRECT?
+The starter accelerates N1 spool through the gearbox
+@@The starter accelerates N2 spool through the gearbox
+The starter accelerates N1 and N2 spool through the gearbox
+
+EGT INDICATED IN UPPER ECAM IS ACHIEVED FROM
+Four thermocouple probe assemblies located at station 4.95 LP turbine and sent to ECAM via junction box
+@@Four thermocouple probe assemblies located at station 4.95 LP turbine and sent to EEC via junction box
+Four thermocouple probe assemblies located at station 4.95 LP turbine and sent to EIU via junction box
+
+V2500-A5 ENGINE HP ROTOR IS SUPPORTED BY
+02 thrust ball bearing No.3, No.4
+02 roller bearing No.3, No.4
+@@No.3 thrust ball bearing and No.4 roller bearing
+
+EXTERNAL SERVO ACTUATORS (VSBV, ACOC,…) RECEIVE FUEL HYDRAULIC PRESSURE FROM
+@@Fuel Metering Unit
+The High Pressure pump outlet
+The Low Pressure pump outlet
+
+For calculating vibrations, the EVMU receives signals from: (V2500)
+@@The 2 engine accelerometers (1 per engine) and the N1 and N2 of each engine
+the 2 engine accelerometers (1 per engine) and the N1 of each engine
+the 2 engine accelerometers (1 per engine) and the N2 of each engine
+
+How does the engine starter operate:(V2500)
+electrically
+@@pneumatically
+hydraulically
+
+The FADEC system consists of: (V2500)
+A single EEC with its peripherals for both engines
+@@A single EEC with its peripherals per engine
+One main frame computer for all engines
+
+Where does the TH/R hydraulic SOV locate? (V2500)
+At downstream of HCU
+In the HCU
+@@At upstream of HCU
+
+Where is electrical power for P2/T2 probe heating comes from?(V2500)
+From EEC.
+From EIU.
+@@From A/C.
+
+The ignition system uses: (V2500)
+28 VDC from aircraft
+@@115 VAC from aircraft
+115 VAC from dedicated alternator
+
+What is the engine pressure ratio (EPR):(V2500)
+p4/p2
+p4.5/p2
+@@p4.9/p2
+
+The active clearance control (ACC) system ensures:(V2500)
+@@Better turbines efficiency
+Better turbine`s blades cooling
+Better turbine`s vanes cooling
+
+What happens in case of failure of the EIU:(V2500)
+the engine shuts down
+the engine goes to flight idle mode
+@@the engine cannot be restarted
+
+Where is the air taken from to cool #4 bearing compartment: (V2500)
+the 7th stage of HPC
+the 10th stage of HPC
+@@the 12th stage of HPC
+
+Where are the engine secondary parameters displayed: (V2500)
+on the ECAM upper display
+@@on the ECAM lower display
+on both ECAM displays
+
+Which engine parameters are displayed on the upper ECAM?(V2500)
+EPR, N1, N2
+EPR, N1, N2, oil pressure, oil temperature
+@@EPR, N1, N2, EGT
+
+What senses movement of T/R translating sleeves: (V2500)
+the proximity switches on the locking actuators
+@@the LVDT’s(Linear Variable Differential Transducers) on upper actuators.
+the LVDT’s on lower actuators.
+
+Where is the servo fuel for the fuel operated actuators supplied from?(V2500)
+HMU
+@@FMU
+HP pump
+
+Where is the master chip detector located:(V2500)
+In the No. 4 bearing compartment scavange line
+@@In the combined oil scavange return line
+In the forward bearing compartment scavange line
+
+An oil tank access door is provided for servicing:
+On the right side fan cowl door.
+@@On the left side fan cowl door.
+On the left side thrust reverser "C" duct door.
+
+How to open the fan cowl doors(V2500)
+@@by manual using manpower.
+by an hydraulic actuator using a manual hand pump.
+by an hydraulic actuator using a engine hydraulic pump.
+
+For V2500, which fluids can be discharged through the drain? (V2500)
+@@Water, oil, hydraulic and fuel.
+Water, hydraulic and fuel.
+Hydraulic and fuel.
+
+The FADEC system includes the: (V2500)
+Engine Electronic Controller (EEC) and the Engine Interface Unit (EIU).
+EIU and the engine controls.
+@@EEC and the peripheral sensors and components on the engine.
+
+Engine oil parameters are monitored in the(V2500)
+Supply circuit
+@@Scavenge circuit
+Vent circuit
+
+The engine thrust indicated on ECAM via EPR. What is the engine pressure ratio (EPR)? (V2500)
+The ratio of P2 – P3.
+@@The ratio of P4.9 – P2.
+The ratio of P4.9 – P3.
+
+What is (are) the indications in case of metallic parts in the common scavenge oil pipe? (V2500)
+Only a popped clogging indication on the electrical chip detector indicator.
+An ECAM warning and a popped clogging indication on the electrical chip detector indicator.
+@@There is no indication.
+

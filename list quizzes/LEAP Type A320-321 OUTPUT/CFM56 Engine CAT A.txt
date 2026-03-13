@@ -1,0 +1,300 @@
+Electronic Centralized Aircraft Monitoring (ECAM) gives the information to flight crew are:
+Navigation Parameters.
+@@Aircraft System Displays, Faults, Checklists and the current operational status of the aircraft.
+Flight path information
+
+Engine Warning Display (EWD) is divided into how many main areas:
+The upper area is used for Main Engine parameters, Fuel on Board, and Slat/Flap position, and lower part not used.
+@@The upper area is used for Main Engine parameters, Fuel on Board, and Slat/Flap position, and lower part is used for warning, caution and memo messages.
+Upper and lower part used only for Engine parameters.
+
+The engine forward mount is carrying the:
+Anti-torque mount
+@@Thrust, Vertical and side loads.
+Thermal expansion loads.
+
+The engine drain mast is used to collect the:
+Unburnt fuels
+Unused engine oil
+@@Waste fluids and vaporise from engine systems and accessories.
+
+The Drains are provided at the pylon rear part is to:
+Remove any residual fluid like water, hydraulic, fuel.
+Remove air.
+@@Evacuate and vent overboard air and any residual fluids.
+
+Fluids drained from the power plant are:
+Fuel, oil or hydraulic
+Fuel, oil or water
+@@Fuel, oil, hydraulic or water
+
+The FADEC system consists of :
+A single Channel ECU with its peripherals for both engines
+@@Dual channel ECU with its peripherals per engine.
+Two computer for each engines
+
+The function of the deactivation lever located on the HCU is to:
+De-energize the isolation valve solenoid.
+@@Isolate hydraulic supply.
+Energized the isolation valve solenoid.
+
+The System that controls the Engines at all operating conditions is:
+@@Full Authority Digital Engine control (FADEC).
+Engine Vibration Monitoring Unit (EVMU).
+Engine Interface Unit (EIU).
+
+The Engine Starter oil level checked by:
+Multipurpose Control& Display unit (MCDU).
+System Display Engine (SD-ENG) page.
+@@Detailed Visual Inspection (DVI).
+
+The CFM56-5B/P LP rotor (N1) is made of:
+The fan and the booster compressor are driven by the five stage LP turbine.
+Four stage compressor driven by a two-stage turbine.
+@@Fan and a four-stage compressor driven by a four-stage turbine.
+
+The CFM56-5B/P HP (N2) rotor is made of
+@@9-stage compressor driven by a single stage turbine.
+10-stage HP compressor driven by a 2-stage HP turbine.
+12-stage compressor driven by a single stage turbine.
+
+The CFM56-5B/P, the LP rotor assembly supported by:
+N01, N02 and N03 (dual bearing).
+N03 (dual bearing) and N04.
+@@N01, N02 and N05.
+
+The FADEC automatically selects a continuous relight:
+In case of Engine Interface Unit (EIU) failure only.
+@@If engine anti-icing is detected ON or EIU failure or engine flame-out.
+In case of Electronic Control Unit (ECU) failure.
+
+The purpose of the ENGINE MASTER SWITCH is:
+To open or close the HP fuel Shut-Off Valve.
+To command and reset the FADEC functions.
+@@To open or close the HP fuel Shut-Off Valve and to command and reset the FADEC functions.
+
+The ENGine MANual START push buttons to operate the corresponding start valves in:
+@@The manual start mode or during an engine cranking.
+The manual start mode.
+During an engine cranking.
+
+The compressor airflow control of the CMF56-5B/P includes:
+@@The Variable Bleed Valve (VBV) system and the Variable Stator Vane (VSV) system.
+The BSBV system, a VSV system and bleed valves at the 7th and 10th stages of the HPC.
+The booster stage bleed valve system and a Variable Stator Vane (VSV) system.
+
+Prior to performing maintenance on the thrust reverser:
+The yellow hydraulic system must be depressurized.
+@@Deactivate the thrust reverser by placing the lever in the inhibition position on the Hydraulic Control Unit (HCU).
+Deactivate the thrust reverser by disconnecting the hydraulic supply lines.
+
+The eng FADEC GND PWR is used to:
+Enable the pilots to start the engines automatically.
+@@Supply the computers dedicated to the engines when the engines are not running.
+Enable the pilots to start the engines manually.
+
+The purpose of the Fuel Return Valve (FRV) in the re-circulation system is:
+@@To maintain engine oil, IDG oil and fuel temperature within limits.
+To provide better fuel filtering.
+To depressurize the fuel system at engine shutdown.
+
+In maintenance, if the Inboard cowl opened for engine removal/Installation, the safety precaution to be followed is:
+@@The slats must be retracted, and slat operation must be inhibited.
+The slats may be extended.
+Aircraft Electrical power must be removed.
+
+The master chip detector used for ground inspection which is of an.
+@@Electrical type and also has a visual pop-out indicator.
+Operates only in differential pressure type.
+Indicator with Red or Green flag.
+
+The A320/321 engines throttle control levers:
+@@Only be moved manually.
+Automatically in auto-thrust mode
+Can be moved manually or automatically.
+
+The Reverse Thrust is available only on the:
+Flight
+@@Ground after landing.
+Flight or Ground
+
+The Engine Vibration Monitoring Unit function (EVMU) are:
+@@Collects Vibration data from both engines and displayed on the ECAM.
+Collects Vibration data from both engines and displayed on the MCDU.
+Collects Vibration data from both engines, and displays it on the PFD.
+
+The annular combustion chamber has:
+1- igniter plug
+4-igniter plugs known as A1, A2 and B1, B2
+@@2-ignitor plugs known as A & B.
+
+The annular combustion chamber has:
+@@20 fuel nozzles
+18 fuel nozzles
+12 fuel nozzles
+
+The main source of aircraft bleed comes from:
+LP compressor.
+@@HP compressor.
+LP or HP as per customer demand
+
+CFM 56-5B designed using modular concept, advantage of this concept is:
+This engine is made of 4 primary modules.
+Easy maintenance
+@@As in A &B and Quicker return-to service
+
+The ONLY engine powers complete SA Family(A318/319/320/321) is:
+V2500
+@@CFM56-5B
+PW1100G
+
+What is the one of the safety precautions observed during Engine Ground Run:
+The entry corridor will be open when engine power is above the minimum.
+The entry corridor will be open/closed when engine power is above the minimum.
+@@The entry corridor will be closed when engine power is above the minimum.
+
+What is the one of the safety precautions observed on Engine ignition system:
+Do not do maintenance on the ignition system while the engines operate.
+You can do maintenance on the ignition system while the engines operate.
+@@Do not do maintenance on the ignition system while the engines operate, wait more than >5 minutes after shutdown.
+
+What is the safety precautions observed during opening the engine cowls:
+Always secure cowls with the hold-open rads and follow AMM wind limitations.
+Make sure that the slats are retracted and install Warning notices in cockpit.
+@@As in A & B follow AMM for additional information.
+
+The Engine Fuel system is designed to supply Fuel Flow into the:
+@@Combustion chamber, servo fuel for airflow control, engine clearance control and IDG cooling.
+Directly to Engines only.
+APU & Engines.
+
+When Engine Master S/W is set to off:
+HP and LP fuel shut off valves are closed.
+HP, LP and Fuel Return Valve (FRV) closed.
+@@HP/LP/closed and FRV closed by ECU.
+
+If the engine is running Above 15% (>15%) then the FADEC powered by:
+Aircraft Power supply.
+The PMA (Permanent Magnet Alternator) supplies only channel A of ECU.
+@@The PMA also called Control Alternator supplies ECU channels A & B
+
+For Maintenance FADEC Gnd Power P/B on in the Maintenance panel will supply the power for:
+Five minutes.
+20 Minutes.
+@@As long as the GND PWR P/B is in the ON position.
+
+During Engine Dry cranking or wet cranking sequences:
+@@Ignition Inhibited.
+Ignition Available.
+Only Ignitor A is available.
+
+The Variable Stator Vane (VSV) is located at:
+Rear of HP compressor.
+@@Front of the HP compressor.
+Middle of the HP compressor.
+
+The Electronic Control Unit (ECU) is cooled by:
+By a cooling fan built in.
+@@By Ram Air cooling.
+By Fan air cooling.
+
+The N1 rotational Speed indication is shown in the ECAM-EWD by a:
+Needle
+Digital Indication.
+@@Needle and an N1 digital display.
+
+The EGT is sensed and averaged by:
+Four thermocouple probes.
+Six Thermocouple probes
+@@Nine Thermocouple probes.
+
+The oil quantity XMTR is located in the:
+@@Oil Tank.
+Oil line.
+Oil filter assembly.
+
+The PS 12 sensor measures the:
+Dynamic pressure
+@@Static pressure from the fan inlet.
+Compressor pressure.
+
+The Thrust reverser system is of the:
+Static blockage type.
+@@Aerodynamic blockage type.
+Electrical blockage type.
+
+The directional valve in T/R system is operated to:
+@@Deploy only.
+Stow only.
+Deploy& Stow operation.
+
+To command the thrust reverser, the ECU needs an A/C on ground signal supplied by:
+Main Landing Gears.
+@@LGCIUs
+FMGC.
+
+The Engine oil system includes:
+A supply circuit.
+A vent circuit.
+@@A supply/Scavenge and Vent circuits.
+
+If Fluid leaks are found during transit operations:
+Clean it.
+@@Refer AMM ATA 70-00 & ATA 29-00 for allowable limits.
+Refer MEL.
+
+The good practice in maintenance for Fan cowl doors:
+@@Must remain either fully opened or fully closed and latched.
+Never open the cowls in transit.
+Never open the latches in transit.
+
+If an Engine was ferried or subjected to an In-Flight Shutdown (IFSD) then:
+That engine must be dried out.
+Re-lubricated within 7 days.
+@@The engine must be dried out and re-lubricated within 24 hours as per engine dry out procedure
+
+The engine anti-ice air overboard discharge grill is located?
+On the right-side fan cowl door.
+@@On the lower right side of the inlet cowl.
+At the bottom ( position) of fan cowling
+
+The engine oil servicing panel is located?
+On the outboard side of the inlet cowl.
+@@On the left side fan cowl door.
+On the left side of the inlet cowl.
+
+When the engine is running:
+No person is allowed to get access to the engine.
+@@Access to the engine is permitted within the Entry/ Exit corridor if power do not exceed min idle.
+Access to the engine is permitted within the Entry/Exit corridor at all power rating.
+
+The engine run up at Min idle can be carried out with:
+@@Fan cowls opened and secured.
+Both Reverser and Fan cowls opened and secured.
+Non engine cowl opened.
+
+Features of CFM-56-5B4 engine are:
+Two spools, radial flow, high fan bypass ratio and mixed exhaust.
+@@Two spools, axial flow, high fan bypass ratio and separated exhaust.
+Two spools, axial flow, high fan bypass ratio and mixed exhaust.
+
+Select the correct type of combustion chamber for CFM-56-5B4 engine?
+@@Annular combustor.
+Tubular combustor.
+Reverse flow combustor.
+
+The number of fan blades in one engine fan set?
+@@Thirty-six (36)
+Twenty-two (22)
+Thirty-two (32)
+
+The engine gear boxes are driven by which shaft?
+N1 rotor.
+@@N2 rotor via the transfer gear box.
+N2 rotor.
+
+CFM-56-5B4 engine comprise of:
+@@9 HPC stages and 1 HPT stage
+9 HPC stages and 2 HPT stage
+10 HPC stages and 2 HPT stage
+

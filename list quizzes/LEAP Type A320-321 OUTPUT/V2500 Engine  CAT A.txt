@@ -1,0 +1,250 @@
+Features of V2530-A5 engine are:
+@@Two spools, axial flow, annular combustor and mixed exhaust.
+Two spools, radial flow, annular combustor and mixed exhaust.
+Two spools, axial flow, annular combustor and separated exhaust.
+
+The engine exhaust directs rearwards?
+Fan air discharge.
+Engine core exhaust.
+@@Both fan air discharge and the engine core exhaust.
+
+Each half of reverser cowl c duct:
+Is held closed by 4 latches.
+Is held open by a single hold open rod.
+@@Is held open by two hold open rods.
+
+The H.P. Compressor has how many stages?
+Twelve.
+@@Ten.
+Fourteen.
+
+The air starter valve access panel is on?
+@@RH fan cowl.
+LH fan cowl
+RH reverser cowl.
+
+The compressor stage N0 12 is?
+The 12th stage of the HPC.
+@@The 10th stage of the HPC.
+The 7th stage of the HPC.
+
+P2 pressure signal:
+@@Are supplied directly to EEC at the bottom pressure connection.
+Are supplied to EEC as digital electronic signal.
+Are supplied to EEC from ADIRS computers.
+
+Is the L.P. compressor bleed valve (BSBV)?
+Multi – ports.
+@@Annular.
+Two positions slider.
+
+How many bleed valves are there to control the HPC air flow?
+Three 10th stage valves and one 7th stage valve.
+@@Three 7th stage valves and one 10th stage valve.
+One 10th stage valves and one 7th stage valve.
+
+The HPC stage 7 & 10 bleed valves is controlled?
+@@By EEC through respective solenoids.
+By EEC through respective torque motors.
+Pneumatically using 10th stage air pressure.
+
+Engine oil system is ventilated at?
+@@RH fan cowl breather outlet.
+LH fan cowl breather outlet.
+Engine center body exhaust.
+
+The ECAM oil pressure indication is?
+Pump delivery pressure.
+Pressure pump — scavenge pump differential pressure.
+@@Pressure pump delivery — No 4 bearing scavenge.
+
+The combined fuel diverter and return to tank valve (FD&RV) is located on?
+The HP fuel pump case.
+@@FCOC case.
+ACOC case.
+
+What maintains the T/R in stow position for normal forward flight?
+Hydraulic pressure to stow side of actuator piston.
+@@Mechanical locks on the piston of the lower actuators.
+Lockout pins inserted into the translating cowls.
+
+How is movement of the two T/R translating cowls synchronized?
+A double latch assembly between the left and right cowl.
+A combination of all “C” ducts latches and flexible drive cables.
+@@A combination of the double latch and flexible drive cables.
+
+The Air Cooled Air Cooler (ACAC) or Buffer cooler is located?
+On the fan case.
+On the Common Nozzle Assembly.
+@@On the H.P. turbine case.
+
+Where is the aircraft services, engine pneumatic system check valve positioned?
+Stage 10 offtake, engine left side.
+Stage 7 offtake, engine right side.
+@@Stage 7 offtake, engine left side.
+
+How many vibration sensors are installed on each engine?
+Two, one in bearing N0 1 compartment, one on the Turbine Rear Frame.
+@@One dual sensor on the intermediate case.
+One sensor on the fan case.
+
+Air is supplied to the HPT Active Clearance Control system from?
+The ram air.
+The HP Compressor stage 9.
+@@The Fan delivery.
+
+Where is the air taken to cool the N0 4 bearing compartment?
+10th stage HPC.
+@@12th stage HPC.
+7th stage HPC.
+
+The EEC controls the ACC system via the torque motor located?
+Inside the FMU.
+@@On the ACC actuator.
+On the ACC valve body.
+
+Identify how many main bearings are in the engine?
+@@Three on the LP rotor and two on the HP rotor.
+Two on the LP rotor and three on the HP rotor.
+Five on the LP rotor and two on the HP rotor.
+
+Identify which are roller type bearings?
+1, 2 and 4.
+1, 3 and 5.
+@@2, 4 and 5.
+
+The fan inner annulus line is formed by?
+@@Annulus fillers.
+Machining a platform on each blade root.
+The inner annulus assembly.
+
+Cooled compressor stage 12 air (buffer air) is used to?
+Pressurise No 5 bearing compartment.
+@@Cool, seal and scavenge the No4 bearing compartment.
+Pressurise the hydraulic seal in the front bearing compartment.
+
+The T/R hydraulic actuators use which fluid?
+Engine specification lubricating oil.
+Mineral oil.
+@@Aircraft hydraulic system oil.
+
+In autothrust mode, will changes in engine power cause movement of the thrust lever?
+Yes - by a servo motor mechanism.
+Yes - but only in the thrust lock mode.
+@@No - autothrust is based on a fixed thrust lever concept.
+
+Where are the fuel pumps located?
+On the rear of the main gearbox, LP pump on the RH side and the HP pump on the LH side.
+@@The LP and HP pump form a single unit (LRU) on the rear LH side of the main gearbox.
+The combined pump unit is on the front face of the gearbox.
+
+A differential pressure switch on the LP fuel filter case indicates?
+@@Partial blockage of the LP fuel filter.
+The LP fuel filter bypass valve is open.
+A low fuel pressure.
+
+Where is the Fuel Metering Unit located?
+@@Bolted onto the dual fuel pumps unit.
+Clamped to the gearbox rear face, LH side.
+Bolted to the bottom of the fan case.
+
+How many fuel distributor lines and spray nozzles are in the system?
+Ten lines and ten fuel spray nozzles.
+@@Ten lines and twenty fuel spray nozzles.
+Twenty lines and twenty fuel spray nozzles.
+
+The fuel diverter valve is positioned by?
+@@A solenoid.
+A modulating torquemotor.
+A two position torquemotor.
+
+The air starter is located?
+@@On the front of the accessory gearbox.
+On the rear of the accessory gearbox.
+On the intermediate case.
+
+What must be checked before opening the thrust reverser “C” ducts?
+Ensure that the leading edge slats are retracted.
+Ensure that the thrust reverser is in the fully stowed position.
+@@Ensure that FADEC ground power is off, leading edge slats are retracted and the thrust reverser is in the stow position.
+
+Where is zone 1 located?
+@@Engine fan case (intermediate case).
+Core engine.
+Upper pylon area.
+
+What is the fire detection system for the V2500 engine called?
+@@Systron Donner firewire system.
+Fenwall fire cable system.
+Graviner heat sensing elements.
+
+What indication is used to represent Low - Pressure shaft speed?
+@@N1.
+N2.
+LPC.
+
+How many stages has the Low Pressure Turbine?
+@@Five.
+Seven.
+Two plus five stage.
+
+How are the LP Compressor stages numbered?
+1,2,3.
+@@1.5, 2, 2.3 (A5 only), 2.5.
+2,3,4.
+
+Where are the locations of the engine mounting points?
+The HPT case and the intermediate module.
+The LPT case and the fan case.
+@@The LPT exhaust case and the rear of the intermediate module.
+
+What is the total number of magnetic chip detectors in the oil system?
+@@Seven.
+Five.
+Six.
+
+How is access gained to check the master MCD?
+Open the RH fan cowl.
+Dedicated access panel in LH “C” duct.
+@@Dedicated access panel in the LH fan cowl.
+
+Which normal indications are displayed on the ECAM for the oil system?
+@@Oil differential pressure, oil temperature, oil tank quantity.
+Oil temperature, oil pressure.
+Oil differential pressure, oil quantity, oil temperature and No 4 bearing scavenge valve position.
+
+Which compressor bleed valve fully modulating?
+Stage 7.
+@@Stage 2.5.
+Stage 10.
+
+What type is the LP compressor bleed valve?
+Multi - port.
+@@Fully modulating continuous ring.
+2 position annulus slider.
+
+The servo control pressure to operate the stage 7 & 10 bleed valves is from?
+P2.5 pressure.
+HP fuel pump pressure.
+@@P3 (Pb) pressure.
+
+Air is supplied from which source for engine ice protection?
+Fan delivery.
+@@HP compressor stage 7.
+HP compressor stage 10.
+
+Which area of the inlet cowl has ice protection?
+The entire cowl.
+The outer skin surface only.
+@@The inlet cowl lip or “D” section.
+
+Which speed signals are supplied to the Engine Vibration Monitoring Unit?
+N1 only.
+N2 only.
+@@N1 and N2.
+
+THE FADEC SYSTEM INCLUDES THE:
+Engine Electronic Controller (EEC) and the Engine Interface Unit (EIU).
+EIU and the engine controls.
+@@EEC and the peripheral sensors and components on the engine.
+

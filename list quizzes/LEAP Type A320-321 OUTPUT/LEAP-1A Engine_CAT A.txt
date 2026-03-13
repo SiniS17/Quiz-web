@@ -1,0 +1,250 @@
+The Leap -1A cowling assembly consists of:
+@@Air intake cowl, fan cowl, thrust reverser cowl, exhaust system.
+Drain mast.
+Engine build up.
+
+How to deactivate thrust reverser system for maintenance (Eng Leap 1-A):
+@@Pull the lock handle at manual locking actuator.
+With Lockout Pin with red warning flag
+Install the quick-release pin to hold the inhibit lever in the OFF position.
+
+How to make sure Engine Leap 1-A Fan cowl door fully locked:
+@@Make sure 03 latch handles are fully locked and flush with the fan cowl surface and the flag on the LH Fan cowl door is fully retracted.
+Make sure that all the latch handles stay in the fan cowl slots and are aligned with the adjacent fan cowl surface. And the key removed after turnback to lock position.
+Use a SCREWDRIVER to push the pin towards the door locator then make sure that all the latches stay in the fan cowl slots and are aligned with the bottom of the adjacent cowl surface and the key removed.
+
+If you see the red flag shown on the Eng Leap 1-A LH Fan cowl door, what does it mean
+@@Fan cowl latch keeper No.1 opened (AMM 71-13-00-00 CONF 03)
+All Reverser latches opened.
+All Fan cowl and Reverser latches opened.
+
+The warning message “Eng 1(2) Fan Cowl Not CLSD” come into view when:
+Engine Fan cowl door latch No.1 opened.
+@@At least 02 Fan cowl	 door latches opened.
+All Fan cowl door latches opened.
+
+For CFM – LEAP 1A Engine, the Engine fan cowl door latches opening sequence is:
+L1 - L2 - L3
+@@L1 - L3 - L2
+L2 - L1 - L3
+
+How many holds open rod of Eng Leap 1-A nacelle:
+1 rod for Fan Cowl and 1 rod for Reverser
+@@2 rod for Fan Cowl and 1 rod for Reverser
+2 rod for Fan Cowl and 2 rod for Reverser
+
+How many strake installed on Engine Leap 1-A Fan Cowl door:
+1 for each Engine, on the right Fan cowl door
+1 for each Engine, on the left Fan cowl door
+@@2 for each Engine, 1 on each Fan cowl door
+
+What should you check before open the Engine Leap 1-A Fan cowl door:
+@@Slat in fully retracted position (AMM 71-13-00-010-803)
+Flap in fully retracted position
+Parking brake applied
+
+How many Fan Cowl Door latches are there on CFM-LEAP 1A?
+2
+@@3
+8
+
+Accessory drive module consists of LEAP-1A engine:
+@@Inlet Gearbox (IGB) & No.3 Bearing assembly, Transfer Gearbox (TGB) assembly and Accessory Gearbox (AGB) assembly.
+Inlet Gearbox (IGB) & No.1 & No.2 Bearing assembly, Transfer Gearbox (TGB) assembly and Accessory Gearbox (AGB) assembly.
+Inlet Gearbox (IGB) & No.1 Bearing assembly, Transfer Gearbox (TGB) assembly and Accessory Gearbox (AGB) assembly.
+
+Stage 2 HPT Stator Nozzle:
+There are 36 nozzles manufactured from alloy based nickel, Each nozzle has a thermal barrier coating applied.
+@@There are 36 nozzles manufactured from nickel based alloy. Each nozzle has a thermal barrier coating applied.
+There are 36 nozzles manufactured from nickel based titan. Each nozzle has a thermal barrier coating applied.
+
+The function of the No.3 bearing is to:
+Support radial loads through the No.3 roller bearings and support axial, radial and circumferential loads through the No.2 ball bearings.
+Support radial loads through the No.3 roller bearings and support centrifugal shaft, radial and circumferential loads through the No.3 ball bearings.
+@@Support radial loads through the No.3 roller bearings and support axial, radial and circumferential loads through the No.3 ball bearings.
+
+Cleaning metallic parts without coating of the Engine External Surfaces, DO NOT USE:
+@@Methanol
+Isopropyl alcohol
+Methyl ethyl ketone (mek)
+
+Which position on the flow path profile of Front Platform Shroud to localize the No. 1 fan blade:
+3 o'clock position round mark
+6 o'clock position round mark
+@@12 o'clock position round mark
+
+The combustion chamber assembly consists of
+17 fuel nozzles.
+18 fuel nozzles.
+@@19 fuel nozzles
+
+The main function(s) of fuel and control system is:
+To supply sufficient fuel flow to the combustor chamber for necessary engine power
+To give optimal engine operation by compressor airflow and turbine clearance control
+@@To supply sufficient fuel flow to the combustor chamber for necessary engine power and to give optimal engine operation by compressor airflow and turbine clearance control.
+
+The main fuel filter & cartridge assembly is located on:
+@@LH fan frame
+RH fan frame
+LH of HPC case
+
+Rating Plug is located on: (CAT A, B1, B2)
+PMA
+EEC
+@@PSS Box
+
+The T12 sensor measures: (CAT A, B1, B2)
+The total gas temperature at the exit of the HP compressor
+@@the total air temperature at the engine inlet
+the total gas temperature at the inlet of the HP compressor
+
+The T25 sensor measures: (CAT A, B1, B2)
+The total gas temperature at the exit of the HP compressor
+the total air temperature at the engine inlet
+@@the total gas temperature at the inlet of the HP compressor
+
+How does the fuel temperature tranducer measure temperature? (CAT A, B1, B2)
+@@The temperature expands the sensing material and modifies its Resistance. The signal passing through the material is thus also modified.
+The temperature expands the sensing material and modifies its Voltage. The signal passing through the material is thus also modified.
+The temperature expands the sensing material and modifies its Amperage. The signal passing through the material is thus also modified.
+
+Where is the rating plug installed? (CAT A, B1, B2)
+On EEC channel A.
+@@On PSS box.
+On PMA.
+
+How many EEC installed on A/C NEO? (CAT A, B1, B2)
+1
+2
+@@4
+
+In which area are the ignition leads and exciters of Engine Leap 1A installed?
+Leads are installed in the core compartment, Exciters are installed in the fan compartment
+Leads are installed in the fan compartment, Exciters are installed in the core compartment
+@@All the components are installed in the core compartment
+
+What is the function of exciters in the Ignition System?
+@@Produce high voltage pulse from 115VAC
+Distribute 115VAC to Ignition plugs
+Convert 115VAC to 28VDC for ignition
+
+What is an important warning before start work on the Ignition System?
+@@Make sure that the Ignition Exciters are de-energized for a minimum of five minutes
+Remove the four bolts (4) that attach the exciter box before carry out any work on Ignition
+Make sure that Engine Fadec GND PW is ON
+
+Choose the correct statement: Ignition System of each engine Leap 1A consists of….
+Two exciters, two ignition leads, one igniters
+One exciters, two ignition leads, two igniters
+@@Two ignition exciters, two ignition leads, two igniters
+
+The HPTACC system located at:
+@@The left of the HPC case at the 9 o’clock position.
+The left of the HPC case at the 7 o’clock position.
+The left of the HPC case at the 11o’clock position.
+
+The TBV is installed on:
+The HPC case.
+@@The Combustor case.
+The LPT case.
+
+Variable Stator Vane (VSV) System:.
+Prevent compressor stall during engine acceleration.
+Prevent compressor stall during engine deceleration.
+@@Prevent compressor stall during engine acceleration and deceleration including engine start and engine shutdown.
+
+The LP fuel shut-off valve is electrically controlled:
+@@Either by the ENG/MASTER control switch on the ENG panel or by the ENG FIRE pushbutton switch.
+ENG MAN Start Pushbutton.
+By Fuel Metering Unit (FMU).
+
+The throttle control lever, The HP fuel shut-off valve control, The LP fuel shut-off valve control, are the main components of which ATA?
+ATA 28
+ATA 26
+@@ATA 76
+
+The engine master control switch is located:
+@@115 VU
+20 VU
+22 VU
+
+How many EGT sensors are installed on LEAP 1A Engine?
+9
+4
+@@8
+
+Where are EGT sensors located?
+The EGT sensors are flange mounted and bolted into the outer engine casing at plane 48.
+The eight probes are immerged in the engine exhaust gas stream in front of the LPT nozzle stage 1.
+@@The EGT sensors are flange mounted and bolted into the outer engine casing at plane 48. The eight probes are immerged in the engine exhaust gas stream in front of the LPT nozzle stage 1.
+
+The Indicating advisory level of Engines Vibration is equal to the limit:
+Limit = 4.3U for N1
+Limit = 6U for N2
+@@Limit = 6U for N1 and =4.3U for N2
+
+For CFM – LEAP 1A Engine, EIU located:
+Attached to the engine RH fan case
+@@In the aircraft avionics bay 80VU
+In the aircraft avionics bay 95VU
+
+For CFM – LEAP 1A Engine,N1 AND N2 rotors vibration signatures provides BY?
+No. 1 bearing accelerometer
+Turbine center frame accelerometer
+@@No. 1 bearing accelerometer and Turbine center frame accelerometer
+
+Do not OPEN the Thrust reverser doors if:
+@@The wind speed is more than 40 Knots
+The wind speed is more than 30 Knots
+The wind speed is more than 50 Knots
+
+Do not connect the hold open rod before the thrust reverser cowl is open to:
+20 Degrees
+40 Degrees
+@@45 Degrees
+
+The sequence to open the Thrust reverser cowl door
+@@Open latch L1, L2, L3.1, L3.2, L4, LACC
+Open latch LACC, L4, L3.2, L3.1, L2, L1
+Open latch L4, LACC, L3.2, L3.1, L2, L1
+
+When closing of the thrust reverser cowl, before you try to close the thrust reverser open pump valve:
+@@Make sure the pop out indicator (red pin ) on the cowl opening actuator is fully retracted.
+Make sure the pop out indicator (red pin ) on the cowl opening actuator is fully extended.
+Make sure the pop out indicator (red pin ) on the thrust reverser open pump is fully retracted.
+
+The MAX mark on the oil tank is corresponding to 21.2 quarts of oil in the tank and a cockpit indication
+20 quarts
+@@17 or 17.5 quarts
+5 quarts
+
+When service oil engines if the time after engine shutdown is more than 60 minutes
+Need engines run up or crank
+Must be service between five minutes and not more than 60 minutes after engines shutdown
+@@Fill 2QT below the full mark
+
+Where location oil tank of engines Leap1a
+On the left-hand side of the Fan Case at the 4 o'clock aft looking forward position.
+@@On the right-hand side of the Fan Case at the 4 o'clock aft looking forward position.
+On the right-hand side of the Fan Case
+
+The Engine starting system consists of:?
+The pneumatic air starter,the starter air valve,the starter air duct
+@@The pneumatic air starter,the starter air valve equipped with magnetic plug,the starter air duct
+The pneumatic air starter,the starter air valve,speed sensor
+
+Where is the engine starting system located?
+@@At front of  accessory gear box , approximately 8 o'clock (ALF)
+At front of  accessory gear box , approximately 8 o'clock (FLA)
+At rear of   accessory gear box , approximately 4 o'clock (ALF)
+
+The Air starter access panel is located on:?
+RH fancowl
+@@LH fancowl
+RH C duct
+
+Where the starting system of ENG LEAP-1A is located:
+@@on the engine at approximately 8 o'clock, aft looking forward.
+on the engine at approximately 7 o'clock, aft looking forward.
+on the engine at approximately 8 o'clock, aft looking aft.
+

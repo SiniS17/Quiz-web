@@ -1,0 +1,2101 @@
+Single Aisle Aircraft consists of:
+@@A318, A319, A320, A321 Family
+A319, A320, A321, A330 family
+A320, A330, A340, A350 AND A380 family
+
+Airbus Single Aisle family CEO fitted with following engines:
+International Aero Engines (IAE) V2500 and CFM International (CFM56) for A319, A320, and A321.
+@@A318 PW6000 series/CFM56, and A319, A320, A321 with CFM56/IAE V2500
+A320 Family fitted with CFM56 engines only.
+
+The NEO Single Aisle family offers choice of engines are:
+Only Pratt & Whitney PW1100G engines
+Only with CFM LEAP-1A engines
+@@Either PW1100G or LEAP-1A engines.
+
+The Shark-lets are specially designed for A320 family for:
+@@A better Eco-efficiency, enhance payload-range performance.
+For cosmetic appearance.
+To differentiate itself with other Aircraft.
+
+The longest-range Aircraft in the A320 family is:
+@@A319/A321 LR
+A320
+A321
+
+The Number of Passengers (PAXs) carried on board based on:
+Seat Pitches
+Any Number of Pax’s Carried on Board as per Airlines choices.
+@@The Airbus recommended Seat quantity and Pitch based on the Design of the Air frame. The airline based on needs, modifies these layouts.
+
+For all structural measurements in the X-axis the reference point located:
+@@2.54 m (100 inches) forward of the Aircraft.
+2.54 Km (100 inches) forward of the Aircraft.
+254 m (100 inches) forward of the Aircraft.
+
+In SA family the longer Vertical stabilizer fitted on:
+A319/A320/A321
+@@A318 Only the new Rib12N added
+A321 only
+
+What safety precaution maintenance crew will take when towing A318 aircraft into the hangar:
+No any special precaution Required
+@@The Hangar Height must support A318 because The Vertical Stabilizer is Longer than rest of the Family.
+Nothing because A318/A319/A320/A321 has same vertical stabilizer
+
+System indicator lights on the overhead (OVHD) panel:
+@@Does not come on when Systems are in Normal operation and there are no failures.
+Always on for the systems to indicate normal operation.
+Comes on only during starting.
+
+In normal operation the annunciator lights color is:
+@@Only Green lights and sometimes blue lights come on.
+Only Amber lights come on
+Only Red Lights come on.
+
+Integrated Standby Instrument System (ISIS) replaces the:
+Main instrumentation
+Only Altimeter.
+@@Standby Horizon, Standby Airspeed Indicator, and Standby Altimeter
+
+The Two Multipurpose Control Display Units (MCDU) installed on:
+Side console
+@@Center Pedestal
+Main Instruments Panel.
+
+The Tools used in Aircraft divided in to:
+@@Standard Tools and Specific Tools
+Only Standard Tools
+Only specific Tools.
+
+How many points do you Jack the Aircraft during Maintenance:
+Three Points Point A near Nose landing gear, Point B&C located outside of the Pylon under the wing only.
+@@Three Points Point A near Nose landing gear, Point B&C located outside of the Pylon under the wing only, a safety jack positioned at the rear of the Aircraft.
+Three Points Point A near Nose landing gear, Point B&C located outside of the Pylon under the wing only but Tail safety support not required.
+
+The requirements for safe Towing Operations during Maintenance are:
+Either a Pilot or qualified maintenance man on the brakes.
+Any Technician.
+@@Either a Pilot or qualified maintenance man on the brakes. And wing/Tail walkers during all the Towing operation.
+
+The Documents to be referred for Placards and Markings is:
+@@Aircraft Maintenance Manual (AMM) chapter ATA 11
+Wiring Diagram Manual (WDM) ATA11
+Electrical Standard Practice Manual (ESPM) ATA11
+
+How to know the placard and markings are required.:
+@@They are Identified by a flag Note Required by Regulation
+Not Required.
+Refer other Aircraft.
+
+How many potable waters draining panel in A320:
+@@Two the second one at the center of the Aircraft
+Only one
+Three draining panels.
+
+When the NLG dimension H is more than 300 mm
+@@Do not tow the aircraft to prevent damage to the centering cams.
+Do not tow the aircraft to prevent tail to ground contact.
+Smooth and speed limited towing is possible.
+
+Towing can be carried out with”
+Passenger/crew doors fully open and locked without restriction.
+@@Cargo doors open in vertical position with speed limited.
+Engine cowls open and hold open rods fully locked.
+
+The maximum permitted steering-angle on each side of the aircraft centerline is
+@@95 degrees.
+75 degrees.
+74 degrees.
+
+What is the correct sequence?
+Install the tow bar on the tow fitting then install the tow lever safety pin
+@@Install the tow lever safety pin then install the tow bar on the tow fitting.
+There is no specific sequence
+
+Communication system(s) to be used during towing is (are)?
+@@VHF and FLT INT.
+VHF or HF with FLT INT.
+VHF only.
+
+What indication on ECAM do you have to check prior to start towing? (a,b1,b2)
+@@N WHEEL STEERG DISC
+NWHEEL STEERG INOP
+N WHEEL STEERG OFF
+
+From cockpit how can you know that the brake are release prior to towing the aircraft?
+Check Parking brake selector in OFF, brake pressure indication on ECAM  is at 0 and confirm with GND personnel.
+Check Parking brake selector in OFF; check all the 03 pointes are at green range and confirm with GND personnel.
+@@Check Parking brake selector in OFF; brake pressure pointes at 0 and confirm with GND personnel.
+
+In towing configurations the safety pin locks the control lever on the interphone box in:
+@@Disengaged position.
+Engaged position.
+Normal position.
+
+When towing the aircraft:
+All the doors must be closed and locked.
+@@Passenger/crew door may be fully opened and locked the cargo doors open in vertical position
+Passenger/crew door may be fully opened and locked but the cargo doors must be closed and locked
+
+During the refueling
+@@The NLG tires roll aft
+The NLG tires roll fwd
+The NLG tires roll does not move
+
+When you do the Refueling and/or refueling in the Hangar
+The hangar doors must be closed until you have completed the refuel/defuel procedure
+@@The hangar doors must not be closed until you have completed the refuel/defuel procedure
+There is no requirement for hangar door
+
+When you do the aircraft  pressure Automatic refueling with battery power
+@@It is not always possible to refuel to full capacity. This is because the intercell transfer valve are not always in the correct position
+It is always possible to refuel to full capacity.
+You can not refuel in the outer cell.
+
+When you do the aircraft refueling with battery power
+@@The HOT BUSS is energized for ten minutes only after you put the BATT POWER switch to the ON position.
+HOT BUSS is always energized after you put the BATT POWER switch to the ON position.
+You must put the BATT POWER switch to the ON position and hold it during refueling process
+
+The Lavatory/Toilet Service Panel Located in A320 Family:
+At Rear Left Hand Side
+At the Center of Aircraft
+@@At rear Right Hand Side
+
+Potable water service Panel located in A320 Family at:
+@@Rear Left-Hand Side
+Center of Aircraft
+Rear Right-Hand Side
+
+The Gravity Refueling Panel Located at:
+@@Top of the Left and Right sides of Wing Top
+Left Top side of the wing.
+Right Top Side of the Wing
+
+Bulk Cargo Door option available in:
+No bulk door option available in A320 family.
+A318/A319 only
+@@A320/A321 only.
+
+Turning Radii depend on:
+Aircraft Location in the Ramp
+@@Effective Turn and Steering Angle
+Location in the Ramp and airfield wind speed
+
+Parking and Mooring procedures are found in:
+@@AMM 10-11-00 chapters.
+IPC 10-11-00 chapters
+ESPM chapters
+
+During Parking and Mooring safety precaution to be observed are:
+Landing Gear Safe tied, Wheel Chokes in Position, all locking devices are on.
+@@Landing Gear Safe tied, Wheel Chokes in Position, all locking devices are on and move all access Platforms at a safe distance.
+Only Parking Brakes are enough.
+
+During refueling, the green END light comes study in refuel panel indicates.
+@@Refueling operation completed
+Refueling operation not complete
+Some problem detected during refueling operation.
+
+Storage Procedures can be found in:
+ASM 10-12-00 chapters
+IPC 10-12-00 chapters
+@@AMM 10-12-00 chapters
+
+During Storage, safety precaution to be observed are:
+Landing Gear Safe tied, Wheel Chokes in Position, all locking devices are on.
+@@Landing Gear Safe tied, Wheel Chokes in Position, all locking devices are on and move all access   Platforms at a safe distance.
+Only Parking Brakes are enough.
+
+During Mooring, safety precaution to be observed are:
+Airspeed Between 50-70 Kts only NLG.
+Airspeed More than 70Kts both NLG and MLG.
+@@Position Aircraft into the wind. Airspeed 50-70Kts only NLG more than 70Kts both NLG and MLG.
+
+Earthing (Grounding) operation is for:
+@@Electrical Continuity between the Aircraft and The Earth.
+Electrical Continuity between the Aircraft and The Equipment’s.
+Electrical Continuity between the Aircraft and The Ground power unit.
+
+Bonding operation is for:
+Electrical Continuity between the Aircraft and the Earth.
+@@Electrical Continuity between the Aircraft and the ground equipment’s connected with aircraft.
+Electrical Continuity between the Aircraft and the chocks.
+
+The document referred for bonding/earthing is:
+@@AMM 12-34-24-869-002(Servicing) for Maintenance operations.
+AMM ATA 33 chapters.
+AMM ATA 23 Chapters.
+
+The safety precaution observed during bad weather is:
+@@Do not wear a headset or touch cables/lines connected to the aircraft when there is a risk of lightning.
+We can use the Head set or touch any cables nothing will happen.
+No any precaution required if you wear safety shoes.
+
+Which one is connected first, bonding or earthing?
+@@Always connect earth(ground) cable to parking earth(ground)first, then to Aircraft.
+First bonding with Aircraft then Earthing(grounding)
+we can connect any way we want.
+
+What is Functional Item Number (FIN) number:
+The Functional Item Number (FIN) is unique for all equipment’s.
+@@The Functional Item Number (FIN) is unique for a given equipment it corresponds to one function and one location only.
+The Functional Item Number (FIN) is used by multiple functions.
+
+How to identify Mechanical item Fin Number?
+@@A320 Mechanical Parts, Circuit Second Letter is always “M” signify mechanical item.
+A320 Mechanical Parts, Circuit First Letter is always “M” signify mechanical item.
+A320 Mechanical Parts, Circuit First and Second Letter is always “M” signify mechanical item.
+
+How to identify A320 (SA) and A330(LR) mechanical items FIN numbers?
+@@Long Rang (LR) mechanical Parts always prefix of Number above 5000.
+Long Rang (LR) mechanical parts always prefix 330/340
+Long Range (LR) mechanical parts always prefix LR.
+
+The Document to be Referred to for Scheduled /Unscheduled maintenance, Special or Abnormal Flight conditions, Inspections or Checks on The Aircraft is:
+Trouble Shooting Manual (TSM)
+@@Aircraft Maintenance Manual (AMM)
+Service Bulletin (SB)/Airworthiness Directive (AD)
+
+A318, A319, A320, A321 are:
+@@Twin -Engine subsonic medium-range aircraft.
+Twin-Engine Supersonic medium range aircraft.
+Twin-Engine short haul turbo prop aircraft
+
+The Packs supply conditioned air to the cabin for:
+Air conditioning only.
+Ventilation only.
+@@Air conditioning, Ventilation and Pressurization of cabin.
+
+The two Air Conditioning System Controller (ACSC) calculates the:
+Mass flow demand.
+Controls the flow control valve.
+@@Mass Flow demand and sets the flow control valve in the necessary reference position.
+
+The Three separate aircraft zones are supplied from the mixer unit are:
+Cockpit, Cargo and Aft cabin.
+Cockpit, Cargo and Fwd cabin.
+@@Cockpit, Fwd cabin and Aft cabin.
+
+The main function of cabin re-circulation fans are:
+To reduce bleed air demand.
+To reduce cabin noise level.
+@@To reduce bleed air demand and therefore save fuel.
+
+The Out Flow Vale has three motors for:
+Two for automatic and the third one as a standby.
+Two for system one and one for system two.
+@@The third motor for manual operation in case both automatic systems fails.
+
+When Maintenance carries out CPC test through MCDU the precaution to be followed are:
+Aircraft may get pressurized.
+It is a normal routine task no any special requirements.
+@@It is a dynamic test, out flow valve cycle very fast, follow the AMM procedure.
+
+High Pressure, High temperature air from engine bleed system is supplied to the pack Flow Control Unit (FCU) through:
+@@Ozone Converter, used for catalytic removal of ozone from hot bleed air supplied to the pack.
+To direct the bleed flow into the system.
+Heat Exchangers.
+
+The primary heat exchanger is an:
+@@Air-to-air heat exchanger type using cooling medium used from external Ram air.
+Oil-to-air heat exchanger type using cooling medium used is Engine oil.
+Oil-to-air heat ex-changer type using cooling medium used is Hydraulic oil.
+
+For maintenance the ACSCs are connected to CFDIU for:
+Both ACSC 1 and ACSC 2 connected directly.
+Only ACSC 1 is connected to CFDIU.
+@@All BITE data from ACSC 1 will be transmitted to ACSC 2 and ACSC 2 only connected to CFDIU.
+
+Extraction Fan of Lavatories and galleys ventilation system:
+Run when Aircraft is in-flight.
+Run when there is different pressure between inboard and outboard<1psi.
+@@Run continuously as soon as aircraft is electrically powered.
+
+The Cabin Pressure Controller (CPC) receives signals from LGCIU for:
+Pre-pressurization, pressurization, depressurization sequences and system transfer from
+CPC1 or CPC2
+Pressurization, depressurization sequences and system transfer.
+Pre-pressurization, pressurization, depressurization sequences.
+
+The Normal Cabin altitude maintained at cruise level FL390 is:
+@@8000 ft.
+9550 ft.
+11300 ft.
+
+The A320F Pressurization system consist of:
+Two outflow valves and one safety valve.
+@@One outflow valve and two safety valves.
+One outflow valve and one safety valve.
+
+The Main function of Mixer unit is to:
+@@Mixes air from packs and re-circulated air from the cabin.
+Mixes air from packs and bleed air from pneumatic system.
+Mixes air from pneumatic system and re-circulated air from the cabin
+
+The Air Cycle Machine (ACM) mainly consists of:
+A compressor and a fan
+A turbine, a compressor.
+@@A turbine, a compressor and a fan.
+
+During Ground Maintenance the team must make sure OVHD Ventilation panel (22VU) the Blower and Extractor fan P/BSW indication as:
+Off legend is ON.
+@@No Amber FAULT is ON.
+No OVRD is ON.
+
+During Take-off and Landings Ram air inlet doors are:
+In the maximum open position to Prevent FOD/heat exchanger contamination.
+@@In the minimum open position to Prevent FOD/heat exchanger contamination.
+In the maximum closed position to Prevent FOD/heat exchanger contamination.
+
+The upper section of ECAM/SD-BLEED page shows:
+Bypass valve position
+Pack outlet Temperature
+@@Pack flow, bypass valve position and pack outlet temperature.
+
+The Out Flow Valve (OFV) has 3 motors for:
+All Three for automatic control of OFV.
+One for Cabin Pressure Controller (CPC 1), two for CPC 2.
+@@One motor for CPC 1, One for CPC 2 and the third one for manual control if both auto mode fails.
+
+Using MCDU we can check the CPCs as:
+@@CPC 1 and CPC 2 can be checked independently.
+CPC 1 & 2 can be checked simultaneously.
+Cannot be checked on ground.
+
+The Automatic Flight System (AFS) gives pilots the functions that:
+Reduce their workload.
+Improve the safety of the flight.
+@@Reduce workload & improve safety & Regularity of the Flight.
+
+The AFS system designed around:
+2 FMGCs,2 FACs, and 2 FCUs
+1 FMGC, 1 FAC, 1 FCU and 1 MCDU
+@@2 FMGCs, 2 FACs, 2 MCDUs and 1 FCU.
+
+The FMGC made of two parts FM & FG functions are used for:
+FM part used for Aircraft Control
+FG part used for Flight plan definition.
+@@FM part used for Flight plan, revision and Monitoring; FG part used for Aircraft Control functions.
+
+The basic Functions of FACs are:
+Rudder control
+Rudder control and Flight envelope protection.
+@@Rudder control & Flight Envelope protection & runway overrun protection (ROPS) if installed.
+
+The Airspeed information for Rudder Travel Limiting Function comes from:
+Engines
+@@ADIRUs
+FCU
+
+For maintenance purposes the AP can be engaged on ground with:
+Both Engines running.
+@@Both engines shut down and Hydraulic power is NOT required.
+Both engines shut down and all Hydraulic power is required.
+
+AP related information are displayed at:
+System Display (SD) page
+@@Top part of the PFD called Flight Mode Annunciator (FMA)
+On the Overhead panel.
+
+AFS test on Ground done to check:
+All control surfaces are moving correctly.
+@@All AFS related LRU are working properly.
+No such test required in Autopilot System.
+
+The communication system of A320 Family has:
+@@Two Sub-systems called Radio communication and on-board communication.
+Three sub-systems called Radio/Onboard/Crew communications.
+It is called just Aircraft communication system.
+
+The Radio communication system is used for the communication of crew with Ground stations and with other aircraft using:
+VHF Radios
+HF Radios
+@@VHF/HF/SATCOM (if Installed) Radios.
+
+The on-board internal communication system is divided into:
+Service Inter phone on ground only.
+Flight Inter phone for cockpit to Ground Mechanic and cockpit internal communication.
+@@Service Inter phone/Flight Inter phone/Passenger Address and cabin Inter phone.
+
+The HF antenna is installed at:
+Bottom of the Aircraft
+@@Under leading edge of the vertical Stabilizer
+All the antennae are installed on the outer skin of the Aircraft.
+
+The SELCAL panel, AMU, HF and VHF Line Replaceable Units (LRUs) are installed in the:
+FWD avionics compartment (90VU)
+@@AFT avionics compartment (80VU)
+Rear Cargo compartment
+
+The CVDRs can store the information of:
+The last 2 hrs data.
+@@The last 25 hrs data.
+The last 10 hrs of data.
+
+A call from the Ground Mechanic to the Cockpit is Indicated to the pilots by:
+A single chime and an ECAM message
+The MECH light flashes on the Captain ACP only
+@@A Buzzer sound and the MECH amber light flashes on all ACPs.
+
+The Straight and Angular Static Dis-chargers are:
+Interchangeable.
+Same part number.
+@@Not interchangeable because the mountings
+
+How the Line Replaceable Units (LRUs)are identified for Electrostatic Discharge sensitive (EDS):
+All LRUs are ESD sensitive.
+@@The LRUs that are sensitive are identified by a Black and Yellow label on the equipment front face.
+Refer AMM.
+
+If the Aircraft on Jacks for maintenance communications, then:
+Can not possible.
+@@The Service Interphone Override switch in 50VU maintenance panel must be switched ON.
+Only Hand Signals possible.
+
+The CVR energized on ground for recording by:
+@@GND CTL P/B is located at OVHD PNL.
+By starting any one of the Engine
+By Starting APU
+
+What Safety precautions to be observed during HF test on Ground:
+No testing during Refueling.
+We can check at any time.
+@@No testing during refueling and refer AMM for any additional safety requirements.
+Safety Precaution
+
+The main power source for Aircraft Electrical Network is:
+@@Two identical engine driven Integrated Drive Generators (IDGs)
+Two identical Batteries (BAT)
+Two identical Static Inverters (STINV)
+
+Each Generators give output of:
+@@115V/400HZ/ 3 -PHASE AC,90 KVA
+115V/400HZ/ 2- PHASE AC,60KVA
+115V/500HZ /SINGLE PHASE AC 90 KVA
+
+The Electrical priority for AC buses in A320 Family is:
+APU generator/External power/Opposite generator/own side IDGs.
+Opposite IDGs/APU generator/Own side IDGs/External power.
+@@Own Side Generator/External power/APU generator/Opposite Generator
+
+The RAM AIR TURBINE(RAT) will deploy automatically when:
+@@AC 1 lost, AC 2 Lost and Aircraft speed above > 100 Knots.
+AC 1 lost, AC 2 Lost and Aircraft speed below < 100 Knots.
+AC 1 lost, AC 2 Lost and Aircraft speed above > 50 Knots.
+
+The battery voltage can be monitored at:
+At Over Head Panel (OVHD PNL) 35VU only
+ECAM -SD- Elect page only.
+@@Over Head Panel (OVHD PNL) 35VU and/or SD Elect system page.
+
+What is the Safety precaution to be Taken when working near 21VU EMER ELEC PWR PNL.
+@@Activation of the Read Guarded MAN ON P/B on the GND or in flight will extend the RAT, even in the cold Aircraft.
+Activation of the Read Guarded MAN ON P/B on the GND or in flight will NOT extend the RAT.
+EMER ELEC PWR PNL 21VU not energized on ground so any precaution required.
+
+The AC ESS bus Is normally supplied by:
+@@AC Bus 1
+AC Bus 2
+AC Bus 1 & 2
+
+The Main Bus-bars are identified as:
+AA for AC busbars
+DD for DC busbars.
+@@XP for AC & P for DC then numbers used to indicate the bus number.
+
+ARINC 429 buses are numbered from:
+5000 to 5999
+6000 to 6999
+@@7000 to 7999
+
+If the IDG disconnected in Flight can be:
+@@Reconnected only on ground after maintenance actions.
+Reconnected in Flight at any time.
+Reconnected in Flight or Ground at any time.
+
+The maintenance action required after thermal disconnection of IDG is:
+Can be repaired on the Line.
+@@IDG Must be replaced.
+Can be swapped with the other side.
+
+The APU generator control module is part of the:
+Auxiliary Power Control Unit (APCU)
+Generator control Unit (GCU)
+@@Ground and Auxiliary Power Control Unit (GAPCU)
+
+If all the parameters are correct on external power:
+@@AVAIL (amber) and NOT IN USE (White) lights in External Power Panel (108VU) will come on.
+Only amber AVAIL light is on.
+Only white NOT IN USE light is on.
+
+The Environmental precautions to be followed during maintenance operation:
+Avoid use of the APU, if APU BLEED is not required.
+Turn-off Unused GPU/ACU/Air cart etc... If not required.
+@@Also limit the air pollution asper local airport requirements.
+
+Generally the oil Filter clogged indication checked by:
+@@Visual pop out indicator (DPI) installed opposite side of IDG drive end.
+On the ECAM -SD-ELEC -page
+On the MCDU.
+
+The most typical reason for IDG failures are due to:
+@@Over or Under servicing of IDG oil.
+Electrical loads.
+Engine vibration.
+
+APU speed regulation done by:
+FADEC
+GAPCU
+@@ECB
+
+Maintenance BUS S/W is located at:
+@@FWD cabin overhead ceiling called 2000VU.
+AFT cabin overhead ceiling called 2001VU.
+MID cabin overhead ceiling called 2000VU.
+
+The Three Transformer Rectifiers (TRs) identified as:
+TR-A, TR-B and TR-C
+TR-Left, TR-center and TR-Right
+@@TR 1, TR 2 and ESSential TR
+
+The Three Transformer Rectifiers (TRs) convers the input:
+@@Three Phase 115V AC into 28V DC
+Single Phase 220 V AC into 28V DC
+115 V DC into 28V AC.
+
+Smoke hoods are supplied for the cabin attendants to:
+Supply oxygen for passengers.
+@@Fight a fire or against emission of smoke or noxious gases.
+Breathe oxygen.
+
+Where are the  cabin depressurization doors mounted?
+On the upper sidewall panels
+On the ceiling panels
+@@On the lower sidewall panels
+
+Captain and First Officer Seats are:
+@@Symmetrical and have the same function
+Asymmetrical and have the same function
+Have the same function and interchangeable
+
+Which cabin panels are removable?
+Lower sidewall panels only.
+@@All the panels.
+Upper sidewall panels only.
+
+Where are passenger oxygen masks stored?
+@@In the passenger service unit
+In the seat arm rest
+In the overhead stowage compartment
+
+Where are the A320 aircraft inflation reservoirs of the escape slide of emergency exit door located?
+In the container at the bottom of the door
+In the overhead stowage compartment over the door
+@@In the aft cargo compartment
+
+When you check the pax door escape/slide inflation cylinder, where must the pressure indication be?
+@@In the green GO band
+In the red band
+At zero.
+
+In the cargo compartment where are the rapid decompression panels installed?
+In the cut out of the ceiling panels
+In the fixed partition walls
+@@In the cut out of the ceiling panels and lateral right side wall linings
+
+The cabin interior panels are:
+@@Removable Panels.
+Fixed Panels.
+Fwd panels fixed and Aft Panels Removable.
+
+The lower side wall panels are installed between the:
+Cargo compartment and cabin center floor panels.
+@@Cabin floor and the upper side wall panels.
+Near galley areas.
+
+The ceiling panels are installed along the full length of cabin and utility areas are:
+Removable with special tools.
+@@Removable Easily without any tools.
+Removable only during major inspections.
+
+The passengers service information units (PSIU) includes:
+The Passenger Service units (PSUs).
+The Passenger Information Units (PIUs)
+@@PSUs and PIUs in relation to the A/Cs cabin configurations.
+
+The inflation reservoirs are installed in A318, A319&A320 at the:
+FWD cargo compartment.
+@@AFT cargo compartment.
+Cabin overhead stowage
+
+The Aircraft with No Additional Center Tank (ACT) installed, the inflation reservoirs are installed in the:
+FWD cargo compartment.
+@@AFT cargo compartment.
+Above each door in the overhead stowage compartment
+
+A321LR, when the door 3 is plugged then the over wing escape slide will have:
+@@Only dual-line emergency off-wing escape slide facility.
+Only single-line emergency off-wing escape slide facility.
+Only wide-line emergency off-wing escape slide facility.
+
+The Pilots seat are adjusted according to the indicators located on the center windshield frame coloured as:
+@@Two Red and One white balls.
+Two white and One Red balls.
+Three white balls.
+
+The final attachment of the galley to the fuselage frames fitting achieved by:
+Nut and Bolts.
+Wire locking.
+@@Tie rods.
+
+The Lower attachments of lavatory are obtained by means of:
+Four hard points.
+Four seat rail attachments.
+@@Four Hard points or Four seat rail attachments.
+
+The lavatory units has following interfaces:
+Exhaust air interface.
+Potable water and waste water interface.
+@@Exhaust air, water and waste, vacuum and electrical interfaces.
+
+The different types of cabin attendant seats are:
+Free standing attendant seats.
+Swivel attendant seats.
+@@Free standing or Swivel or wall-mounted attendant seats.
+
+The Door area panel optionally heated in all Single aisle aircraft are:
+@@Front Passenger/Crew door (door area1).
+Fwd/Aft Passenger/Crew doors (door area1 and4).
+Rear Passenger/Crew door (door area 4).
+
+The A321 the door area heated are:
+@@Cabin and Emergency exits doors areas 2 and 3.
+Cabin and Emergency exits doors areas 3 and 4.
+Cabin and Emergency exits doors areas 2 and 4.
+
+The A321LR the door area heated are:
+@@Cabin and Emergency exits doors area 3.
+Cabin and Emergency exits doors areas 3 and AFT door.
+Cabin and Emergency exits doors areas 2 ,3 and 4.
+
+The maintenance team after inflation of the slide to deflate the slide has to:
+@@Manually open the flapper valve.
+Release the air with a sharp tool.
+To be done only in the shop.
+
+During Removal/Installation of the slide/raft pack assembly the important point to remember is:
+@@The assembly weighs approximately 50 kg.
+The assembly weighs approximately 150 kg.
+The assembly weighs approximately 15 kg.
+
+If the aircraft has Additional Center Tank (ACT) installed then the inflation reservoirs are installed in the:
+@@Cabin hatrack.
+Bottom of the door.
+Cargo compartments.
+
+The A321 LR with one FWD ACT and two AFT ACT installed can receive:
+@@Three FWD and Three AFT containers or pallets.
+Two FWD and Three AFT containers or pallets.
+Two FWD and Two AFT containers or pallets.
+
+The serviceability of the Pax doors emergency cylinder can be checked on the:
+Flight Attendant Panel (FAP)
+ECAM DOOR/OXY page.
+@@Direct Reading gauge and FAP.
+
+The Engine and APU fire protection is done by two sub- systems, they are:
+@@The Fire detection and the Fire extinguishing system.
+The Fire detection and the Firefighting system.
+The Fire detection and the Fire eliminating system.
+
+The Fire Detection Unit (FDU) monitors the:
+FDU 1 and FDU 2 monitor Engine loops no 1 and APU.
+@@FDU 1 for Engine No.1 and FDU 2 for Engine No.2.
+FDU 2 for Engine No1, Engine No 2 and APU.
+
+The Fire Detection Units (FDU) sends the FIRE and FAULT signals to the:
+@@Flight Warning Computer (FWC).
+Cabin Intercommunication Data System (CIDS).
+System Data Acquisition Concentrator (SDAC)
+
+In CEO and NEO aircraft the OVHD (20VU) guarded red FIRE P/B are used to:
+Isolate the related systems.
+The Engine or APU will shut down.
+@@Isolate the related system, shut down the related system and also arms the extinguishing system.
+
+Each engine has two fire bottles installed in the pylon and discharge of each bottle is controlled by:
+Related red guarded P/B SW.
+@@Related AGENT P/B SW.
+Related TEST P/B SW.
+
+On ground an APU fire will cause an:
+Automatic shutdown of the APU only.
+Automatic discharge of the fire bottle only.
+@@Automatic shut down and Auto discharge of the bottle.
+
+The Avionics Smoke Detection controlled and monitored by:
+@@Avionics Equipment Ventilation Controller (AEVC)
+Fire Detection Unit (FDU)
+Dedicated fire bottle.
+
+The smoke detector installed on Avionics Smoke Detection system is:
+Radioactive detector type.
+Laser detector type.
+@@Photo-electric type
+
+The Cargo compartment smoke detection system is monitored by the:
+Photo-electric type detectors.
+@@Smoke Detection Function (SDF) integrated in the Cabin Intercommunication Data System(CIDS).
+Fire Detection loops.
+
+In A318/A319/A320 the number of nozzles installed for fire agent discharge in cargo compartment are:
+Two nozzles in FWD and two in AFT compartment.
+One nozzle on each FWD and AFT compartment.
+@@One nozzle in FWD and Two nozzles in AFT compartment.
+
+In A321 the number of nozzles installed for fire agent discharge in cargo compartment are:
+Two nozzles in FWD and two in AFT compartment.
+One nozzle on each FWD and AFT compartment.
+@@Two nozzles in FWD and Three nozzles in AFT compartment.
+
+Each engine CFM 56 fire loop comprises of:
+@@AGB fire detector, core fire detector and pylon fire detector
+Fan fire detector and pylon fire detector
+Core fire detector only
+
+The engine fire warning signals are sent to:
+@@ECAM, Engine fire panel and start control panel
+Engine fire panel and ECAM
+ECAM and start control panel.
+
+Thermal discharge of the APU bottle can be detected on walk around inspection:
+By the FDU.
+By the ECAM indication.
+@@By visual inspection of the red disc indicator located near rear fuselage.
+
+The lavatory fire protection is provided by:
+The lavatory automatic extinguishing
+The lavatory smoke detection system.
+@@The lavatory smoke detection system and the waste bin automatic extinguishing
+
+In A321 and A321LR for ETOPS/EDTO certified flight the fire bottles:
+Installed with fire metering system on the First bottle only.
+@@Installed with fire metering system on the Second bottle only
+Installed with fire metering system on both 1 and 2 bottles
+
+For ETOPS/EDTO flights certifications, the bottles are certified based on capacity as:
+ETOPS (standard) 60 minutes.
+ETOPS -90 minutes
+@@ETOPS- 60/ 120/180 minutes.
+
+In maintenance the ENGINE and APU FIRE tests must be performed at:
+Any time on ground.
+Only in transit.
+@@All times before starting Engine or APU.
+
+The APU Auto extinguishing test push button installed at:
+@@Overhead maintenance panel (50VU).
+External Power Panel (108VU).
+APU Master Switch panel(25VU)
+
+Two Elevators and the Trimmable Horizontal Stabilizer (THS) achieve the pitch control as:
+@@Elevators for short-term activity and THS for long - term activity.
+Elevators for long-term activity and THS for short - term activity
+Elevators & THS for manual control activity
+
+The spoilers 1 to 5 numbered from:
+Wing tip to wing root.
+@@Wing root to wing tip.
+No.1 &2 in Left side, N0.3 in middle and No.4,5 in Right side
+
+The Flight control computers are:
+@@2 SFCC,2 ELAC,2 FAC and 3 SEC.
+2 SFCC,2 ELAC,2 FAC, and 2 SEC.
+1 SFCC,1 ELAC,1 FAC and 3 SEC.
+
+In normal configuration, the flight control servo actuators act as:
+@@Active servo control and the second one is in damping mode.
+Both are in Active mode.
+Both are in Damping mode.
+
+The main function of side sticks is to transmit electrical signals to the Electrical Flight Control System (EFCS) in:
+@@Lateral and longitudinal manual control orders.
+Only Lateral manual control orders.
+Only Vertical manual control orders
+
+Safety warning during handling of side stick assembly to be followed is;
+@@The assembly stays in vertical position, to prevent damper fluid leakage.
+No any special procedure required
+No standard procedure / practice required.
+
+In case of ELAC 1 and 2 failure or Green and Blue hydraulic low pressure then:
+All Aileron actuators revert to Active mode.
+@@All Aileron actuators revert to Damping mode.
+Right ailerons in active and left damping mode.
+
+Each spoiler is powered by one hydraulic actuator, if a fault is detected by the monitoring system or no electrical power:
+@@The surfaces are automatically retracted.
+The surfaces are manually retracted.
+The surfaces are free to move
+
+Any spoiler can be deactivated for maintenance on ground by:
+@@Depressurizing the hydraulic system by using the maintenance unlocking device.
+Depressurizing the related hydraulic system from reservoir.
+Depressurizing opposite side  spoiler
+
+The Maximum Rudder deflection for the A320F CEO is:
+50 Degrees for A320/A321 CEO.
+@@25 Degrees for A320/A321 CEO
+35 Degrees for A320/A321 CEO
+
+The Maximum Rudder deflection for the A320F NEO is:
+50 Degrees for the A318/A319 & A320/A321 NEO.
+@@30 Degrees for the A318/A319& A320/A321 NEO
+35 Degrees for the A318/A319 &A320/A321 NEO
+
+The rudder is powered by three hydraulic actuators operating in:
+@@Parallel.
+Series
+Active/Stand-by mode
+
+To do the test of spoiler 1 on the ground is possible with:
+Flap control lever.
+@@Speed brake control lever.
+Rudder pedals
+
+The priority for operating the trim wheels are:
+Electrical trim has priority over mechanical trim through manual trim wheels.
+@@Mechanical trim has priority over electrical trim through manual trim wheels.
+No such priority
+
+In case of THS jamming mode:
+@@Both POBs are applied and the THS is immobilized and locked.
+Both the POB is released and the THS is free to move.
+The THS operates in normal mode.
+
+The output module of SFCC have three solenoid valves are identified as:
+Retract/Extend/Energize valves.
+Hold/Release/cut-off valves.
+@@Retract/Extend/Enable valves.
+
+In slat/flap system, the position demand and actual position coming from:
+@@Feedback Position Pick-off Unit (FPPU).
+Asymmetry Position Pick-off Unit APPU).
+Pressure-Off Brake (POB)
+
+The Wing Tip Break (WTB) application logic coming from PPU and FPPU signal for:
+@@Asymmetry/Runaway/Overspend/UN-commanded movement.
+Extension/Retraction.
+No failure on flap deployment
+
+If any failures detected by a Slat Flap Control Computer (SFCC) then:
+@@The failures compared with the second SFCC and the WTB (Wing Tip Break) applied.
+The failures compared with the second SFCC and the
+WTB (Wing Tip Break) released.
+
+The Number of gear boxes used in the slat transmission are:
+@@Six Gear boxes.
+Four Gear boxes.
+Two Gear boxes
+
+For Maintenance Dispatch Conditions Under MEL for ELACs are:
+@@Both ELACS are MEL items, but Inoperative ELAC 2 is a NO GO item.
+Both ELACS are MEL items, but Inoperative ELAC 1 is a NO GO item.
+No MEL restrictions
+
+For Maintenance Dispatch Conditions Under MEL for FACs, FCDCs, SFCCs are:
+@@FAC 1, FCDC 1, and SFCC 1 is a NO GO item.
+FAC 2, FCDC 2, and SFCC 2 is a NO GO item.
+FACs, FCDCs, and SFCCs are all GO-IF items
+
+The Wink Tip Brakes (WTP) operation is:
+Mechanically controlled and hydraulically activated.
+@@Electrically controlled and hydraulically activated.
+Pneumatically controlled and electrically operated.
+
+If one of the Flap control hydraulic motors is inoperative then:
+Flap movement is inhibited.
+Flap operates normally.
+@@Flap Extension or Retraction at half speed.
+
+In Daily Check, the Visual checks of FLT CTL surfaces are made:
+@@From Ground with Flaps/Slats in retracted position.
+From Ground with Flaps/Slats in extended position.
+From Ground with Flaps/Slats in half extended position.
+
+Refuel valves may be controlled:
+Electrically only
+Manually only
+@@Electrically or manually
+
+The maximum refuel pressure is?
+11 psi
+45 psi
+@@50 psi
+
+The END light in the refuel/defuel panel illuninate, means?
+@@Pre-selected fuel is equal to actual fuel.
+All fuel tanks are full, refuel process stopped automatically.
+Any high level sensor detected fuel.
+
+When performing the refuel, defuel, Ground transfer, the R/D electrical circuit is enable by?
+Power from the aircraft electrical net work only.
+Carrying out HI LVL test.
+@@Contact R/D panel door switch.
+
+The fuel is supplied to the engines from:
+@@Wing tanks only.
+Center tank only.
+Either Wing or Center tanks can supply
+
+The fuel transfer from the center tank to wing tanks is controlled by:
+Fuel pumps.
+@@Transfer valves.
+Crossfeed valve.
+
+When the transfer valve opened, they supply pressure to two jet pumps in the center tank, then:
+The fuel from center tank transferred to outer wing tanks.
+The fuel from center tank transferred to outer LH wing tanks.
+@@The fuel from center tank transferred to  LH and RH wing tanks
+
+The two engine LP (Low Pressure) valves used for:
+To supply fuel to the engines.
+To cut off fuel to the engines.
+@@To supply or cut off fuel to the engines.
+
+The LP valve is closed when the related engine is.
+Running(operating).
+Shut down.
+@@Shutdown or when the engine fire push button is released.
+
+The crossfeed valve in the fuel system is:
+@@Normally closed for Normal operation.
+Normally opened in Flight.
+Normally closed in Ground.
+
+The APU LP (Low Pressure) valves used for:
+To supply fuel to the APU.
+To cut off fuel to the APU.
+@@To supply or cut off fuel to the APU.
+
+The A321 fuel tanks are integrated into the center fuselage area and wings, are called as:
+@@Simply left- and right-wing tanks.
+Right inner and outer tanks.
+Left inner and outer tanks.
+
+The Magnetic Level Indicators (MLI) are used to calculate the tank fuel quantities when:
+Normal refueling.
+@@A failure has an unwanted effect on the FQIC.
+Operating at an outstation.
+
+The Good practice by maintenance during refueling operation is:
+Make sure that the fuel tanks are filled to a minimum of 10% capacity.
+Always fill full tank.
+@@Minimum 10% required so that the water drain valves can operate satisfactorily.
+
+The APU fuel pump is Single phase electrical pump normally supplied by 115V essential bus bar(801XP) and if 801XPP not energized then:
+Supplied by IDGs.
+@@Supplied by Static Inverter bus (901XP)
+DC Main batteries.
+
+The APU fuel shut-off valve is:
+Single DC motor with an actuator.
+@@Two DC motors in the actuator are supplied from different 28V DC sources.
+Two DC motors in the actuator are supplied from single 28V DC source.
+
+The Fuel vent P/B SW in APU compartment used to:
+@@Purge the fuel system during ground maintenance.
+Purge the fuel system during APU start.
+Purge the fuel system during cross feed.
+
+The fuel feed concept for ACT installed aircraft is:
+Auto transfer from ACT to central tank.
+@@Auto transfer from ACT to center tank when fuel level decreases.
+Manual transfer only.
+
+Each refuel valve has a manual plunger to operate the valve:
+@@If an Electrical failure occurs.
+To purge before refueling.
+During De-fueling operation.
+
+In the Refueling panel (800VU), the ACTUAL total quantity indicates the:
+Amount of fuel on right wing tank.
+Amount of fuel on left wing tank.
+@@Amount of fuel on board.
+
+The fuel transfer from ACTs to centre tank sequence as follows:
+@@First Fwd. ACT then ACT# 2 and then ACT# 1
+ACT#1, then ACT#2, then ACT fwd.
+ACT#2, ACT Fwd., then ACT #1
+
+The firefighting equipment required during Fueling operations is:
+Any type of fire extinguisher.
+@@Adequate capacity fire extinguisher as per AMM.
+No fire extinguisher required during fuel operations.
+
+The Fueling computers are:
+FLSCU #1 & FLSCU #2 (Fuel Level Sensing Control Unit)
+Single channel FQIC (Fuel Quantity Indication Computer)
+@@FLSCU#1 and FLSCU #2 and 2-channel FQIC.
+
+The wing tank pumps are controlled manually but the centre tank can be controlled:
+Automatically if the Fuel CTRL Panel the MODE SEL P/B pushed in (AUTO)
+Manually if the MODE SEL P/B released out (White MAN mode)
+@@The mode selector can be either Auto or Manual.
+
+During first engine start the PTU is:
+Automatically running.
+Tested.
+@@Inhibited.
+
+A Blue system pipeline is identified by:
+A blue band and number 1.
+@@A blue band and number 2.
+A blue band and number 3.
+
+During which operation is the leak measurement valve closed automatically (A,B1,B2)
+PTU operation.
+@@Cargo door operation.
+Hand pump operation.
+
+What are the manual depressurization valves provided for? (A, B1)
+@@Individual reservoir depressurization
+Depressurization of related hydraulic circuit
+Hydraulic system depressurization
+
+The 3 Independent hydraulic systems identified as:
+No.1/No.2/No.3 system
+Left/Right/Center system
+@@Green/Blue/Yellow system
+
+The Hydraulic electric pump can be used as an auxiliary power source for maintenance purposes on Ground are:
+Green (G) and Yellow (Y) systems.
+Green (G) and Blue (B) systems.
+@@Yellow (Y) and Blue (B) systems
+
+If no power available in the Aircraft the Cargo door can be operated using:
+@@Yellow (Y) system hand pump.
+Green (G) system hand pump.
+Blue (B) system hand pump.
+
+The Engine Driven Pump (EDP) installed in:
+@@Green ENG No.1 and Yellow ENG No.2.
+Blue ENG No.2 and Green ENG No.1
+Yellow ENG No.1 and Blue ENG No.2
+
+The RAT extension/retraction by:
+Hydraulic only.
+@@Extension by spring force and Retraction by Blue hydraulic
+Spring force only.
+
+The location of the PTU in the:
+Yellow hydraulic bay.
+@@Main Landing Gear Bay
+Nose Landing Gear Bay.
+
+EDPs 1 & 2 are located on:
+Pylon area.
+@@The accessory gear box of ENG 1(EDP 1/G-System) and ENG 2(EDP 2/Y-System)
+The accessory gear box of ENG 1(EDP 1/Y-System) and ENG 2(EDP 2/G-System).
+
+The hydraulic servicing panels are located at:
+@@Aft of the MLG bay G & B on the LH side &Y on the RH side.
+Aft of the MLG bay G & Y on the LH side B on the RH side
+Aft of the NLG bay G & B on the LH side Y on the RH side
+
+The Hydraulic fluid type forbidden (NOT TO BE USED) for A320N aircraft family is:
+Skydrol LD 4
+Hyjet 5.
+@@Skydrol 500B-4
+
+The Direct reading gauges on hydraulic reservoir are used when:
+@@No electrical power supply available.
+To cross check with ECAM-HYD page.
+During Transit
+
+The check valves isolate the main hydraulic systems from the reservoir filling system when:
+It is used for G/B/Y system servicing.
+@@It is not in use.
+Electrical power not available.
+
+The safety precaution to be followed when manual depressurization of reservoirs:
+Only safety Glass
+Wear Ear defender.
+@@The Air may be hot and contain Hydraulic fluids, use appropriate safety wear.
+
+The yellow brake system has an additional accumulator for:
+@@Emergency Breaking and Parking Brake.
+Normal Breaking only
+Alternate breaking only.
+
+To Specific leak limits during maintenance refer:
+@@AMM table.
+TSM table.
+CMM table.
+
+The Hydraulic reservoirs are normally pressurized:
+600 psi with Nitrogen.
+@@50 psi with Air.
+Not pressurized.
+
+The High Pressure (HP) manifold provides hydraulic pressure to the:
+Flight control surfaces of LH wing.
+Flight control surfaces of RH wing
+@@Flight control surfaces of LH/RH wing and Tail section via three outputs.
+
+The leak test is performed using the:
+Multimeter.
+Soap bubble test kit.
+@@Dedicated portable Ultrasonic Flow-meter it is a Ground Service Equipment (GSE).
+
+The priority valve makes sure that all available Hydraulic pressure is sent to the:
+PTU circuit.
+Reservoir
+@@Primary flight controls if pressure in the system reduced.
+
+The Green Reservoir is located inside the:
+Aft Cargo compartment.
+Green Hydraulic Servicing Panel.
+@@Main Landing Gear Bay
+
+To prevent a possible RAT extension During Maintenance:
+@@RAT safety tool must be installed.
+Remove the Hydraulic lines to the RAT.
+Pull and safety the C/B.
+
+The wing anti-ice bleed supply to both wings is controlled by:
+@@A single P/BSW on the overhead ANTI ICE panel.
+Two LH wing, RH wing P/BSW in overhead BLEED panel.
+Two LH wing, RH wing P/BSW in overhead ELECT panel.
+
+The engine anti-ice is manually selected by the crew and is available in:
+Flight only.
+Ground only.
+@@Flight or Ground with the engine running.
+
+In order to provide reliable information for the air data systems, the air data probes are heated:
+@@Automatically when at least one engine is running.
+Automatically when the engines are running.
+Manually before the engine starts.
+
+The wing anti-ice valves are installed at:
+@@One in each wing leading edge outboard of the pylons.
+FWD cargo compartment.
+Main wheel well area.
+
+In CEO aircraft, the engine anti-ice valve is installed on the:
+Lower lefthand side of the engine.
+@@Lower right-hand side of the engine.
+Top side of the engine at 12 o’clock position.
+
+In NEO aircraft, the engine anti-ice valve is installed on the:
+Lower left-hand side of the engine core area.
+@@Lower right-hand side of the engine core area.
+Top side of the engine at 12 o’clock position.
+
+The wing anti-ice valve, in case of electrical failure or lack of pneumatic supply pressure, then the valve:
+@@Closes.
+Open fully.
+Open partially.
+
+For maintenance ground test function of Wing anti-ice valves limited to:
+30 minutes.
+@@30 seconds.
+One hour
+
+To Prevent Ice formation on the probes, the probes Electrically heated are:
+Angle – Of - Attack (AOA) and Static probes.
+Total Air Temperature (TAT) and Pitot probes.
+@@Static, Pitot, TAT, and AOA probes.
+
+In maintenance pulling the PHC C/B or Engine Interface Unit (EIU) power supply C/Bs will result in:
+Unwanted heating on Pitot and Static ports.
+Unwanted heating of TAT and Static ports.
+@@Unwanted heating on ALL the probes and Static ports always follow AMM instruction.
+
+If electronic ice detection system installed, they send the information to:
+@@Directly to FWCs.
+SDACs
+MCDUs
+
+In CEO engines the level of Anti ice is detection are:
+@@Two Levels, “ICE DETECTED” and “SEVERE ICE DETECTED”
+Single Level “ICE DETECTED” in F/O Side
+Single Level “SEVERE ICE DETECTED” in CAPT Side
+
+On ground if you pull PHC or WHC or EIU or LGCIU power C/Bs then:
+All the associated systems go to full heating (Fail safe mode)
+No problems nothing will happens.
+@@Causes unwanted heating can cause damage/injury always follow AMM.
+
+The two-drain mast system status send to the:
+CIDS and for indication in the FAP.
+CIDS, FAP, Control Unit (CU) front face for HTR and CU lights.
+@@CIDS, FAP, CU and CFDIU for storage of fault data.
+
+Electronics Instrument Systems (EIS) consists of two sub systems namely: -
+@@Electronic Flight Instruments System (EFIS) and Electronic Centralized Aircraft Monitoring (ECAM)
+EIS and Computers
+Black boxes and Computers.
+
+Electronic Centralized Aircraft Monitoring (ECAM) gives the information to flight crew are:
+Navigation Parameters.
+Aircraft System Displays, Faults, Checklists and the current operational status of the aircraft.	C. Flight path information
+
+The Flight Warning Computers (FWC) supply the following information to EIS are:
+Only Attention getters
+Attention getters, Audio
+@@Attention getters, Audio alerts, Synthetic voice messages and Text messages.
+
+Engine Warning Display (EWD) is divided into how many main areas:
+The upper area is used for Main Engine parameters, Fuel on Board, and Slat/Flap position, and lower part not used.
+@@The upper area is used for Main Engine parameters, Fuel on Board, and Slat/Flap position, and lower part is used for warning, caution and memo messages.
+Upper and lower part used only for Engine parameters.
+
+System Display (SD) is divided into how many main areas:
+@@The upper area is used to display various system pages, the lower part for permanent data.
+The upper area for permanent data, lower area for system displays.
+Upper area and lower area used for system pages.
+
+Under normal operation the DMCs process the data and generate images to display:
+@@DMC1 for CAPT EFIS displays, DMC2 for F/O EFIS displays and DMC3 as a backup.
+DMC3 for CAPT EFIS displays, DMC1 for F/O EFIS displays and DMC2 as a backup.
+DMC2 for CAPT EFIS displays, DMC3 for F/O EFIS displays and DMC1 as a backup.
+
+The Aircraft clock gives:
+UTC/Time/Date/Month/year to the crew and all peripheral systems.
+@@UTC/Time/Date/Month/year to the crew and all peripheral systems. Also Elapsed Time (ET) & Chronometer (CHR)
+UTC/Time/Date/Month/year to the crew and all peripheral systems.
+
+The main Purpose of Centralized Fault Display Interface Unit (CFDIU) are:
+Collect all A/C system failures and memorizes.
+@@Collect and memorize all A/C system failures, can be read or Printed using MCDU.
+Only memorizes for STATUS messages.
+
+Post Flight Report consists of (PFR) following information for Maintenance crew are:
+Summarized list of ECAM Warning messages and fault messages occurred during last flight.
+Summarized list of ECAM Warning messages and fault messages occurred during last flight only with NO associated time, NO flight phase and NO ATA reference.
+@@Summarized list of ECAM Warning messages and fault messages occurred during last flight also with associated time, flight phase and ATA reference.
+
+The Printer can Print reports in the following conditions.
+On Request in GND only.
+@@Automatically controlled by DMU or Manually controlled from MCDU or Using AIDS P/B on the center pedestal.
+Only during engine running.
+
+The green overflow arrow in EWD indicates that:
+@@The warning messages exceed the capacity of the display.
+Look into SD page
+Look in to MCDU.
+
+The ECAM operates in four modes for SD page display with priority order is:
+@@Normal mode /Failure mode/ Advisory mode/ Manual mode.
+No such modes
+Manual mode/ Emergency mode/Caution mode/ warning mode
+
+If you select a manual mode and it changes automatically when:
+@@If a warning or an advisory message.
+when you select one more SD page.
+Manual mode cannot be changed.
+
+What are the 3-Levels of Alert classification:
+Level 3 cautions/Level 2 cautions /Level 1 cautions.
+@@Level 3 Warnings /Level 2 cautions /Level 1 cautions
+Level 3 Warnings /Level 2 warnings /Level 1 warnings
+
+ECAM system components are:
+SDACs and FWCs
+@@SDACs, FWCs, DMCs and ECAM control panel (ECP)
+ECP and FWCs
+
+If upper display (EWD) fails, then:
+EWD automatically transferred to SD, called ECAM failure display mode.
+@@EWD automatically transferred to SD, called ECAM single display mode.
+EWD automatically transferred to ND, called ECAM transfer display mode.
+
+How many computers are connected with Printer:
+6 computers only print one system at a time.
+6 computers print randomly.
+@@6 computers print one at a time but as per priority.
+
+The DFDR Linear accelerometer located near the:
+Aft Cargo compartment
+@@A/C Center of gravity
+FWD cargo compartment.
+
+How many reports can be generated with AIDS
+@@13 standard reports and 10 Airline specific reports
+10 standard reports and 13 Airline specific reports
+12 standard reports and 11 Airline specific reports
+
+To print/read AIDS report via MCDU:
+@@Only one MCDU can be used at a time.
+Both the MCDUs can be used simultaneously.
+Portable Data Loader can be used.
+
+The Landing Gear Control and Interface Units (LGCIU) 1 & 2 control the gear and door sequencing by:
+@@Electrically.
+Mechanically.
+Hydraulically
+
+The Alternate braking system uses hydraulic from:
+Green System
+Blue System
+@@Yellow system.
+
+The accumulator Pressure can be used for:
+@@Maximum of 7 full brake pedal applications.
+Maximum of 2 full brake pedal applications
+Maximum of 5 full brake pedal applications
+
+The Maximum Towing Angle is:
+@@+/- 95 degrees
++/- 70 degrees
++/- 50 degrees
+
+During Maintenance the HOT brake unit cooled by:
+Spraying cold water.
+Ground Air-conditioning unit. (GSE)
+@@Brake cooling fans or natural cooling.
+
+The door bypass valves 1,2 &3 are only operated during:
+@@Ground maintenance.
+During LDG down.
+During LDG up.
+
+During maintenance the landing Gear doors not closing using the close lever the probable cause is:
+Blue System not pressurized.
+Yellow System not pressurized.
+@@Green System not pressurized.
+
+The Spare-seal activating valve colour indications are:
+Green Primary/Red secondary deactivated.
+@@Green Primary/Red secondary activated.
+Red secondary/Yellow secondary deactivated.
+
+The Lock stay provides:
+@@An over center stop and a geometric lock of the L/G.
+An over center stop and a geometric UN lock of the L/G
+An over center lock and a geometric lock of the L/G
+
+Before Removing LGCIU for maintenance the safety precautions are:
+Put safety warning and remove it.
+Deactivate the Brake unit.
+@@Pulling LGCIU CBs can cause unwanted operation of some systems strictly obey AMM
+
+The NLG sliding tube is inclined 9 degrees forward, this design allows the wheels to return freely to center position and to:
+@@Decrease the shimmy effect.
+Increase the shimmy effect.
+Maintain the shimmy effect.
+
+When Aircraft is on ground always install safety devices on the:
+MLG door only.
+NLG door only.
+@@Both MLG and NLG doors.
+
+The brake accumulator is supplied from Yellow hydraulic system and can provide pressure to:
+@@Alternate Braking System.
+Normal Braking System.
+Emergency Braking System
+
+The Auto- brake one of the disarmed conditions is:
+Flaps Extended.
+Ground Spoilers retraction.
+@@Ground Spoilers retraction. If Ground spoilers are extended again, the auto-brake will be activated again.
+
+For the Anti-skid function BSCU receives speed information from:
+@@ADIRUs 1,2 & 3 for aircraft speed and Tachometer wheel speeds.
+ADIRUs 1 & 3 for aircraft speed and Tachometer wheel speeds.
+ADIRUs 1 or 2 for aircraft speed and Tachometer wheel speeds
+
+The purpose of brakes fan system is to:
+@@Cool the Brake units in a short time.
+Cool the brakes only in summer.
+Cool the Breaks in Transit
+
+The adjustable Diaphragms used by maintenance in hydraulic block for:
+Adjusting Flow to each actuating cylinder chamber.
+@@Adjusting Flow to each actuating cylinder chambers and consequently the wheel steering speed.
+To bleed the system only
+
+The safety procedure must be followed for MLG door Ground Opening is:
+Make sure no one is in cockpit.
+Make sure GPU is available.
+@@Place Warning notices and tell personal not to operate LDG CTL lever and Gravity Extension Handle. Install safety locks
+
+The BSCU sends 4 discrete to Flight Management and Guidance Computers (FMGC) for:
+@@This is to meet the safety requirements of CAT-III B landings.
+This is to meet the safety requirements of CAT-II landings.
+This is to meet the safety requirements of CAT-I landings.
+
+The Alternate Braking Control Unit (ABCU) is supplied with:
+Two different AC power supplies.
+Two different DC power supplies.
+@@DC Essential power supply and DC Battery bus (HOT BUS)
+
+Various Cabin Lighting and Sign systems are controlled and tested by:
+The two CIDS directors
+@@The CIDS directors and Flight Attendant Panel (FAP)
+FAP only
+
+The FAP bottom slots used for:
+Cabin Assignment Module (CAM). Onboard Replaceable Module (OBRM),
+Prerecorded Announcement and Music (PRAM) in flash card format.
+@@CAM/OBRM and PRAM.
+
+The CIDS director communicate through Decoder Encoder Units (DEUs) called:
+@@DEU A & DEU B
+DEU A only
+DEU B only
+
+One of the main safety precautions to be followed when changing Strobe Lights are:
+Do not remove a strobe light wait ten minutes after de-energize the circuits.
+Do not Touch the Strobe lights wait five minutes after operation they still be very hot.
+@@Always use safety gloves when removing lamps.
+
+The Avionics compartment Light Push Button Switch (AVIONICS COMPT LT P/B) Located at:
+Over Head (OVHD) panel.
+Side console panel.
+@@OVHD Maintenance Panel (50V
+
+The Annunciator light Test Switch has:
+@@Dim/ Bright/Test positions.
+ON/OFF position. only.
+Bright/Dim/Off positions only
+
+The Ground External Connection Panel (108VU) the Light test switch located at.:
+Nose Landing Gear Compartment.
+@@In the Panel 108 VU itself.
+In the cockpit
+
+The FAP controls the DEUs via CIDS DIRs to give brightness (BRT) levels which are:
+BRT/DIM/OFF
+Low/Medium/High.
+@@BRT 100%, DIM 1 50% and DIM 2 10%
+
+The FAP controls the DEUs via the DIDS DIRs in order to give Cabin BRT levels as:
+@@100%,50%,10%
+100%,75%50%.
+100%,50%,25%
+
+The passenger reading lights can be tested via:
+The MCDUs from cockpit only.
+@@The MCDUs or the electronic MCDU from the FAP.
+Passenger service units (PSUs).
+
+The Pax Reading Lights replacement procedure is:
+@@There is no replacement Procedure because of High Mean Time Between Failure(MTBF) the complete assembly to be replaced..
+Individually.
+Replace Pax Service Unit.
+
+The components which are an Integral part of Air Data Reference (ADR) portion are:
+@@Pitot probs/Static Ports/Angle of Attack Sensors (AOA)/Total Air Temperature (TAT) Sensors.
+Only AOA and TAT are the part of ADR.
+Only Pitot and Static are the part of ADR.
+
+The three ADIRUs are controlled through:
+By three separate ADIRS Mode Selector Units (MSU)
+@@A single ADIRS Mode Selector Unit (MSU)
+By ADIRS individual MCDUs installed in center pedestal.
+
+The three ADIRUs supply information to cockpit EFIS as follows:
+ADIRU#1 Supplies CAPT PFD 1 and ND 2
+ADIRU#2 Supplies F/O PFD 2 and ND 1
+@@ADIRU #1 Supplies PF1/ND1, ADIRU #2 PFD 2/ND 2, ADIRU #3 hot spare.
+
+The Safety Precaution to be Followed when working on Pitot/Static systems or Probs are:
+Before any Test Install the Protective covers, do not test more than one minute.
+Do touch the probs immediately after the test, if they are hot
+@@Follow AMM procedure and safety precautions.
+
+The Static ports are connected to ADR part as:
+@@Six static ports provide Static pressure to Five ADMs (Air Data Modules)
+Six static ports provide Static pressure to six ADMs (Air Data Modules)
+Six static ports provide Static pressure to three ADMs (Air Data Modules)
+
+Marker (MKR) Function is done inside VOR receivers, but active only in:
+@@VOR #1 ONLY
+VOR #2 ONLY
+BOTH THE VOR having Marker Function
+
+All navigation systems can be tested from:
+@@The MCDUs
+on the Units itself from cockpit.
+Automatically tested on Ground during power up.
+
+Radio Altimeter (RA) altitude displayed on Both PFDs:
+All altitudes
+@@only below 2500 feet above Ground Level (AGL)
+only below 10000ft above AGL
+
+What is the Specific Safety Precaution during WxRdr Test on Ground
+When WX Rdr is ON no person be within 5 meters of the Radome.
+No metal obstacle within 5 meters and no refueling within 60 meters.
+@@Obey all the AMM Safety Precautions
+
+The aircraft Oxygen system includes:
+The crew and the passenger system.
+The passenger and Portable system.
+@@The crew, Passenger and portable system.
+
+The crew oxygen supplies oxygen to the flight crew in case of:
+Loss of cabin pressurization.
+All the time in flight.
+@@Loss of cabin pressurization or smoke or dangerous gases in the cockpit.
+
+In NEO the oxygen for cockpit crew supplied by the:
+@@Two segregated High pressure oxygen cylinders.
+A single High Pressure oxygen cylinder.
+Cabin air is used.
+
+There are two types of chemical generators that supply oxygen for:
+@@15 minutes or 22 minutes.
+25 minutes or 32 minutes.
+5 minutes or 12 minutes.
+
+The cylinder can be isolated for maintenance using:
+OVHD PNL crew Supply OFF Push Button Switch.
+@@Manual ON/OFF valve.
+By switching off electrical power.
+
+The pilots can open or close the oxygen supply by using:
+Manual ON/OFF valve.
+By tripping the C/B.
+@@The CREW SUPPLY P/B (21VU) on the oxygen panel controls the supply valve.
+
+During walk around inspection if maintenance found green visual oxygen disc missing means:
+Oxygen bottle charging required.
+@@The cylinder was discharged or the pressure relief valve is open.
+Oxygen is leaking.
+
+In A320 NEO aircraft oxygen carried for flight crew in the:
+Single cylinder.
+@@Two segregated high-pressure, independent cylinders.
+Two combined high-pressure, integrated cylinder.
+
+The passenger oxygen system, the masks fall automatically when the:
+@@The cabin altitude is higher than 14000 feet.
+During approach when aircraft altitude below 10000 feet.
+The aircraft’s altitude is above 35000 feet.
+
+When working on Oxygen system, if you do not follow airbus documentation or maintenance procedure then:
+@@You can cause a fire or an explosion.
+Damage the system.
+Cause a leak.
+
+During maintenance operation if a thunderstorm or bad weather condition occur then:
+@@Immediately stop all oxygen related operations.
+Continue the oxygen related operations.
+Refueling and oxygen servicing can be done.
+
+During oxygen system maintenance to reconnect all the pipelines and tightening the threads we must always:
+Use any standard oil to lubricate the connectors or thread.
+@@Use only specifically approved oxygen lubricants and thread compounds.
+Use general purpose grease.
+
+During leak detection on oxygen system the precaution to be followed is:
+For Leak test only Air is used no precaution needed.
+@@Helium is used and it is an Asphyxiating gas (can cause death) .
+Use water, it is safe.
+
+Oxygen cylinders and oxygen chemical generators are classified as:
+Standard materials.
+Special materials.
+@@Dangerous materials. (Dangerous Goods -DG)
+
+Air transportation of Oxygen cylinders and oxygen chemical generators are restricted by:
+@@International Air Transport Association (IATA).
+Local Civil Aviation Authorities.
+Air Transport companies.
+
+In case of failure of automatic operation of passenger’s oxygen system then:
+@@The unit doors can be manually released by MAN OVRD red guarded P/B SW.
+The cabin crew can use Manual Release Tool (MRT).
+The oxygen unit doors remain partially opened and cabin crew will pull it manually.
+
+The chemical generator condition can be checked by:
+@@Thermal indicator on the generator.
+By touching the generator is hot.
+Through the MCDU
+
+During preflight inspection if PBE tamper proof seal is broken or serviceability indicator colour changed then:
+It’s a GO item.
+@@Must be replaced.
+Inform the cabin crew.
+
+There are two types of chemical generators that supply oxygen for:
+@@15 minutes or 22 minutes.
+25 minutes or 32 minutes.
+5 minutes or 12 minutes.
+
+If Chemical Oxygen Generator once activated it can be:
+Stopped at any time as required.
+It cannot be stopped it’s an irreversible process.
+@@The generator becomes very hot.
+
+The Pressure regularization components are on the engines are:
+Engine FAN AIR(FAV) valve.
+Engine Pre-cooler.
+@@Engine High Pressure Valve (HPV),Bleed Valve (PRV) and Over Pressure Valve (OPV)
+
+The temperature regulation components on the engines and Pylons are:
+Bleed Air Valve (PRV)
+@@The Fan Air Valve (FAV) and the Pre-cooler.
+Intermediate Pressure Valve (IP)
+
+The APU bleed supply duct is installed along the:
+Center of the Aircraft to the wheel well area.
+Right hand side-the Aircraft to the wheel well area.
+@@Left hand side of the aircraft to the wheel well area.
+
+On Ground External ground air directly connected to the:
+Right side of the system only.
+@@Left side of the system only, and the Pressure indication will be available on Left side of bleed page.
+Left or Right of the system.
+
+The Engine Bleed Valve (PRV)is:
+Pneumatically controlled, motor operated valve.
+@@Solenoid controlled, pneumatically operated valve.
+A spring loaded and air pressure-controlled valve.
+
+The Main Function of The FAN AIR Valve is to:
+@@Regulate the fan air flow into the precooler for bleed air temperature regulation.
+Regulate the fan air pressure to the precooler for bleed air temperature regulation.
+Regulates the hot air into the engine fan discharge airflow.
+
+In Case of BMC 1 failure:
+BMC 2 ensures complete leak detection.
+The leak detection is completely lost.
+@@BMC 2 ensures its wing leak detection.
+
+The High Pressure (HP) valve is open during:
+@@Low power setting.
+High power setting.
+Only on Cruise.
+
+The APU leak detection loop is connected to the:
+@@Bleed Monitoring Computer (BMC) 1.
+Bleed Monitoring Computer (BMC) 2.
+Bleed Monitoring Computers (BMC) 1 and 2.
+
+To Start the ENG 2, by HP ground cart then:
+X- bleed valve selected at AUTO position.
+@@X- bleed valve selected at OPEN position.
+X- bleed valve selected at SHUT position.
+
+A FAULT light is on the ENG 1 BLEED P/BSW, indicates an:
+@@Overheat condition sensed in LH pylon or LH wing or LH MID fuselage area.
+Overheat condition sensed in APU duct area.
+BMC 1 is faulty.
+
+The APU and Cross bleed (X-BLEED) valves do not close during:
+@@Main Engine Start (MES).
+BMC 1 fault.
+BMC 2 fault.
+
+The engine bleed air supplied as:
+Hot air supplied Directly to the user.
+@@Pressure and Temperature regulated before it supplied to user
+Bleed air temperature only regulated not pressure.
+
+Pneumatic system indicated on:
+@@Lower part of ECAM/SD-BLEED page.
+upper part of ECAM/SD-BLEED page.
+Lower part of ECAM/SD-AIRCON page.
+
+The APU bleed supply connected to:
+@@The Left side of the system
+Right side of the system
+Directly to the system.
+
+The sources for HP supply from:
+Engine Bleed systems (EBS)
+The APU and HP Ground AIR unit.
+@@EBS/APU/GND unit- any of the three.
+
+In ECAM-SD BLEED page the white GND and triangle indicates:
+When Ground air supply is connected turns green and indicate the pressure.
+@@The GND indication DOES NOT indicate ground air supply is connected or available.
+It is available to indicate aircraft in flight or ground.
+
+The water and waste system consist of:
+Two subsystems potable water and Toilet system.
+Two subsystems potable water and waste water system.
+@@Three subsystems potable water, waste water and Toilet system
+
+A318/A319/A321 the potable water tank is installed in:
+@@Pressurized LH under floor area of AFT cargo compartment.
+Pressurized LH under floor area of FWD cargo compartment.
+UN-pressurized LH under floor area of THS compartment.
+
+The potable water system supplies water from the water tank to:
+FWD galley faucets and Fwd toilet unit.
+AFT galley faucets and Fwd toilet unit.
+@@All galleys faucets, and toilet faucets and vacuum toilet-units.
+
+To prevent ice formation in flight and during the cold weather operation:
+@@The two drain masts have integrated electrical heating elements.
+Externally heated by ground cart on ground.
+Engine bleed air is used in flight.
+
+The potable water from the water tank is supplied through distribution lines, are routed:
+Above the passenger compartment.
+@@Below the passenger compartment.
+Side wall of the passenger compartment.
+
+The water/waste system distribution in the forward area near avionics compartments routed as:
+@@Added protection and goes through a house.
+No protection necessary.
+All the lines routed through side walls.
+
+To prevent ice formation in and around the potable water distribution lines they are:
+Insulated.
+@@Insulated and electrically heated around the lines.
+Bleed air used to heat the lines.
+
+To prevent water spillage in the cabin area, during water service the maintenance crew.
+@@Without electrical power you must open the overflow valve manually before filling operation.
+With electrical power you must open the overflow valve manually before filling operation.
+Must use the FAP only for filling operation.
+
+During filling operation if the water tank is empty than:
+Amber light in the water service panel comes ON.
+@@All valves are closed and there are no indicator lights.
+All the service panel lights blinks.
+
+If the water service Panel door is opens then:
+The system is electrically powered.
+The FAP water/Waste page to be selected.
+@@The system is electrically powered and FAP water indication page is automatically called.
+
+Using FAP the water tank filling quantity can be selected as:
+75 liters,100 liters, 150liters and 200 Liters
+1/4 tank.1/2 tank,3/4 tank and full tank.
+@@25%,50%,75% and 100%
+
+The aircraft on ground during cold weather conditions then the maintenance must
+@@Drain the potable water to prevent damage of the system by ice.
+Water service must be carried out with hot water.
+Aircraft must be parked inside the hangar.
+
+The cold weather maintenance procedures for the potable water system are given in the:
+AMM 38-00.
+@@AMM 12-31-38.
+FCOM Vol 1.
+
+The toilet system vacuum generator is disarmed when the:
+Aircraft in flight.
+Waste tank service door panel is closed.
+@@Cabin differential pressure (Delta P) is sufficient to carry the waste to the tank.
+
+When the waste tank Liquid Level Sensor (LLS) becomes wet, the CFDS via DEU B then:
+Display a memo message on the ECAM.
+Sounds ground horn if the aircraft is on ground.
+@@Shutdown the toilet system.
+
+As per MEL/Deactivation If any of the drain mast is not heated, the aircraft can :
+Not dispatched.
+@@Dispatched provided the associated galleys or toilets are not used and placarded “Inoperative” and water shutoff valves are closed.
+The toilet door is locked.
+
+The Flush valve for the toilet bowl operation:
+@@Is controlled by the Flush Control Unit (FCU) part of the toilet assembly.
+Remains open as long as the Flush switch is kept pressed.
+Is controlled by the Vacuum System Controller.
+
+Data Link communications achieved by using:
+VHF Data Radio (VDR) only
+HF Data Radio (HFDR) only
+@@VDR or HFDR or SATC
+
+Information System is part of AMM chapter:
+ATA 23 communication
+@@ATA 46 Information Systems
+ATA 34 Navigation
+
+The parameters required when initializing the ATSU router?
+Aircraft registration number and airlines identification parameters,
+@@Aircraft registration number, airlines identification parameters and scan mask validation.
+Scan masks validation is activated.
+
+The“Company data link standby” green memo displayed on the ECAM means?
+Initialization of the ATSU Router complete and ready to use.
+@@ATSU is powered but not working.
+ATSU is standby on the ground.
+
+The Maintenance Menu is composed of:
+Only TEST function.
+Only STATISTICS function.
+@@TEST/STATISTICS and AUDIT functions.
+
+The systems included in Fuel Tank Inerting System (FTIS) are:
+The Conditioned Service Air System. (CSAS) only.
+The Inert Gas Generation System (IGGS) only.
+@@Both CSAS and IGGS.
+
+The Inert Gas Generation System main function are:
+Separates the Oxygen from atmosphere.
+Separates the Oxygen from the conditioned air stream.
+@@Separates the Oxygen from the conditioned air stream and regulates the Nitrogen Enriched Air (NEA) flow to the Centre fuel tank
+
+The Air Separation Module (ASM) removes the Oxygen from the:
+Outside air.
+Conditioned air stream called Oxygen Enriched Air (OEA).
+@@Oxygen Enriched Air (OEA and is discharged overboard to atmosphere.
+
+The FTIS operates in;
+Fully automatically and active in Flight only.
+Automatically and active in ground only.
+@@Automatically in Flight but on Ground preforms self-monitoring when energized.
+
+The FTIS supplies Nitrogen Enriched Air (NEA), which is a gas with low Oxygen content maintenance personnel must:
+Follow the Safety and warning as per AMM 28-00-00.
+Wear mask that is enough.
+@@Follow the AMM safety procedures, if not may cause serious injury or Death.
+
+The operational impact on FTIS for maintenance MEL dispatch are:
+FTIS is a GO item.
+It is a NO GO item.
+@@FTIS can stay inoperative for 10 days.
+
+CSAS system is installed on the:
+@@Left hand side of the aircraft belly fairing.
+Right hand side of the aircraft belly fairing.
+Right hand side of the aft cargo belly fairing.
+
+The Air Separation Module (ASM) is a semi-permeable hollow-fiber membrane bundle in a:
+@@Pressure containment canister.
+Open to air canister.
+Fuel filled canister.
+
+The information ADIRU 1 supply to the ICU are:
+STD Altitude (STD ALT), True Air Speed (TAS) only.
+Total Air Temperature (TAT) only.
+@@STD ALT, TAS, TAT, and Altitude Rate signals.
+
+The FTIS the primary source of bleed from the:
+Engine 2.
+Engine 1 or Engine 2.
+@@Engine 1, through the X Bleed Valve Engine 2 is the secondary bleed source.
+
+The ATA 47 FTIS consists of:
+ATA #28 fuel system
+ATA#36 Bleed System
+@@ATA#21 Air-condition +ATA# 26 Fuel System + ATA# 36 Bleed System.
+
+Currently the FTIS applicable for:
+Left and Right Main fuel tanks.
+Only for Left or Right Fuel tanks.
+@@Only for centre tank.
+
+CSAS system is installed on the:
+@@Left hand side of the aircraft belly fairing.
+Right hand side of the aircraft belly fairing.
+Right hand side of the aft cargo belly fairing.
+
+The Dual Flow Shut Off Valve (DFSOV) modulates the NEA flow to the center tank between:
+Low flow.
+High flow.
+@@Low, Mid or High flow in relation to the flight phases
+
+The Dual Flapper Check Valve makes a double barrier to the:
+@@Possible back-flow of fuel from center tank.
+Possible back-flow of NEA from center tank.
+Possible back-flow of OEA from center tank.
+
+From where the APU emergency shut down can be initiated?:
+Refuel/Defuel panel; External power panel and Cockpit.
+@@External power panel and Cockpit only.
+External power panel only, if the aircraft is on ground.
+
+How can you activate the APU fuel vent system? :
+@@Push and hold the VENT P/B at the APU compartment.
+Select master switch ON.
+Push and hold the VENT P/B with the master switch selected ON.
+
+The E.C.B has?
+Restricted authority over APU operation.
+Monitoring function over APU operation.
+@@Full authority over APU operation.
+
+The purpose of APU in A320 family aircraft is:
+@@Which enables the aircraft to be independent of external Electrical and Pneumatic sources.
+To provide electrical power only, in Ground or in Flight.
+To provide pneumatic power only, in Ground or in Flight
+
+The APU provides bleed air for the:
+Main Engine Starting (MES) only.
+Air conditioning (ECS) only.
+@@Engine starting (MES), Air conditioning (ECS) and Wing Anti Icing testing on ground.
+
+The types of APU available for A320 Family are:
+Honeywell type 131-9(A).
+APIC type APIC 3200 only.
+@@Either Honeywell or APIC type can be installed.
+
+The APU controlled and monitored by:
+Full Authority Digital Engine Control (FADEC) unit.
+Engine Interface Unit (EIU).
+@@Electronic Control Box (ECB)
+
+The APU vibration isolators are installed between the APU mount brackets and the tie roads to:
+Prevent Aircraft vibration shocks to the APU only.
+@@Prevent Aircraft vibration shocks and APU vibration transmission to the structure.
+For APU installation in the Compartment.
+
+The APU oil level information available in the cockpit are from:
+Displayed in EIS only.
+MCDU only.
+@@ECAM-APU SD page for LOW OIL LEVEL advisory and from MCDU APU SERVICE DATA page.
+
+In case of an APU inlet actuator failure, the APU may be dispatched, as per MEL with the:
+Inlet OPEN only.
+Inlet CLOSED only.
+@@Inlet OPEN or CLOSED with AMM/MEL procedures.
+
+The Safety precaution taken during APU cowls open position during maintenance is:
+@@Make sure that proper size fire-fighting equipment is available.
+No any safety precaution required APU fire bottle is adequate.
+No any safety procedure required because the APU doors are open during maintenance.
+
+During APU normal operations:
+@@The electric power supply has priority over the bleed air supply.
+The bleed air supply has priority over the electric power supply.
+There is no priority order.
+
+The APU Stater is operated by:
+Pneumatically operated.
+@@Electrically operated.
+Hydraulically operated.
+
+The inlet Guide Vane (IGV) is controlled:
+By the BMC1.
+By the BMC2.
+@@By the ECB.
+
+The APU oil cooler is used to remove the heat from oil system:
+With RAM air.
+With fuel.
+@@With the air vented by fan.
+
+The APU Air intake Flap open:
+@@As soon as MASTER SW in ‘ON’ position
+As soon as N>7%
+As soon as ignition begin.
+
+The APU MASTER SW is located at:
+@@Over Head Panel
+Maintenance Panel
+Capts Side panel
+
+The ECB enters the start preparation state of APU at:
+55% rpm
+@@7% rpm
+95% rpm
+
+The Fuel delivery for APU is from:
+Independent Fuel Delivery system from center tank.
+Right Hand Side of Fuel delivery system.
+@@Left Hand Side of Fuel delivery system.
+
+When the FUEL VENT push button switch is pressed in at the APU compartment then:
+@@APU fuel pump runs, and fuel isolation valve opens.
+Left wing main fuel pumps run and APU fuel isolation valve closes.
+APU fuel pump stops and Fuel Control Unit close.
+
+In the APU, ECB power Up test is performed at each time:
+When any one of the main engines started.
+When Battery P/B SW is ON.
+@@When APU master switch is set to ON.
+
+The APU total operation hours/APU cycles can be obtained from:
+Post Flight Report (PFR) on ground.
+Current Leg report in flight.
+@@System Report Menu -APU pages on MCDU.
+
+The APU generator parameters available on ECAM are:
+In flight Cruise page.
+Always in STATUS page
+@@ECAM-SD Electrical and ECAM-SD APU pages.
+
+The number of over wing emergency exit door equipped with A321 LR is:
+Four (two on each side).
+All four are located on the Left side.
+@@Four (two on each side) and two emergency exit doors (one on each side) located AFT of the wings.
+
+Do not open Passenger/crew door if the wind speed is more than:
+100 Kts.
+@@65 Kts.
+10 Kts.
+
+The pressure -sealed doors NOT to be opened if full or residual pressure in the aircraft it will cause:
+@@Explosive Decompression, can cause injury or kill the persons.
+Outside Hot air enter the cabin
+Outside Noise will enter the cabin
+
+The over-wing evacuation slide will deploy if the over -wing emergency door (OWD) is:
+Opened from outside.
+Opened from inside.
+@@Opened from Outside or inside.
+
+A321 Forward Emergency Exit door is:
+Same size as other doors.
+Small in size then other doors
+@@Larger in size then the other doors
+
+In A319/A320/A321, the FWD and AFT cargo doors are:
+Interchangeable.
+@@Structurally the same, but they are Not interchangeable.
+Different manufacturer
+
+The FWD/AFT/Bulk cargo compartment is sealed air-tight for:
+@@Fire containment capability.
+Prevent air leaks.
+Carry livestock
+
+When cargo door operation a signal sent to LGCIC 2 for:
+To Starts the Blue electric pump to supply the hydraulic fluid.
+@@To Starts the Yellow electric pump to supply the hydraulic fluid.
+To Starts the PTU to supply the hydraulic fluid.
+
+If there is a total failure of the CDLS, the A/C can be operated under MEL condition provided:
+Put an INOP sticker both the side of the door.
+Can be closed manually from cabin side with a deadbolt.
+@@Can be closed manually from cockpit side with a deadbolt.
+
+If it is necessary to open the emergency exit for maintenance, the safety precaution must be followed:
+Switch of the Ground Power.
+Switch of the APU if running.
+@@The automatic slide deployment mechanism must be deactivated
+
+The door assist bottle servicing to be carried out:
+At an approved workshop.
+@@In-situ on the aircraft with Nitrogen.
+Outside of the aircraft with air.
+
+The cockpit door panel in the center pedestal in NORMAL position:
+The door automatically open.
+@@The door is automatically closed.
+The door is free to open for entry.
+
+The composite parts used in A320 structure design are:
+Monolithic construction only.
+Sandwich construction only.
+@@Monolithic or Sandwich construction
+
+The Aircraft structure is divided according to the:
+EASA 100 specifications.
+FAA 100 specifications.
+@@ATA100 specifications
+
+The Engine station numbers are:
+The same for CEO engines.
+The same for NEO engines.
+@@Different depending on the engine types.
+
+The Bulk Cargo compartment door option is available in:
+A318/319 only.
+All A320 Family.
+@@A320/321 only
+

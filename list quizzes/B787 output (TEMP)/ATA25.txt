@@ -1,0 +1,166 @@
+1. After installing pilot's seats, you must:
+@@Calibrate the ECU
+Both A and B
+Check switches on the glare shield
+
+2. After the emergency descent device
+@@The device must be replaced.
+Reset the device reel for the next using.
+Carry out visual inspection then stow
+
+3. Door-mounted escape slide pack inflation visual check:
+Make sure that the actuation lever bly do not block the inflation cylinder
+Make sure that the inflation cylinder rectly position.
+@@Make sure that the pressure gage needle band (green).
+
+4. During perform emergency evacuation senger compartment operational test:
+@@The horn in the flight compartment horn at each door of passenger compartment operates.
+The horns in the flight compartment operate.
+
+5. During perform the captain and first installation, you must:
+Push and hold to test the rocker switches
+@@Carry out a calibration procedure.
+Adjust the FWD and aft stop on the 1 / 7
+
+6. Emergency evacuation signal is able from:
+Purser attendant station only
+@@Flight deck and attendant stations
+Flight deck only
+
+7. How many bunks are there for OFCR
+@@2 for OFCR, 6 for OFAR
+2 for OFCR, 4 for OFAR
+4 for OFCR, 8 for OFAR
+
+8. How many emergency exit doors are
+6
+8
+4
+
+9. How to remove the galley electrical emergency:
+@@An emergency OFF switch at each
+An emergency OFF function in the
+A CABIN/UTILITY switch in the cockpit
+
+10. If RH AC bus loss power, what happen?
+All lavatories loss power
+Left side lavatories loss power
+@@Right side lavatories loss power
+
+11. If the overhead stowage bin does ly,
+Perform the stowage bin latch adjusting.
+@@Use a tool to unlock the emergency
+Remove the stowage bin cap then gency release latch. 2 / 7
+
+12. In emergent situations, the crew
+Door-mounted escape slide packs ger entry door (PED).
+@@Emergency descent devices on the
+Slide window.
+
+13. Lavatories electrical interface connections through:
+@@Ceiling panel
+Ceiling panel and Floor panel
+Floor panel
+
+14. Lavatory waste bin flap:
+Fully opened when not in use
+Latched opened when in use
+@@Fully closed when not in use
+
+15. OFAR can be used
+@@In flight only
+Any time
+On ground only
+
+16. Passenger Seat is connected with
+@@The FWD passenger seat fitting has the AFT passenger seat fitting has 2
+The FWD passenger seat fitting has and the AFT passenger seat fitting has
+The FWD passenger seat fitting has the AFT passenger seat fitting has 1
+
+17. Pilot's seats can be controlled by:
+A switch on the seat back 3 / 7
+Switches on the sides of seats
+@@Both A and B
+
+18. Seat track covers is:
+Made of composite
+Used to cover power wires
+@@Holds wires that connect IFE data tween seats
+
+19. Seat-to-seat wiring for IFE data and connect through:
+Passenger service unit (PSU).
+Wireless.
+@@Seat tracks covers.
+
+20. Side walls panels are installed by:
+Screws
+Bolts
+Clips
+
+21. When does the decompression warning ate?
+PASS OXYGEN switch (P5) is in the
+@@Loss of cabin pressure or PASS OXYGEN is ON.
+Loss of cabin pressure.
+
+22. When EVAC COMMAND switch at door switch panel is pressed on:
+Only audio alert at a speaker near
+Audio alert at all speakers operate and the evacuation lights at Purser switch comes on 4 / 7
+@@Audio alert at speakers near all passenger operate horn operates and the evacuation Attendant switch panels comes on
+
+23. Where are the Service outlets?
+@@At FWD PED near the floor
+Nearly every lavatory
+Nearly galley
+
+24. Where is the captain/first officer
+In the sidewall.
+@@Below the seat.
+Behind the seat.
+
+25. Where is the portable emergency ter?
+In the emergency slide pack of door
+@@In the mounting bracket of door 1L
+In the area above passenger compartment approximately station 1732.
+
+26. Which seat can only be manually
+First officer seat
+@@First observer seat
+Second observer seat
+
+27 Seat - to - seat wiring for IFE data power connect through
+Seat tracks covers.
+Passenger service unit (PSU).
+@@Wireless. 28. 5 / 7 If the overhead stowage bin does not
+Remove the stowage bin cap then gency release latch.
+Perform the stowage bin latch adjusting.
+@@Use a tool to unlock the emergency
+
+How to remove the galley electrical power gency
+A CABIN/UTILITY switch in the cockpit
+@@An emergency OFF switch at each
+An emergency OFF function in the
+
+After the emergency descent device
+@@The device must be replaced.
+Carry out visual inspection then stow
+Reset the device reel for the next using
+
+If RH AC bus loss power, what happen?
+All lavatories loss power
+Purser attendant station only
+@@Right side lavatories loss power
+
+Emergency evacuation signal is able from
+Flight deck only
+Left side lavatories loss power
+@@Flight deck and attendant stations
+
+When EVAC COMMAND switch at door switch panel is pressed on:
+Only audio alert at a speaker near
+@@Audio alert at speakers near all passenger operate horn operates and the evacuation 6 / 7 Attendant switch panels comes on
+Audio alert at all speakers operate and the evacuation lights at Purser switch comes on
+
+Lavatory waste bin flap
+@@Fully closed when not in use
+Fully opened when not in use
+Latched opened when in use 7 / 7

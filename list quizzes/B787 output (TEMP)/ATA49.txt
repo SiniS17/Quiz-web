@@ -1,0 +1,251 @@
+1. Access to the APU Inlet Door actuator thru:
+APU fire wall
+Stabilizer compartment
+@@APU compartment
+
+2. After APU start, Fuel Module gets
+@@Permanent Magnetic Generator
+APU hot BAT Bus
+A or B
+
+3. APU attached to the airplane tail cone
+4 mounts
+@@3 mounts
+2 mounts
+
+4. APU can start by suction feed up to
+12000 ft
+16000 ft
+@@14000 ft
+
+5. APU combustor drain valve control
+Electrical by APUC
+Fuel pressure in fuel module
+@@Spring loaded valve type, It was closed pressurized in the combustion.
+
+6. APU Combustor drain valve open board when?
+The APU shutdown
+The APU is running
+@@The APU an aborted start or fuel nozzles APU SHUTDOWN. 1 / 10
+
+7. APU fuel feed suction can operation PUMP OPS?
+Yes, the APU can start by suction feed tude.
+No, the pump must operate for the
+@@Yes, up to 14,000ft.
+
+8. APU Fuel Module gets power from:
+APU battery
+@@APU BAT and PMG
+PMG
+MAIN BAT
+
+9. APU Fuel Module gets power from:
+@@Hot battery bus during APU start and network after APU start.
+Hot battery bus during APU start and start.
+PMG during APU start and aircraft after APU start.
+
+10. APU Fuel Module is
+Gearbox driven
+Motor-driven
+Connected to gearbox
+
+11. APU Fuel Module is
+Driven directly by gearbox.
+Driven by Oil cluster.
+Motor-driven. 12. 2 / 10
+
+APU fuel shutoff valve opens when
+AFT boost pump ON
+@@APU selector is moved to ON position.
+APU fire handle is not pulled out.
+APU maintenance switch is in TEST
+
+13. APU has:
+12 simplex fuel nozzles
+@@06 simplex and 06 duplex fuel nozzles
+12 duplex fuel nozzles
+
+14. APU is attached to the airplane structure mounts
+3
+2
+4
+
+15. APU oil cooler bypass valve OPEN around the cooler when?
+Differential pressure across the cooler than or equal to 40 psi.
+@@Differential pressure across the cooler than or equal to 80 psi
+Differential pressure across the cooler than or equal to 60 psi
+
+16. APU oil cooler cooled by?
+@@Ambient air suction thought the oil tor system
+By a supply fan behind the oil cooler.
+A/C Fuel System 17. 3 / 10
+
+APU oil de-prime valve closed when?
+@@Starter ASG cut-out about 50-60%
+APU start
+APU SHUTDOWN
+
+18. APU oil pumps are:
+@@Not LRUs
+Interchangeable
+LRUs
+
+19. APU oil supply and scavenge pumps
+On the gearbox
+In the lubrication module
+@@In the gearbox
+
+20. APU on 787-9 supplies
+A and B
+@@Only electrical power
+Only pneumatic power
+
+21. APUC operation data is stored in:
+The data memory module (DMM) next to APUC.
+The data memory module (DMM) on APU compressor section.
+@@The data memory module (DMM) the inlet sensor module.
+
+22. At the same time, you can change inlet sensor module?
+Yes, but follow AMM
+Yes
+@@No, loss data 4 / 10
+
+23. Can APU start with no fuel pump
+@@Yes, up to 14,000ft.
+No, the pump must operate for the
+Yes, the APU can start by suction feed
+
+24. During APU start, Fuel Module gets
+Permanent Magnetic Generator
+@@APU hot BAT Bus
+A or B
+
+25. How many Magnetic Chip Collector APU?
+3
+2
+1
+
+26. How many methods are there to tion APU?
+@@Fish pole Hoist and hydraulic jack
+Only one
+Manual and Pneumatic
+
+27. How many Starter Generators (ASG) the APU?
+3
+1
+2
+
+28. How many turbine stage are there engine?
+3 5 / 10
+1
+2
+
+29. In Unattended mode, what happen OIL TEMPERATURE occur?
+@@APU auto shutdown
+APU given MESSAGE
+MMSG is latch.
+
+30. PMG permanent magnetic generator power when:
+@@APU speed 70 %
+APU speed 8 %
+APU running
+
+31. The AFT section of 787-9 tail cone
+Composite
+Steel
+Titanium
+
+32. The APU air inlet system supplies
+@@A and B
+Combustion
+Airflow in the APU compartment
+
+33. The APU oil temp sensor:
+Senses the temperature of the oil
+@@Senses the temperature of the oil by the oil cooler.
+Senses the temperature of the oil after the oil cooler. 34. 6 / 10
+
+The BPCU sends a signal to the APUC APU if these conditions occur:
+A and B
+Only one VFSG stays on line, or if there electrical power
+@@The automatic start function is armed
+
+35. The de-prime valve opens during down to
+Reduce power for the APU BAT
+Increase the load on the APU starter (ASG)
+@@Decrease the load on the APU starter (ASG)
+
+36. The purpose of de-prime valve is
+Increase the oil viscosity in order to ment of start cycle.
+Prime the APU oil system during hot
+@@Open during start and shutdown in crease the load on the APU starter generator
+
+37. The purpose of the APU PMG is to:
+@@Supply power for fuel module
+Supply power for APU controller
+Supply power for A/C electrical system.
+
+38. What are the purpose of APU?
+@@Supply Electrical power on the ground 14000 fts
+Supply Electrical power on the ground
+Supply Electrical power and Pneumatic 7 / 10
+
+39. What does 787 APU supply?
+@@Electrical power only.
+Electrical and bleed air.
+Bleed air only.
+
+40. What does AFT APU tail cone made
+Steel alloy.
+Titanium
+CFRP
+
+41. What is correct about the Data Memory and APUC
+@@They must not be removed at the
+They are located in the AFT cargo
+They are to be removed at the same
+
+42. What is correct for APU starting?
+@@Do not restart the APU for more than cooling down of the electric starter.
+Make sure that the APU access doors when no observer in voice contact is
+Do not start the APU during refuel
+
+43. What is the correct position of the during APU start and running?
+@@Full Open
+Open 15 degree
+Full close
+
+44. What is the function of the de-prime
+To decrease drag on the APU ASG condition on the ground
+@@To decrease drag on the APU ASG 8 / 10 condition and shutdown
+To increase drag on the APU ASG during condition and shutdown
+
+45. What is the purpose of the APU oil
+@@To decrease the load on the APU starter ASG.
+To protected pressure avoid over pressurized.
+To increase the load on the APU starter ASG
+
+46. Which ASG selected to turn APU normal start?
+Selected by CMSC schedule
+@@Selected by BPCU schedule
+Odd day ASG 1, even day ASG 2
+
+47. Which fuel nozzle received fuel during
+Both are correct.
+@@Duplex nozzle
+Simplex nozzle
+
+48. Which of the following statements
+The tail cone has a forward section minum and an aft section made of Titanium.
+The tail cone has a forward section Fiber Reinforced Plastic and an aft section Titanium.
+@@The tail cone has a forward section and an aft section made of Carbon Fiber Plastic. 49. 9 / 10
+
+Which of the following statements
+APU oil supply pump is an LRU.
+@@APU supply and Scavenge pumps gearbox and are not LRUs.
+APU Scavenge pump can be replaced moval of the APU gearbox.
+
+50. You can find APU oil level on
+EICAS
+@@A and B
+Sight glass 10 / 10

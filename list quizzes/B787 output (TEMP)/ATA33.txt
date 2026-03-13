@@ -1,0 +1,307 @@
+1. All the emergency lights come on tions:
+The emergency light switch on the TEST position
+@@A test is done from the master attendant panel
+The emergency light switch on the ARMED position
+
+2. Are these the P5 EMER LIGHTS switch
+@@ARMED, ON, OFF
+OFF, TEST, ON
+ARMED, TEST, OFF
+
+3. For controlling the lighting systems,
+@@The airplane CDN (Common Data Network) ware
+The CSSC (Cabin Service System Controller) in attendant panel
+The dimmer control units (DCU) and
+
+4. For the cargo loading lights to operate, tion of the forward cargo door must
+Not in closed
+It In Closed position
+@@In Up position (fully open)
+
+5. How are the annunciator lights controlled?
+A panel lighting hosted function in
+@@Each system controls its annunciator
+CSS (Cabin Services System) software 6. 1 / 13
+
+How are the upper and lower body lights synchronized to flash at the same
+By the exterior light function in GPM.
+Neither a and b is correct.
+@@By a synch wire connects the upper
+
+7. How do the wing landing lights get RPDU?
+@@Each of the 2 lights gets power from a double power supply.
+The wing landing lights get power ly.
+Each of the 2 lights gets power from triple power supply.
+
+8. How many Dome lights include?
+@@F/O FWD and aft dome lights
+Capt FWD and aft dome lights and dome lights
+Capt FWD dome lights and F/O FWD
+Capt FWD and aft dome lights lights
+
+9. How many map lights are there on
+4
+3
+2
+
+10. How many Master attendant switch are there on AC
+Two : on door 1L and door 3L
+Eight: on every door
+@@Only one: on door 1L or 2L 2 / 13
+
+11. How many the oxygen box lights flight deck?
+Three
+Two
+Four
+
+12. How to control of the wing illumination
+Use a switch on the P40 panel
+@@Use a switch on the P5 panel
+Auto turn on when AC in air and MLG
+
+13. How to control the lights in the forward partment?
+Controlled by switchs located in P40
+Automatic controlled by Aplication
+@@Controlled by switchs located inside cargo door
+
+14. How to reset the attendant call indication lavatory
+@@Push the call light
+Push the attendant call switch inside near the toilet paper holder
+Push the reset on the cabin attendant menu
+
+15. How to synchronized 02 body anti-collision flash at the same time?
+A timer counter synchronized 02 lights
+@@A synch wire connects the upper and
+An application software in CCR synchronized lights 3 / 13
+
+16. If an integral panel light off the control failed, to fix it ON WING you should?
+Replace a light plate
+@@Replace the control panel
+Replace individual failure component plate
+
+17. If communication between the PCU fails, how is PCU connecting in any way?
+Serial
+Parallel
+Direct
+@@The PCU uses default light settings
+
+18. If communication between the PCU fails, the flood lights come on with what
+The flood lights go to fixed bright
+The flood lights come off.
+@@The flood lights go to fixed dim and tion
+The flood lights go to fixed dim illumination.
+
+19. If the reading light fails, to rectify
+The LED module
+@@The light assembly
+The defect components of the light
+
+20. In which position light, when an LED Diode) fails, you must change the LED Diode) module assembly with lens:
+@@The rear position lights
+Forward position lights
+The tailcone position lights 4 / 13
+
+21. On the lighting panel on cockpit, white anti-collision lights:
+Use the BEACON switch
+Use the NAV switch
+@@Use the STROBE switch
+
+22. The 2 emergency egress lights use ting Diode)s and show what colour
+White
+Red
+Green
+
+23. The B787 lighting systems use HID Discharge) bulbs for?
+Flight deck light
+@@Exterior lights
+Cabin compartment light
+
+24. The flight deck entry area light will
+the Door 1L is closed
+@@the flight deck door is closed
+the flight deck door is opened
+
+25. The interior cargo compartment
+On the cargo compartment sidewall. the same in all the cargo compartments
+@@On the cargo compartment ceiling. the same in all the cargo compartments
+On the cargo compartment ceiling. difference in all the cargo compartments 26. 5 / 13
+
+The service lights give light for maintenance servicing, the service lights in which same?
+@@In Main Landing Gear wheel and in equipment
+At the refuel control panel and in Main wheel well
+In Forward main equipment and at panel
+
+27. There are 2 kinds of information
+RED Information Signs and BLUE Information
+@@Small Information Signs and Large Signs
+SMART Information Signs and NORMAL Signs
+
+28. What are the 3 positions of IND LTS
+TEST, DIM, BRT
+DIM, AUTO, TEST
+@@TEST, AUTO, BRT
+
+29. What are the components of position
+@@Red forward position light on the green forward position light on the left rear position lights and white tailcone
+Red forward position light on the right green forward position light on the left rear position lights.
+Green forward position light on the red forward position light on the left rear position lights and white tailcone 6 / 13
+
+1. What are the position of the wing lights?
+The wing illumination lights are in wings tips.
+@@The wing illumination lights are in side of the fuselage, forward of the wing
+The wing illumination lights are in wings roots.
+
+2. What does the white dot above a switch
+The lights that are controlled by the
+@@The lights that are controlled by the switch
+The lights that are controlled by the
+
+3. What is control the master brightness tion
+@@A hosted application in the CCR b) tion in the core network system
+A hosted application in the CSS
+
+4. What is the purpose of logo lights?
+They help airplane for night landing.
+They help airplane in collision avoidance.
+@@They make the airline identification
+
+5. What kind of right wing position light?
+White LED
+Red LED
+@@Green LED
+
+6. What kind of Service lights are
+LED lights 7 / 13
+high intensity discharge (HID) type
+@@halogen lamps
+
+7. What kind of the cargo compartment are
+@@high intensity discharge (HID) type
+halogen-type bulbs
+LED lights
+
+8. What kinds of single does the passenger trol panel is on the P5 overhead panel
+@@Chime and Signs
+Only single chime
+Only Signs
+
+9. When are the lavatory lights are on
+When the door is closed and locked
+@@When the lavatory door is open
+When the lavatory door is closed
+
+10. When does the lavatory exterior occupied
+@@When the lavatory door is closed b) tory door is locked
+When the lavatory have person inside
+
+11. When does the Service lights can
+Lights can operate when AC in flight
+@@Lights only operate when AC on the
+Lights only operate when AC in virtual dling mode 41. 8 / 13
+
+When does the taxi light come on?
+when the NLG (Nose Landing Gear) switch or the NLG (Nose Landing Gear) is on if the flaps are fully extended.
+when the NLG (Nose Landing Gear) switch or the NLG (Nose Landing Gear) is on if the MLG (Main Landing Gear)
+@@when the NLG (Nose Landing Gear) switch or the NLG (Nose Landing Gear) is on if the NLG (Nose Landing Gear) locked.
+
+13. When push the EMER LIGHTS TEST master ASP, the emergency lights will
+For about 180 seconds
+For about 60 seconds
+@@For about 120 seconds
+
+14. When the STORM switch is selected dome lights will go to bright
+the aft dome lights
+@@the forward dome lights
+All 04 dome lights
+
+15. When the TOWING POWER switch Lights get power from the main battery operations. Which Does light come on?
+@@The forward dome lights come on
+The forward and aft dome lights come
+No light come on
+The aft dome lights come on 45. 9 / 13
+
+Where are logo lights located?
+In the upper panels of each wing
+In each side of vertical stabilizer
+@@In the upper panels of each horizontal
+
+17. Where do you can access to control gency lighting system?
+P5 panel EMER LIGHTS switch
+@@Master attendant switch panel (ASP) EMER LIGHTS switch
+Master attendant switch panel (ASP)
+
+18. Where does the lavatory call light
+@@On the outside of the lavatory, above
+Inside the lavatory, above the door
+Inside the lavatory near the toilet
+
+19. Where does the light in Cockpit get
+1 PCU
+PSM
+@@3 PCU
+2 PCU
+
+20. Where is the PRIME wireless emergency system (WELS) control units?
+The prime units are in FWD and AFT
+The prime units are above ceiling
+@@The prime units are above 4 of the
+
+21. Which are dome lights can also get emergency lighting system?
+The captain AFT and captain FWD 10 / 13
+@@The captain FWD and first officer AFT
+The captain AFT and first officer FWD
+
+22. Which color does the body anti-collision show
+Green
+White
+Red
+
+23. Which color does the Exit lights will passenger compartment?
+Green
+White
+Red
+
+24. Which condition will make the emergency come on?
+@@You push the EMER LIGHTS TEST switch ter attendant panel
+Emergency light switch on the attendant el in in the ARMED position and there 115v ac power
+Emergency light switch on the P5 panel position
+
+25. Which does Dome light get to power gency lighting system?
+@@Captain aft dome lights and F/O FWD
+Capt FWD and aft dome lights and dome lights
+Capt FWD dome lights and F/O FWD 55. 11 / 13
+
+Which is power control units (PCU) signals for light control
+Dome light PCU
+Floodlight PCU
+Miscellaneous light PCU
+
+27. Which light in flight compartment emergency dome light?
+@@first officer's forward and the pilot's lights
+first officer's aft and the pilot's forward
+First officer's forward and the pilot's
+
+28. Which light will get power from same the wing landing lights (from triple channel
+Wing illumination light
+@@Runway turnoff light
+Nose landing gear taxi light
+
+29. Which lights in cockpit is the analog
+oxygen box lights
+@@Map lights
+Integral Panel Lights
+
+30. Which Prime WELS control units prime unit
+The prime unit above door 3L
+@@The prime unit above door 1L
+The prime unit above door 4R
+
+31. Which types of galley lights can show colors
+Neither Area lights nor Work lights 12 / 13
+Work lights in the galley insert
+@@Area lights in the ceiling panel
+
+32. With the TOWING POWER switch during towing operation, which dome on?
+The aft dome lights
+@@The forward dome lights
+All 04 dome lights 13 / 13

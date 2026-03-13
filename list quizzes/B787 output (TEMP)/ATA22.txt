@@ -1,0 +1,410 @@
+1. A failure of the auto-pilot system causes:
+@@Master warning light, Aural alert and message
+EICAS warning message - AUTOPILOT ter warning light
+Master warning light and Aural alert
+
+2. Auto-pilot flight director data shows
+@@navigation display (ND)
+HUD
+PFD
+
+3. Can the aircraft be dispatched with control axis inoperative?
+@@all could be inoperative provide the tivated and auto-pilot function still operate
+All could be inoperative provide affected warned about the work load actuators ing flight.
+All could be inoperative provide affected tors deactivated and auto pilot function the aircraft must be also dispatched 22-11-01.
+
+4. During take off, the "AUTO POP UP"
+The F/D commands automatically /HUDs even if there is a F/D switch is tion
+@@The F/D commands automatically /HUDs even if the F/D switches are in
+The A/P commands automatically /HUDs even if the A/P switches are in 1 / 17
+
+5. Engine trim equalization is active when:
+@@both A/T arm switches are on
+A/T to be engaged.
+both A/T arm switches are on and engaged.
+
+6. For removal and installation of the nect switch, you must:
+@@install a rig pin in the control wheel.
+install a collar and warning tag in the
+Move the control wheel full travel
+
+7. For takeoff, the auto flight function
+pitch, roll, yaw
+pitch, roll
+@@pitch, roll, thrust
+
+8. For the aircraft dispatch with one auto motor inoperative, which is correct procedure?
+@@Affected thrust lever must be manually off and go around thrust.
+Thrust levers must be manually set go around thrust.
+Thrust levers must be manually set route.
+
+9. How many Auto-pilot Disconnect Switch
+2
+3
+4
+
+10. How many Back Drive Actuators (BDA) B787? 2 / 17
+Four : captain and F/O and two observer
+Two: captain and f/o side
+@@Three: pitch, roll, and yaw control
+
+11. How many copies of the AFF software
+1
+3
+4
+
+12. How many FCM on aircraft?
+4
+5
+3
+
+13. How many modes show on the Auto
+9
+4
+7
+5
+
+14. How many modes show on the roll
+6
+7
+5
+9
+
+15. How many procedures are there connect the auto throttle?
+2
+3
+1 16. 3 / 17
+
+How to engage the autopilot
+@@Push either of the 2 autopilot engage the MCP
+Push either of the 2 Auto throttle
+Push both autopilot engage switches
+
+17. How to make an ATC data uplink
+Accept the uplink to move the data window
+Push the XFR switch to move the data window.
+@@Accept the uplink and then Push the move the data to the active window
+
+18. How to manually disconnect the
+@@Push either A/T disconnect switch levers
+Move either A/T arm switches on the position
+Push either autopilot disconnect switch wheel
+
+19. How to manually disconnect the
+Move either A/T arm switches on the position.
+@@Push either A/T disconnect switch levers
+Push both A/T disconnect switch on
+
+20. If the engage removal signal is true, topilot Flight Director System):
+Disengages all backdrive actuators.
+Removes the engage requests to 4 / 17 system. (Primary Flight Control Function).
+Sends a disengage warning to caution
+@@All of above
+
+21. If VNAV mode engaged. Which modes peared?
+HDG or TRK
+APP or LNAV
+LNAV or LOC
+@@FLCH or APP
+
+22. In the flight level change (FLCH) mode, airplane controlled to fly to the selected tude?
+The autoflight controls airspeed with
+The autothrottle controls the engine
+@@Both of above.
+
+23. In which mode, the auto flight function calculate only autopilot (A/P) commands
+Flare
+Takeoff
+Approach
+
+24. The A/T arm switches are in the ON autothrottle automatically engages when
+@@A/C in flight level change (FLCH) mode
+A/C in Takeoff/go-around (TO/GA)
+A/C in Lateral navigation (LNAV) mode
+
+25. The auto pilot can be engaged with
+ON 5 / 17
+OFF
+@@On or OFF
+
+26. The auto pilot controls the airplane
+@@All flight phase except takeoff (flight
+Climb, cruise, decent, approach, autoland.
+All flight phase.
+
+27. The auto-flight function (AFF) is a tion in the flight control electronics (FCE):
+L, C1, C2
+L, C2, R
+@@L, C1, R
+
+28. The auto-flight function (AFF) operates
+On the ground
+In flight
+@@On the ground and in flight
+
+29. The autopilot engages in the takeoff
+Flight director is off.
+@@Aircraft not on the ground, Flight Mode selected is takeoff/go around.
+Aircraft on the ground.
+
+30. The auto-pilot flight director system trols the attitude of the airplane in these
+@@Descent , Approach, Autoland
+Go-around,Takeoff, Approach
+Takeoff , Climb , Cruise
+
+31. The auto-pilot flight director system trols the attitude of the airplane in these 6 / 17
+@@all flight phases except takeoff
+all flight phases
+all flight phases except landing
+
+32. The auto-throttle automatically engages
+@@Autothrottle arm switches are in the Vertical navigation engage
+Autothrottle arm switches are in the
+Autothrottle does't have automatically
+
+33. The auto-throttle disconnects automatically
+Both engines shut down.
+System failure, Either thrust reverser reverse idle position, pilots move the ing landing after the autothrottle starts throttles to idle.
+@@All above are corrected.
+
+34. The auto-throttle manually engage
+@@A/T arm switches are in ON position switch is push
+push the autothrottle mode switch control panel
+autothrottle arm switches are in the
+
+35. The backdrive actuators for each
+FO side only, torque tubes send the the captain side.
+@@Captain side only, torque tubes send to the FO side.
+Either captain or FO side. 36. 7 / 17
+
+The control column Back Drive Actuator moves the control column during these
+@@Autopilot is engaged and sends a
+Autopilot sends a pitch command
+Autopilot is engaged
+
+37. The control wheel Back Drive Actuator the control wheel during:
+@@The autopilot sends a roll command.
+The autopilot is engaged.
+The autopilot is engaged and sends
+
+38. The control wheel Back Drive Actuator ates when:
+during autopilot operation
+bank angle protection (BAP) is active.
+@@during autopilot operation and bank tion (BAP) is active during manual control
+
+39. The letter L shows in front of the nunciation when
+@@only one left autothrottle servomotor
+the left autothrottle servomotor is
+the left autothrottle servomotor is
+
+40. The mode control panel (MCP) is:
+@@The mode control panel (MCP) is the interface with the auto pilot function.
+The mode control panel (MCP) is the interface with the autoflight function.
+The mode control panel (MCP) is the interface with the autoflight function. 8 / 17
+
+41. The procedures to engage the A/P
+Pushing both autopilot engage switches ously.
+@@Pushing either of the 2 autopilot engage on the MCP.
+Both a and b are correct.
+
+42. The thrust management function cation in:
+@@L&R CCR
+FCM
+L CCR
+
+43. The thrust management system engine thrust in:
+@@in all phases of flight from takeoff landing.
+in some critical phases of flight.
+in all phases of flight except takeoff
+
+44. The TMF (Thrust Management Function) thrust levers in response to:
+Pilot commands from the MFK (Multifunction pad)
+@@Pilot commands from the MCP (Mode el)
+Pilot commands from the MFD (Multifunction play)
+
+45. The TMF controls the throttle lever accordance with:
+Pilot commands from the MCP (Mode only. 9 / 17
+FMF (Flight Management Function)VNAV Navigation) mode requests and speed gets only.
+@@All of above.
+
+46. There are 2 brushless, 28v dc autothrottle vo motors in the TCM (Throttle Control moves the left thrust lever. The other thrust lever?
+The servo motors are components management system
+The servo motors are line replaceable
+@@The servo motors are not line replaceable
+
+47. To test the TMF - Autothrottle Servo ground test you should do
+@@SYSTEM TEST
+LRU REPLACEMENT TEST
+OPERATIONAL TEST
+
+48. What are purposes the Auto-pilot System (AFDS)?
+Automatically control the altitude commands to move the thrust levers
+@@Automatically control the attitude indications and commands
+Automatically control engine thrust flight from takeoff to approach and landing
+
+49. What does Flight director indications HUD?
+@@Circle in circle 10 / 17
+Integrated cue.
+Split cue
+
+50. What factor does the Auto-pilot Flight tem (AFDS) controls?
+The altitude
+The airspeed
+@@The attitude
+
+51. What happens if you push an auto-pilot switch the second time?
+Visual and aural alerts to come on.
+@@All the alerts are cancelled.
+Autopilot disconnected.
+
+52. What is happen at second push of switch?
+Disconnects A/T
+@@cancels the alert
+Makes a caution alert
+
+53. What is the funcion of AFDS?
+@@Controls the attitude of the airplane indications and flight director commands crew can manually control the attitude
+Controls the attitude of the airplane
+Supplies indications and flight director so the flight crew can manually control the airplane only.
+
+54. What is the procedure to disengage
+Push the A/P disconnect switch on
+Manually override the autopilot commands 11 / 17 flight controls.
+@@Both a and b are correct.
+
+55. What is the VNAV mode
+@@A mix of throttle and rudder commands
+A mix of throttle and elevator commands
+A mix of stabilizer and elevator commands
+
+56. What phase are these Auto Flight modes available?
+during cruise and descent.
+@@during climb, cruise, descent and
+during climb, cruise and descent.
+
+57. When does the auto-throttle disconnects ically?
+@@Pilots move the thrust levers during the autothrottle starts to retard the throttles
+Either engine shutdown
+Both A/T ARM switches set to ARM
+
+58. When does the control column Back (BDA) move the control column?
+@@Autopilot is engaged and Autopilot command.
+Autopilot is engaged , Autopilot sends mand and during cruise
+Autopilot is engaged
+
+59. When does the MCP slave lane become lane?
+Everytime the autothrottle re-engages gages. 12 / 17
+@@When the master slave fails.
+All of above.
+
+60. When does the rudder pedal Back (BDA) move the rudder pedals?
+Autopilot is engaged , Autopilot sends mand and Airplane is on approach
+@@Autopilot is engaged , Autopilot sends mand and Airplane is on approach and radio altitude
+Autopilot is engaged , Autopilot sends mand and during cruise
+
+61. When does the slave lane on mode (MCP) become the master lane?
+Not change
+@@Every time the autopilot disengages gages
+MCP power on
+
+62. When does the VNAV mode transfer active?
+During takeoff and there is an active Radio altitude is above 50 feet
+@@There is an active flight plan, Radio 400 feet
+During takeoff and there is an active Radio altitude is above 400 feet
+
+63. When is the rudder pedal BDA not
+On approach
+On ground
+@@During cruise 13 / 17
+
+64. When the airplane is on approach (LOC) mode will
+reduce the engine thrust
+@@sends lateral guidance commands
+sends vertical descent flight path guidance mands
+
+65. When the autothrottle disconnects, visual and aural alerts:
+@@Master caution light and aural alert.
+EICAS message, master caution light alert.
+EICAS message, master warning light alert.
+
+66. When the autothrottles engage in tical Navigation) mode, the FMF (Flight Function) and the TMF (Thrust Management will:
+@@FMF and TMF will work together
+FMF will work as primary and TMF
+FMF will work as master and TMF is
+
+67. When the FMA show SPD mode. What mode mean?
+@@The autothrottle sets the thrust to airspeed
+The autothrottle moves the thrust idle position
+The autothrottle sets the thrust to altitude 14 / 17
+The autothrottle sets the thrust to vertical speed
+
+68. When turn on the flight director switch, the F/D Guidance show on
+@@the onside PFD
+Both PFD
+Both PFD and ND
+
+69. When VNAV is engaged, how can set the target speed or altitude data
+Turn the related selector switch on
+Push the related selector switch on
+@@Turn the related selector switch on it.
+
+70. Where are the control wheel, control rudder pedal backdrive actuators?
+under the flight deck floor on the
+under the flight deck floor on the
+@@under the flight deck floor on both first officer side.
+
+71. Where do the ATC uplink data request
+in the EICAS
+in the right lower of ND
+@@in the AUX area of the PFD
+
+72. Where do the back drive actuators the back drive servo drive commands
+From L FCE, RFCE and C1 FCE
+@@From only C2 FCE
+From four FCE 15 / 17
+
+73. Where do you see the auto-throttle topilot Flight Director System mode?
+On the HUDs (Head Up Display).
+@@ON the FMA (Flight Mode Annunciator) PFD.
+ON the FMA (Flight Mode Annunciator) ND.
+
+74. Where is the ATC request data show?
+@@AUX area of the PFD
+COM page
+PFD Display
+
+75. Where is the autopilot disconnect
+@@in FCE
+in ACE
+in CCR
+
+76. Where is the TMF (Thrust Management software?
+In the FCM (Flight Control Module) Control Electronics)
+@@In the GPM (General Processing Module cabinet
+In the CSM (Controller Server Module) (Common Core System)
+
+77. Which component normally tunes cy and sets the ILS course in approach
+@@FMF (Flight management Function)
+TMF (Thrust management Function)
+AFF (Autoflight Function ) 16 / 17
+
+78. Which does TMF get this data these the CDU thrust limit pages?
+@@Selected thrust limit or Assumed temperature
+Assumed temperature
+Selected thrust limit
+Selected thrust limit and outside temperature
+
+79. Which FCE does not have FCM? Which source supplies 28VDC to 3 axis drive Actuator)?
+C1 FCE
+@@C2 FCE
+R FCE
+
+80. Which source supplies 28VDC to drive Actuator)?
+Back-up bus.
+@@First officer instrument bus.
+Captain instrument bus.
+
+80. You can engage the autopilot on
+@@the flaps fully retracted and ground than 80 knots.
+the flaps fully retracted and ground 80 knots.
+the flap fully extended and ground 80 knots. 17 / 17

@@ -1,0 +1,158 @@
+1. APU automatic fire extinguishing occurs
+@@Either attended mode or unattended
+Attended mode.
+Unattended mode.
+
+2. Cargo Comp Fire Extinguishing Flow
+SMCU supply power control the valve
+@@SMCU supply power to explosive squib disc
+BPCU supply power control the valve
+
+3. Cargo discharge switch is selected, fire HRD bottles release their contents?
+@@Both bottle release immediately
+Both bottle release slowly 15 minute
+Only 01 HRD bottle discharge immediately, release after 15 minute delay
+
+4. Cargo fire extinguishing system is
+@@HRD bottles & LRD bottles
+LRD bottles
+HRD bottles
+
+5. Cargo smoke detectors can detect:
+Smoke
+Overheat
+@@Both a and b
+
+6. During usual operation, the engine sensing elements operate in an
+XOR logic.
+OR logic.
+@@AND logic. 1 / 7
+
+7. Engine fire loops send signal to CCS
+RDC
+Remote switches
+@@MEDC and RDC
+
+8. For 240 minutes ETOPS the standard for cargo fire extinguishing system is
+@@6 bottles.
+7 bottles.
+5 bottles.
+
+9. How does APU fire extinguish system
+Manually
+@@Automatic and manual operation
+Automatically
+
+10. How does Cargo fire extinguish system
+Manually
+Automatically
+@@Automatic and manual operation
+
+11. How does Engine fire extinguish
+Automatically
+Manually
+Automatic and manual operation
+
+12. How many are there the fire extinguisher for the wheel well overheat?
+1 bottle for each wheel well.
+@@No fire extinguishing system for the bottle for each main wheel well. 2 / 7
+
+13. How many Duct leak Overheat sensor main engine?
+3
+2
+1
+
+14. In which case of APU Fire, the ground horn activated?
+Aircraft is on the ground and APU tended mode only
+Aircraft is on the ground and APU operate ed mode only
+@@Aircraft is on the ground and APU attended and unattended mode
+
+15. On ground, the cargo compartment ing system only operates in the manual
+The HRD bottles discharge immediately, bottles discharge after a 15-minute delay.
+@@The HRD and only one of the LRD immediately with no 15-minute delay.
+The LRD bottles discharge immediately, bottles discharge after a 15-minute delay.
+
+16. The APU fire detection system detects
+Either overheat or fire condition.
+@@A fire condition.
+An overheat condition.
+
+17. The cargo fire detection system uses
+A nickel alloy sheath with two electrical in a thermistor core material. 3 / 7
+@@Photo-electric smoke detector.
+Resistive temperature device.
+
+18. The cargo fire extinguishing flow
+Measure the extinguishing agent partments.
+Regulate the extinguishing agent partments.
+@@Send the extinguishing agent to either go or AFT/bulk cargo compartment.
+
+19. The cargo smoke detectors are:
+Thermistor
+Resistive temperature devices
+@@Spot-type photoelectric smoke detectors
+
+20. The engine fire detectors have an old and a fire limit
+@@Depend the zone of engine fire detector installed.
+Depend the set level in MEDC.
+2040C and 2440C.
+
+21. The extinguishing systems use automatic tinguishing mode:
+Engines, APU and lavatories.
+Engines, APU and cargo compartments.
+@@Lavatories, APU and cargo compartments.
+
+22. The extinguishing systems use manual guishing mode:
+Lavatories, APU and cargo compartments. 4 / 7
+Engines, lavatories and APU.
+@@Engines, APU, cargo compartments.
+
+23. What is purpose of the placard TEMPILABEL LAV waste compartment?
+Instruction for lavatory waste compartment tinguisher bottle operation
+@@Show condition of the LAV Waste Comp guisher Bottle
+To identify the inform of the LAV Waste Extinguisher Bottle
+
+24. When does the APU is in the attended
+@@Either engine is running or the airplane
+Neither engine is running and the ground
+Either engine is running and the airplane the air
+
+25. When will cargo fire extinguish system automatically?
+Cargo fire is detected and no engine ground
+Cargo fire is detected and airplane
+@@Cargo fire is detected and airplane with both engine running
+
+26. When will Cargo Fire No1 LRD bottle without time delay?
+@@Aircraft's on the ground, Cargo fire tem discharge
+Aircraft's in the air, Cargo fire extinguish discharge 5 / 7
+Aircraft's in the air, Cargo fire extinguish armed
+
+27. Where is located of the APU fire extinguishing tle?
+@@In the compartment forward of the
+FWD cargo compartment
+AFT cargo compartment
+
+28. Where is located of the Cargo Comp guishing Filter/Regulator
+Behind the sidewall panel, below the bottles
+@@Behind the sidewall panel, below the charge (HRD) bottles
+Behind the sidewall panel, below the charge (LRD) bottles
+
+29. Which of the following fire detection detect overheat?
+@@Main engine
+APU
+Either a or b
+
+30. Which of the following fire extinguishing has the automatic operation?
+Cargo
+Main engine
+Main Landing Gear
+
+31. Which's component allow fire extinguish lease to forward cargo compartment?
+FWD cargo Metering Valve 6 / 7
+AFT cargo metering valve
+@@FWD cargo flow valve
+
+32. Who does monitor the engine fire nels for fires and overheat conditions?
+MEDC.
+CCS.
+@@PFPS function. 7 / 7

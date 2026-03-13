@@ -1,0 +1,284 @@
+1. Access panel 541CB:
+@@Third panel in zone 541
+Second panel in zone 541A
+Third panel in zone 500
+
+2. Air Conditioning system uses air from
+APU bleed system
+@@Ambient air thru CACs
+Engine bleed system
+
+3. All 8 Passenger Entry Doors can be nally or
+Internally only
+@@externally or internally
+Externally only
+
+4. B787 is designed features with
+2 separate hydraulic systems : Yellow hydraulic pressure are 5000 psi
+3 separate hydraulic systems : Yellow with hydraulic pressure are 3000 psi
+@@3 separate hydraulic systems : Left with hydraulic pressure are 5000 psi
+
+5. B787 is electric airplane architecture
+@@No engine off-bleed of pneumatics anti-ice and wing leading edge anti-ice
+No engine off-bleed of pneumatics anti-ice
+No engine off-bleed of pneumatics
+
+6. Do you must install jack pad at 03
+Yes 1 / 12
+@@No, jack pads are part of the airplane
+No need jack pad
+
+7. How do you get access to toolbox
+@@Through MyBoeingFleet
+Through hard drive of the ML
+Toolbox remote on Maintenance Laptop
+
+8. How do you know M/L wired connected?
+@@On the right side of the MCDF, 2 circular and the arrows turn
+Connection type: wired and on the MCDF, 2 circular arrows show and the
+Connection type: wired
+
+9. How many cargo door are there?
+3
+2
+4
+
+10. How many main electronic equipment B787
+There is only one Forward EE bay is deck and cabin floor, forward of the compartment
+There are 3 main electronic equipment Forward EE, Aft EE bay and Auxiliary cargo Door
+@@There are 2 main electronic equipment Forward EE bay and Aft EE bay is forward cargo compartment 11. 2 / 12
+
+How many major zone are there?
+8
+9
+7
+
+12. How many passenger entry doors?
+Two on each side of fuselage
+Eight on each side of fuselage
+@@Four on each side of fuselage
+
+13. How many pax door are there?
+9
+8
+10
+
+14. How many Primary jack points are The Primary jack points have jack pads of the airplane body)
+8
+5
+3
+
+15. How many primary jack?
+5
+8
+3
+
+16. How to show data that does not apply ed airplane in Toolbox remote?
+Unclick on the preference icon to select Non-Applicable Data
+Default 3 / 12
+@@click on the preference icon to select Non-Applicable Data
+
+17. How to get access to the forward forward cargo compartment?
+You can not access
+Access door on the right side of the head wall
+@@You must remove a panel.
+
+18. Hydraulics systems have
+4000 psi
+@@5000 psi
+3000 psi
+
+19. If you are connected to an airplane, identification data and the connection TB Remote home page show:
+White
+Green
+@@The connection symbol is green but identification data is white
+
+20. Look at this DMC: DMC-B787-A-24-25-00-01A-520A-A. What code included in the number?
+520A-A
+25-00-01A
+24-25-00
+
+21. Most of airplane structure made
+Fiberglass Sandwich 4 / 12
+Aluminum alloy
+CFRP
+
+22. On B787, where is the position of
+Forward, Aft and Bulk cargo doors fuselage
+@@Forward, Aft cargo doors on right cargo door on left side of fuselage
+Forward cargo doors on right side cargo doors on left side of fuselage
+
+23. On the 787, letter checks (A, B, C, maintenance intervals for specific tasks. can be
+@@Flight hours (FH) , flight cycles (FC) time
+Operation hours (OH), landing cycles dar time
+Flight hours (FH) , flight cycles (FC) and
+
+24. On the P5 overhead electrical panel, momentary-action switch?
+External power switch
+@@APU generator switch
+Main Battery switch
+
+25. The 5 auxiliary jack points (Points are used to
+@@Stabilize the airplane for long term
+Lift and lower the airplane when main replacement.
+Lift and lower the airplane 5 / 12
+
+26. The Brake system on B787 are control tion by
+Electrically control and Hydraulic operation
+Hydraulic
+Electrical
+
+27. The CAN bus is/are
+@@a bi-directional data bus.
+one-way buses.
+a two-way bus
+
+28. The CRN is connected to the Carbon forced Plastic (CFRP) in intervals for
+Ground-fault circuit interrupter (GFCI) purposes
+@@Lightning protection purposes
+Providing a Neutral line of the 03 phase system
+
+29. The current return network (CRN) the
+@@Airplane electro-magnetic interference tion
+High intensity radiation field (HIRF) ment
+Electromagnetic energy (EME)increment
+
+30. The current return network (CRN)
+As part of the Common Core System
+As part of the primary structure of
+@@As part of the Electrical Power System 31. 6 / 12
+
+The current return network (CRN)
+Supply path for normal AC and DC sources to the loads
+Return path for Onlyfault AC and DC the loads to the sources
+@@Return path for normal and fault ac from the loads to the sources
+
+32. The fuselage constant cross section mension
+Water lines (WL) from a ground reference Buttock lines (BL) and Radius (R) from fuselage
+@@Water lines (WL) from a ground reference tock lines (BL) and Radius (R) from the the fuselage point
+Water lines (WL) from Nose Radom, (BL) and Radius (R) from the center of
+
+33. The main components of the CRN
+Tie brackets, Bars, circuit breaker
+Straps, primary structure, wiring
+@@Bars, Straps, Tie brackets
+
+34. The plumb bob leveling scale (with installed) provides
+Airplane pitch data (nose up or nose
+Airplane Roll data (which wing is up is down)
+@@A graphical scale to show the airplane
+
+35. To provide redundant current pathway, the wing and empennage consists of 7 / 12 which are:
+@@Connected electrically in parallel
+Connected electrically in Serial
+Separated electrically
+
+36. What actions should be done when found CRN component is damaged
+@@Determine the allowable damage pair
+The CRN component damaged is not should be replaced immediately
+Ignore the CRN component damaged effect to aircraft airworthy
+
+37. What are the 2 types of Toolbox?
+@@Toolbox Remote and Toolbox online
+Toobox online and toolbox mobile
+Toolbox Remote and Toolbox mobile
+
+38. What are the color of CRN cables
+@@CRN cables are green and straps are
+CRN cables are white and straps are
+CRN cables are green and straps are
+
+39. What colour is fiber optic cable?
+Purple
+White
+Yellow
+
+40. What is the cabin altitude for pressurization tem
+@@6000 ft 8 / 12
+7000 ft
+8000 ft
+
+41. When you tow the B787 airplane
+It is OK for Engine cowls to be open
+@@Engine cowls must be closed and
+Passenger entry doors and access closed and latched
+
+42. Where can you wired connect to top?
+@@F/D, Fwd EE, Aft EE
+F/D, Fwd Cargo, Aft Cargo
+F/D
+
+43. HOW MANY TYPE IS THE TOOLBOX?
+@@TOOLBOX REMOTE OR TOOLBOX ONLINE.
+ONLY TOOLBOX ONLINE
+TOOLBOX REMOTE OFFLINE OR TOOLBOX
+
+44. WHAT DOES THIS MEAN ? -(DATA (DMC) DMC-(B787)-A-(00-40-02)-27A-00SA-D)
+@@AIRPLANEMODEL AND ATA CHAPTER/SECTION/SUB- JECT
+AIRPLANEMODEL AND ATA CHAPTER/SUB JECT
+AIRPLANEMODEL AND ATA CHAPTER//SUBJECT/ TION
+
+45. WHY DOES THE B787 HAS LOWER PRESSURIZATION (6000 FT)
+DUE TO CABON STRENGTH 9 / 12
+DUE TO STEEL STRENGTH
+@@DUE TO CFRP STRENGTH
+
+46. HOW IS THE LOWER CABIN ALTITUDE TION OF B787
+@@LOWER CABIN ALTITUDE PRESSURIZATION FT)
+LOWER CABIN ALTITUDE PRESSURIZATION FT)
+LOWER CABIN ALTITUDE PRESSURIZATION
+
+47. THE 787-9 IS SIMILAR TO THE 787-8 DIFFERENCES
+LONGER FUSELAGE, MORE PASSENGERS GO.
+@@LONGER RANGE,LONGER FUSELAGE, GERS AND CARGO.
+LONGER RANGE,LONGER FUSELAGE, GERS.
+
+48. YOU USE AIRCRAFT DIMENSION SURE OF PROPER CLEARANCE DURING:
+TAXI OR TOWING
+TAXI OR TOWING,POSITIONING IN DOCK,MAINTERNANCE
+@@TAXI OR TOWING, POSITIONING IN
+
+49. WHERE IS THE STATION POINT 0.00
+@@STATION 0.00 IS A POINT IN FRONT PLANE
+STATION 0.00 IS A POINT IN WBL OF
+STATION 0.00 IS A POINT IN BEHIND PLANE 10 / 12
+
+50. IN ADDITION TO SYSTEMS THAT GET ELECTRICAL POWER,THE 787 ELECTRICAL SUPPLIES POWER FOR:
+@@STABILIZER TRIM, WHEEL BRAKE SYSTEMS, GEAR STEARING SYSTEM.
+ENGINE START, PRESSURIZATION, TECTION, STABILIZER TRIM, WHEEL BRAKE
+ENGINE START, PRESSURIZATION, TECTION, LANDING GEAR ALTERNATE TEM
+
+51. WHERE IS THE E12 EQUIPMENT RACK
+THE E12 EQUIPMENT RACK IS IN THE COMPARTMENT
+THE E12 EQUIPMENT RACK IS IN THE COMPARTMENT
+@@THE E12 EQUIPMENT RACK IS IN THE GO COMPARTMENT AND FORWARD CUTOUT.
+
+52. Where is the E12 rack?
+@@forward of the bulk cargo door opening
+forward of the aft cargo door opening
+Aft of the bulk cargo door opening
+
+53. Where is the inclinometers?
+Right MLG wheel well
+Left MLG wheel well
+@@Nose wheel well
+
+54. Where is the plumb bob leveling
+@@Left MLG wheel well 11 / 12
+Nose wheel well
+Right MLG wheel well
+
+55. Where is Toolbox Online data stored?
+On the hard drive of the ML
+@@On a Boeing server
+On ground network
+
+56. Where is Toolbox Remote data stored?
+On a Boeing server
+On ground network
+@@On the hard drive of the ML
+
+57. Which major zone is the FWD cargo
+200
+100
+800 12 / 12

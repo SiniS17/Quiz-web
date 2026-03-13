@@ -1,0 +1,269 @@
+1. A pump is operated to provide system when a pump is operated to replace
+Completed Fill water and change Flight
+Pressure is below 25 psi for more
+@@Both A and B.
+
+2. During fill operations, you select FILL panel:
+The fill/drain valve closed immediately.
+The fill/drain valve opens immediately.
+@@The fill/drain valve opens after delayed ultraviolet (UV) treatment module to
+
+3. During ground maintenance, to open
+Push the maintenance switch 2 times
+@@Push and release the maintenance
+Push and hold flush switch.
+
+4. Each tank is mounted by:
+4 Bolts in FWD tank and 4 Bolts in
+@@4 Bolts in FWD tank and 2 Saddle pins
+2 Bolts in FWD tank and 2 Bolts in
+
+5. Each waste tank has:
+@@3 rinse nozzles
+4 rinse nozzles
+2 rinse nozzles
+
+6. Gray water from galleys and lavatories' drained:
+Gray water system drain
+To drain masts
+@@To waste tanks 1 / 11
+
+7. How long does it take to warm up
+@@80 sec
+100 sec
+1 min
+
+8. How many gray water drain mast 787-9?
+1
+None
+2
+
+9. How many potable water tank are
+2
+1
+3
+
+10. How many pumps operate in DRAIN
+One pump operates
+No pump operate
+@@Both pumps operate
+
+11. How many types of mounts for the removal valve are there on Boeing B787?
+4
+3
+2
+
+12. How many waste tanks are there
+2
+3
+1 2 / 11
+
+13. How to operate Vacuum Blower?
+When the airplane is on the ground feet, tank not full.
+@@When the airplane is on the ground, 14,000 feet, tank not full, drain ball valve
+When the airplane is on the ground, feet.
+
+14. If sink drain in galley is blocked, how drain blockage?
+@@Turn and hold clog removal valve to and release the Gray Water Interface MANUAL OVERRIDE switch
+Turn and hold clog removal valve to and release the Gray Water Interface MANUAL OVERRIDE switch
+Push the Gray Water Interface Valve OVERRIDE switch
+
+15. If there is no-demand water will the pump via:
+A bypass valve
+Pump housing
+@@A flow orifice
+
+16. In Maintenance Fill mode:
+The amber UV DELAY indication comes seconds.
+@@The system does not automatically mode.
+The vent-overflow valve overflow port 17. 3 / 11
+
+In normal condition, pump(s) will
+2
+Depending on the flight/ground condition
+1
+
+18. Lavatory water shutoff valve is a:
+2 position valve
+Located behind the mirror
+@@4 position valve
+
+19. On the ground, what conditions um blower?
+The waste tank point level sensor
+@@Waste tank drain valve is open
+Water pumps fail
+
+20. On tterm-19he service panel, what you make to flush the potable water
+@@Select MAINT and FILL at the same
+Select FILL
+Select MAINT and DRAIN at the same
+
+21. Potable Water Flow Orifice is on:
+Left potable water tank
+The ceiling between the waste tanks
+@@Right potable water tank
+
+22. Potable water system uses to supply
+@@Water pump
+Air pressure
+Delta P 23. 4 / 11
+
+Potable water tank level sensor is:
+A capacitance rod
+A drip stick
+A reed switch indicator
+
+24. The difference between MAINT Fill MODE:
+The system does not automatically mode and 1 pump operate.
+Vent-overflow valve: Overflow open, is not powered
+@@The UV system is not powered and not automatically switch to FLIGHT mode.
+
+25. The difference between MAINT Flight Flight MODE:
+@@Vent-Overflow valve remain in overflow
+One pump starts operating
+All valves return to normal flight position.
+
+26. The fill/drain valve is a motor-operated (MOV):
+It opens to fill the tanks during servicing; during drain; open during flush operation.
+@@It opens to fill, drain, and flush operation.
+It opens to fill the tanks during servicing; during drain; closed during flush operation.
+
+27. The Galley Clog Removal Valve is
+@@Create a stronger vacuum line pressure clog material to the waste tank
+Empty gray water interface valve reservoir 5 / 11 is not full
+Directly drain gray water to the waste
+
+28. The Gray Water Interface Valve Switch is used to:
+Directly drain gray water to the waste
+Create a stronger vacuum line pressure clog material to the waste tank
+@@Empty gray water interface valve reservoir is not full
+
+29. The lavatories have 2 types of shut-off use:
+@@3-port, 4 position shutoff valve and shutoff valve
+2-port, 3 position shutoff valve and shutoff valve
+2-port, 4 position shutoff valve and shutoff valve
+
+30. The minimum period of time to conduct Assembly by Lid-Down switch?
+15s
+12s
+18s
+
+31. The purpose of Gray Water Interface
+To hold a specified volume gray water to the drain masts
+@@To hold a specified volume gray water drain to the waste line
+To hold a specified volume gray water 6 / 11
+
+32. The ultraviolet (UV) water treatment power from:
+@@L 115v ac main bus through remote tion unit.
+R 115v ac main bus through remote tion unit.
+Hot battery bus.
+
+33. The waste tank continuous level from:
+The AAPS is attached to the air-liquid the top of the tank
+@@Both A and B
+The HAPS is attached on the discharge ball drain valve lower than the waste
+
+34. The waste tank continuous level
+Capacitance type
+Resistance type
+@@Pressure sensor
+
+35. The waste tank is equipped with:
+02 Point Level sensor
+@@01 Point Level sensor and 01 Continuous sor
+01 Point Level sensor
+
+36. The Waste tank quantity data is displayed
+@@The Cabin Attendant Panel (CAP) and vice panel.
+The Cabin Attendant Panel (CAP) and page.
+The Cabin Attendant Panel (CAP) 7 / 11
+
+37. The water quantity data is displayed
+The potable water service panel and page.
+The Cabin Attendant Panel (CAP) page.
+@@The Cabin Attendant Panel (CAP) and water service panel.
+
+38. There are 2 water pumps supply water in the potable water recirculation
+@@The pumps alternate operation each tem is serviced.
+Only one pump operates during system ations.
+Both pumps operate during system tions.
+
+39. Two potable water tanks are:
+@@Carbon fiber water tanks.
+Unpressurized carbon fiber water
+Pressurized carbon fiber water tanks.
+
+40. Ultraviolet Water Treatment Module select FILL on the water service panel:
+The Fill-Drain Valve not open
+The Fill-Drain Valve open immediately
+@@The Fill-Drain Valve open 80 seconds FILL
+
+41. Vacuum blower operation is up to:
+@@6000 ft 8 / 11
+8000 ft
+9000 ft
+
+42. Vent-Overflow Valve is usually in
+Overflow position
+@@Vent position
+Close position
+
+43. Waste material is moved from the galleys to waste tanks:
+@@Both A and B are correct.
+By differential pressure of on-side low altitudes (up to 6,000 feet).
+By differential pressure between the bient air in flight (above 6,000 feet).
+
+44. Waste Tank Liquid Separator is on
+15:00 position
+@@12:00 position
+08:00 position
+
+45. Waste Tank Liquid Separator is secured with:
+Band strap
+@@V-band clamp and Band strap
+V-band clamp
+
+46. Water Tank Level Sensor get power
+115v ac main bus through an RPDU
+@@28v dc from remote power distribution
+28v ac from remote power distribution 47. 9 / 11
+
+What do you do to prevent cabin through the vacuum system if the flush open position?
+Push and release the maintenance
+Push manual handle to close the valve
+@@Install specific tool to block Vacuum
+
+48. What happen when Vacuum Check open position?
+Waste system cannot flush in the
+@@Waste system cannot flush on ground system cannot flush in the air
+Waste system cannot flush on ground
+
+49. What you do if there is water leakage lavatory?
+Turn water supply shut off valve in OPEN
+@@Turn water supply shut off valve in FAUCET or CLOSE
+Turn water supply shut off valve in lavatory
+
+50. When are both of water pumps operated time?
+Fill mode
+Flight mode
+@@Drain mode
+
+51. When does Vacuum Check Valve
+When the vacuum blower operates
+When the airplane is on the ground, feet 10 / 11
+@@During flight when the cabin pressure create a vacuum flow.
+
+52. When is the vent/overflow valve in position?
+@@During servicing
+In normal operation
+During drain mode
+
+53. Which sensor senses for waste tank
+@@Point level sensor is primary, continuous sor is backup if the point level sensor
+Waste tank point level sensor.
+Waste tank continuous level sensor.
+
+54. Which valves in CCR control are opened water?
+Fill drain valve, fill supply valve, aft
+Fill drain valve, fill supply valve, Fill
+@@Fill drain valve, fill supply valve, vent/over 11 / 11

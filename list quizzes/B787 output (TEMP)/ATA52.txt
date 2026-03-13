@@ -1,0 +1,172 @@
+1 All B787 Passenger Entry Doors (PED)
+@@Same dimension
+Different dimension
+Different structure
+
+2 Bulk cargo door is open and close
+Hydraulic motor
+Electric motor
+@@Counter balance mechanism
+
+3 Cargo door hydraulic power pack:
+Can be manually operated from a door lock handle.
+@@Is electrically operated by a 3- position control switch or manually by a manual sion on the bottom of the motor.
+Can be manually operated from a fuselage on the door cut-out when the
+
+4 Cargo door hydraulic system uses from:
+Center hydraulic system.
+L&R Hydraulic systems.
+@@A self-contained hydraulic system.
+
+5 Cargo door is operated by:
+@@Self-contained hydraulic system
+Electrical power
+Aircraft hydraulic systems
+
+6 Cargo doors are locked:
+Electrically 1 / 8
+Manually
+Hydraulically
+
+7 Cargo doors can be opened and closed
+@@A or B
+Outside only
+From inside only
+
+8 EPAS pressure bottle:
+Uses compressed air
+Has an indication on the door
+@@Uses nitrogen
+
+9 Flight lock mechanism engages when:
+A/C speed is not less the 80kts
+@@A and B
+At least one engine is running
+
+10 Functions of the passenger entry
+@@Passenger entry door, Service door, exit.
+Passenger entry door, Service door, exit, warning outside.
+Passenger entry door, Emergency
+
+11 FWD/AFT cargo door lock handle
+Both inside and outside of the door.
+@@On door exterior surface only.
+On door interior surface only.
+
+12 How many doors you have to open to AFT EE Bay from outside?
+2 2 / 8
+3
+1
+
+13 How to activate the flight lock?
+Air speed show 80 knots
+@@Air speed show 80 knots and 1 engine running
+Air speed show 80 knots or 1 engine running
+
+14 How to open F/D door from the inside bolt lock and electric lock are closed?
+Manual unlock deadbolt and switch when a person from the outside presses
+@@Manual unlock deadbolt and Electric to UNLKD when a person from the outside Code
+The power switch is ON and switch a person from the outside presses Code.
+
+15 If the electric pump is failed, cargo opened using MANUAL PUMP DRIVE
+Less than 1450 RPM
+More than 3000 RPM
+@@1450 to 3000 RPM
+
+16 In the center of master attendant switch all doors ARM and DISARM indication
+WHITE - to show all passenger door are in the transit mode.
+@@BLUE - to show all passenger door are in the armed mode. 3 / 8
+WHITE - to show all passenger door are in the armed mode.
+
+17 Purpose of vent door mechanism entry door is to:
+Keep door unlatch and vent positive sure
+@@Release pressurization and keep door cabin is pressurized
+Release pressurization and vent positive pressure
+
+18 Slide installation type A (dual lane) (single lane) is defined by:
+@@The hinge cover
+The door structure
+The door dimension
+
+19 The cargo door control panel on the fuselage forward of the door:
+Has one section for electrical operation
+@@Has two sections: aft section for access electrical portion, forward section for alternate portion.
+Can be unlatched manually to get alternate control portion.
+
+20 The EE bay access hatch can be opened
+Cabin compt
+Fwd E/E
+@@Both cabin compt and Fwd E/E 21. 4 / 8 21 The EPAS module:
+Is capacitance type
+Can only be disarmed by CMCF
+@@Uses 03 batteries
+
+22 The Flight Deck Door is opened in pression by:
+A Delta P sensing system in the strike
+@@Decompression latch and panel
+Manually by flight crew
+
+23 The flight deck door:
+@@Has hinges on the left side and opens direction.
+Has hinges on the right side and opens direction.
+Has hinges on the left side and opens ward direction.
+
+24 The flight deck overhead (crew escape) aluminum plug-type door that:
+@@Opens into the flight deck.
+Has only 01 interior manual handle.
+Opens outward
+
+25 The Passenger Entry Doors (PED)
+@@Have the same dimensions, the hinge escape slide bustle are different for type C doors
+Have the same dimensions with same and escape slide bustles.
+Have different dimensions for type 5 / 8
+
+26 Two positions of passenger door are:
+LOCKED and UNLOCKED
+@@ARMED and DISARMED
+AUTO and MANUAL
+
+27 What happens when you pull the out of its recess and Mode select is ARM:
+@@The clutch assembly has a pull cable the mode select mechanism, the door
+The girt bar deploys the slide as the full open
+The squib is fired by a capacitor in the
+
+28 What panel door in the not-pressurize cated on synoptic page?
+Auxiliary power system (APS) access
+@@Refueling Station Door
+Waste tank service door
+
+29 When can the EPAS module fire the handle is opened and:
+@@Mode select sensor is not disarmed, gaged sensor is engaged, Safety switch MAL position
+Girt bar engaged sensor is engaged, gaged sensor is engaged, pressure is psig.
+Mode select sensor is not disarmed
+
+30 When you turn the external handle
+@@A and B 6 / 8
+The slide disarmed
+The internal handle moves
+
+31 Which doors are presented on the
+Potable Water Service Door, ECS Access cargo door
+@@Aft Electrical Equipment Access Door, cess Door, PED.
+Flight Deck Overhead (Crew Escape) Ground Power Supply Door, Forward
+
+32 Which of the following cannot be cargo door is opened?
+@@EICAS status page
+Door synoptic page
+EICAS upper display
+
+33 Which of the following cargo doors cally operated?
+Bulk cargo door.
+All cargo doors.
+@@FWD and AFT cargo doors.
+
+34 Which of the following statements
+EPAS contains a battery which is used discharge power.
+EPAS contains a capacitor - stores power for 24 hours after loss of airplane
+@@EPAS contains a capacitor - stores power for up to 1 hour after loss of airplane
+
+35 You cannot deploy door slide raft door from outside. This is because: 7 / 8
+@@The mode selector goes to MANUAL handle is pulled
+EPAS does not work
+Software in CCR deactivate slide raft from outside the airplane 8 / 8

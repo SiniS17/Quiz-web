@@ -1,0 +1,200 @@
+1. A composite layer is called:
+A sheet
+@@A ply
+A laminate
+
+2. Approximately, how many percent terial is used on B787?
+0.6
+0.1
+0.8
+
+3. Approximately, how many percentages ite material does 787 have?
+40%.
+20%.
+60%.
+
+4. Disadvantages of sandwich structure:
+Bad stiffness versus weight ratio.
+@@Bolted repairs are not recommended.
+Heavy if compared to monolithic structure.
+
+5. For a composite part of solid laminate the toolside is the:
+@@Smooth side.
+Side adjacent to the bag when the cure.
+Rough side.
+
+6. Horizontal stabilizer has:
+@@05 stringers and no spars
+05 spars and 05 stringers
+05 spars and no stringers 1 / 8
+
+7. How can you locate fuselage stringers side of the aircraft?
+The stringers runs along the fuselage of the shear ties.
+@@The stringers runs along the fuselage shear tie end fasteners.
+The stringers are riveted to the fuselage
+
+8. How is the tap test?
+Use ultrasonic technique for test.
+Take the sample for test.
+@@Use tap test tool to test.
+
+9. How many main types of composite there on aircraft structure?
+3
+2
+4
+
+10. How many spars does horizontal
+5
+4
+2
+
+11. In fabric plies, fiber bundles go:
+In one direction
+@@Two directions
+Three directions
+
+12. In tape plies, fiber bundles go:
+Three directions 2 / 8
+Two directions
+@@In one direction
+
+13. Inspection for high energy impacts 787, it includes:
+An airport jet way that hits the fuselage normal operational speeds or angles
+@@Ground Support Equipment that hits at more than 2mph
+A and B
+
+14. Interwoven Wire Fabric (IWWF) is:
+Is the middle layer of the fuselage that bronze wires that are woven into the
+Is the inner layer of the fuselage that bronze wires that are woven into the
+@@Is the outer layer of the fuselage that bronze wires that are woven into the
+
+15. Ram Damage Checker (RDC)
+Use RDC on metal structure.
+@@Use RDC only on solid laminate structure 5/8-inch thickness.
+Use the RDC on sandwich structure.
+
+16. Ramp Damage Checker works on
+Eddy current
+Ultrasonic
+Magnetic
+
+17. Resin in composite structure is:
+@@The glue that holds fibers together. 3 / 8
+The layers of tape structure.
+Cured in one hour for all kinds of epoxy
+
+18. The flat area at the border of the ponent that does not have core is called:
+Bag side
+Face sheet
+Edgeband
+
+19. The impact can cause internal structure
+A tool is dropped on the composite visible damage
+@@GSE hits the structure at more than
+Liquid spill on the structure surface
+
+20. The manufacture's reference document tural repair is:
+@@The Structural Repair Manual
+The Maintenance Manual
+The Maintenance Schedule
+
+21. The outer layer of the fuselage that bronze wires woven into the carbon
+@@IWWF (Interwoven Wire Fabric)
+ORWL (Outer Reinforcement Wire
+LPOL (Lightning Protection Outer
+
+22. The side of a composite part that the vacuum bag during the manufacture posite part is called:
+@@Bag side
+Tool side
+Face sheet 4 / 8
+
+23. The stiffest composite is:
+They are the same
+FFRP
+CFRP
+
+24. There are two types of composite
+@@Sandwich and Solid Laminate.
+Sandwich and Honeycomb.
+Solid Laminate and Tape.
+
+25. There are two types of plies (layers) nate construction:
+@@1. Fabric - fiber bundles go in one
+
+Tape - fiber bundles go in two directions.
+1. Fabric - fiber bundles go in two
+
+Tape - fiber bundles go in one direction.
+1. Laminate - fiber bundles go in two
+
+Interwoven - fiber bundles go in one
+
+26. What are the types of composite
+Laminate and honeycomb
+Sandwich and honeycomb
+@@Sandwich and solid laminate
+
+27. What is correct about composite als?
+When stored at freezer temperature, comes hard
+The lower the temperature, the quicker becomes hard
+@@It must be stored in a freezer 5 / 8
+
+28. What is the QCR meaning?
+Quality Composite Repair.
+Quartz Composite Resin.
+@@Quick Composite Repair.
+
+29. When there is a structure damage step is to check
+With Boeing rep
+SRM chapter 51
+@@AMM chapter 05
+
+30. Which component is made of titanium?
+Pylons.
+Stringers.
+Spars.
+
+31. Which component of the wing is minum?
+Ribs.
+Spars.
+Stringers.
+
+32. Which defect is shorter and wider?
+Scratch
+Nick
+Gouge
+
+33. Which of the defines below belong damage?
+@@Is when a separation of materials adhesive failure
+Is when the separation of plies occurs −laminate material. 6 / 8
+Is a line of damage of any depth and material which causes a cross−sectional
+
+34. Which of the defines below belong tion damage?
+Is a line of damage of any depth and material which causes a cross−sectional
+@@Is when the separation of plies occurs −laminate material.
+Is when a separation of materials adhesive failure
+
+35. Which of the following is NOT the composite material?
+@@Under normal operating conditions, faster in composites than they do in
+Composites do not corrode.
+Composites are generally lighter than ture.
+
+36. Which of the following is NOT the Carbon Fiber Reinforced Plastic (CFRP)?
+@@Easy to corrode.
+Less weight than almost all other materials.
+Strong and stiff
+
+37. Which of the following is NOT the Fiberglass Fiber Reinforced Plastic (FFRP)?
+Do not conduct electricity and can dissimilar materials.
+Are transparent to radar waves - can 7 / 8 radomes.
+@@More expensive than CFRP.
+
+38. You can find the fuselage stringer
+AMM chapter 20
+SRM
+AMM chapter 06
+
+39. You can use Ramp Damage Checker
+A and B
+Sandwich structure only
+@@Solid laminate structure only 8 / 8

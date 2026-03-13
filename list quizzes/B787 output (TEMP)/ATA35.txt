@@ -1,0 +1,219 @@
+1. After fixed Crew oxygen leakage:
+You must reset Crew oxygen flow
+@@Crew oxygen flow fuse automatically oxygen
+You must replace Crew oxygen flow
+
+2. Crew oxygen bottles 1 show 2000 bottles 2 show 1000 PSI. How much pressure EICAS?
+1000 PSI
+2000 PSI
+@@1500 PSI
+
+3. Crew oxygen cylinder is located:
+@@At right side of forward electronic ter.
+In aft electronic equipment center.
+In flight deck.
+
+4. Crew oxygen cylinders are made of:
+Stainless steel
+@@Graphite composite
+Fiber glass
+
+5. Crew oxygen distribution manifold gen flow thru a broken supply line:
+@@03 fuses
+03 check valves
+03 vent valves
+
+6. Dilution control is used to:
+Control the oxygen pressure 1 / 9
+@@Set 100% oxygen when breathing
+Vent air out of the mask
+
+7. How is the pressure indication on
+Indicator of lower pressure oxygen
+Indicator of the higher-pressure oxygen
+@@Average pressure of the transducers ders
+
+8. How many crew oxygen masks are B787?
+4
+5
+6
+
+9. How many flow fuses are installed sure assembly?
+4
+2
+3
+
+10. How many Oxygen lines are connected ution manifold to the masks and stowage
+4
+2
+3
+
+11. How many oxygen masks are there PSU?
+3
+2
+1 2 / 9
+
+12. How many oxygen systems are provided aircraft?
+4
+2
+3
+
+13. How many passenger oxygen zone ger oxygen system?
+8: Door, Lavatory, Galley, OFAR, OFCR, AFT
+@@9: 1L, 1C, 1R, 2L,2C, 2R, 3L,3C, 3R
+3: FWD, MID, AFT
+
+14. How many ways to activate the passenger system?
+Manual activation from switch on
+Automatic, when cabin altitude goes set value
+@@Both A and B.
+
+15. How to know passenger oxygen used?
+The rupture indicator tape on the is not damaged or is not perforated
+@@No continuity at the pyrotechnic initiator connector
+Continuity at the pyrotechnic initiator nector
+
+16. How to open Crew oxygen Regulator Valve?
+@@Turn Crew oxygen Regulator and Shutoff degrees to the open position from close 3 / 9
+Turn Crew oxygen Regulator and Shutoff turns counter clockwise
+Turn Crew oxygen Regulator and Shutoff turns counter clockwise
+
+17. How to prevent full deployment of ing Passenger Oxygen System test?
+Use specific tools to hold Oxygen Passenger Unit (PSU) door
+Set GRN TEST switch on P5 to NORM
+@@Set the test button on Passenger Service oxygen doors to the TEST position
+
+18. Passenger oxygen system automatic when cabin altitude is above:
+@@15000 ft
+11000 ft
+12000 ft
+
+19. Passenger oxygen system is activated:
+Manual activation from switch on
+Automatic, when cabin altitude goes set value.
+@@Both A and B are correct.
+
+20. Passenger oxygen system is equipped
+@@01 oxygen bottle for each Passenger
+04 oxygen bottle for the whole aircraft
+Oxygen generators
+
+21. PAX oxygen flows to the mask is
+An indication in the Cabin Attendant 1 LH PAX door 4 / 9
+A light on the PSU panel when it is
+@@A green LED indication on PSU oxygen when the panel is open
+
+22. Purpose of the pyrotechnic initiator Oxygen Cylinder:
+Change oxygen high pressure to low
+@@Make a hole in the rupture disc to into the high pressure distribution manifold
+Protect passenger oxygen cylinder sure
+
+23. The crew oxygen discharge indicator of fuselage:
+@@Right side
+Aft
+Left side
+
+24. The Crew Oxygen Minimum Dispatch is resided in:
+AMM ATA 35.
+AMM ATA 12.
+@@Flight Crew Operations Manual (FCOM).
+
+25. The Crew oxygen pressure indication
+Lowest pressure of the transducers ders.
+Highest pressure of the transducers ders.
+@@Average pressure of the transducers ders. 26. 5 / 9
+
+The manifold pressure assembly They shut off oxygen supply if an oxygen flight deck is broken. The supply of oxygen maining masks continues if a flow fuse
+@@Shut off oxygen supply if an oxygen deck is broken
+Shut off oxygen systems, prevent explosion
+Adjust the amount of supplied Oxygen
+
+27. The normal pressure of crew oxygen
+@@1850 psig
+3000 psig
+2500 psig
+
+28. The passenger oxygen cylinder in Service Units (PSU) are made of:
+Aluminum.
+Graphite composite.
+Stainless steel.
+
+29. The passenger oxygen system uses gen:
+From crew oxygen cylinder.
+@@From single-use pressurized oxygen
+From chemical oxygen generator.
+
+30. The PAX oxygen system operates plane:
+@@Either A or B
+Is on the ground
+Airspeed is less than 80 knots 6 / 9
+
+31. What component controls Crew oxygen and Passenger oxygen subsystem?
+They have not controlled because tomatically
+@@Software in the Common Core System
+Cabin Service System Controller (CSSC)
+
+32. What energy does the portable oxygen electronic system use to give power livery circuitry?
+Breath sensor
+Battery
+Electric
+
+33. What happen when open the shutoff portable oxygen cylinder?
+@@No oxygen flow
+Oxygen flow after 10 seconds
+Oxygen flow immediately
+
+34. What happens if an Oxygen line gen mask is broken?
+@@The flow fuse is fully closed
+The flow fuse is not fully closed
+The flow fuse are closed all supply
+
+35. What happens when the system masks fall?
+Oxygen immediately flow
+@@Oxygen begin to flow after 10 seconds
+Oxygen doesn't immediately begin 36. 7 / 9
+
+What is the purpose of a small hole pressure manifold?
+@@Visual indication of cylinder leakage.
+Visual indication of over pressure
+Visual indication of normal condition.
+
+37. What oxygen is supply for crew in case of decompression?
+Oxygen from portable oxygen bottle
+@@Oxygen from Overhead Flight Crew PSU (Passenger Service Unit)
+Oxygen from crew oxygen cylinder
+
+38. When the BIT is complete, LEDs under door is ON, it shows:
+A board failure.
+A cable test failure.
+@@The BIT successfully passed the test.
+
+39. When the green overboard discharge is gone, it shows:
+A normal oxygen cylinder condition.
+Leaks in the tubing.
+@@Over pressure conditions.
+
+40. When the oxygen controller in the vice Unit (PSU) got power?
+On ground, Ground test switch in passenger oxygen switch on the overhead
+Always
+@@When AC in the air and the airplane gets near 15,000 feet 8 / 9
+
+41. When the PAX oxygen system operates masks fall, oxygen:
+Begins to flow immediately
+Begins to flow in pulses
+@@Flows when the breath sensor senses breathes through the mask
+
+42. When you push down and hold the level on crew oxygen mask, what flow be shown?
+Continuous flow
+@@Momentary flow
+No flow
+
+43. Which of the following statement oxygen Shut Off Valve (SOV) is TRUE?
+@@When fully closed, the SOV vents the sure from the line
+When fully closed, the SOV supply masks
+When fully opened, the SOV vents pressure from the line
+
+44. Which state of oxygen masks can gen for the passengers?
+Normal
+100% Oxygen
+@@100% Oxygen and Emergency 9 / 9

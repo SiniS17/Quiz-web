@@ -1,0 +1,251 @@
+The Main Oil Temperature (MOT) probe is a dual channel probe and is used to
+@@Measure the temperature of the scavenge oil returning to the tank.
+Measure the temperature of the lubrication oil pressure from the tank.
+Measure the pressure of the scavenge oil returning to the tank.
+
+The Oil Debris Monitoring (ODM) sensor 
+sends debris count information of particles to the HMU.
+sends debris count information of particles to the EIU
+@@sends debris count information of particles to the PHMU.
+
+
+PW1100G IDG permit to increase the periodic inspection interval of the IDGs by:
+@@The IDG has two new additional sensors (oil level sensor and oil filter DPI) providing warnings IDG OIL LVL, IDG FILTER CLOG.
+The IDG has new additional sensors providing warning about IDG Temperature and pressure.
+The IDG has new additional sensors) providing warning about IDG Hot or Cold for Engine start
+
+The N1 & N2 speed sensors send signals directly to:
+@@The EEC
+The PHMU
+The PHMU & EEC
+
+The engine EGT is sensed and averaged by
+five thermocouple probes (T5 probes)
+@@four thermocouple probes (T5 probes)
+six thermocouple probes (T5 probes)
+
+Four EGT probes arrangement on the engine as:
+@@Two on left side and two on right side
+Two on the top and two at the bottom
+All for on the LH side.
+
+To prevent incorrect attachment of the EGT Harness Leads:
+@@Each probe has two studs of different dimensions and a stud/lug design with a captive nut and anti-rotation feature.
+Each probe has two studs of different lengths and a stud/lug design with a captive nut and anti-rotation feature.
+Each probe has two studs of same dimensions and a stud/lug design with a captive nut and anti-rotation feature.
+
+The EGT probe is a single channel thermocouple probe and monitors the gas path temperature at  the.
+Exit of High-Pressure Turbine (HPT)
+@@Exit of Low-Pressure Turbine (LPT)
+Combustion chamber
+
+The EGT indication is displayed on the upper ECAM display as:
+Analog form only
+Digital form only
+@@Analog form (0 to 1200℃) and Digital form with four digits (-99 to XXXX ℃)
+
+The cold junction reference of EGT harness is located at the:
+@@Main Oil Temperature sensor (MOT)
+Ignitor Harness.
+Fan air area
+
+If the signal from one vibration sensor (either forward or aft vibration sensor) is lost during engine operation, the display for the affected sensor will be presented in ECAM as:
+Red crosses.
+Normal mode
+@@Amber crosses.
+
+Tertiary Lock Valve (TLV) solenoids in T/R controlled by the:
+EEC independently.
+LGCIU independently.
+@@Independently controlled by a command from the aircraft.
+
+Oil Debris Monitoring Sensor:
+@@The sensor can identify the difference between ferrous and non-ferrous particles.
+Detects any type of pollution between the main oil scavenge line and oil supply line.
+Sends signal corresponding to ferrous and non-ferrous debris to EEC.
+
+In case of over speed condition, the EEC will control:
+@@Thrust Control Malfunction (TCM)/Over Speed TM in IFPC
+FMV TM in IFPC
+FDR to stop the fuel in the combustion chamber.
+
+The latches equipped with proximity sensor are:
+@@Only fan cowl latches.
+Only thrust reverser cowl latches.
+Both fan cowls and thrust reverser cowls latches.
+
+To open the PW1100G engine’s thrust reverser cowls:
+@@Slats must be fully retracted.
+Slats must be fully extended.
+Slats can be at any position.
+
+Thrust ratings of the engine is set by
+Software loaded to EEC using portable data loader.
+Entering on MCDU.
+@@DSU (Data Storage Unit).
+
+The Inlet Cowl is equipped with a two-piece carbon epoxy assembly extending from the aluminum inlet lip skin interface to the leading edge of the fan cowl at.
+Inner barrel assembly.
+@@Outer barrel assembly.
+Both inner and outer barrel assemblies.
+
+If the EIU fails then engine start control is:
+@@Not possible.
+Only automatic mode is possible.
+Cross start is possible.
+
+The Electronic Engine Control (EEC) is supplied by Permanent Magnet Alternator (PMA) when.
+The aircraft is in Flight.
+@@N2 is more than 12%
+Both the engines start sequence is complete
+
+The predicted N1 on the N1 indicator is computed from:
+EEC channel A
+N1 speed sensor based on pressure and temperature.
+@@Throttle Lever Angle (TLA) value
+
+The range of movement of Throttle Lever Angle (TLA) from.
+-20-degree TLA to +35-degree TLA.
+@@-20-degree TLA to +45-degree TLA.
+-20-degree TLA to +55-degree TLA
+
+The Nf speed sensor made of.
+@@One-channel sensor that has a magnet arrangement, coil and electrical connector.
+Three-channel sensor that has a magnet arrangement, coil and electrical connector.
+It is a simple mechanical counter.
+
+The Nf speed sensor is mounted at:
+@@1 and 1.5 bearing support at 1 o’clock position
+1 and 1.5 bearing support at 3 o’clock position
+1 and 1.5 bearing support at 5 o’clock position
+
+The N1, N2 or Nf sensors removed on-wing or during a shop visit then.
+@@The O-ring should be replaced
+The same O-ring can be reused again
+The Removed O-ring can be used in future Removal/Installation
+
+The purpose of Nf speed sensor is to.
+@@Sends an Nf speed signal through the EEC to the PHMU where it is used with the N1 vibration pickup to measure fan vibration
+Back up for N1 sensor
+Used to display Fan speed in ECAM
+
+The N2 speed signal sends through EEC to ECAM to display.
+@@EWD display of N2 speed in three-digit digital value
+SD display of N2 speed in analog value
+SD display of N2 speed in three-digit value
+
+The FWD and AFT vibration sensors sent the information to.
+Electronic Engine Control (EEC)
+Engine Interface Unit (EIU)
+@@Prognostic and Health Monitoring Unit (PHMU)
+
+The Fuel Filter Differential Pressure (FFDP) sensor used to detect if.
+@@The filter is partially or totally clogged
+There is a reverse flow.
+There is a flow of fuel.
+
+The LVDT (Linear Variable Differential Transducer) integrated with Thrust Reverser actuators:
+All actuators
+Only in Lower actuators
+@@Only in Upper actuators
+
+In normal conditions an amber "REV" indication in a grey box comes into view above the N1 digital indication if:
+The signals of the thrust reverser doors are not valid.
+when all the reverse cowls are deployed.
+@@At least one reverse cowl is unstowed, and no thrust reverser failure is detected.
+
+The PW 1100G, the Propulsion Control System (PCS) consists of.
+FADEC system consists of EEC and PHMU.
+@@FADEC interfaces with various aircraft systems.
+FADEC and EIU
+
+The PHMU interfaces with EEC and PHMU monitor the.
+Engine Vibrations and Oil level.
+@@Engine Vibrations and Oil debris.
+Engine Vibration and Oil pressure
+
+The Oil Debris Monitoring (ODM) sensor.
+Located on the Oil Control Module (OCM) at approximately the 9 o'clock position.
+Attached to the front of the OCM to the left of the main gearbox at approximately the 9 o'clock position.
+@@Attached to the oil tank at approximately the 9:30 o'clock position.
+
+The throttle control lever moves over a range of 65 deg from.
+@@-20 deg. Throttle Lever Angle (TLA) (Full Reverser Throttle stop) to 45 deg. TLA (Full Forward Throttle stop).
+-10 deg. Throttle Lever Angle (TLA) (Full Reverser Throttle stop) to 55 deg. TLA (Full Forward Throttle stop).
+0 deg. Throttle Lever Angle (TLA) (Full Reverser Throttle stop) to 65 deg. TLA (Full Forward Throttle stop).
+
+The Proximity sensors are installed on each latch of fan cowl doors which sends its position signal to:
+The Engine Interface Unit (EIU) & the EEC
+The EEC
+@@The EIU, ECAM indication
+
+The Fan cowl latches of the A320 NEO are:
+non-monitoring.
+The proximity switches send their position signals to EEC.
+@@EIU transfer signals to the FWC for associated cockpit ECAM warnings.
+
+The auto thrust function can be active if engaged.
+@@In the middle throttle range (0 deg. to 35 deg. TLA)
+In the forward range (35 deg. to 45 deg. TLA)
+From -20 deg. TLA to 0 deg.
+
+For maintenance or MEL dispatch the reverser system:
+@@Can be deactivated following AMM procedures.
+Can not be inhibited on the ground.
+Can fly with Thrust reverser defects.
+
+The Engine Harnesses repair in Line maintenance is:
+Only minor Repair allowed on-wing.
+Off-wing repairs only be made by the vendor or an approved facility.
+@@Can repair of Frayed Harness on wing.
+
+The Number of magnetic chip collector are located at:
+In the No. 4 bearing oil scavenge line.
+Exist in supply oil.
+@@Six Magnetic Chips collectors, installed upstream of the scavenge pumps, catch ferrous metal partials
+
+The thrust contributes by Fan rotor is approximately
+70% of the thrust.
+80% of the thrust.
+@@90% of the thrust.
+
+The fire seal fingers (turkey feathers) at the top of the exhaust nozzle prevents:
+Any flame from entering the nacelle compartment area in the event of fire.
+@@Any flame from entering the core compartment area in the event of fire.
+Any flame from entering the fan cowl compartment area in the event of fire.
+
+Oil Debris Monitoring Sensor:
+@@Detects any type of pollution that crossed its electromagnetic field
+Detects any type of pollution between the main oil scavenge line and oil supply line
+Sends signal corresponding to ferrous and non-ferrous debris to EEC
+
+How to make sure a telescopic HOR (Hold Open Rod) is correctly engaged and locked:
+@@The Green band is visible.
+The Yellow band is visible.
+The Red band is visible.
+
+For lightning strike protection of engine inlet cowling embedded with copper screen layer at:
+Inner barrel assembly.
+@@Outer barrel assembly
+Both inner and outer barrel assemblies.
+
+The switching of 28VDC from A/C power supply to PMA (Permanent Magnet Alternator) is done:
+Manually by FADEC GND power push button on 50 VU
+Automatically by EIU
+@@Automatically by the EEC.
+
+During normal engine start, the Electronic Engine Control (EEC) is powered by:
+Aircraft 115VAC electrical power network.
+@@Aircraft 28V DC electrical power network
+Permanent Magnet Alternator (PMA) electrical power
+
+The FADEC provide the idle power setting as:
+Ground and Flight idle power.
+@@Minimum and approach idle power
+Minimum and Flight idle power
+
+The Electronic Engine Control (EEC) sends the Fuel Flow (FF) rate signals to the cockpit for display on the:
+Lower ECAM display unit.
+@@Upper ECAM display unit
+Both MCDUs.
+

@@ -1,0 +1,250 @@
+The NEO SA family offers a choice of engines are:
+PW1100G or LEAP-1A for A318, A319, A320, A321 family.
+PW1100G or LEAP-1A for A318, A319, A320 family.
+@@PW1100G or LEAP-1A for A319, A320, A321 family
+
+The PW 1100G engines power the:
+A318/319/320/321 aircrafts
+A319/320/321 aircrafts
+@@A319/320/321 New Engine Option (NEO) aircraft
+
+The PW 1100G engine is an axial flow and:
+@@Dual rotor, geared fan, variable stator, ultra-high bypass ratio power plant.
+Multi rotor, geared fan, variable stator, ultra-high bypass ratio power plant.
+Single rotor, geared fan, variable stator, ultra-high bypass ratio power plan
+
+The PW 1100G engine rotor comprise of:
+@@A single stage fan rotor, 3 stage LP Compressor,8 stage HP Compressor,2 stage HP turbine and 3 stage LP turbine.
+A single stage fan rotor, 3 stage LP Compressor,9 stage HP Compressor,2 stage HP turbine and 3 stage LP turbine.
+A single stage fan rotor, 4 stage LP Compressor,8 stage HP Compressor,2 stage HP turbine and 3 stage LP turbine.
+
+The pylon engine mounts at:
+The Center mount located on the Compressor Intermediate Case (CIC).
+The AFT mount is located on the Turbine Exhaust case (TEC).
+@@The Forward mount is located at the CIC and Rear mount at TEC.
+
+The geared turbo fan PW1100G engine main advantages are:
+@@Reduces fuel consumption, air pollution and noise reduction.
+It is one more standard engine
+Less weight comparing CEOs
+
+The Fan supplies most of the Engine thrust, the Fan air is known as:
+@@Secondary airflow or bypass airflow.
+Primary airflow or bypass airflow.
+Normal airflow
+
+The various thrust rating on PW engines achieved by:
+Data Storage Unit (DSU)
+By Electronic Engine Control (EEC)
+@@DSU connected to EEC, it provides engine parameters for thrust rating.
+
+The Low Pressure (LP) rotor comprises of:
+@@Fan driven FDGS, 3 stage LP compressor (LPC) and the LP shaft
+FDGS driven by the 3 stage LP turbine (LPT)
+The speed of the LP rotor is indicated on ECAM as N1
+
+The High Pressure (HP) rotor comprises of:
+The 8 stage HP compressor (HPC) and the HP shaft
+The HP rotor consists of the 8-stage HP compressor (HPC) and the HP shaft, driven by a single stage HP Turbine (HPT)
+@@The HP rotor consists of the 8-stage HP compressor (HPC) and the HP shaft, with its speed indicated on ECAM as N1
+
+The annular combustion chamber is installed between the:
+LP compressor and LP turbine.
+HP compressor and LP turbine.
+@@HP compressor and HP turbine.
+
+The annular combustion chamber consists of:
+@@18 fuel nozzles, 2 ignitor plugs, and is located between the HP Compressor (HPC) and the HP Turbine (HPT)
+12 fuel nozzles, 1 ignitor plug and is located after the HP Turbine (HPT)
+18 fuel nozzles, 2 ignitor plugs, and is located between the Fan Case and the HP Compressor (HPC)
+
+The PW1100G, the Propulsion Control System (PCS) consists of:
+FADEC system consists of EEC and PHMU.
+@@FADEC(EEC), PHMU and EIU.
+FADEC and EIU.
+
+In PW1100G engine the new Propulsion Control System (PCS) consists of:
+Engine Interface Unit (EIU)
+The FADEC system consists of Engine Electronic Control (EEC) and Prognostic Health Monitoring Unit (PHMU)
+@@Engine Interface Unit (EIU), FADEC and PHMU.
+
+The PHMU interfaces with EEC and PHMU monitor the:
+Engine Vibrations and Oil level.
+@@Engine Vibrations and Oil debris.
+Engine Vibration and Oil pressure
+
+The Main Oil Temperature (MOT) sensor is a dual channel sensor and is used to
+@@Measure the temperature of the scavenge oil returning to the tank
+Measure the temperature of the lubrication oil pressure from the tank
+Measure the pressure of the scavenge oil returning to the tank
+
+The Oil Debris Monitoring (ODM) sensor
+Sends signals proportional to size and type of the pollution particles to the HMU
+Sends signals proportional to size and type of the pollution particles to the EIU
+@@Sends signals proportional to size and type of the pollution particles to the PHMU
+
+PW1100G IDG permit to increase the periodic inspection interval of the IDGs by:
+@@The IDG has two new additional sensors (oil level sensor and oil filter DPI) providing warnings IDG OIL LVL, IDG FILTER CLOG
+The IDG has new additional sensors providing warning about IDG Temperature and pressure
+The IDG has new additional sensors providing warning about IDG Hot or Cold for Engine start
+
+The engine EGT is sensed and averaged by
+Five thermocouple probes (T5 probes)
+@@Four thermocouple probes (T5 probes)
+Six thermocouple probes (T5 probes)
+
+The Number of magnetic chip collector are located at:
+In the No.4 bearing oil scavenge line.
+Exist in supply oil.
+@@Six Magnetic Chips collectors, installed upstream of the scavenge pumps, catch ferrous metal partials
+
+The No.4 bearing magnetic chip collector is located:
+In the lubrication and scavenge oil pump, at the 6 o'clock position.
+@@In the No. 4 bearing oil scavenge line.
+At exist in supply oil
+
+The Proximity sensors are installed on each latch of fan cowl doors which sends its position signal to.
+The Engine Interface Unit (EIU) & the EEC
+The EEC
+@@The EIU, ECAM indication
+
+The Fan cowl latches of the A320 NEO are:
+A non-monitoring.
+The proximity switches send their position signals to EEC.
+@@EIU transfer signals to the FWC for associated cockpit ECAM warnings.
+
+In the oil system the oil pumps located within:
+Oil tank
+@@Lubrication and Scavenge Oil Pump Unit (LSOP)
+Oil Control Module (OCM)
+
+The Engine MAN START in OVHD panel DUAL COOLING P/B is used for:
+Arm the dual cooling function.
+during Manual start the FADEC commands an automatic dry cranking on both the Engines.
+@@Arm the dual cooling function during automatic start, the memo DUAL COOLING is displayed on E/WD.
+
+The thrust contributes by Fan rotor is approximately
+70% of the thrust.
+80% of the thrust.
+@@90% of the thrust.
+
+The FDGS permits the LPC to rotate at a higher speed and:
+@@Helps in reducing the fan rotating speed to enhance performance and efficiency.
+Helps in increasing the fan rotating speed.
+Helps to remain constant the fan rotating speed.
+
+The FDGS is a reduction gear mechanism which comprises of a central sun gear and.
+@@Five planetary gears arranged like a star.
+Four planetary gears arranged like a star.
+Six planetary gears arranged like a star.
+
+The aircraft systems are supplied the HP compressor air from:
+@@Stage 3 and stage 8.
+Stage 3 and stage 7.
+Stage 3 and stage 6
+
+The annular combustion chamber houses total of:
+@@18 fuel nozzles (6 simplex and 12 duplex)
+18 fuel nozzles (9 simplex and 9 duplex)
+18 fuel nozzles (12 simplex and 6 duplex)
+
+The new technology high efficiency design of Combustion chamber helps in:
+Fuel efficiency.
+Fuel efficiency and reduces engine noise.
+@@Fuel efficiency and reduces CO2 and NOx emissions
+
+The usual starter duty cycle is 3 starter crank cycles and followed by:
+60 seconds cooling period between each start attempt
+@@35 seconds cooling period between each start attempt
+45 seconds cooling period between each start attempt
+
+To open the PW1100G engine’s thrust reverser cowls:
+@@Slats must be fully retracted
+Slats must be fully extended
+Slats can be at any position
+
+The latches equipped with proximity sensor are:
+@@Only fan cowl latches
+Only thrust reverser cowl latches
+Both fan cowls and thrust revers-er cowls latches
+
+Engine oil levels should be checked and serviced:
+@@Within 15 to 60 minutes after engine shutdown
+Within 30 to 90 minutes after engine shut down
+Within 15 to 120 minutes after engine shutdown
+
+How to make sure a telescopic HOR (Hold Open Rod) is correctly engaged and locked.
+@@The Green band is visible
+The Yellow band is visible.
+The Red band is visible
+
+Thrust ratings of the engine is set by.
+Software loaded to EEC using portable data loader
+Entering on MCDU
+@@DSU (Data Storage Unit)
+
+Which mechanical device keeps a continuous supply of oil to FDGS journal bearings from the auxiliary oil supply in windmilling condition.
+@@Journel Oil Shuttle Valve (JOSV)
+Active Oil Damper Valve (AODV)
+Variable Oil Reduction Valve (VORV)
+
+In case of over speed condition, the EEC will control:
+@@Thrust Control Malfunction (TCM)/Over speed TM in IFPC
+FMV (Fuel Metering Valve) TM (Torque Motor) in IFPC
+FDR to stop the fuel in the combustion chamber
+
+The 2.5 Stage Bleed Valve located at:
+@@Low Pressure Compressor
+Compressor Intermediate Case
+High Pressure Compressor
+
+The Air Starter is mounted on:
+@@The right side aft of the MGB
+The left side aft of the MGB
+The fan cowl area
+
+The lire seal fingers (turkey feathers) at the top of the exhaust nozzle prevents:
+Any flame from entering the nacelle compartment area in the event of fire.
+@@Any flame from entering the core compartment area in the event of fire.
+Any flame from entering the fan cowl compartment area in the event of fire
+
+A vent grill of fan cowl doors near the 6 o' clock position permits
+@@The air to escape out in case of damage of the anti-ice duct and drain any fluids in and around the fan case
+Drain any fluids in and around the fan case
+The air to escape out in case of damage of the anti-ice duct
+
+The FDGS permits the LPC to rotate at a higher speed and:
+@@Helps in reducing the fan rotating speed to enhance performance and efficiency.
+Helps in increasing the fan rotating speed.
+Helps to remain constant the fan rotating speed
+
+In the oil system the oil pumps located within:
+Oil tank
+@@Lubrication and Scavenge Oil Pump Unit (LSOP)
+Oil Control Module (OCM)
+
+The Fan cowl latches of the A320 NEO are:
+A non-monitoring.
+The proximity switches send their position signals to EEC.
+@@EIU transfer signals to the FWC for associated cockpit ECAM warnings.
+
+For maintenance or MEL dispatch the reverser system.
+@@Can be inhibited following AMM procedures.
+Can not be inhibited on the ground.
+Can fly with Thrust reverser defects
+
+The Engine MAN START in OVHD panel DUAL COOLING P/B is used for:
+Arm the dual cooling function.
+during Manual start the FADEC commands an automatic dry cranking on both the Engines.
+@@Arm the dual cooling function during automatic start, the memo DUAL COOLING is displayed on E/WD.
+
+The operating Thrust Rating of PW 1100G Engine is:
+From20,000 to 25,000 lbs.
+From25,000 to 30,000 lbs
+@@From24,000 to 35,000 lbs.
+
+The EAI (Engine Anti Ice) system uses bleed air from the:
+9thstage.
+@@6thstage.
+3rdstage
+

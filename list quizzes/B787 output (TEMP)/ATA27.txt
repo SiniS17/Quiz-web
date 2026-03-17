@@ -1,352 +1,394 @@
-1. After landing, the speedbrake lever extends when:
+After landing, the speedbrake lever automatically extends when:
 Thrust lever move back to idle.
-@@In ARMED and T/L at Idle or in DOWN to reverse thrust position
+@@In ARMED and T/L at Idle or in DOWN and T/R move to reverse thrust position
 Ground speed more than 85 kts.
 
-2. During minor rigging:
-Some special tools may be necessary neutral (null) value
+During minor rigging:
+Some special tools may be necessary to get the neutral (null) value
 @@No external tool measurement is necessary
-You must move a surface or sensor rig point with an index plate or a rig
+You must move a surface or sensor at a measured rig point with an index plate or a rig tool
 
-3. During T/O, the spoiler 6 & 9 slightly to 20 min. for:
+During T/O, the spoiler 6 & 9 slightly raise 5 min. up to 20 min. for:
 Reduce the drag during take off
 @@Cooling down the brake RDC
 Improve the airplane performance
 
-4. Even the flight control surface switches LOCK shows:
+Even the flight control surface switches are ON, LOCK shows:
 The high lift surfaces can not move.
-@@The switches do not remove hydraulic control PCUs.
+@@The switches do not remove hydraulic from flight control PCUs.
 The primary surfaces can not move.
 
-5. Even the flight control surface switches LOCK shows:
+Even the flight control surface switches are ON, LOCK shows:
 The high lift surfaces can not move.
-@@The primary surfaces can move if FLIGHT COMPUTERS switch is in the 1 / 17
-The switches remove hydraulic from PCUs.
+@@The primary surfaces can move if the PRIMARY FLIGHT COMPUTERS switch is in the DISC position.
+The switches remove hydraulic from flight control PCUs.
 
-6. Even the flight control surface switches LOCK shows:
-The switches remove hydraulic from PCUs.
-@@The high lift surfaces can move if the ALTN mode.
+Even the flight control surface switches are ON, LOCK shows:
+The switches remove hydraulic from flight control PCUs.
+@@The high lift surfaces can move if the flaps are in the ALTN mode.
 The primary surfaces can not move.
 
-7. Flaps are moved by
+Flaps are moved by:
 Hydraulic in Alternate modes
 @@Hydraulic in Primary mode
 Electric in Primary mode
 
-8. For roll control, what is the limit of movement?
+For roll control, what is the limit of the control wheel movement?
 85 degrees right and left
 75 degrees right and left
 @@67 degrees right and left
 
-9. Horizontal Stabilizer load sensor?
-Feedback to the FCE the aerodynamic
-@@Detect excessive wear or structure
-To operate the HSTA in full rate speed speed.
+Horizontal Stabilizer load sensor?
+Feedback to the FCE the aerodynamic force to HS.
+@@Detect excessive wear or structure failure.
+To operate the HSTA in full rate speed or half rate speed.
 
-10. How many are there direct mode (DMRS)?
+How many are there direct mode rate sensors (DMRS)?
 2
 3
-4 2 / 17
+@@4
 
-11. How many types of ACE are there?
+How many types of ACE are there?
 4 Types of ACE
 @@2 Types of ACE
 3 Types of ACE
 
-12. How to check the condition of FCE
+How to check the condition of FCE batteries?
 Electrical maintenance page 2
 @@Flight control maintenance page 4
 Electrical maintenance page 1
 
-13. How to detect Outboard Slat Skew?
-It use Slat Position Sensors to detect
-It uses Inboard Skew Sensors to detect skew
-@@It uses a cable (lanyard) system that the outboard slats and goes inboard mechanism assembly (DMA).
+How to detect Outboard Slat Skew?
+It use Slat Position Sensors to detect Outboard skew
+It uses Inboard Skew Sensors to detect Outboard skew
+@@It uses a cable (lanyard) system that attaches at the outboard slats and goes inboard to a detection mechanism assembly (DMA).
 
-14. How to mechanically raise spoiler
-@@Remove the 3 retaining screws of cap. Use the motor shaft drive port to
-Turn on Center Hydraulic system then up
-Turn Manual Bypass Valve then push
+How to mechanically raise spoiler 4?
+@@Remove the 3 retaining screws of the motor/brake cap. Use the motor shaft drive port to operate EMA
+Turn on Center Hydraulic system then push spoiler up
+Turn Manual Bypass Valve then push spoiler up
 
-15. If any required sensor data are invalid, tomatically transits from Normal to Secondary
-The Mode does not automatically mode.
-@@If data are valid again, the PFCF automatically to Normal mode. 3 / 17
-If data are still invalid, the PFCF automatically sits in Direct mode.
+If any required sensor data are invalid, the PFCF automatically transits from Normal to Secondary mode:
+@@The Mode does not automatically return to Normal mode.
+If data are valid again, the PFCF automatically back to Normal mode.
+If data are still invalid, the PFCF automatically transits in Direct mode.
 
-16. If both PCUs on the Aileron have failure, PCUs are in:
+If both PCUs on the Aileron have failure, the related PCUs are in:
 Active mode
 @@Damped/Blocked mode
 Damped mode
 
-17. If one Elevator PCU has a failure, is in:
+If one Elevator PCU has a failure, the adjacent PCU is in:
 Blocked mode
 @@Active mode
 Damped mode
 
-18. If you install only a left or right flaperon/ PCU:
-@@Do the left or right flaperon/aileron rig task.
-Do the left or right flaperon/aileron rig task.
-Do the 27 flight control - flaperon/aileron LRU test.
+If you install only a left or right flaperon/aileron PCU:
+Do the left or right flaperon/aileron actuator major rig task.
+@@Do the left or right flaperon/aileron actuator minor rig task.
+Do the 27 flight control - flaperon/aileron actuator LRU test.
 
-19. In case of loss primary and secondary power, how long could FCE batteries PCMs?
+In case of loss primary and secondary electrical power, how long could FCE batteries supply power for PCMs?
 @@10 minutes
 15 minutes
 20 minutes
 
-20. In normal mode of operation of the surfaces droop when the flaps and slats 4 / 17 ed:
+In normal mode of operation of the PFCF, which surfaces droop when the flaps and slats are not retracted:
 @@Ailerons, flaperons and spoilers
 The flaperons only
 The ailerons only
 
-21. In Secondary mode, these protection not available:
+In Secondary mode, these protection functions are not available:
 @@Yaw damping.
 Bank angle.
 Overspeed.
 
-22. In the PFCF direct mode:
+In the PFCF direct mode:
 Flight deck inputs supply control commands through the back drive actuators.
 @@Flight deck inputs supply control commands through the ACEs.
-The FCMs supply control commands surfaces.
+The FCMs supply control commands to the flight surfaces.
 
-23. In which condition, the FLT CTRL tion do not operate?
-@@In Air mode, Ground speed > 40 knots, nect, Any ACE in Direct mode
-In Air mode, Ground speed > 40 knots, nect, Any ACE in secondary mode
-Ground mode, Ground speed > 40 knots, nect, Any ACE in Direct mode
+In which condition, the FLT CTRL surface lock function do not operate?
+@@In Air mode, Ground speed > 40 knots, PFC Disconnect, Any ACE in Direct mode
+In Air mode, Ground speed > 40 knots, PFC Disconnect, Any ACE in secondary mode
+Ground mode, Ground speed > 40 knots, PFC Disconnect, Any ACE in Direct mode
 
-24. In which mode do The DMRSs provide pitch, roll data) to the primary flight (PFCF)
-Primary mode, secondary mode 5 / 17
+In which mode do The DMRSs provide data (Yaw, pitch, roll data) to the primary flight control function (PFCF):
+Primary mode, secondary mode
 Primary mode, direct mode
 @@Secondary mode, Direct mode
 
-25. In which PFCF mode, the FLT CTRL switch does not lock the control surfaces?
+In which PFCF mode, the FLT CTRL surface Lock switch does not lock the control surfaces?
 @@Direct mode
 Normal mode
 Secondary mode
 
-26. Manual bypass valve on spoiler PCU
+Manual bypass valve on spoiler PCU is used for:
 Moving the spoiler if EHSV has failed
-@@Moving the spoiler by hand during without hydraulic pressure
-Moving the spoiler by hand during with hydraulic pressure
+@@Moving the spoiler by hand during maintenance without hydraulic pressure
+Moving the spoiler by hand during maintenance with hydraulic pressure
 
-27. On ground, which mode of operation system requires override inhibit function e) Operation with Primary control
-@@Operation with Alternate Control
-Operation with Secondary control
+On ground, which mode of operation of Slat/Flap system requires override inhibit function on CMCF?
+Operation with Primary control
+Operation with Alternate Control
+@@Operation with Secondary control
 
-28. The actuator control electronics (ACE)
-@@All three PFCF modes
-Normal and secondary PFCF mode
-Direct PFCF mode only
+The actuator control electronics (ACE) operates in:
+All three PFCF modes
+Normal and secondary PFCF mode only.
+@@Direct PFCF mode only
 
-29. The aileron actuator has 3 modes
+The aileron actuator has 3 modes of operation:
 Normal, bypass, bypass/damped.
 Active, bypass, blocked/bypass.
-@@Active, damped, blocked/damped. 30. 6 / 17
+@@Active, damped, blocked/damped.
 
-The control wheel lateral force limiter
-Move the control wheel when autopilot
+The control wheel lateral force limiter permits:
+Move the control wheel when autopilot engages.
 @@Full movement of non-jammed wheel.
 Limit the control wheel angle movement.
 
-31. The Empennage Door Actuation automatically controlled by i) CCR hosted softwares
+The Empennage Door Actuation System (EDAS) is automatically controlled by:
+CCR hosted softwares
 HYDIF cards
-FCE.
+@@FCE.
 
-32. The flaperon actuator has 3 modes j) Active, damped, blocked/damped.
+The flaperon actuator has 3 modes of operation:
+Active, damped, blocked/damped.
 Normal, bypass, bypass/damped.
 @@Active, bypass, blocked/bypass.
 
-33. The flight control software is in: k) FCE
+The flight control software is in:
+@@FCE
 ACE
 CCS
 
-34. The High Lift Function (HLF) controls of the: l) Trailing edge flaps, leading edge slats,
-@@Trailing edge flaps, leading edge slats, flaps, spoilers
-Trailing edge flaps, leading edge slats, spoilers, speed brakes
+The High Lift Function (HLF) controls the operation of the:
+@@Trailing edge flaps, leading edge slats, Krueger flaps.
+Trailing edge flaps, leading edge slats, Krueger flaps, spoilers
+Trailing edge flaps, leading edge slats, Krueger flaps, spoilers, speed brakes
 
-35. The high lift function (HLF) has 3 tion: m) Primary, Secondary, Direct. 7 / 17
+The high lift function (HLF) has 3 modes of operation:
+Primary, Secondary, Direct.
 Normal, Secondary, Alternate.
 @@Primary, Secondary, Alternate.
 
-36. The primary flight control function components: n) FCE L, FCE C and FCE R.
+The primary flight control function (PFCF) has these components:
+FCE L, FCE C and FCE R.
 @@FCE L, FCE C1, FCE C2 and FCE R.
 FCE L, FCE CL, FCE CR and FCE R.
 
-37. The primary flight control function components: o) 3 FCMs (one in the FCE L, one in the in the FCE R).
+The primary flight control function (PFCF) has these components:
+@@3 FCMs (one in the FCE L, one in the FCE C1 and one in the FCE R).
 4 FCMs (one in each FCEs).
-@@2 FCMs (one in the FCE L and one in
+2 FCMs (one in the FCE L and one in the FCE R).
 
-38. The Primary Flight Control Function Flight Function (AFF) and High Lift Function in: p) ACE
+The Primary Flight Control Function (PFCF), Auto Flight Function (AFF) and High Lift Function (HLF) are in:
+ACE
 PCM
-FCM
+@@FCM
 
-39. The surface lock function (2 flight switches on P5) only operate: q) In the air.
+The surface lock function (2 flight control lock switches on P5) only operate:
+In the air.
 Ground speed is more than 40 knots.
 @@For maintenance use only.
 
-40. The trailing edge flap power drive r) Has 2 gearboxes, one for each motor
-Has 2 hydraulic motors use Center 8 / 17 and Right hydraulic system
-@@Has an electric motor and a hydraulic
+The trailing edge flap power drive unit (PDU):
+Has 2 gearboxes, one for each motor
+Has 2 hydraulic motors use Center hydraulic system and Right hydraulic system
+@@Has an electric motor and a hydraulic motor
 
-41. The wheel force transducer send for: s) Override the control wheel.
+The wheel force transducer send a signal to FCEs for:
+Override the control wheel.
 @@Bank angle protection.
 Stall protection.
 
-42. There are 4 RVDTs in the control transducer: t) 3 RVDTs for FCEs and 1 RVDT for back
-@@3 RVDTs for FCEs and 1 RVDTs for
+There are 4 RVDTs in the control wheel position transducer:
+3 RVDTs for FCEs and 1 RVDT for back up.
+@@3 RVDTs for FCEs and 1 RVDTs for spoiler EMCU.
 4 RVDTs for 4 FCEs.
 
-43. There is no skew sensor on the u) Slats
+There is no skew sensor on the:
+Slats
 Flaps.
 @@Krueger flaps.
 
-44. These spoiler EMCUs get an analog from the RVDTs of the captain and F/O v) 6 and 9.
+These spoiler EMCUs get an analog signal directly from the RVDTs of the captain and F/O control wheel:
+6 and 9.
 @@4 and 11.
 5 and 10.
 
-45. These spoilers use EMCU to move w) 6 and 9.
+These spoilers use EMCU to move the EMAs:
+6 and 9.
 @@4, 5, 10 and 11.
 3 and 12.
 
-46. What are ACE functions? x) Supply the interfaces between the 9 / 17 trols and flight control functions and face actuators.
-@@Supply the interfaces between the trols and flight control functions and power to the control surface actuators..
-Supply the interfaces between the trols and engine control functions and face actuators.
+What are ACE functions?
+@@Supply the interfaces between the flight deck controls and flight control functions and the control surface actuators.
+Supply the interfaces between the flight deck controls and flight control functions and supply electrical power to the control surface actuators.
+Supply the interfaces between the flight deck controls and engine control functions and the control surface actuators.
 
-47. What are FCM functions? y) Primary Flight Control Function, High and Auto Throttle Function
-Secondary Flight Control Function, tion and Auto Flight Function
-@@Primary Flight Control Function, High and Auto Flight Function
+What are FCM functions?
+Primary Flight Control Function, High Lift Function and Auto Throttle Function
+Secondary Flight Control Function, High Lift Function and Auto Flight Function
+@@Primary Flight Control Function, High Lift Function and Auto Flight Function
 
-48. What are power sources supplying for FLT CTRL PCM L, R, C1? z) Primary, secondary and backup
+What are power sources supplying electrical power for FLT CTRL PCM L, R, C1?
+@@Primary, secondary and backup
 Normal, back up
-@@Primary, Normal, secondary and back
+Primary, Normal, secondary and back up
 
-49. What are the HLCF (High Lift Control modes of operation? aa) Primary, secondary and manual
+What are the HLCF (High Lift Control Function) modes of operation?
+Primary, secondary and manual
 @@Primary, secondary and alternate
 Normal, secondary and alternate
 
-50. What does control the hydraulic the PCU?
-ACE. 10 / 17
+What does control the hydraulic solenoid valve on the PCU?
+ACE.
 FCM.
-REU/SREU.
+@@REU/SREU.
 
-51. What does the incorrect thing with
+What does the incorrect thing with the ACEs?
 @@There is one type of ACE.
-The ACEs receive all flight deck control
-The ACEs change the analog signals send them through FCM.
+The ACEs receive all flight deck control inputs.
+The ACEs change the analog signals to digital and send them through FCM.
 
-52. What does the primary source power FCE L, R and C1?
+What does the primary source power to the PCM in FCE L, R and C1?
 @@VFSG PMG.
 28 V DC Bus.
 Captain flight instrument bus.
 
-53. What flight control computer controls tal stabilizer trim actuator (HSTA) when pitch trim switches use? e) Actuator Control Electronics (ACE)
-@@No. Because Alternate pitch trim switch directly to the Electric Motor Control
+What flight control computer controls the horizontal stabilizer trim actuator (HSTA) when the alternate pitch trim switches use?
+Actuator Control Electronics (ACE)
+@@No. Because Alternate pitch trim switch signals go directly to the Electric Motor Control Units (EMCU)
 Flight Control Module (FCM)
 
-54. What is power source used for moving tal stabilizer? f) Electrical power
+What is power source used for moving the horizontal stabilizer?
+@@Electrical power
 Hydraulic power
 Pneumatic power
 
-55. What is the purpose of using FLT switch? g) For hydraulic and flight control component and replacement. 11 / 17
-For flight control component removal ment, so personnel and equipment can area around the surfaces.
-@@To prevent surface movement so personnel equipment can safely be in the area faces.
+What is the purpose of using FLT CTRL surface Lock switch?
+For hydraulic and flight control component removal and replacement.
+For flight control component removal and replacement, so personnel and equipment can safely be in the area around the surfaces.
+@@To prevent surface movement so personnel and equipment can safely be in the area around the surfaces.
 
-56. What prevent ACE incorrect installation h) A slot on the bottom of ACE
+What prevent ACE incorrect installation:
+A slot on the bottom of ACE
 @@A key on the rear connections
 An E pin on the top of ACE
 
-57. What should be aware when you slat/flap system? i) Make sure that Aft external ground
-Make sure that FAN cowls closed supply
-@@Make sure that all Spoiler are lifted of the flaps
+What should be aware when you extend the slat/flap system?
+Make sure that Aft external ground power
+Make sure that FAN cowls closed supply door closed
+@@Make sure that all Spoiler are lifted out of the range of the flaps
 
-58. Wheel Force Transducer signals: j) Measure autopilot input to detect a actuator.
-@@Are used for the bank angle protection override
-Represent the control wheel position ment.
+Wheel Force Transducer signals:
+Measure autopilot input to detect a failed backdrive actuator.
+@@Are used for the bank angle protection function override
+Represent the control wheel position and its movement.
 
-59. When does Empennage Door Actuation (EDAS) operate in Purge mode? k) Aircraft on ground
-@@Aircraft in flight, slow airspeeds, shortly izontal stabilizer) and after (vertical stabilizer)
-Aircraft in cruise 12 / 17
+When does Empennage Door Actuation System (EDAS) operate in Purge mode?
+Aircraft on ground
+@@Aircraft in flight, slow airspeeds, shortly before (horizontal stabilizer) and after (vertical stabilizer) takeoff
+Aircraft in cruise
 
-60. When does the HLF go to the secondary l) The CMSCs inop.
+When does the HLF go to the secondary mode?
+The CMSCs inop.
 The EDPs inop.
-@@Hydraulic pressure decreases and ment slows.
+@@Hydraulic pressure decreases and surface movement slows.
 
-61. When does the PFCF change its operation ondary mode? m) Loss of important air and attitude
+When does the PFCF change its operation to secondary mode?
+@@Loss of important air and attitude data
 03 of ACEs fail
 03 of FCM fail
 
-62. When does the stickshaker actuator n) Only operate on ground.
-@@Pitch angle > 5 degrees, AOA valid 140 kts.
+When does the stickshaker actuator operate?
+Only operate on ground.
+@@Pitch angle > 5 degrees, AOA valid and airspeed > 140 kts.
 Pitch angle > 15 degrees
 
-63. When does we use lock out tool to spoiler EMA inoperative? o) If the spoiler EMA has a shearout.
-@@If the spoiler EMA doesn't have a shearout.
-If the hydraulic spoiler dispatch tool
+When does we use lock out tool to dispatch the spoiler EMA inoperative?
+@@If the spoiler EMA has a shearout.
+If the spoiler EMA doesn't have a shearout.
+If the hydraulic spoiler dispatch tool is not available.
 
-64. When FLT CTRL surface Lock switch which following WARNING is correct? p) The switches remove hydraulic power control PCUs
-@@Primary surfaces can move if the PRIMARY COMPUTERS switch is in the DISC position.
-High lift surfaces can move if the flaps Primary mode. 13 / 17
+When FLT CTRL surface Lock switch are in LOCK, which following WARNING is correct?
+The switches remove hydraulic power from flight control PCUs
+@@Primary surfaces can move if the PRIMARY FLIGHT COMPUTERS switch is in the DISC position.
+High lift surfaces can move if the flaps are in the Primary mode.
 
-65. When FLT CTRL surface Lock switch which following WARNING is correct? q) High lift surfaces can move if the flaps ALTN mode.
-@@Primary surfaces can move if the PRIMARY COMPUTERS switch is in the AUTO position.
-The switches remove hydraulic power control PCUs
+When FLT CTRL surface Lock switch are in LOCK, which following WARNING is correct?
+@@High lift surfaces can move if the flaps are in the ALTN mode.
+Primary surfaces can move if the PRIMARY FLIGHT COMPUTERS switch is in the AUTO position.
+The switches remove hydraulic power from flight control PCUs
 
-66. When FLT CTRL surface Lock switch which following WARNING is correct? r) High lift surfaces can move if the flaps flight control PCUs
-@@The switches do not remove hydraulic Primary mode.
-Primary surfaces can move if the PRIMARY COMPUTERS switch is in the AUTO position.
+When FLT CTRL surface Lock switch are in LOCK, which following WARNING is correct?
+High lift surfaces can move if the flaps are in from flight control PCUs
+@@The switches do not remove hydraulic power the Primary mode. from flight control PCUs
+Primary surfaces can move if the PRIMARY FLIGHT COMPUTERS switch is in the AUTO position.
 
-67. When force is removed from the what device(s) move the wheel back position? s) Lateral Force Limiter
+When force is removed from the control wheel, what device(s) move the wheel back to the neutral position?
+Lateral Force Limiter
 Wheel Damper
 @@The Feel & Centering Unit.
 
-68. When the FLT CTRL surface lock switch in the LOCK position, what is the action spoilers and primary surface PCU? t) Disabled by logic in the FCM.
+When the FLT CTRL surface lock switch on the P5 in the LOCK position, what is the action of hydraulic spoilers and primary surface PCU?
+Disabled by logic in the FCM.
 Removes power from the EMCUs
-@@Puts the PCU blocking/bypass valves position 14 / 17
+@@Puts the PCU blocking/bypass valves to the block position
 
-69. When you operate the flaps on ground extend), u) You must raise the spoilers at least
-@@You must have all 03 external electric
-You must operate all 03 hydraulic systems
+When you operate the flaps on ground (retract or extend):
+@@You must raise the spoilers at least 5 degrees.
+You must have all 03 external electric powers.
+You must operate all 03 hydraulic systems at a time.
 
-70. When you operate the flaps on the v) The spoilers must be in No-gap position.
+When you operate the flaps on the ground:
+The spoilers must be in No-gap position.
 @@The spoilers at least 5 degrees up.
 The spoilers are in droop position.
 
-71. When you set the parking brake, w) The spoilers move to a gap position
-The spoilers move to a partial position flap.
-@@The spoilers move to a no-gap position flap.
+When you set the parking brake:
+The spoilers move to a gap position above the flap.
+The spoilers move to a partial position above the flap.
+@@The spoilers move to a no-gap position above the flap.
 
-72. Where are the DMRSs? x) In the bulk cargo bay, aft bulkhead.
+Where are the DMRSs?
+In the bulk cargo bay, aft bulkhead.
 @@In the fwd cargo bay, aft bulkhead.
 In the FWD EE Bay.
 
-73. Where is the location of R FCE? y) FWD EE bay
+Where is the location of R FCE?
+FWD EE bay
 @@AFT EE bay
 LH Environment pack bay
 
-74. Which are PCMs be supplied electrical FCE batteries as back up power? z) PCM L, PCM R 15 / 17
-@@PCM R, PCM C1
+Which are PCMs be supplied electrical power from FCE batteries as back up power?
+@@PCM L, PCM R
+PCM R, PCM C1
 PCM L, PCM C1
 
-75. Which FCE cabinet does not has FCM?
+Which FCE cabinet does not has FCM?
 @@FCE C2
 FCE R
 FCE C1
 
-76. Which flap motion mode is inhibited wing lock function?
-@@Alternate mode only
+Which flap motion mode is inhibited during the wing lock function?
+Alternate mode only
 @@Primary and secondary mode
 Secondary and Alternate mode
 
-77. Which PCMs have an own FCE battery?
-@@PCM L and PCM R.
+Which PCMs have an own FCE battery?
+PCM L and PCM R.
 PCM L, PCM C1 and PCM R.
-@@PCM C1 and PCM C2
+@@PCM L and PCM R.
 
-78. Which statement is correct?
-@@The trailing edge variable camber uses Trailing Edge Flap Power Drive Unit tor to operate inboard flaps
-The trailing edge variable camber uses Trailing Edge Flap Power Drive Unit to operate inboard flaps
-The trailing edge variable camber uses Trailing Edge Flap Power Drive Unit to operate outboard flaps
+Which statement is correct?
+The trailing edge variable camber (TEVC) function uses Trailing Edge Flap Power Drive Unit hydraulic motor to operate inboard flaps
+@@The trailing edge variable camber (TEVC) function uses Trailing Edge Flap Power Drive Unit electric motor to operate inboard flaps
+The trailing edge variable camber (TEVC) function uses Trailing Edge Flap Power Drive Unit electric motor to operate outboard flaps
 
-What is the function of the Trailing edge ber (TEVC) :
-Operates after flap retraction during 16 / 17 asse wing loads
-Operates during cruise to decrease
-@@a & b are correct 17 / 17
+What is the function of the Trailing edge variable camber (TEVC):
+Operates after flap retraction during climb to decrease wing loads
+Operates during cruise to decrease drag
+@@a and b are correct

@@ -1,197 +1,214 @@
-1. Determines a clogged filter condition filter module:
+Determines a clogged filter condition of case drain filter module:
 @@EICAS shows a related status message.
 Show on hydraulic maintenance page.
 Pop-out indicators on the filters.
 
-2. During cruise what is normal position ing gear isolation valve?
+During cruise what is normal position of nose landing gear isolation valve?
 @@Close position
 Open position
 Neutral position
 
-3. During engine run, pull up fire handle. to hydraulic system?
-EDP shut off valve close and EDP depressurize noid de-energize
-@@EDP shut off valve close and EDP depressurize noid energize
+During engine run, pull up fire handle. What effect to hydraulic system?
+EDP shut off valve close and EDP depressurize solenoid de-energize
+@@EDP shut off valve close and EDP depressurize solenoid energize
 EDP disconnect solenoid energize
 
-4. During flight, in case of fluid leak in to make sure proper hydraulic fluid quantity ALT extend power pack, what is the HYDIF
-Close Nose gear reserve isolation
+During flight, in case of fluid leak in center system, to make sure proper hydraulic fluid quantity go to LDG ALT extend power pack, what is the HYDIF do?
+Close Nose gear reserve isolation valve
 @@Close ALT extend isolation valve
-Close Nose gear steering isolation
+Close Nose gear steering isolation valve
 
-5. During maintenance check of the hydraulic lator pre-charge:
-The bootstrap reservoir circuit must
-@@The bootstrap reservoir circuit must 1 / 9 ized.
+During maintenance check of the hydraulic accumulator pre-charge:
+The bootstrap reservoir circuit must be pressurized.
+@@The bootstrap reservoir circuit must be depressurized.
 Either A or B.
 
-6. Electric motor pumps (EMP) get power
+Electric motor pumps (EMP) get power:
 From hot battery bus.
 From Electric Load Control Unit (ELCU).
-@@From common motor start controllers
+@@From common motor start controllers (CMCS).
 
-7. EMP is powered by
+EMP is powered by:
 SPDU.
 RPDU.
-CMSC.
+@@CMSC.
 
-8. How many ACCUMULATOR in the B787 system?
+How many ACCUMULATOR in the B787 hydraulic system?
 5
 3
-4
+@@4
 
-9. How many case drain filter module
-4 modules (L, R, C and RAT case drain
+How many case drain filter module on 787?
+4 modules (L, R, C and RAT case drain filter module)
 2 modules (L, R case drain filter module)
-@@3 modules (L, R and center case drain
+@@3 modules (L, R and center case drain filter module)
 
-10. How to depressurize the hydraulic
-@@Use the manual depressurization
+How to depressurize the hydraulic system:
+@@Use the manual depressurization valve.
 Release the pressure relief valve.
-Turn manual bleed valve aprox. ¼
+Turn manual bleed valve aprox. 1/4 counterclockwise.
 
-11. Hydraulic fluid on the VNA B787 is:
-@@BMS 3-11, Type V. 2 / 9
+Hydraulic fluid on the VNA B787 hydraulic system is:
+@@BMS 3-11, Type V.
 Skydrol, LD-4.
 Mobile Jet oil II.
 
-12. If a system pressure signal is not out-of-range):
-@@The highest valid pump pressure for system shows.
-The average valid pump pressure shows.
-The lowest valid pump pressure for tem shows.
+If a system pressure signal is not valid (sensor out-of-range):
+@@The highest valid pump pressure for the related system shows.
+The average valid pump pressure for the system shows.
+The lowest valid pump pressure for the related system shows.
 
-13. If the electrical power source is External to operate the Electric Motor Pump (EMP):
-Make sure that GND test switch in
+If the electrical power source is External Power (EP), to operate the Electric Motor Pump (EMP):
+Make sure that GND test switch in ENABLE position.
 @@Make sure that an IRU is on.
-Make sure that an IRU (Inertial Reference
+Make sure that an IRU (Inertial Reference Unit) is off.
 
-14. Location of hydraulic servicing controls nections:
+Location of hydraulic servicing controls and connections:
 In the nose landing gear wheel well.
-@@In the right main landing gear wheel bulkhead.
-In the left main landing gear wheel bulkhead.
+@@In the right main landing gear wheel well on the aft bulkhead.
+In the left main landing gear wheel well on the aft bulkhead.
 
-15. On ground maintenance, to prepare the RAT (Ram Air Turbine):
-@@Set the GND Test switch to the ENABLE
-Set the GND Test switch to the NORM
-Center hydraulic system must be depressurized. 16. 3 / 9
+On ground maintenance, to prepare retraction of the RAT (Ram Air Turbine):
+@@Set the GND Test switch to the ENABLE position.
+Set the GND Test switch to the NORM position.
+Center hydraulic system must be depressurized.
 
-The amber RAT unlocked (UNLKD) cates:
+The amber RAT unlocked (UNLKD) light is on indicates:
 RAT is deployed.
-@@RAT is not in the fully up and locked
+@@RAT is not in the fully up and locked position.
 RAT is stowed.
 
-17. The center hydraulic system has pumps (EMP), C1 and C2:
+The center hydraulic system has 2 Electric motor pumps (EMP), C1 and C2:
 Both EMPs are primary pump.
-@@One EMP is the primary pump and demand pump dependent on the day
+@@One EMP is the primary pump and the other is the demand pump dependent on the day of the month.
 Both EMPs are demand pump.
 
-18. The engine-driven pumps (EDP) supply hydraulic pressure for the left and right tems and located:
-@@On the forward face of the onside gearbox.
+The engine-driven pumps (EDP) supply primary hydraulic pressure for the left and right hydraulic systems and located:
+@@On the forward face of the onside engine accessory gearbox.
 In the related engine aft strut fairings.
 In the left aft wing-to-body fairing.
 
-19. The hydraulic system supplies pressurized draulic fluid to these airplane systems:
-@@Primary flight controls, Landing gear Nose wheel steering, High lift system, versers.
-Primary flight controls, Landing gear brake, Nose wheel steering, High lift
-Primary flight controls, Landing gear Nose wheel steering, High lift system, versers. 20. 4 / 9
+The hydraulic system supplies pressurized hydraulic fluid to these airplane systems:
+Primary flight controls, Landing gear normal brake, Nose wheel steering, High lift system, Thrust reversers.
+Primary flight controls, Landing gear alternate brake, Nose wheel steering, High lift system, Thrust reversers.
+@@Primary flight controls, Landing gear actuation, Nose wheel steering, High lift system, Thrust reversers.
 
-The left and right hydraulic systems draulic power to these related components:
-Primary flight control (PFC) actuators, actuators, Thrust reverser control valve
-@@Primary flight control (PFC) actuators, trol, Thrust reverser control valve and
-Primary flight control (PFC) actuators, er control valve and actuators.
+The left and right hydraulic systems supply hydraulic power to these related components:
+Primary flight control (PFC) actuators, Landing gear actuators, Thrust reverser control valve and actuators.
+Primary flight control (PFC) actuators, High lift control, Thrust reverser control valve and actuators.
+@@Primary flight control (PFC) actuators, Thrust reverser control valve and actuators.
 
-21. The most accurate method of the level check is:
+The most accurate method of the hydraulic fluid level check is:
 @@On the hydraulic maintenance page.
 At the hydraulic reservoirs.
 At the ground service bay indicator.
 
-22. The Nose Gear Isolate Valve (NGIV)
-Decrease flow to landing gear and nents when center hydraulic is low.
-@@Preserves hydraulic pressure for main tion and center system flight control.
-Preserves directional control on the
+The Nose Gear Isolate Valve (NGIV):
+Decrease flow to landing gear and high lift components when center hydraulic is low.
+@@Preserves hydraulic pressure for main gear retraction and center system flight control.
+Preserves directional control on the ground.
 
-23. The purpose of reservoir suction
-This makes sure the engine driven enough fluid to operate the flight controls.
+The purpose of reservoir suction shutoff valve is?
+This makes sure the engine driven pump (EDP) has enough fluid to operate the flight controls.
 Suction drains hydraulic fluid in reservoir.
-@@This makes sure the reservoir does if there is a leak in the system.
+@@This makes sure the reservoir does not lose all fluid if there is a leak in the system.
 
-24. The RAT ram air turbine can deploy
+The RAT ram air turbine can deploy by?
 @@Manual and Automatic
 Automatic
-Manual 5 / 9
+Manual
 
-25. The reservoir fill remote quantity show the system fluid quantity when:
+The reservoir fill remote quantity indicator gage to show the system fluid quantity when:
 The CCR cabinets have power.
 Selector valve handle is selected.
 @@A and B.
 
-26. There are 2 priority valves, Main High lift. If pressure decreases to a pre-set
-The valve removes hydraulic power flight controls or nose wheel steering
-The valve opens to supply hydraulic main landing gear or high lift device.
-@@The valve closes to stop hydraulic main landing gear or high lift devices.
+There are 2 priority valves, Main landing gear and High lift. If pressure decreases to a pre-set level:
+The valve removes hydraulic power to the primary flight controls or nose wheel steering system.
+The valve opens to supply hydraulic fluid flow to the main landing gear or high lift device.
+@@The valve closes to stop hydraulic fluid flow to the main landing gear or high lift devices.
 
-27. There is a copy of the HYDIF software processor modules: e) 3 in the left CCR cabinet.
-@@1 in the left CCR cabinet, 2 in the right
-2 in the left CCR cabinet, 1 in the right
+There is a copy of the HYDIF software in 3 general processor modules:
+3 in the left CCR cabinet.
+1 in the left CCR cabinet, 2 in the right CCR cabinet.
+@@2 in the left CCR cabinet, 1 in the right CCR cabinet.
 
-28. Three hydraulic system is controlled f) HYDIF.
+Three hydraulic system is controlled by:
+@@HYDIF.
 HMU.
 HCM.
 
-29. What control auto extension of RAT? g) BPSU and BSCU
+What control auto extension of RAT?
+BPSU and BSCU
 @@BPCU and HYDIF
-BSCU and HYDIF 30. 6 / 9
+BSCU and HYDIF
 
-What control movement of RAT compartment door? h) Electric actuator
-Mechanical door link
+What control movement of RAT compartment door?
+Electric actuator
+@@Mechanical door link
 Hydraulic actuator
 
-31. What function of hydraulic reservoir valve? i) Shut off hydraulic fluid drain during nance
-Supply suction line incase of hydraulic pressure
-@@Make sure the reservoir does not lose of there is leakage
+What function of hydraulic reservoir suction s/o valve?
+Shut off hydraulic fluid drain during ground maintenance
+Supply suction line incase of hydraulic reservoir loss pressure
+@@Make sure the reservoir does not lose all fluid in case of there is leakage
 
-32. What indication of hydraulic panel extended and supply pressure? j) White RAT PRESS light and amber RAT
-Amber RAT PRESS light and amber light
-@@Amber RAT PRESS light and white RAT
+What indication of hydraulic panel show when rat extended and supply pressure?
+@@White RAT PRESS light and amber RAT UNLOCK light
+Amber RAT PRESS light and amber RAT UNLOCK light
+Amber RAT PRESS light and white RAT UNLOCK light
 
-33. What is normal position of EDP control k) Release
+What is normal position of EDP control switch?
+Release
 @@Set to ON
 Set to OFF
 
-34. What is the purpose of the case drain ule? l) Cooling and lubrication for pump
-@@Remove particles from the related case drain fluid and Cooling and lubrication 7 / 9
-Remove particles from the related case drain fluid.
+What is the purpose of the case drain filter module?
+Cooling and lubrication for pump
+@@Remove particles from the related hydraulic pumps case drain fluid and Cooling and lubrication for pump
+Remove particles from the related hydraulic pumps case drain fluid.
 
-35. What position should the engine-driven (EDP) switch be when the engines are m) AUTO.
+What position should the engine-driven pump (EDP) switch be when the engines are not running?
+AUTO.
 SET OFF
 @@SET ON
 
-36. When 2 External Power (FWD L&R) n) All EMP can be operates.
+When 2 External Power (FWD L&R) available:
+All EMP can be operates.
 @@C1 & R or C2 & L EMP can operates.
 C1 & L or C2 & R EMP can operates.
 
-37. When the engine fire switch is used, o) Closes the supply shutoff valve.
-Energizes the EDP depressurization
+When the engine fire switch is used, it:
+Closes the supply shutoff valve.
+Energizes the EDP depressurization solenoid.
 @@A and B.
 
-38. When the RAT is in the stowed position, what prevents ice in the generator? p) 1 electrical heaters element
+When the RAT is in the stowed position, normally what prevents ice in the generator?
+@@1 electrical heaters element
 Heated by hot air bleed
-@@2 electrical heaters elements.
+2 electrical heaters elements.
 
-39. Where is location of center system q) RH aft wing-body fairing
+Where is location of center system EMP?
+RH aft wing-body fairing
 @@LH aft wing-body fairing
 RH MLG wheel well
 
-40. Where is the HYDIF function located? r) 2 copies in the left CCR cabinet 2 copies CCR 8 / 9
-@@2 copies in the left CCR cabinet 1 copy CCR
-1 copy in the left CCR cabinet 2 copies CCR
+Where is the HYDIF function located?
+2 copies in the left CCR cabinet 2 copies in the right CCR
+@@2 copies in the left CCR cabinet 1 copy in the right CCR
+1 copy in the left CCR cabinet 2 copies in the right CCR
 
-41. Which center EMP is primary pump? s) C1
+Which center EMP is primary pump?
+C1
 @@Either C1 or C2
 C2
 
-42. Which pump does continuously operate flight t) The EMP C2.
+Which pump does continuously operate during flight:
+The EMP C2.
 @@The primary EMP.
 The EMP C1.
 
-43. Which valve stop flow of hydraulic if center system pressure dropped below u) Nose gear steering isolation valve
+Which valve stop flow of hydraulic fluid goes to MLG if center system pressure dropped below 4000psi?
+Nose gear steering isolation valve
 @@MLG priority valve
-Hight lift priority valve 9 / 9
+High lift priority valve

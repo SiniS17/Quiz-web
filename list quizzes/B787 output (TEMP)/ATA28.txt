@@ -1,254 +1,254 @@
-1. At normal initial APU Start sequence, operate to supply fuel to APU Fuel SO
+At normal initial APU Start sequence, Which pump operate to supply fuel to APU Fuel SO Valve?
 @@APU DC Pump
 APU Fuel Module Boost Pump
 LH AFT Boost Pump
 
-2. Deactivate the actuator for a fuel system open or closed position as MEL required:
-Make sure the position of the driveshaft actuator.
-@@Make sure the position of the driveshaft tion on the adapter.
-Using CBIC functions to set the valve closed position.
+Deactivate the actuator for a fuel system valve to the open or closed position as MEL required:
+Make sure the position of the driveshaft in the aligns actuator.
+@@Make sure the position of the driveshaft with indication on the adapter.
+Using CBIC functions to set the valve in open or closed position.
 
-3. During refueling operation, red OVERFILL light on the RCP comes on:
+During refueling operation, red OVERFILL indication light on the RCP comes on:
 The refuel operation will stop automatically.
-Manual set the ALL VALVES switch sition then removes fuel from the overfilled
+Manual set the ALL VALVES switch to the CLOSE position then removes fuel from the overfilled fuel tank.
 @@A and B.
 
-4. Electrical power for operation of the son (O/J) pumps is from?
+Electrical power for operation of the override/jettison (O/J) pumps is from?
 ELCU and OJMC.
-@@Override/jettison motor controllers
+@@Override/jettison motor controllers (OJMC).
 The electrical load control unit (ELCU).
 
-5. For APU fuel feed function, when the pump comes on?
-AC power is available and APU gets START. 1 / 11
-AC power is available and APU is in phase of the shutdown cycle.
+For APU fuel feed function, when the LEFT AFT boost pump comes on?
+AC power is available and APU gets set to ON or START.
+AC power is available and APU is in the cool down phase of the shutdown cycle.
 @@A or B is correct.
 
-6. Fuel jettison nozzle valves are controlled?
-@@Directly by the nozzle switches on panel (FCP).
-By Fuel quantity management system tion.
+Fuel jettison nozzle valves are controlled?
+@@Directly by the nozzle switches on the fuel control panel (FCP).
+By Fuel quantity management system (FQMS) function.
 Only on the ground.
 
-7. Fuel Pumps PRESS light switch come
-@@There is low pressure at the pump
-There is power is not supplied to the
+Fuel Pumps PRESS light switch come on and stay on:
+@@There is low pressure at the pump outlet.
+There is power is not supplied to the pump.
 The pump is faulty.
 
-8. Function of vent crossflow check valve?
-@@To preserve N2 concentration in center
+Function of vent crossflow check valve?
+@@To preserve N2 concentration in center tank
 To supply N2 to Surge tank
-To decrease N2 concentration in center
+To decrease N2 concentration in center tank
 
-9. How fuel system remove scavenge tank in flight?
-FQMS open drain valves to drain remaining
-O/J fuel pumps must be ON to main
+How fuel system remove scavenge fuel in center tank in flight?
+FQMS open drain valves to drain remaining fuel
+O/J fuel pumps must be ON to main tank
 @@FQMS open scavenge Isolation valves
 
-10. How many times can FSM supply valve? (02 ENG SO Valve and 01 APU
+How many times can FSM supply to cycle all 3 SO valve? (02 ENG SO Valve and 01 APU SO Valve):
 @@3 times
 Only 1 time
-2 times 2 / 11
+2 times
 
-11. How to get access to wing dry bay
-Access through the lower wing access the pylon
-Access through the Center Fuel Tank the pylon Panel (RH Wheel-well)
-@@Access through the Center Fuel Tank (Lower Wing).
+How to get access to wing dry bay access panel:
+Access through the lower wing access panel - aft of the pylon
+Access through the Center Fuel Tank Access aft of the pylon Panel (RH Wheel-well)
+@@Access through the Center Fuel Tank Access Panels (Lower Wing).
 
-12. How to ops center sump drain valve?
-Use Flat screw Driver 3/8" turn sump body to the Open position and Push
-Use Cross screw Driver 3/8" turn sump body to the Open position and Push
-@@Hold the Sump Drain Valve above and push up to open the valve
+How to ops center sump drain valve?
+Use Flat screw Driver 3/8" turn sump drain valve body to the Open position and Push up
+Use Cross screw Driver 3/8" turn sump drain valve body to the Open position and Push up
+@@Hold the Sump Drain Valve above the Flexible Hose and push up to open the valve
 
-13. In the fuel system, what statement
-@@Some valve actuators are the same valve and defuel valve actuator; some are different P/N i.e Refuel valve and
+In the fuel system, what statement is correct?
+Some valve actuators are the same P/N i.e Refuel valve and defuel valve actuator; some valve actuators are different P/N i.e Refuel valve and Crossfeed valve
 All valve actuators are different P/N
-All valve actuators are the same P/N
+@@All valve actuators are the same P/N
 
-14. Power to open and close the refuel plied by:
+Power to open and close the refuel valves is supplied by:
 28 v dc CAPT INST BUS
 28 v dc LEFT MAIN BUS.
 @@A or B is correct.
 
-15. Pressure refueling, push and hold to the PANEL position, this does the
-@@Fuel quantity indicators, load select overfill indication light, and the valve 3 / 11
+Pressure refueling, push and hold the TEST switch to the PANEL position, this does the test of:
+@@Fuel quantity indicators, load select displays, the overfill indication light, and the valve position lights.
 The refuel valve open and closed.
 A and B.
 
-16. Refuel operation with electrical power airplane battery:
+Refuel operation with electrical power from the airplane battery:
 @@Only the left main tank can be refueled.
 Only the center tank can be refueled.
 Only the right main tank can be refueled.
 
-17. The amber VALVE light of cross-feed come on indicates?
+The amber VALVE light of cross-feed valve switch come on indicates?
 Cross-feed valve closed.
 Cross-feed valve open.
-@@Position of the valve disagrees with position.
+@@Position of the valve disagrees with the selected position.
 
-18. The APU dc pump feeds the APU
-There is no ac pump pressure from pump.
-There is no ac pump pressure from boost pump.
+The APU dc pump feeds the APU when:
+There is no ac pump pressure from the left aft boost pump.
+There is no ac pump pressure from left forward boost pump.
 @@A or B is correct.
 
-19. The APU fuel feed system supplies
-@@From the main tanks or the center
+The APU fuel feed system supplies fuel to the APU:
+@@From the main tanks or the center tank.
 From the main tanks only.
 From the center tank only.
 
-20. The FQMS function does these functions:
-Fuel quantity, fuel temperature, fuel
-Fuel level, volumetric shutoff, overfills
-@@A and B. 4 / 11
+The FQMS function does these functions:
+Fuel quantity, fuel temperature, fuel displays.
+Fuel level, volumetric shutoff, overfills warning.
+@@A and B.
 
-21. The fuel shutoff module (FSM) makes fuel system always has power:
-To open Engine fuel shutoff valves shutoff valve.
-To close Engine fuel shutoff valves shutoff valve.
-@@To open and close Engine fuel shutoff APU fuel shutoff valve.
+The fuel shutoff module (FSM) makes sure that the fuel system always has power:
+To open Engine fuel shutoff valves and APU fuel shutoff valve.
+@@To close Engine fuel shutoff valves and APU fuel shutoff valve.
+To open and close Engine fuel shutoff valves and APU fuel shutoff valve.
 
-22. The ground test for the left aft boost required:
-@@Electric power from battery.
+The ground test for the left aft boost pump is required:
+Electric power from battery.
 Electric power from APU.
-Electric power from external power.
+@@Electric power from external power.
 
-23. The pressure refuel system is controlled
+The pressure refuel system is controlled by:
 Refuel control panel (RCP).
-@@Fuel quantity management system software.
-FQMS functions software and the
+@@Fuel quantity management system (FQMS) function software.
+FQMS functions software and the RCP.
 
-24. To correct a fuel imbalance in the
+To correct a fuel imbalance in the main tank?
 Uses fuel balance system.
 Uses the fuel cross-feed system.
 @@A or B.
 
-25. To lock Refuel valve in the closed statement is correct?
+To lock Refuel valve in the closed position, what statement is correct?
 Remove actuator and turn it 90 degrees
-Manual turn the actuator 90 degree valve to the closed position but do not
-@@Manual turn the actuator 90 degree 5 / 11 valve to the closed position, then remove turn it upside down
+Manual turn the actuator 90 degree to move the valve to the closed position but do not remove it.
+@@Manual turn the actuator 90 degree to move the valve to the closed position, then remove actuator and turn it upside down
 
-26. To perform Fuel Quantity Indicating nel Comparison - Functional Test:
+To perform Fuel Quantity Indicating System Channel Comparison - Functional Test:
 Refuel valves are open, and the airplane AIR/GROUND status is GND.
 @@Refuel valves are closed, and the airplane AIR/GROUND status is GND.
 Refuel valves are closed, and the airplane AIR/GROUND status is AIR.
 
-27. To transfer fuel from one tank to we use:
+To transfer fuel from one tank to a different tank, we use:
 @@Both the RCP and the FCP.
 The Refuel Control Panel (RCP) only.
 The Fuel Control Panel (FCP) only.
 
-28. To transfer fuel from one tank to
-The defuel/isolation valves must be switch on the P5 panel is in the NORM, pump on, received fuel tank refuel valve
-@@The defuel/isolation valves must be switch on the P5 panel is in the ENABLE, pump on, received fuel tank refuel valve
-The defuel/isolation valves must be valve open, supplied fuel pump on, received refuel valve open.
+To transfer fuel from one tank to a different tank:
+The defuel/isolation valves must be open, GND TEST switch on the P5 panel is in the NORM, supplied fuel pump on, received fuel tank refuel valve open.
+@@The defuel/isolation valves must be open, GND TEST switch on the P5 panel is in the ENABLE, supplied fuel pump on, received fuel tank refuel valve open.
+The defuel/isolation valves must be open, cross feed valve open, supplied fuel pump on, received fuel tank refuel valve open.
 
-29. Volumetric shutoff is the Function
+Volumetric shutoff is the Function of:
 FQIS
-FQMS
-FQDC 6 / 11
+@@FQMS
+FQDC
 
-30. What are condition for EICAS MSG TER" appear on ground?
-@@Fuel in Center Tank above 4490 Kg pump switches are OFF
-Fuel in Center Tank below 4490 Kg pump switches are OFF
-Fuel in Center Tank above 4490 Kg pump switches are ON
+What are condition for EICAS MSG "FUEL IN CENTER" appear on ground?
+@@Fuel in Center Tank above 4490 Kg and two center pump switches are OFF
+Fuel in Center Tank below 4490 Kg and two center pump switches are OFF
+Fuel in Center Tank above 4490 Kg and two center pump switches are ON
 
-31. What are Fuel system config when Arm switch set to ARM?
-@@FQMS armed Fuel system to: Calculate main, data fields MLW and TIME TO on synoptic page, Fuel jettison indication lower right corner of EICAS display
-FQMS armed Fuel system to: Calculate main, Open 02 Fuel nozzle valve, data TIME TO REMAIN show on synoptic page, indication show in the lower right corner play
-FQMS armed Fuel system to: Calculate main, Open 04 ISO valves, data fields TO REMAIN show on synoptic page, cation show in the lower right corner
+What are Fuel system config when Fuel Jettison Arm switch set to ARM?
+@@FQMS armed Fuel system to: Calculate Fuel to remain, data fields MLW and TIME TO REMAIN show on synoptic page, Fuel jettison indication show in the lower right corner of EICAS display
+FQMS armed Fuel system to: Calculate Fuel to remain, Open 02 Fuel nozzle valve, data fields MLW and TIME TO REMAIN show on synoptic page, Fuel jettison indication show in the lower right corner of EICAS display
+FQMS armed Fuel system to: Calculate Fuel to remain, Open 04 ISO valves, data fields MLW and TIME TO REMAIN show on synoptic page, Fuel jettison indication show in the lower right corner of EICAS display
 
-32. What are Fuel system config when Nozzle valve switch set to ON?
-@@Fuel jettison nozzle valve is selected if the fuel jettison system is armed, both and both jettison isolation valves open
-Fuel jettison nozzle valve is selected 7 / 11 even if the fuel jettison system is not defuel valves and both jettison isolation
-Fuel jettison nozzle valve is selected ground, if the fuel jettison system is fuel valves and both jettison isolation
+What are Fuel system config when Fuel Jettison Nozzle valve switch set to ON?
+@@Fuel jettison nozzle valve is selected open. In flight, if the fuel jettison system is armed, both defuel valves and both jettison isolation valves open
+Fuel jettison nozzle valve is selected open. In flight, even if the fuel jettison system is not armed, both defuel valves and both jettison isolation valves open
+Fuel jettison nozzle valve is selected open. On ground, if the fuel jettison system is armed, both defuel valves and both jettison isolation valves open
 
-33. What are function of the de-prime
-@@To decrease drag on the APU ASG condition and shutdown
-To increase drag on the APU ASG during condition and shutdown
-To decrease drag on the APU ASG condition on the ground
+What are function of the de-prime valve?
+@@To decrease drag on the APU ASG during cold start condition and shutdown
+To increase drag on the APU ASG during cold start condition and shutdown
+To decrease drag on the APU ASG during hot start condition on the ground
 
-34. What control scavenge isolation
+What control scavenge isolation valve?
 @@FQMS function in CCR
 Refuel control panel
 FQDC
 
-35. What happen when fuel tanks over
+What happen when fuel tanks over pressure?
 Crossflow check valves open
 Positive pressure relief valve open
 @@Surge tank pressure relief valves open
 
-36. What is power source for engine operate incase loss of normal power?
+What is power source for engine fuel s/o valve operate incase loss of normal power?
 Fuel shut-off battery
 @@Fuel Shut-off Module
 Fuel supply Module
 
-37. What is purpose of FSM? (Fuel Shutoff
-@@Make sure fuel system always has Engine and APU fuel SO Valves 8 / 11
-Make sure fuel system always has Engine fuel SO Valves only
-Make sure fuel system always has APU fuel SO Valve only
+What is purpose of FSM? (Fuel Shutoff Module):
+@@Make sure fuel system always has power to close Engine and APU fuel SO Valves
+Make sure fuel system always has power to close Engine fuel SO Valves only
+Make sure fuel system always has power to close APU fuel SO Valve only
 
-38. What is purpose of the APU fuel valve?
-@@Release excessive fuel pressure in manifold into the center tank
-Protect APU form hot start condition supply temperature
-Prevent fuel leak from the fuel feed shroud due to high temperature
+What is purpose of the APU fuel thermal relief valve?
+@@Release excessive fuel pressure in the APU fuel feed manifold into the center tank
+Protect APU form hot start condition due to high fuel supply temperature
+Prevent fuel leak from the fuel feed manifold to the shroud due to high temperature
 
-39. What type of fuel height sensor?
+What type of fuel height sensor?
 Dielectric Probe
 Resistance Probe
 @@Capacitance probe
 
-40. When does the refuel/ Jettison manifold open?
-@@Center tank fuel level is below the valve/ on the refuel-jettison manifold/ one below 2725 l
-Center tanks fuel level is below the tison manifold under pressure/ One below 2725 l
-Center tanks fuel level is below the tison manifold under pressure/ Both below 2725 l
+When does the refuel/Jettison manifold drain valve open?
+@@Center tank fuel level is below the valve/ No pressure on the refuel-jettison manifold/ one main tank level is below 2725 l
+Center tanks fuel level is below the valve/ Refuel-Jettison manifold under pressure/ One main tank level below 2725 l
+Center tanks fuel level is below the valve/ Refuel-Jettison manifold under pressure/ Both main tank level below 2725 l
 
-41. When perform suction defueling tank: 9 / 11
-DEFUEL VALVES switch is in the OPEN TER MANUAL FUELING VALVES switch sition.
-@@DEFUEL VALVES switch is in the CLOSE CENTER MANUAL FUELING VALVES switch position.
-DEFUEL VALVES switch is in the OPEN TER MANUAL FUELING VALVES switch position.
+When perform suction defueling of center fuel tank:
+DEFUEL VALVES switch is in the OPEN position, CENTER MANUAL FUELING VALVES switch to the OPEN position.
+@@DEFUEL VALVES switch is in the CLOSE position, CENTER MANUAL FUELING VALVES switch to the OPEN position.
+DEFUEL VALVES switch is in the OPEN position, CENTER MANUAL FUELING VALVES switch to the CLOSE position.
 
-42. Where can see temperature for all
+Where can see temperature for all fuel tank?
 @@Fuel quantity maintenance page
 Fuel synoptic page
 Status page
 
-43. Where is dry bay?
+Where is dry bay?
 Outboard of engine strut
 Inboard of rib 11
 @@Out board of rib 9
 
-44. Where is location to connect air source center tank?
+Where is location to connect air source to ventilate center tank?
 Lower wing access panels
 Surge tank access panels
 @@Purge holes doors
 
-45. Which fuel pump has no pressure
+Which fuel pump has no pressure indication?
 @@APU DC pump
 Left aft boost pump
 Right aft boost pump
 
-46. Which is component supply power Pump? 10 / 11
+Which is component supply power for APU DC Pump?
 OJMC
 ELCU
+@@RPDU
+
+Which is component supply power for Center tank O/J Pumps?
+ELCU
+@@OJMC
 RPDU
 
-47. Which is component supply power O/J Pumps?
-ELCU
+Which is component supply power for Main tank Boost Pumps?
+@@ELCU
 OJMC
 RPDU
 
-48. Which is component supply power Boost Pumps?
-ELCU
-OJMC
-RPDU
-
-49. Which is technology used for FSM
+Which is technology used for FSM power storage?
 Battery
 Quartz oscillator
-Capacitor
+@@Capacitor
 
-50. Which pump operates when APU ly?
+Which pump operates when APU start successfully?
 APU DC pump
 RH aft boost pump
 @@LH AFT boost pump
 
-51. Which surge tank the center tank
+Which surge tank the center tank vent to?
 RH surge tank
 @@Both surge tanks
-LH surge tank 11 / 11
+LH surge tank

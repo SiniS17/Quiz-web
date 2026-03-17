@@ -1,322 +1,324 @@
-1. Can we select more than one receiver transmit switch on ACP (Audio Control same time?
+Can we select more than one receiver switch and transmit switch on ACP (Audio Control Panel) at the same time?
 Yes we can.
-@@We can only select more than one the same time.
-We can only select more than one the same time.
+We can only select more than one transmit switch at the same time.
+@@We can only select more than one receiver switch at the same time.
 
-2. During transmit, the active coupler cross-talk bus to sends a signal to?
-Prevent the other system from only
-@@Prevent the other system from transmitting ceiving
-Make the other system also transmitting receiving
+During transmit, the active coupler uses the cross-talk bus to sends a signal to?
+Prevent the other system from only transmitting
+@@Prevent the other system from transmitting or receiving
+Make the other system also transmitting or receiving
 
-3. For towing operations, which ACP connect P40 panel?
+For towing operations, which ACP connect directly to P40 panel?
 Right ACP
 @@Left ACP
 Center ACP
 
-4. How do the ACP controls the speaker?
+How do the ACP controls the speaker?
 The center ACP controls both speakers
-@@The captain ACP controls the captain
-The captain ACP controls both speakers is backup
+@@The captain ACP controls the captain speaker
+The captain ACP controls both speakers and F/O ACP is backup
 
-5. How do the flight crew use the ACP Panel) and the TCP (Tuning Control Panel) the HF (High Frequency) communication 1 / 14
-@@Using ACP to select the HF (High Frequency) nication system and TCP to tune the
-Using TCP to select the HF (High Frequency) nication system and ACP to tune the
-Using TCP to select the HF (High Frequency) nication system and ACP to select the tion.
+How do the flight crew use the ACP (Audio Control Panel) and the TCP (Tuning Control Panel) to control the HF (High Frequency) communication system?
+@@Using ACP to select the HF (High Frequency) communication system and TCP to tune the HF radios.
+Using TCP to select the HF (High Frequency) communication system and ACP to tune the HF radios.
+Using TCP to select the HF (High Frequency) communication system and ACP to select the mode of operation.
 
-6. How many channels does the SATCOM
-4 channels: 01 for data and 03 for
-2 channels: 01 for data and 01 for
-@@3 channels: 01 for data and 02 for
+How many channels does the SATCOM has?
+4 channels: 01 for data and 03 for voice messages
+2 channels: 01 for data and 01 for voice messages
+@@3 channels: 01 for data and 02 for voice messages
 
-7. How many component does the DMCF
-0
+How many component does the DMCF has?
+@@0
 2
 1
 
-8. How many high frequency (HF) antenna aiplane?
-1
+How many high frequency (HF) antenna are there on airplane?
+@@1
 2
 3
 
-9. How many signal does ELT transmit?
-3
+How many signal does ELT transmit?
+@@3
 4
 2
 
-10. How many static dischagers on the
+How many static dischagers on the B787-9:
 50
-54
-60 2 / 14
+@@54
+60
 
-11. How many way to call to ground ground crew call system?
+How many way to call to ground from F/D by ground crew call system?
 3
 1
-2
+@@2
 
-12. How to connect service interphone P40 and P57?
-Set service interphone switch on P5
-Set service interphone switch on P5
+How to connect service interphone jacks between P40 and P57?
+Set service interphone switch on P5 to ON
+Set service interphone switch on P5 to OFF
 @@Nothing to do.
 
-13. How to set HF system to DATA mode?
+How to set HF system to DATA mode?
 Set on the TCP
-@@Set on the Multi-Function Display play
+@@Set on the Multi-Function Display (MFD) COMM display
 Use standby frequency list
 
-14. How to test the HF transceiver?
+How to test the HF transceiver?
 @@Use ground test on CMCF
 Use tool set
 Use test switch on the HF transceiver
 
-15. Maintenance personnel use the flight headset connection jack to communicate flight deck through?
+Maintenance personnel use the flight interphone headset connection jack to communicate with the flight deck through?
 P8 panel
 P5 panel
 @@P40 panel
 
-16. Purpose of the service interphone
-Let's the ground crew talk with each 3 / 14
-@@Let's the ground crew talk with each flight crew.
-Let's the ground crew talk to the flight
+Purpose of the service interphone system?
+Let's the ground crew talk with each other
+@@Let's the ground crew talk with each other and to the flight crew.
+Let's the ground crew talk to the flight crew.
 
-17. The Audio Gateway Unit (AGU) changes:
+The Audio Gateway Unit (AGU) changes:
 The analog audio to digital ONLY
 The digital audio to analog ONLY
-@@The analog audio to digital and digital log
+@@The analog audio to digital and digital audio to analog
 
-18. The captain ACP has a direct interface on the P40 panel for?
-Engine run- up
+The captain ACP has a direct interface with a jack on the P40 panel for?
+Engine run-up
 @@Towing operations
 Refueling.
 
-19. The common data network (CDN) use to tune the left VHF radio?
-@@Left TCP, the left TCP has direct connection left VHF transceiver
-Right TCP, the left TCP has direct connection Right VHF transceiver
+The common data network (CDN) fails. What do you use to tune the left VHF radio?
+@@Left TCP, the left TCP has direct connection with the left VHF transceiver
+Right TCP, the left TCP has direct connection with the Right VHF transceiver
 Use ACP selector switch on P5
 
-20. The communications system includes tems:
-@@ELT, DCMF, flight interphone, service SELCAL, VHF, HF, SATCOM, GRD crew
-Flight interphone, service interphone, HF, SATCOM, GRD crew call function
-SELCAL, VHF, HF, SATCOM, GRD crew 21. 4 / 14
+The communications system includes these systems:
+@@ELT, DCMF, flight interphone, service interphone, SELCAL, VHF, HF, SATCOM, GRD crew call function
+Flight interphone, service interphone, SELCAL, VHF, HF, SATCOM, GRD crew call function
+SELCAL, VHF, HF, SATCOM, GRD crew call function
 
 The communications systems provide:
 @@The voice and data communications.
 The voice data only.
 The communications data only.
 
-22. The data format input to the VHF
+The data format input to the VHF radios is:
 @@ARINC 429 low speed
 ARINC 429 high speed
 ARINC 629 low speed
 
-23. The ELT airplane identification module airplane specific data. How does the cation data is set?
-Get signal from 24-bit ICAO address
+The ELT airplane identification module (AIM) stores airplane specific data. How does the airplane identification data is set?
+Get signal from 24-bit ICAO address of the Airplane
 By software in the DCMF
-@@On a 24-bit switch module installed
+@@On a 24-bit switch module installed near the ELT
 
-24. The ELT antenna is:
-@@On the top centerline of the fuselage station 1733
-On the near centerline of the fuselage station 1733
-On the bottom centerline of the fuselage station 1733
+The ELT antenna is:
+@@On the top centerline of the fuselage at fuselage station 1733
+On the near centerline of the fuselage at fuselage station 1733
+On the bottom centerline of the fuselage at fuselage station 1733
 
-25. The ELT usually gets power from:
+The ELT usually gets power from:
 @@Internal battery
 Capt instrument bus
 Hot bat bus
 
-26. The flight interphone system has
-The Jack modules and Digital signal
-@@The COMM/warning speakers, Jack 5 / 14 Digital signal to CDN.
-The COMM/warning speakers, and CDN.
+The flight interphone system has these outputs:
+The Jack modules and Digital signal to CDN.
+@@The COMM/warning speakers, Jack modules and Digital signal to CDN.
+The COMM/warning speakers, and Digital signal to CDN.
 
-27. The ground crew call system and when:
+The ground crew call system and horn are disabled when:
 @@A/C in flight
 A/C on ground
 A/C on ground and touch down.
 
-28. The ground crew call system has
+The ground crew call system has interface with:
 The ACP.
 The CSSC software function.
 @@The ACP and CSSC software function.
 
-29. The HF coupler:
-@@Can save recently tuned frequencies tune to them.
-Tunes the HF transceiver to the selected
-Makes sure that the HF transmitters and receive at the same time.
+The HF coupler:
+@@Can save recently tuned frequencies and quickly tune to them.
+Tunes the HF transceiver to the selected frequency.
+Makes sure that the HF transmitters do not transmit and receive at the same time.
 
-30. The interphone jacks in these locations?
+The interphone jacks in these locations?
 @@P40 panel and P57 panel.
 P40 panel ONLY
 P57 panel ONLY
 
-31. The L VHF radio can be used only
-@@Voice communication and data transmission transmission only
-Voice communication only 32. 6 / 14
+The L VHF radio can be used only for?
+Voice communication and data transmission
+Data transmission only
+@@Voice communication only
 
-The location of the HF antenna B787-9
-@@On the leading edge of the vertical wire type antenna above the HF couplers fin fairing
-On the upper fuselage under the vertical
+The location of the HF antenna B787-9 is:
+On the leading edge of the vertical stabilizer
+@@A wire type antenna above the HF couplers in the vertical fin fairing
+On the upper fuselage under the vertical fin fairing
 
-33. The location of the HF couplers B787-9
-In the vertical stabilizer, below the HF
-@@On the upper fuselage under the vertical fairing
+The location of the HF couplers B787-9 are:
+In the vertical stabilizer, below the lower edge of the HF
+@@On the upper fuselage under the vertical fin antenna fairing
 On the leading edge of vertical stabilizer.
 
-34. The purpose of the static dischargers
-@@Decreasing the static electricity from surfaces and the interference with radio other electrical components
-Increasing the interference with radio other electrical components
-Decreasing the interference with radio other electrical components
+The purpose of the static dischargers are:
+@@Decreasing the static electricity from the airplane surfaces and the interference with radio receivers and other electrical components
+Increasing the interference with radio receivers and other electrical components
+Decreasing the interference with radio receivers and other electrical components
 
-35. The SELCAL system alerts of incoming tions even when?
+The SELCAL system alerts of incoming communications even when?
 The airplane transceiver is INOP
 @@The airplane transceiver is muted
-The airplane transceiver receive no
+The airplane transceiver receive no signal
 
-36. The service interphone connection jack on the P40 panel and the jack on does not operate. What could be the
-The service interphone switch in the ON. 7 / 14
-The service interphone switch in the OFF.
+The service interphone connection between the jack on the P40 panel and the jack on the P57 panel does not operate. What could be the problem?
+The service interphone switch in the flight deck is ON.
+The service interphone switch in the flight deck is OFF.
 @@An Audio Gateway Unit (AGU) is defective.
 
-37. The service interphone switch on to
+The service interphone switch on the P5 panel use to
 Turn off the flight interphone system
-Connect the ATC center on ground phone system on Aircraft
-@@Connect the service interphone system interphone system
+Connect the ATC center on ground to the flight interphone system on Aircraft
+@@Connect the service interphone system to the flight interphone system
 
-38. The VHF aeronautical communication tween:
+The VHF aeronautical communication band is between:
 @@118.00 MHz and 136.975 MHz.
 116.00 MHz and 134.975 MHz.
 118.00 MHz and 134.975 MHz.
 
-39. To listen to only L VHF audio, push
+To listen to only L VHF audio, push button?
 Push the transmitter select switch
 @@Push the volume control switch
 Push the speaker switch
 
-40. To make sure that the 24-bit Aircraft you changed the switch positions of the mable switch module?
-@@Do the Emergency Locator Transmitter Test
-Do the Emergency Locator Transmitter Test
-Do the Emergency Locator Transmitter Test 8 / 14
+To make sure that the 24-bit Aircraft ID is correct if you changed the switch positions of the (ELT) programmable switch module?
+Do the Emergency Locator Transmitter - System Test
+Do the Emergency Locator Transmitter - Operational Test
+@@Do the Emergency Locator Transmitter -Functional Test
 
-41. What are the location of VSS (Video System) cameras?
-@@01 above the flight deck entry door, door 1 left, 01 adjacent to door 1 right to AFT attendant seats.
-01 above the flight deck entry door, door 1 left and 01 adjacent to door 1
-02 above the flight deck entry door, door 1 left and 01 adjacent to door 1
+What are the location of VSS (Video Surveillance System) cameras?
+01 above the flight deck entry door, 01 adjacent to door 1 left, 01 adjacent to door 1 right and 01 adjacent to AFT attendant seats.
+@@01 above the flight deck entry door, 01 adjacent to door 1 left and 01 adjacent to door 1 right.
+02 above the flight deck entry door, 01 adjacent to door 1 left and 01 adjacent to door 1 right.
 
-1 What causes an EICAS message to
-@@The a push-to-talk (PTT) signal for seconds.
-The a push-to-talk (PTT) signal for seconds.
-The a push-to-talk (PTT) signal for seconds.
+What causes an EICAS message to show:
+The a push-to-talk (PTT) signal for more than 20 seconds.
+@@The a push-to-talk (PTT) signal for more than 30 seconds.
+The a push-to-talk (PTT) signal for more than 15 seconds.
 
-2 What device set airplane specific data to the emergency locator transmitter?
+What device set airplane specific data and supplies it to the emergency locator transmitter?
 @@24-bit switch module.
 Nothing.
 The ELT airplane identification module.
 
-3 What does signal cause the coupler HF system to tune?
-Automatic tune when set frequency
+What does signal cause the coupler of the selected HF system to tune?
+Automatic tune when set frequency in the TCP
 Get signal from the transceiver
 @@An HF push-to-talk
 
-4 What does the static dischage use
+What does the static dischage use for?
 Prevent lightning strikes for airplane
-Decrease the electrical interference 9 / 14 system cables
-@@Decrease the quantity of static electricity plane surfaces
+Decrease the electrical interference for flight control system cables
+@@Decrease the quantity of static electricity from airplane surfaces
 
-5 What does the very high frequency cation system is used for?
-@@Voice and data communication over distances
+What does the very high frequency (VHF) communication system is used for?
+@@Voice and data communication over line-of-sight distances
 Worldwide voice and data communication
 Long range voice and data communications
 
-6 What is the function of VHF (Very High communication transceiver?
-@@Changing RF (Radio Frequency) signals datalink signals during receive operations, ing datalink and audio signals to RF (Radio signals during transmit operations.
-Changing RF (Radio Frequency) signals and datalink signals during transmit changing datalink and audio signals quency) signals during receive operations.
-Receiving and transmitting RF (Radio nals in the VHF (Very High Frequency)
+What is the function of VHF (Very High Frequency) communication transceiver?
+@@Changing RF (Radio Frequency) signals to audio and datalink signals during receive operations, and changing datalink and audio signals to RF (Radio Frequency) signals during transmit operations.
+Changing RF (Radio Frequency) signals to audio and datalink signals during transmit operations, and changing datalink and audio signals to RF (Radio Frequency) signals during receive operations.
+Receiving and transmitting RF (Radio Frequency) signals in the VHF (Very High Frequency) frequency range.
 
-7 What kind of video signals the SCIU Camera Interface Unit) send to the EFB Flight Bag) system?
+What kind of video signals the SCIU (Surveillance Camera Interface Unit) send to the EFB (Electronic Flight Bag) system?
 Analog signals
 Analog for video and Digital for voice
 @@Digital data
 
-8. What provides the data link functions
-@@The Data Communication Management 10 / 14 (DCMF)
+What provides the data link functions?
+@@The Data Communication Management Function (DCMF)
 SATCOM
 SATCOM and DCMF
 
-9 When and how does the ground crew on?
-@@Call from the flight deck in 3 seconds, when ERS is on battery power, 1 Hz interval is an APU fire, continuously when low FWD or AFT equipment cooling system.
-Call from the flight deck in 3 seconds, ly when ERS is on battery power, continuously there is an APU fire, continuously when tected in FWD or AFT equipment cooling
-Call from the flight deck in 3 seconds, when ERS is on battery power, continuously flow detected in FWD or AFT equipment tem.
+When and how does the ground crew call horn come on?
+@@Call from the flight deck in 3 seconds, continuously when ERS is on battery power, 1 Hz interval when there is an APU fire, continuously when low flow detected in FWD or AFT equipment cooling system.
+Call from the flight deck in 3 seconds, continuously when ERS is on battery power, continuously when there is an APU fire, continuously when low flow detected in FWD or AFT equipment cooling system.
+Call from the flight deck in 3 seconds, continuously when ERS is on battery power, continuously when low flow detected in FWD or AFT equipment cooling system.
 
-10 When does the ELT system automatically emergency signals?
+When does the ELT system automatically sends emergency signals?
 When ELT is separate from airplane
-@@When it senses a large change in the ity
-When set the switch on the flight deck position
+@@When it senses a large change in the airplane velocity
+When set the switch on the flight deck to ARMED position
 
-11 When does the ground crew call horn continuous with 1Hz frequency?
+When does the ground crew call horn operates continuous with 1Hz frequency?
 Equipment cooling failure
 Ground crew call from the flight deck
-@@APU fire 11 / 14
+@@APU fire
 
-12 When is the HF communication not transmit?
+When is the HF communication not allowed to transmit?
 During refueling or defueling.
-Personnel are on the surface of the
+Personnel are on the surface of the airplane.
 @@All above are corrected.
 
-13 When service interphone system flight interphone system , how do the send the audio signal?
-@@The AGUs decode the flight interphone send it to the service interphone jacks ACPs decode the service interphone it to the selected flight interphone headsets comm/warning speakers.
-AGUs process all the audio signals which send them to interphone jacks, headsets and comm/warning speakers.
-The ACPs decode the flight interphone send it to the service interphone jacks AGUs decode the service interphone it to the selected flight interphone headsets comm/warning speakers.
+When service interphone system is connected to flight interphone system, how do the AGU and ACP send the audio signal?
+@@The AGUs decode the flight interphone audio and send it to the service interphone jacks whereas The ACPs decode the service interphone audio and send it to the selected flight interphone headsets and comm/warning speakers.
+AGUs process all the audio signals and send to ACPs which send them to interphone jacks, flight interphone headsets and comm/warning speakers.
+The ACPs decode the flight interphone audio and send it to the service interphone jacks whereas the AGUs decode the service interphone audio and send it to the selected flight interphone headsets and comm/warning speakers.
 
-14 Where is the HF antenna?
-Is part of the leading edge of the vertical
+Where is the HF antenna?
+Is part of the leading edge of the vertical fin
 In upper fuselage
 @@In the vertical fin fairing
 
-15 Where is the SELCAL decoder software
+Where is the SELCAL decoder software stored?
 No software
 In the CCR
-@@In the Audio Gateway Units 12 / 14
+@@In the Audio Gateway Units
 
-16 Where is The SRT (Satellite Receiver located?
+Where is The SRT (Satellite Receiver Transmitter) located?
 @@In the AFT equipment center
 In the crown area
 In the FWD equipment center
 
-17 Which audio control panel has a direct face with the P40 panel?
+Which audio control panel has a direct analog interface with the P40 panel?
 @@Capt ACP
 First Obsever ACP
 F/O ACP
 
-18 Which component is contained in nication Management Function?
+Which component is contained in the Data Communication Management Function?
 HF /VHF transceivers
 @@There are no components for DCMF
 The Audio Gateway Units (AGU)
 
-19 Which components do the SELCAL ing) function?
+Which components do the SELCAL (Selective Calling) function?
 SELCAL Decoded Unit
 ACP (Audio Control Panel)
 @@AGU (Audio Gateway Unit)s
 
-20 Which is components lets the flight the flight interphone system?
-Handset, Hand mic, Oxygen mask
+Which is components lets the flight crew speak on the flight interphone system?
+Handset, Hand mic, Oxygen mask and Headsets
 @@Hand mic, Oxygen mask and Headsets
 Hand mic and Headset
 
-21 Which is panel that have service interphone
-P49 panel 13 / 14
+Which is panel that have service interphone jack?
+P49 panel
 Refuel panel
 @@P57 panel
 
-22 You are in the flight deck using the system. Another mechanic has a headset the service interphone jack on the P40 this mechanic, you put the SERV INTPH
-ON.
+You are in the flight deck using the flight interphone system. Another mechanic has a headset connected to the service interphone jack on the P40 panel. To talk to this mechanic, you put the SERV INTPH switch to:
+@@ON.
 OFF.
 Neutral.
 
-23 You are in the flight deck. To call the the first step is to:
-@@Push the CAB button on a tuning control
-Push the COMM button on the EFIS/DISP
+You are in the flight deck. To call the ground crew, the first step is to:
+@@Push the CAB button on a tuning control panel (TCP).
+Push the COMM button on the EFIS/DISP panel.
 Push the FLT button on a TCP.
 
-24 You use the tuning control panel the:
+You use the tuning control panel (TCP) to control the:
 VOR.
 @@VHF radios.
-Data Communication Management 14 / 14
+Data Communication Management Function (DCMF)

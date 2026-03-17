@@ -1,139 +1,139 @@
-1. Center pitot probe heated when?
+Center pitot probe heated when?
 @@An engine is running
 In the air with both engines running.
 Both engines running
 
-2. CIPS is not operated when:
+CIPS is not operated when:
 On the ground
 @@Both A and B
-In the air when the foreign object door is deployed
+In the air when the foreign object damage (FOD) door is deployed
 
-3. EAI bleed air from:
+EAI bleed air from:
 The CAC outlet.
-@@The high-pressure compressor 7th
-The high-pressure compressor 4th
+@@The high-pressure compressor 7th stage.
+The high-pressure compressor 4th stage.
 
-4. EAI Pressure Regulating and Shutoff terfly valve, spring-loaded to close, and by:
+EAI Pressure Regulating and Shutoff Valve is a butterfly valve, spring-loaded to close, and it is opened by:
 Electric.
 Hydraulic.
-Pneumatic.
+@@Pneumatic.
 
-5. Engine Anti-Ice (EAI) system prevents
-Uses electro-thermal heater to heat inlet cowl lip.
-@@Uses engine compressor bleed air of the inlet cowl lip.
-Uses engine turbine hot air to heat inlet cowl lip.
+Engine Anti-Ice (EAI) system prevents ice:
+Uses electro-thermal heater to heat the inside of the inlet cowl lip.
+@@Uses engine compressor bleed air to heat the inside of the inlet cowl lip.
+Uses engine turbine hot air to heat the inside of the inlet cowl lip.
 
-6. Engine Anti-Ice Pressure Regulating Valves (PRSOV) INOP at Main base: 1 / 6
-Allowed to dispatch with PRSOV is
-@@Allowed to dispatch with Inoperative in mid position.
+Engine Anti-Ice Pressure Regulating and Shutoff Valves (PRSOV) INOP at Main base:
+Allowed to dispatch with PRSOV is locked closed.
+@@Allowed to dispatch with Inoperative valve is locked in mid position.
 AOG
 
-7. How do the wipers stow?
-Vertically
+How do the wipers stow?
+@@Vertically
 Be arranged by itself below window.
 Horizontally
 
-8. How to open the PRSOV is a butterfly-type
-Pneumatic
+How to open the PRSOV is a butterfly-type valve?
+@@Pneumatic
 Hydraulic
 Electric
 
-9. How to operate Air data sensors ice tem?
-Monitor the position of the EAI switches panel.
-@@Switch selector on P5
-Automatically.
+How to operate Air data sensors ice protection system?
+Monitor the position of the EAI switches on the P5 panel.
+Switch selector on P5
+@@Automatically.
 
-10. If one heater zone of slat #2 fails:
-@@The zone in the same position on off to keep symmetry.
+If one heater zone of slat #2 fails:
+@@The zone in the same position on the slat 11 is shut off to keep symmetry.
 The EICAS caution message shows.
-The zone in the opposite position on off to keep symmetry.
+The zone in the opposite position on the slat 2 is shut off to keep symmetry.
 
-11. In the air, the CIPS is operated when:
-One EAI switches is set to ON and perature (TAT) is less then 38F (10C)
-One engine anti-ice (EAI) switch on 2 / 6 panel is set to AUTO and the primary system (PIDS) shows an icing condition
+In the air, the CIPS is operated when:
+One EAI switches is set to ON and the total air temperature (TAT) is less then 38F (10C)
+One engine anti-ice (EAI) switch on the ANTI-ICE panel is set to AUTO and the primary ice detection system (PIDS) shows an icing condition
 @@Both A and B
 
-12. Modes of the wing ice protection operation are(is):
+Modes of the wing ice protection system (WIPS) operation are(is):
 1 mode: anti-ice mode.
-@@3 modes: anti-ice, de-icing and limited modes.
+@@3 modes: anti-ice, de-icing and limited anti-ice modes.
 2 modes: anti-ice and de-icing modes.
 
-13. P300 power panel AC-2 SSPC supplies 115v ac to the:
-@@Left FWD window anti-ice heater, Right backup heater and Right side window
-Left FWD window anti-ice heater and dow anti-fog heater.
-Left FWD window anti-ice heater and window backup heater.
+P300 power panel AC-2 SSPC supplies single-phase 115v ac to the:
+@@Left FWD window anti-ice heater, Right FWD window backup heater and Right side window anti-fog heater
+Left FWD window anti-ice heater and Right side window anti-fog heater.
+Left FWD window anti-ice heater and Right FWD window backup heater.
 
-14. TAT sensor heated when?
+TAT sensor heated when?
 Both engines running
 @@The airspeed is more than 50 knots
 An engine is running
 
-15. The air data sensors ice protection electrical heaters are:
-@@Pitot probes, Angle of attack (AOA) probe, Total air temperature (TAT) probe.
+The air data sensors ice protection system uses electrical heaters are:
+@@Pitot probes, Angle of attack (AOA) sensors, P20/T20 probe, Total air temperature (TAT) probe.
 Pitot probes, AOA sensors, TAT probe.
-Pitot probes, AOA sensors, static pressure ports, TAT probe. 3 / 6
+Pitot probes, AOA sensors, static pressure sense ports, TAT probe.
 
-16. The Cabin Air Compressor (CAC) inlet system (CIPS) operates:
-@@In the air, EAI switch is set to AUTO an icing condition.
-In the air when the foreign object door is deployed.
-On the ground, EAI switch is set to shows an icing condition.
+The Cabin Air Compressor (CAC) inlet ice protection system (CIPS) operates:
+@@In the air, EAI switch is set to AUTO and PIDS shows an icing condition.
+In the air when the foreign object damage (FOD) door is deployed.
+On the ground, EAI switch is set to AUTO and PIDS shows an icing condition.
 
-17. The data are used by the processor to decide an icing condition:
-@@Ground speed, Air/ground data, Angle (AOA), Air temperature, Static pressure,
-Moisture, Air/ground data, Angle of temperature, Static pressure.
-Moisture, Ground speed, Air/ground attack (AOA), Air temperature, Static
+The data are used by the processor in the detector to decide an icing condition:
+Ground speed, Air/ground data, Angle of attack (AOA), Air temperature, Static pressure, FCE
+Moisture, Air/ground data, Angle of attack (AOA), Air temperature, Static pressure.
+@@Moisture, Ground speed, Air/ground data, Angle of attack (AOA), Air temperature, Static pressure.
 
-18. The primary ice detection system automated and:
+The primary ice detection system (PIDS) is fully automated and:
 @@Operates in flight.
 Operates on ground or in flight.
 Operates on the ground.
 
-19. The window heat control system in backup mode:
+The window heat control system (WHCS) operates in backup mode:
 @@Supply only forward window anti-fog.
-Supply forward window anti-ice and
+Supply forward window anti-ice and anti-fog.
 Supply only forward window anti-ice.
 
-20. The wing ice protection controller
-8 zone control cards supply AC power rical set of heater mats on the wings 4 / 6
-@@24 zone control cards supply AC power rical set of heater mats on the wings
-8 zone control cards supply AC power rical set of heater mats on the wings
+The wing ice protection controller unit has:
+8 zone control cards supply AC power to a symmetrical set of heater mats on the wings at FDW E/E bay.
+@@24 zone control cards supply AC power to a symmetrical set of heater mats on the wings at AFT E/E bay.
+8 zone control cards supply AC power to a symmetrical set of heater mats on the wings at AFT E/E bay.
 
-21. The wing ice protection system (WIPS)
-@@In flight only, except for maintenance
+The wing ice protection system (WIPS) operates:
+@@In flight only, except for maintenance ground tests.
 In flight only.
 On ground in icing condition.
 
-22. What happen in case of one EAI PRSOV base :
-@@Allow to dispatch with PRSOV is locked tion.
+What happen in case of one EAI PRSOV inop at main base:
+Allow to dispatch with PRSOV is locked in close position.
 A new PRSOV must be replaced.
-Allow to dispatch with PRSOV is locked tion.
+@@Allow to dispatch with PRSOV is locked in mid position.
 
-23. What prevents ice on the inlet to Compressors (CAC)?
+What prevents ice on the inlet to the Cabin Air Compressors (CAC)?
 @@Electric heater
 Air bleed
 No anti-ice
 
-24. Where does the EAI bleed air come
+Where does the EAI bleed air come from:
 LPC 4th stage.
 @@HPC 7th stage.
 The CAC outlet.
 
-25. Which control the Engine Anti-Ice
+Which control the Engine Anti-Ice (EAI) system:
 The EEC.
-@@The common core system (CCS) through 5 / 6 gine data concentrator (MEDC).
+@@The common core system (CCS) through main engine data concentrator (MEDC).
 The EAI controller.
 
-26. Which following leading-edge slats mats?
+Which following leading-edge slats have heater mats?
 Slat 2,3,4,5,6 and 7,8,9,10,11
 @@Slat 2,3,4,5 and 8,9,10,11
 Slats 1,2,3,4 and 9,10,11,12
 
-27. Which slats are heated to prevent
+Which slats are heated to prevent icing?
 All leading edge slats.
 @@2, 3, 4, 5 and 8, 9, 10, 11.
 Inboard leading edge slats.
 
-28. If one heater zone of slat #2 fails:
+If one heater zone of slat #2 fails:
 The EICAS caution message shows.
-@@The zone in the same position on the off to keep symmetry.
-The zone in the opposite position shut off to keep symmetry. 6 / 6
+@@The zone in the same position on the slat # 11 is shut off to keep symmetry.
+The zone in the opposite position on the slat # 2 is shut off to keep symmetry.

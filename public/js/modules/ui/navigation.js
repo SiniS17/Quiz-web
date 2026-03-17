@@ -16,10 +16,29 @@ let currentFolderPath = '';
 let selectedQuizzes = new Set();
 let currentRequestId = 0;
 
+// ===================================
+// VALIDATION CACHE (persists until page refresh)
+// ===================================
+const validationCache = {
+  files:   {},  // filePath  → { valid, reason }
+  folders: {},  // folderPath → { hasInvalid }
+};
+function cacheFileResult(filePath, result)      { validationCache.files[filePath]     = result; }
+function cacheFolderResult(folderPath, hasInvalid) { validationCache.folders[folderPath] = { hasInvalid }; }
+function getCachedFile(filePath)    { return validationCache.files[filePath]     || null; }
+function getCachedFolder(folderPath){ return validationCache.folders[folderPath] || null; }
+
+// ===================================
+// VALIDATION (on-demand only)
+// ===================================
+
 /**
  * Check if a quiz file has valid consecutive line count
  */
 async function validateConsecutiveLines(filePath) {
+  const cached = getCachedFile(filePath);
+  if (cached) return cached;
+
   try {
     const response = await fetch(getQuizFilePath(filePath));
     if (!response.ok) {
@@ -69,7 +88,9 @@ async function validateConsecutiveLines(filePath) {
       reason = `Too few consecutive lines (${minConsecutive} < ${MIN_CONSECUTIVE_LINES})`;
     }
 
-    return { valid, min: minConsecutive, max: maxConsecutive, reason };
+    const result = { valid, min: minConsecutive, max: maxConsecutive, reason };
+    cacheFileResult(filePath, result);
+    return result;
   } catch (error) {
     console.error('Error validating line count:', error);
     return { valid: true, min: 0, max: 0, reason: 'Validation error' };
@@ -77,36 +98,129 @@ async function validateConsecutiveLines(filePath) {
 }
 
 /**
- * Check if a folder contains any invalid quizzes
+ * Recursively check ALL files in a folder and its subfolders.
+ * Caches every result so re-renders are instant.
  */
 async function folderHasInvalidQuizzes(folderPath) {
+  const cached = getCachedFolder(folderPath);
+  if (cached) return cached.hasInvalid;
+
   try {
     const data = await fetchQuizList(folderPath);
 
+    // Check direct files
     const fileChecks = await Promise.all(
-      data.files.map(file => {
+      data.files.map(async file => {
         const filePath = folderPath ? `${folderPath}/${file}` : file;
         return validateConsecutiveLines(filePath);
       })
     );
 
-    if (fileChecks.some(result => !result.valid)) {
-      return true;
-    }
+    // Cache each file result
+    data.files.forEach((file, i) => {
+      const filePath = folderPath ? `${folderPath}/${file}` : file;
+      cacheFileResult(filePath, fileChecks[i]);
+      console.log(`✔ Validated: ${filePath} — valid: ${fileChecks[i].valid}`);
+    });
 
+    // Recurse into subfolders (don't early-exit — we want to cache everything)
     const folderChecks = await Promise.all(
-      data.folders.map(folder => {
-        const fullPath = folderPath ? `${folderPath}/${folder}` : folder;
+      data.folders.map(sub => {
+        const fullPath = folderPath ? `${folderPath}/${sub}` : sub;
         return folderHasInvalidQuizzes(fullPath);
       })
     );
 
-    return folderChecks.some(hasInvalid => hasInvalid);
+    const hasInvalidFiles   = fileChecks.some(r => !r.valid);
+    const hasInvalidFolders = folderChecks.some(Boolean);
+    const result = hasInvalidFiles || hasInvalidFolders;
+    cacheFolderResult(folderPath, result);
+    return result;
   } catch (error) {
     console.error('Error checking folder:', error);
     return false;
   }
 }
+
+/**
+ * Run validation on the ENTIRE quiz tree from root, regardless of current folder.
+ * Caches all results — re-renders will show icons instantly.
+ * Then reapplies icons to whatever is currently visible on screen.
+ */
+async function runValidation(quizGrid, data, folder) {
+  const validateBtn = document.getElementById('validate-btn');
+  if (validateBtn) {
+    validateBtn.disabled = true;
+    validateBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Validating all files...';
+  }
+
+  showNotification('Validating all quiz files...', 'info');
+
+  // Always crawl from root — this populates the full cache
+  await folderHasInvalidQuizzes('');
+
+  // Count total invalids found across the whole tree
+  const invalidFiles   = Object.values(validationCache.files).filter(r => !r.valid).length;
+  const invalidFolders = Object.values(validationCache.folders).filter(r => r.hasInvalid).length;
+  const invalidCount   = invalidFiles;  // folders are derived, only count files
+
+  // Reapply icons to currently visible file boxes
+  data.files.forEach(file => {
+    const filePath   = folder ? `${folder}/${file}` : file;
+    const cached     = getCachedFile(filePath);
+    if (cached && !cached.valid) {
+      const boxes = quizGrid.querySelectorAll('.quiz-box:not(.folder-select)');
+      boxes.forEach(box => {
+        const h3 = box.querySelector('h3');
+        if (h3 && h3.textContent.trim() === file.replace('.txt', '').replace(' (-)', '')) {
+          box.classList.add('quiz-flagged');
+          box.title = cached.reason;
+          if (!box.querySelector('.excess-warning')) {
+            const icon = document.createElement('i');
+            icon.className = 'fas fa-exclamation-triangle excess-warning';
+            icon.title = cached.reason;
+            box.appendChild(icon);
+          }
+        }
+      });
+    }
+  });
+
+  // Reapply icons to currently visible folder boxes
+  data.folders.forEach(folderName => {
+    const fullPath = folder ? `${folder}/${folderName}` : folderName;
+    const cached   = getCachedFolder(fullPath);
+    if (cached && cached.hasInvalid) {
+      const boxes = quizGrid.querySelectorAll('.folder-select');
+      boxes.forEach(box => {
+        const h3 = box.querySelector('h3');
+        if (h3 && h3.textContent.trim() === folderName) {
+          box.classList.add('quiz-flagged');
+          if (!box.querySelector('.excess-warning')) {
+            const icon = document.createElement('i');
+            icon.className = 'fas fa-exclamation-triangle excess-warning';
+            box.appendChild(icon);
+          }
+        }
+      });
+    }
+  });
+
+  if (invalidCount === 0) {
+    showNotification('All files valid! ✓', 'success');
+  } else {
+    showNotification(`Found ${invalidCount} invalid file(s) across all folders — marked in red.`, 'error');
+  }
+
+  if (validateBtn) {
+    validateBtn.disabled = false;
+    validateBtn.innerHTML = '<i class="fas fa-check-circle"></i> Validate Again';
+  }
+}
+
+// ===================================
+// QUIZ LIST
+// ===================================
 
 /**
  * List available quizzes and folders
@@ -116,7 +230,6 @@ export function listQuizzes(folder = '') {
         folder = '';
     }
 
-    // 1. Increment the ID for this new request
     const requestId = ++currentRequestId;
 
     currentFolderPath = folder;
@@ -150,19 +263,16 @@ export function listQuizzes(folder = '') {
 
     fetchQuizList(folder)
         .then(data => {
-            // 2. Only render if this is still the latest request
             if (requestId === currentRequestId) {
                 renderQuizList(data, quizGrid, folder);
             }
         })
         .catch(error => {
-            // 3. Only handle error if this is the latest request
             if (requestId === currentRequestId) {
                 handleQuizListError(error, quizGrid);
             }
         });
 }
-
 
 /**
  * Close all open menus and overlays
@@ -189,27 +299,17 @@ function closeAllOpenMenus() {
   const scoreDisplay = document.getElementById('floating-score-display');
   if (scoreDisplay) {
     scoreDisplay.classList.remove('show');
-    setTimeout(() => {
-      if (scoreDisplay.parentNode) {
-        scoreDisplay.remove();
-      }
-    }, 300);
+    setTimeout(() => { if (scoreDisplay.parentNode) scoreDisplay.remove(); }, 300);
   }
 
   const liveScore = document.getElementById('floating-live-score');
   if (liveScore) {
     liveScore.classList.remove('show');
-    setTimeout(() => {
-      if (liveScore.parentNode) {
-        liveScore.remove();
-      }
-    }, 300);
+    setTimeout(() => { if (liveScore.parentNode) liveScore.remove(); }, 300);
   }
 
   const imageModal = document.getElementById('image-modal');
-  if (imageModal) {
-    imageModal.classList.remove('show');
-  }
+  if (imageModal) imageModal.classList.remove('show');
 
   document.body.style.overflow = 'auto';
 }
@@ -235,7 +335,7 @@ function createBackButton(folder) {
 }
 
 /**
- * Render quiz list in grid
+ * Render quiz list in grid — NO upfront validation
  */
 async function renderQuizList(data, quizGrid, folder) {
   if (data.folders.length === 0 && data.files.length === 0) {
@@ -248,47 +348,66 @@ async function renderQuizList(data, quizGrid, folder) {
   data.folders.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
   data.files.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
 
-  // Check if current folder has files (enable multi-select only if there are files)
   const hasFiles = data.files.length > 0;
 
-  // Validate folders and files in parallel
-  const folderChecks = await Promise.all(
-    data.folders.map(async (folderName) => {
-      const fullPath = folder ? `${folder}/${folderName}` : folderName;
-      const hasInvalid = await folderHasInvalidQuizzes(fullPath);
-      return { folderName, hasInvalid };
-    })
-  );
-
-  const fileChecks = await Promise.all(
-    data.files.map(async (file) => {
-      const filePath = folder ? `${folder}/${file}` : file;
-      const validation = await validateConsecutiveLines(filePath);
-      return { file, validation };
-    })
-  );
-
-  // Render folders (exclude subfolders from multi-select)
-  folderChecks.forEach(({ folderName, hasInvalid }) => {
-    const folderBox = createFolderBox(folderName, folder, hasInvalid);
+  // Render folders — apply cached validation result if available
+  data.folders.forEach((folderName) => {
+    const fullPath   = folder ? `${folder}/${folderName}` : folderName;
+    const cached     = getCachedFolder(fullPath);
+    const hasInvalid = cached ? cached.hasInvalid : false;
+    const folderBox  = createFolderBox(folderName, folder, hasInvalid);
     quizGrid.appendChild(folderBox);
     addFadeInAnimation(folderBox);
   });
 
-  // Render files with checkboxes if in a folder with files
-  fileChecks.forEach(({ file, validation }) => {
-    const quizBox = createQuizBox(file, folder, validation, hasFiles);
+  // Render files — apply cached validation result if available
+  data.files.forEach((file) => {
+    const filePath  = folder ? `${folder}/${file}` : file;
+    const cached    = getCachedFile(filePath);
+    const validation = cached || { valid: true };
+    const quizBox   = createQuizBox(file, folder, validation, hasFiles);
     quizGrid.appendChild(quizBox);
     addFadeInAnimation(quizBox);
   });
 
-  // Add "Start Multi-Quiz" button if files are present
+  // Add multi-quiz button if files present
   if (hasFiles) {
     createMultiQuizButton(quizGrid, folder);
   }
 
+  // Add validate button at the bottom
+  createValidateButton(quizGrid, data, folder);
+
   enableAllControlsAfterLoad();
   hideLoading();
+}
+
+/**
+ * Create the on-demand validate button
+ */
+function createValidateButton(quizGrid, data, folder) {
+  const container = document.createElement('div');
+  container.style.cssText = `
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: center;
+    margin-top: 0.5rem;
+  `;
+
+  const btn = document.createElement('button');
+  btn.id = 'validate-btn';
+  btn.className = 'secondary-btn';
+  btn.innerHTML = '<i class="fas fa-clipboard-check"></i> Validate Files';
+  btn.style.cssText = `
+    padding: 0.6rem 1.25rem;
+    font-size: 0.85rem;
+    opacity: 0.75;
+  `;
+
+  btn.onclick = () => runValidation(quizGrid, data, folder);
+
+  container.appendChild(btn);
+  quizGrid.appendChild(container);
 }
 
 /**
@@ -338,14 +457,11 @@ function createQuizBox(file, folder, validation, showCheckbox = false) {
   quizBox.style.position = 'relative';
 
   let warningIcon = '';
-  let warningTitle = '';
-
   if (isInvalid) {
-    warningTitle = validation.reason;
-    warningIcon = `<i class="fas fa-exclamation-triangle excess-warning" title="${warningTitle}"></i>`;
+    quizBox.title = validation.reason;
+    warningIcon = `<i class="fas fa-exclamation-triangle excess-warning" title="${validation.reason}"></i>`;
   }
 
-  // Add checkbox if multi-select is enabled
   let checkboxHTML = '';
   if (showCheckbox) {
     checkboxHTML = `
@@ -376,11 +492,6 @@ function createQuizBox(file, folder, validation, showCheckbox = false) {
     ${warningIcon}
   `;
 
-  if (isInvalid) {
-    quizBox.title = warningTitle;
-  }
-
-  // Handle checkbox change
   if (showCheckbox) {
     const checkbox = quizBox.querySelector('.quiz-checkbox');
     checkbox.addEventListener('change', (e) => {
@@ -395,14 +506,9 @@ function createQuizBox(file, folder, validation, showCheckbox = false) {
       updateMultiQuizButton();
     });
 
-    // Handle box click in multi-select mode
     quizBox.onclick = (e) => {
-      // If clicking the checkbox itself, let it handle naturally
-      if (e.target.classList.contains('quiz-checkbox')) {
-        return;
-      }
+      if (e.target.classList.contains('quiz-checkbox')) return;
 
-      // If ANY quiz is selected, prevent single quiz start
       if (selectedQuizzes.size > 0) {
         e.preventDefault();
         e.stopPropagation();
@@ -410,14 +516,11 @@ function createQuizBox(file, folder, validation, showCheckbox = false) {
         return;
       }
 
-      // No quizzes selected - allow normal single quiz start
-      // Use URL routing
       const fullPath = folder ? `${folder}/${file}` : file;
       window.location.hash = `#/quiz/${fullPath.split('/').map(encodeURIComponent).join('/')}`;
     };
   } else {
-    // No checkbox mode - normal single quiz start
-    quizBox.onclick = (e) => {
+    quizBox.onclick = () => {
       const fullPath = folder ? `${folder}/${file}` : file;
       window.location.hash = `#/quiz/${fullPath.split('/').map(encodeURIComponent).join('/')}`;
     };
@@ -491,61 +594,40 @@ async function startMultiQuiz(filePaths, folder) {
   disableAllControlsDuringLoad();
 
   try {
-    let allQuestions = [];
     let questionsWithBanks = [];
 
-    // Fetch and parse all selected quizzes with bank tracking
     for (const filePath of filePaths) {
       const text = await fetchQuizContent(filePath);
       const lines = text.split('\n');
       const questions = parseQuestions(lines);
 
-      // Extract bank name from file path (keep it short for display)
       const bankName = filePath.split('/').pop().replace('.txt', '').substring(0, 15);
-
-      // Tag each question with its bank name
       questions.forEach(q => {
         questionsWithBanks.push({ text: q, bank: bankName });
       });
     }
 
-    allQuestions = questionsWithBanks;
-
-    if (allQuestions.length === 0) {
+    if (questionsWithBanks.length === 0) {
       showNotification('No questions found in selected quizzes', 'error');
       enableAllControlsAfterLoad();
       hideLoading();
       return;
     }
 
-    // Recount levels for the COMBINED question array
-    recountLevelsForQuestions(allQuestions);
-
-    // Set a combined filename for state tracking
+    recountLevelsForQuestions(questionsWithBanks);
     setSelectedFileName(`Combined (${filePaths.length} quizzes)`);
     setCurrentFolder(folder || '');
-
-    // Store bank info in quiz state
     updateQuizState({ bankInfo: questionsWithBanks.map(q => q.bank) });
-
-    // Update title
     updateQuizTitle(`Combined Quiz (${filePaths.length} banks)`);
 
-    // Hide quiz selection and show controls
     hideQuizSelection();
     showTopControls();
-
-    // Update quiz info
-    updateQuizInfo(allQuestions.length);
-
-    // Create level checkboxes and question count input
+    updateQuizInfo(questionsWithBanks.length);
     createTopLevelCheckboxes();
-    setupTopQuestionCountInput(allQuestions);
+    setupTopQuestionCountInput(questionsWithBanks);
+    displayQuestions(questionsWithBanks);
 
-    // Display questions
-    displayQuestions(allQuestions);
-
-    showNotification(`Combined ${allQuestions.length} questions from ${filePaths.length} quizzes!`, 'success');
+    showNotification(`Combined ${questionsWithBanks.length} questions from ${filePaths.length} quizzes!`, 'success');
   } catch (error) {
     console.error('Error loading combined quiz:', error);
     showNotification('Error loading combined quiz. Please try again.', 'error');
@@ -560,9 +642,7 @@ async function startMultiQuiz(filePaths, folder) {
 function updateQuizInfo(questionCount) {
   const maxQuestionsInfo = document.getElementById('max-questions-info');
   if (maxQuestionsInfo) {
-    maxQuestionsInfo.innerHTML = `
-      <strong>Total questions: ${questionCount}</strong>
-    `;
+    maxQuestionsInfo.innerHTML = `<strong>Total questions: ${questionCount}</strong>`;
   }
 }
 
@@ -572,12 +652,9 @@ function updateQuizInfo(questionCount) {
 function initializeQuiz(fileName, folder) {
   showLoading();
   disableAllControlsDuringLoad();
-
   setCurrentFolder(folder || '');
-
   hideQuizSelection();
   showQuizSettings();
-
   loadQuiz(fileName);
 }
 
@@ -586,12 +663,10 @@ function initializeQuiz(fileName, folder) {
  */
 export function goBackToFolder() {
   const folder = getCurrentFolder();
-
   showConfirmDialog(
     'Return to Folder?',
-    `Are you sure you want to go back to the quiz selection? Your current progress will be lost.`,
+    'Are you sure you want to go back to the quiz selection? Your current progress will be lost.',
     () => {
-      // Replaced listQuizzes with hash navigation
       if (!folder) {
         window.location.hash = '#/';
       } else {
@@ -611,10 +686,8 @@ export function goHomeWithConfirmation() {
   if (hasActiveQuiz) {
     showConfirmDialog(
       'Return to Home?',
-      `Are you sure you want to return to the main menu? Your current progress will be lost.`,
-      () => {
-        window.location.hash = '#/';
-      }
+      'Are you sure you want to return to the main menu? Your current progress will be lost.',
+      () => { window.location.hash = '#/'; }
     );
   } else {
     window.location.hash = '#/';
@@ -628,63 +701,29 @@ function showConfirmDialog(title, message, onConfirm) {
   const overlay = document.createElement('div');
   overlay.className = 'confirm-overlay';
   overlay.style.cssText = `
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(5px);
-    z-index: 10000;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.5); backdrop-filter: blur(5px);
+    z-index: 10000; display: flex; align-items: center; justify-content: center;
     animation: fadeIn 0.2s ease;
   `;
 
   const modal = document.createElement('div');
-  modal.className = 'confirm-modal';
   modal.style.cssText = `
-    background: white;
-    border-radius: 12px;
-    padding: 2rem;
-    max-width: 400px;
-    width: 90%;
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-    animation: slideUp 0.3s ease;
+    background: white; border-radius: 12px; padding: 2rem;
+    max-width: 400px; width: 90%;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3); animation: slideUp 0.3s ease;
   `;
 
   modal.innerHTML = `
-    <div style="margin-bottom: 1.5rem;">
-      <h3 style="margin: 0 0 0.5rem 0; color: var(--text-primary); font-size: 1.25rem; display: flex; align-items: center; gap: 0.5rem;">
-        <i class="fas fa-exclamation-triangle" style="color: var(--warning-color);"></i>
-        ${title}
+    <div style="margin-bottom:1.5rem;">
+      <h3 style="margin:0 0 0.5rem 0;color:var(--text-primary);font-size:1.25rem;display:flex;align-items:center;gap:0.5rem;">
+        <i class="fas fa-exclamation-triangle" style="color:var(--warning-color);"></i>${title}
       </h3>
-      <p style="margin: 0; color: var(--text-secondary); font-size: 0.95rem; line-height: 1.5;">
-        ${message}
-      </p>
+      <p style="margin:0;color:var(--text-secondary);font-size:0.95rem;line-height:1.5;">${message}</p>
     </div>
-    <div style="display: flex; gap: 0.75rem; justify-content: flex-end;">
-      <button class="cancel-btn" style="
-        padding: 0.75rem 1.5rem;
-        border: 1px solid var(--border-color);
-        background: white;
-        color: var(--text-primary);
-        border-radius: 8px;
-        font-weight: 500;
-        cursor: pointer;
-        transition: all 0.2s ease;
-      ">Cancel</button>
-      <button class="confirm-btn" style="
-        padding: 0.75rem 1.5rem;
-        border: none;
-        background: var(--primary-color);
-        color: white;
-        border-radius: 8px;
-        font-weight: 600;
-        cursor: pointer;
-        transition: all 0.2s ease;
-      ">Go Back</button>
+    <div style="display:flex;gap:0.75rem;justify-content:flex-end;">
+      <button class="cancel-btn" style="padding:0.75rem 1.5rem;border:1px solid var(--border-color);background:white;color:var(--text-primary);border-radius:8px;font-weight:500;cursor:pointer;">Cancel</button>
+      <button class="confirm-btn" style="padding:0.75rem 1.5rem;border:none;background:var(--primary-color);color:white;border-radius:8px;font-weight:600;cursor:pointer;">Go Back</button>
     </div>
   `;
 
@@ -694,128 +733,66 @@ function showConfirmDialog(title, message, onConfirm) {
   const cancelBtn = modal.querySelector('.cancel-btn');
   const confirmBtn = modal.querySelector('.confirm-btn');
 
-  cancelBtn.onmouseover = () => cancelBtn.style.background = 'var(--bg-secondary)';
-  cancelBtn.onmouseout = () => cancelBtn.style.background = 'white';
-  confirmBtn.onmouseover = () => confirmBtn.style.background = 'var(--primary-dark)';
-  confirmBtn.onmouseout = () => confirmBtn.style.background = 'var(--primary-color)';
+  cancelBtn.onclick = () => { overlay.style.animation = 'fadeOut 0.2s ease'; setTimeout(() => overlay.remove(), 200); };
+  confirmBtn.onclick = () => { overlay.style.animation = 'fadeOut 0.2s ease'; setTimeout(() => { overlay.remove(); onConfirm(); }, 200); };
+  overlay.onclick = (e) => { if (e.target === overlay) cancelBtn.click(); };
 
-  cancelBtn.onclick = () => {
-    overlay.style.animation = 'fadeOut 0.2s ease';
-    setTimeout(() => overlay.remove(), 200);
-  };
-
-  confirmBtn.onclick = () => {
-    overlay.style.animation = 'fadeOut 0.2s ease';
-    setTimeout(() => {
-      overlay.remove();
-      onConfirm();
-    }, 200);
-  };
-
-  overlay.onclick = (e) => {
-    if (e.target === overlay) {
-      cancelBtn.click();
-    }
-  };
-
-  const escapeHandler = (e) => {
-    if (e.key === 'Escape') {
-      cancelBtn.click();
-      document.removeEventListener('keydown', escapeHandler);
-    }
-  };
+  const escapeHandler = (e) => { if (e.key === 'Escape') { cancelBtn.click(); document.removeEventListener('keydown', escapeHandler); } };
   document.addEventListener('keydown', escapeHandler);
 }
 
-// UI helper functions
+// ===================================
+// UI HELPERS
+// ===================================
 function updateQuizTitle(title) {
-  const titleElement = document.getElementById('quiz-title');
-  if (titleElement) {
-    titleElement.textContent = title;
-  }
+  const el = document.getElementById('quiz-title');
+  if (el) el.textContent = title;
 }
 
 function clearQuizContainer() {
   const container = document.getElementById('quiz-container');
-  if (container) {
-    container.innerHTML = '';
-    container.className = '';
-  }
+  if (container) { container.innerHTML = ''; container.className = ''; }
 }
 
 function hideTopControls() {
-  const leftSidebar = document.getElementById('left-sidebar');
-  const mainContent = document.querySelector('.main-content');
-  const quizInterface = document.querySelector('.quiz-interface');
-  const controlFab = document.getElementById('control-fab');
-  const sidebarFab = document.getElementById('sidebar-fab');
+  const leftSidebar  = document.getElementById('left-sidebar');
+  const mainContent  = document.querySelector('.main-content');
+  const controlFab   = document.getElementById('control-fab');
+  const sidebarFab   = document.getElementById('sidebar-fab');
 
-  if (controlFab) {
-    controlFab.classList.remove('active');
-    controlFab.style.display = 'none';
-  }
-  if (sidebarFab) {
-    sidebarFab.classList.remove('active');
-    sidebarFab.style.display = 'none';
-  }
-  if (leftSidebar) {
-    leftSidebar.style.display = 'none';
-    leftSidebar.classList.remove('mobile-visible');
-  }
+  if (controlFab)  { controlFab.classList.remove('active');  controlFab.style.display = 'none'; }
+  if (sidebarFab)  { sidebarFab.classList.remove('active');  sidebarFab.style.display = 'none'; }
+  if (leftSidebar) { leftSidebar.style.display = 'none'; leftSidebar.classList.remove('mobile-visible'); }
   if (mainContent) mainContent.classList.remove('with-sidebar');
-  if (quizInterface) quizInterface.classList.remove('with-controls');
 }
 
 function hideQuizControls() {
   const controlPanel = document.getElementById('control-panel');
   const panelOverlay = document.getElementById('panel-overlay');
+  const controlFab   = document.getElementById('control-fab');
+  const sidebarFab   = document.getElementById('sidebar-fab');
 
-  if (controlPanel) {
-    controlPanel.classList.remove('open');
-    controlPanel.setAttribute('aria-hidden', 'true');
-  }
-
-  if (panelOverlay) {
-    panelOverlay.classList.remove('visible');
-  }
-
-  const controlFab = document.getElementById('control-fab');
-  const sidebarFab = document.getElementById('sidebar-fab');
-
-  if (controlFab) {
-    controlFab.classList.remove('active');
-    controlFab.style.display = 'none';
-  }
-
-  if (sidebarFab) {
-    sidebarFab.classList.remove('active');
-    sidebarFab.style.display = 'none';
-  }
+  if (controlPanel) { controlPanel.classList.remove('open'); controlPanel.setAttribute('aria-hidden', 'true'); }
+  if (panelOverlay) panelOverlay.classList.remove('visible');
+  if (controlFab)   { controlFab.classList.remove('active');  controlFab.style.display = 'none'; }
+  if (sidebarFab)   { sidebarFab.classList.remove('active');  sidebarFab.style.display = 'none'; }
 
   document.body.style.overflow = 'auto';
 }
 
 function showQuizSelection() {
   const selection = document.getElementById('quiz-list-container');
-  if (selection) {
-    selection.style.display = 'block';
-    addFadeInAnimation(selection);
-  }
+  if (selection) { selection.style.display = 'block'; addFadeInAnimation(selection); }
 }
 
 function hideQuizSelection() {
   const selection = document.getElementById('quiz-list-container');
-  if (selection) {
-    selection.style.display = 'none';
-  }
+  if (selection) selection.style.display = 'none';
 }
 
 function showQuizSettings() {
   const settings = document.getElementById('quiz-settings');
-  if (settings) {
-    settings.style.display = 'block';
-    addFadeInAnimation(settings);
-  }
+  if (settings) { settings.style.display = 'block'; addFadeInAnimation(settings); }
 }
 
 // Make functions available globally
@@ -825,5 +802,4 @@ if (typeof window !== 'undefined') {
   window.goHomeWithConfirmation = goHomeWithConfirmation;
 }
 
-// Export for use in other modules
 export { updateQuizTitle, clearQuizContainer, initializeQuiz };

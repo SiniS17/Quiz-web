@@ -1,104 +1,104 @@
-1. On the B787 -9 which of the following
-Compact mixer receives trim air from pressure regulator valve.
-@@Compact mixer receives chilled air recirculation heat exchanger.
-Compact mixer sends air mixed with plenum/manifold.
+On the B787 -9 which of the following is correct:
+Compact mixer receives trim air from the trim air pressure regulator valve.
+@@Compact mixer receives chilled air from the lower recirculation heat exchanger.
+Compact mixer sends air mixed with trim air to the plenum/manifold.
 
-2. On the B787 -9 which of the following
-The upper recirculation fan removes passenger cabin crown area and sends bay area
-The two upper recirculation fans remove the passenger cabin crown area and cabin distribution ducts.
-@@The upper recirculation fan removes passenger cabin crown area and sends distribution ducts.
+On the B787 -9 which of the following is correct:
+The upper recirculation fan removes air from the passenger cabin crown area and sends it to the mix bay area.
+The two upper recirculation fans remove air from the passenger cabin crown area and sends it to the cabin distribution ducts.
+@@The upper recirculation fan removes air from the passenger cabin crown area and sends it to the cabin distribution ducts.
 
-3. On the B787-10 which of the following
-Compact mixer sends air mixed with plenum/manifold.
-Compact mixer receives chilled air recirculation heat exchanger.
+On the B787-10 which of the following is correct:
+Compact mixer sends air mixed with trim air to the plenum/manifold.
+Compact mixer receives chilled air from the lower recirculation heat exchanger.
 @@There is no compact mixer.
 
-4. On the B787-10 which of the following
-@@The two upper recirculation fans remove passenger cabin crown area and sends distribution ducts.
-The upper recirculation fan removes passenger cabin crown area and sends 1 / 6 bay area.
-There is one upper recirculation fan from the passenger cabin crown area the cabin distribution ducts.
+On the B787-10 which of the following is correct:
+@@The two upper recirculation fans remove air from the passenger cabin crown area and sends it to the cabin distribution ducts.
+The upper recirculation fan removes air from the passenger cabin crown area and sends it to the mix bay area.
+There is one upper recirculation fan removes air from the passenger cabin crown area and sends it to the cabin distribution ducts.
 
-5. On the B787-10, which of the following
-@@The lower recirculation air high flow (HFSOV) closes when the pack control es lower recirculation air flow is too much compact mixer operation.
-The lower recirculation air high flow (HFSOV) closes automatically to prevent pressure because of downstream break recirculation ducts.
-There is no lower recirculation air valve (HFSOV).
+On the B787-10, which of the following is correct:
+The lower recirculation air high flow shutoff valve (HFSOV) closes when the pack control unit (PCU) senses lower recirculation air flow is too much for correct compact mixer operation.
+The lower recirculation air high flow shutoff valve (HFSOV) closes automatically to prevent loss of cabin pressure because of downstream break in the lower recirculation ducts.
+@@There is no lower recirculation air high flow shutoff valve (HFSOV).
 
-6. The ATRU part numbers for the B787-9, B787-10:
-@@Are different and the ATRU part number 787-10 is backward compatible to the
-Are different and the ATRU part number 787-9 is backward compatible to the
+The ATRU part numbers for the B787-9, and B787-10:
+@@Are different and the ATRU part number for the 787-10 is backward compatible to the 787-9.
+Are different and the ATRU part number for the 787-9 is backward compatible to the 787-8.
 Are the same.
 
-7. The Common Motor Start Controller B787-9 and B787-10:
-Are not interchangeable
-@@Are not interchangeable but CMSC is backward compatible to the B787-9
-Are interchangeable 8. 2 / 6
+The Common Motor Start Controller (CMSC) for the B787-9 and B787-10:
+@@Are not interchangeable
+Are not interchangeable but CMSC for the B787-10 is backward compatible to the B787-9
+Are interchangeable
 
-The Trailing Edge Variable Camber what statement is true?
-TEVC Load Alleviation (TEVC-LA) operates climb phases of flight for the B787-10
-TEVC Drag Reduction (TEVC-DR) operates climb phases of flight.
-@@TEVC Load Alleviation (TEVC-LA) operates climb phases of flight and TEVC Drag (TEVC-DR) operates in cruise flight for
+The Trailing Edge Variable Camber (TEVC) system, what statement is true?
+TEVC Load Alleviation (TEVC-LA) operates during climb phases of flight for the B787-10.
+TEVC Drag Reduction (TEVC-DR) operates during climb phases of flight.
+@@TEVC Load Alleviation (TEVC-LA) operates during climb phases of flight and TEVC Drag Reduction (TEVC-DR) operates in cruise flight for the B787-8, -9.
 
-9. What are difference in dimension and B787-10:
+What are difference in dimension between B787-9 and B787-10:
 Wingspan
 Vertical fin height
 @@Fuselage length
 
-10. What are difference in flight control tween B787-9 and B787-10?
-B787-10 has removed EDAS from vertical
-@@B787-10 has removed EDAS from horizontal er
+What are difference in flight control system between B787-9 and B787-10?
+B787-10 has removed EDAS from vertical stabilizer
+@@B787-10 has removed EDAS from horizontal stabilizer
 The same
 
-11. What are difference in landing gear tween B787-9 and B787-10?
+What are difference in landing gear system between B787-9 and B787-10?
 Landing gear shock strut
 @@Semi levered main landing gear
 Nothing
 
-12. What are difference in passenger bility between B787-9 and B787-10?
-The same 3 / 6
+What are difference in passenger and cargo capability between B787-9 and B787-10?
+The same
 B787-10 has less capability
 @@B787-10 has more capability
 
-13. What are difference in passenger tween B787-9 and B787-10?
+What are difference in passenger door system between B787-9 and B787-10?
+@@The same
+B787-9 has 02 more Pax door
+Because fuselage longer, so B787-10 has 02 more pax door
+
+What are differences in ICS system between B787-9 and B787-10?
+B787-10 has added 01 more ICS pack pump
+@@B787-10 has add 01 more ICS auxiliary reservoir.
 The same
-@@B787-9 has 02 more Pax door
-Because fuselage longer, so B787-10 pax door
 
-14. What are differences in ICS system and B787-10?
-B787-10 has added 01 more ICS pack
-@@B787-10 has add 01 more ICS auxiliary
+What are differences in lower recirculation fan system between B787-9 and B787-10?
+B787-10 has added 01 more recirculation fan to mix bay
 The same
+@@B787-10 has relocated from pack bay to mix bay
 
-15. What are differences in lower recirculation tem between B787-9 and B787-10?
-B787-10 has added 01 more recirculation bay
+What are differences in lower recirculation heat exchanger system between B787-9 and B787-10?
+B787-10 has added 01 more heat exchanger to mix bay
 The same
-@@B787-10 has relocated from pack bay
+@@B787-10 has relocated heat exchanger from pack bay to mix bay
 
-16. What are differences in lower recirculation exchanger system between B787-9 and
-B787-10 has added 01 more heat bay
+What are differences in upper recirculation system between B787-9 and B787-10?
+@@B787-10 has added 01 more recirculation fan
 The same
-@@B787-10 has relocated heat exchanger bay to mix bay
+B787-10 has removed 01 recirculation fan
 
-17. What are differences in upper recirculation between B787-9 and B787-10? 4 / 6
-@@B787-10 has added 01 more recirculation
-The same
-B787-10 has removed 01 recirculation
+What is the function of the semi-levered gear?
+The Semi-Levered Gear (SLG) improves takeoff performance by decreasing the height of the landing gear during airplane liftoff.
+The Semi-Levered Gear (SLG) keeps the height of the landing gear not change during airplane liftoff.
+@@The Semi-Levered Gear (SLG) improves takeoff performance by increasing the height of the landing gear during airplane lift-off.
 
-18. What is the function of the semi-levered
-@@The Semi-Levered Gear (SLG) improves formance by decreasing the height of during airplane liftoff.
-The Semi-Levered Gear (SLG) keeps landing gear not change during airplane
-The Semi-Levered Gear (SLG) improves formance by increasing the height of during airplane lift-off.
+What're different between B787 -9 -10:
+@@Are same fuselage diameter, same wing span, difference fuselage length.
+Are same fuselage diameter, same fuselage length, and same wing span.
+Are same wing span, differences fuselage diameter and fuselage length.
 
-19. What're different between B787
-Are same fuselage diameter, same ence fuselage length.
-@@Are same fuselage diameter, same and same wing span.
-Are same wing span, differences fuselage and fuselage length.
-
-20. Where can You find The Empennage tion System (EDAS):
-On the vertical and horizontal stabilizers B787-10
-@@On the vertical and horizontal stabilizers B787-9
+Where can You find The Empennage Door Actuation System (EDAS):
+On the vertical and horizontal stabilizers of the B787-10
+@@On the vertical and horizontal stabilizers of the B787-9
 On the B787-8
 
-21. Which statement is NOT correct?
-@@On B787-10, there are 2 fuel vent valves in the vent tubes between the 5 / 6 and the right surge tank to help keep riched Air (NEA) concentration high.
-On B787-9, there are 2 fuel vent crossflow valves in the vent channels in the right help keep Nitrogen Enriched Air (NEA) high.
-On B787-8, there are 2 fuel vent crossflow valves in the vent tubes between the and the right surge tank to help keep riched Air (NEA) concentration high. 6 / 6
+Which statement is NOT correct?
+@@On B787-10, there are 2 fuel vent crossflow check valves in the vent tubes between the right main tank and the right surge tank to help keep Nitrogen Enriched Air (NEA) concentration high.
+On B787-9, there are 2 fuel vent crossflow check valves in the vent channels in the right surge tank to help keep Nitrogen Enriched Air (NEA) concentration high.
+On B787-8, there are 2 fuel vent crossflow check valves in the vent tubes between the right main tank and the right surge tank to help keep Nitrogen Enriched Air (NEA) concentration high.

@@ -1,595 +1,609 @@
-1. A fully charged main battery is when
-Main battery is charging for 90 minutes
-@@The DC-V value is 31 or more and than 5 and charging (CHG)
-The DC-V value is 28 or more and DC-A than 5 and discharging (DIS)
+A fully charged main battery is when
+Main battery is charging for 90 minutes and more
+@@The DC-V value is 31 or more and DC-A value is less than 5 and charging (CHG)
+The DC-V value is 28 or more and DC-A value is more than 5 and discharging (DIS)
 
-2. A function of the CRN (Current Return
-@@Supplies a return path for ac and from the loads to the sources
-Increases EME (Electromagnet Energy) (High Intensity Radiation Frequency)
-Lightning protection for Mail landing landing gear Door
+A function of the CRN (Current Return Network) is:
+@@Supplies a return path for ac and dc fault currents from the loads to the sources
+Increases EME (Electromagnet Energy) and HIRF (High Intensity Radiation Frequency) effects
+Lightning protection for Mail landing gear and Main landing gear Door
 
-3. AFTer arrival, you found the main you will:
-@@Remove the main battery, main battery main battery enclosure, main battery ket, main battery charger, main battery burst disk indicator and vent tube assembly spect and replace as required.
+AFTer arrival, you found the main battery has event, you will:
+@@Remove the main battery, main battery heat shield, main battery enclosure, main battery insulation blanket, main battery charger, main battery enclosure burst disk indicator and vent tube assembly for inspect and replace as required.
 Reset the event battery.
-Replace the new main battery, battery the main battery enclosure burst disk
+Replace the new main battery, battery charger and the main battery enclosure burst disk indicator.
 
-4. How are the CMSCs (Common Motor troller) and ATRUs (Auto Transformer cooled?
-The air conditioning system processes plies cooling fluid to cool the CMSCs
-@@The PECS (Power Electronics Cooling 1 / 29 air to cool the CMSCs and the ATRUs.
-The 2 forward EE cooling supply fans cool the CMSCs and the ATRUs.
+How are the CMSCs (Common Motor Starter Controller) and ATRUs (Auto Transformer Rectifier Unit) cooled?
+The air conditioning system processes to make supplies cooling fluid to cool the CMSCs and the ATRU.
+@@The PECS (Power Electronics Cooling System) cool air to cool the CMSCs and the ATRUs.
+The 2 forward EE cooling supply fans move air to cool the CMSCs and the ATRUs.
 
-5. How do the common motor start SCs) cool?
-@@The CMSCs are cooled by liquid b) cooled by air
+How do the common motor start controllers (CMSCs) cool?
+@@The CMSCs are cooled by liquid
+The CMSCs are cooled by air
 The CMSCs are cooled by oil
 
-6. How is the maximum amount of power external power connector can use
-90KVA
+How is the maximum amount of power a forward external power connector can use
+@@90KVA
 180KVA
 120KVA
 
-7. How many External POWER source
-@@3External POWER source: 2 forward
-3External POWER source: Left, Right
-2External POWER source: 1 forward
+How many External POWER source on B787
+@@3 External POWER source: 2 forward and 1 AFT
+3 External POWER source: Left, Right and Center
+2 External POWER source: 1 forward and 1 AFT
 
-8. How many main 115v ac bus are System
-There are 03 L 115v ac bus , R 115v 115v ac bus
-@@There are 02 L 115v ac bus and R
-There are 04 L1/l2 115v ac bus and bus
+How many main 115v ac bus are there on Electrical System
+There are 03 L 115v ac bus, R 115v ac bus and C 115v ac bus
+@@There are 02 L 115v ac bus and R 115v ac bus
+There are 04 L1/l2 115v ac bus and R1/R2 115v ac bus
 
-9. How many modules are there in each mote Power Distribution Unit)?
-There are 02 microprocessor modules 03 AC modules and 03 DC modules. 2 / 29
-@@There are 02 microprocessor modules 01 to 06 AC modules and DC modules.
-There are 02 microprocessor modules 16 AC modules and DC modules.
+How many modules are there in each RPDU (Remote Power Distribution Unit)?
+There are 02 microprocessor modules for control, 03 AC modules and 03 DC modules.
+@@There are 02 microprocessor modules for control, 01 to 06 AC modules and DC modules.
+There are 02 microprocessor modules for control, 16 AC modules and DC modules.
 
-1. How many oil heat exchangers do able Frequency Starter Generator) have?
-@@For one engine, 02 VFSGs have 02 (Air/Oil Heat Exchanger) and a FOHE Exchanger).
-For one engine, 02 VFSGs have 02 (Air/Oil Heat Exchanger) and 02 FOHEs Exchanger).
-For one engine, each VFSG has a (Air/Oil Heat Exchanger) and a FOHE Exchanger).
+How many oil heat exchangers do the VFSGs (Variable Frequency Starter Generator) have?
+@@For one engine, 02 VFSGs have 02 different AOHEs (Air/Oil Heat Exchanger) and a FOHE (Fuel/Oil Heat Exchanger).
+For one engine, 02 VFSGs have 02 different AOHEs (Air/Oil Heat Exchanger) and 02 FOHEs (Fuel/Oil Heat Exchanger).
+For one engine, each VFSG has a different AOHE (Air/Oil Heat Exchanger) and a FOHE (Fuel/Oil Heat Exchanger).
 
-2. How many PMG (Permanent Magnet inside VFSG?
+How many PMG (Permanent Magnet Generator) inside VFSG?
 2
-3
+@@3
 5
 
-3. How many the gateway RPDU processor are there on AC
+How many the gateway RPDU processor modules are there on AC
 Three
 Two
-Four
+@@Four
 
-4. How many the secondary power distribution are there on AC
-Two 3 / 29
+How many the secondary power distribution units are there on AC
+@@Two
 One
 Three
 
-5. How many types does the electric (ELCU) have
-@@One: ELCU P (protection)
-Two: ELCU C (communication) - ELCU
-Three: ELCU C (communication) - ELCU - ELCU CTR (control)
+How many types does the electric load control units (ELCU) have
+One: ELCU P (protection)
+@@Two: ELCU C (communication) - ELCU P (protection)
+Three: ELCU C (communication) - ELCU P (protection) - ELCU CTR (control)
 
-6. How to do a software installation power control unit (L BPCU) in P300
-@@By Left Engine power energized
-By APU power energized
+How to do a software installation in the left bus power control unit (L BPCU) in P300
+By Left Engine power energized
+@@By APU power energized
 By forward external power energized
 
-7. How to start the engine with external sources
+How to start the engine with external power sources
 Use One external power source
 @@Use 2 forward external power sources
-Use One forward and one AFT power
+Use One forward and one AFT power source
 
-8. If an engine starts, some ground not receive power because:
-Some ground activities do not occur gine is running
-Some ground handling loads are receive variable frequency power
+If an engine starts, some ground handling loads do not receive power because:
+Some ground activities do not occur when an engine is running
+Some ground handling loads are not designed to receive variable frequency power
 @@A and B are correct
 
-9. If external power is connected to the ward receptacle, when does BPCU (Bus Units) close the forward EPC (external 4 / 29 tor)?
-@@When the power quality monitored good.
-When the power quality monitored good.
-When left or right FWD EXT PWR switch
+If external power is connected to the left or right forward receptacle, when does BPCU (Bus Power Control Units) close the forward EPC (external power contactor)?
+When the power quality monitored by L2 GCU is good.
+@@When the power quality monitored by BPCU is good.
+When left or right FWD EXT PWR switch is pushed.
 
-10. If the OFF light in the APU GEN L what does it indicate?
+If the OFF light in the APU GEN L switches shows, what does it indicate?
 The L ASG is fail
-@@The L ASG is not supplying power
-The L APU generator control unit
+@@The L ASG is not supplying power to the airplane
+The L APU generator control unit (GCU) is fail
 
-11. If the parking brake is set and you remove the main battery, you can:
+If the parking brake is set and you disconnect or remove the main battery, you can:
 Release the parking brake.
 @@Not release the parking brake.
 Release with APU Battery available.
 
-12. If the ram air turbine (RAT) is the 235v ac, which TRUs will get power
+If the ram air turbine (RAT) is the only source of 235v ac, which TRUs will get power
 R TRU
 L TRU
 @@C1 TRU
 
-13. If the VFSG is disconnected during operation?
-@@The VFSG must be swapped with VFSG
-The VFSG can be re service when
-The VFSG must be replaced
+If the VFSG is disconnected during an airplane operation?
+The VFSG must be swapped with VFSG on other Eng
+The VFSG can be re service when AC on ground
+@@The VFSG must be replaced
 
-14. In addition to systems that traditionally trical power, The 787 electrical system 5 / 29 for:
-@@Engine start, Pressurization, Wing Stabilizer trim, Wheel brake systems.
-Engine start, Pressurization, Wing start, Pressurization, Wing ice protection, gear alternate extension system
-Stabilizer trim, Wheel brake systems, stearing system.
+In addition to systems that traditionally get electrical power, The 787 electrical system supplies power for:
+@@Engine start, Pressurization, Wing ice protection, Stabilizer trim, Wheel brake systems.
+Engine start, Pressurization, Wing ice protection, landing gear alternate extension system
+Stabilizer trim, Wheel brake systems, nose gear stearing system.
 
-15. In flight, the RAT will deploy automatically
-Loss of all electrical power to the dc buses
-Loss of all electrical power to the left ac buses
-@@Loss of all electrical power to captain flight instruments
+In flight, the RAT will deploy automatically if
+Loss of all electrical power to the left and right 28v dc buses
+Loss of all electrical power to the left and right 235v ac buses
+@@Loss of all electrical power to captain and first officer flight instruments
 
-16. In normal condition, how many APU ators will be used to start the APU?
+In normal condition, how many APU starter generators will be used to start the APU?
 Uses 2 VFSG
 @@Uses 1 ASG
 Uses 2 ASG
 
-17. In normal condition, how many variable starter generators (VFSG) will be used ENG?
+In normal condition, how many variable frequency starter generators (VFSG) will be used to start the ENG?
 Uses 1 VFSG
 Uses 1 ASG
 @@Uses 2 VFSG
 
-18. In the air, what type of power does former units (ATU) will change
-@@Get 235v ac, 3-phase variable frequency 6 / 29 115v ac, 3-phase variable frequency
-Get 115v ac, 3-phase variable frequency 235v ac, 3-phase variable frequency
-Get 235v ac, 3-phase variable frequency 28v ac, 1-phase variable frequency
+In the air, what type of power does the autotransformer units (ATU) will change
+@@Get 235v ac, 3-phase variable frequency and output 115v ac, 3-phase variable frequency
+Get 115v ac, 3-phase variable frequency and output 235v ac, 3-phase variable frequency
+Get 235v ac, 3-phase variable frequency and output 28v ac, 1-phase variable frequency
 
-19. In the ground handling mode, the APU hot battery bus stay OFF and the relay (MBR) stays OPEN to
+In the ground handling mode, the loads on the APU hot battery bus stay OFF and the main battery relay (MBR) stays OPEN to
 let the batteries not to be charged
 @@let the batteries charge
 let the airplane power stay OFF
 
-20. On external power receptacle, when USE light come on that mean
+On external power receptacle, when the NOT IN USE light come on that mean
 a power is selected on
-a power source is connected and
-@@a power is connected but not selected
+a power source is connected and on
+@@a power is connected but not selected on
 
-21. on ground, the battery switch causes er control units (BPCU) to close the main (MBR) to
-@@Connect the main battery to the APU Permit an auxiliary power unit (APU)
-Connect the forward external power
+on ground, the battery switch causes the bus power control units (BPCU) to close the main battery relay (MBR) to
+Connect the main battery to the APU battery
+@@Permit an auxiliary power unit (APU) battery bus start
+Connect the forward external power to 235v AC bus
 
-22. ON ground, with ENG and APU are is in the GROUND HANDLING mode
-@@Forward external power is connected ed ON
-AFT external power is connected ON 7 / 29
-Forward external power is connected ON
+ON ground, with ENG and APU are off, the airplane is in the GROUND HANDLING mode if
+@@Forward external power is connected but not selected ON
+AFT external power is connected but not selected ON
+Forward external power is connected and selected ON
 
-23. Packs and cargo heat are inoperative forward external power:
+Packs and cargo heat are inoperative with only forward external power:
 OFF
 AUTO
-ON
+@@ON
 
-24. The AFT external power contactors ly control by
+The AFT external power contactors (EPC) is normally control by
 @@the L2 generator control unit (GCU)
-The Left bus power control unit (L
-The Light bus power control unit
+The Left bus power control unit (L BPCU)
+The Light bus power control unit (R BPCU)
 
-25. The airplane is in the GROUND HANDLING if all these conditions Exist?
-@@Forward external power is connected ed ON, The APU is not running, Both
-Forward external power is connected ON, The APU is not running, one engine
-AFT external power is connected, ning, Both engines are off
+The airplane is in the GROUND HANDLING mode if all these conditions Exist?
+@@Forward external power is connected but not selected ON, The APU is not running, Both engines are off
+Forward external power is connected and selected ON, The APU is not running, one engine is off
+AFT external power is connected, The APU is running, Both engines are off
 
-26. The APU battery supplies 28v dc
-Navigation lights (during towing APU start
-@@Redundant backup power for some APU start and Navigation lights (during ations)
-APU start 36. 8 / 29
+The APU battery supplies 28v dc for:
+@@Navigation lights (during towing operations) and APU start
+Redundant backup power for some components, APU start and Navigation lights (during towing operations)
+APU start
 
-The ATRU (Auto Transformer Rectifier
-Changes 3-phase, 235v ac from the 3-phase, 115v ac
-Changes 3-phase, 115v ac from external power to 3-phase, 230v ac
-@@Change variable frequency 235v ac buses to +/-270v dc during normal operation
+The ATRU (Auto Transformer Rectifier Unit) will
+Changes 3-phase, 235v ac from the main buses to 3-phase, 115v ac
+Changes 3-phase, 115v ac from external ground power to 3-phase, 230v ac
+@@Change variable frequency 235v ac from the 235v ac buses to +/-270v dc during normal operation
 
-28. The bus power control units (BPCU) and P400 panels have:
+The bus power control units (BPCU) in the P300 and P400 panels have:
 All above in correct.
 @@The same parts number
 The different parts number
 
-29. The Control of the ESIC (Electrical tion and Control) is from?
-A EFB (Electronic Flight Bag) on the
-@@A MFD (Multi Function Display) on
-AML (Maintenance Laptop) with wired
+The Control of the ESIC (Electrical System Indication and Control) is from?
+A EFB (Electronic Flight Bag) on the flight deck
+@@A MFD (Multi Function Display) on the flight deck
+AML (Maintenance Laptop) with wired connection
 
-30. The DRIVE (amber) indication on switch comes on when
+The DRIVE (amber) indication on the DRIVE DISC switch comes on when
 There is high VFSG oil pressure
 @@There is low VFSG oil pressure
 There is high VFSG oil temperature
 
-31. The EBPSUs each receive 28v dc
-The transformer rectifier unit (TRU)
+The EBPSUs each receive 28v dc inputs from:
+The transformer rectifer unit (TRU) output
 the hot battery bus
 @@all above are corrected
 
-32. The electrical power system P500 conversion panels do these power changes: 9 / 29
-235v ac to 115v ac, 115v ac to 235v
-235v ac to 28v dc, 28v dc to +/- 130v
+The electrical power system P500 and P600 power conversion panels do these power changes:
+235v ac to 115v ac, 115v ac to 235v ac
+235v ac to 28v dc, 28v dc to +/- 130v dc.
 @@All above are corrected
 
-33. The forward external power sources power to the 235v ac buses:
+The forward external power sources also supply power to the 235v ac buses:
 @@through auto transformer units (ATU)
 Automatic.
 Directly
 
-34. The forward external power sources to the left and right 115v ac buses:
+The forward external power sources supply power to the left and right 115v ac buses:
 Through auto transformer units (ATU).
-Directly
+@@Directly
 All above in correct
 
-35. The GATU (Galley Auto Transformer
-@@Changes 3-phase, 235v ac from the 3-phase, 115v ac
-Changes 3-phase, 115v ac from external power to 3-phase, 230v ac
-Change variable frequency 235v ac ac buses to +/-270v dc during normal
+The GATU (Galley Auto Transformer Unit) will:
+@@Changes 3-phase, 235v ac from the main buses to 3-phase, 115v ac
+Changes 3-phase, 115v ac from external ground power to 3-phase, 230v ac
+Change variable frequency 235v ac from the 235v ac buses to +/-270v dc during normal operation
 
-1. The High voltage +/-270v dc goes trollers to operate these high load electric
-@@Air conditioning compressors, Electric pumps, Ram fans, Nitrogen generation - for engine start and motoring, ASGs Override jettison fuel pumps.
-Air conditioning compressors, Electric pumps, Ram fans
-Air conditioning compressors, Electric 10 / 29 pumps, Ram fans, Nitrogen generation - for engine start and motoring, ASGs
+The High voltage +/-270v dc goes to motor controllers to operate these high load electric motors:
+Air conditioning compressors, Electric hydraulic pumps, Ram fans, Nitrogen generation system, VFSGs - for engine start and motoring, ASGs - for APU start, Override jettison fuel pumps.
+Air conditioning compressors, Electric hydraulic pumps, Ram fans
+@@Air conditioning compressors, Electric hydraulic pumps, Ram fans, Nitrogen generation system, VFSGs - for engine start and motoring, ASGs - for APU start
 
-2. The LOW charge indicator light show the battery TEST switch, it mean that:
-@@a minimum of 15 minutes remains charge is depleted
-a minimum of 60 minutes remains charge is depleted battery charge is
-a minimum of 30 minutes remains charge is depleted
+The LOW charge indicator light show when pushing the battery TEST switch, it mean that:
+@@a minimum of 15 minutes remains before battery charge is depleted
+a minimum of 60 minutes remains before battery charge is depleted
+a minimum of 30 minutes remains before battery charge is depleted
 
-3. The main battery supplies standby
+The main battery supplies standby power for:
 RAT extends, APU fire detection system.
-@@Critical component and loads until , Brakes electric, Refueling left main times), hot Battery Bus, Towing, Ground
-Towing, Ground operations, refueling tank (limited times).
+@@Critical component and loads until RAT extends, Brakes electric, Refueling left main tank (limited times), hot Battery Bus, Towing, Ground operations.
+Towing, Ground operations, refueling the right main tank (limited times).
 
-4. The main power generation sources cal power system are:
-@@The variable frequency starter generators and the APU starter generators (ASGs)
-The variable frequency starter generators and Main batteries
-The variable frequency starter generators and External power
+The main power generation sources for the electrical power system are:
+@@The variable frequency starter generators (VFSGs) and the APU starter generators (ASGs)
+The variable frequency starter generators (VFSGs) and Main batteries
+The variable frequency starter generators (VFSGs) and External power
 
-5. The maximum amount of power a power connector can use is:
-140 KVA 11 / 29
+The maximum amount of power a forward external power connector can use is:
+140 KVA
 @@90 KVA
 120 KVA
 
-6. The P300 and P400 panels are:
-@@The primary 115v ac and 28v dc power panels
-the standby 115v ac and 28v dc power panels
-the secondary 115v ac and 28v dc tion panels
+The P300 and P400 panels are:
+@@The primary 115v ac and 28v dc power distribution panels
+the standby 115v ac and 28v dc power distribution panels
+the secondary 115v ac and 28v dc power distribution panels
 
-7. The P49 panel supplies 28v dc for:
-@@manual ram air turbine (RAT) deployment plane towing operations
+The P49 panel supplies 28v dc for:
+@@manual ram air turbine (RAT) deployment and airplane towing operations
 airplane towing operations.
 Manual ram air turbine (RAT) deployment.
 
-8. The pressure burst disc indicator with red color when
-There is sufficient air from outside into the enclosure
-differential pressure between the and the pressure in the vent tube is
-@@differential pressure between the airplane is more than 3 psid
+The pressure burst disc indicator button extends with red color when
+There is sufficient air from outside of airplane go into the enclosure
+differential pressure between the battery enclosure and the pressure in the vent tube is more than 18psig
+@@differential pressure between the enclosure and the airplane is more than 3 psid
 
-9. The pressure burst disc provides
-the battery enclosure and the battery door
-@@the battery enclosure and the vent
-the vent tube and discharge point skin 12 / 29
+The pressure burst disc provides a seal between
+the battery enclosure and the battery enclosure door
+@@the battery enclosure and the vent tube
+the vent tube and discharge point of the airplane skin
 
-10. The purpose of Battery Diode Module
-Prevents charge of the main battery tain instrument bus is paralleled with source
-@@Prevents charge of the main battery tery bus is paralleled with another 28v
-Prevents charge of the main battery tery bus have 28v dc power
+The purpose of Battery Diode Module
+Prevents charge of the main battery when captain instrument bus is paralleled with another 28v dc source
+@@Prevents charge of the main battery when hot battery bus is paralleled with another 28v dc source
+Prevents charge of the main battery when hot battery bus have 28v dc power
 
-11. the Virtual Ground Service Bus will when
-APU is running and set APU GEN
-FWD External power is available and External power switch to ON
-@@FWD External power is available and GROUND SERVICE switch to ON
+the Virtual Ground Service Bus will get power when
+APU is running and set APU GEN switch to ON
+FWD External power is available and set the FWD External power switch to ON
+@@FWD External power is available and set the GROUND SERVICE switch to ON
 
-12. These conditions are necessary generator on the ground:
-@@Power applied, FUEL CONTROL switch tion and Push GEN DISC switch
-FUEL CONTROL switch in RUN position GEN DISC switch
+These conditions are necessary to disconnect the generator on the ground:
+@@Power applied, FUEL CONTROL switch in RUN position and Push GEN DISC switch
+FUEL CONTROL switch in RUN position and Push GEN DISC switch
 Power applied
 
-13. To control function of CBIC when the ground, you should
-Use the maintenance laptop and switch is in NORM
-Use the EFB and set GND TEST switch NORM 13 / 29
-@@Use the maintenance laptop and switch is not in NORM
+To control function of CBIC when the airplane is on the ground, you should
+Use the maintenance laptop and set GND TEST switch is in NORM
+Use the EFB and set GND TEST switch is not in NORM
+@@Use the maintenance laptop and set GND TEST switch is not in NORM
 
-14. To set the level to the power cart go to
+To set the level to the power cart capacity available, go to
 CBIC
 ESIC
 @@MISC CTRL PGS
 
-15. What action should be done to open circuit breakers (TCB)
+What action should be done to open the thermal circuit breakers (TCB)
 Go to ESIC to open TCB
 @@manually open TCB
 Go to CBIC to open TCB
 
-16. What are contained in SPDU (Secondary Distribution Unit) cabinet?
-@@There are 16 power modules and modules.
-There are 6 power modules and 2 modules.
-There are 8 power modules and 2 modules.
+What are contained in SPDU (Secondary Power Distribution Unit) cabinet?
+@@There are 16 power modules and 2 microprocessor modules.
+There are 6 power modules and 2 microprocessor modules.
+There are 8 power modules and 2 microprocessor modules.
 
-1 What are different between the gateway the standard RPDU processor modules?
-Contain an TTP/c communications
-@@Contain an ARINC 664 and TTP/c interfaces
-Contain an ARINC 664 communications
+What are different between the gateway RPDU and the standard RPDU processor modules?
+Contain an TTP/c communications interfaces
+Contain an ARINC 664 and TTP/c communications interfaces
+@@Contain an ARINC 664 communications interfaces
 
-2 What are the current ratings of the loads supplied by SPDU (Secondary 14 / 29 tion Unit)?
-@@Up to 50 amps AC and 45 amps DC.
+What are the current ratings of the electrical loads supplied by SPDU (Secondary Power Distribution Unit)?
+Up to 50 amps AC and 45 amps DC.
 Up to 10 amps for DC and AC.
-Up to 50 amps DC and 45 amps AC.
+@@Up to 50 amps DC and 45 amps AC.
 
-3 What are the necessary conditions manually the VFSG (Variable Frequency ator) on ground?
+What are the necessary conditions to disconnect manually the VFSG (Variable Frequency Starter Generator) on ground?
 Power is applied
 VFSG low oil pressure sensed.
-@@Power is applied and engine fuel moves to the RUN position.
+@@Power is applied and engine fuel control switch moves to the RUN position.
 
-4 What are the nominal output ratings (Variable Frequency Starter Generator)?
-3-phase, 235v ac, 250 KVA and 400
-@@3-phase, 235v ac, 250 KVA and 360-800
-3-phase, 115v ac, 250 KVA and 360-800
+What are the nominal output ratings of the VFSG (Variable Frequency Starter Generator)?
+3-phase, 235v ac, 250 KVA and 400 Hz
+@@3-phase, 235v ac, 250 KVA and 360-800 Hz
+3-phase, 115v ac, 250 KVA and 360-800 Hz
 
-5 What are the position of GNR (Ground and SC (Starter Contactor) of VFSG (variable starter generator) when it operates
+What are the position of GNR (Ground Neutral Relay) and SC (Starter Contactor) of VFSG (variable frequency starter generator) when it operates as a starter?
 Both GNR and SC close.
 @@GNR is opens and SC is closes.
 GNR closes and SC opens.
 
-6 What are the protection function of Turbine) GCU (Generator Control Unit)?
+What are the protection function of the RAT (Ram Air Turbine) GCU (Generator Control Unit)?
 Overvoltage protection
 Underfrequency protection
-@@Both a and b are correct. 67. 15 / 29 7 What colour of the CRN (Current Return cables and straps?
+@@Both a and b are correct.
+
+What colour of the CRN (Current Return Network) cables and straps?
 Red
 Blue
 @@Green
 
-8 What component controls the loadshed
+What component controls the loadshed on B787?
 @@The BPCU (Bus Power Control Unit)s
-The ATRU (Auto Transformer Rectifier
-The ELCU (Electrical Load Control
+The ATRU (Auto Transformer Rectifier Unit)
+The ELCU (Electrical Load Control Unit)
 
-9 What does Battery Enclosure use
+What does Battery Enclosure use for
 Prevent battery from heat
-@@Limits the quantity of oxygen for
-Connects to a vent tube that pull for cooling
+@@Limits the quantity of oxygen for combustion
+Connects to a vent tube that pull the outside air in for cooling
 
-10 What does the component control breakers
+What does the component control Bus source breakers
 @@electric load control units (ELCU)
 thermal circuit breakers (TCB)
 remote power distribution units (RPDU)
 
-11 What does the horsepower extraction function do?
-Help the VSFGs increate the horsepower engines
-@@Prevents the ASGs from removing engines horsepower from the APU
-Prevents the VSFGs from removing power from the engines 72. 16 / 29 12 What does the overvoltage transient units (OVTPU) monitor?
-The 3 phase 115 VAC outputs of the power
-@@The 3 phase 235 VAC outputs of the
-The 3 phase 235 VAC outputs of the
+What does the horsepower extraction load shed function do?
+Help the VSFGs increate the horsepower for the engines
+Prevents the ASGs from removing too much the engines horsepower from the APU
+@@Prevents the VSFGs from removing too much horsepower from the engines
 
-13 What happens when high oil temperature 3 deg C) of the VFSG (Variable Frequency erator) is detected?
-@@The VFSG is automatically disconnected an internal solder pellet.
-The DRIVE indication shows amber crew must manually disconnect the
+What does the overvoltage transient protection units (OVTPU) monitor?
+The 3 phase 115 VAC outputs of the External ground power
+@@The 3 phase 235 VAC outputs of the VFSGs
+The 3 phase 235 VAC outputs of the AGSs
+
+What happens when high oil temperature (199 +/- 3 deg C) of the VFSG (Variable Frequency Starter Generator) is detected?
+@@The VFSG is automatically disconnected by melting an internal solder pellet.
+The DRIVE indication shows amber and the flight crew must manually disconnect the VFSG
 Nothing happens.
 
-14 What happens when the DRIVE DISC pushed in air?
-The related VFSG (Variable Frequency ator) is disconnected from the gearbox (Generator Control Relay) opens to from the VFSG
-The related VFSG (Variable Frequency ator) is disconnected from the gearbox (Generator Control Breaker) opens.
-@@The related VFSG (Variable Frequency erator) is disconnected from the gearbox (Generator Control Relay) opens to from the VFSG, and GCB (Generator opens. 75. 17 / 29 15 what is purpose of the battery diode
+What happens when the DRIVE DISC switch is pushed in air?
+The related VFSG (Variable Frequency Starter Generator) is disconnected from the gearbox drive, and GCR (Generator Control Relay) opens to remove excitation from the VFSG
+The related VFSG (Variable Frequency Starter Generator) is disconnected from the gearbox drive, and GCB (Generator Control Breaker) opens.
+@@The related VFSG (Variable Frequency Starter Generator) is disconnected from the gearbox drive, GCR (Generator Control Relay) opens to remove excitation from the VFSG, and GCB (Generator Control Breaker) opens.
+
+what is purpose of the battery diode module
 to charge the main battery
-to make sure the main battery can by battery charger
-@@to provide a power path from the the hot battery bus and backward
+@@to make sure the main battery can only be charged by battery charger
+to provide a power path from the main battery to the hot battery bus and backward
 
-16 What is status of the generator neutral during auxiliary power unit (APU) starting
-The GNR connects the ground to related ASG
-@@The GNR opens the ground to the of the related ASG
-The GNR connects the ground to the related VFSG
+What is status of the generator neutral relay (GNR) during auxiliary power unit (APU) starting
+The GNR connects the ground to the neutral of the related ASG
+@@The GNR opens the ground to the neutral line line of the related ASG
+The GNR connects the ground to the power line of the related VFSG
 
-17 What is the caution when you install able Frequency Starter Generator) harnesses?
-Make sure that you use pliers that to tighten the electrical connectors damage to the electrical connectors.
-@@Make sure that there is no tension cal harnesses when you connect the nectors. if there is tension, adjust the spring clips and hinge clamps. tension age to the electrical connectors and
+What is the caution when you install the VFSG (Variable Frequency Starter Generator) harnesses?
+Make sure that you use pliers that have metal jaws to tighten the electrical connectors or you will cause damage to the electrical connectors.
+@@Make sure that there is no tension in the electrical harnesses when you connect the electrical connectors. if there is tension, adjust the harness in the spring clips and hinge clamps. tension can cause damage to the electrical connectors and the harnesses.
 Both a and b are correct.
 
-18 What is the condition for controlling cuit Breaker Indication and Control) tenance laptop?
-When the airplane is on the ground 18 / 29 switch is in NORM.
-When the airplane is on the ground switch must be in DATA LOAD/ENABLE.
-@@When the airplane is on the ground switch is not in NORM.
+What is the condition for controlling the CBIC (Circuit Breaker Indication and Control) function on maintenance laptop?
+When the airplane is on the ground and GND TEST switch is in NORM.
+When the airplane is on the ground and GND TEST switch must be in DATA LOAD/ENABLE.
+@@When the airplane is on the ground and GND TEST switch is not in NORM.
 
-19 What is the function of the DCLPU Protection Unit)?
-@@Supply lightning surge protection (Remote Power Distribution Unit)
-Supply lightning surge protection (Secondary Power Distribution Unit) mote Power Distribution Unit)
-Supply lightning surge protection (Bus Power Control Units)
+What is the function of the DCLPU (DC Lightning Protection Unit)?
+@@Supply lightning surge protection to some RPDUs (Remote Power Distribution Unit)
+Supply lightning surge protection to some SPDUs (Secondary Power Distribution Unit) and RPDUs (Remote Power Distribution Unit)
+Supply lightning surge protection to some BPCU (Bus Power Control Units)
 
-20 What is the function of VFSG (Variable Starter Generator) GCU (Generator
-It controls and monitors the engine
-It continuously monitors the total traction from each engine to prevent condition.
-@@It monitors and controls the output give the fault and current protection.
+What is the function of VFSG (Variable Frequency Starter Generator) GCU (Generator Control Unit)
+It controls and monitors the engine start.
+It continuously monitors the total horsepower extraction from each engine to prevent the overload condition.
+@@It monitors and controls the output voltage, and give the fault and current protection.
 
-21 What is the limitation of controlling trical System Indication and Control)?
-You can control the ESIC on only one
-@@You can control the ESIC on only tenance laptop at a time.
-There is no limitation. 82. 19 / 29 22 What is the location of APU and main
+What is the limitation of controlling the ESIC (Electrical System Indication and Control)?
+@@You can control the ESIC on only one MFD at a time.
+You can control the ESIC on only one MFD or maintenance laptop at a time.
+There is no limitation.
+
+What is the location of APU and main Battery?
 FWD EE bay.
-@@AFT EE bay.
-Main battery in FWD EE bay and APU EE bay.
+AFT EE bay.
+@@Main battery in FWD EE bay and APU battery in AFT EE bay.
 
-23 What is the main battery type
+What is the main battery type
 lithium air battery
 @@lithium-ion battery
 Nickel-cadmium battery
 
-24 What is the normal position of the Neutral Relay)?
-@@Connects the ground to the neutral ed VFSG or ASG
-Connects the neutral line of the VFSG gether
-Opens the ground to the neutral VFSG or ASG
+What is the normal position of the GNR (Generator Neutral Relay)?
+@@Connects the ground to the neutral line of the related VFSG or ASG
+Connects the neutral line of the VFSG and ASG together
+Opens the ground to the neutral line of the related VFSG or ASG
 
-25 What is the purpose of load management in BPCU (Bus Power Control Unit)?
-It disconnects electrical loads only start, to prevent insufficient power supply (variable frequency starter generator).
-@@It disconnects electrical loads to keep less than the power supply levels, to load condition of the electrical power
-It disconnects electrical loads only are operating, to prevent the VFSGs too much power from the engines. 86. 20 / 29 26 What kind of electrical power do channels supply?
-3-phase, constant-frequency, 235v
-@@3-phase, variable-frequency, 115v
-3-phase, variable-frequency, 235v
+What is the purpose of load management function in BPCU (Bus Power Control Unit)?
+It disconnects electrical loads only when engines start, to prevent insufficient power supply for VFSG (variable frequency starter generator).
+@@It disconnects electrical loads to keep the load levels less than the power supply levels, to prevent an overload condition of the electrical power sources.
+It disconnects electrical loads only when engines are operating, to prevent the VFSGs from removing too much power from the engines.
 
-27 What kind of load do the ELCU (Electrical Control Unit) control and supply protection?
-@@The large loads which receive current that is more than the rating of the thermal breakers.
-The load with rating up to 50 amps
-4 ATRUs (Auto Transformer Rectifier
+What kind of electrical power do the 6 generator channels supply?
+3-phase, constant-frequency, 235v ac
+3-phase, variable-frequency, 115v ac
+@@3-phase, variable-frequency, 235v ac
 
-28 What kind of load does the remote tion system (RPDS) will supply
-the loads have current ratings up
-the loads have current ratings up 45 amps ac
-@@the loads have current ratings more dc and 45 amps ac
+What kind of load do the ELCU (Electrical Load Control Unit) control and supply protection?
+@@The large loads which receive current and ac voltage that is more than the rating of the thermal circuit breakers.
+The load with rating up to 50 amps AC.
+4 ATRUs (Auto Transformer Rectifier Unit)
 
-29 What kind of power supply by AC tem on B787?
+What kind of load does the remote power distribution system (RPDS) will supply
+@@the loads have current ratings up to 10 amps or less
+the loads have current ratings up to 50 amps dc and 45 amps ac
+the loads have current ratings more than 50 amps dc and 45 amps ac
+
+What kind of power supply by AC generation system on B787?
 235v ac and 28v ac
 115v AC and 28v AC
 @@235v ac and 115v ac
 
-30 What type of power does the autotransformer tifier units (ATRU) will change?
-@@The 235v ac, 3-phase variable frequency dc
-The 115v ac, 3-phase variable frequency 21 / 29 dc
-The 235v ac, 3-phase variable frequency dc
+What type of power does the autotransformer rectifier units (ATRU) will change?
+@@The 235v ac, 3-phase variable frequency to +/- 270v dc
+The 115v ac, 3-phase variable frequency to +/- 270v dc
+The 235v ac, 3-phase variable frequency to +/- 28v dc
 
-31 What type of power does the Electric Supply Unit will change
+What type of power does the Electric Brake Power Supply Unit will change
 change 235v dc to +/-130v dc
 @@change 28v dc to +/-130v dc
 change 115v ac to +/-130v dc
 
-32 What type of power does the galley former unit (GATU) will change
-@@The 115v ac, 3-phase variable frequency 3-phase variable frequency
-The 235v ac, 3-phase variable frequency 3-phase variable frequency
-The 235v ac, 3-phase variable frequency
+What type of power does the galley autotransformer unit (GATU) will change
+The 115v ac, 3-phase variable frequency to 235v ac, 3-phase variable frequency
+@@The 235v ac, 3-phase variable frequency to 115v ac, 3-phase variable frequency
+The 235v ac, 3-phase variable frequency to 28v dc
 
-33 What type of power does The transformer units (TRU) will change
+What type of power does The transformer rectifier units (TRU) will change
 @@change 235v ac to 28v dc
 change 235v ac to 115v ac
 change 235v ac to 28v ac
 
-34 When APU (Auxiliary Power Unit) battery, how does the ASG (APU Starter receive power?
-The ATRU (Auto Transformer Rectifier the 235v ac to +/-270v dc for the CMSC Motor Starter Controller) that supplies right ASG (APU Starter Generator).
-The ATRU (Auto Transformer Rectifier changes the 235v ac to +/-135v dc for 22 / 29 mon Motor Starter Controller) that supplies the right ASG (APU Starter Generator).
-@@The ATRU (Auto Transformer Rectifier the 115v ac to +/-135v dc for the CMSC Motor Starter Controller) that supplies right ASG (APU Starter Generator).
+When APU (Auxiliary Power Unit) starts on APU battery, how does the ASG (APU Starter Generator) receive power?
+The ATRU (Auto Transformer Rectifier Unit) changes the 235v ac to +/-270v dc for the CMSC (Common Motor Starter Controller) that supplies power to the right ASG (APU Starter Generator).
+The ATRU (Auto Transformer Rectifier Unit) changes the 235v ac to +/-135v dc for the CMSC (Common Motor Starter Controller) that supplies power to the right ASG (APU Starter Generator).
+@@The ATRU (Auto Transformer Rectifier Unit) changes the 115v ac to +/-135v dc for the CMSC (Common Motor Starter Controller) that supplies power to the right ASG (APU Starter Generator).
 
-35 When disconnect the main battery, should note
-@@cannot release the parking brake main bat disconnecting
-The wireless emergency light system on if you disconnect the main battery utes
-Cannot tow the airplane due to the energizes the brakes
+When disconnect the main battery, which is you should note
+@@cannot release the parking brake if it is set before main bat disconnecting
+The wireless emergency light system (WELS) comes on if you disconnect the main battery before 30 minutes
+Cannot tow the airplane due to the main battery energizes the brakes
 
-36 When do you should wait 22 minutes remove power to remove residual heat uid-cooled LRUs
-One forward external power receptacle ed and the switch is selected ON
+When do you should wait 22 minutes before you remove power to remove residual heat from the liquid-cooled LRUs
+One forward external power receptacle is connected and the switch is selected ON
 When the APU provides power
-@@Both forward external power receptacles nected and switches selected ON
+@@Both forward external power receptacles are connected and switches selected ON
 
-37 When is the airplane in the GROUND mode?
-@@When forward external power is connected selected on, APU is not running and off.
-When forward external power is connected 23 / 29 selected on, APU is not running and off.
-When APU is running on ground and SERVICE switch on the master attendant is on.
+When is the airplane in the GROUND HANDLING mode?
+When forward external power is connected and selected on, APU is not running and both engines are off.
+@@When forward external power is connected but not selected on, APU is not running and both engines are off.
+When APU is running on ground and the GROUND SERVICE switch on the master attendant switch panel is on.
 
-38 When is the GCB (Generator Control closed by the GCU (Generator Control
-When engine starts, there are no conditions.
-@@When engine is in operation, VFSG quency Starter Generator) output voltage quency are in limits and there are no conditions.
-As long as engine start is done, the tactor) opens and GNR (Ground Neutral
+When is the GCB (Generator Control Breaker) closed by the GCU (Generator Control Unit)?
+When engine starts, there are no protective fault conditions.
+@@When engine is in operation, VFSG (Variable Frequency Starter Generator) output voltage and frequency are in limits and there are no protective fault conditions.
+As long as engine start is done, the SC (Starter Contactor) opens and GNR (Ground Neutral Relay) closes.
 
-39 When is the purpose of SPU (Start
-When APU starts on battery, SPU from the APU (Auxiliary Power Unit) battery 235v ac, then supplies power only to (Auto Transformer Rectifier Unit).
-When APU starts on battery, SPU from the APU (Auxiliary Power Unit) battery 115v ac, then supplies power only to (Auto Transformer Rectifier Unit).
-@@When APU starts on battery, SPU from the APU (Auxiliary Power Unit) battery 115v ac, then supplies power only to (Auto Transformer Rectifier Unit). 100. 24 / 29 40 When set the ACTIVE level to the ity , AFTer external power is disconnected
-the power level will reset to the DEFAULT
+When is the purpose of SPU (Start Power Unit)?
+When APU starts on battery, SPU changes 28v dc from the APU (Auxiliary Power Unit) battery to 3-phase 235v ac, then supplies power only to the R2 ATRU (Auto Transformer Rectifier Unit).
+@@When APU starts on battery, SPU changes 28v dc from the APU (Auxiliary Power Unit) battery to 3-phase 115v ac, then supplies power only to the R2 ATRU (Auto Transformer Rectifier Unit).
+When APU starts on battery, SPU changes 28v dc from the APU (Auxiliary Power Unit) battery to 3-phase 115v ac, then supplies power only to the R1 ATRU (Auto Transformer Rectifier Unit).
+
+When set the ACTIVE level to the power cart capacity, AFTer external power is disconnected
+@@the power level will reset to the DEFAULT
 the power level will not change
-@@the power level will change to nearest
+the power level will change to nearest set value
 
-41 when the usual power source is not Electric brake power supply units (EBPSU) from
+when the usual power source is not available, the Electric brake power supply units (EBPSU) get power from
 Back up bus (BKUP BUS)
 @@main hot battery bus (HOT BB)
 APU hot battery bus (APU HOT BB)
 
-42 When usual airplane electrical power not available, which components will AC and DC power
-Ram air turbine (RAT) generator, APU
-@@Ram air turbine (RAT) generator, Main battery
-Ram air turbine (RAT) generator, Main
+When usual airplane electrical power sources are not available, which components will supply standby AC and DC power
+Ram air turbine (RAT) generator, APU battery, ASG
+@@Ram air turbine (RAT) generator, Main battery, APU battery
+Ram air turbine (RAT) generator, Main battery, ASG
 
-43 When you reconnect the VFSG (Variable Starter Generator) to the input shAFT, ferent between the first and second disconnect manual reset handle?
-@@You must ensure that the force to nect manual reset handle the second the first time.
-you must hear or feel the "click" tension second time you pull the disconnect handle.
-Both a and b are correct. 25 / 29
+When you reconnect the VFSG (Variable Frequency Starter Generator) to the input shAFT, what is the different between the first and second time you pull the disconnect manual reset handle?
+@@You must ensure that the force to pull the disconnect manual reset handle the second time is less than the first time.
+you must hear or feel the "click" tension at the second time you pull the disconnect manual reset handle.
+Both a and b are correct.
 
-44 Where do you access to control of
+Where do you access to control of the ESIC?
 @@a MFD
 a maintenance laptop
 a EFB
 
-45 Where does the Main Battery Charger from
+Where does the Main Battery Charger take POWER from
 The Ground service bus
 @@The Captain instrument bus
 The F/O instrument bus
 
-46 Where is the APU battery located
+Where is the APU battery located in
 The bulk cargo, near P49 panel
 The forward EE bay
 @@The AFT EE bay
 
-47 Where is the Circuit breaker indication (CBIC) located
-In FWD EE bay, at P100/P200/P300
-@@In the common computing resource application)
-In the core network system (it is a tion)
+Where is the Circuit breaker indication and control (CBIC) located
+In FWD EE bay, at P100/P200/P300 panel
+@@In the common computing resource (it is a software application)
+In the core network system (it is a software application)
 
-48 Where is the common motor start SCs) located?
+Where is the common motor start controllers (CMSCs) located?
 In FWD EE bay
 @@In the AFT EE bay
 In the FWD cargo
 
-49 Where is the Electrical System Indication trol (ESIC) located
-in the electrical control panel 26 / 29
-@@in the CCR cabinets (it is a hosted
+Where is the Electrical System Indication and Control (ESIC) located
+in the electrical control panel
+@@in the CCR cabinets (it is a hosted application)
 in the core net work
 
-50 Where is the galley autotransformer located?
+Where is the galley autotransformer unit (GATU) located?
 @@Left AFT cargo compartment
 Right AFT cargo compartment
 AFT Galley compartment
 
-51 Where is the possible location can CBIC:
+Where is the possible location can you operate CBIC:
 Maintenance laptop ONLY
-@@Maintenance laptop or Flight deck displays (MFD).
-Flight deck multifunction displays
+@@Maintenance laptop or Flight deck multifunction displays (MFD).
+Flight deck multifunction displays (MFD).
 
-52 Which are difference between the the APU battery
-the APU battery has more capacity
-@@There is no difference, they are Lithium-ion
-The main bat is Nickel-cadmium battery Lithium-ion battery
+Which are difference between the main battery and the APU battery
+the APU battery has more capacity for APU starting
+@@There is no difference, they are Lithium-ion battery
+The main bat is Nickel-cadmium battery; APU Bat is Lithium-ion battery
 
-53 Which bus does the main battery er
+Which bus does the main battery will supplies power
 The APU hot battery bus
 @@The captain instrument bus
 The back up bus
 
-54 Which Circuit Breaker the CBIC (Circuit Indication and Control) can monitor
+Which Circuit Breaker the CBIC (Circuit Breaker Indication and Control) can monitor but no control?
 Electronic Circuit Breaker
-@@Thermal Circuit Breakers (CBT) 27 / 29
-solid-state relays in the Flight Control Power Supply Module
-
-55 Which components are not controlled shed function
 @@Thermal Circuit Breakers (CBT)
-Remote Power Distribution Units
+solid-state relays in the Flight Control Electronics Power Supply Module
+
+Which components are not controlled by the load shed function
+@@Thermal Circuit Breakers (CBT)
+Remote Power Distribution Units (RPDU)
 Electrical Load Control Units (ELCU)
 
-56 Which computer control AFT Ext
+Which computer control AFT Ext POWER
 The BPCU (bus power control units)
 @@The L2 GCU (Generator Control Unit)
-The L2 ATRU (Auto Transformer Rectifier
+The L2 ATRU (Auto Transformer Rectifier Unit)
 
-57 Which External power source(s) can Engine Start with no loads shed?
-Can use two forward and one AFT
-Can use two forward external power source
-@@Cannot start Left ENG by external Loads shed
+Which External power source(s) can be used for Left Engine Start with no loads shed?
+Can use two forward and one AFT power
+Can use two forward external power sources
+@@Cannot start Left ENG by external power with no Loads shed
 
-58 Which lights does the APU battery dc power
-Wing turn off lights (during towing
-@@Navigation lights (during towing
+Which lights does the APU battery will supplies 28v dc power
+Wing turn off lights (during towing operations)
+@@Navigation lights (during towing operations)
 Cabin lights (during towing operations)
 
-59 Which RPDU (Remote Power Distribution send and receive data to and from the Power Control Unit)?
-@@Gateway RPDU 28 / 29
+Which RPDU (Remote Power Distribution Unit) send and receive data to and from the BPCU (Bus Power Control Unit)?
+@@Gateway RPDU
 Standard RPDU
 Both RPDU
 
-60 Which statement is true
-Cannot access to CBIC is from the laptop
+Which statement is true
+Cannot access to CBIC is from the maintenance laptop
 @@Cannot access to CBIC is from a EFB
-Cannot access to CBIC is from a flight function display (MFD)
+Cannot access to CBIC is from a flight deck multifunction display (MFD)
 
-61 Which type of power that the external tacle will connect
+Which type of power that the external power receptacle will connect
 @@The 3-phase, 115v ac, 400 Hz
 The 3-phase, 235v ac, 400 Hz
 The 3-phase, 220v ac, 50 Hz
 
-62 Why must do open CB of PECS before stall CMSC
-@@To stop the pumps off Power Electronics System
-To stop the pumps off integrating (ICS)
-To stop the liquid cooling pump inside 29 / 29
+Why must do open CB of PECS before Remove/Install CMSC
+@@To stop the pumps off Power Electronics Cooling System
+To stop the pumps off integrating cooling system (ICS)
+To stop the liquid cooling pump inside CMSC

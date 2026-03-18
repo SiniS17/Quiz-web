@@ -1,114 +1,114 @@
-1 __________ controls power to the cargo PDUs:
+__________ controls power to the cargo handling PDUs:
 MCP
-CMDU
+@@CMDU
 RDC
 
-2 A cam in the PDU turns to make the down. What kind of PDU id it?
-The self-lift PDUs are only in the ball
-@@The self-lift PDUs are only in roller aft of the ball panel area.
-Spring-lift PDUs are only in roller trays aft of the ball panel area.
+A cam in the PDU turns to make the unit go up or down. What kind of PDU is it?
+@@The self-lift PDUs are only in the ball panel area.
+The self-lift PDUs are only in roller trays forward and aft of the ball panel area.
+Spring-lift PDUs are only in roller trays forward and aft of the ball panel area.
 
-3 Aft Cargo compartment and Bulk cargo ment divided by
+Aft Cargo compartment and Bulk cargo compartment divided by
 Vertical sidewall liners
 @@Barrier net
 Access panels
 
-4 Cargo loading self-lift PDUs are located:
+Cargo loading self-lift PDUs are located:
 A and B
 Only in roller trays
 @@Only in ball panel area
 
-5 Cargo loading spring-lift PDUs are
+Cargo loading spring-lift PDUs are located:
 A and B
 Only in ball panel area
 @@Only in roller trays
 
-6 How many Cargo Maintenance Display there in B787?
-Two, in the Forward Electronic Equipment 1 / 5 the Aft Electronic Equipment Bay
+How many Cargo Maintenance Display Units are there in B787?
+Two, in the Forward Electronic Equipment Bay and in the Aft Electronic Equipment Bay
 One, in the forward cargo compartment
-@@Two, one in the forward cargo compartment cutout, other in the aft cargo compartment cutout
+@@Two, one in the forward cargo compartment door cutout, other in the aft cargo compartment door cutout
 
-7 How to open Bulk Cargo door?
-Electrical, The BCD opens outward the bulk cargo compartment
-Hydraulic, The BCD opens outward the bulk cargo compartment
-@@Manual, The BCD opens inward and bulk cargo compartment
+How to open Bulk Cargo door?
+Electrical, The BCD opens outward and upward into the bulk cargo compartment
+Hydraulic, The BCD opens outward and upward into the bulk cargo compartment
+@@Manual, The BCD opens inward and upward into the bulk cargo compartment
 
-8 If fiberglass liners have cuts, tears fied limit:
-Liners can be repaired by special patch
-Liners shall be removed for repair
+If fiberglass liners have cuts, tears or holes in specified limit:
+Liners can be repaired by special patch kits on wing
+Liners shall be removed for repair in work shop
 @@A and B
 
-9 Inside the cargo compartments, the panels are installed in
+Inside the cargo compartments, the decompression panels are installed in
 Sidewall panels only
 Floor panels
 @@The ceilings, sidewalls and endwalls
 
-10 One cargo decompression panel
+One cargo decompression panel can:
 Vent pressure from both side
 A or B depends on the location
 @@Only vent pressure from one side
 
-11 Procedure to open the cargo door
-@@Unlock a Unlatch the pull-In actuators 2 / 5 any ice formation) Hydraulic pressure toward the open position.
-Unlatch a unlock the pull-In actuators any ice formation) Hydraulic pressure toward the open position.
-Unlock a Unlatch Lift actuator lift door actuators move (breaks any ice formation)
+Procedure to open the cargo door
+@@Unlock a Unlatch the pull-In actuators move (breaks any ice formation) Hydraulic pressure moves the door toward the open position.
+Unlatch a unlock the pull-In actuators move (breaks any ice formation) Hydraulic pressure moves the door toward the open position.
+Unlock a Unlatch Lift actuator lift door a the pull-In actuators move (breaks any ice formation) Open door.
 
-12 Purpose of rollout stop/locks
-@@Prevent unit loading device (ULD) tical and lateral direction
-Prevent unit loading device (ULD) gitudinal and lateral direction
-Prevent unit loading device (ULD) gitudinal and vertical direction
+Purpose of rollout stop/locks
+@@Prevent unit loading device (ULD) movement in vertical and lateral direction
+Prevent unit loading device (ULD) movement in longitudinal and lateral direction
+Prevent unit loading device (ULD) movement in longitudinal and vertical direction
 
-13 The cargo handling system gets power from:
+The cargo handling system gets power for control from:
 Ground utility bus
 @@Ground handling bus
 Ground service bus
 
-14 The purpose of braking caster is to
-@@Prevent unwanted movement of the panel area during cargo operations
-Prevent unwanted movement of the roller trays during cargo operations
-Help moving the ULD on the ball panel cargo operations
+The purpose of braking caster is to
+@@Prevent unwanted movement of the ULD on the ball panel area during cargo operations
+Prevent unwanted movement of the ULD on the roller trays during cargo operations
+Help moving the ULD on the ball panel area during cargo operations
 
-15 The purpose of braking caster is to:
-Help moving the ULD on the ball panel cargo operations 3 / 5
-Prevent unwanted movement of the roller trays during cargo operations
-@@Prevent unwanted movement of the panel area during cargo operations
+The purpose of braking caster is to:
+Help moving the ULD on the ball panel area during cargo operations
+Prevent unwanted movement of the ULD on the roller trays during cargo operations
+@@Prevent unwanted movement of the ULD on the ball panel area during cargo operations
 
-16 What components prevent unwanted ment?
+What components prevent unwanted ULD movement?
 @@Braking casters
 Ball panel
 Self-lift power driver unit (PDU)
 
-17 What is the function of the braking
-@@Prevents unwanted movement of area during cargo operations.
-Prevents unwanted movement of area and on roller tray during cargo
-Stop/lock prevents unit loading device ment and gives vertical and lateral restraint.
+What is the function of the braking caster?
+@@Prevents unwanted movement of on the ball panel area during cargo operations.
+Prevents unwanted movement of on the ball panel area and on roller tray during cargo operations.
+Stop/lock prevents unit loading device (ULD) movement and gives vertical and lateral restraint.
 
-18 What is the purpose of cargo compartment pression panels?
-To provide more strength for cargo panels
-To ensure equal air pressure between compartment and cargo compartment
-@@To protect from structural failure due high pressure difference between the compartments
+What is the purpose of cargo compartment decompression panels?
+To provide more strength for cargo compartment panels
+To ensure equal air pressure between passenger compartment and cargo compartment
+@@To protect from structural failure due to sudden high pressure difference between the cabin and cargo compartments
 
-19 What prevents unwanted movement roller tray area?
-@@Spring lift power driver units (PDU) rollers 4 / 5
+What prevents unwanted movement of a ULD in the roller tray area?
+@@Spring lift power driver units (PDU) and braking rollers
 Braking casters
 Self-lift power driver units (PDU)
 
-20 Where are the Self-lift power driver located?
-In the Forward Cargo Compartment
+Where are the Self-lift power driver units (PDU) located?
+In the Forward Cargo Compartment only
 @@In the ball panel area
-On the Roller trays in Forward and partment
+On the Roller trays in Forward and Aft Cargo Compartment
 
-21 Where is Cargo Compartment Door
+Where is Cargo Compartment Door Cheek Panel?
 @@At entry of all cargo
 At FWD of all cargo
 At end of FWD cargo
 
-22. Which are there conditions when dling system gets power?
-The ground handling bus has power power switch is in the ON position
+Which are there conditions when the cargo handling system gets power?
+The ground handling bus has power and the system power switch is in the ON position
 The cargo door is full open
 @@A and B
 
-23. Which locks can be used to restrain ers?
+Which locks can be used to restrain ULD containers?
 @@Yellow locks
 The lock in the roller trays
-Red colored locks. 5 / 5
+Red colored locks.

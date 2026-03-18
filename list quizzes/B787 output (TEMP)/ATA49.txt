@@ -1,251 +1,251 @@
-1. Access to the APU Inlet Door actuator thru:
+Access to the APU Inlet Door actuator closure is thru:
 APU fire wall
 Stabilizer compartment
 @@APU compartment
 
-2. After APU start, Fuel Module gets
+After APU start, Fuel Module gets power from
 @@Permanent Magnetic Generator
 APU hot BAT Bus
 A or B
 
-3. APU attached to the airplane tail cone
+APU attached to the airplane tail cone through:
 4 mounts
 @@3 mounts
 2 mounts
 
-4. APU can start by suction feed up to
+APU can start by suction feed up to
 12000 ft
 16000 ft
 @@14000 ft
 
-5. APU combustor drain valve control
+APU combustor drain valve control by:
 Electrical by APUC
 Fuel pressure in fuel module
-@@Spring loaded valve type, It was closed pressurized in the combustion.
+@@Spring loaded valve type, It was closed by difference pressurized in the combustion.
 
-6. APU Combustor drain valve open board when?
+APU Combustor drain valve open to drain fuel overboard when?
 The APU shutdown
 The APU is running
-@@The APU an aborted start or fuel nozzles APU SHUTDOWN. 1 / 10
+@@The APU an aborted start or fuel nozzles leak during APU SHUTDOWN.
 
-7. APU fuel feed suction can operation PUMP OPS?
-Yes, the APU can start by suction feed tude.
-No, the pump must operate for the
+APU fuel feed suction can operation without FUEL PUMP OPS?
+Yes, the APU can start by suction feed at any altitude.
+No, the pump must operate for the APU to start.
 @@Yes, up to 14,000ft.
 
-8. APU Fuel Module gets power from:
+APU Fuel Module gets power from:
 APU battery
 @@APU BAT and PMG
 PMG
 MAIN BAT
 
-9. APU Fuel Module gets power from:
-@@Hot battery bus during APU start and network after APU start.
-Hot battery bus during APU start and start.
-PMG during APU start and aircraft after APU start.
+APU Fuel Module gets power from:
+Hot battery bus during APU start and aircraft power network after APU start.
+@@Hot battery bus during APU start and PMG after APU start.
+PMG during APU start and aircraft power network after APU start.
 
-10. APU Fuel Module is
+APU Fuel Module is
 Gearbox driven
-Motor-driven
+@@Motor-driven
 Connected to gearbox
 
-11. APU Fuel Module is
+APU Fuel Module is
 Driven directly by gearbox.
 Driven by Oil cluster.
-Motor-driven. 12. 2 / 10
+@@Motor-driven.
 
 APU fuel shutoff valve opens when
 AFT boost pump ON
 @@APU selector is moved to ON position.
 APU fire handle is not pulled out.
-APU maintenance switch is in TEST
+APU maintenance switch is in TEST position.
 
-13. APU has:
+APU has:
 12 simplex fuel nozzles
 @@06 simplex and 06 duplex fuel nozzles
 12 duplex fuel nozzles
 
-14. APU is attached to the airplane structure mounts
-3
+APU is attached to the airplane structure by mounts
+@@3
 2
 4
 
-15. APU oil cooler bypass valve OPEN around the cooler when?
-Differential pressure across the cooler than or equal to 40 psi.
-@@Differential pressure across the cooler than or equal to 80 psi
-Differential pressure across the cooler than or equal to 60 psi
+APU oil cooler bypass valve OPEN to let oil go around the cooler when?
+Differential pressure across the cooler is greater than or equal to 40 psi.
+@@Differential pressure across the cooler is greater than or equal to 80 psi
+Differential pressure across the cooler is greater than or equal to 60 psi
 
-16. APU oil cooler cooled by?
-@@Ambient air suction thought the oil tor system
+APU oil cooler cooled by?
+@@Ambient air suction thought the oil cooler by educator system
 By a supply fan behind the oil cooler.
-A/C Fuel System 17. 3 / 10
+A/C Fuel System
 
 APU oil de-prime valve closed when?
-@@Starter ASG cut-out about 50-60%
+@@Starter ASG cut-out about 50-60% RPM
 APU start
 APU SHUTDOWN
 
-18. APU oil pumps are:
+APU oil pumps are:
 @@Not LRUs
 Interchangeable
 LRUs
 
-19. APU oil supply and scavenge pumps
+APU oil supply and scavenge pumps are located:
 On the gearbox
 In the lubrication module
 @@In the gearbox
 
-20. APU on 787-9 supplies
+APU on 787-9 supplies
 A and B
 @@Only electrical power
 Only pneumatic power
 
-21. APUC operation data is stored in:
-The data memory module (DMM) next to APUC.
-The data memory module (DMM) on APU compressor section.
-@@The data memory module (DMM) the inlet sensor module.
+APUC operation data is stored in:
+The data memory module (DMM) which is located next to APUC.
+The data memory module (DMM) which is located on APU compressor section.
+@@The data memory module (DMM) which is a part of the inlet sensor module.
 
-22. At the same time, you can change inlet sensor module?
+At the same time, you can change both APUC and inlet sensor module?
 Yes, but follow AMM
 Yes
-@@No, loss data 4 / 10
+@@No, loss data
 
-23. Can APU start with no fuel pump
+Can APU start with no fuel pump operation?
 @@Yes, up to 14,000ft.
-No, the pump must operate for the
-Yes, the APU can start by suction feed
+No, the pump must operate for the APU to start.
+Yes, the APU can start by suction feed at any altitude.
 
-24. During APU start, Fuel Module gets
+During APU start, Fuel Module gets power from
 Permanent Magnetic Generator
 @@APU hot BAT Bus
 A or B
 
-25. How many Magnetic Chip Collector APU?
+How many Magnetic Chip Collector are there on the APU?
 3
 2
-1
+@@1
 
-26. How many methods are there to tion APU?
+How many methods are there to removal/installation APU?
 @@Fish pole Hoist and hydraulic jack
 Only one
 Manual and Pneumatic
 
-27. How many Starter Generators (ASG) the APU?
+How many Starter Generators (ASG) are there on the APU?
 3
 1
-2
+@@2
 
-28. How many turbine stage are there engine?
-3 5 / 10
+How many turbine stage are there on the APU engine?
+3
 1
-2
+@@2
 
-29. In Unattended mode, what happen OIL TEMPERATURE occur?
+In Unattended mode, what happen if APU HIGH OIL TEMPERATURE occur?
 @@APU auto shutdown
 APU given MESSAGE
 MMSG is latch.
 
-30. PMG permanent magnetic generator power when:
+PMG permanent magnetic generator supplies power when:
 @@APU speed 70 %
 APU speed 8 %
 APU running
 
-31. The AFT section of 787-9 tail cone
+The AFT section of 787-9 tail cone is made of
 Composite
 Steel
-Titanium
+@@Titanium
 
-32. The APU air inlet system supplies
+The APU air inlet system supplies external air for
 @@A and B
 Combustion
 Airflow in the APU compartment
 
-33. The APU oil temp sensor:
-Senses the temperature of the oil
-@@Senses the temperature of the oil by the oil cooler.
-Senses the temperature of the oil after the oil cooler. 34. 6 / 10
+The APU oil temp sensor:
+Senses the temperature of the oil in the gearbox.
+Senses the temperature of the oil before it is cooled by the oil cooler.
+@@Senses the temperature of the oil after it is cooled by the oil cooler.
 
-The BPCU sends a signal to the APUC APU if these conditions occur:
-A and B
-Only one VFSG stays on line, or if there electrical power
-@@The automatic start function is armed
+The BPCU sends a signal to the APUC to start the APU if these conditions occur:
+@@A and B
+Only one VFSG stays on line, or if there is no ac electrical power
+The automatic start function is armed
 
-35. The de-prime valve opens during down to
+The de-prime valve opens during start and shutdown to
 Reduce power for the APU BAT
-Increase the load on the APU starter (ASG)
-@@Decrease the load on the APU starter (ASG)
+Increase the load on the APU starter generators (ASG)
+@@Decrease the load on the APU starter generator (ASG)
 
-36. The purpose of de-prime valve is
-Increase the oil viscosity in order to ment of start cycle.
-Prime the APU oil system during hot
-@@Open during start and shutdown in crease the load on the APU starter generator
+The purpose of de-prime valve is to:
+Increase the oil viscosity in order to help improvement of start cycle.
+Prime the APU oil system during hot day start.
+@@Open during start and shutdown in order to decrease the load on the APU starter generator (ASG).
 
-37. The purpose of the APU PMG is to:
+The purpose of the APU PMG is to:
 @@Supply power for fuel module
 Supply power for APU controller
 Supply power for A/C electrical system.
 
-38. What are the purpose of APU?
-@@Supply Electrical power on the ground 14000 fts
-Supply Electrical power on the ground
-Supply Electrical power and Pneumatic 7 / 10
+What are the purpose of APU?
+Supply Electrical power on the ground and up to 14000 fts
+@@Supply Electrical power on the ground and in the air
+Supply Electrical power and Pneumatic power
 
-39. What does 787 APU supply?
+What does 787 APU supply?
 @@Electrical power only.
 Electrical and bleed air.
 Bleed air only.
 
-40. What does AFT APU tail cone made
+What does AFT APU tail cone made from:
 Steel alloy.
-Titanium
+@@Titanium
 CFRP
 
-41. What is correct about the Data Memory and APUC
-@@They must not be removed at the
-They are located in the AFT cargo
-They are to be removed at the same
+What is correct about the Data Memory Module and APUC
+@@They must not be removed at the same time
+They are located in the AFT cargo compartment
+They are to be removed at the same time
 
-42. What is correct for APU starting?
-@@Do not restart the APU for more than cooling down of the electric starter.
-Make sure that the APU access doors when no observer in voice contact is
-Do not start the APU during refuel
+What is correct for APU starting?
+@@Do not restart the APU for more than 4 times without cooling down of the electric starter.
+Make sure that the APU access doors are APS closed, when no observer in voice contact is available.
+Do not start the APU during refuel operation.
 
-43. What is the correct position of the during APU start and running?
+What is the correct position of the air inlet door during APU start and running?
 @@Full Open
 Open 15 degree
 Full close
 
-44. What is the function of the de-prime
-To decrease drag on the APU ASG condition on the ground
-@@To decrease drag on the APU ASG 8 / 10 condition and shutdown
-To increase drag on the APU ASG during condition and shutdown
+What is the function of the de-prime valve?
+To decrease drag on the APU ASG during hot start condition on the ground
+@@To decrease drag on the APU ASG during cold start condition and shutdown
+To increase drag on the APU ASG during cold start condition and shutdown
 
-45. What is the purpose of the APU oil
-@@To decrease the load on the APU starter ASG.
+What is the purpose of the APU oil de-prime valve?
+@@To decrease the load on the APU starter generator ASG.
 To protected pressure avoid over pressurized.
-To increase the load on the APU starter ASG
+To increase the load on the APU starter generator ASG
 
-46. Which ASG selected to turn APU normal start?
+Which ASG selected to turn APU gearbox during normal start?
 Selected by CMSC schedule
 @@Selected by BPCU schedule
 Odd day ASG 1, even day ASG 2
 
-47. Which fuel nozzle received fuel during
+Which fuel nozzle received fuel during APU START?
 Both are correct.
 @@Duplex nozzle
 Simplex nozzle
 
-48. Which of the following statements
-The tail cone has a forward section minum and an aft section made of Titanium.
-The tail cone has a forward section Fiber Reinforced Plastic and an aft section Titanium.
-@@The tail cone has a forward section and an aft section made of Carbon Fiber Plastic. 49. 9 / 10
+Which of the following statements is TRUE:
+The tail cone has a forward section made of Aluminum and an aft section made of Titanium.
+@@The tail cone has a forward section made of Carbon Fiber Reinforced Plastic and an aft section made of Titanium.
+The tail cone has a forward section made of Titanium and an aft section made of Carbon Fiber Reinforced Plastic.
 
-Which of the following statements
+Which of the following statements is TRUE:
 APU oil supply pump is an LRU.
-@@APU supply and Scavenge pumps gearbox and are not LRUs.
-APU Scavenge pump can be replaced moval of the APU gearbox.
+@@APU supply and Scavenge pumps are internal to the gearbox and are not LRUs.
+APU Scavenge pump can be replaced without removal of the APU gearbox.
 
-50. You can find APU oil level on
+You can find APU oil level on
 EICAS
 @@A and B
-Sight glass 10 / 10
+Sight glass

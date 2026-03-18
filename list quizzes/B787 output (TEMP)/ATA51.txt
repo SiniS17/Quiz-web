@@ -1,200 +1,194 @@
-1. A composite layer is called:
+A composite layer is called:
 A sheet
 @@A ply
 A laminate
 
-2. Approximately, how many percent terial is used on B787?
-0.6
+Approximately, how many percent of composite material is used on B787?
+@@0.6
 0.1
 0.8
 
-3. Approximately, how many percentages ite material does 787 have?
+Approximately, how many percentages of composite material does 787 have?
 40%.
 20%.
-60%.
+@@60%.
 
-4. Disadvantages of sandwich structure:
+Disadvantages of sandwich structure:
 Bad stiffness versus weight ratio.
 @@Bolted repairs are not recommended.
 Heavy if compared to monolithic structure.
 
-5. For a composite part of solid laminate the toolside is the:
+For a composite part of solid laminate construction, the toolside is the:
 @@Smooth side.
-Side adjacent to the bag when the cure.
+Side adjacent to the bag when the part is being cure.
 Rough side.
 
-6. Horizontal stabilizer has:
-@@05 stringers and no spars
+Horizontal stabilizer has:
+05 stringers and no spars
 05 spars and 05 stringers
-05 spars and no stringers 1 / 8
+@@05 spars and no stringers
 
-7. How can you locate fuselage stringers side of the aircraft?
-The stringers runs along the fuselage of the shear ties.
-@@The stringers runs along the fuselage shear tie end fasteners.
-The stringers are riveted to the fuselage
+How can you locate fuselage stringers from the outside of the aircraft?
+The stringers runs along the fuselage in the middle of the shear ties.
+@@The stringers runs along the fuselage between the shear tie end fasteners.
+The stringers are riveted to the fuselage skin.
 
-8. How is the tap test?
+How is the tap test?
 Use ultrasonic technique for test.
 Take the sample for test.
 @@Use tap test tool to test.
 
-9. How many main types of composite there on aircraft structure?
+How many main types of composite structure are there on aircraft structure?
 3
-2
+@@2
 4
 
-10. How many spars does horizontal
-5
+How many spars does horizontal stabilizer have?
+@@5
 4
 2
 
-11. In fabric plies, fiber bundles go:
+In fabric plies, fiber bundles go:
 In one direction
 @@Two directions
 Three directions
 
-12. In tape plies, fiber bundles go:
-Three directions 2 / 8
+In tape plies, fiber bundles go:
+Three directions
 Two directions
 @@In one direction
 
-13. Inspection for high energy impacts 787, it includes:
-An airport jet way that hits the fuselage normal operational speeds or angles
-@@Ground Support Equipment that hits at more than 2mph
-A and B
+Inspection for high energy impacts is new for the 787, it includes:
+An airport jet way that hits the fuselage at more than normal operational speeds or angles
+Ground Support Equipment that hits the structure at more than 2mph
+@@A and B
 
-14. Interwoven Wire Fabric (IWWF) is:
-Is the middle layer of the fuselage that bronze wires that are woven into the
-Is the inner layer of the fuselage that bronze wires that are woven into the
-@@Is the outer layer of the fuselage that bronze wires that are woven into the
+Interwoven Wire Fabric (IWWF) is:
+Is the middle layer of the fuselage that has phosphor bronze wires that are woven into the carbon fabric.
+Is the inner layer of the fuselage that has phosphor bronze wires that are woven into the carbon fabric.
+@@Is the outer layer of the fuselage that has phosphor bronze wires that are woven into the carbon fabric.
 
-15. Ram Damage Checker (RDC)
+Ram Damage Checker (RDC)
 Use RDC on metal structure.
-@@Use RDC only on solid laminate structure 5/8-inch thickness.
+@@Use RDC only on solid laminate structure less that 5/8-inch thickness.
 Use the RDC on sandwich structure.
 
-16. Ramp Damage Checker works on
+Ramp Damage Checker works on the principle of
 Eddy current
-Ultrasonic
+@@Ultrasonic
 Magnetic
 
-17. Resin in composite structure is:
-@@The glue that holds fibers together. 3 / 8
+Resin in composite structure is:
+@@The glue that holds fibers together.
 The layers of tape structure.
-Cured in one hour for all kinds of epoxy
+Cured in one hour for all kinds of epoxy systems.
 
-18. The flat area at the border of the ponent that does not have core is called:
+The flat area at the border of the honeycomb component that does not have core is called:
 Bag side
 Face sheet
-Edgeband
+@@Edgeband
 
-19. The impact can cause internal structure
-A tool is dropped on the composite visible damage
-@@GSE hits the structure at more than
+The impact can cause internal structure damage
+A tool is dropped on the composite structure and no visible damage
+@@GSE hits the structure at more than 2 mph.
 Liquid spill on the structure surface
 
-20. The manufacture's reference document tural repair is:
+The manufacture's reference document for structural repair is:
 @@The Structural Repair Manual
 The Maintenance Manual
 The Maintenance Schedule
 
-21. The outer layer of the fuselage that bronze wires woven into the carbon
+The outer layer of the fuselage that has phosphor bronze wires woven into the carbon fabric is called
 @@IWWF (Interwoven Wire Fabric)
-ORWL (Outer Reinforcement Wire
-LPOL (Lightning Protection Outer
+ORWL (Outer Reinforcement Wire Layer)
+LPOL (Lightning Protection Outer Layer)
 
-22. The side of a composite part that the vacuum bag during the manufacture posite part is called:
+The side of a composite part that was cured against the vacuum bag during the manufacture of the composite part is called:
 @@Bag side
 Tool side
-Face sheet 4 / 8
+Face sheet
 
-23. The stiffest composite is:
+The stiffest composite is:
 They are the same
 FFRP
-CFRP
+@@CFRP
 
-24. There are two types of composite
+There are two types of composite structure:
 @@Sandwich and Solid Laminate.
 Sandwich and Honeycomb.
 Solid Laminate and Tape.
 
-25. There are two types of plies (layers) nate construction:
-@@1. Fabric - fiber bundles go in one
+There are two types of plies (layers) for solid laminate construction:
+1. Fabric - fiber bundles go in one direction, 2. Tape - fiber bundles go in two directions.
+@@1. Fabric - fiber bundles go in two directions, 2. Tape - fiber bundles go in one direction.
+1. Laminate - fiber bundles go in two directions, 2. Interwoven - fiber bundles go in one direction.
 
-Tape - fiber bundles go in two directions.
-1. Fabric - fiber bundles go in two
-
-Tape - fiber bundles go in one direction.
-1. Laminate - fiber bundles go in two
-
-Interwoven - fiber bundles go in one
-
-26. What are the types of composite
+What are the types of composite construction?
 Laminate and honeycomb
 Sandwich and honeycomb
 @@Sandwich and solid laminate
 
-27. What is correct about composite als?
-When stored at freezer temperature, comes hard
-The lower the temperature, the quicker becomes hard
-@@It must be stored in a freezer 5 / 8
+What is correct about composite Pre-preg materials?
+When stored at freezer temperature, the resin becomes hard
+The lower the temperature, the quicker the resin becomes hard
+@@It must be stored in a freezer
 
-28. What is the QCR meaning?
+What is the QCR meaning?
 Quality Composite Repair.
 Quartz Composite Resin.
 @@Quick Composite Repair.
 
-29. When there is a structure damage step is to check
+When there is a structure damage found, the first step is to check
 With Boeing rep
 SRM chapter 51
 @@AMM chapter 05
 
-30. Which component is made of titanium?
-Pylons.
+Which component is made of titanium?
+@@Pylons.
 Stringers.
 Spars.
 
-31. Which component of the wing is minum?
-Ribs.
+Which component of the wing is made of aluminum?
+@@Ribs.
 Spars.
 Stringers.
 
-32. Which defect is shorter and wider?
+Which defect is shorter and wider?
 Scratch
-Nick
+@@Nick
 Gouge
 
-33. Which of the defines below belong damage?
-@@Is when a separation of materials adhesive failure
-Is when the separation of plies occurs −laminate material. 6 / 8
-Is a line of damage of any depth and material which causes a cross−sectional
+Which of the defines below belong to a de-bonding damage?
+@@Is when a separation of materials occurs due to an adhesive failure
+Is when the separation of plies occurs in a multi-laminate material.
+Is a line of damage of any depth and length in the material which causes a cross-sectional area change.
 
-34. Which of the defines below belong tion damage?
-Is a line of damage of any depth and material which causes a cross−sectional
-@@Is when the separation of plies occurs −laminate material.
-Is when a separation of materials adhesive failure
+Which of the defines below belong to a delamination damage?
+Is a line of damage of any depth and length in the material which causes a cross-sectional area change.
+@@Is when the separation of plies occurs in a multi-laminate material.
+Is when a separation of materials occurs due to an adhesive failure
 
-35. Which of the following is NOT the composite material?
-@@Under normal operating conditions, faster in composites than they do in
+Which of the following is NOT the advantage of composite material?
+@@Under normal operating conditions, cracks grows faster in composites than they do in metal.
 Composites do not corrode.
-Composites are generally lighter than ture.
+Composites are generally lighter than metal structure.
 
-36. Which of the following is NOT the Carbon Fiber Reinforced Plastic (CFRP)?
+Which of the following is NOT the advantages of Carbon Fiber Reinforced Plastic (CFRP)?
 @@Easy to corrode.
-Less weight than almost all other materials.
+Less weight than almost all other common aircraft materials.
 Strong and stiff
 
-37. Which of the following is NOT the Fiberglass Fiber Reinforced Plastic (FFRP)?
-Do not conduct electricity and can dissimilar materials.
-Are transparent to radar waves - can 7 / 8 radomes.
+Which of the following is NOT the advantages of Fiberglass Fiber Reinforced Plastic (FFRP)?
+Do not conduct electricity and can be used to isolate dissimilar materials.
+Are transparent to radar waves - can be used in radomes.
 @@More expensive than CFRP.
 
-38. You can find the fuselage stringer
+You can find the fuselage stringer location in:
 AMM chapter 20
-SRM
+@@SRM
 AMM chapter 06
 
-39. You can use Ramp Damage Checker
+You can use Ramp Damage Checker (RDC) on:
 A and B
 Sandwich structure only
-@@Solid laminate structure only 8 / 8
+@@Solid laminate structure only

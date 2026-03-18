@@ -1,423 +1,459 @@
-1. Angle of attack (AOA) sensors send
+Angle of attack (AOA) sensors send data to:
 @@Flight Control Electronics (FCE)
 Air Data Module (ADM)
 Inertial Reference Unit (IRU)
 
-2. During the aircraft is in motion on can align if
-Only if the ERS is currently in the navigation
-@@GNSS data is available and ground than 30 knots
-GNSS data is available and ground 30 knots
+During the aircraft is in motion on ground, the ERS can align if
+Only if the ERS is currently in the navigation mode
+@@GNSS data is available and ground speed is more than 30 knots
+GNSS data is available and ground speed is less than 30 knots
 
-3. From which ADM the air data goes Integrated Standby Flight Display (ISFD)
+From which ADM the air data goes directly to the Integrated Standby Flight Display (ISFD)
 Left ADM
 Right ADM
 @@Center ADM
 
-4. How can you manually control the Radar) tilt angle?
-By using the WXR control panel on
-The control of WXR (Weather Radar) ISSPU (Integrated Surveillance System is completely automatic
-@@Select weather radar page on TCP Panel), use TILT CTRL switch to select control the tilt angle.
+How can you manually control the WXR (Weather Radar) tilt angle?
+By using the WXR control panel on P8 panel.
+The control of WXR (Weather Radar) tilt angle from ISSPU (Integrated Surveillance System Processor Unit) is completely automatic
+@@Select weather radar page on TCP (Tuning Control Panel), use TILT CTRL switch to select MAN to manually control the tilt angle.
 
-5. How does ADRF (Air Data Reference late air temperature?
-@@Both a and b are correct. 1 / 20
-On the ground the ADRF uses CAC pressor) inlet temperature in air temperature tions.
-In the air the ADRF (Air Data Reference uses the average temperature from elements and the engine inlet air temperature in air temperature calculations.
+How does ADRF (Air Data Reference Function) calculate air temperature?
+@@Both a and b are correct.
+On the ground the ADRF uses CAC (Cabin Air Compressor) inlet temperature in air temperature calculations.
+In the air the ADRF (Air Data Reference Function) uses the average temperature from the 2 TAT sensor elements and the engine inlet air temperature sensors in air temperature calculations.
 
-6. How does ADRF (Air Data Reference late the total pressure?
-Each ADRF gets data from the 3 pitot Module)s, then takes the first pitot ADM calculation.
-@@Each ADRF gets data from the 3 pitot Module)s, then takes the middle value ADM inputs for calculation.
-Each ADRF gets data from the 3 pitot Module)s, then takes the highest value ADM inputs for calculation.
+How does ADRF (Air Data Reference Function) calculate the total pressure?
+Each ADRF gets data from the 3 pitot ADM (Air Data Module)s, then takes the first pitot ADM data input for calculation.
+@@Each ADRF gets data from the 3 pitot ADM (Air Data Module)s, then takes the middle value of the 3 pitot ADM inputs for calculation.
+Each ADRF gets data from the 3 pitot ADM (Air Data Module)s, then takes the highest value of the 3 pitot ADM inputs for calculation.
 
-7. How does the AHRUs/IRUs are cooled?
+How does the AHRUs/IRUs are cooled?
 @@They are passively cooled
-Cooled by air blow from air condition
+Cooled by air blow from air condition pack
 Cooled by liquid from PECS loop
 
-8. How does the DME interrogator calculate tance to the stations?
-Measures the phase difference between signal and the received reply signal
-@@Measures the time between the transmit the received reply signal 2 / 20
-Measures the amplitude difference mit signal and the received reply signal
+How does the DME interrogator calculate the distance to the stations?
+Measures the phase difference between transmit signal and the received reply signal
+@@Measures the time between the transmit signal and the received reply signal
+Measures the amplitude difference between transmit signal and the received reply signal
 
-9. How does the ISFD (Integrated Standby play) get 28VDC power?
+How does the ISFD (Integrated Standby Flight Display) get 28VDC power?
 Directly from hot battery bus
-@@From FCE (Flight Control Electronics)
+@@From FCE (Flight Control Electronics) C1.
 Directly from captain instrument bus.
 
-10. How is the ILS (Instrument Landing (GNSS Landing System) function tuned?
-It can be tuned automatically by the agement Function),manually tuned by gation radio page on the CDU(Control
-It can be tuned automatically by the Navigation Radio),manually tuned by gation radio page on the CDU (Control using the ALTN NAV page on the TCP Panel).
-@@It can be tuned automatically by the Management Function),manually tuned navigation radio page on the CDU (Control Unit) or using the ALTN NAV page on Control Panel).
+How is the ILS (Instrument Landing System)/GLS (GNSS Landing System) function tuned?
+It can be tuned automatically by the FMF (Flight Management Function), manually tuned by using the navigation radio page on the CDU (Control Display Unit).
+It can be tuned automatically by the INR (Integrated Navigation Radio), manually tuned by using the navigation radio page on the CDU (Control Display Unit) or using the ALTN NAV page on the TCP (Tuning Control Panel).
+@@It can be tuned automatically by the FMF (Flight Management Function), manually tuned by using the navigation radio page on the CDU (Control Display Unit) or using the ALTN NAV page on the TCP (Tuning Control Panel).
 
-11. How many data output buses do have?
+How many data output buses do IRU and AHRU have?
 4
-2
+@@2
 5
 
-12. How many LRRA antennas are there
-2 3 / 20
+How many LRRA antennas are there on airplane
+2
 6
-4
+@@4
 
-13. How many TCAS/ATC antenna elements transponder uses to transmit?
+How many TCAS/ATC antenna elements do ATC transponder uses to transmit?
 All 4 elements
 @@Only 1 of the 4 elements
 2 of the 4 elements
 
-14. How many the air data modules (ADM) AC
+How many the air data modules (ADM) are there on AC
 2
 3
-6
+@@6
 
-15. How many Total Air Temperature there on airplane?
-1
+How many Total Air Temperature (TAT) probe are there on airplane?
+@@1
 2
 3
 
-16. How to all intruder traffic with the DER MODE switch
+How to all intruder traffic with the ATP TRANSPONDER MODE switch
 @@Select TA/RA position
 Select XPDR position
 Select TA ONLY position
 
-17. How to load software into the INR
-@@Can only load software into the INR shop
+How to load software into the INR receiver?
+@@Can only load software into the INR receiver in the shop
 Load owning by ODLF function
-Can only load one INR receiver at a from the other INR 4 / 20
+Can only load one INR receiver at a time by cross load from the other INR
 
-18. How to remove TCAS messages and the ND and PFD mini-map?
+How to remove TCAS messages and symbols from the ND and PFD mini-map?
 Push the aural cancel switch
-Select the NORM on TCAS control
+Select the NORM on TCAS control panel
 @@Push the TFC switch (on the EFIS/DSP)
 
-19. How to the flight control modules voted data reference functions (ADRF)
+How to the flight control modules (FCMs) make voted data reference functions (ADRF) data
 Average value selection
 @@Mid-value selection
 Lowest value selection
 
-20. Integrated Surveillance System Processor SPU) connects to Weather Radar Receiver/Transmitter Module (WXR RTM) by:
+Integrated Surveillance System Processor Unit (ISSPU) connects to Weather Radar Receiver/Transmitter Module (WXR RTM) by:
 Digital connection
 @@Fiber optic connection
 Analog connection
 
-21. Low Range Radio Altimeter (LRRA)
-@@Flight Control Electronics (FCE) cabinets mon Data Network (CDN)
+Low Range Radio Altimeter (LRRA) sends data to:
+@@Flight Control Electronics (FCE) cabinets and Common Data Network (CDN)
 Only FCE cabinet
 IRN receivers
 
-22. The ADMs change the air pressures
+The ADMs change the air pressures to?
 The ARINC 629 signals.
 @@The ARINC 429 signals.
 The ARINC 329 signals.
 
-23. The Air Data Modules (ADMs)?
-Change the pitot and static pressure 5 / 20 data.
-@@Change the pitot and static pressure signal data and send the digital data control electronics (ACE) in the flight ics (FCE) cabinets.
-Send the digital data to the actuator ics (ACE) in the flight control electronics
+The Air Data Modules (ADMs)?
+Change the pitot and static pressure data to digital data.
+@@Change the pitot and static pressure data to digital signal data and send the digital data to the actuator control electronics (ACE) in the flight control electronics (FCE) cabinets.
+Send the digital data to the actuator control electronics (ACE) in the flight control electronics (FCE) cabinets.
 
-24. The Air Data Reference System (ADRS) culate the airplane air data such as
+The Air Data Reference System (ADRS) will not calculate the airplane air data such as
 @@Radio altitude
 Temperature
 Airspeed
 
-25. The airplane personality module nect to each IRU and AHRU use to
-@@Gives correction for mounting tray
-Change ARINC 429 signal of each fiber optic signal
-Gives back up aircraft attitude data AHRU every replacemen
+The airplane personality module (APM) that connect to each IRU and AHRU use to
+@@Gives correction for mounting tray misalignments
+Change ARINC 429 signal of each IRU and AHRU to fiber optic signal
+Gives back up aircraft attitude data for each IRU and AHRU every replacement
 
-26. The Angle Of Attack (AOA) sensors gle?
-Between the wing and the direction
-@@Between the wing chord line and the airflow
-Between the wing chord line and the
+The Angle Of Attack (AOA) sensors sense the angle?
+Between the wing and the direction of the airflow.
+@@Between the wing chord line and the direction of the airflow
+Between the wing chord line and the airflow.
 
-27. The ATC transponder do not responds this data to the ground station
-The 4-digit aircraft identifier (mode
-@@Aircraft altitude and a 24-bit identification 6 / 20 (mode S)
+The ATC transponder do not responds and sends this data to the ground station
+The 4-digit aircraft identifier (mode A)
+@@Aircraft altitude and a 24-bit identification number (mode S)
 Aircraft altitude (mode C)
 
-28. The CMCF ground test lets you do
+The CMCF ground test lets you do tests of the:
 Total air temperature system only
 Air data system only
-@@Air data system, Total air temperature Heaters.
+@@Air data system, Total air temperature system and Heaters.
 
-29. The damage to the static ports is?
+The damage to the static ports is?
 Within certain allowable limit
 Permitted
 @@No permitted
 
-30. The earth reference system (ERS) primary inertial parameters for:
+The earth reference system (ERS) calculates these primary inertial parameters for:
 Velocity, Position only
 @@Attitude, Heading, Velocity, Position
 Attitude only
 
-31. The ISFD gives the flight crew an source of airplane that are?
-@@Attitude, airspeed, and barometric
-Magnetic heading, airspeed, and barometric tude
+The ISFD gives the flight crew an additional (third) source of airplane that are?
+@@Attitude, airspeed, and barometric altitude
+Magnetic heading, airspeed, and barometric altitude
 Attitude, radio altitude, and mach
 
-32. The pitot probes damage is:
+The pitot probes damage is:
 @@No Permitted
 Permitted
-Within certain allowable limit 33. 7 / 20
+Within certain allowable limit
 
-The pitot-static system has these
+The pitot-static system has these components?
 6 static ports
 @@3 pitot probes and 6 static ports
 3 pitot probes
 
-34. The pitot-static system sends pitot static pressure to the Air Data Modules changing air pressures to ARINC 429 to:
+The pitot-static system sends pitot pressure and static pressure to the Air Data Modules (ADM) for changing air pressures to ARINC 429 data, then send to:
 @@The ADRF.
 The ADRS.
 The FCMS.
 
-35. The Probe heat is on?
+The Probe heat is on?
 When two engine is shutdown
 When gpu connected
 @@When an engine is running
 
-36. The SET INERTIAL POSITION line INIT page shows 'Boxes' when?
-@@GPS data is not available - Position quired
-The airplane personality module data data manual entry required
-GPS data is available - Position data quired
+The SET INERTIAL POSITION line of the CDU POS INIT page shows 'Boxes' when?
+@@GPS data is not available - Position data entry required
+The airplane personality module data is fail - APM data manual entry required
+GPS data is available - Position data entry not required
 
-37. The static ports are:
+The static ports are:
 @@Not heated.
 Heated.
-Heated by hot air. 38. 8 / 20
+Heated by hot air.
 
 The TAT probe has a(n):
-@@The internal 115v ac heater to prevent
-The internal 110v ac heater to prevent
-The internal 125v ac heater to prevent
+@@The internal 115v ac heater to prevent ice.
+The internal 110v ac heater to prevent ice.
+The internal 125v ac heater to prevent ice.
 
-39. The TAT probe is on?
+The TAT probe is on?
 @@The left side of the forward fuselage.
 The right side of the forward fuselage.
 The left side of the aft fuselage.
 
-40. The types of air pressure inputs from and static ports on the airplane fuselage
+The types of air pressure inputs from pitot probes and static ports on the airplane fuselage are?
 The pitot air pressure
 The static air pressure
-@@The total pressure from pitot probes sure from static ports
+@@The total pressure from pitot probes and static pressure from static ports
 
-41. To prevent PWS operation during
+To prevent PWS operation during engine runs
 Set WXR controls in TEST mode
 @@Open the ISSPU circuit breakers
 Run engine with N1 more than 60%
 
-42. What are different between IRUs
-@@The AHRUs have decreased-performance
-They are the same and fully interchange
-The IRUs are active cooled but the sively cooled
+What are different between IRUs and AHRU?
+@@The AHRUs have decreased-performance gyros
+They are the same and fully interchange able
+The IRUs are active cooled but the AHRUs are passively cooled
 
-43. What do you should note when replacing component?
-@@Do not replace an APM and the related at the same time
-Must replace an APM and the related 9 / 20 at the same time
-Have to replace an IRU and onside time
+What do you should note when replacing the IRS component?
+@@Do not replace an APM and the related IRU or AHRU at the same time
+Must replace an APM and the related IRU or AHRU at the same time
+Have to replace an IRU and onside AHRU at the same time
 
-44. What does Aircraft Installation Delay use (regarding to LRRA)
-@@Compensate for the length of the
-Reduce the difference between the received and the transmitted signals
-Radio altimeter altitude show zero weighs on wheel
+What does Aircraft Installation Delay (AID) function use (regarding to LRRA)
+@@Compensate for the length of the signal path
+Reduce the difference between the frequency of received and the transmitted signals
+Radio altimeter altitude show zero when airplane weighs on wheel
 
-45. What does the low range radio altimeter system measures?
-@@The height of the airplane above the
-The height of the airplane above the
+What does the low range radio altimeter (LRRA) system measures?
+The height of the airplane above the sea level
+@@The height of the airplane above the ground
 The pressure altitude of the airplane
 
-46. What does the standby magnetic
-Aircraft heading relative to the nearest
-Aircraft heading relative to the true
-@@Aircraft heading relative to the magnetic
+What does the standby magnetic compass shows?
+Aircraft heading relative to the nearest VOR station
+Aircraft heading relative to the true north pole
+@@Aircraft heading relative to the magnetic north pole
 
-47. What is Automatic Dependent Surveillance system?
-Provides ground control personnel in XPDR mode
-@@Provides flight crews and ground data of nearby airplanes
-Respond flight crews and ground with airplane data when interrogated 48. 10 / 20
+What is Automatic Dependent Surveillance (ADS-B) system?
+Provides ground control personnel data of airplanes in XPDR mode
+@@Provides flight crews and ground control personnel data of nearby airplanes
+Respond flight crews and ground control personnel with airplane data when interrogated
 
-What is the function of TCAS/ATC
-To control the transmitting the interrogation and receiving the reply signals
-@@To connect either the left or right Surveillance System Processor Unit) to Alert and Collision Avoidance System)/ATC Control) antennas.
-To connect the antenna to RPDU (Remote Distribution Unit)
+What is the function of TCAS/ATC antenna relays?
+To control the transmitting the interrogation signals and receiving the reply signals
+@@To connect either the left or right ISSPU (Integrated Surveillance System Processor Unit) to the TCAS (Traffic Alert and Collision Avoidance System)/ATC (Air Traffic Control) antennas.
+To connect the antenna to RPDU (Remote Power Distribution Unit)
 
-49. What is the function of the compensation standby magnetic compass?
-To adjust the intergrated light in the netic compass.
-To adjust the position of the standby pass.
-@@To correct for magnetic deviations currents in the flight deck.
+What is the function of the compensation screws of standby magnetic compass?
+To adjust the integrated light in the standby magnetic compass.
+To adjust the position of the standby magnetic compass.
+@@To correct for magnetic deviations caused by electric currents in the flight deck.
 
-50. What is the purpose of the VOR (VHF tional Range) function in The INR (Integrated tion Radio)?
-It calculates the relative bearing of the ground station and finds the station nals.
-@@It calculates the magnetic bearing from the ground station and finds the signals.
-It calculates the magnetic heading from the ground station and finds the signals 11 / 20
+What is the purpose of the VOR (VHF Omnidirectional Range) function in The INR (Integrated Navigation Radio)?
+It calculates the relative bearing of the airplane from the ground station and finds the station identifier signals.
+@@It calculates the magnetic bearing of the airplane from the ground station and finds the station identifier signals.
+It calculates the magnetic heading of the airplane from the ground station and finds the station identifier signals
 
-51. What is the Red color show for intensity weather?
+What is the Red color show for intensity of the weather?
 Moderate returns of moisture
 @@Heavy returns of moisture
 Turbulence
 
-52. When aligning Earth Reference System GPS position is received, the POS INIT will?
-Display blank in the SET INERTIAL
-@@Display dashes in the SET INERTIAL
-Display boxes in the SET INERTIAL
+When aligning Earth Reference System (ERS), if a GPS position is received, the POS INIT page on the CDU will?
+Display blank in the SET INERTIAL POSITION line
+@@Display dashes in the SET INERTIAL POSITION line
+Display boxes in the SET INERTIAL POSITION line
 
-53. When at least 1 IRS (Inertial Reference switch is ON and the ERS (Earth Reference is in the ALIGN mode, where can you remaining for the ERS alignment?
-TIME TO ALIGN(in minutes) on the Display).
-@@TIME TO ALIGN(in minutes) on the Flight Display) mini-map.
-TIME TO ALIGN (in minutes) on the tion Display).
+When at least 1 IRS (Inertial Reference System) switch is ON and the ERS (Earth Reference System) is in the ALIGN mode, where can you see the time remaining for the ERS alignment?
+TIME TO ALIGN(in minutes) on the HUD (Head Up Display).
+@@TIME TO ALIGN(in minutes) on the PFD (Primary Flight Display) mini-map.
+TIME TO ALIGN (in minutes) on the MFD(Multifunction Display).
 
-54. When does the ADRF use TAT probe perature calculations?
+When does the ADRF use TAT probe data for temperature calculations?
 Groundspeed is less than 50 knots
 When an engine is running
 @@Groundspeed is at more than 50 knots
 
-55. When does the IRS ON BAT light (PFC/IRS/HR) control panel comes on
-When the ground crews call sound 12 / 20
-@@Either IRS switch is in the ON position (or AHRU) primary power is removed
-When aircraft is powered with only source during an IRS switch is ON position
+When does the IRS ON BAT light on the (PFC/IRS/HR) control panel comes on
+When the ground crews call sound
+@@Either IRS switch is in the ON position when an IRU (or AHRU) primary power is removed
+When aircraft is powered with only one main power source during an IRS switch is ON position
 
-56. When does the radio altitude will
-@@The radio altitude is more than 2500
-The radio altitude is between -20 and
-Airplane descends through the radio
+When does the radio altitude will not show?
+@@The radio altitude is more than 2500 feet
+The radio altitude is between -20 and 2500 feet
+Airplane descends through the radio minimums
 
-57. When push the TFC (traffic) switch, below the TCAS messages will not show?
+When push the TFC (traffic) switch, which display below the TCAS messages will not show?
 PFD mini-map mode
 ND in the MAP mode
 @@ND in the PLAN mode
 
-58. When replace the IRU (Inertial Reference AHRU (Attitude and Heading Reference note:
-@@Do not replace the IRU (or AHRU) APM (Airplane Personality Module) at
-Replace the IRU (or AHRU) when there APM (Airplane Personality Module) maintenance sage
-Replace the IRU (or AHRU) and the (Airplane Personality Module) at the
+When replace the IRU (Inertial Reference Unit) or AHRU (Attitude and Heading Reference Unit) we must note:
+@@Do not replace the IRU (or AHRU) and the related APM (Airplane Personality Module) at the same time
+Replace the IRU (or AHRU) when there is a related APM (Airplane Personality Module) maintenance message
+Replace the IRU (or AHRU) and the related APM (Airplane Personality Module) at the same time
 
-59. When the transponder modes is ALT air traffic control (ATC) function will?
+When the transponder modes is ALT RPTG OFF, the air traffic control (ATC) function will?
 Does not respond to interrogations
 @@Responds with mode A data only
-Responds with mode A and mode 13 / 20
+Responds with mode A and mode C data
 
-60. When there is a terrain conflict threat, sage shows on the ND (Navigation Display) (Primary Flight Display) mini-map?
+When there is a terrain conflict threat, what message shows on the ND (Navigation Display) and PFD (Primary Flight Display) mini-map?
 TERRAIN shows in red.
 TERR POS shows in red.
-@@TERRAIN shows in red if the alert is shows amber if the alert is a caution.
+@@TERRAIN shows in red if the alert is a warning and shows amber if the alert is a caution.
 
-61. When Use the MKP (Multifunction ter the Drag Factor and Fuel Flow Factor should note:
-Fuel Flow values must be followed
-@@Drag and fuel flow values must be slash
-Drag-only entries may be entered slash preceding
+When Use the MKP (Multifunction Keypad) to enter the Drag Factor and Fuel Flow Factor values, you should note:
+Fuel Flow values must be followed by a slash
+@@Drag and fuel flow values must be separated by a slash
+Drag-only entries may be entered with or without a slash preceding
 
-62. Where are the GPS antennas located?
-@@One on the top of the fuselage and bottom
-On the top of the fuselage
+Where are the GPS antennas located?
+One on the top of the fuselage and the other on the bottom
+@@On the top of the fuselage
 On the bottom of the fuselage
 
-63. Where are the TCAS/ATC antennas
-@@One on the top of the fuselage and bottom
+Where are the TCAS/ATC antennas located?
+@@One on the top of the fuselage and the other on the bottom
 On the bottom of the fuselage
 On the top of the fuselage
 
-64. Where do you load EGPWS database
+Where do you load EGPWS database for update
 CCR
 EFB
-ISSPU 14 / 20
+@@ISSPU
 
-65. Where does the air data modules the digital data
-To File Server Module (FSM) in the cabinets
-To General Processor Modules (GPM) cabinets
-@@To the Actuator Control Electronics cabinets
+Where does the air data modules (ADM) will send the digital data
+To File Server Module (FSM) in the Core Net Work cabinets
+To General Processor Modules (GPM) in the CCR cabinets
+@@To the Actuator Control Electronics (ACE) in the FCE cabinets
 
-66. Where does the display function transponder code ?
+Where does the display function show the 4-digit transponder code?
 In the right bottom of NDs
 In the ATA 34 maintenance page
 @@In the AUX area on the PFD
 
-67. Where does the marker beacon (MB) active
+Where does the marker beacon (MB) function can active
 In in the left and right INR receiver
 In the right INR receiver only
 @@In the left INR receiver only
 
-68. Where is ILS Glideslope Antenna?
-On the bottom of fuselage between landing gear
-@@Behind the nose radome and below radar
-Behind the nose radome and above radar
+Where is ILS Glideslope Antenna?
+On the bottom of fuselage between nose and main landing gear
+@@Behind the nose radome and below the weather radar
+Behind the nose radome and above the weather radar
 
-69. Where is the Flight Management located?
-In the FCE 15 / 20
+Where is the Flight Management Function (FMF) located?
+In the FCE
 In the CDU
 @@In the CCR cabinets
 
-70. Where is the marker beacon (MB) ed?
-Only in the left integrated navigation
-@@On both INR but only active only active INR
-Only in the right integrated navigation
+Where is the marker beacon (MB) function located?
+Only in the left integrated navigation radio (INR)
+@@On both INR but only active only active in the left INR
+Only in the right integrated navigation radio (INR)
 
-71. Where the capture function receives nals through:
+Where the capture function receives localizer signals through:
 The localizer antenna in the radome
-@@The VOR antenna on top of the vertical
+@@The VOR antenna on top of the vertical stabilizer
 The glideslope antenna in the radome
 
-72. Where the TAT data show
+Where the TAT data show
 @@On EICAS
 TAT data does not show
 On fuel Maintenace data page
 
-73. Which altitude data will show on instrument source select switch in the
-@@Data from the Integrated Standby (ISFD)
-Data from the Flight Control Electronics
-Data from the Global Positioning System
+Which altitude data will show on PFD when the instrument source select switch in the ALTN position
+@@Data from the Integrated Standby Flight Display (ISFD)
+Data from the Flight Control Electronics (FCE)
+Data from the Global Positioning System (GPS)
 
-74. Which below function is not combined grated Navigation Radio (INR) system
+Which below function is not combined on the Integrated Navigation Radio (INR) system
 VHF Omnidirectional Ranging (VOR)
 Approach and landing guidance (ILS/GLS)
-@@Traffic alert and Collision Avoidance 16 / 20
+@@Traffic alert and Collision Avoidance System (TCAS)
 
-75. Which component makes the ADS-B
+Which component makes the ADS-B Out signal?
 The software in CCR
 @@Function in the ISSPU
 Function in the IRU
 
-76. Which component send the localizer lope data to the ISFD (Integrated Standby play)?
-The left INR (Integrated Navigation
-The right INR (Integrated Navigation
-@@Both of left and right INR (Integrated Radio).
+Which component send the localizer and glideslope data to the ISFD (Integrated Standby Flight Display)?
+The left INR (Integrated Navigation Radio).
+The right INR (Integrated Navigation Radio).
+@@Both of left and right INR (Integrated Navigation Radio).
 
-77. Which data do the VOR function receives late?
-The bearing from the airplane to nondirectional con (NDB) ground stations
-@@The magnetic bearing of the airplane con
-The airplane-to-ground slant range
+Which data do the VOR function receives will calculate?
+The bearing from the airplane to nondirectional beacon (NDB) ground stations
+@@The magnetic bearing of the airplane from the beacon
+The airplane-to-ground slant range distance
 
-78. Which mode does the TCAS function ing?
-@@Mode C
+Which mode does the TCAS function transmits using?
+Mode C
 Mode A
-Mode S
+@@Mode S
 
-79. Which probes/sensors send analog to ACE (Actuator Control Electronics)?
+Which probes/sensors send analog signal directly to ACE (Actuator Control Electronics)?
 @@Left and right AOA sensors.
 Center pitot probe.
-TAT probe. 17 / 20
+TAT probe.
 
-80. Which system is not functioned of surveillance system (ISS)?
-@@The low range radio altimeter (LRRA)
-Terrain awareness and warning system
-Traffic alert and collision avoidance
+Which system is not functioned of the integrated surveillance system (ISS)?
+@@The low range radio altimeter (LRRA) system
+Terrain awareness and warning system (TAWS)
+Traffic alert and collision avoidance system (TCAS)
 
-48. Non-normal failure indications for erence system (ADRS) show as: (level A. Failure flags (amber) on the primary (PFD) B. Failure flags (green) on the head-up C. All above are correct
+Non-normal failure indications for the air data reference system (ADRS) show as:
+Failure flags (amber) on the primary flight display (PFD)
+Failure flags (green) on the head-up display (HUD)
+@@All above are correct
 
-51. The element colors of TCAS/ATC Antenna 1) A. Yellow, Black B. Blue, Red C. A and B are corrected
+The element colors of TCAS/ATC Antenna are:
+Yellow, Black
+Blue, Red
+@@A and B are corrected
 
-58. The ERS components are in: (level A. The fwd EE bay B. The aft EE bay C. The mid EE bay
+The ERS components are in:
+The fwd EE bay
+@@The aft EE bay
+The mid EE bay
 
-59. Where is the ADRF (Air Data Reference located? (level 1) A. In the FCM (flight control module) B. In the CCR (Common Computing Resource) C. The ERS (Earth Reference System)
+Where is the ADRF (Air Data Reference Function) located?
+@@In the FCM (flight control module)
+In the CCR (Common Computing Resource)
+The ERS (Earth Reference System)
 
-62. Where is the PFD (primary flight speed and altitude data if there is a failure 18 / 20 (Flight Control Module)? (level 1) A. Integrated Standby Flight Display B. Standby Magnetic Compass C. Attitude and Heading Reference Unit
+Where is the PFD (primary flight displays) take airspeed and altitude data if there is a failure of all FCM (Flight Control Module)?
+@@Integrated Standby Flight Display
+Standby Magnetic Compass
+Attitude and Heading Reference Unit
 
-63. A function of the ISS (Integrated tem) is : (level 2) A. Approach and landing guidance B. The FMF (Flight Management Function) C. WXR (Weather Radar) with PWS (Predictive hear System)
+A function of the ISS (Integrated Surveillance System) is:
+Approach and landing guidance
+The FMF (Flight Management Function)
+@@WXR (Weather Radar) with PWS (Predictive Windshear System)
 
-66. During inspection of the Low Range ter (LRRA) antenna, if connector nuts sion but there is corrosion on the surface na connector and the backplate (level A. Replace the antenna immediately B. Do not replace the antenna C. Replace the antenna after 03 flight
+During inspection of the Low Range Radio Altimeter (LRRA) antenna, if connector nuts have no corrosion but there is corrosion on the surface of the antenna connector and the backplate
+Replace the antenna immediately
+@@Do not replace the antenna
+Replace the antenna after 03 flight day
 
-67. What data will be sent to the ground The ATC (Air Traffic Control) function interrogation signals)? (level 2) A. Aircraft Radio Altitude or Identifier B. Aircraft Bearing Data or Identifier C. Aircraft Barometric Altitude or Identifier
+What data will be sent to the ground station by The ATC (Air Traffic Control) function (after decoding interrogation signals)?
+Aircraft Radio Altitude or Identifier Data
+Aircraft Bearing Data or Identifier Data
+@@Aircraft Barometric Altitude or Identifier Data
 
-68. Which condition make the PWS (Predictive hear System) goes off? (level 2) A. The airplane descends below 2300 tude B. Airplane is on the ground and An 19 / 20 takeoff thrust C. The airplane climbs above 2300 feet
+Which condition make the PWS (Predictive Windshear System) goes off?
+The airplane descends below 2300 feet radio altitude
+Airplane is on the ground and An engine goes to takeoff thrust
+@@The airplane climbs above 2300 feet radio altitude
 
-69. The DME (Distance Measuring Equipment) rogators send and receive RF (Radio Frequency) through: (level 2) A. The On-side DME Antenna B. The Off-side DME Antenna C. The Both DME Antenna
+The DME (Distance Measuring Equipment) interrogators send and receive RF (Radio Frequency) signals through:
+@@The On-side DME Antenna
+The Off-side DME Antenna
+The Both DME Antenna
 
-70. How many copies of the Flight Management tion software in the CCR (Common Computing source) cabinets (level 2) A. There are Two copies: One in Left CCR B. There are Three copies: Two in Left CCR C. There are Three copies: One in Left CCR
+How many copies of the Flight Management Function software in the CCR (Common Computing Resource) cabinets
+There are Two copies: One in Left CCR, One in Right CCR
+@@There are Three copies: Two in Left CCR, One in Right CCR
+There are Three copies: One in Left CCR, Two in Right CCR
 
-84. The air data reference system (ADRS) ponents and software functions to calculate parameter such as: (level 3) A. Airspeed, Barometric altitude and B. Temperature C. Airspeed 20 / 20
+The air data reference system (ADRS) uses its components and software functions to calculate airplane parameter such as:
+@@Airspeed, Barometric altitude and Temperature
+Temperature
+Airspeed

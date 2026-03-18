@@ -1,239 +1,239 @@
-1. After packing brake is set, when the come on?
-@@Brake force increases to more than any brakes
-Brake force decreases to less than brakes
-Brake force increases to more than brakes
+After packing brake is set, when the brake red light come on?
+Brake force increases to more than 25 percent on any brakes
+Brake force decreases to less than 2 percent on all brakes
+@@Brake force increases to more than 25 percent on all brakes
 
-2. Autobrake selector switch release
-Automatically to DISARM when A/C
+Autobrake selector switch release to DISARM when
+Automatically to DISARM when A/C speed < 60kts.
 Reject take off.
-@@Brake pedal > required for selected speedbrake lever stowed or either thrust idle.
+@@Brake pedal > required for selected clamping force, speedbrake lever stowed or either thrust lever out of idle.
 
-3. BSCU Taxi brake mode:
-Releases brake if wheel speed is 50 groundspeed.
-Parking brake set and thrust lever to 100%.
-@@FWD trucks brake first then aft brakes quent action with speed < 70kts.
+BSCU Taxi brake mode:
+Releases brake if wheel speed is 50 kts slower than groundspeed.
+Parking brake set and thrust lever > idle. Brakes set to 100%.
+@@FWD trucks brake first then aft brakes on subsequent action with speed < 70kts.
 
-4. During ALT extension, Which actuator LDG door?
+During ALT extension, Which actuator open main LDG door?
 @@MLG door ALT uplock actuator
 MLG ALT uplock actuator
 MLG door extend/retract actuator
 
-5. During installation of the wheel and
-@@If the holes for the bolts do not align, 1 / 10 tighten the axle nut up to 6 degrees holes.
-If the holes for safety bolts do not nut a bit to align the holes.
-Do not turn the wheel while tighten
+During installation of the wheel and tire assembly:
+@@If the holes for the bolts do not align, continue to tighten the axle nut up to 6 degrees more, to align the holes.
+If the holes for safety bolts do not align, loosen the nut a bit to align the holes.
+Do not turn the wheel while tighten the axle nut.
 
-6. During retraction, the MLG must be
+During retraction, the MLG must be
 In Middle position.
 @@In stow position.
 In Tilt position.
 
-7. How do you close main landing gear one 90 KVA EP?
+How do you close main landing gear doors with only one 90 KVA EP?
 Cannot close main landing gear doors.
-@@Close each main landing gear doors prevent overload.
-Close 2 main landing gear doors at
+@@Close each main landing gear doors at a time to prevent overload.
+Close 2 main landing gear doors at the same time.
 
-8. How do you know if the brake is hot the Gear Synoptic page?
-Brake Temp message appears next
-@@Number and brake symbol change
-Number and Brake symbol change
+How do you know if the brake is hot while looking at the Gear Synoptic page?
+Brake Temp message appears next to brake symbol.
+Number and brake symbol change to solid white.
+@@Number and Brake symbol change to amber.
 
-9. How do you open nose landing gear maintenance?
-Use gear door control switch on P40
-Use gear door control switch on P57
-@@Use gear door control switch on P56
+How do you open nose landing gear door for ground maintenance?
+Use gear door control switch on P40 panel.
+Use gear door control switch on P57 panel.
+@@Use gear door control switch on P56 panel.
 
-10. How does the landing gear extend?
-Use hydraulic extend actuator. 2 / 10
+How does the landing gear extend?
+Use hydraulic extend actuator.
 @@Use gravity and air load only.
 Use electric extend actuator.
 
-11. How many proximity sensing data are there for the landing gear system?
+How many proximity sensing data concentrators are there for the landing gear system?
 2
-4
+@@4
 6
 
-12. How many sensors do tail strike
+How many sensors do tail strike system have?
 1 sensor.
-@@No sensor because it is open/short
+@@No sensor because it is open/short circuit.
 2 sensors.
 
-13. How to close the forward nose LDG maintenance?
-@@Nose LDG safety handle in Stow/ Center pressurize/ door control and arm switch
-Nose LDG safety handle in Stow/ Center pressurize/ door control and arm switch
-Nose LDG safety handle in Stow/ Center pressurize/ door control and arm switch
+How to close the forward nose LDG door for ground maintenance?
+@@Nose LDG safety handle in Stow/ Center hydraulic pressurize/ door control and arm switch on P40
+Nose LDG safety handle in Stow/ Center hydraulic pressurize/ door control and arm switch on P56
+Nose LDG safety handle in Stow/ Center hydraulic pressurize/ door control and arm switch on P57
 
-14. How to know the pilot use alternate
+How to know the pilot use alternate extend
 The UNSAFE light come on.
 The techlog entried by pilot.
 @@The MLG and NLD doors still open.
 
-15. If a tire has been rolled flat, what
-@@Replace the flat applicable wheel and installed on the opposite side of that
-Re-inflate wheel to normal pressure 3 / 10 itor for 24 hours.
+If a tire has been rolled flat, what should you do?
+@@Replace the flat applicable wheel and tire assembly installed on the opposite side of that axle.
+Re-inflate wheel to normal pressure range and monitor for 24 hours.
 Replace applicable wheel only.
 
-16. On 787-9 and -10, an early door function
-@@The MLG body doors to open at takeoff landing gear lever moves to the UP position
-The NLG forward doors to open at landing gear lever moves to the UP position
-The MLG body doors and NLG forward at takeoff before the landing gear lever UP position
+On 787-9 and -10, an early door function causes:
+@@The MLG body doors to open at takeoff before the landing gear lever moves to the UP position
+The NLG forward doors to open at takeoff before the landing gear lever moves to the UP position
+The MLG body doors and NLG forward doors to open at takeoff before the landing gear lever moves to the UP position
 
-17. On EICAS, at landing gear position there is only one box with DOWN inside.
-@@All landing gears are extended and
-One main landing gear is extended
-Only nose landing gear is extended
+On EICAS, at landing gear position display area there is only one box with DOWN inside. It means:
+@@All landing gears are extended and locked.
+One main landing gear is extended and locked.
+Only nose landing gear is extended and locked.
 
-18. Push the Rudder pedal disconnect wheel steering (NWS) tiller module:
-To disconnect mechanical links between als and tillers.
-@@Permits a test of rudder movement wheel movement.
+Push the Rudder pedal disconnect switch on nose wheel steering (NWS) tiller module:
+To disconnect mechanical links between rudder pedals and tillers.
+@@Permits a test of rudder movement without nose wheel movement.
 To disconnect tillers position input.
 
-19. Red light in landing gear compartment that:
+Red light in landing gear compartment indicated that:
 Landing gear door is fully opened.
 @@It is unsafe condition.
-Landing gear door is fully closed. 20. 4 / 10
+Landing gear door is fully closed.
 
 To de-active brake, what must use?
 Maintenance Enable/Disable in CMCF.
 Ground Tests in CMCF.
 @@Special Functions in CMCF.
 
-21. To disconnect the upper and lower the NLG:
-Remove the safety bolt first and then to disconnect upper/lower link.
-Use special tool from Boeing or approved ing.
-@@Pull the handles on the quick-disconnects of the upper torque link and the lower
+To disconnect the upper and lower torsion links on the NLG:
+Remove the safety bolt first and then remove the pin to disconnect upper/lower link.
+Use special tool from Boeing or approved by Boeing.
+@@Pull the handles on the quick-disconnects at the joint of the upper torque link and the lower torque link.
 
-22. What are(is) control landing gear sequencing?
+What are(is) control landing gear control system sequencing?
 Control proximity sensors.
 Landing gear control lever module.
-@@The landing gear actuation and nose (LGA/NWS) control function in thecommon tem (CCS).
+@@The landing gear actuation and nose wheelsteering (LGA/NWS) control function in the common core system (CCS).
 
-23. What components give Air/Ground
-Truck tow sensors and strut compressed
-@@Truck tilt sensors and strut compressed
+What components give Air/Ground data?
+Truck tow sensors and strut compressed sensors.
+@@Truck tilt sensors and strut compressed sensors.
 WOW load sensors.
 
-24. What happen to nose wheels when tain tiller 20 degrees left and F/O tiller right at the same time:
+What happen to nose wheels when you turn Captain tiller 20 degrees left and F/O tiller 20 degrees right at the same time:
 Move to left.
 Move to right.
-@@Never move. 5 / 10
+@@Never move.
 
-25. What holds nose landing gear forward closed position?
-@@Internal lock inside the NLG door
+What holds nose landing gear forward doors in the closed position?
+@@Internal lock inside the NLG door actuator.
 Over-center mechanism.
 Uplock hook.
 
-26. What holds nose landing gear in after retraction?
+What holds nose landing gear in the UP position after retraction?
 Nose gear doors.
 Uplock hook.
-Over-center mechanism.
+@@Over-center mechanism.
 
-27. What holds nose LDG in up position?
+What holds nose LDG in up position?
 Retract actuator
 Uplock hook
 @@Lock link
 
-28. What is function of LDG override
-To carry out operational test of LDG
+What is function of LDG override push button?
+To carry out operational test of LDG control module
 To operate ALT LDG extension
 @@To operate LDG lever on ground
 
-29. What is the purpose of Tail strike
+What is the purpose of Tail strike system?
 Help trouble shooting tail strike problem.
-Protect airplane tail section if tail strike
-@@Supply tail strike indication to flight
+Protect airplane tail section if tail strike occurs.
+@@Supply tail strike indication to flight deck.
 
-30. What kind of Volt to control all landing
+What kind of Volt to control all landing gear valves?
 12V DC.
 40V DC.
-@@28V DC. 6 / 10
+@@28V DC.
 
-31. What monitors the wires in the tail
-The Proximity Sensing System (PSS) control function in the Common Core is monitoring the two wires, sensing RDC's
-@@Display and Crew Alerting Function Common Core System (CCS) is monitoring wires, sensing the output from RDC's
-Landing Gear Actuation and Nose (LGA/NWS) Function in the Common Core is monitoring the two wires, sensing RDC's
+What monitors the wires in the tail strike module?
+The Proximity Sensing System (PSS) ground door control function in the Common Core System (CCS) is monitoring the two wires, sensing the output from RDC's
+@@Display and Crew Alerting Function (DCAF) in the Common Core System (CCS) is monitoring the two wires, sensing the output from RDC's
+Landing Gear Actuation and Nose Wheel Steering (LGA/NWS) Function in the Common Core System (CCS) is monitoring the two wires, sensing the output from RDC's
 
-32. What source of hydraulic fluid supply tend power pack?
+What source of hydraulic fluid supply for ALT extend power pack?
 Center reservoir stand pipe
 ALT extend power pack reservoir
 @@Over side tube - center system
 
-33. When open landing gear doors for nance, power for release uplock hooks
+When open landing gear doors for ground maintenance, power for release uplock hooks from?
 5000 PSI from Center Hydraulic System.
-5000 PSI from Alternate Extend Power
-@@3000 PSI from Alternate Extend Power
+5000 PSI from Alternate Extend Power Pack.
+@@3000 PSI from Alternate Extend Power Pack.
 
-34. When parking brake is set, Initially hot brakes at:
+When parking brake is set, Initially the EBACs set hot brakes at:
 45% of maximum force.
 38% of maximum force.
 @@85% of maximum force.
 
-35. When the primary antiskid function
-@@Any time when airplane moving 7 / 10
-When wheel speed is greater than
-When airplane just landing and before ing place only.
+When the primary antiskid function operate?
+@@Any time when airplane moving
+When wheel speed is greater than 25 knots
+When airplane just landing and before taxi to parking place only.
 
-36. Where can you check brakes for
-@@Landing Gear Brakes Maintenance wear indicator pins.
+Where can you check brakes for wear?
+@@Landing Gear Brakes Maintenance Page and Brake wear indicator pins.
 Check Brake wear indicator pins only.
 Gear synoptic page.
 
-37. Which brake system components tem operation?
-Electric brake power supply units
+Which brake system components control brake system operation?
+Electric brake power supply units (EBPSU).
 @@Brake system control unit (BSCU).
-Electric brake actuator controllers
+Electric brake actuator controllers (EBAC).
 
-38. Which brake system components power to electric brake actuators (EBA)?
+Which brake system components supply control power to electric brake actuators (EBA)?
 Brake System Control Units (BSCU).
-@@Electric Brake Actuator Controller
+@@Electric Brake Actuator Controller (EBAC).
 Electric Brake Power Supply Unit (EBPSU).
 
-39. Which brakes operate when you push right pedal only?
-@@Only brakes on right main landing
+Which brakes operate when you push the captain's right pedal only?
+@@Only brakes on right main landing gear operate.
 All brakes operate.
-Only brakes on left main landing gear
+Only brakes on left main landing gear operate.
 
-40. Which component collect data from sors and send to CDN?
+Which component collect data from proximity sensors and send to CDN?
 RPDU
 PFCF
-PSDC 8 / 10
+@@PSDC
 
-41. Which component control LDG actuation
+Which component control LDG actuation system?
 FCE
-CCR
+@@CCR
 EEC
 
-42. Which components calculate antiskid
+Which components calculate antiskid command?
 Brake System Control Unit (BSCU).
-Nose landing gear axle remote data
-@@Main landing gear axle remote data
+Nose landing gear axle remote data concentrators.
+@@Main landing gear axle remote data concentrators.
 
-43. Which inputs does the nose landing tion/nose wheel steering (LGA/NWS) use to calculate nose wheel steering mands?
-@@Captain & F/O Tiller position and Rudder tion.
-NWS position from NWS position transducer ule.
+Which inputs does the nose landing gear actuation/nose wheel steering (LGA/NWS) software function use to calculate nose wheel steering position commands?
+@@Captain & F/O Tiller position and Rudder pedal position.
+NWS position from NWS position transducer module.
 Tow lever position.
 
-44. Which of the following the LGA/NWS to control LDG system sequence?
+Which of the following the LGA/NWS function used to control LDG system sequence?
 @@Proximity sensing system
 LDG Bypass/ Auto-Off valve module
 Sequence valves
 
-45. Which page is used to check if gear closed?
+Which page is used to check if gear doors are closed?
 Status page.
 Door synoptic page.
-@@Gear synoptic page. 9 / 10
+@@Gear synoptic page.
 
-46. Which power source supply power doors for ground maintenance?
+Which power source supply power to open LDG doors for ground maintenance?
 @@Hot battery power
 Forward external power
 Ground handling power
 
-47. Which sensor supply Air/GND data sensing system?
-MLG Door Close/ open proximity control
+Which sensor supply Air/GND data to proximity sensing system?
+MLG Door Close/ open proximity control sensor
 MLG Up/ DWN proximity control sensor
-@@Truck tilt and strut compress proximity
+@@Truck tilt and strut compress proximity sensors
 
-48. Which statement about the autobrake ter you deactivate a brake is NOT correct?
-The autobrake function will not operate tivation was done with manualdeactivation for the brake.
-The autobrake function will continue normally if the deactivation was done CMCF special function.
-@@The autobrake function will continue mally if the deactivation was done with vation procedure for the brake. 10 / 10
+Which statement about the autobrake function after you deactivate a brake is NOT correct?
+The autobrake function will not operate if the deactivation was done with manual deactivation procedure for the brake.
+The autobrake function will continue to operate normally if the deactivation was done with the related CMCF special function.
+@@The autobrake function will continue to operate normally if the deactivation was done with manual deactivation procedure for the brake.

@@ -1,0 +1,104 @@
+Can you load software for the handsets?
+@@Yes, load from CSSC
+
+How does CZUs and the CSSC connect together in a loop.
+@@First and last CZUs connect to the CSSC - If a CZU fails, the non-failed CZUs continue to operate through the loop connection
+
+How does the Cabin Service System Controller (CSSC) transmit Control data and digital audio signal?
+@@The signal from the CSSC go to each of the CZU (Cabin Zone Unit)s in sequence and then back again to the CSSC
+
+How does the CSSC sends the cabin service data to the cabin zone unit (CZU)?
+@@The data goes from one CZU to next CZU and the last CZU send data back to the CSSC
+
+How is the interchange ability of all Cabin Attendant Panel?
+@@All CAPs are fully interchangeable (they are the same)
+
+How is the speaker drive modules (SDM) use for?
+@@Change the digital signal to analog audio
+
+How many CZUs (Cabin Zone Unit) are installed on VNA B787-9 Airplane?
+@@03 CZU: 01 for Forward cabin area, 01 for Mid cabin area and 01 for Aft cabin area
+
+How many the cabin zone unit (CZU) are there on AC
+@@3
+
+How the announcement priorities data arrange from the highest to lowest (stored in the speaker drive module):
+@@Flight interphone announcement - Handset announcement - Recorded digital audio
+
+How to get access to the CLB (Cabin Logbook) screen?
+@@Get to Cabin Attendant Panel / MAIN MENU / CABIN APPLICATIONS
+
+How to get access to the System test screen on CAP?
+@@Get to Cabin Attendant Panel / MAIN MENU / MAINTENANCE
+
+How to load software for the cabin zone unit (CZU)?
+@@Load from the cabin services system controller (CSSC)
+
+How to return to the CAP (Cabin Attendant Panel) screen when have A pop-up window show?
+@@You must touch CLEAR to remove a pop-up window
+
+If the CSSC (Cabin Service System Controller) fails; Cabin Ready, Cabin Alert and Cabin Call discrete signals will:
+@@Go directly to the CDN through a RDC
+
+In Cabin Core Systems, how the PSM (Passenger Service Module)s in a zone connect?
+@@Usually connect together in left, right, and center columns; A termination connects to the last PSM in a column
+
+PSMs does not control any of the following this systems:
+@@Cabin lighting system, Emergency lights
+
+The CSS (Cabin Service System) system test makes sure that the passenger-to-attendant call function of the CSS operates correctly, it includes:
+@@CSS - All Test and Passenger-to-Attendant Call Test
+
+The FDH (Flight Deck Handset) connects to Which CZU (Cabin Zone Unit)?
+@@Connect to CZU in the forward zone
+
+The ground crew call horn on the right side in the nose wheel well will comes on when:
+@@Equipment cooling failure or ERS is on battery power
+
+The Orange LED (Light Emitting Diode) in front panel of CSSC (Cabin Service System Controller) is:
+@@LAN (Local Area Network) monitor indication
+
+What is happened for the handsets when the CSSC fails?
+@@All handsets operate normally
+
+What is indicated when the Amber LED on SDM come on?
+@@The LAN of SDM is working normal
+
+What is necessary to be changed when the cabin configuration changes occur?
+@@The database of CSSC (Cabin Service System controller).
+
+What is the highest priority for the PA (Passenger Address) audio?
+@@Flight crew announcements using ACP
+
+What is the purpose of cabin interphone?
+@@Cabin and flight crew communication
+
+When you use the FDH (Flight Deck Handset) to make the ground crew call, how does the data go to the CSSC (Cabin Service System controller)?
+@@The data goes to CSSC (Cabin Service System controller) through forward CZU (Cabin Zone Unit).
+
+Where does the maintenance personnel can get access to CSS system health data through?
+@@The cabin attendant panel
+
+Where is the cabin configuration database of cabin services system controller (CSSC) stored?
+@@In the CSS mass storage device
+
+Where is The CSSC (Cabin Service System controller) located?
+@@On the E2-2 electronics equipment rack
+
+Where is the passenger service modules (PSM) get control data from?
+@@the cabin zone unit CZU
+
+Which component changes digital audio to analog signals that operate the cabin speakers?
+@@SDM (Speaker Drive Module).
+
+Which does LRU make a chime and alert
+@@SDM
+
+Which is cabin zone unit (CZU) that have interface with Flight deck handset?
+@@Fwd CZU
+
+Which of the following statements is correct
+@@A call with the maximum number of 4 handsets - Conference Call pre-defined groups of handsets
+
+Which system does the passenger service modules (PSM) not control?
+@@Emergency lights

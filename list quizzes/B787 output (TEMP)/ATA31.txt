@@ -1,314 +1,314 @@
-1. All 3 flight deck entry video surveillance VSS) images show NO VIDEO SIGNAL The cause is a fault in the:
-@@Surveillance Camera Interface Unit
-FDEVSS software in the common computing source (CCR) cabinet.
+All 3 flight deck entry video surveillance system (FDEVSS) images show NO VIDEO SIGNAL error messages. The cause is a fault in the:
+@@Surveillance Camera Interface Unit (SCIU).
+FDEVSS software in the common computing resource (CCR) cabinet.
 Capt EFB fault
 
-2. DCAF (Display and Crew Alerting Function) ware function in:
+DCAF (Display and Crew Alerting Function) is a software function in:
 PCM
-GPM
+@@GPM
 GGM
 
-3. DCAF (Display and Crew Alerting Function) alerts and then send data to:
-@@Graphic Generators - for display on Display System), ACP (Audio Control aural alerts and Master warning and
-Graphic Generators - for display on Display System), ACP (Audio Control aural alerts.
-Graphic Generators - for display on ry Display System) and Master warning lights.
+DCAF (Display and Crew Alerting Function) makes alerts and then send data to:
+@@Graphic Generators - for display on the PDS (Primary Display System), ACP (Audio Control Panel) - to make aural alerts and Master warning and caution lights.
+Graphic Generators - for display on the PDS (Primary Display System), ACP (Audio Control Panel) - to make aural alerts.
+Graphic Generators - for display on the PDS (Primary Display System) and Master warning and caution lights.
 
-4. Flight crews and maintenance personel Cursor Control Device ) to control the a selections on:
-Either captain or FO side HDDs and
-@@Onside inboard HDD, onside part 1 / 15 onside EFB DU.
+Flight crews and maintenance personel use CCD (Cursor Control Device) to control the cursor and make a selections on:
+Either captain or FO side HDDs and EFB DUs
+@@Onside inboard HDD, onside part of lower HDD and onside EFB DU.
 Onside HUDs and EFB DUs.
 
-5. How does the flight recorders (FR) data
-Forward FR for the audio data and system parameters data
-Forward FR for the system parameters FR for the audio data
-@@Both FRs collect and store the same
+How does the flight recorders (FR) collect and store data
+Forward FR for the audio data and aft FR for the system parameters data
+Forward FR for the system parameters data and aft FR for the audio data
+@@Both FRs collect and store the same data
 
-6. How long does the each Flight Recorders store Audio data
+How long does the each Flight Recorders (FR) can store Audio data
 @@Up to 2 hours
 Up to 255 hours
 Up to 25 hours
 
-7. How long does the each Flight Recorders store System parameters data
+How long does the each Flight Recorders (FR) can store System parameters data
 Up to 255 hours
 @@Up to 25 hours
 Up to 2 hours
 
-8. How many Airplane Condition Monitoring (ACMF) session can operate at a time?
-@@Only one ACMF session can operate
-Maximum 03: one ACMF on ML , one and one ACMF on MFD
-Just two: one ACMF on ML and one
+How many Airplane Condition Monitoring Function (ACMF) session can operate at a time?
+@@Only one ACMF session can operate at a time
+Maximum 03: one ACMF on ML, one ACMF on EFB and one ACMF on MFD
+Just two: one ACMF on ML and one ACMF on EFB
 
-9. How many EICAS display can show display HDD at a time
-Maximum three 2 / 15
+How many EICAS display can show on head-down display HDD at a time
+Maximum three
 @@Only one
 Just two
 
-10. How many flight recorders (FR) are B787-9
+How many flight recorders (FR) are there on B787-9
 Has no component
 One
-Two
+@@Two
 
-11. How many flight recorders are there (Flight Recorder System)?
+How many flight recorders are there in the FRS (Flight Recorder System)?
 1
-2
+@@2
 3
 
-12. How many HDD can be working normally GGM inop:
+How many HDD can be working normally if one GGM inop:
 4
 3
-5
+@@5
 
-13. how many is the airplane condition function (ACMF) can operate at a time
-Just two : one ACMF on ML and one
-Maximum 03 : one ACMF on ML , one and one ACMF on MFD
-@@Only one ACMF session can operate
+how many is the airplane condition monitoring function (ACMF) can operate at a time
+Just two : one ACMF on ML and one ACMF on EFB
+Maximum 03 : one ACMF on ML, one ACMF on EFB and one ACMF on MFD
+@@Only one ACMF session can operate at a time
 
-14. How many outputs bus on each GGM at a time:
-2
+How many outputs bus on each GGM can be ACTIVE at a time:
+@@2
 6
-4 3 / 15
+4
 
-15. How many outputs does each graphics have?
-6
+How many outputs does each graphics generator have?
+@@6
 5
 4
 
-16. How to get access to CMCF(Central Computing Function)?
+How to get access to CMCF (Central Maintenance Computing Function)?
 Using only MFD.
-Using MFD (Multi Function Display) nance laptop).
-@@Using MFD (Multi Function Display) nance laptop) or EFB (Electronic Flight
+Using MFD (Multi Function Display) or ML (maintenance laptop).
+@@Using MFD (Multi Function Display), ML (maintenance laptop) or EFB (Electronic Flight Bag).
 
-17. If one GG ( Graphics generator ) failed, displays can show data?:
+If one GG (Graphics generator) failed, how many displays can show data?
 7
-6
+@@6
 4
 
-18. If there is a status message, can aircraft?
-We must clear the message before
-None of above. the aircraft.
-@@We must clear the message or defer tion in accordance with MMEL before aircraft.
+If there is a status message, can we dispatch the aircraft?
+We must clear the message before dispatching the aircraft.
+None of above.
+@@We must clear the message or defer the fault condition in accordance with MMEL before dispatching the aircraft.
 
-19. On Airplane, use the flight recorder tion on the Maintenance Laptop to download data from
-The aft FR 4 / 15
-@@Neither forward FR nor aft FR , flight downloaded in the shop
-The forward FR
+On Airplane, use the flight recorder download function on the Maintenance Laptop to download flight data from
+The aft FR
+Neither forward FR nor aft FR, flight data can only be downloaded in the shop
+@@The forward FR
 
-20. On EFIS/DSP (EFIS and display select) switch is used to show and remove some
+On EFIS/DSP (EFIS and display select) panel, which switch is used to show and remove some EICAS msg:
 NEXT PAGE switch
 PREV PAGE switch
-CANC/RCL
+@@CANC/RCL
 
-21. On MAINT DATA PGS which function actual data from airplane system:
+On MAINT DATA PGS which function switch show actual data from airplane system:
 AUTO display
 @@REAL display
 MANUAL display
 
-22. Push the cockpit voice recorder (CVR) to
+Push the cockpit voice recorder (CVR) ERASE button to
 @@Erase the audio data
 Do a test of the voice recorder function
 Erase the flight data
 
-23. Push the TEST switch on the CVR of the area microphone,the test will
-Status message, VOICE RECORDER
-Flight deck speakers does not make
-@@Flight deck speakers make a 1 kHz message, VOICE RECORDER SYS, does
+Push the TEST switch on the CVR panel to do a test of the area microphone, the test will pass if
+Status message, VOICE RECORDER SYS,
+Flight deck speakers does not make tone show
+@@Flight deck speakers make a 1 kHz tone and Status message, VOICE RECORDER SYS, does not show
 
-24. The airplane condition monitoring is a function in
-The Core Network System 5 / 15
-@@The Common Computing Resource
+The airplane condition monitoring function (ACMF) is a function in
+The Core Network System
+@@The Common Computing Resource (CCR)
 Flight Recorder System
 
-25. The alternate EFIS (Electronic Flight System)/DSP (Display Select Panel) function for:
-@@Control all the switches on the captain officer EFIS (Electronic Flight Instrument (Display Select Panel) except for the lector.
-Control all the switches on the captain officer EFIS (Electronic Flight Instrument (Display Select Panel) and the cursor
-Control some switches on the captain ficer EFIS (Electronic Flight Instrument (Display Select Panel) except for the lector.
+The alternate EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) function is used for:
+@@Control all the switches on the captain and first officer EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) except for the cursor control selector.
+Control all the switches on the captain and first officer EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) and the cursor control selector.
+Control some switches on the captain and first officer EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) except for the cursor control selector.
 
-26. The Aural alerts signal go to the comm/warning speakers are sent from
+The Aural alerts signal go to the first officer comm/warning speakers are sent from
 @@The first officer ACP
-The observer ACP, the first officer ACP
-The first officer audio control panel
+The observer ACP, the first officer ACP and captain ACP
+The first officer audio control panel and captain ACP
 
-27. The Continuous Parameter Logging is a function of
+The Continuous Parameter Logging (CPL) function is a function of
 CMCF
 FDAF
-ACMF
+@@ACMF
 
-28. The DCAF (Display and Crew Alerting the nose gear pressure transducer signals 6 / 15
-@@Do a check of the stabilizer green
-Do a check of the nose gear cylinder tion calculation
-Do a check of the Air/Ground mode
+The DCAF (Display and Crew Alerting Function) uses the nose gear pressure transducer signals to:
+@@Do a check of the stabilizer green band
+Do a check of the nose gear cylinder pressure position calculation
+Do a check of the Air/Ground mode calculation
 
-29. The EFIS(Electronic Flight Instrument )/DSP(Display Select Panel) has this control Navigation Display ):
-ND mode selector,EICAStransfer switch switches.
-ND mode selector,EICAS transfer switch switches. meters switch.
-@@ND mode selector ,range selector and
+The EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) has this control for the NDs (Navigation Display):
+ND mode selector, EICAS transfer switch and map switches.
+ND mode selector, EICAS transfer switch and map switches. meters switch.
+@@ND mode selector, range selector and map switches.
 
-30. the flight data acquisition function ware application in
+The flight data acquisition function (FDAF) is a software application in
 @@Flight Recorders
-The Common Computing Resource
+The Common Computing Resource (CCR)
 The Core Network System
 
-31. The FR starts the record function
+The FR starts the record function when:
 Parking brake release
-@@The origin airport is entered during
-Push the cockpit voice recorder (CVR)
+@@The origin airport is entered during preflight
+Push the cockpit voice recorder (CVR) ERASE button
 
-32. The master warning lights will not these conditions
+The master warning lights will not come on for these conditions
 Configuration warnings
 Crew alerting
 @@Stall warning
 
-33. The message " ALIGN HUD" shows combiner. What should you do? 7 / 15
+The message "ALIGN HUD" shows on the HUD combiner. What should you do?
 do fault isolation procedure
 Adjust the combiner
-@@Move the combiner back and forth the detent. If that does not work, do procedure
+@@Move the combiner back and forth until it locks in the detent. If that does not work, do fault isolation procedure
 
-34. The recorder independent power vides backup power to:
+The recorder independent power supply (RIPS) provides backup power to:
 The forward Flight Recorder (FR).
 @@The flight deck area microphone.
 The aft Flight Recorder (FR).
 
-35. There are 6 display switches on each The DSPs control:
+There are 6 display switches on each DSP and MFK, The DSPs control:
 Only the offside MFD
 Both onside MFD offside MFD
 @@Only the onside MFD
 
-36. There are 6 display switches on each control:
+There are 6 display switches on each MFK, the MFKs control:
 @@Only their side of the lower HDD
 Only their side of the inboard HDD
 Only their side of the outboard HDD
 
-37. There is an EICAS transfer switch and the first officer EFIS/DSP control transfer switch use for
-Removes some EICAS messages on and the first officer side
-Shows secondary engine data from captain side
-@@Moves the EICAS display between and the first officer side 8 / 15
+There is an EICAS transfer switch on the captain and the first officer EFIS/DSP control panel, the EICAS transfer switch use for
+Removes some EICAS messages on the captain side and the first officer side
+Shows secondary engine data from EICAS on the captain side
+@@Moves the EICAS display between the captain side and the first officer side
 
-38. To download of cockpit voice data (Flight Recorder) we can:
-Download data from the forward FR network
-Download data directly from the aft connection
-@@Download data from the forward FR in the shop
+To download of cockpit voice data from the FR (Flight Recorder) we can:
+Download data from the forward FR using airplane network
+Download data directly from the aft FR using J4 connection
+@@Download data from the forward FR and the aft FR in the shop
 
-39. Use the cursor control devices CCD cursor on
+Use the cursor control devices CCD to control the cursor on
 PDF format or the EFB display
 @@MFD format or the EFB display
 MFD format or the PFD display
 
-40. What 2 devices can you use to control the multifunction displays?
-CCD and CURSOR CONTROL switch
-@@Cursor Control switch on the MFK
+What 2 devices can you use to control the cursor on the multifunction displays?
+@@CCD and CURSOR CONTROL switch on the MFK
+Cursor Control switch on the MFK
 CCD
 
-41. What components format display the images for the displays?
+What components format display data and make the images for the displays?
 Display units
 GPMs
 @@Graphics generators
 
-42. What data is recorded and stored recorder?
-Flight parameters and flight compartment
-@@Flight parameters, flight compartment 9 / 15 datalink messages.
+What data is recorded and stored in flight recorder?
+Flight parameters and flight compartment audio
+@@Flight parameters, flight compartment audio and datalink messages.
 Last 20 hours of flight parameters.
 
-43. What happens when you push EICAS switch on P8?
-Makes a manual snapshot of selected
-Makes a manual snapshot of status page
-@@Makes a manual snapshot of all maint
+What happens when you push EICAS EVENT RCD switch on P8?
+Makes a manual snapshot of selected maint page
+Makes a manual snapshot of status page and EICAS page
+@@Makes a manual snapshot of all maint pages
 
-44. What is the function of display and tion (DCAF)?
-Getting and processing aircraft system input data, then making the graphic sending them to HDDs and HUDs.
-@@Getting and processing aircraft system input data, then making the display sending them to graphics generators.
-Getting and processing aircraft system input data, then making the display sending them to EICAS.
+What is the function of display and crew alert function (DCAF)?
+Getting and processing aircraft system and crew input data, then making the graphic commands and sending them to HDDs and HUDs.
+@@Getting and processing aircraft system and crew input data, then making the display commands and sending them to graphics generators.
+Getting and processing aircraft system and crew input data, then making the display commands and sending them to EICAS.
 
-45. What is the function of RLS (Remote
-@@The RLS (Remote Light Sensor) sends light analog signal to the CDN (Common work) for automatic brightness control (Head-Down Display).
-The RLS (Remote Light Sensor) sends light analog signal to the CDN (Common work) for automatic indication of the Display).
-Both a and b are correct. 10 / 15
+What is the function of RLS (Remote Light Sensor)?
+@@The RLS (Remote Light Sensor) sends an ambient light analog signal to the CDN (Common Data Network) for automatic brightness control of the HDD (Head-Down Display).
+The RLS (Remote Light Sensor) sends an ambient light analog signal to the CDN (Common Data Network) for automatic indication of the HDD (Head-Down Display).
+Both a and b are correct.
 
-46. What kind of messages on EICAS (Engine and Crew Alerting System) display are messages?
+What kind of messages on EICAS (Engine Indication and Crew Alerting System) display are crew alerting messages?
 Caution, comm and memo message.
-Warrning, caution, memo and advisory
-@@Warrning, caution and advisory message.
+Warning, caution, memo and advisory message.
+@@Warning, caution and advisory message.
 
-47. What shows on the HUD combiners in the correct deployed position?
+What shows on the HUD combiners when it is not in the correct deployed position?
 It shows blank.
 @@ALIGN HUD.
 OFF HUD.
 
-48. When airplane power is shut down Recorder Independent Power Supply plies power to the forward FR
+When airplane power is shut down normally, the Recorder Independent Power Supply (RIPS) still supplies power to the forward FR
 @@For 10 minutes
 Does not supplies power
 For 15 minutes
 
-49. When do master warning lights or lights go off after coming on?
-When you push the aural cancel switch ing/caution condition goes away.
-Only when the warning/caution condition away.
-@@When you push the master/caution warning/caution condition goes away.
+When do master warning lights or master caution lights go off after coming on?
+When you push the aural cancel switch or the warning/caution condition goes away.
+Only when the warning/caution condition goes away.
+@@When you push the master/caution switch or the warning/caution condition goes away.
 
-50. When does the stick shaker actuators control columns to shake?
-@@When the airplane is near the stall 11 / 15
+When does the stick shaker actuators cause the control columns to shake?
+@@When the airplane is near the stall condition.
 When Engine fire is detected.
 Both a and b are correct.
 
-51. When getting more than 1 input, printer work?
-@@The request from CMCF (Central Maintenance Computing Function) will be printed DCMF(Data Communication Management ACMF (Airplane Condition Monitoring EFB (Electronic Flight Bag).
-The request from DCMF(Data Communication agement Function) will be printed first,followed CMCF (Central Maintenance Computing ACMF (Airplane Condition Monitoring EFB (Electronic Flight Bag).
-The request from ACMF (Airplane itoring Function) will be printed first,followed CMCF (Central Maintenance Computing DCMF(Data Communication Management and EFB (Electronic Flight Bag).
+When getting more than 1 input, how does the printer work?
+The request from CMCF (Central Maintenance Computing Function) will be printed first, followed by DCMF (Data Communication Management Function), ACMF (Airplane Condition Monitoring Function), and EFB (Electronic Flight Bag).
+@@The request from DCMF (Data Communication Management Function) will be printed first, followed by CMCF (Central Maintenance Computing Function), ACMF (Airplane Condition Monitoring Function), and EFB (Electronic Flight Bag).
+The request from ACMF (Airplane Condition Monitoring Function) will be printed first, followed by CMCF (Central Maintenance Computing Function), DCMF (Data Communication Management Function), and EFB (Electronic Flight Bag).
 
-52. When the printer gets more than will have priority in order
-@@CMCF, ACMF, PDS, DCMF and EFB
+When the printer gets more than 1 input, the input will have priority in order
+CMCF, ACMF, PDS, DCMF and EFB
 DCMF, ACMF, CMCF, PDS and EFB
-DCMF, CMCF, ACMF, PDS and EFB
+@@DCMF, CMCF, ACMF, PDS and EFB
 
-53. When you push the SYS switch when which page shown
+When you push the SYS switch when AC in the air, which page shown
 The status page shows
 The flight control (FCTL) synoptic shows
-@@The FUEL synoptic usually shows 12 / 15
+@@The FUEL synoptic usually shows
 
-54. Where is the area microphone of ed
+Where is the area microphone of FR system located
 @@On the P5 panel
 On the P40 panel
 On the P56 panel
 
-55. Where is the clock display?
+Where is the clock display?
 @@On auxiliary display of PFD.
-On status page .
+On status page.
 On auxiliary display of ND.
 
-56. Where is the forward FR gets power
-@@From a 28v dc bus through the Recorder dent Power Supply (RIPS)
+Where is the forward FR gets power
+@@From a 28v dc bus through the Recorder Independent Power Supply (RIPS)
 Directly from a left 28v dc bus
 From hot battery bus
 
-57. Where is the Underwater Locator er
+Where is the Underwater Locator Beacon gets power
 @@From its own internal battery
 From main battery
 From APU battery
 
-58. Which are displays unit usually operate function displays (MFD)
-@@The inboard head-down displays (HDD) board HDD
-The outboard head-down displays HDD
-The inboard head-down displays (HDD) HDD 59. 13 / 15
+Which are displays unit usually operate as multifunction displays (MFD)
+The inboard head-down displays (HDD) and outboard HDD
+The outboard head-down displays (HDD) and lower HDD
+@@The inboard head-down displays (HDD) and lower HDD
 
-Which devices can not send print flight deck printer?
+Which devices can not send print commands to the flight deck printer?
 @@Primary flight displays (PFD)
 Maintenance laptop
 Captain EFB
 
-60. Which is following condition will advisory message STAB GREENBAND
-If either thrust lever goes to takeoff stabilizer trim indication is not in the
-@@Nose gear pressure transducer data invalid
-The stabilizer trim position pointer green band indication
+Which is following condition will trigger the EICAS advisory message STAB GREENBAND
+If either thrust lever goes to takeoff thrust and the stabilizer trim indication is not in the greenband
+@@Nose gear pressure transducer data has failed or is invalid
+The stabilizer trim position pointer is within the green band indication
 
-61. Which is in the INFO page will show INFO switch on an EFIS/DSP or MFK
+Which is in the INFO page will show when Push the INFO switch on an EFIS/DSP or MFK
 CHECK LIST DATABASE
 NAV DATABASE
 @@AIRPORT MAP DATABASE
 
-62. Which one supply power to RLS (Remote sor):
+Which one supply power to RLS (Remote Light Sensor):
 @@Onside inboard HDD
 Onside RPDU
 Onside GGM
 
-63. Which switches change the primary (PFD) to narrow format and move it to Head-Down Display (HDD).
+Which switches change the primary flight display (PFD) to narrow format and move it to the inboard Head-Down Display (HDD).
 The EICAS transfer switch
 @@PFD/MFD switches
-Switches on display select panel 14 / 15 15 / 15
+Switches on display select panel

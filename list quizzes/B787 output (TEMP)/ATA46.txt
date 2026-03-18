@@ -1,124 +1,124 @@
-1. Core network system has 2 physical
-Open data network (ODN) and ground
-Isolated data network (IDN) and common work (CDN)
-@@Open data network (ODN) and Isolated (IDN)
+Core network system has 2 physical networks:
+Open data network (ODN) and ground networks
+Isolated data network (IDN) and common data network (CDN)
+@@Open data network (ODN) and Isolated data network (IDN)
 
-2. Ethernet ports for a wired connection nance laptop?
-Connect directly to the common data
-Connect directly to the open data
-@@Connect directly to the isolated data
+Ethernet ports for a wired connection of the maintenance laptop?
+Connect directly to the common data network
+Connect directly to the open data network
+@@Connect directly to the isolated data network
 
-3. How many CWLU (Crew Wireless LAN are installed on the airplane?
+How many CWLU (Crew Wireless LAN Unit) antennas are installed on the airplane?
 @@5 CWLU (Crew Wireless LAN Unit) antennas
-4 CWLU (Crew Wireless LAN Unit)
+4 CWLU (Crew Wireless LAN Unit) antennas
 1 CWLU (Crew Wireless LAN Unit) antennas
 
-4. How many Ethernet ports are there system
+How many Ethernet ports are there in core network system
 4
 2
-3
+@@3
 
-5. How the EFB (Electronic Flight Bag) Unit) controls the EFB (Electronic Flight play Unit)
-One EFB EU controls two EFB DU, another
+How the EFB (Electronic Flight Bag) EU (Electronics Unit) controls the EFB (Electronic Flight Bag) DU (Display Unit)
+One EFB EU controls two EFB DU, another is standby
 Control its off-side DU
-@@Control its on-side DU 6. 1 / 6
+@@Control its on-side DU
 
-Push the XFR button on the captain bag (EFB) display unit (DU) to
-show the status message off airplane EFB DU
-@@prevent the first officer EFB DU from display
-show the display from the first officer
+Push the XFR button on the captain electronic flight bag (EFB) display unit (DU) to
+show the status message of airplane from captain EFB DU
+prevent the first officer EFB DU from showing the display
+@@show the display from the first officer EFB DU
 
-7. SYSTEM FAULT LOG shows fault messages EFB that related to
-airplane system faults (core network
-Restarting the EFB operational software
-@@EFB faults only (not airplane system
+SYSTEM FAULT LOG shows fault messages from the EFB that related to
+airplane system faults (core network system)
+Restarting the EFB operational software is fault
+@@EFB faults only (not airplane system faults)
 
-8. The core network cabinet is controlled
+The core network cabinet is controlled by
 core network system software in CCR
 @@no controls for the core network cabinet
-core network controller on FWD EE
+core network controller on FWD EE bay
 
-9. The Light emitting diodes (LED) on NIM show
-@@module status in the core network
-the NIM in the core network cabinet
-the status of Ethernet gateway module
+The Light emitting diodes (LED) on the face of the NIM show
+@@module status in the core network cabinet
+the NIM in the core network cabinet is failure
+the status of Ethernet gateway module (EGM)
 
-10. The SYSTEM CONFIG function on NANCE page will show
+The SYSTEM CONFIG function on the EFB MAINTENANCE page will show
 @@all loadable EFB software parts
 all Airplane LSAPs
-hardware and non-loadable software
+hardware and non-loadable software parts
 
-11. The Wireless network antenna on fuselage over the flight compartment 2 / 6
+The Wireless network antenna on the top of the fuselage over the flight compartment is the:
 @@Terminal Wireless LAN Unit antenna
 Crew Wireless LAN Unit antenna
 Satcom antenna
 
-12. To delete EFB Electronic (EU) software play Unit (DU), how to make sure The Flight Bag) received on-ground status?
-@@The LOAD MODE button is shown ground and white letters on the DU's
-The LOAD MODE button is shown with cyan letters and border on DU's
-The DELETE LSAP is shown with gray and white letters on the DU's screen
+To delete EFB Electronic (EU) software by EFB Display Unit (DU), how to make sure The EFB (Electronic Flight Bag) received on-ground status?
+@@The LOAD MODE button is shown with gray background and white letters on the DU's screen
+The LOAD MODE button is shown black background with cyan letters and border on DU's screen
+The DELETE LSAP is shown with gray background and white letters on the DU's screen
 
-13. What are the EFB (Electronic Flight nents in the flight compartment
-@@02 Electronic Flight Bag Display Unit nal Wireless LAN Unit
-02 Electronic Flight Bag Display Unit Control Device
-02 Electronic Flight Bag Electronics Terminal Wireless LAN Unit
+What are the EFB (Electronic Flight Bag) components in the flight compartment
+@@02 Electronic Flight Bag Display Unit and one Terminal Wireless LAN Unit
+02 Electronic Flight Bag Display Unit and two Cursor Control Device
+02 Electronic Flight Bag Electronics Unit and one Terminal Wireless LAN Unit
 
-14. Where are the EFB (Electronic Flight tronics Unit)s located?
+Where are the EFB (Electronic Flight Bag) EU (Electronics Unit)s located?
 in the flight compartment
 @@in the forward equipment center
 in the AFT equipment center
 
-15. Where are the wired connection points ing ML(maintenance laptop) to the airplane?
-@@Forward electronic equipment (EE) EE bay Ethernet port. 3 / 6
-Flight deck ethernet port between servers seats
-Both of above
+Where are the wired connection points for connecting ML (maintenance laptop) to the airplane?
+Forward electronic equipment (EE) bay port and Aft EE bay Ethernet port.
+Flight deck ethernet port between the ethernet observers seats
+@@Both of above
 
-16. Where does the EFB system send from
+Where does the EFB system send and receive data from
 the Maintenance laptop
 @@the core network system
 the common core system
 
-17. Where does the electronic flight unit (DU) get power?
+Where does the electronic flight bag (EFB) display unit (DU) get power?
 From onside 28 VDC bus
 From NIM in Core network system
 @@From its onside EFB EU
 
-18. Where is the captain side electronic Electronic unit (DU) located?
-In the flight deck behind the overhead
+Where is the captain side electronic flight bag (EFB) Electronic unit (DU) located?
+In the flight deck behind the overhead panels
 @@In the forward EE bay at E2-2 rack
-In the flight deck on the side wall panels, of the captain
+In the flight deck on the side wall panels, outboard of the captain
 
-19. Where is the Core Network Cabinet
+Where is the Core Network Cabinet located?
 In flight deck
 In Aft EE bay
 @@In forward EE bay
 
-20. Where is the Core Network Cabinet
-@@On the E1 equipment rack in the forward equipment center
-On the E2 equipment rack in the forward equipment center 4 / 6
-On the E3 equipment rack in the aft ment center
+Where is the Core Network Cabinet located?
+@@On the E1 equipment rack in the forward electronic equipment center
+On the E2 equipment rack in the forward electronic equipment center
+On the E3 equipment rack in the aft electronic equipment center
 
-21. Which component controls the CSM Server Module) in Core Network System?
-The CIS (Crew Information System)/MS nance System) file server module
-@@There are no controls for the CSM Module)
-The software in CCR (Common Computing cabinet
+Which component controls the CSM (Controller Server Module) in Core Network System?
+The CIS (Crew Information System)/MS (Maintenance System) file server module
+@@There are no controls for the CSM (Controller Server Module)
+The software in CCR (Common Computing Resource) cabinet
 
-22. Which component in Core Network LED on it to shows the power and status troller server module
+Which component in Core Network System have LED on it to shows the power and status of the controller server module
 @@NIM (Network Interface Module)
 Air blocking module
 EGM (Ethernet Gateway Module)
 
-23. Which condition below let the ACMF EFB is available?
-Airplane in Climb (CL) Flight Phase feet altitude
-Airplane in the air and below 10,000
-@@Airplane on ground or airplane above altitude
+Which condition below let the ACMF function on the EFB is available?
+Airplane in Climb (CL) Flight Phase and below 10,000 feet altitude
+Airplane in the air and below 10,000 feet altitude
+@@Airplane on ground or airplane above 10,000 feet altitude
 
-24. Which condition below let the Onboard Function (ODLF) function on the EFB
+Which condition below let the Onboard Data Load Function (ODLF) function on the EFB is available
 Airplane in the air
 @@Airplane on the ground
-Airplane in the air and below 10,000 5 / 6
+Airplane in the air and below 10,000 feet altitude
 
-25. Which type of video signal that the camera interface unit (SCIU) sends to flight bag system
+Which type of video signal that the surveillance camera interface unit (SCIU) sends to the electronic flight bag system
 analog
-digital
-fiber optic 6 / 6
+@@digital
+fiber optic

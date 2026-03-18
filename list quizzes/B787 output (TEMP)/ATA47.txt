@@ -1,224 +1,224 @@
-1. Air filter is used to remove ________ entering to Air Separation Module
+Air filter is used to remove ________ in the air before entering to Air Separation Module
 Unwanted material
 @@Ozone & Unwanted material
 Ozone
 
-2. Aircraft in ground maintenance, when command ON?
-@@APU running, refueling completed >500 gallons/ APU running and ECS packs Maintenance command ON by using
-APU running, refueling not completed quantity >500 gallons/ APU running and running/ Maintenance command ON
-APU not running, refueling completed quantity >500 gallons / APU running running/ Maintenance command ON
+Aircraft in ground maintenance, when does the NGS command ON?
+@@APU running, refueling completed and fuel quantity >500 gallons/ APU running and ECS packs are running/ Maintenance command ON by using CMCF
+APU running, refueling not completed and fuel quantity >500 gallons/ APU running and ECS packs are running/ Maintenance command ON by using CMCF
+APU not running, refueling completed and fuel quantity >500 gallons / APU running and ECS packs are running/ Maintenance command ON by using CMCF
 
-3. Cooling air used for the NGS heat exchanger from:
-The environmental control system only.
-@@The environmental control system or the Ground Cooling Valve.
-The environmental control system or the Cabin Air Compressor.
+Cooling air used for the NGS heat exchanger is taken from:
+The environmental control system (ECS) ram air inlet only.
+@@The environmental control system (ECS) ram air inlet or the Ground Cooling Valve.
+The environmental control system (ECS) ram air inlet or the Cabin Air Compressor.
 
-4. How does the flight crew operate eration system?
+How does the flight crew operate the nitrogen generation system?
 @@They can't - it operates automatically
 SPECIAL FUNCTIONS menu in CMCF
-Control by ON/OFF push button on 1 / 10
+Control by ON/OFF push button on the P5
 
-5. How does the NGS decrease the quantity in the air in the fuel tanks?
-@@An ASM removes oxygen from the the tanks
+How does the NGS decrease the quantity of oxygen in the air in the fuel tanks?
+@@An ASM removes oxygen from the air and sends it to the tanks
 An air compressor module ACM
 An ozone converter.
 
-6. How is it possible to TURN/OFF the ground for maintenance?
-Control by ON/OFF push button on
+How is it possible to TURN/OFF the NGS on the ground for maintenance?
+Control by ON/OFF push button on the P5
 @@SPECIAL FUNCTIONS menu in CMCF
-Can not control because system operated
+Can not control because system operated automatic
 
-7. How to control NGS operation?
-@@NGS operates manually with P5 switch
-NGS operates automatically
-NGS operate automatically when fuel above 4490 Kg
+How to control NGS operation?
+NGS operates manually with P5 switch ON
+@@NGS operates automatically
+NGS operate automatically when fuel in center tank above 4490 Kg
 
-8. How to control the NGS
-Manual control by using the PACK
-@@Automatic control by hosted software CCR
-Manual control by using the NGS PACK
+How to control the NGS
+Manual control by using the PACK switch on P5
+@@Automatic control by hosted software application in CCR
+Manual control by using the NGS PACK switch on P5
 
-9. IGS fuel tank isolation valve actuators
+IGS fuel tank isolation valve actuators is located
 On the rear spar
 @@On the front spar
 In the tank
 
-10. In case of a cargo fire is detected, of the NGS Cabin SO Valve?
-Close after time period delay to cool 2 / 10 down
+In case of a cargo fire is detected, what is position of the NGS Cabin SO Valve?
+Close after time period delay to cool NGS pack down
 Open
 @@Close immediately
 
-11. In the NGS System, Power supply Cabin shutoff valve, ground cooling control valve from?
+In the NGS System, Power supply to control the Cabin shutoff valve, ground cooling valve and ram air control valve from?
 @@RPDU 22
 RPDU 71
 RPDU 47
 
-12. NGS bay structural thermal protection tects overheat conditions of airplane ponents have
+NGS bay structural thermal protection system detects overheat conditions of airplane structural components have
 01 pack bay temperature sensor
 Overheat detection temperature sensors
 @@A and B
 
-13. NGS cabin Shut off valve is open
+NGS cabin Shut off valve is open when
 @@NGS is commanded ON
 There is fire in the cargo compartment
 NGS is commanded OFF
 
-14. NGS Ground cooling air valve is located
+NGS Ground cooling air valve is located on the
 Wing-to-body fairing area
 @@RH side of the fuselage
 LH side of the fuselage
 
-15. NGS Motor Driven Compressor is
+NGS Motor Driven Compressor is
 Fluid cooled
 Oil cooled
-@@Air cooled 3 / 10
+@@Air cooled
 
-16. NGS Motor Driven Compressor overheat ed by
+NGS Motor Driven Compressor overheat is detected by
 02 temperature probes
 02 pressure switches
 @@02 thermal switches
 
-17. NGS pack Heat Exchanger takes
+NGS pack Heat Exchanger takes cooling air from
 Ambient air
-@@ECS Ram air inlet or Ground cooling
+@@ECS Ram air inlet or Ground cooling valve
 ECS Ram air inlet
 
-18. NGS pack is located below
+NGS pack is located below
 @@The RH FWD wing-to-body fairing
 The LH FWD wing-to-body fairing
 The ECS bay
 
-19. NGS pack is located:
-@@Below the right forward wing-to-body
+NGS pack is located:
+@@Below the right forward wing-to-body fairing.
 In Aft cargo compartment.
 In RH MLG wheel well.
 
-20. Nitrogen Enriched Air (NEA) is circulated center tank by:
-@@The center tank jet pump ejector - draws the mixture of NEA and vent air ter tank to the left center tank vent
-The center tank jet pump ejector - blows NEA thru the piccolo tubes the
-The center tank jet pump ejector - circulate NEA only to the left center tank
+Nitrogen Enriched Air (NEA) is circulated in the center tank by:
+@@The center tank jet pump ejector - the vent action draws the mixture of NEA and vent air across the center tank to the left center tank vent
+The center tank jet pump ejector - the vent action blows NEA thru the piccolo tubes the center tank
+The center tank jet pump ejector - the vent action circulate NEA only to the left center tank vent
 
-21. Nitrogen Generation System operation trolled 4 / 10
+Nitrogen Generation System operation is controlled
 By a control panel in the cockpit
-Automatically
+@@Automatically
 By ECS control program
 
-22. Nitrogen Generation System takes
+Nitrogen Generation System takes air from
 @@FWD cargo compartment
 CAC outlets
 AFT cargo compartment
 
-23. Power supply to operation the motor pressor (MDC) from?
-CMSCs
+Power supply to operation the motor driven compressor (MDC) from?
+@@CMSCs
 RPDU 22
 P200
 
-24. Purpose of the Inert Gas system?
-@@Decrease the quantity of Oxygen in mixture in the fuel Tanks
-Decrease the quantity of Nitrogen mixture in the fuel Tanks
-Increase the quantity of Oxygen in ture in the fuel Tanks
+Purpose of the Inert Gas system?
+@@Decrease the quantity of Oxygen in the Fuel/Air mixture in the fuel Tanks
+Decrease the quantity of Nitrogen in the Fuel/Air mixture in the fuel Tanks
+Increase the quantity of Oxygen in the Fuel/Air mixture in the fuel Tanks
 
-25. Regarding power supply to NGS:
-The Motor Driven Compressor can only one common motor start controllers
-@@The NGS has the lowest priority if power for other systems.
-The NGS has the highest priority if sary for other systems.
+Regarding power supply to NGS:
+The Motor Driven Compressor can get 235v ac from only one common motor start controllers (CMSC).
+@@The NGS has the lowest priority if power is necessary for other systems.
+The NGS has the highest priority if power is necessary for other systems.
 
-26. The drain valve down stream of ASM spection access for 5 / 10
+The drain valve down stream of ASM gives an inspection access for
 @@Fuel in the distribution system
 Oxygen in the distribution system
 Water in the distribution system
 
-27. The motor cooling shutoff valve is
-Shut off motor driven compressor
-@@Change motor driven compressor from Ram air to Motor cooling air
-Change motor driven compressor from Motor cooling air to Ram air
+The motor cooling shutoff valve is used to
+Shut off motor driven compressor (MDC) cooling
+@@Change motor driven compressor (MDC) cooling from Ram air to Motor cooling air
+Change motor driven compressor (MDC) cooling from Motor cooling air to Ram air
 
-28. The purpose of NGS drain valve is:
-To give an inspection access for nitrogen distribution system manifold
-To give an inspection access for oxygen bution system manifold
-@@To give an inspection access for fuel tion system manifold.
+The purpose of NGS drain valve is:
+To give an inspection access for nitrogen in the distribution system manifold
+To give an inspection access for oxygen in the distribution system manifold
+@@To give an inspection access for fuel in the distribution system manifold.
 
-29. What are the components for the mal protection system in and around eration system (NGS) pack?
-Pack bay temperature sensor, Overheat temperature sensors.
-@@Pack bay temperature sensor, overheat temperature sensors, insulation blankets.
-Pack bay temperature sensor, Overheat temperature sensors.
+What are the components for the structural thermal protection system in and around the nitrogen generation system (NGS) pack?
+Pack bay temperature sensor, Overheat detection temperature sensors.
+@@Pack bay temperature sensor, overheat detection temperature sensors, insulation blankets.
+Pack bay temperature sensor, Overheat detection temperature sensors.
 
-30. What controls the NGS system operation?
-@@The NGS hosted software in the CCR
+What controls the NGS system operation?
+@@The NGS hosted software in the CCR cabinet.
 FQIS
-PCU 6 / 10
+PCU
 
-31. What happen if there is compressor temp?
+What happen if there is compressor outlet high temp?
 @@Shutdown NGS
 Reduced speed of the MDC
 Increased speed of the MDC
 
-32. What happen in case of NGS MDC pressor discharge overheat?
-NGS cooldown for 5 sec and shutting
+What happen in case of NGS MDC 2nd stage compressor discharge overheat?
+NGS cooldown for 5 sec and shutting down
 @@NGS shutdown immediately
-MDC decrease discharge temperature heat condition
+MDC decrease discharge temperature to limit overheat condition
 
-33. What happen in case of NGS MDC
-MDC decrease speed to limit by NGS
+What happen in case of NGS MDC overspeed?
+MDC decrease speed to limit by NGS function in CCR
 @@NGS shutdown immediately
-NGS cooldown for 5 sec and shutting
+NGS cooldown for 5 sec and shutting down
 
-34. What happen to NGS pack if power systems such as hydraulic or cabin air necessary.
-@@CMCS shuts down the NGS pack because the lowest power priority
-CMCS shuts down the CAC because power priority than CAC
-CMCS keep the NGS pack operating CAC and hydraulic pump because NGS power priority
+What happen to NGS pack if power for priority systems such as hydraulic or cabin air compressors is necessary.
+@@CMCS shuts down the NGS pack because NGS has the lowest power priority
+CMCS shuts down the CAC because NGS has higher power priority than CAC
+CMCS keep the NGS pack operating together with CAC and hydraulic pump because NGS has the same power priority
 
-35. What is the purpose of NGS?
-Decreases the quantity of nitrogen mixture in the fuel tanks. 7 / 10
-@@Decreases the quantity of oxygen mixture in the fuel tanks.
-Increase the quantity of oxygen in ture in the fuel tanks
+What is the purpose of NGS?
+Decreases the quantity of nitrogen in the fuel/air mixture in the fuel tanks.
+@@Decreases the quantity of oxygen in the fuel/air mixture in the fuel tanks.
+Increase the quantity of oxygen in the fuel/air mixture in the fuel tanks
 
-36. What statemen is correct about NGS?
-The NGS has the same power priority compressor
-@@The NGS has the lowest priority if power for other systems
-The NGS has the highest priority if sary for other systems
+What statement is correct about NGS?
+The NGS has the same power priority with cabin air compressor
+@@The NGS has the lowest priority if power is necessary for other systems
+The NGS has the highest priority if power is necessary for other systems
 
-37. Where does the NGS supply air come
+Where does the NGS supply air come from?
 Ram air from NGS Ram air inlet
 Compressed air from ECS pack CAC
 @@Cabin air from NGS cabin shutoff valve
 
-38. Where is NGS MDC cooling air come
-Ambient air from the ram air duct through cooling check valve only
-Compressed air come from the first sor discharge through the heat exchanger motor cooling valve is open only
+Where is NGS MDC cooling air come from?
+Ambient air from the ram air duct through the stator cooling check valve only
+Compressed air come from the first stage compressor discharge through the heat exchanger when the motor cooling valve is open only
 @@Both a and b are correct
 
-39. Which air source does NGS use to Enriched Air (NEA)?
-Compressed air directly from Cabin (CAC).
-Conditioned air outlet of Environmental tem PACK. 8 / 10
-@@Cabin air from an inlet duct under forward cargo compartment.
+Which air source does NGS use to make Nitrogen Enriched Air (NEA)?
+Compressed air directly from Cabin Air Compressor (CAC).
+Conditioned air outlet of Environmental Control System PACK.
+@@Cabin air from an inlet duct under the floor of the forward cargo compartment.
 
-40. Which component cause ambient NGS heat exchanger when ground cooling on the ground?
-Ejectors
+Which component cause ambient airflow thru the NGS heat exchanger when ground cooling valve open on the ground?
+@@Ejectors
 NGS Motor Driven Turbine
 NGS RAM fan
 
-41. Which fuel tank has distribution
+Which fuel tank has distribution of NEA flow into?
 @@LH, RH and Center tanks
 LH and RH main tanks only
 Center Tanks only
 
-42. Which fuel tank inert with nitrogen
+Which fuel tank inert with nitrogen enriched air?
 Only center tank
 Both main tanks
 @@All main tanks and center tanks
 
-43. Which of the following is the correct the Ground Cooling Valve?
-The valve is set open when the airplane
-@@The valve is set open when the NGS and the airplane is in the air.
-The valve is set open when the NGS and the airplane is on the ground.
+Which of the following is the correct operation of the Ground Cooling Valve?
+The valve is set open when the airplane is in the air.
+The valve is set open when the NGS is in operation and the airplane is in the air.
+@@The valve is set open when the NGS is in operation and the airplane is on the ground.
 
-44. Which of the following statements
-There are 02 isolation valve body and NGS, their access is through fuel tank
-@@There is an isolation valve body and each fuel tank, their access is through 9 / 10 panels.
-There is an isolation valve body and each fuel tank, their access is on the
+Which of the following statements is TRUE:
+There are 02 isolation valve body and driveshaft in NGS, their access is through fuel tank access panels.
+@@There is an isolation valve body and driveshaft in each fuel tank, their access is through fuel tank access panels.
+There is an isolation valve body and driveshaft in each fuel tank, their access is on the front spar.
 
-45. Which of the following statements
-@@The NGS operates automatically with control interface.
-The NGS operates manually on ground matically during flight.
-The NGS operates automatically with switch in ON position. 10 / 10
+Which of the following statements is TRUE:
+@@The NGS operates automatically with no flight deck control interface.
+The NGS operates manually on ground and automatically during flight.
+The NGS operates automatically with PACK control switch in ON position.

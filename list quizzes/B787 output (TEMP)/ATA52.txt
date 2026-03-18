@@ -1,172 +1,174 @@
-1 All B787 Passenger Entry Doors (PED)
+All B787 Passenger Entry Doors (PED) are:
 @@Same dimension
 Different dimension
 Different structure
 
-2 Bulk cargo door is open and close
+Bulk cargo door is open and close using:
 Hydraulic motor
 Electric motor
 @@Counter balance mechanism
 
-3 Cargo door hydraulic power pack:
-Can be manually operated from a door lock handle.
-@@Is electrically operated by a 3- position control switch or manually by a manual sion on the bottom of the motor.
-Can be manually operated from a fuselage on the door cut-out when the
+Cargo door hydraulic power pack:
+Can be manually operated from a provision on the door lock handle.
+@@Is electrically operated by a 3-position external control switch or manually by a manual drive provision on the bottom of the motor.
+Can be manually operated from a provision on the fuselage on the door cut-out when the door is open.
 
-4 Cargo door hydraulic system uses from:
+Cargo door hydraulic system uses hydraulic fluid from:
 Center hydraulic system.
 L&R Hydraulic systems.
 @@A self-contained hydraulic system.
 
-5 Cargo door is operated by:
+Cargo door is operated by:
 @@Self-contained hydraulic system
 Electrical power
 Aircraft hydraulic systems
 
-6 Cargo doors are locked:
-Electrically 1 / 8
-Manually
+Cargo doors are locked:
+Electrically
+@@Manually
 Hydraulically
 
-7 Cargo doors can be opened and closed
+Cargo doors can be opened and closed from:
 @@A or B
 Outside only
 From inside only
 
-8 EPAS pressure bottle:
+EPAS pressure bottle:
 Uses compressed air
 Has an indication on the door
 @@Uses nitrogen
 
-9 Flight lock mechanism engages when:
+Flight lock mechanism engages when:
 A/C speed is not less the 80kts
 @@A and B
 At least one engine is running
 
-10 Functions of the passenger entry
-@@Passenger entry door, Service door, exit.
-Passenger entry door, Service door, exit, warning outside.
-Passenger entry door, Emergency
+Functions of the passenger entry doors:
+@@Passenger entry door, Service door, Emergency exit.
+Passenger entry door, Service door, Emergency exit, warning outside.
+Passenger entry door, Emergency exit.
 
-11 FWD/AFT cargo door lock handle
+FWD/AFT cargo door lock handle is located:
 Both inside and outside of the door.
 @@On door exterior surface only.
 On door interior surface only.
 
-12 How many doors you have to open to AFT EE Bay from outside?
-2 2 / 8
+How many doors you have to open to get access to AFT EE Bay from outside?
+@@2
 3
 1
 
-13 How to activate the flight lock?
+How to activate the flight lock?
 Air speed show 80 knots
-@@Air speed show 80 knots and 1 engine running
-Air speed show 80 knots or 1 engine running
+@@Air speed show 80 knots and 1 engine show engine running
+Air speed show 80 knots or 1 engine show engine running
 
-14 How to open F/D door from the inside bolt lock and electric lock are closed?
-Manual unlock deadbolt and switch when a person from the outside presses
-@@Manual unlock deadbolt and Electric to UNLKD when a person from the outside Code
-The power switch is ON and switch a person from the outside presses Code.
+How to open F/D door from the inside once deadbolt lock and electric lock are closed?
+Manual unlock deadbolt and switch to UNLKD when a person from the outside presses Code.
+@@Manual unlock deadbolt and Electric Lock or switch to UNLKD when a person from the outside presses Code
+The power switch is ON and switch to UNLKD when a person from the outside presses Code.
 
-15 If the electric pump is failed, cargo opened using MANUAL PUMP DRIVE
+If the electric pump is failed, cargo door can be opened using MANUAL PUMP DRIVE with the speed:
 Less than 1450 RPM
 More than 3000 RPM
 @@1450 to 3000 RPM
 
-16 In the center of master attendant switch all doors ARM and DISARM indication
-WHITE - to show all passenger door are in the transit mode.
-@@BLUE - to show all passenger door are in the armed mode. 3 / 8
-WHITE - to show all passenger door are in the armed mode.
+In the center of master attendant switch panel, the all doors ARM and DISARM indication is:
+WHITE - to show all passenger door mode selectors are in the transit mode.
+@@BLUE - to show all passenger door mode selectors are in the armed mode.
+WHITE - to show all passenger door mode selectors are in the armed mode.
 
-17 Purpose of vent door mechanism entry door is to:
-Keep door unlatch and vent positive sure
-@@Release pressurization and keep door cabin is pressurized
-Release pressurization and vent positive pressure
+Purpose of vent door mechanism on passenger entry door is to:
+Keep door unlatch and vent positive cabin pressure
+@@Release pressurization and keep door latch when cabin is pressurized
+Release pressurization and vent positive cabin pressure
 
-18 Slide installation type A (dual lane) (single lane) is defined by:
+Slide installation type A (dual lane) and type C (single lane) is defined by:
 @@The hinge cover
 The door structure
 The door dimension
 
-19 The cargo door control panel on the fuselage forward of the door:
-Has one section for electrical operation
-@@Has two sections: aft section for access electrical portion, forward section for alternate portion.
-Can be unlatched manually to get alternate control portion.
+The cargo door control panel on the exterior of the fuselage forward of the door:
+Has one section for electrical operation only.
+@@Has two sections: aft section for access to the electrical portion, forward section for access to the alternate portion.
+Can be unlatched manually to get access to the alternate control portion.
 
-20 The EE bay access hatch can be opened
+The EE bay access hatch can be opened from:
 Cabin compt
 Fwd E/E
-@@Both cabin compt and Fwd E/E 21. 4 / 8 21 The EPAS module:
-Is capacitance type
-Can only be disarmed by CMCF
-@@Uses 03 batteries
+@@Both cabin compt and Fwd E/E
 
-22 The Flight Deck Door is opened in pression by:
+The EPAS module:
+@@Is capacitance type
+Can only be disarmed by CMCF
+Uses 03 batteries
+
+The Flight Deck Door is opened in case of decompression by:
 A Delta P sensing system in the strike
 @@Decompression latch and panel
 Manually by flight crew
 
-23 The flight deck door:
-@@Has hinges on the left side and opens direction.
-Has hinges on the right side and opens direction.
-Has hinges on the left side and opens ward direction.
+The flight deck door:
+@@Has hinges on the left side and opens in the aft direction.
+Has hinges on the right side and opens in the aft direction.
+Has hinges on the left side and opens in the forward direction.
 
-24 The flight deck overhead (crew escape) aluminum plug-type door that:
+The flight deck overhead (crew escape) door is an aluminum plug-type door that:
 @@Opens into the flight deck.
 Has only 01 interior manual handle.
 Opens outward
 
-25 The Passenger Entry Doors (PED)
-@@Have the same dimensions, the hinge escape slide bustle are different for type C doors
-Have the same dimensions with same and escape slide bustles.
-Have different dimensions for type 5 / 8
+The Passenger Entry Doors (PED) types:
+@@Have the same dimensions, the hinge cover and escape slide bustle are different for type A and type C doors
+Have the same dimensions with same hinge covers and escape slide bustles.
+Have different dimensions for type A and C doors.
 
-26 Two positions of passenger door are:
+Two positions of passenger door mode handle are:
 LOCKED and UNLOCKED
 @@ARMED and DISARMED
 AUTO and MANUAL
 
-27 What happens when you pull the out of its recess and Mode select is ARM:
-@@The clutch assembly has a pull cable the mode select mechanism, the door
-The girt bar deploys the slide as the full open
-The squib is fired by a capacitor in the
+What happens when you pull the external handle out of its recess and Mode select is ARM:
+@@The clutch assembly has a pull cable that disarms the mode select mechanism, the door open normal.
+The girt bar deploys the slide as the door moves full open
+The squib is fired by a capacitor in the EPAS module.
 
-28 What panel door in the not-pressurize cated on synoptic page?
-Auxiliary power system (APS) access
+What panel door in the not-pressurize area is indicated on synoptic page?
+Auxiliary power system (APS) access door.
 @@Refueling Station Door
 Waste tank service door
 
-29 When can the EPAS module fire the handle is opened and:
-@@Mode select sensor is not disarmed, gaged sensor is engaged, Safety switch MAL position
-Girt bar engaged sensor is engaged, gaged sensor is engaged, pressure is psig.
+When can the EPAS module fire the squib if the handle is opened and:
+@@Mode select sensor is not disarmed, Girt bar engaged sensor is engaged, Safety switch is in the NORMAL position
+Girt bar engaged sensor is engaged, Girt bar engaged sensor is engaged, pressure is more than 5500 psig.
 Mode select sensor is not disarmed
 
-30 When you turn the external handle
-@@A and B 6 / 8
+When you turn the external handle of PED:
+@@A and B
 The slide disarmed
 The internal handle moves
 
-31 Which doors are presented on the
-Potable Water Service Door, ECS Access cargo door
-@@Aft Electrical Equipment Access Door, cess Door, PED.
-Flight Deck Overhead (Crew Escape) Ground Power Supply Door, Forward
+Which doors are presented on the Cockpit?
+Potable Water Service Door, ECS Access Doors, bulk cargo door
+@@Aft Electrical Equipment Access Door, Forward Access Door, PED.
+Flight Deck Overhead (Crew Escape) Door, External Ground Power Supply Door, Forward Access Door
 
-32 Which of the following cannot be cargo door is opened?
+Which of the following cannot be used to check if cargo door is opened?
 @@EICAS status page
 Door synoptic page
 EICAS upper display
 
-33 Which of the following cargo doors cally operated?
+Which of the following cargo doors are hydraulically operated?
 Bulk cargo door.
 All cargo doors.
 @@FWD and AFT cargo doors.
 
-34 Which of the following statements
-EPAS contains a battery which is used discharge power.
-EPAS contains a capacitor - stores power for 24 hours after loss of airplane
-@@EPAS contains a capacitor - stores power for up to 1 hour after loss of airplane
+Which of the following statements is TRUE:
+EPAS contains a battery which is used for squib discharge power.
+EPAS contains a capacitor - stores squib discharge power for 24 hours after loss of airplane power.
+@@EPAS contains a capacitor - stores squib discharge power for up to 1 hour after loss of airplane power.
 
-35 You cannot deploy door slide raft door from outside. This is because: 7 / 8
-@@The mode selector goes to MANUAL handle is pulled
+You cannot deploy door slide raft by opening the door from outside. This is because:
+@@The mode selector goes to MANUAL if the external handle is pulled
 EPAS does not work
-Software in CCR deactivate slide raft from outside the airplane 8 / 8
+Software in CCR deactivate slide raft when open from outside the airplane

@@ -1,144 +1,144 @@
-1. What kind of mean /signals that all the CCR cabinets use
+What kind of mean/signals that all interfaces inside the CCR cabinets use
 Fiber optic cable / Fiber optic data
-Copper wire / standard Ethernet format
-@@Copper wire /Electrical signals data
+Copper wire / standard Ethernet format data
+@@Copper wire / Electrical signals data
 
-2. Can we dispatch B787 with an inoperative Data Concentrator (RDC)?
-@@Yes, if an inoperative RDC not installed 19 position
-No, due to the CCS RDCs are different changeable
-Yes, if an inoperative RDC installed position
+Can we dispatch B787 with an inoperative Remote Data Concentrator (RDC)?
+Yes, if an inoperative RDC not installed into the RDC 19 position
+No, due to the CCS RDCs are different and not interchangeable
+@@Yes, if an inoperative RDC installed into the RDC 19 position
 
-3. Can we dispatch the AC with 01 GPM
-Yes, the Boeing MMEL states 16 installed, quired for dispatch
-No, If a GPM fails, the status "NO GO" GPM (N) L/R, shows
-@@Yes, provided GPM defective is in GPM 8R)
+Can we dispatch the AC with 01 GPM faulty?
+Yes, the Boeing MMEL states 16 installed, 15 required for dispatch
+No, If a GPM fails, the status "NO GO" message, CCR GPM (N) L/R, shows
+@@Yes, provided GPM defective is in GPM slot 8 (8L or 8R)
 
-4. How do the RDC channels connect channels?
+How do the RDC channels connect to network switch channels?
 Neither a and b is correct.
-@@Each of RDC channel A and B connect work switch channel A and B.
-RDC Channel A and B respectively work switch channel A and B. 5. 1 / 6
+Each of RDC channel A and B connect to both network switch channel A and B.
+@@RDC Channel A and B respectively connect to network switch channel A and B.
 
-How many ARINC 664 network cabinet (ACS) are there in the CCS
+How many ARINC 664 network cabinet switches (ACS) are there in the CCS
 2
-4
+@@4
 6
 
-6. How many ARINC 664 network remote (ARS) are there in the CCS
+How many ARINC 664 network remote switches (ARS) are there in the CCS
 4
 2
-6
+@@6
 
-7. How many channels does each RDC Concentrator) have
-2
+How many channels does each RDC (Remote Data Concentrator) have
+@@2
 3
 1
 
-8. How many fiber optic translators (FOX) there in each CCR cabinet
-2
+How many fiber optic translators (FOX) module are there in each CCR cabinet
+@@2
 4
 3
 
-9. On every CCR cabinet, normally each plies power to
+On every CCR cabinet, normally each PCM will supplies power to
 All of the modules
-All of the modules except two graphic (GG)s
+All of the modules except two graphic generator (GG)s
 @@One half of the modules
 
-10. One type of switch connections to is 2 / 6
-Hardwire interface go through the
+One type of switch connections to airplane systems is
+Hardwire interface go through the CDN
 @@Digital PIP interface through the CDN
 Combined digital and PIP interface
 
-11. Only power down one CCR cabinet
-@@keep a copy of the circuit breaker CCR cabinet intact
-keep a copy of the ACMF fault history other CCR cabinet
-keep the airplane config data contend L4 and R1 off CCR
+Only power down one CCR cabinet at a time to:
+@@keep a copy of the circuit breaker data in the other CCR cabinet intact
+keep a copy of the ACMF fault history data in the other CCR cabinet
+keep the airplane config data contend in GPMs L1, L4 and R1 off CCR
 
-12. PCM internal clock usual get power
+PCM internal clock usual get power from
 @@The hot battery bus (HBB)
 One of the four 28v dc buses
 Battery in clock it shelf
 
-13. Some components have a direct the CDN ( do not connect to the RDCs). see the status of these connections:
+Some components have a direct connection with the CDN (do not connect to the RDCs). Where can you see the status of these connections:
 The CCS/CDN status page
 The CCS RDC'S maintenance pages
 @@The CDN LRU maintenance pages
 
-14. The 21 remote data concentrators
-Change fiber optic data to ARINC nal data
-@@Change airplane system data to ARINC
-Send and receive ARINC 664 electrical and from fiber optic translator (FOX)
+The 21 remote data concentrators (RDC) on CCS:
+Change fiber optic data to ARINC 664 electrical signal data
+@@Change airplane system data to ARINC 664 format
+Send and receive ARINC 664 electrical signal data to and from fiber optic translator (FOX) modules
 
-15. The ARS / ARINC 664 network cabinet (ACS) are: 3 / 6
+The ARS / ARINC 664 network cabinet switches (ACS) are:
 Software Unloadable
-@@Only software loadable when shop
-Software loadable
+Only software loadable when shop visit
+@@Software loadable
 
-16. The CCS will start in the inhibited following circumstances:
-@@Airplane is in the air; Fuel cutoff switches cutoff position; No fuel cutoff switch
-Airplane on the ground; Fuel cutoff cutoff position; one fuel cutoff switch
-Airplane is not in the air; one Fuel is in not cutoff position; fuel cutoff switches available
+The CCS will start in the inhibited mode under the following circumstances:
+@@Airplane is in the air; Fuel cutoff switches are in not cutoff position; No fuel cutoff switch data is available
+Airplane on the ground; Fuel cutoff switches are in cutoff position; one fuel cutoff switch data is available
+Airplane is not in the air; one Fuel cutoff switches is in not cutoff position; fuel cutoff switches data are available
 
-17. The common computing resource and valve assembly get power from
+The common computing resource (CCR) cabinet fan and valve assembly get power from
 Remote Power Distribution Unit (RPDU)
 General Processing Module (GPM)
 @@Power Conditioning Modules (PCM)
 
-18. The cooling air for each CCR cabinet comes from
+The cooling air for each CCR cabinet normally comes from
 @@The forward equipment cooling system
 The aft equipment cooling system
-The common computing resource and valve assembly
+The common computing resource (CCR) cabinet fan and valve assembly
 
-19. The left and right CCR cabinet each
+The left and right CCR cabinet each contain
 @@8 general processor modules (GPM)
-ARINC 664 network cabinet switches
-Power conditioning modules (PCM) 20. 4 / 6
+ARINC 664 network cabinet switches (ACS)
+Power conditioning modules (PCM)
 
-There are 2 startup modes for the
+There are 2 startup modes for the CCS:
 Primary and secondary modes
 @@Uninhibited and inhibited modes
 Unattended and attended modes
 
-21. There are 3 CDN LRU maintenance pages show:
-The status of the line replaceable
+There are 3 CDN LRU maintenance pages, these pages show:
+The status of the line replaceable units
 @@The status of the interface connections
 The status of components in the CCR
 
-22. What is the function of FOX?
-@@Changing electrical data to fiber optic versa.
+What is the function of FOX?
+@@Changing electrical data to fiber optic data and vice versa.
 Both a and b are correct.
-Contain application software and doing craft data calculation.
+Contain application software and doing some aircraft data calculation.
 
-23. What kind of connection does the network cabinet switch) have:
-Electrical connection to GPMs and
-Electrical connection to GPMs and
-@@Electrical connection to GPMs and nection to FOXs .
+What kind of connection does the ACS (ARINC 664 network cabinet switch) have:
+@@Electrical connection to GPMs and FOXs.
+Electrical connection to GPMs and ARS.
+Electrical connection to GPMs and fiber optic connection to FOXs.
 
-24. What state is NOT true when working optic cables
-Never look into the end of a fiber data is being transmitted
-@@Try a repair splice of a damaged fiber before replacement
-Do not bend cables into a radius smaller 1.5 inches (3.7 cm) 5 / 6
+What state is NOT true when working with fiber optic cables
+Never look into the end of a fiber optic cable when data is being transmitted
+@@Try a repair splice of a damaged fiber optic cable before replacement
+Do not bend cables into a radius smaller than 1.5 inches (3.7 cm)
 
-25. Where is located of the left common resource (CCR) cabinets
-In the main wheel well box, left side
-@@In the Aft electronic equipment (EE)
-In the forward electronic equipment
+Where is located of the left common computing resource (CCR) cabinets
+In the main wheel well box, left side of the airplane.
+In the Aft electronic equipment (EE) bay
+@@In the forward electronic equipment (EE) bay
 
-26. Which components is not contained cabinet
+Which components is not contained in Each CCR cabinet
 Fiber optic translator (FOX) modules
 @@Remote data concentrators (RDC).
-ARINC 664 network cabinet switches
+ARINC 664 network cabinet switches (ACS)
 
-27. Which components is not part of network (CDN)
-ARINC 664 network cabinet switches
+Which components is not part of the common data network (CDN)
+ARINC 664 network cabinet switches (ACS)
 @@General processor modules (GPM)
 Fiber optic translator (FOX) modules
 
-28. Which modules in the CCR (Common Resource) cabinet are not part of CCS System):
+Which modules in the CCR (Common Computing Resource) cabinet are not part of CCS (Common Core System):
 02 PCMs (Power Conditioning Module)
 02 FOX (Fiber Optic translator Module)
 @@02 GGs (Graphics Generators)
 
-29. Which type of switch that connects tems completely through the CDN
+Which type of switch that connects to airplane systems completely through the CDN
 Hardwire interface
 Combined digital and hardwire interface
-@@Digital PIP interface 6 / 6
+@@Digital PIP interface

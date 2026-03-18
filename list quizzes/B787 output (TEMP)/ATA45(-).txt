@@ -1,0 +1,125 @@
+CMCF (Central Maintenance Computing Function) shows an FDE (Flight Deck Effect) as one of these: Active, Latched, Not Active. A latched FDE (Flight Deck Effect) is:
+@@A status message or a SMT (Scheduled Maintenance Task)
+
+Do the OPERATIONAL TEST to?
+@@Confirms that a system and/or component operates correctly
+
+FDEs or MMs fault state are LATCHED, it mean?
+@@CMCF or system memory keeps fault
+
+How many maximum number of connection that maintenance laptop can connect at the same time?
+@@Three for wired connections, four for wireless connections
+
+How does The CMCF (Central Maintenance Computing Function) operate?
+@@Only one CMCF (Central Maintenance Computing Function) operates at a time
+
+How many CMCF sessions can show simultaneous
+@@4
+
+How many Ethernet ports on the airplane for maintenance laptop connection?
+@@Three: in the flight deck, forward EE Bay, and aft EE Bay
+
+How many Onboard Data Load Function (ODLF) session can operate at a time?
+@@Only one ODLF session can operate at a time
+
+How many step does the fault isolation process on the airplane have
+@@6
+
+How many the airplane condition monitoring function (ACMF) can operate at a time?
+@@Only one ACMF session can operate at a time
+
+How many type of TEST on CMCF?
+@@3
+
+How to distribute the loadable software airplane parts (LSAP) from the airline server to the airplane when the terminal wireless system is inoperative?
+@@Use the software maintenance tool (SMT) on Maintenance laptop
+
+How to load the CMCF (Central Maintenance Computing Function) application and/or LSAP (Loadable Software Airplane Part) to the correct GPM (General Processing Module)?
+@@Use the ODLF (Onboard Data Load Function)
+
+How to set the control source of CMCF data?
+@@Use CENTRAL MAINTENANCE COMPUTER SWITCH CONTROL
+
+How to show the Airplane Functions Menu?
+@@Use the ML maintenance control display function (MCDF) software
+
+In the main CMCF (Central Maintenance Computing Function) menus, where can you find the Non-correlated MM (Maintenance Message)
+@@Present leg faults, Existing faults, Fault history
+
+The airplane condition monitoring function (ACMF) is a function in
+@@the common computing resource (CCR)
+
+The CMCF (Central Maintenance Computing Function) has logic that uses P5 GND TEST selector switch position, the position are:
+@@NORM, ENABLE, DATA LOAD/ENABLE
+
+The CMCF (Central Maintenance Computing Function) is a software part of which component on CCR (Common Computing Resource) cabinets
+@@GPM (General processor module)
+
+The CMCF (Central Maintenance Computing Function) menu and screens show on these components:
+@@ML (Maintenance Laptop), EFB (Electronic Flight Bag), Multi Function Display.
+
+The CMCF provides these functions?
+@@Engine balancing
+
+The CMCF shows the FDEs by time?
+@@Most recent FDE shows first
+
+The conditions that cause the CMCF (Central Maintenance Computing Function) to change to Maintenance flight phases (MT) are:
+@@The "ENGINE BALANCING" is selected on the CMCF display
+
+The continuous parameter logging (CPL) function is a function of
+@@ACMF
+
+The engine balancing function of CMCF lets you balance an engine without engine ground-run, select The PERFORM BALANCE on The Engine Balancing main menu to:
+@@Find where to Add and Remove weights from the engine
+
+The P5 GND TEST switch is ENABLE position, the switch gives a signal to?
+@@Permit ground test operation and other functions
+
+The software components necessary for the ACMF (Airplane Condition Monitoring Function) operation are:
+@@ACMF partition, AMI (Airline Modifiable Information), DGA (Data Gathering Application) partition, PMT (Port Mapping Table)
+
+Three activities of a MM (Maintenance Message) are: Active, Latched, Not Active. The MM shows Not Active if:
+@@System always monitors for a fault and a fault does not remain
+
+To clear a latched FDE, you should?
+@@Do a task to clear a latched FDE
+
+To select text on Central Maintenance Computing Function (CMCF) screens on a Multifunction Display (MFD), you can use:
+@@The Cursor Control Device (CCD)
+
+To use the Onboard Data Load Function (ODLF) and the Ground Test function on the maintenance laptop, the type of Wireless Connection must be:
+@@Wireless Full Connection or Wired Connection
+
+To use the onboard data load function (ODLF), the position of the flight deck P5 GND TEST switch must be in
+@@DATA LOAD/ENABLE
+
+What are the Non-correlated MM (Maintenance Message)s?
+@@MMs are those messages that do not relate to a FDE (Flight Deck Effect), or MO (Maintenance Memo), or SMT (Scheduled Maintenance Task)
+
+What does the FLIGHT LEG TRANSITION ENABLE/DISABLE prevent?
+@@Flight leg change during engine operation for maintenance
+
+What does the onboard data load function (ODLF) use for?
+@@Load the LSAPS to the airplane systems
+
+What does the The onboard storage management (OSM) function use for
+@@Manages the data on the airplane core network cabinet file server module (FSM)
+
+Where do you get to GROUND TESTS selection on CMCF
+@@LINE MAINTENANCE Selection
+
+Where does the ACMF (Airplane Condition Monitoring Function) main menu show:
+@@ML (Maintenance Laptop) and EFB (Electronic Flight Bag) DU (Display Unit)
+
+Where is central maintenance computing function (CMCF) software located
+@@CCR
+
+Which devices can you use to install LSAP (Loadable Software Airplane Part)?
+@@An Electronic Flight Bag Display Unit (EFB DU)
+
+Which one is the CMCF can not show?
+@@Primary flight display (PFD)
+
+Which step in the fault isolation process is "Return to the fault isolation task"
+@@5

@@ -1,0 +1,439 @@
+What is the term used to describe the outermost orbital shell of an atom’s electrons?
+@@Valence shell
+Core shell
+Electron cloud
+
+What is the primary material used in the manufacture of semiconductors?
+@@Silicon
+Copper
+Aluminum
+
+What does a diode do?
+@@It allows current to flow in one direction only
+It allows current to flow in both directions
+It converts direct current into alternating current
+
+What does the letter "N" represent in the diode identification 1N345A?
+@@It signifies the material is a semiconductor
+It shows the diode's voltage rating
+It marks the device as being reverse polarity
+
+What type of materials are used in a Schottky diode's construction?
+@@Metal and silicon
+Metal and glass
+Metal and rubber
+
+What is a unique feature of Schottky diodes compared to standard PN junction diodes?
+@@No depletion zone
+Higher charge storage capacity
+Longer reverse recovery time
+
+Which instrument is commonly used to test diodes for functionality?
+@@Ohmmeter
+Signal generator
+Oscilloscope
+
+What happens when silicon is doped with an element that has five valence electrons?
+@@It becomes an N-type semiconductor
+It forms an insulator
+It becomes a conductor
+
+What happens when a PN junction is unbiased?
+@@No external voltage is applied and the depletion zone is in equilibrium
+Electrons and holes continuously cross the junction
+Current flows freely across the junction
+
+What happens when a diode is forward biased?
+@@Current flows as the depletion zone becomes narrower
+The depletion zone widens
+The diode blocks all current flow
+
+What happens when a semiconductor diode is forward biased?
+@@Electrons flow through the diode
+The diode blocks current flow
+The diode converts DC to AC
+
+What is the function of the 'Peak Recurrent Forward Current' rating in a diode specification sheet?
+@@It shows the maximum peak current allowed during recurring pulses in forward bias
+It indicates the maximum continuous current the diode can handle in reverse bias
+It represents the maximum nonrecurring current flow allowed in forward bias
+
+How does temperature affect the diode's ratings such as Maximum Average Forward Current?
+@@Ratings decrease as operating temperature rises above the specified value
+Temperature only affects reverse current ratings, not forward current ratings
+Ratings remain constant regardless of temperature
+
+What is the 'Reverse Recovery Time' (TRR) of a diode?
+@@The maximum time it takes for a diode to transition from forward bias to reverse bias
+The time taken for current to stop flowing after applying reverse voltage
+The time taken for the depletion zone to re-establish after a forward bias current flow
+
+Why is the 'Maximum Surge Current' rating important for diode operation?
+@@It defines the allowable current during short nonrecurring pulses to prevent diode damage
+It indicates the maximum current the diode can handle continuously
+It sets the limit for current that the diode can handle in reverse bias conditions
+
+What does the suffix letter "A" indicate in the identification 1N345A?
+@@The diode is an improved version of the basic type
+The diode has reverse polarity compared to the original
+The diode is a matching pair of separate devices
+
+In the diode identification system, what does the second set of numbers (e.g., 345 in 1N345) represent?
+@@It is a serialized identification number
+It indicates the number of active elements
+It shows the diode's maximum voltage rating
+
+What happens to a semiconductor diode when it is forward biased?
+@@Current flow is directly proportional to the applied voltage
+The voltage applied does not affect current flow
+Current flow is blocked completely
+
+What is the significance of the avalanche voltage in a reverse-biased diode?
+@@It is the voltage at which the diode fails to block current flow
+It is the point where the diode completely stops current flow
+It indicates the maximum current the diode can handle
+
+What happens to a Zener diode when the Zener voltage is reached?
+@@Current flows freely in the reverse direction
+Current stops flowing in the forward direction
+The diode blocks all current flow
+
+How is a Zener diode different from a standard diode when reverse-biased?
+@@A Zener diode can regulate voltage, while a standard diode fails at high reverse voltage
+A Zener diode operates at lower forward voltage, while a standard diode operates at higher voltages
+A Zener diode never experiences reverse bias, while a standard diode always does
+
+In which type of application are signal diodes commonly used?
+@@Radio signal processing
+Power regulation circuits
+High-voltage rectification
+
+What happens when light strikes a photodiode in a reverse-biased PN junction?
+@@Electrons and holes are created, allowing current flow
+The diode heats up but does not allow current to flow
+The diode blocks current flow
+
+Which factor increases the reverse current in a photodiode?
+@@Increased temperature or light exposure
+Decreased light exposure
+Reduced thermal energy
+
+Which of the following is NOT an advantage of LEDs over incandescent lamps?
+@@Greater heat production
+Lower voltage requirements
+Faster on and off operations
+
+How does a seven-segment LED display form the number "9"?
+@@By lighting all LED segments except "E"
+By lighting all LED segments except "B"
+By lighting all LED segments except "G"
+
+What is a common feature of larger rectifier diodes?
+@@They are encased in metal
+They have lower voltage ratings
+They are smaller in size
+
+Why is a Schottky diode considered a unipolar device?
+@@Free electrons are the majority carrier
+It conducts current in both directions
+It has equal numbers of holes and electrons
+
+What is the typical reverse recovery time for a Schottky diode?
+@@Shorter than standard diodes
+Equal to silicon diodes
+Non-measurable and instant
+
+What happens to the resistance of a varistor as voltage increases?
+@@Resistance decreases with high voltage
+Resistance increases with high voltage
+Resistance remains constant
+
+How does a varistor respond to small or moderate voltage applications?
+@@It allows minimal current flow
+It allows significant current flow
+It blocks all current flow
+
+How does the capacitance of a varactor diode change with increased reverse bias voltage?
+@@Capacitance decreases inversely
+Capacitance remains constant
+Capacitance fluctuates randomly
+
+What is a common application of varactor diodes in electronics?
+@@Variable tuning circuits
+Signal amplification circuits
+Power supply circuits
+
+What should you do before testing a diode with an ohmmeter?
+@@Disconnect the diode from the circuit
+Check the diode for physical damage
+Remove the diode from its housing
+
+How can you determine if a diode is functioning properly using resistance measurements?
+@@A high reverse and low forward resistance
+A low reverse and high forward resistance
+Both measurements should be low
+
+How does a diode in a series circuit with AC voltage behave?
+@@It converts AC to DC, using only half the wave
+It amplifies the AC voltage across the load
+It allows full AC current to flow through
+
+What is the main advantage of a bridge rectifier compared to a simple diode in series?
+@@It uses the full wave of AC, increasing efficiency
+It allows higher voltage drops across diodes
+It reduces the output current for the load
+
+How many terminals does a transistor have?
+@@3
+4
+2
+
+What semiconductor materials are used to make a transistor?
+@@P-type and N-type semiconductor materials
+Conductive and insulating materials
+N-type semiconductor between two layers of metal
+
+What is the primary function of a TRIAC in AC circuits?
+@@To allow current flow in both directions
+To allow current flow in only one direction
+To act as a resistor
+
+What is the primary function of a NOT gate?
+@@To invert the input signal.
+To combine multiple input signals.
+To isolate different circuit components.
+
+What additional terminal is added to a Shockley diode to create a Silicon Controlled Rectifier (SCR)?
+@@Gate
+Anode
+Emitter
+
+What are the two major kinds of logic circuits mentioned?
+@@TTL and CMOS
+TTL and LCD
+TTL and LED
+
+What is the significance of the breakover voltage in a Shockley diode?
+@@It is the voltage that allows current to flow through the diode
+It is the voltage required to charge the base of the transistor.
+It is the voltage that prevents current from flowing.
+
+What happens to an SCR when a voltage is applied to the gate terminal?
+@@The SCR becomes latched, allowing current to flow.
+The SCR short-circuits the circuit.
+The SCR is turned off.
+
+How does the gate pulse polarity affect a TRIAC's operation?
+@@It determines the direction of current flow through the TRIAC.
+It determines the voltage level applied to the load
+It determines the amount of current flowing through the TRIAC.
+
+What happens when the applied emitter voltage of a UJT exceeds the voltage at the gradient point?
+@@The UJT becomes forward biased, allowing current to flow from the B1 electrode to the emitter.
+The UJT becomes reverse biased, preventing current flow
+The UJT outputs a constant voltage regardless of the input.
+
+What effect does the gate voltage have on a Field Effect Transistor (FET)?
+@@The gate voltage narrows or widens the depletion area.
+The gate voltage can reverse the current direction instantly.
+The gate voltage directly controls the input current flow.
+
+What distinguishes a Metal Oxide Semiconductor Field Effect Transistor (MOSFET) from a standard FET?
+@@MOSFETs use a metal gate with an insulating layer.
+MOSFETs do not use a gate to control current flow.
+MOSFETs have two types of semiconductor materials.
+
+How do depletion mode MOSFETs operate when voltage is applied to the gate?
+@@They restrict or close an open channel for current flow.
+They maintain current flow at zero bias conditions.
+They create an open channel when voltage is applied.
+
+In the context of a NOT gate, what would be the output if the input is Logic 0?
+@@The output will be Logic 1.
+The output will remain at Logic 0.
+The output will remain undefined.
+
+Which statement best describes the output of an AND gate when it receives both inputs as Logic 0?
+@@The output will be Logic 0.
+The output will become undefined.
+The output will be Logic 1.
+
+What is the main difference between an OR gate and an EXCLUSIVE OR gate?
+@@An OR gate outputs Logic 1 when both inputs are Logic 1.
+Both gates have the same output.
+An EXCLUSIVE OR gate has three inputs.
+
+What will be the output of an EXCLUSIVE OR gate if both inputs are Logic 1?
+@@The output will be Logic 0.
+The output will be Logic 1.
+The output will be undefined.
+
+What is a key advantage of CMOS logic circuits compared to TTL logic circuits?
+@@CMOS circuits operate over a wider range of voltages.
+CMOS circuits require more components.
+CMOS circuits are slower in operation.
+
+What is a key characteristic of a linear circuit?
+@@Its output is proportional to the input, resulting in a straight-line graph.
+It always uses transistors and diodes as its primary components.
+Its output is unrelated to the input, producing non-linear results.
+
+What are integrated circuits (ICs) constructed on?
+@@Silicon semiconductor wafers
+Plastic sheets
+Metal plates
+
+What is a defining feature of an operational amplifier in electronic circuits?
+@@It amplifies the voltage difference between its inputs by hundreds of thousands of times.
+It is a high-gain amplifier with output proportional to the sum of its inputs.
+It is an integrated circuit with low-gain used for signal reduction in circuits.
+
+Which of the following is a feature of the Dual In-Line Package (DIP) standard?
+@@It standardizes the dimensions and usage of connecting terminals.
+It restricts the types of circuits that can be housed within a DIP element.
+It allows the use of only one row of terminals for connections.
+
+What is the advantage of using multiple chips in microprocessor architecture?
+@@It enables higher bit processing and faster speeds.
+It decreases the number of transistors used.
+It allows for slower processing speeds.
+
+What is a key function of a Zener diode in an electrical circuit?
+@@To regulate voltage by allowing reverse current flow at a specific voltage
+To increase current flow under forward bias
+To convert AC to DC power and amplify signals
+
+What is a common use of a signal diode?
+@@Processing radio signals with small currents
+Regulating large voltage
+Processing radio signals with high currents
+
+How does light enable current to flow in a photodiode?
+@@It excites electrons in the depletion region, generating electron-hole pairs that allow current to flow
+It lowers the resistance of the entire diode by increasing atomic vibration
+It short-circuits the PN junction, allowing current to bypass resistance
+
+What happens when light strikes the depletion layer of a reverse-biased photodiode?
+@@Electron-hole pairs are generated, increasing the reverse current
+The photodiode becomes forward-biased and stops current flow
+Light energy neutralizes the depletion zone, making it act as an insulator
+
+What is LED stand for?
+@@light-emitting diode
+light-enable diode
+Low-energy diode
+
+What is the main application of a rectifier diode?
+@@is usually used in applications that require high current
+is usually used in applications that require low current
+is usually used in applications that require high frequecy
+
+Which is the correct statement
+@@The Schottky diode has no depletion zone or charge storage
+The varistor has high resistance at high voltage and low resistance at high voltage
+The varactor capacitance is independent on the applied voltage
+
+Printed circuit boards (PCB) are primarily used in which of the following devices?
+@@Personal computers, avionics, and navigation equipment.
+Household appliances, automobiles, and primitive machines
+Light bulbs, wires, and power generators.
+
+What is a typical thickness of a printed circuit board (PCB)?
+@@1/16 inch (1.5 mm).
+1/4 inch (5 mm).
+1/8 inch (3 mm).
+
+What materials are commonly used to construct printed circuit boards (PCBs)?
+@@Resin impregnated paper and fiber glass cloth.
+Metal sheets and rubber compounds.
+Copper foil and aluminum sheets.
+
+In modern printed circuit boards, components are typically mounted how?
+@@Surface mounted on the same side as the copper traces.
+Mounted on a separate board from the copper traces.
+Surface mounted opposite to the copper traces.
+
+What is the primary purpose of a via in multi-layer printed circuit boards?
+@@To connect multiple layers electrically.
+To provide ventilation for the components.
+To increase the strength of the board.
+
+Why are printed circuit boards often coated with a protective substance?
+@@To protect the board from environmental damage.
+To enhance the electrical conductivity
+To reduce the weight of the board and to make the board non-conductive.
+
+An open loop system lacks
+@@Feedback
+Power
+Input signal
+
+A closed loop system provides feedback to the:
+@@Controller
+Motor
+Transducer
+
+A synchro system is primarily used for:
+@@Transmitting position information
+Indicating engine performance
+Transmitting fuel information
+
+DC selsyn systems are used in aircraft with:
+@@Direct current (DC) systems
+Alternating current (AC) systems
+Pneumatic systems
+
+In a capacitance transmitter, the amount of fuel is determined by:
+@@The dielectric constant of the material between the plates
+The distance between the plates
+The length of capacitance transmitter
+
+Inductance transmitters are primarily used to measure:
+@@Acceleration and air data
+Quantity and temperature of fuel
+Position changes
+
+What is a servomechanism in an aircraft system?
+@@Is an electric control system for an automatic powered mechanism that produces motion  using a low energy input signal
+Is a mechanism control system for an automatic powered mechanism that produces  force using a low energy input signal
+Is a mechanism control system for an automatic powered mechanism that produces  force using a high energy input signal
+
+What is a synchro system used for in an aircraft?
+@@Transmitting information from one point to another
+Converting alternating current to direct current
+Regulating the mechanismmotor speed
+
+What factors does the capacitance of a capacitor depend on?
+@@Area of the plates
+Voltage supply
+Type of material used
+
+Which components make up a basic DC selsyn system?
+@@Transmitter, indicator, and connecting wires
+Motor, capacitor, and transmitter
+Transmitter, receiver, and battery
+
+Which components make up a transmitter of the DC selsyn system?
+@@A circular resistance winding and a rotatable contact arm
+A circular resistance winding and a motor
+A circular resistance winding and a battery
+
+What happens to the rotatable contact arm in a variable resistor used in a DC selsyn system?
+@@It turns on a shaft in the center of the resistance winding to vary the output signal
+It rotates independently from the shaft to create mechanical feedback
+It turns on a shaft in the center of the resistance winding to generate voltage pulses
+
+Where are the brushes attached in a DC selsyn transmitter?
+@@The brushes are attached to the two ends of the rotatable contact arm
+The brushes are attached to the two ends of the resistance winding
+The brushes are attached to the two ends of the permanent magnet
+
+How is the transmitter in a DC selsyn system typically connected to the moving part of the aircraft?
+@@Using a mechanical linkage
+By electrical relays
+With a magnetic coupling
+
+When the DC selsyn system is used to indicate landing gear position, what additional information can it provide?
+@@Engagement status of the up-lock or down-lock mechanism
+Hydraulic pressure of the gear system
+Engagement status of down-lock mechanism and air-ground signal

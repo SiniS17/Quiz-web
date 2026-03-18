@@ -1,0 +1,244 @@
+What is hypoxia?
+@@A condition caused by a lack of oxygen in the body.
+An illness caused by breathing too much oxygen.
+A fear of heights
+
+What is the approximate percentage of oxygen in the air we breathe at sea level?
+@@0.21
+0.35
+0.55
+
+At what altitude above sea level does the oxygen pressure become insufficient to fully saturate the blood with oxygen?
+@@7,000 feet
+10,000 feet
+15000 feet
+
+What is the typical color used for high-pressure gaseous oxygen cylinders?
+@@Green
+Red
+Yellow
+
+What type of material is used in some newer, lighter-weight oxygen cylinders?
+@@Kevlar
+Carbon fiber
+Titanium
+
+What is the approximate temperature at which oxygen becomes liquid (LOX)?
+@@-183°C
+-150°C
+-100°C
+
+What type of oxygen system is commonly used as a backup in pressurized aircraft?
+@@Chemical oxygen system
+Liquid oxygen (LOX) system
+Gaseous oxygen system with a single mask
+
+What is the function of a diluter-demand regulator?
+@@To mix oxygen with cabin air
+To deliver 100% oxygen at all times.
+To only deliver oxygen above 10,000 feet.
+
+What is the purpose of a rebreather bag in a continuous-flow oxygen system?
+@@To reuse some of the exhaled oxygen
+To store emergency oxygen.
+To inflate the oxygen mask.
+
+What is the purpose of a pressure demand oxygen regulator?
+@@To deliver oxygen under pressure to the user's lungs
+To reduce the pressure in the oxygen cylinder.
+To measure the amount of oxygen in the system.
+
+What is the main component of a chemical oxygen generator?
+@@Sodium chlorate candle
+A small oxygen cylinder
+A molecular sieve
+
+What is the purpose of purging an oxygen system?
+@@To remove any contaminants and moisture.
+To check for leaks.
+To reduce pressure in the system.
+
+Why is it important to use oxygen-compatible materials in oxygen systems?
+@@To prevent fires
+To save weight.
+To reduce costs.
+
+What is the purpose of a hydrostatic test for oxygen cylinders?
+@@To check the structural integrity of the cylinder.
+To measure the amount of oxygen in the cylinder.
+To clean the inside of the cylinder.
+
+What is the purpose of a blowout disk in an oxygen system?
+@@To act as a safety relief in case of overpressure.
+To filter out contaminants.
+To regulate oxygen flow.
+
+What is a molecular sieve oxygen generator (MSOG)?
+@@A device that separates oxygen from the air.
+A type of chemical oxygen generator.
+A device that converts liquid oxygen to gaseous oxygen.
+
+Why should oxygen system shutoff valves be opened slowly?
+@@To prevent rapid compression and possible ignition
+To conserve oxygen
+To make it easier to control the flow.
+
+What is the purpose of the black rectangular symbol overprinted on a white background found on oxygen system tubing?
+@@To identify the tubing as part of the oxygen system.
+To show the direction of oxygen flow.
+To warn of high-pressure oxygen.
+
+What is a key characteristic of a demand-flow oxygen system?
+@@It delivers oxygen only when the user inhales.
+It provides a continuous flow of oxygen.
+It uses chemical oxygen generators.
+
+Why are oxygen cylinders sometimes filled to a higher pressure than their standard maximum pressure rating?
+@@To compensate for the decrease in temperature and pressure at altitude.
+To increase the duration of oxygen supply.
+To account for potential leaks in the oxygen system.
+
+What is the function of a calibrated orifice in a continuous-flow oxygen mask?
+@@To control the flow rate of oxygen to the user.
+To filter out impurities in the oxygen.
+To prevent the mask from detaching.
+
+Why is it important to record the remaining pressure in a cylinder after it has dispensed oxygen?
+@@To track the usage and ensure cylinders are replaced when necessary.
+To calculate the cost of refilling the oxygen cylinders.
+To monitor the overall pressure in the oxygen filler cart manifold.
+
+What is the primary advantage of chemical oxygen systems over gaseous oxygen systems in terms of safety?
+@@Chemical oxygen systems do not produce oxygen until it is needed, reducing transportation and storage risks.
+Chemical oxygen systems are less likely to leak.
+Chemical oxygen systems are more resistant to damage.
+
+How are chemical oxygen generators in an airliner's overhead passenger service units (PSUs) activated?
+@@By pulling the mask down into a usable position.
+By pressing a button on the PSU.
+By a loud noise indicating depressurization.
+
+Why is it important to avoid rapid decompression of oxygen systems?
+@@To prevent heat build-up and possible ignition.
+To conserve oxygen.
+To prevent damage to the masks.
+
+How does an EDS conserve oxygen compared to a continuous flow system?
+@@By eliminating oxygen flow during the exhale and pause phases of breathing.
+By reducing the overall oxygen flow rate.
+By shutting off the oxygen supply when the user is not breathing.
+
+What is the purpose of the emergency bypass switch on a permanently mounted EPD system?
+@@To provide continuous oxygen flow in case of system malfunction.
+To allow the user to manually adjust the oxygen flow rate.
+To activate the system in case of a power failure.
+
+What is the purpose of the diluter lever on an oxygen mask regulator?
+@@To adjust the mix of oxygen and cabin air.
+To turn the oxygen flow on and off.
+To control the pressure of the oxygen delivered.
+
+What is a cannula in an oxygen system?
+@@A small tube that delivers oxygen directly into the nostrils.
+A valve that controls the flow of oxygen.
+A filter that removes impurities from the oxygen.
+
+Why is the blowout disk typically located on the fuselage skin?
+@@To make it easily visible during external inspections.
+To protect it from damage.
+To ensure it is accessible for maintenance.
+
+What is the difference between a diluter-demand regulator and a pressure-demand regulator?
+@@A pressure-demand regulator delivers oxygen under positive pressure.
+A diluter-demand regulator only delivers oxygen above 10,000 feet.
+A pressure-demand regulator does not mix oxygen with cabin air.
+
+What is the purpose of the emergency setting on a diluter-demand regulator?
+@@To bypass the demand function and provide a continuous flow of 100% oxygen.
+To shut off the oxygen flow completely.
+To increase the amount of cabin air mixed with the oxygen.
+
+What is the main advantage of an electronic pulse demand oxygen system (EDS)?
+@@It conserves oxygen by delivering it in pulses only during inhalation.
+It is simpler and cheaper than other systems.
+It delivers a continuous flow of oxygen, ensuring a constant supply.
+
+How do flow indicators in continuous flow oxygen systems help users?
+@@They provide a visual indication of oxygen flow and allow for flow rate adjustment.
+They warn the user if the oxygen supply is low.
+They automatically adjust the oxygen flow rate based on altitude.
+
+What is a key safety precaution when working on oxygen systems?
+@@Ensure the system is depressurized and purged before starting work.
+Use standard aircraft lubricants on oxygen system components.
+Work in a confined space to prevent oxygen leakage.
+
+Why is it important to avoid using oil or grease on oxygen system components?
+@@Oil and grease can react with oxygen and cause a fire.
+Oil and grease can clog oxygen lines.
+Oil and grease can damage oxygen masks and regulators.
+
+What is the purpose of the "oxygen" markings and placards found on aircraft?
+@@To clearly identify oxygen components and prevent improper servicing.
+To indicate the direction of oxygen flow.
+To warn of the dangers of high-pressure oxygen.
+
+What is the primary function of a smoke hood?
+@@To protect the user's eyes, nose, and mouth from smoke and fumes.
+To provide a higher concentration of oxygen than a regular mask.
+To be used by passengers in case of a cabin fire.
+
+What type of oxygen system is most likely to be found on a modern fighter jet?
+@@On-Board Oxygen Generating System (OBOGS)
+Liquid Oxygen (LOX) system
+Gaseous oxygen system with pressure-demand masks
+
+What is a Dewar bottle used for in an oxygen system?
+@@To store and convert liquid oxygen (LOX) to gaseous oxygen.
+To filter out impurities from gaseous oxygen
+To measure the flow rate of oxygen.
+
+What is the purpose of the temperature compensation chart used when filling oxygen cylinders?
+@@To adjust the filling pressure based on the ambient temperature.
+To determine the correct type of oxygen to use
+To calculate the remaining service life of the cylinder.
+
+What can be inferred about the purpose of the blinking device or colored pith object in demand-flow oxygen system indicators?
+@@To confirm that oxygen is being delivered when the user inhales.
+To indicate the remaining amount of oxygen.
+To warn the user of a leak in the oxygen system.
+
+What is the primary reason for oxygen system maintenance?
+@@To ensure the system is functioning correctly and safely.
+To reduce the weight of the system.
+To increase the lifespan of the oxygen cylinders.
+
+What type of leak detection fluid should be used in oxygen systems?
+@@An oxygen-safe, soapy solution that is free of contaminants.
+Any standard aircraft leak detection fluid.
+Plain water with a small amount of dish soap.
+
+What is the primary hazard associated with adiabatic compression in oxygen systems?
+@@It can generate high temperatures, leading to fire or explosion.
+It can cause leaks in the oxygen lines.
+It can reduce the flow rate of oxygen to the user.
+
+What is the procedure for draining an oxygen system?
+@@It involves safely releasing oxygen into the atmosphere.
+It requires complete disassembly of the system
+It is not necessary to drain an oxygen system.
+
+What is the significance of the oxygen cylinder service life?
+@@Cylinders must be removed from service after a specified time or number of fillings
+Service life is irrelevant as long as the cylinder passes the hydrostatic test.
+Oxygen cylinders have an indefinite service life
+
+If a mechanic notices a fluid leak near an oxygen line during a routine inspection, what should they do?
+@@Immediately report the leak and avoid any further work on the system until the leak is identified and repaired.
+Wipe up the leak and continue the inspection.
+Tighten any nearby fittings to try to stop the leak.
+
+Why is it important to avoid using adhesive tape on oxygen systems?
+@@It can react with oxygen and ignite.
+It can leave residue that contaminates the oxygen.
+It can restrict the flow of oxygen in the system.

@@ -1,0 +1,119 @@
+What is the purpose of onboard maintenance systems in modern aircraft?
+@@To facilitate maintenance by monitoring and storing fault data.
+To control the flight navigation system.
+To manage passenger information.
+
+What are central maintenance computers (CMCs) used for in an onboard maintenance system?
+@@They process inputs from various systems and provide outputs.
+They control the aircraft’s navigation.
+They handle communications with air traffic control.
+
+Where is the Multipurpose Control Display Unit (MCDU) located on an Airbus A330?
+@@On the pedestal in the cockpit.
+In the aircraft's cargo hold.
+Inside the engine compartment.
+
+What does BITE stand for in aircraft maintenance systems?
+@@Built-In Test Equipment.
+Basic Internal Testing Equipment.
+Battery Inspection Terminal Equipment.
+
+What storage medium was used in early data loading systems?
+@@Floppy disks.
+USB flash drives.
+Optical discs.
+
+What type of printer is commonly used in aircraft according to ARINC Standard 744A?
+@@Thermal printer.
+Inkjet printer.
+Dot matrix printer.
+
+How do onboard maintenance systems assist maintenance personnel on the ground?
+@@By providing fault information for testing and troubleshooting.
+By controlling the aircraft’s engine functions.
+By sending passenger data to ground control.
+
+What is the role of the ACARS system when it is connected to the CMC?
+@@To relay critical fault information to maintenance personnel before the aircraft lands
+To communicate directly with the aircraft’s VHF and SATCOM systems to the cockpit.
+To serve as a standby system for the CMC during onboard maintenance.
+
+What information can be accessed through the MCDU in the cockpit?
+@@Current and historical fault data.
+Passenger list and seating arrangement.
+Weather reports from air traffic control.
+
+What is the function of the watchdog in BITE systems?
+@@Continuous monitoring of system parameters for faults.
+Real-time monitoring of the flight path.
+Backup for the navigation system.
+
+How does a strain sensor used in structure monitoring detect deformation?
+@@By measuring changes in electrical resistance.
+By recording pressure variations.
+By capturing temperature fluctuations.
+
+What kind of faults are stored but not displayed to the flight crew in Class 3 faults?
+@@Minor discrepancies that don’t affect aircraft operation.
+Major faults that can ground the aircraft.
+Critical navigation errors.
+
+How do central maintenance computers (CMCs) classify faults in an Airbus A330?
+@@Into Class 1, Class 2, and Class 3 based on severity.
+As high, medium, and low priority.
+By their effect on passenger comfort.
+
+How do maintenance personnel update databases in the Electronic Library System (ELS)?
+@@By using the data loading system.
+By connecting the aircraft to Wi-Fi.
+By manually inputting updates through the cockpit.
+
+Which type of bus is commonly used to connect BITE systems to the CMC?
+@@ARINC 429 bus.
+Ethernet bus.
+USB bus.
+
+How often must the navigation database of an aircraft be updated?
+@@Every 28 days.
+Every 7 days.
+Every 6 months.
+
+What occurs during the BITE power-up check?
+@@A system test is automatically performed to check for faults.
+The CMC is rebooted for manual testing.
+The aircraft’s navigation system is recalibrated.
+
+What is the purpose of the Minimum Equipment List (MEL) in relation to CMC fault data?
+@@To determine which faults must be corrected before flight.
+To manage passenger seating during faults.
+To update the aircraft’s weather database.
+
+What is the primary difference between Class 1 and Class 2 faults?
+@@Class 1 faults affect operational capability, while Class 2 faults do not.
+Class 2 faults require immediate attention.
+Class 1 faults are related to minor errors in the system.
+
+What communication system is used to relay CMC fault data to ground stations?
+@@ACARS (Aircraft Communications Reporting and Addressing System).
+GPS system.
+Satellite phone.
+
+What type of faults trigger cockpit warnings for the flight crew?
+@@Class 1 faults.
+Class 3 faults.
+Non-critical faults.
+
+Which data format is used by aircraft printers to print high-resolution text and images?
+@@ARINC Standard 744A.
+JPEG format.
+PDF format.
+
+What happens when BITE detects a fault during its continuous monitoring process?
+@@It alerts the CMC automatically.
+It powers down the system.
+It shuts down the affected component immediately.
+
+What determines whether a fault must be fixed before the aircraft is dispatched?
+@@The Minimum Equipment List (MEL).
+The flight crew’s discretion.
+The aircraft’s fuel level.

@@ -1,0 +1,839 @@
+The pressurization terms include:
+@@Cabin altitude, cabin differential pressure, and cabin rate of climb.
+Cabin altitude, ambient pressure, and cabin differential pressure.
+Cabin diffrential pressure, ambient pressure, and cabin rate of climb.
+
+What is the maximum cabin altitude should be maintained for passenger comfort and safety?
+@@8000 feet.
+14000 feet.
+6000 feet.
+
+What is the type of valve whose position determines the pressure level in cabin?
+@@Outflow valve.
+Overflow valve.
+Overpressure valve.
+
+What is the function of the cabin air pressure safety valve?
+@@Prevents the cabin from the over pressurization and the negative pressure.
+Changes the cabin air pressure bases on the requirement of pilots.
+Stabilizes the cabin air pressure bases on the requirement of pilots.
+
+The main pressurization indications include:
+@@The cabin altimeter, the cabin rate of climb or vertical speed indicator, and the cabin differential pressure indicator.
+The cabin altimeter, the cabin rate of climb or vertical speed indicator, and the ambient  pressure indicator.
+The cabin and ambient altimeter, the cabin rate of climb or vertical speed indicator, and the cabin differential pressure indicator.
+
+Which is the normal mode of operation for most pressurization control systems?
+@@The automatic mode.
+The standby mode.
+The manual mode.
+
+What is the position of the outflow valve at take-off?
+@@Fully close.
+Fully open.
+Partially open.
+
+The aircraft cabin pressurization can be controlled via:
+@@The isobaric mode or the constant differential mode.
+The isobaric mode or the relative pressure mode.
+The absolute pressure mode or the constant differential mode.
+
+The modes of operation for most cabin pressurization control systems are:
+@@The automatic, standby, and manual modes.
+The automatic, isobaric, and manual modes.
+The automatic, isobaric, and relative pressure modes.
+
+How does a barometer operate?
+@@The weight of the atmosphere pushes down on the mercury in the reservoir of a barometer, which causes mercury to rise in the column.
+The weight of the atmosphere pushes down on the water in the reservoir of a barometer, which causes water to rise in the column.
+Barometer which is an electronic device contains some pressure sensors inside. It senses and displays the pressure correctly.
+
+What is the standard atmospheric pressure at sea level?
+@@1 atm, 14.7 psi, 29.92 in Hg, 1013.2 hPa, or 1013.2 mb.
+1 atm, 14.7 in Hg, 29.92 psi, 1013.2 hPa, or 1013.2 mb.
+1 atm, 14.7 in Hg, 29.92 hPa, 1013.2 psi, or 1013.2 mb.
+
+What is the order from lowest to highest of the layers of the atmosphere?
+@@Troposphere, Stratosphere, Mesosphere, and Thermosphere.
+Mesosphere, Troposphere, Stratosphere, and Thermosphere.
+Mesosphere, Troposphere, Thermosphere, and Stratosphere.
+
+What is the cabin altitude?
+@@The cabin altitude is the air pressure inside the cabin, the altitude on a standard day that has the same pressure as that in the cabin.
+The cabin altitude is the difference between the air pressure inside the cabin and the air pressure outside the cabin.
+The cabin altitude is the rate of change of air pressure inside the cabin, expressed in feet per minute (fpm) of cabin altitude change.
+
+What is the cabin differential pressure?
+@@The cabin differential pressure is the difference between the air pressure inside the cabin and the air pressure outside the cabin.
+The cabin differential pressure is the air pressure inside the cabin, the altitude on a standard day that has the same pressure as that in the cabin.
+The cabin differential pressure is the rate of change of air pressure inside the cabin, expressed in feet per minute (fpm) of cabin altitude change.
+
+What is the cabin rate of climb?
+@@The cabin rate of climb is the rate of change of air pressure inside the cabin, expressed in feet per minute (fpm) of cabin altitude change.
+The cabin rate of climb is the difference between the air pressure inside the cabin and the air pressure outside the cabin.
+The cabin rate of climb isthe air pressure inside the cabin, the altitude on a standard day that has the same pressure as that in the cabin.
+
+What is the range of cabin differential pressure for aircraft?
+@@The differential pressure can range from 3.5 psi for a single engine reciprocating aircraft, to approximately 9 psi on high performance jet aircraft.
+The differential pressure can range from 3.5 psi for a high performance jet aircraft, to approximately 9 psi on single engine reciprocating aircraft .
+The differential pressure can range from 3.5 bar for a single engine reciprocating aircraft, to approximately 9  on high performance jet aircraft.
+
+How many psi of the ambient pressure if the cabin altitude is 8000 feet (10.92 psi) and the cabin differential pressure is 8.20 psid?
+@@The ambient pressure is 2.72 psi (40000 feet).
+The ambient pressure is 19.12 psi (40000 feet).
+The ambient pressure is 19.12 psi (24000 feet).
+
+Which is the type of cabin pressurization mode if the cabin altitude is remained at 8000 feet, even as the altitude of the aircraft fluctuates?
+@@The isobaric mode.
+The constant differential mode.
+The normal mode.
+
+Which is the type of cabin pressurization mode if the cabin pressure is maintained a constant pressure difference between the air pressure inside the cabin and the ambient air pressure, regardless of aircraft altitude changes?
+@@The constant differential mode.
+The isobaric mode.
+The normal mode.
+
+The constant differential mode pressure differential is:
+@@Lower than the maximum differential pressure for which the airframe is designed.
+Higher than the maximum differential pressure for which the airframe is designed.
+As much as the maximum differential pressure for which the airframe is designed.
+
+What happens to the control of cabin pressure if the aircraft climbs beyond a certain altitude, maintaining the selected cabin altitude may result in a differential pressure above that for which the airframe was designed; and the isobaric mode is selected?
+@@The mode of pressurization automatically switches from the isobaric to constant differential mode.
+The mode of pressurization remains at the selected level, even as the altitude of the aircraft fluctuates.
+A special pressurization mode will be activated for this case.
+
+How is the cabin rate of climb or descent controlled?
+@@Automatically or manually.
+Automatically or semi-automatically.
+Manually or semi-manually.
+
+Which is the typical range of the cabin rate of climb and descent?
+@@From 300 to 500 feet per minute.
+From 300 to 500 feet per hour.
+From 3 to 5 psi per hour.
+
+Which type of means is utilized for controlling cabin pressure in older aircraft?
+@@Pneumatic means.
+Electric means.
+Electronic means.
+
+What happens if the pressure controller is adjusted and set?
+@@There are the control input parameters will be sent to the cabin pressure regulator.
+There are the control input parameters will be sent to the temperature control regulator.
+There are the control input parameters will be sent to the temperature controller.
+
+Which components are directly controlled by the cabin pressure regulator?
+@@Outflow valve.
+Pressure trim valve.
+Overflow valve.
+
+Which type of means is utilized for controlling cabin pressure in modern aircraft?
+@@Pneumatic, electric, and electronic means.
+Pneumatic and electric means.
+Pneumatic and electronic means.
+
+What are on the cabin pressure selector of the pressurization panel in the cockpit?
+@@Cabin altitude, cabin rate of change, and barometric setting.
+Cabin altitude, cabin rate of change, and cabin differential pressure.
+Cabin differential pressure, cabin rate of change, and barometric setting.
+
+What happens to the electric signals from the selector that are sent to the cabin pressure controller?
+@@Those signals will be converted from electric to digital and are used by the controller.
+Those signals will be converted from electric to analog and are used by the controller.
+Those signals will be converted from electric to pneumatic and are used by the controller.
+
+What are the important inputs that the pressure controller has to receive for controlling the cabin pressurization?
+@@The cabin pressure and the ambient pressure.
+The cabin temperature and the ambient pressure.
+The cabin pressure and the ambient temperature.
+
+Which is the statement correct about the cabin pressurization modes?
+@@For cabin pressurization, the manual mode can override the automatic mode.
+For cabin pressurization, the manual mode cannot override the automatic mode.
+For cabin pressurization, the automatic mode can override the manual mode.
+
+How is the manual mode of the cabin pressurization operated?
+@@The mode selector is witched to MAN and a separate switch is used to position the outflow valve open or closed to control cabin pressure.
+On the cabin pressurization panel, there is a separate switch is used to position the outflow valve open or closed to control cabin pressure
+The mode selector is witched to UP or DOWN and a separate switch is used to position the outflow valve open or closed to control cabin pressure.
+
+How is the cabin pressurization controlled?
+@@Controlling cabin pressurization is accomplished through regulating the amount of air that flows out of the cabin.
+Controlling cabin pressurization is accomplished through regulating the amount of air that flows into the cabin.
+Controlling cabin pressurization is accomplished through regulating the amount of air that flows in and out of the cabin.
+
+Which positions can the cabin outlfow valve operate?
+@@A cabin outflow valve opens, closes, or modulates to establish the amount of air pressure maintained in the cabin.
+A cabin outflow valve fully opens or modulates to establish the amount of air pressure maintained in the cabin.
+A cabin outflow valve fully closes or modulates to establish the amount of air pressure maintained in the cabin.
+
+What are the types of the outflow valve for the cabin pressurization?
+@@Pneumatically operated, electrically operated outflow valves, and the combination of the above.
+Pneumatically operated, electronically operated outflow valves, and the combination of the above.
+Electrically operated, electronically operated outflow valves, and the combination of the above.
+
+Which are components utilized to deflect the outflow valves?
+@@On transports aircraft, often two AC motors are used with a redundant DC motor for standby or manual operations.
+On transports aircraft, often two DC motors are used with a redundant AC motor for standby or manual operations.
+On transports aircraft, often two DC motors are used with a redundant pneumatic motor for standby or manual operations.
+
+Which is the motor in the the outflow valve is controlled by the pressure controller?
+@@The AC motor.
+The DC motor.
+The pneumatic motor.
+
+Which component will prevent the over pressurization to ensure the structural integrity of the aircraft if the control of the pressurization system is lost?
+@@The cabin air pressure safety valve.
+The outflow valve and the pressure controller.
+The pneumatic cabin pressure regulator.
+
+Which the range of pressure is the safety valves are set to open on most aircraft?
+@@Between 8 and 10 psid.
+Between 8 and 10 bar.
+It depends on the current altitude of the aircraft.
+
+How many cabin pressurization safety valves are equipped on aircraft?
+@@It depends on the size of the aircraft.
+One.
+Two.
+
+What is the function of the cabin altitude limiters on aircraft?
+@@These components close the outflow valves when the pressure in the cabin drops well below the normal cabin altitude range, preventing a further increase in cabin altitude.
+These components close the safety valves when the pressure in the cabin drops well below the normal cabin altitude range, preventing a further increase in cabin altitude.
+These components close the safety valves when the altitude in the cabin drops well below the normal cabin pressure range, preventing a further increase in cabin pressure.
+
+What is the function of the negative pressure relief valve on aircraft?
+@@It ensures that air pressure outside the aircraft is not more than the cabin air pressure.
+It ensures that air pressure outside the aircraft is not less than the cabin air pressure.
+It ensures that air pressure outside the aircraft is not as much as the cabin air pressure.
+
+What happens if there is too much negative pressure in the aircraft cabin?
+@@It causes more difficulty to open the cabin door and it could cause structural damage since the pressure vessel is designed for cabin pressure to be greater than ambient.
+It causes more difficulty to close the cabin door and it could cause structural damage since the pressure vessel is designed for cabin pressure to be greater than ambient.
+It causes more difficulty to close the cabin door and it could cause structural damage since the pressure vessel is designed for cabin pressure to be smaller than ambient.
+
+What are the pressurization dump valves on aircraft?
+@@These components are utilized to quickly remove air and air pressure from the cabin, usually in an abnormal, maintenance, or emergency situation.
+These components are utilized to quickly add air and air pressure into the cabin, usually in an abnormal, maintenance, or emergency situation.
+These components are utilized to quickly add air and air pressure into the cabin and cockpit, usually when aircraft drops its altitude suddently.
+
+What happens if the air conditioning packs fail or emergency pressurization is selected from the cockpit during flight?
+@@A valve opens and directs a mixture of bleed air and ram air into the cabin. This combines with fully closed outflow valves to preserve some pressurization in the aircraft.
+A valve opens and directs a flow of bleed air into the cabin immediately. This combines with fully closed outflow valves to preserve some pressurization in the aircraft.
+A valve opens and directs a flow of ram air into the cabin immediately. This combines with fully closed outflow valves to preserve some pressurization in the aircraft.
+
+Which means are used to display the pressurization indication on modern aircraft?
+@@The LCD displays
+The pressure gauges.
+The CRT displays.
+
+What are the names of digital aircraft monitoring systems are used to display the pressurization indication on modern aircraft?
+@@Engine Indicating and Crew Alerting System (EICAS) or Electronic Centralized Aircraft Monitor (ECAM)
+Engine Indicating and Crew Alerting System (EICAS) or Electronic Computerized Aircraft Monitor (ECAM)
+Engine Indicating and Crew Air System (EICAS) or Electronic Centralized Aircraft Monitor (ECAM)
+
+Which page of the monitoring system should be chosen to display the air conditioning indication?
+@@The environmental control system (ECS) page.
+The environmental supervisor controller (ESC) page.
+The entire computerized system (ECS) page.
+
+On the CABIN PRESS panel, the PRESS CONT pushbutton is pushed and the MAN legend comes on. It means:
+@@The manual mode is selected.
+The manual mode is not selected.
+It is mandatory to push the MAN legend.
+
+On the CABIN PRESS panel, the PRESS CONT pushbutton is pushed and the FAULT legend comes on. It means:
+@@Both pressure controllers failed.
+One pressure controller failed.
+The fault is not related to the pressure controller.
+
+Which components on other systems are utilized for the cabin pressurization system?
+@@A weight-on-wheels (WOW) switch attached to the landing gear and a throttle position switch.
+A weight-on-wheels (WOW) switch attached to the landing gear and a position sensor of flaps.
+A weight-on-wheels (WOW) switch attached to the landing gear and a control column in cockpit.
+
+What does the weight-on-wheels (WOW) switch do for the cabin pressurization system during ground operations and prior to takeoff?
+@@The WOW switch typically controls the position of the pressurization safety valve, which is held in the open position until the aircraft takes off.
+The WOW switch typically controls the position of the pressurization safety valve, which is held in the close position until the aircraft takes off.
+The WOW switch belongs to the landing gear system and provides the signal to the computers which control the landing gear retraction after take off.
+
+Which components in the cabin pressurization system may receive the signal of the weight-on- wheels (WOW) switch?
+@@The pressurization controller, the safety valve or a pneumatic source valve that causes the safety valve to be held open.
+The outflow valve, the safety valve or a pneumatic source valve that causes the safety valve to be held open.
+The overflow valve, the safety valve or a pneumatic source valve that causes the safety valve to be held open.
+
+What is the function of the throttle position switches in the cabin pressurization system?
+@@Throttle position switches can be used to cause a smooth transition from an unpressurized cabin to a pressurized cabin.
+Throttle position switches can be used to cause a smooth transition from a pressurized cabin to an unpressurized cabin.
+Throttle position switches can be used to prevent the cabin and cockpit from the over pressure and negative pressure.
+
+Which component controls the sequence of operation of the pressurization components until the aircraft lands?
+@@The pressurization controller.
+The weight-on-wheels (WOW) switch.
+The throttle position switch.
+
+What are the positions of the weight-on-wheels (WOW) switch?
+@@WOW opens at takeoff and closes at landing.
+WOW closes at takeoff and opens at landing.
+WOW does not change at takeoff and landing.
+
+How does the technician control the position of all valves from the cockpit panel for maintenance?
+@@The technician has to switch the selector to the manual pressurization mode before controlling the valves.
+The technician has to switch the selector to the automatic pressurization mode before controlling the valves.
+The technician does not have to switch the selector to any mode before controlling the valves.
+
+Which is the motor in the the outflow valve is used for the manual operation?
+@@The DC motor.
+The AC motor.
+The pneumatic motor.
+
+What is the relationship between the temperature and altitude in the troposhere layer?
+@@The temperature decreases as the altitude increases.
+The temperature decreases as the altitude decreases.
+It depends on the area where is in the tropical, temperate, or polar zone.
+
+What is the rate of change the temperature and the altitude in the troposhere layer?
+@@It is about -2°C or -3.5°F for every 1000 feet of increase in altitude.
+It is about +2°C or +3.5°F for every 1000 feet of increase in altitude.
+It is about from +2°C to +3.5°C for every 1000 feet of increase in altitude.
+
+Where is the ozone layer in the atmosphere?
+@@The ozone layer is mainly found in the stratosphere.
+The ozone layer is mainly found in the troposphere.
+The ozone layer is mainly found in the mesosphere.
+
+Which the layer of atmosphere does most civilian aviation take place in?
+@@The troposphere.
+The stratosphere.
+The mesosphere.
+
+Which section in engine the bleed air is extracted from?
+@@Compressor section.
+Turbine section.
+Exhaust section.
+
+What are the main air sources can supply for the aircraft pressurization and air conditioning?
+@@Engines, APU, and ground cart.
+Ground cart and compressed air reservoir.
+Engines and compressed air reservoir.
+
+The conditioned air flow is ducted and released into cabin from:
+@@Ceiling vents.
+Floor-level vents.
+Side wall vents.
+
+On turbine powered aircraft, the temperature controlled air from the air conditioning system is:
+@@The air that is used to pressurize the cabin.
+The air that is not used to pressurize the cabin.
+The air that is used to change the refrigerant temperature.
+
+Which common component is used to supply air during passenger boarding?
+@@APU.
+Engine.
+Ground cart.
+
+Which air source is used  to cool the cabin if the air conditioning system is inoperative?
+@@Ground-based air conditioner.
+External air compressor unit.
+Backup compressed air supplier.
+
+Which the statement about the air recirculation in a large cabin turfan engine aircraft is correct?
+@@Reuse up to 50%.
+Reuse up to 60%
+Reuse up to 40%.
+
+The air source of small turbine aircraft comes from:
+@@Jet pumpflow multiplier.
+Low pressure compressor.
+Low pressure turbine.
+
+Which component is use to supply air in turboprop aircraft?
+@@Turbo-compressor
+Turbo-turbine.
+Turbo-fan.
+
+The components in the air cycle air conditioning system are:
+@@Pack valve, heat exchangers, air cycle machine, water separator, bypass valve.
+Receiver dryer, expansion valve, evaporator, compressor, condenser.
+Pack valve, heat exchangers, air cycle machine, expansion valve, compressor.
+
+What is the function of the pack valve in the air cycle air conditioning system?
+@@The pack valve regulates bleed air from the pneumatic manifold into the air cycle air conditioning system
+The pack valve releases bleed air to prevent the overpressure in the air cycle air conditioning system.
+The pack valve changes the temperature of bleed air and supply it to the air cycle air conditioning system.
+
+The components in the vapor cycle air conditioning system are:
+@@Receiver dryer, expansion valve, evaporator, compressor, condenser.
+Pack valve, heat exchangers, air cycle machine, expansion valve, compressor.
+Pack valve, heat exchangers, air cycle machine, water separator, bypass valve.
+
+Which types of the refrigerant are used commonly in the vapor cycle air conditioning system?
+@@R12 and R134a.
+R12 and R12a.
+R134 and R134a.
+
+What is the function of the receiver dryer in the vapor cycle air conditioning system?
+@@A reservoir contains the refrigerant.
+A component dries the refrigerant.
+A component heats the refrigerant.
+
+The vapor cycle air conditioning system is:
+@@A closed system.
+An opened system.
+A semi-closed system.
+
+What is the normal route of the air flow in the air cycle air conditioning system?
+@@Pack valve, primary heat exchanger, air cycle machine (compressor), secondary heat exchanger, air cycle machine (turbine), and water separator.
+Pack valve, secondary heat exchanger, air cycle machine (turbine), primary heat exchanger, air cycle machine (compressor), and water separator.
+Pack valve, primary heat exchanger, air cycle machine (turbine), secondary heat exchanger, air cycle machine (compressor), and water separator.
+
+How is the heat carried from the cabin to the outside air in the vapor cycle air conditioning system?
+@@By a refrigerant which changes from a liquid to a vapour and back again.
+By two heat exchangers: primary and secondary one.
+By turbine section which expands the air to decrease the temperature in the cabin.
+
+How can the air cycle machine turn?
+@@The compressed air passes through and drives the turbine. The turbine drives the ACM.
+There is an electric motor which drives the compressor and the turbine of the ACM.
+The compressed air passes through and drives the compressor. The compressor drives the ACM.
+
+What happens to the water separator if the ACM turbine outlet air is too cold?
+@@The refrigeration bypass valve is designed to keep the air flowing through the water separator above freezing temperature.
+The trim air valve will open to add more hot bleed air to the water separator for preventing the ice forming.
+The trim air valve will close to reduce the cold air to the water separator for preventing the ice forming.
+
+How does the water separator operate?
+@@The water separator operates with no moving parts.
+An electric motor turns the water separator to remove water.
+Water will be removed from the air by the centrifugal force.
+
+What is the normal route of the refrigerant in the vapor cycle air conditioning system?
+@@Receiver dryer, expansion valve, evaporator, compressor, condenser.
+Receiver dryer, expansion valve, condenser, compressor, evaporator.
+Receiver dryer, evaporator, expansion valve, compressor, condenser.
+
+In the vapor cycle air conditioning system, the state of refrigerant in the evaporator is:
+@@Low pressure and low temperature.
+High pressure and low temperature.
+High pressure and high temperature.
+
+In the vapor cycle air conditioning system, the state of refrigerant in the condenser is:
+@@High pressure and high temperature.
+Low pressure and low temperature.
+High pressure and low temperature.
+
+In the vapor cycle air conditioning system, the form of refrigerant in the receiver dryer is:
+@@Liquid.
+Vapor.
+Solid.
+
+In the vapor cycle air conditioning system, the form of refrigerant in the compressor is:
+@@Vapor.
+Liquid.
+Solid.
+
+What is the function of the condenser in the vapor cycle air conditioning system?
+@@The condenser transfers the heat from the refrigerant to the outside air.
+The condenser transfers the heat from the cabin air to the refrigerant.
+The condenser transforms the refrigerant from liquid into vapor.
+
+In the vapor cycle air conditioning system, the heat of the cabin air is absorbed into the refrigerant by:
+@@Evaporator.
+Condenser.
+Expansion valve.
+
+Where are the service valves in the vapor cycle air conditioning system?
+@@One valve is located in the high side of the system and the other in the low side.
+One valve is located in the condenser and the other in the receiver dryer.
+One valve is located in the evaporator and the other in the compressor.
+
+Which is the position of the compressor isolation valve for normal flow of refrigerant in the vapor cycle air conditioning system?
+@@Fully open.
+Fully close.
+Intermediate position.
+
+Which is the position of the compressor isolation valve for replacing the compressor in the vapor cycle air conditioning system?
+@@Fully close.
+Fully open.
+Intermediate position.
+
+Which is the position of the compressor isolation valve for servicing the vapor cycle air conditioning system?
+@@Intermediate position.
+Fully close.
+Fully open.
+
+Which components are essential for servicing the vapor cycle air conditioning system?
+@@A manifold set contains three hose fittings, two O-ring sealed valves, and two gauges.
+A manifold set contains three hose fittings, three O-ring sealed valves, and two gauges.
+A manifold set contains two hose fittings, two O-ring sealed valves, and two gauges.
+
+What is the color of the hose for low side service in the vapor cycle air conditioning system?
+@@Blue.
+Yellow.
+Red.
+
+What is the color of the hose for system service in the vapor cycle air conditioning system?
+@@Yellow.
+Blue.
+Red.
+
+What is the color of the hose for high side service in the vapor cycle air conditioning system?
+@@Red.
+Blue.
+Yellow.
+
+What components are necessary for emptying the system of refrigerant?
+@@A service unit.
+A manifold set.
+A manifold set and a refrigerant container.
+
+What is the purpose of the vacuum pump for the maintenance of the vapor cycle air conditioning system?
+@@Removing all of water in the system.
+Removing all of refrigerant in the system.
+Removing all of air in the system.
+
+The electronic infrared leak detector can detect leaks that would lose:
+@@Less than 1/4 ounce of refrigerant per year.
+Less than 1/2 ounce of refrigerant per year.
+Less than 3/4 ounce of refrigerant per year.
+
+In the vapor cycle air conditioning system, after replacing a component in the compressor.
+@@Oil may be added due to the trapped oil in the replaced unit.
+Refrigerant may be added due to the trapped refrigerant in the replaced unit.
+Do not add anything.
+
+How is the lack of the refrigerant detected in the vapor cycle air conditioning system?
+@@Bubbles present in the sight glass of the receiver dryer.
+Bubbles present in the sight glass of the compressor.
+Bubbles present in the sight glass of the expansion valve.
+
+Which type of test should be done to verify the proper operation of a vapor cycle air conditioning system?
+@@A performance test.
+A leak test.
+An operational test.
+
+Which components are essential to carry out the performance test of the vapor cycle air conditioning system?
+@@A thermometer.
+A service unit.
+A manifold set.
+
+The feel test of the vapor cycle air conditioning system is related to:
+@@The temperature of the high side components is hot and the low side components is cool.
+The operating the system and checking parameters to ensure they are in the normal range.
+Make sure the quantity of the refrigerant in the system and the oil in the compressor are sufficient.
+
+The temperature of the lines on both sides of the receiver dryer should be:
+@@The same temperature on both sides of the receiver dryer.
+The different temperature due to the different sides.
+The different temperature due to the demand of cooled air.
+
+Which tasks must be done before opening the vapor cycle air conditioning system for maintenance?
+@@Purging the system.
+Servicing the system.
+Draining the system.
+
+How is the oil quantity in the compressor crankcase checked?
+@@Removing a filler plug and using a dip stick.
+Checking the sight glass on the compressor.
+Draining and measuring the oil quantity.
+
+When is the vapor cycle air conditioning system charged?
+@@Immediately after evacuation of the system is completed.
+Immediately after drainage of the system is completed.
+Immediately after purging the system is completed
+
+Where is the temperature monitored?
+@@Cabin, Cockpit, conditioned air ducts, and distribution air ducts.
+Cabin, Cockpit, mixing chamber, and distribution air ducts.
+Cabin, Cockpit, conditioned air ducts, and mixing chamber.
+
+What happens if the air passes through the compressor and the turbine of the air cycle machine?
+@@The pressure and temperature increases at the compressor outlet; and the pressure and temperature decreases at the turbine outlet.
+The pressure and temperature decreases at the compressor outlet; and the pressure and temperature increases at the turbine outlet.
+The pressure decreases at the compressor outlet; and the temperature increases at the turbine outlet.
+
+How can the refrigeration bypass valve regulates the temperature of the ACM discharge air?
+@@The refrigeration bypass valve opens and bypasses the warm air around the ACM into the upstream of the water separator.
+The refrigeration bypass valve opens and bypasses the cool air around the ACM into the upstream of the water separator.
+The refrigeration bypass valve closes and stops the warm air around the ACM into the upstream of the water separator.
+
+How are the pack valves controlled and operated?
+@@Pack valves are electrically controlled and pneumatically operated.
+Pack valves are pneumatically controlled and electrically operated.
+Pack valves are electrically controlled and electronically operated.
+
+How can the heat exchanger change the temperature of the air inside the system in flight?
+@@The ram air doors are modulated to increase or decrease ram air flow to the heat exchanger.
+The pack valve doors are modulated to increase or decrease bleed air flow to the heat exchanger.
+The pack valve doors are modulated to increase or decrease ram air flow to the heat exchanger.
+
+What happens to the refrigerant if it passes through the evaporator in the vapor cycle air conditioning system?
+@@It transforms from the low pressure liquid into the low pressure/ low temperature vapor.
+It transforms from the low pressure liquid into the high pressure/ low temperature vapor.
+It transforms from the high pressure/ high temperature vapor into the high pressure liquid.
+
+What happens to the refrigerant if it passes through the condenser in the vapor cycle air conditioning system?
+@@It transforms from the high pressure/ high temperature vapor into the high pressure liquid.
+It transforms from the low pressure liquid into the high pressure/ low temperature vapor.
+It transforms from the low pressure liquid into the low pressure/ low temperature vapor.
+
+What happens to the receiver dryer if you see bubbles in its sight glass?
+@@The receiver dryer needs to be serviced.
+The receiver dryer is too hot.
+The receiver dryer is too cold.
+
+Why does the water in the receiver dryer have to be captured by the desiccant?
+@@The refrigerant combines with water to form an acid. Acid can deteriorate the components and tubing in the system.
+Water can change the temperature of the refrigerant and prevent the refrigerant from transforming from liquid into vapo.
+The boiling point of water is different from the refrigerant's one, which can reduce the performance of the system.
+
+What is the diffrence between the R134a valve fittings and Schrader valve fittings in the vapor cycle air conditioning system?
+@@The R134a valve fittings are a quick disconnect type.
+The Schrader valve fittings are a quick disconnect type.
+The R134a valve fittings attach to Schrader valve threads.
+
+What are the gauges on the manifold set dedicated?
+@@One for the low side of the system and the other for the high side.
+One for the low temperature side of the system and the other for the high temperature side.
+One for the liquid side of the system and the other for the vapor side.
+
+What happens to the center fitting if the pressure valves of the manifold set are turned cloclwise and then counterlockwise?
+@@The center fitting is isolated and then opened.
+The center fitting is opened and then isolated.
+The center fitting is not changed much.
+
+Which type of refrigerant leak is the most difficult to detect in the vapor cycle air conditioning?
+@@The leak from the old hoses.
+The leak from the loose fitings.
+The leak from the cracked components.
+
+What should the quantity oil be added in the vapor cycle air conditioning system?
+@@1/4 ounce of oil is added for 01 pound of refrigerant added to the system.
+Oil should be added up to the "FULL" level notch on the sight glass.
+Oil should be added until the bubbles in the sigh glass disappear.
+
+A test involves operating the system and checking parameters to ensure they are in the normal range is:
+@@A performance test.
+A leak test.
+An operational test.
+
+How is the performance test of the vapor cycle air conditioning system carried out?
+@@Measure the temperature of the air that is cooled by the evaporator.
+Measure the temperature of the air that is heated by the condenser.
+Measure the quantity of refrigerant in the system by manifold set.
+
+Which tasks must be done for flushing the vapor cycle air condition system?
+@@Removing the receiver dryer.
+Removing the expansion valve.
+Removing the evaporator.
+
+What happens to the vapor cycle air conditioning system if there is the moisture in the system?
+@@The moisture may freeze in the expansion valve, it could completely block the refrigerant flow.
+The moisture may change the temperature and pressure of refrigerant of the system.
+The moisture may cause the lack of the refrigerant and oil of the system.
+
+Which is the valve mixes the warm bleed air that bypassed the air cycle cooling process with the cold air produced for the temperature control in cockpit and cabin?
+@@The trim air valve.
+The refrigeration bypass valve.
+The expansion valve.
+
+How do the temperature sensors in cabin and ducts operate?
+@@The operation of these sensors are related to resistance, particularly the resistance changes as temperature changes.
+The operation of these sensors are related to pressure, particularly the pressure changes as temperature changes.
+The operation of these sensors are related to voltage, particularly the voltage changes as temperature changes.
+
+How is the cabin humidity controlled in a water infiltration system?
+@@Water is pumped from a holding tank and sprayed into the conditioned air before it is directed into the cabin.
+The function of the water separator in the air cycle air conditioning system will be reduced to increase the humidity.
+The condenser supplies the water into the system to control the humidity level in the cabin.
+
+Where are the temperature controller and the temperature control regulator located in aircraft?
+@@They are located in the electronics bay.
+They are located in the flight deck.
+They are located in the cabin.
+
+Where are the temperature selectors located in aircraft?
+@@They are located in the flight deck and the cabin.
+They are located in the electronics bay and the flight deck.
+They are located in the cabin and the electronics bay.
+
+How does the temperature controller operate as the temperature selector is adjusted?
+@@The temperature controller compares the actual temperature signals received from the various sensors with the desired temperature input.
+The temperature controller controls directly the air cycle machine to increase or decrease the quantity of the conditioned air flow into the cabin.
+The temperature controller controls directly the pack valve to increase or decrease the quantity of the conditioned air flow into the cabin.
+
+What is the type of temperature sensor used in cabin?
+@@Thermistor.
+Thermal switch.
+Thermocouple.
+
+What is the temperature selector?
+@@A rheostat that varies its resistance as the knob is turned.
+A rheostat that varies its voltage as the knob is turned.
+A rheostat that varies its ampere as the knob is turned.
+
+In order to control the cabin temperature, the electric signal output of the bridge circuit will be sent to:
+@@The trim air valve.
+The pack valve.
+The bypass valve.
+
+Which refrigerant is safer for the environment?
+@@R134a
+R12.
+R13.
+
+Which the statement about refrigerant is correct?
+@@R12 and 134a should not be mixed.
+R12 and 134a can be mixed in some special cases.
+R12 an R134a are interchangeable fully.
+
+Why is water in the refrigerant removed?
+@@It prevents the component from deteriorating.
+It increases the cooling efficiency.
+It prevent the formation of air bubles.
+
+What happens to the system if water exists in the refrigerant?
+@@Ice is formed in the refrigerant and blocks the flow.
+Water in the refrigerant vapourizes and forms air bubles.
+The heat exchange of the system is inefficient
+
+The compressor in the vapor cycle air conditioning system is designed to compress:
+@@Vapor.
+Liquid.
+Vapor or liquid.
+
+What is the function of drain valve in the evaporator?
+@@It drains the water condensed.
+It drains the refrigerant leaked.
+It collects the ice frozen.
+
+Which type of pump is used in the vapor cycle air conditioning compressor?
+@@Piston pump.
+Centrifugal pump.
+Gear pump.
+
+Which position of the service valve is for servicing?
+@@Intermediate position.
+Front seated.
+Back seated.
+
+Which position of the service valve is for maintenance or replacing?
+@@Front seated.
+Back seated.
+Intermediate position.
+
+Which position of the service valve is for normal operation?
+@@Back seated.
+Intermediate position.
+Front seated.
+
+Which valve on 30 pound R134a refrigerent container is used for the low side of the vaporcycle system?
+@@The blue valve.
+The red valve.
+The yellow valve.
+
+Which valve on 30 pound R134a refrigerent container is used for the high side of the vaporcycle system?
+@@The red valve.
+The yellow valve.
+The blue valve.
+
+Which part of the 30 pound R134a refrigerant container is used to connect to the low side of the vaporcycle system?
+@@Upper part.
+Bottom part
+Middle part.
+
+Which part of the 30 pound R134a refrigerant container is used to connect to the high side of the vaporcycle system?
+@@Bottom part
+Middle part.
+Upper part.
+
+When the temperature is lower, the amount of vacuum that is needed to remove water in the vapor cycle system is:
+@@More.
+Less.
+Not change.
+
+When is the charging a vapor cycle  system perform?
+@@After evacuation.
+Before evacuation.
+At the same time with evacuation.
+
+Which side of the vapor cycle system is released refrigerant first during charging?
+@@The high side.
+The low side.
+The high or low side.
+
+During evacuating the vapor cycle system, a vacuum pump is used to draw:
+@@Water vapor from the system.
+Refrigerant vapor from the system.
+Refrigerant liquid from the system.
+
+Vapor cycle system must be properly purged:
+@@Before opening for maintenance.
+After opening for maintenance.
+During opening for maintenance.
+
+Which component is used commonly to detect the leak in pneumatic system ducting?
+@@Continuous loop fire detector.
+Fire spot detector.
+Thermal switch.
+
+Which component is used to detect the fire in the cabin, cargo bays, lavatories?
+@@Smoke detector.
+Thermal switch.
+Continuous loop fire detector.
+
+Which component is used to detect the overheat in the air conditioning systems?
+@@Thermal switch.
+Continuous loop fire detector.
+Thermocouple.
+
+What is the function of the continuous loop fire detector in the air conditioning system?
+@@The continuous loop fire detector can detect the pneumatic leak from the pneumatic ducts.
+The continuous loop fire detector can detect the overheat of the air conditioning system.
+The continuous loop fire detector can detect the fire or smoke the air conditioning system.
+
+Where are the continuous loop fire detectors located?
+@@They will be run the length of pneumatic ducting or around a bay containing pneumatic lines such as the air conditioning and APU bays.
+They will be installed around the area where have the risk of fire such as the avionic compartment and FWD/ AFT cargo compartment.
+They will be installed in the area where have the risk of fire such as the avionic compartment, particularly on the electric and electronic components.
+
+How is the pneumatic leak indicated?
+@@Warning annunciations occur in the cockpit on the central warning panel.
+Warning annunciations occur in the cabin on the flight attendant panel.
+The color indicators in the air conditioning bay will change color as contacting the heat.
+
+How do the thermal switches protect the air conditioning pack operation?
+@@At the pack outlet before the air enters the distribution system, temperature detection switches shut down the pack should an overheat occur.
+At the pack outlet before the air enters the distribution system, temperature detection switches reduce the temperature of the pack should an overheat occur.
+At the pack outlet before the air enters the distribution system, temperature detection switches change the mode of the pack should an overheat occur.
+
+What can technicians perform in case the overheat occurred due to a failure of the automatic temperature control system?
+@@Technicians can reset and operate again the pack  manually.
+Technicians can replace the air cycle machine by new one.
+Technicians can perform the leak check of the whole system.
+
+What happen if there is the smoke in  the cabin, cargo bays, or lavatories?
+@@Warnings are indicated on the central warning system.
+The smoke detectors warn every person in aircraft.
+The fire will be extinguished automatically.
+
+Which the cabin altitude will the excess cabin altitude sensors warn?
+@@Around 10000 feet
+Around 8000 feet
+Around 6000 feet
+
+How is the excess cabin altitude warned?
+@@A warning is annunciated on the central warning system. The warning may be aural or visual.
+A warning is annunciated on the flight attendant panel. The warning may be aural or visual.
+A warning is annunciated on the flight attendant panel. The warning may be visual by changing colors.
+
+What is the symptom the passengers have to suffer during the excess cabin altitude?
+@@The hypoxia
+The jet lag.
+The dehydration.
+
+What can the flight crew perform if there is the excess cabin altitude?
+@@Flight crew may immediately utilize emergency oxygen to maintain control of the aircraft.
+Flight crew may immediately lower the aircraft down to 8000 feet altitude.
+Flight crew may immediately lower the aircraft down to 10000 feet altitude.

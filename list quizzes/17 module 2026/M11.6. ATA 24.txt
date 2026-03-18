@@ -1,0 +1,719 @@
+What is the purpose of the battery small connector?
+@@To control battery & its status
+To deliver high power to bus sytem
+To protect high power to bus system
+
+What is the purpose of generator control unit (GCU)?
+@@Voltage regulation & frequency control
+Load management
+Phases control
+
+Classify battery?
+@@Primary cell battery & secondary cell battery
+Primary cell battery
+Lead acid & secondary cell batteries
+
+What is the battery?
+@@Battery is some cells connect together
+Battery is the cell
+Battery has 12 cells
+
+How many electrodes are there in a cell battery?
+@@2
+12
+24
+
+What is the separator in a cell battery?
+@@Keep positive & negative source separated
+Keep electrolyte for compensation
+Separation between cells
+
+What is cell battery vent-plug for?
+@@Release gases & electrolyte leaks
+Protect from over pressure in the cell
+Protect electrolyte leaked
+
+How many volts for each cell in Ni-Cd battery is?
+@@1.2 volts
+12 volts
+2 volts
+
+What is the battery charger?
+@@The unit monitors the condition of the battery
+unit to control the battery charge
+unit to monitor the battery short circuit
+
+What is ventilation system in Ni-Cd battery for?
+@@Control battery temperature
+Control electrolyte level
+Control battery from too low temperature
+
+Where is RAT (Ram Air Turbine) located in aircraft?
+@@Typically inside the fuselage
+On the wing tip
+On the engine lowest point
+
+What is hot battery bus?
+@@Bus is wired from battery directly
+Bus is heated
+Bus is never overloaded
+
+How to charge battery?
+@@By DC
+By AC
+By whatever DC or AC
+
+How to deliver electric from external cart to the aircraft?
+@@Electrical solenoid used to connect external power to the buses
+always deliver electric when connect external cart
+External cart control unit used to connect external power to the buses
+
+What is stand-by power in the large aircraft?
+@@Emergency power when the main sources failed
+Emergency power from DC buses
+Batteries
+
+What is the purpose of the battery large connector?
+@@Deliver high power to bus sytem
+Control battery status signal
+Control battery
+
+What is the IDG (Integrated Drive Generator)?
+@@The generator is driven fixed velocity & integrated in constant speed drive unit
+The generator is driven fixed velocity by engine dedicated gearbox shaft
+The generator is driven fixed velocity by constant speed drive unit
+
+How does circuit breaker protect the circuit?
+@@It opens the circuit
+It closes the circuit
+It's opens the circuit even inside mechanism is OFF
+
+What principle does battery base on?
+@@Electrochemical reaction
+Electromagnetic reaction
+Ionization reaction
+
+What is primary cell battery?
+@@Non-recharable battery
+Battery with cathode made of Zinc
+Rechargable battery
+
+What charge in the cathode terminal in battery cell?
+@@Positive
+Neutral
+Negative
+
+What charge in the anode terminal in battery cell?
+@@Negative
+Neutral
+Positiive
+
+How many volts does a cell in battery charge?
+@@2 volts
+24 volts
+12 volts
+
+What is battery open-circuit voltage?
+@@Voltage of the battery when it is not connected to a load
+Voltage of the battery when it is connected to a load
+Voltage of the battery when it is in-charged
+
+What happen for electrolyte during flooded lead acid in charged?
+@@Water loss
+Electrolyte is no changed
+water raised
+
+What material is made of plates in flooded lead acid battery?
+@@Lead
+Iron
+Copper
+
+How to protect postive & negative plates from touching to each other inside the cell?
+@@Separator
+keep both postive & negative plates a distance
+keep cells separated from each other
+
+How does aircraft attitude affect to battery vent plug?
+@@Attitude has no effect to battery vent plug
+Upside-down attitude causes electrolyte be spilled out
+Exessive roll causes electrolyte be spilled roll
+
+What is valve-reguated lead-acid battery?
+@@Battery with no free electrolyte
+Battery with filled electrolyte
+Battery is non-rechargeable
+
+What result when sealed lead-acid battery being charged?
+@@No water loss
+Water loss
+Oxygen & hydrogen are gasious
+
+How is about water loss during sealed lead-acid charge?
+@@Very minor
+Major loss. Must fill more water
+Major loss. Must monitor water level
+
+Is Nikel-Cadimium battery in aircraft sealed type or flooded type?
+@@Flooded type
+Sealed type
+Partial sealed type
+
+How does ambient temperature affect to Ni-Cd battery capacity?
+@@Increasing temperature from its limit reduces battery capacity
+Increasing tempearature from its limit does not change battery capacity
+Increasing tempearature from limits may raise battery capacity
+
+What is called battery thermal runaway?
+@@Thermal runaway combines high tempearature & over charging
+Thermal runaway is overcharging situation
+Thermal runaway is very hign temperature
+
+How does ions flow when battery is in charged?
+@@Ions move from cathode to anode
+Ions move from anode to cathode
+Ions do not move when battery is charged
+
+What type flooded or sealed battery is for Lithium battery?
+@@Sealed battery
+Flooded battery
+Lithium battery is new technology not belongs to sealed nor flooded type
+
+Is battery installation for Boeing & Airbus manufactures different?
+@@Similar
+Identical
+Different
+
+What does RAT (Ram Air Turbine) deploy for?
+@@For cover electrical power for flight control & instruments
+Cover electrical power for charge batteries
+Cover electrical power for whole flight
+
+What does battery thermal switch function?
+@@To interrupt charging if battery or its changer is too hot
+To interrupt battery when battery is too hot during discharge
+To interrupt discharging if battery is too hot
+
+Is battery charging available when emergency case?
+@@No
+Yes
+Yes, after power checked
+
+Will battery chagre when refuelling?
+@@No
+Yes
+Yes, after power checked
+
+Which AC generators are typically equipped in the large aircraft?
+@@Main AC generators, APU AC generator & emergency generator
+Main AC generators, APU AC generator
+Main AC generators, APU AC generator, emergency generator, static inverter
+
+What is bus power control?
+@@It controls electrical distribution between the various busses
+It controls electrical distribution between main generators
+It controls each main generator
+
+How to tie power from main generator to its circuit?
+@@By generator contactor
+By GCU (Generator Control Unit)
+By generator relays
+
+How does BPCU (Bus Power Control Unit) monitor electrical system?
+@@By current transformer
+By sensors
+By communication with GCU (Generator Control Unit)
+
+How to cool the generator?
+@@Cooled by oil
+Cooled by fuel
+Cooled by water
+
+How many controls are for handle the DC generator?
+@@Electro-mechanical & solid state type controls
+Mechanical & solid state type controls
+Electro-mechanical & Electronic type controls
+
+How many type(s) of voltage regulator is (are) there in DC alterator?
+@@Vibrating relay & solid state types
+solid state type
+Vibrating relay type
+
+What type of regulator is typically applied in light aircraft?
+@@Alternator Control Unit (ACU)
+GCU (Generator Control Unit)
+Bus Power Control Unit (BPCU)
+
+How many concepts for keep aircraft electrical system be reliable?
+@@2
+3
+1
+
+How is about carbon stack & voltage coil connection in carbon pile type regulator?
+@@Carbon stack series with filed & voltage coil parallels with output
+Carbon stack parallels with filed & voltage coil parallels with output
+Carbon stack parallels with filed & voltage coil series with output
+
+Which DC alternator or DC generator is more efficient?
+@@DC alternator
+DC generator
+Both are efficient
+
+What is advantage of static inverter rather than rotary inverters?
+@@Neither moving part & cooling required
+No moving part is required
+No cooling is required
+
+How many turns are there in secondary coil if transformer is step down?
+@@Less than primary coil
+More than primary coil
+Equal to each other
+
+What risk is for NiCd battery under thermal runaway effect if charged by constant voltage method?
+@@Battery is damaged
+Battery is disconnected from charging
+Battery is reduced its capacity
+
+Difference between flooded battery & sealed battery?
+@@Sealed battery has no free electrolyte
+Sealed battery has free electrolyte
+Flooded battery has no free electrolyte
+
+Difference between flooded battery & sealed battery?
+@@Flooded battery has filled electrolyte
+Sealed battery has free electrolyte
+Flooded battery has no free electrolyte
+
+Difference between primary cell battery & secondary cell battery?
+@@Secondary cell battery is rechargable
+Primary cell battery is rechargable
+Secondary cell battery is non-rechargable
+
+What will happen when charging primary cell battery?
+@@Battery is defective
+Battery is charging
+Cell electrolyte is raised
+
+Describle secondary cell battery construction?
+@@There are many cells which each consists positive & nagetive electrodes connect to each other
+There is one cell which has positive & negative electrodes
+There is one cell which has positive & negative electrodes & electrolyte
+
+How many cells needed for an output 12V of lead acid battery?
+@@6 cells in series
+6 cells in parallel
+one cell 12V
+
+What is gas escaped from cells in the flooded lead acid battery?
+@@Oxygen at positive plates
+Hydogen at positive plates
+No gas escaped from the cell
+
+What is gas escaped from cells in the flooded lead acid battery?
+@@No gas escaped from the cell
+Oxygen at negative plates
+Hydogen at negative plates
+
+What action will be when flooded lead acid is in-charged?
+@@Monitor electrolyte
+Add more acid
+Monitor lead electrode wearing rate
+
+What material is made of positive plate in flooded lead acid battery?
+@@Lead peroxide
+Lead
+Lead & iron alloy
+
+What material is made of negative plate in flooded lead acid battery?
+@@Lead
+Lead peroxide
+Lead & iron alloy
+
+What is the purpose of seperator in a cell battery?
+@@To keep postive & negative plates from short circuit
+To collect more postive ions in electrolyte
+To isolate ions from touching electrodes
+
+How does cell battery protect from electrolyte leak when aircraft is change attitude?
+@@A likely conic shape lead weight inside cell seals electrolyte from leakage
+When aircraft changes attitude, leak must be controlled
+Vent plug is made of rubber which keep minimum electrolyte leakage
+
+Where is the enviroment for ions to exchange in the sealed lead-acid battery?
+@@Environment is the electrolyte which is absorbed into glass-mat separator
+Environment is electrolyte fluid
+Environment is dry space inside & between electrodes
+
+Where is the enviroment for ions exchange in flooded lead-acid battery?
+@@Environment is electrolyte fluid
+Environment is the dry space & between cell electrodes
+Environment is electrolyte which is absorbed into glass-mat separator
+
+Why sealed lead acid battery wil not loss water during charge?
+@@Oxygen & hydrogen will not being gases
+No water added then no water lost
+Because it's sealed
+
+There is small water loss for sealed lead-acid battery. What is the cause?
+@@Self discharge reactions
+Charging situation
+Discharging situation
+
+How to connect Lithium cells to be battery of 24 -33V?
+@@8 cells in series
+15 cells in series
+20 cells in series
+
+What condition of battery temperature does battery charger protect?
+@@Low & high tempearature
+High temperature
+Low temperature
+
+Battery charger detects overheat signal. How is about system response?
+@@Battery charger isolates the battery & send fault signal to load management system
+Battery charger controls battery works in degraded mode
+It give options for user to choose if continue to use battery
+
+Which range of ambient tempearature does Ni-Cd battery can work normally?
+@@15 - 32 degree of Celcius
+over 90 degree of Fahrenheit
+under 60 degree of Fahrenheit
+
+What is following may happen If a cell is shorted inside Ni-Cd battery?
+@@Current is excessive & temperature increases
+Current is very low & temperature decreases
+Current is very high & temperature decreases
+
+What are advantages of Lithium battery rather conventional batteries?
+@@High capacity & light weight
+High capacity & high weight
+Light weight
+
+How many volts is typically for each cell in Lithium battery?
+@@3.7 volts
+5 volts
+1.2 volts
+
+How is battery backup during flight in electrical emergency case?
+@@Batterie supplies standby power until system is recovered
+Battery supplies whole system until landing
+Battery supplies Ram Air Turbine deployment
+
+Where does signal in the battery large connector go?
+@@Conncet to bus system
+Connect to battery charger
+Connect to remain battery
+
+Where does signal in the battery small connector go?
+@@Connect to battery charger
+Connect to bus system
+Connect to remain battery
+
+How hot battery bus is configured?
+@@It is wired directly from battery
+It is wired with tempearature sensor
+It is wired to battery charger
+
+How to control batttery charging available or unable base on configuration?
+@@By control relays
+By contactors
+By central processor
+
+How many power panels in B777 electrical load management system (ELMS)?
+@@7
+5
+6
+
+What is purpose of APU AC generator?
+@@Backup for any failed main AC generator
+Generator redundancy
+To supply more electric for aircraft
+
+How to supply power if all AC generators failed?
+@@Batteries supply to essential systems
+Emergency generator supplies to essential systems
+Static inverters supply to essential systems
+
+How many AC generators are driven by each engine B777?
+@@Two
+One
+Four
+
+How to power main AC generator?
+@@Engine shaft
+Hydraulic motor
+Ram air
+
+How to power AC emergency generator in Airbus aircraft?
+@@Hydraulic motor
+Engine shaft
+Constant Speed Drive
+
+Which one following controls electrical distribution?
+@@BPCU (Bus Power Control Unit)
+GCU (Generator Control Unit)
+Electrical Load Management System (ELMS)
+
+Which one following controls AC generator?
+@@GCU (Generator Control Unit)
+BPCU (Bus Power Control Unit)
+Generator Breaker (GB)
+
+How does generator breaker (GB) work when generator control unit detects overload?
+@@Trip to isolate its generator circuit
+Close to connect power to main generator circuit
+Overload is not GB functions
+
+What is principle of current transformer?
+@@Induced voltage is measured without touching main cables
+Voltage is measured by tapping from main cables
+Electromechanical effect
+
+Which LRU does BPCU control?
+@@BTB (Bus Tie Breaker)
+GB (Generator Breaker)
+GC (Generator Contactor)
+
+Comparision between BPCU (Bus Power Control Unit) & GCU (Generator Control Unit)?
+@@Same in nature
+One is for loads while one is for source
+Not same to each other
+
+What is advantages of brushless generator?
+@@Less maintenance required & faithful
+Light weight
+Low cost
+
+What is the difference between brushed & brushless generator?
+@@Brushless generator first stage rotor is permanent magnet
+Brushless generator first stage rotor is winding
+Brushless generator second stage rotor is permanent magnet
+
+How to release heat for oil which cools the alterator?
+@@By other cooler
+By natural cool
+By water cooler
+
+Which one keep fix frequency in IDG (Integrated Drive Generator)?
+@@CSD (Constant Speed Drive)
+Generator by itself
+Frequency Inverter
+
+How CSD (Constant Speed Drive) keeps fixed speed to generator rotor?
+@@Hydraulic pump & hydraulic drive turn alternator which speed is keep fixed around specific rpm
+CSD communicates with frequency inverter to keep fixed rpm
+It has same size gears inside for keep constant speed at output
+
+How is about magnetic filed strength if output generator increases?
+@@More magnetic filed
+Less magnetic field
+Keep magnetic field be constant
+
+How is about magnetic filed strength if output generator decreases?
+@@Less magnetic field
+More magnetic filed
+Keep magnetic field be constant
+
+How does differential protection in GCU (Generator Control Unit) work?
+@@It controls to cut off load bus if sensed voltage is not within specific tolerance
+It controls to cut off load bus if sensed voltage is within specific tolerance
+It controls to cut off load bus if sensed voltage is very low
+
+What is reverse current protection of GCU?
+@@Protection electrical system from collapse if current is flown back to a defective generator
+Protection generator from over-excitation
+Protection generator from supply more current to loads
+
+Which field winding in starter-generator is for engine start?
+@@Series field
+Shunt filed
+Parallel field
+
+Which field winding in starter-generator is for generator control?
+@@Shunt filed
+Series field
+Both series & parallel fileds
+
+What is inside 3-unit regulator?
+@@Relays
+Circuit breaker
+Contactor
+
+What is the relation between carbon disk & generator output?
+@@More resistance carbon disks, less generator output
+More resistance carbon disks, more generator output
+Less resistance carbon disks, less generator output
+
+How does DC alterator generate DC?
+@@By rotated rectifier assembly inside alterator
+By transformer
+By static rectifier assembly
+
+How to connect DC power from its alterator to load?
+@@By slip rings
+By breaker
+Directly connect
+
+What is the differerence between diode Zener & common diode?
+@@Zener stops current at predetermined voltage
+They have same functions
+Diode stops current at predetermined voltage
+
+What is difference between solid state type & vibrating type regulators in DC alterator?
+@@Solid state type regulator has no moving part
+Solid state type regulator has moving part
+Vibrating type regulator has no moving part
+
+What concept is for keep electrical system reliable in the aircraft?
+@@Redundancy sources & essential loads are supplied from many sources
+Redundancy sources & crossload sources
+Redundancy sources
+
+How many voltage regulators are there in aircraft?
+@@GCU, carbon pile & 3-unit regulators
+GCU, carbon pile & starter-generator regulators
+Carbon pile & 3-unit regulators
+
+How charge primary cell battery?
+@@Primary cell is non-rechargable
+Use DC source to charge it
+Check electrolyte before chrage
+
+What type of cell is for carbon-Zinc cell ?
+@@Primary cell
+Secondary cell
+Third cell
+
+How is about gas leak in the secondry cell battery when aircraft is too much roll?
+@@Almost none of leak
+Minor leak
+Heavy leak
+
+What type of power source is typically applied in small aircraft?
+@@DC generator
+AC generator
+Batteries
+
+What is the voltage regulation function in the GCU (Generator Control Unit)?
+@@Take a sample of a generator output and compare that sample to a known reference
+Refer to a specific value then protection
+Use compensation capacitor
+
+How to control generator in high output generators?
+@@Use combination starter-generator into a house
+Use more starters
+Use double prallel fileds
+
+How does 3-unit regulator work when high output of generator?
+@@Resistor inside unit limits the filed current which lower the generator output
+Resistor inside unit gains the filed current which raise the generator output
+Regulator keeps output is fixed and no changed
+
+What is three relays in 3-unit regulator?
+@@Voltage regulation, Current limiter & reverse current relays
+Voltage regulation, Current limiter & Parallel coil relays
+Voltage regulation, series & reverse current relays
+
+What is the role of zener diode in ACU (Alternator Control Unit) circuitry?
+@@Control transistor to flow current to alternator field
+Limit the voltage at predetermined value
+Isolate current to transistor base for protection
+
+What is the role of current limiter in dual feed bus system of small aircraft?
+@@Backup for circuit breaker in line
+Protection when overloaded
+Limit current to loads
+
+What is the result if a bus for windshield in dual-feed bus system of small aircrarft is failed in flight?
+@@The remain windshield is still functional
+Both windshields are not functioned
+Another bus supplies to both windshields
+
+What is the condition of relay in 3-unit regulator voltage regulation section in normal flight?
+@@Close & open at regular intervals
+Close
+Open
+
+What is the condition of relay in 3-unit regulator current limiter section in normal flight?
+@@Close
+Open
+Close & open at regular intervals
+
+How to control generator output is higher by carbon-pile regulato typer?
+@@Disks resistance decreases, the field current increases and generator output goes up
+Disks resistance increases, the field current increases and generator output goes up
+Keep disks resistance is constant, the field current increases and generator output goes up
+
+What is big disadvantage of carbon-pile type regulator?
+@@Carbon pile is worn which affects to regulated voltage accurate
+Voltage is regulated un-accurated by design
+Voltage coil always decreases filed strength which affect to voltage regulation
+
+What kind of voltage at output amarture winding in DC alternator?
+@@AC
+Direct DC
+Rectified DC
+
+Why is DC alternator more efficient than DC gennerator?
+@@DC alternator applies rectifiers  which no need brushes and commutator
+DC  alternator applies new GCU (Generator Control Unit)
+DC alternator applies thre pair of brushes which make DC output is less ripple
+
+What is the result when a gennerator is failed in parallel-bus system?
+@@Failed generator is isolated from the system
+Failed generator is reset then saved by the system
+Its failed generator is lost consequently
+
+What is the SSB (Split System Breaker) sittuation in split-parallel bus system when normal configuration?
+@@Close
+Open
+It keeps close when generators are not in phases
+
+What is the BTB (Bus Tie Breaker) sittuation in split-parallel bus system when a generator is lost?
+@@Close
+Open
+Close on user demand
+
+What is permanent magnet rotary inverter?
+@@A DC motor drives permanent magnet to spin which induces AC at AC coil
+Engine drives permanent magnet to spin which induces AC at AC coil
+A AC motor drives permanent magnet to spin which induces AC at AC coil
+
+What is inductor type rotary inverter?
+@@Soft iron rotor spins which induces AC from DC filed winding supply
+Permanent magnet rotor spins which induces AC from DC filed winding supply
+A DC motor drives permanent magnet to spin which induces AC at AC coil
+
+Why static inverter is more advantage than rotaty inverters?
+@@Less maintenance & quiet operation
+Low cost & less maintenance
+High effeciency & low cost
+
+How many turns are there in secondary coil if transformer ratio turns is 0.5
+@@It's double rather than primary coil
+It's a half less than primary coil
+It's 5 times rather than primary coil
+
+What is coefficient coupling of transformer?
+@@It's efficiency of the transformer
+It's losses of the transformer
+It's leakage flux of the transformer
+
+What is SCR?
+@@4-layers diode with 3 junctions and 1 gate
+2-layers diode with 1 junction and 1 gate
+3-layers diode with 2 junctions
+
+What is called voltage which makes SCR to conduct the current?
+@@Breakover voltage
+Breakdown voltage
+Breakout voltage
+
+Assume C/B is rated 10A and wire gage is 18 respectively. Which wire size is chosen if C/B rate is 5A?
+@@more than 18
+less then 18
+18
+
+What is the standby power bus?
+@@Bus is used for emergency power when the main sources of power fail
+This is hot battery bus
+Bus is used when all power sources of power fail

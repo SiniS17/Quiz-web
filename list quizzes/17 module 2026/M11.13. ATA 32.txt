@@ -1,0 +1,1509 @@
+Why is the tail skid considered obsolete for tail wheel type landing gear?
+@@Hard surface runways have made the tail wheel more effective for directional control.
+The tail skid is heavier and less efficient than modern alternatives.
+The tail skid cannot provide sufficient braking power.
+
+Which of the following is a characteristic of tandem landing gear?
+@@It aligns the main and tail gear along the longitudinal axis of the aircraft.
+It has the main gear located at the forward section of the aircraft.
+It allows for a higher clearance for non-paved runways.
+
+What is the advantage of the nose gear in a tricycle landing gear arrangement?
+@@It provides better visibility from the flight deck during landing and ground maneuvering.
+It helps in keeping the aircraft’s nose elevated during takeoff.
+It reduces the weight of the aircraft, making it easier to handle.
+
+How is the nose gear of a light aircraft typically controlled?
+@@Through mechanical linkage to the rudder pedals.
+By using differential braking alone.
+Via hydraulic power from an independent tiller.
+
+What is the primary use of Type III aircraft tires?
+@@They are used on light aircraft with landing speeds of 160 mph or less.
+They are used on high-performance jet aircraft only.
+They are used exclusively on older aircraft.
+
+What effect does taxiing at high speeds have on aircraft tires?
+@@It increases the temperature, making them more susceptible to wear and damage.
+It decreases the tire's lifespan significantly.
+It has no effect on the tires at all.
+
+Which component of an aircraft tire helps maintain air pressure and contributes to performance?
+@@The inner liner.
+The tread pattern.
+The sidewall reinforcement.
+
+How can the use of heavy braking during takeoff affect aircraft tires?
+@@It can cause overheating and potential tire failure.
+It improves the performance of the tires.
+It has no impact on tire condition.
+
+What role does proper maintenance of airport surfaces play in tire longevity?
+@@It reduces the risk of tire damage from foreign objects and rough surfaces.
+It has no relevance to tire health.
+It solely benefits the aircraft engines.
+
+Which of the following practices can help prevent excessive tire wear during ground operations?
+@@Making large radius turns instead of sharp turns.
+Using brakes continuously while taxiing.
+Stopping frequently to check tire condition.
+
+How does the conventional gear arrangement benefit aircraft operating on non-paved runways?
+@@It provides increased clearance for the forward fuselage, reducing the risk of damage.
+It minimizes the weight, making the aircraft easier to handle on rough terrain.
+It allows for faster takeoff speeds due to reduced drag.
+
+Why might aircraft manufacturers still use conventional gear despite the development of newer landing gear types?
+@@The weight savings from the relatively light tail wheel assembly is advantageous.
+It provides superior ground stability compared to other types.
+The conventional gear is more economical to produce.
+
+Which aspect of tandem landing gear allows the use of very flexible wings on some aircraft, such as the Harrier?
+@@The gear placement under the fuselage facilitates wing flexibility.
+The smaller size of tandem gear allows for increased wing movement.
+The inclusion of outrigger gear provides extra support for flexible wings.
+
+What is the primary function of shock absorber in landing gear systems?
+@@To convert impact energy into heat energy, dispersing it to protect the aircraft structure.
+To increase the speed of landing and takeoff by minimizing drag.
+To distribute the aircraft’s weight evenly over the landing surface.
+
+How does the metering pin in a shock strut affect fluid flow during compression?
+@@The pin’s taper adjusts the flow rate, allowing controlled compression and heat dissipation.
+The pin blocks fluid flow, causing the strut to remain compressed for longer durations.
+The pin provides a constant flow rate regardless of the compression level.
+
+Why is a recoil valve necessary in shock strut operation?
+@@It controls fluid flow during extension, preventing damage from rapid rebound.
+It seals the strut, preventing any fluid leakage during landing.
+It reduces the heat generated during compression by controlling airflow.
+
+What role do torque links play in shock struts?
+@@They prevent the piston from rotating, ensuring wheel alignment and stability.
+They control the fluid flow rate during compression and extension.
+They serve as snubbing devices, absorbing shock during rough landings.
+
+How does the nose gear locating cam assembly aid during landing gear retraction?
+@@It ensures the wheel aligns with the longitudinal axis of the aircraft for smooth retraction.
+It controls the extension rate of the nose wheel to minimize impact.
+It prevents the wheels from oscillating during high-speed taxi operations.
+
+Why is it important to follow proper deflating techniques when servicing a shock strut?
+@@High-pressure air can propel parts, leading to injury if not handled correctly.
+Incorrect deflation may lead to fluid leakage, causing strut malfunction.
+Deflating improperly can cause the strut to overheat and fail during landing.
+
+What is a critical step in bleeding a shock strut to ensure proper operation?
+@@Compressing and extending the strut multiple times to remove trapped air bubbles.
+Releasing hydraulic fluid at the service valve port to maintain fluid levels.
+Installing a new metering pin to regulate fluid flow during the process.
+
+How do Type VII tires differ from Type III tires in terms of pressure and load capability?
+@@Type VII tires are inflated to high pressure and have exceptional load carrying capability.
+Type VII tires are lower pressure and designed for lightweight aircraft.
+Type VII tires have the same pressure and load capacity as Type III tires.
+
+In what situation would a tire with the letter "B" before its identifier be used?
+@@When the tire has a wheel rim to section width ratio of 60 to 70 percent with a bead taper of 15 degrees.
+When the tire is designed for low-speed landings only.
+When the tire has no bead taper at all.
+
+What is the role of the bead in an aircraft tire?
+@@It anchors the tire carcass and provides a firm mounting surface on the wheel rim.
+It cushions the tire during landing.
+It adds color to the tire design.
+
+How does the construction of bias ply tires differ from radial tires?
+@@Bias ply tires have plies wrapped at an angle, while radial tires have plies laid at a 90-degree angle to the direction of rotation.
+Bias ply tires have no plies, while radial tires have multiple plies.
+Bias ply tires are always used on jets, while radial tires are used on smaller aircraft.
+
+What potential issue arises from gas trapped in the plies of a tire?
+@@It could expand with temperature changes and cause separation of the plies, leading to tire failure.
+It improves the tire’s performance under load.
+It prevents air from seeping out of the tire.
+
+How can under-inflated aircraft tires lead to structural damage during landing?
+@@They can flex beyond design limits, causing excessive heat build-up
+They improve the tire's performance on the runway
+They have no impact on the structural integrity of the tire
+
+What should maintenance personnel consider when adjusting tire pressure after a flight in different temperature environments?
+@@The tire pressure should be the same regardless of temperature changes
+They should increase tire pressure to account for cooler temperatures upon landing
+Tire pressure does not need to be adjusted when flying to different climates
+
+How can asymmetrical tread wear affect aircraft safety, and what should be done if detected?
+@@It indicates normal operation; no action is needed
+It may suggest alignment issues and should be investigated and corrected
+It is only a cosmetic issue and does not require attention
+
+Why is it important to allow time for tires to cool before checking their pressure after landing?
+@@To ensure accurate readings since pressure changes with temperature
+It is unnecessary, as tire pressure does not fluctuate
+It helps to increase the tire's lifespan
+
+What immediate action should be taken if a bulge or separation is observed in a tire's tread?
+@@The tire should be marked for later inspection
+The tire must be removed from service immediately
+The tire can remain in service if the bulge is small
+
+How does contamination from oil or hydraulic fluid affect aircraft tires, and what should be done?
+@@It enhances tire performance and should be left untreated
+It softens the tire rubber, requiring immediate removal from service
+It has no effect on the tire and can be ignored
+
+How should a technician approach a tire that has been identified as damaged and possibly explosive due to overheating?
+@@Approach from the side while it is still warm
+Stand clear and approach only once cooled, from an oblique angle
+Remove it immediately from the aircraft without caution
+
+What are the consequences of using a hydrocarbon-based lubricant on aircraft tires during the removal process?
+@@It enhances the tire's flexibility and should be applied liberally
+It contaminates the rubber compound, leading to potential failure
+It has no effect and can be used without concern
+
+Why is it critical to inspect the bead area of a tire during an inspection off the aircraft?
+@@The bead area provides an airtight seal and bears significant operational forces
+The bead area is less important than the tread surface
+Damage in the bead area is always repairable without concern
+
+What steps should be taken if a tire has been involved in an aborted takeoff?
+@@Inspect it for visible damage only
+It must be removed and evaluated for potential internal damage
+It can remain on the aircraft if it appears undamaged
+
+What factors should be considered when determining whether a tire is suitable for retreading?
+@@The tire's appearance and age alone
+The internal integrity assessed through professional inspection methods
+Whether the tread surface is still intact without regard for the inner structure
+
+Why is it important to inspect the inside of a tube type tire before installing a tube?
+@@To check for protrusions that could abrade the tube
+To ensure the tire is the correct size
+To confirm the valve is working properly
+
+What is the recommended procedure for inflating an aircraft tire and tube assembly?
+@@Inflate, deflate, then re-inflate to specified pressure
+Inflate to full pressure and leave it
+Inflate and immediately put the tire under load
+
+What role does tire balancing play in aircraft performance?
+@@It prevents vibration and improves tire longevity
+It increases tire pressure
+It changes the tire's size
+
+Explain how excessive heat from braking can affect aircraft tire performance.
+@@Excessive heat can lead to tread abrasion and potential tire failure.
+Excessive heat improves tire flexibility and performance.
+Excessive heat has no impact on tire performance.
+
+What actions can be taken to minimize tire damage when taxiing an aircraft?
+@@Avoiding taxiing at high speeds and riding the brakes.
+Accelerating quickly to reduce taxi time.
+Only using brakes when necessary.
+
+Identify a common cause of tire failure during takeoff.
+@@Running over foreign objects on the runway.
+Flying at a higher altitude.
+Maintaining proper tire pressure.
+
+What is the significance of maintaining clean ramp areas and hangar floors?
+@@It helps prevent tire damage from foreign objects.
+It is not necessary as tires are resilient.
+It has no effect on tire performance.
+
+Discuss the relationship between hydroplaning and tire wear.
+@@Hydroplaning can lead to increased heat and rapid tire wear.
+Hydroplaning improves tire durability.
+Hydroplaning has no impact on tire wear.
+
+What would likely happen if sequence valves C and D fail to open after gear retraction?
+@@The gear doors will remain open, and the doors will not close after retraction
+The gear actuators will lock hydraulically
+The landing gear doors will remain open, increasing drag
+
+If the restrictors in the orifice check valves on the up-side of the main gear actuators become blocked, what is the most likely result during gear extension?
+@@Gear drops too quickly, possibly causing structural impact
+Gear fails to lock due to insufficient pressure
+Gear extends too slowly, causing timing delay
+
+What is the primary difference between a sequence valve and a priority valve in a landing gear system?
+@@Sequence valves depend on mechanical actuation; priority valves rely on pressure thresholds
+Sequence valves are used in nose gear only; priority valves are only in main gear
+Sequence valves regulate flow; priority valves isolate fuel supply
+
+Why do sequence valves A and B block fluid flow to the main gear actuators at the beginning of gear extension?
+@@To ensure main gear does not extend before doors are fully open
+To prevent fluid bypass and loss of pressure in the door actuators
+To synchronize nose and main gear lowering at the same rate
+
+In an aircraft with a mechanical emergency extension handle, what would be the likely result if the linkage to the uplocks is jammed?
+@@The gear would remain retracted despite pulling the handle
+The doors would open, but the gear would still extend
+The gear would extend hydraulically
+
+Which of the following best explains why some aircraft use pneumatic power for emergency gear extension?
+@@To provide redundancy when mechanical linkage is not feasible
+To assist flap operation during low-speed flight
+To ensure controlled, slow movement of gear doors
+
+Why is emergency gear extension less common in large, high-performance aircraft?
+@@Because these aircraft are equipped with multiple hydraulic systems
+Because electrical systems provide sufficient backup
+Because gear doors are always open in flight
+
+If a technician is troubleshooting a failure of emergency gear extension and finds that gravity extension does not occur, what should be checked first?
+@@Free movement of the uplock release mechanism
+Function of the normal gear selector switch
+Tire pressure in the main gear
+
+Why is it important to perform a landing gear retraction test after a hard or overweight landing?
+@@To detect possible damage to gear components or alignment issues
+To check tire inflation pressures
+To reset weight-on-wheel sensors
+
+During a retraction test, unusual rubbing noise is heard near the gear door area. What should the technician do?
+@@Check for binding, misalignment, or interference in door linkage
+Apply lubrication to the main actuator cylinder
+Ignore the noise if the gear extends properly
+
+What is the tail wheel type landing gear also known as?
+@@Conventional gear
+Tricycle gear
+Tandem gear
+
+Which type of landing gear is most commonly used in aircraft?
+@@Tricycle type landing gear.
+Tail wheel type landing gear
+Tandem landing gear
+
+What is the primary power source for extension and retraction systems in large aircraft?
+@@Hydraulics.
+Electric motors.
+Pneumatic systems.
+
+Where can specific details about any aircraft’s hydraulic landing gear system be found?
+@@In the aircraft maintenance manual.
+In the flight operations manual.
+In the pilot’s logbook.
+
+What is the purpose of the emergency extension system?
+@@To lower the landing gear if the main power system fails.
+To raise the landing gear during flight.
+To operate the aircraft’s main hydraulic system.
+
+What should you consult for information on emergency landing gear extension system tests?
+@@The aircraft maintenance manual.
+The aircraft flight manual.
+The aircraft operations manual.
+
+What is the purpose of a nose wheel centering device on an aircraft?
+@@To align the nose gear with the wheel well bay before retraction
+To assist in landing the aircraft
+To provide information on the speed of the aircraft
+
+What is the function of centering cams in the shock strut structure of an aircraft?
+@@They align the nose gear before retraction
+They provide information about the aircraft’s altitude
+They control the speed of the aircraft
+
+What is the function of proximity sensors in aircraft landing gear systems?
+@@They detect the position of the landing gear without physical contact
+They monitor the temperature of the aircraft’s wheels
+They control the speed of the aircraft during takeoff
+
+What is the purpose of the nose wheel steering system in modern aircraft?
+@@To allow the aircraft to be directed during ground operation.
+To monitor the aircraft altitude.
+To control cabin temperature.
+
+What is the primary purpose of a shimmy damper in an aircraft's nose gear?
+@@To control the tendency of the nose gear to oscillate rapidly at certain speeds.
+To assist in landing gear retraction.
+To provide additional support to the aircraft’s structure.
+
+What is the primary purpose of regular maintenance on the landing gear system?
+@@To ensure the proper operation and safety of the landing gear.
+To improve the aircraft's fuel efficiency.
+To enhance the aircraft's aerodynamics.
+
+Why is it important to maintain specific clearances between landing gear doors and the aircraft structure?
+@@To prevent structural damage and wear during flight.
+To enhance the visual appeal of the aircraft.
+To improve fuel efficiency.
+
+What materials are typically used to construct modern aircraft wheels?
+@@Aluminum or magnesium alloy.
+Steel or plastic.
+Titanium or carbon fiber.
+
+What should be inspected for signs of suspected damage during an on-aircraft inspection of wheel assemblies?
+@@The general condition of the aircraft wheel assemblies.
+Only the brake components.
+The engine components.
+
+Why should a technician deflate the tire before removing the wheel assembly from an aircraft?
+@@To prevent a potential explosion due to high internal pressure.
+To clean the tire more efficiently.
+To make it easier to remove the wheel hub.
+
+What should be done before removing the wheel assembly from the aircraft?
+@@Deflate the tire to prevent explosion when removing the axle nut.
+Remove the wheel assembly with air pressure in the tire.
+Use an impact tool to remove the wheel tie bolts.
+
+Which tool should not be used to pry a tire off the wheel rim?
+@@A screwdriver or other sharp device.
+A hydraulic press.
+A magnifying glass.
+
+What should never be done when drying a wheel bearing with compressed air?
+@@Rotating the bearing, as it may cause damage.
+Using a soft brush to clean the bearing.
+Removing the bearing cup during drying.
+
+Which solvent is recommended for cleaning wheel bearings?
+@@Varsol, naptha, or Stoddard™ solvent.
+Gasoline or jet fuel.
+Water and soap.
+
+What is the primary function of disc brakes in modern aircraft?
+@@To create friction that slows down the aircraft wheels.
+To enhance the aerodynamic performance of the aircraft.
+To provide electrical power to various systems.
+
+Which component in a single disc brake applies pressure to the brake pads?
+@@The hydraulic master cylinder.
+The wheel assembly.
+The brake disc.
+
+What is the primary function of the brake actuating systems in aircraft?
+@@To deliver hydraulic fluid pressure to brake assemblies.
+To generate electrical power for braking systems.
+To control the aircraft's flight path.
+
+Which type of braking system does not connect to the aircraft's main hydraulic system?
+@@An independent brake system.
+A boosted brake system.
+A power brake system.
+
+What is the primary function of the anti-skid system in large aircraft with power brakes?
+@@Detect and prevent wheel skidding.
+Monitor tire pressure.
+Control the hydraulic fluid levels.
+
+Which component in the anti-skid system detects the speed of each wheel?
+@@Wheel speed sensors.
+Control unit.
+Anti-skid control valve.
+
+Where are anti-skid control valves typically located in an aircraft?
+@@Near the main wheel assemblies.
+Inside the flight deck.
+Next to the engine compartment.
+
+What is the purpose of brake inspection and service for aircraft?
+@@To keep the brake components fully functional at all times.
+To enhance the visual appearance of the aircraft.
+To reduce the weight of the brake system components.
+
+What should be monitored to ensure brake linings are effective?
+@@The amount of wear.
+The color of the brake lining.
+The temperature of the brakes.
+
+Which two methods are used to bleed air from brake systems?
+@@Gravity bleeding and pressure bleeding.
+Manual cleaning and automated cleaning.
+Hydraulic draining and air pumping.
+
+What is the purpose of inspecting bolts and threaded connections during brake maintenance?
+@@To ensure they are in good condition and meet the manufacturer’s specifications.
+To check if they are loose and can be removed easily.
+To replace them with standard hardware from any supplier.
+
+What is a common sign of brake disc wear that should be checked during an inspection?
+@@Uneven wear on the rotating and stationary discs.
+Presence of excessive lubricant on the discs.
+Perfectly smooth disc surfaces without any scratches.
+
+What components are typically included in a hydraulically-operated retraction system?
+@@Actuating cylinders, selector valves, uplocks, and sequence valves.
+Electric motors and battery units.
+Pneumatic pumps and manual levers.
+
+What happens when the flight deck gear selector is moved to the gear-up position?
+@@The selector valve allows pump pressure to access multiple components, unlocking downlocks and actuating the cylinders.
+The gear retracts immediately without any fluid pressure changes.
+The main gear doors close automatically before the gear retracts.
+
+What is the function of the sequence valves in the landing gear retraction system?
+@@They control the timing of gear door operation by delaying fluid flow.
+They immediately unlock the uplocks and extend the gear.
+They bypass the main hydraulic pump to speed up retraction.
+
+Why is it important to use restrictors in the orifice check valves when extending the gear?
+@@To slow down the extension and prevent impact damage.
+To accelerate the retraction process during flight.
+To block hydraulic fluid from returning to the pump.
+
+How does the emergency extension system function in some aircraft with a release handle?
+@@It releases the uplocks, allowing the gear to free-fall into the extended position.
+It uses hydraulic power to automatically lower the gear.
+It requires manual operation by the maintenance crew.
+
+When should a landing gear retraction test be performed?
+@@After replacing or adjusting any landing gear component.
+Only during annual inspections.
+When the aircraft has a new paint job.
+
+What do ground locks do on aircraft landing gear?
+@@They prevent the landing gear from retracting while the aircraft is on the ground
+They help the landing gear retract during flight
+They provide real-time data to the pilot about the landing gear position
+
+Which of the following is a characteristic feature of ground locks?
+@@They often have red streamers attached for visibility
+They are used to retract the gear during flight
+They operate automatically without manual installation
+
+How does a landing gear squat switch function on an aircraft?
+@@It opens or closes depending on the extension or compression of the main landing gear strut
+It monitors the speed of the landing gear retraction
+It automatically adjusts the nose wheel alignment during landing
+
+What happens when the squat switch is open while the aircraft is on the ground?
+@@The gear position selector is physically disabled to prevent gear retraction
+The landing gear automatically retracts
+The aircraft’s speed is adjusted to prepare for takeoff
+
+How does an electromagnetic sensor work in a proximity sensor system?
+@@It returns a different voltage to a gear logic unit based on the proximity of a conductive target
+It physically contacts the target to measure distance
+It calculates airspeed and adjusts the gear position accordingly
+
+What tool is often used to set the correct distance between the sensor and the target in a proximity sensor system?
+@@Go-No-Go gauge
+Electronic calibrator
+Gap meter
+
+Which power source is predominantly used for nose wheel steering in large aircraft?
+@@Hydraulic power.
+Electrical power.
+Mechanical power.
+
+What component in the nose wheel steering system keeps fluid in the actuators under pressure to act as shimmy dampers?
+@@An accumulator and relief valve.
+The autopilot system.
+The cabin temperature controller.
+
+How does a piston type shimmy damper function?
+@@It forces hydraulic fluid through a bleed hole in the piston to dampen oscillation.
+It uses an electrical system to absorb vibration.
+It compresses air to reduce movement.
+
+What component keeps pressurized fluid in the working chambers of a vane type shimmy damper?
+@@An internal spring-loaded replenishing reservoir.
+A pneumatic pump.
+A hydraulic actuator.
+
+What should be checked during the inspection of landing gear wheels?
+@@Cleanliness, corrosion, cracks, and tire wear.
+Color, texture, and wheel alignment.
+Weight distribution and balance.
+
+What is the purpose of lubricating the landing gear?
+@@To reduce friction and wear on moving parts.
+To increase the weight of the landing gear.
+To improve the visual appearance of the landing gear.
+
+Where are adjustments typically made to landing gear doors?
+@@At the hinge installations or connecting links.
+At the wheel wells of the aircraft.
+At the hydraulic control unit.
+
+What role does the locking link play in landing gear adjustment?
+@@It locks the gear securely in the down position to prevent collapse.
+It helps to raise the landing gear during takeoff.
+It provides additional weight to the landing gear assembly.
+
+What is the purpose of the groove at the mating surface of a two-piece aircraft wheel?
+@@To seal the assembly for use with tubeless tires.
+To provide a decorative feature.
+To enhance the visual appearance of the wheel.
+
+How do the inboard and outboard wheel halves differ?
+@@The inboard wheel half has features for mounting the brake rotor, while the outboard half does not.
+The outboard half is made from stronger materials than the inboard half.
+Both halves are identical in design and function.
+
+What is a sign that a wheel assembly may need to be removed for inspection?
+@@Signs of overheating or melted thermal plugs.
+Cracked paint on the aircraft body.
+Loose cabin doors.
+
+Why is proper axle nut torque important in aircraft wheel installations?
+@@To prevent excessive movement of the bearing and wheel assembly.
+To ensure the wheel has a decorative appearance.
+To increase the speed of the aircraft during taxi.
+
+What is the correct method to clean the wheel assembly?
+@@Use the solvent recommended by the wheel manufacturer and a soft brush.
+Use abrasive materials to remove any dirt and corrosion.
+Clean using water and a metal scraper.
+
+Why is it necessary to inspect the bead seat area of the wheel?
+@@It is a high-stress area where cracks can develop due to hard landings.
+It is where corrosion is least likely to occur.
+It is the easiest area to inspect with a dye penetrant test.
+
+What is the purpose of fusible plugs in the wheel assembly?
+@@To release air when the temperature becomes dangerously high.
+To balance the weight of the wheel assembly.
+To detect cracks in the wheel.
+
+Why is steam cleaning not recommended for wheel bearings?
+@@It compromises the surface finish, leading to early failure.
+It causes the bearings to expand, making them difficult to remove.
+It removes protective lubrication from the bearings.
+
+What is the correct method to lubricate a tapered roller bearing without a lubrication tool?
+@@Place grease on the palm, and press the bearing into the grease until all rollers are packed.
+Submerge the bearing in a grease-filled container until fully coated.
+Apply grease using a brush to the outer surface of the bearing.
+
+What type of damage can lead to bearing rejection during inspection?
+@@Galling, spalling, and corrosion.
+Minor scratches on the surface.
+Discoloration due to grease application.
+
+What type of braking system is typically found in small, light aircraft?
+@@Single disc brakes.
+Multiple disc brakes.
+Floating disc brakes.
+
+How does a floating disc brake ensure even friction on both sides of the disc?
+@@By allowing the disc to move laterally in key slots.
+By using a rigid connection between the disc and caliper.
+By applying pressure only to one side of the disc.
+
+What is the role of the return spring in a floating disc brake system?
+@@To ensure the pistons return to their original position after braking.
+To maintain constant hydraulic pressure in the system.
+To increase the friction applied to the brake disc.
+
+How does a pilot apply brakes in an independent braking system?
+@@By pressing on the tops of the rudder pedals.
+By using a hand lever in the cockpit.
+By activating a switch on the control panel.
+
+What happens to the hydraulic fluid in a master cylinder when the rudder pedal is depressed?
+@@It is forced through a line to the brake assembly.
+It is stored in a separate reservoir.
+It is vented to the atmosphere.
+
+What is the purpose of the compensating poppet in boosted brakes?
+@@To provide thermal expansion relief when brakes are not applied.
+To increase the braking force when needed.
+To isolate the brake fluid from the master cylinder.
+
+What action does the anti-skid system take when it detects that a wheel is about to skid?
+@@It reduces hydraulic pressure to the brake on that wheel.
+It increases the braking force applied to the wheel.
+It disconnects the brake from the hydraulic system completely.
+
+How does the anti-skid system maintain maximum braking efficiency?
+@@By monitoring and adjusting the deceleration rate of each wheel.
+By continuously increasing hydraulic pressure.
+By allowing manual intervention from the pilot during landing.
+
+What must the pilot do in the flight deck to activate the anti-skid system?
+@@Turn the anti-skid switch to the ON position.
+Adjust the brake pedals manually.
+Engage the auto-brake mode.
+
+Which system component processes signals from the wheel speed sensors?
+@@The control unit.
+The anti-skid control valve.
+The hydraulic system.
+
+What happens to the anti-skid system when the aircraft slows to around 20 mph?
+@@The system switches to manual braking mode.
+It continues automatic operation until the aircraft stops.
+The brakes are fully released.
+
+What type of components are commonly found in an anti-skid system?
+@@Wheel speed sensors, anti-skid control valves, and a control unit.
+Hydraulic pumps, manual levers, and brake pads.
+Landing gear motors, hydraulic fluid tanks, and tire sensors.
+
+How is brake lining wear typically checked on aircraft brakes?
+@@By applying the brakes and measuring the wear pin.
+By visually inspecting the brake pedal.
+By checking the brake fluid color.
+
+What should be done if a technician finds air in the brake system fluid?
+@@Bleed the system according to the manufacturer's instructions.
+Replace the entire brake system.
+Ignore the issue until it worsens.
+
+Which hydraulic fluid types should never be mixed in brake systems?
+@@Mineral-based and phosphate-ester-based synthetic hydraulic fluids.
+Water-based and mineral-based hydraulic fluids.
+Oil-based and synthetic-based fluids.
+
+What is a sign that the brake pedal might need bleeding?
+@@The brake pedal feels spongy.
+The brake pedal makes a clicking sound.
+The brake pedal becomes hard to press.
+
+In a power brake system, why is bottom-up pressure bleeding not used?
+@@It could force air into the aircraft's main hydraulic system.
+It does not provide enough pressure for the system.
+It requires specialized equipment unavailable in most hangars.
+
+What must be done after fixing a leak in the brake system?
+@@The system should be re-pressurized and tested for function.
+The brakes should be replaced entirely.
+The fluid should be changed regardless of its condition.
+
+Why should brake linings be inspected for uneven wear during off-aircraft servicing?
+@@Uneven wear can indicate a problem with the automatic adjusters or brake housing alignment.
+It shows that the brake system needs more fluid.
+It may cause increased noise during braking.
+
+Why are magnetic inspections sometimes used for automatic adjuster pins?
+@@To inspect for cracks in the pins.
+To measure the wear of the pins.
+To check for air pockets within the pins.
+
+What is the function of the torque tube in a brake assembly?
+@@To hold the brake assembly stable on the landing gear.
+To monitor hydraulic fluid levels.
+To apply pressure to the brake linings.
+
+What are the main causes of brake dragging?
+@@Failure of the return mechanism, warped discs, or air in the brake lines.
+Insufficient hydraulic fluid or brake lining wear.
+Brake overheating due to excessive braking.
+
+How does air in the brake fluid cause brake drag?
+@@Heat causes the air to expand, pushing the brake linings against the disc prematurely.
+It reduces the fluid's ability to flow, causing the brakes to respond slowly.
+It increases hydraulic pressure, causing brake failure.
+
+How does brake chattering occur in multiple disc brakes?
+@@Warped discs cause uneven application of brake pressure, leading to vibration and noise.
+Excess air in the brake fluid creates resistance.
+Brake pads become loose and start vibrating.
+
+How do sequence valves C and D operate during the gear retraction process in the hydraulic system?
+@@They receive fluid pressure but remain closed until the gear is fully stowed, then open to allow door closure.
+They open immediately when fluid pressure is applied to begin gear extension.
+They control the release of hydraulic pressure back to the manifold.
+
+What is the role of priority valves in some hydraulic landing gear systems?
+@@They manage the activation timing of gear components using hydraulic pressure instead of mechanical action.
+They act as a backup system in case the sequence valves fail.
+They regulate the speed of the landing gear extension process.
+
+How does the system ensure that the gear doors open before the gear extends during the extension process?
+@@The fluid flows to the open side of the main gear door actuators before unlocking the main gear uplocks.
+The sequence valves automatically open to release the gear doors and uplocks simultaneously.
+The gear selector valve bypasses the gear cylinders to activate the doors directly.
+
+What might be a reason for a technician to become thoroughly familiar with a hydraulic landing gear system?
+@@Understanding the system’s operation and maintenance is crucial for safe operation.
+Knowing the system helps predict hydraulic fluid levels needed for a flight.
+Familiarity with the system ensures efficient fuel consumption management.
+
+What happens if sequence valves A and B are blocked during the gear extension process?
+@@The main gear uplocks cannot unlock, preventing the gear from extending.
+The hydraulic fluid will flow directly to the actuator cylinders, bypassing the gear doors.
+The gear will extend at a faster rate than normal.
+
+In what situation would the restrictors in the orifice check valves become crucial for system operation?
+@@During the extension of the gear to prevent fast deployment that could cause damage.
+When retracting the gear at high speeds to ensure smooth operation.
+While engaging the emergency extension system manually.
+
+How does the system described handle the nose gear differently from the main gear?
+@@The nose gear operates via mechanical linkage and does not require hydraulic power.
+The nose gear is operated with the same hydraulic system as the main gear doors.
+The nose gear requires a separate hydraulic pump for extension and retraction.
+
+What is the function of the selector valve when the flight deck gear selector is in the gear-down position?
+@@It directs pressurized hydraulic fluid to unlock the nose gear uplock and extend the gear.
+It diverts hydraulic fluid away from the main gear cylinders.
+It engages the emergency extension system for manual operation.
+
+What backup system is often used in larger and high-performance aircraft for emergency gear extension?
+@@Redundant hydraulic systems.
+A manual release handle.
+Electric motors for gear operation.
+
+Why might a landing gear retraction test be conducted following a hard or overweight landing?
+@@To check for potential malfunctions caused by impact stress.
+To adjust the aircraft’s tire pressure.
+To test the performance of the main hydraulic system.
+
+What should be inspected during a landing gear retraction test according to general inspection guidelines?
+@@Proper extension and retraction of the landing gear.
+The paint condition of the landing gear doors.
+The cleanliness of the aircraft tires.
+
+What might indicate an issue during a landing gear retraction test, requiring further investigation?
+@@Unusual sounds like rubbing, binding, or vibration.
+The speed of the gear extension being slower than usual.
+The emergency lights remaining off during the test.
+
+How do safety and proximity switches contribute to the landing gear system?
+@@They ensure the sequential operation of the landing gear based on the air-ground status of the aircraft
+They act as physical barriers to prevent the retraction of the gear
+They communicate directly with the pilot to inform them of flight speed
+
+Why is it important for ground locks to be placed during the post-landing walk-around?
+@@To ensure that the landing gear remains securely locked while the aircraft is on the ground
+To adjust the nose wheel alignment for the next flight
+To automatically retract the landing gear before takeoff
+
+What could happen if a nose wheel centering device fails to function properly?
+@@The nose gear might not align correctly, potentially causing damage during retraction
+The aircraft may lose control during takeoff
+The pilot may receive incorrect altitude information
+
+Why are gear position indicators important for pilots?
+@@They communicate the position status of each individual landing gear at any time
+They control the gear retraction process automatically
+They ensure the aircraft’s altitude remains stable during flight
+
+How does the solenoid mechanism work in conjunction with the squat switch during takeoff?
+@@The solenoid energizes, retracting the lock-pin from the selector handle, allowing the gear to be raised
+The solenoid deactivates, keeping the lock-pin in place to maintain the gear position
+The solenoid monitors aircraft speed and adjusts the landing gear automatically
+
+Why is it important for the centering cams to separate when weight returns to the wheels after landing?
+@@To allow the lower shock strut (piston) to rotate for steering the aircraft
+To engage the nose wheel retraction process
+To lock the landing gear in place for takeoff
+
+How does the guide pin on small aircraft function during the retraction of the strut?
+@@It engages a ramp or track that guides the nose wheel to straighten as it enters the wheel well
+It automatically locks the nose wheel in place
+It adjusts the altitude information for the pilot
+
+What role does the safety circuit play when the landing gear strut extends during takeoff?
+@@It allows current to flow, energizing the solenoid, which retracts the lock-pin from the selector handle
+It prevents the gear from retracting by maintaining the lock-pin in place
+It monitors the aircraft’s airspeed and adjusts gear position accordingly
+
+Question 4: Why are proximity sensors preferred over switches with moving parts in the landing gear environment?
+@@They are less susceptible to contamination from dirt and moisture
+They provide real-time speed data to the cockpit
+They require less power to operate during flight
+
+Question 5: What is one advantage of using proximity sensors in modern airline aircraft beyond the landing gear system?
+@@They monitor the position of cabin entry doors, cargo doors, and thrust reversers
+They control the engine power output based on proximity data
+They adjust the altitude based on sensor readings
+
+Question 6: How is proximity sensor information communicated to other systems in modern aircraft like the Boeing 777?
+@@Through ARINC 629 or 429 data buses
+Directly to the pilot via a manual control panel
+By wireless transmission to the aircraft control tower
+
+Question 7: What could be a consequence of an incorrectly installed proximity sensor target in the landing gear system?
+@@Incorrect voltage readings could lead to a false indication of gear position
+The landing gear might fail to retract due to temperature issues
+The aircraft’s speed monitoring system could become inaccurate
+
+How does the metering valve control the direction of hydraulic fluid in the nose wheel steering system?
+@@It directs hydraulic fluid under pressure to the actuators based on the steering input.
+It controls the air conditioning system.
+It monitors the fuel level.
+
+What happens when the piston in the compensator unit compresses the spring to 100 psi?
+@@The compensator poppet opens, routing return fluid into the hydraulic system return manifold.
+The nose gear retracts.
+The aircraft altitude is adjusted.
+
+What function does the follow-up mechanism perform in the nose wheel steering system?
+@@It returns the metering valve to a neutral position once the steering angle is reached.
+It controls the cabin lighting system.
+It measures the fuel quantity.
+
+What must be done to ensure that the steering system functions as a shimmy damper?
+@@The steering cylinders must be pressurized at all times.
+The flight control surfaces must be adjusted.
+The autopilot system must be disengaged.
+
+Why must a piston type shimmy damper be regularly checked for leaks?
+@@To ensure that it remains filled to capacity for proper operation.
+To adjust the alignment of the landing gear.
+To test the electrical components.
+
+How does a vane type shimmy damper dissipate gear oscillation?
+@@By controlling the rate at which fluid flows through the orifice between chambers.
+By using an electric motor to counteract vibration.
+By increasing air pressure in the chambers.
+
+What is the difference between non-hydraulic and hydraulic shimmy dampers?
+@@Non-hydraulic shimmy dampers use a rubber piston and do not contain fluid.
+Hydraulic shimmy dampers use an air-based system.
+Non-hydraulic shimmy dampers are filled with hydraulic oil.
+
+What mechanism does a non-hydraulic shimmy damper use to provide damping?
+@@A rubber piston rides on a thin film of grease to create surface effect damping.
+A metal piston forces hydraulic fluid through a valve.
+An electrical motor absorbs the shimmy motion.
+
+Why is it important to wipe clean the grease fitting before applying grease?
+@@To prevent dirt and debris from creating an abrasive compound.
+To make the grease application process easier.
+To ensure the grease adheres properly.
+
+What is over travel in the context of landing gear adjustment?
+@@The action of the cylinder piston beyond the necessary movement for extension and retraction.
+The distance the landing gear moves during landing.
+The total weight the landing gear can support.
+
+What must be inspected to ensure landing gear latches operate correctly?
+@@Clearances and dimensional measurements of rollers, shafts, and bolts.
+The color and texture of the latches.
+The amount of lubricant used on the latches.
+
+How are landing gear door latches typically disengaged in the gear-down sequence?
+@@By the spring load on the linkage.
+By applying hydraulic pressure.
+By manually pulling a release lever.
+
+What could happen if landing gear doors are too tight or too loose?
+@@Tight doors can cause structural damage, while loose doors can catch wind and lead to wear and potential failure.
+Tight doors enhance aerodynamics, while loose doors improve maintenance access.
+Tight doors prevent noise during flight, while loose doors decrease drag.
+
+How should adjustments to the side brace locking link be performed?
+@@The aircraft must be placed on jacks with the landing gear in the down position to adjust the lock link end fitting.
+The adjustments can be made without jacking the aircraft.
+Adjustments are only required during flight operations.
+
+What is the purpose of checking down lock spring tension?
+@@To ensure proper operation and secure locking of the landing gear in the down position.
+To determine the weight of the landing gear.
+To increase the speed of the landing gear retraction.
+
+What is the allowable tension range for the down lock spring on the landing gear?
+@@Between 40 and 60 pounds.
+Between 10 and 20 pounds.
+Between 70 and 90 pounds.
+
+What is the purpose of thermal plugs in the inner wheel half of high-performance aircraft wheels?
+@@To melt and deflate the tire before temperatures reach explosion levels.
+To prevent the wheel from rolling during landing.
+To enhance the aerodynamics of the aircraft.
+
+What happens if a thermal plug in the inner wheel half melts?
+@@The tire must be removed from service, and the wheel inspected before return to service.
+The tire can continue to be used without any issues.
+The aircraft must undergo a full maintenance check.
+
+Why is the bead seat area of the wheel critical?
+@@It accepts significant tensile loads from the tire during landing.
+It serves as a decorative feature of the wheel.
+It prevents air from escaping from the tire.
+
+What is the function of the overinflation safety plug in the inner wheel half?
+@@To rupture and release all air in the tire if it becomes over-inflated.
+To enhance the performance of the wheel during takeoff.
+To improve fuel efficiency by maintaining optimal tire pressure.
+
+What could happen if an axle nut is too loose on an aircraft wheel?
+@@The bearing cup could loosen and spin, damaging the wheel.
+The wheel could improve its performance.
+The wheel would remain unaffected.
+
+What should a technician look for when inspecting the wheels for overheating?
+@@Any signs of the fusible alloy in thermal plugs having melted.
+The color of the paint on the wheels.
+The size of the wheel assembly.
+
+What are the consequences of over-torquing an axle nut on an aircraft wheel?
+@@It can prevent the bearing from properly accepting the weight load, leading to bearing failure.
+It will enhance the performance of the wheel during takeoff.
+It has no effect on the wheel assembly.
+
+What must be secure for proper installation of the wheels on an aircraft?
+@@All wheel tie bolts and nuts.
+Only the tire pressure.
+The color of the wheel paint.
+
+Why is it important to let aircraft tires cool for three hours before removal?
+@@To prevent potential accidents caused by high temperature and pressure.
+To ensure that the technician can apply enough torque to the axle nut.
+To allow time for the wheel to deflate naturally.
+
+How should the wheel bearing be handled during disassembly?
+@@It should be removed and set aside for cleaning and inspection.
+It should be left in the wheel until the tie bolts are removed.
+It should be removed using an impact tool.
+
+Why is it critical to avoid abrasive techniques when cleaning the wheel halves?
+@@Abrasive methods can remove the wheel finish and lead to corrosion.
+It makes the cleaning process slower and less effective.
+It can cause the wheel to lose its balance.
+
+What is the recommended inspection method for detecting cracks in the bead seat area?
+@@Eddy current inspection.
+Dye penetrant inspection.
+Magnetic particle inspection.
+
+How should balance weights be managed during the inspection and cleaning process?
+@@They should be removed and re-fastened in their original position.
+They should be replaced with new weights after cleaning.
+They should be left in place and not removed during cleaning.
+
+Why should only one tire and wheel assembly be removed at a time from a pair?
+@@To minimize damage if the aircraft falls off its jack.
+To speed up the wheel inspection process.
+To allow both wheels to be cleaned simultaneously.
+
+Why should gasoline or jet fuel not be used to clean wheel bearings?
+@@They are not approved solvents and can damage the bearing surfaces.
+They are less effective at removing grease.
+They do not evaporate quickly enough for the drying process.
+
+How should a bearing cup be removed if it is firmly seated in the wheel half boss?
+@@Heat the wheel in a controlled oven and tap it out with a non-metallic drift.
+Use an impact tool to force the cup out of place.
+Apply cold water to loosen and remove the cup.
+
+What does a bluish tint on the bearing surface indicate?
+@@Overheating due to insufficient lubrication.
+Exposure to low temperatures during operation.
+Proper lubrication and maintenance.
+
+What is the main cause of false brinelling in wheel bearings?
+@@Vibration while the bearing is in a static state.
+Excessive torque during installation.
+Overheating from high-speed rotation.
+
+How should the wheel bearing be dried after cleaning?
+@@Direct a blast of dry air between the rollers without rotating the bearing.
+Use a cloth to wipe the surface of the bearing.
+Let it air dry naturally in an open area.
+
+What is the purpose of using a pressure bearing packing tool?
+@@To remove any contaminants from inside the bearing after cleaning.
+To seal the bearing for long-term storage.
+To apply a lubricant suitable for all types of bearings.
+
+How do carbon brakes compare to conventional steel brakes in terms of weight and performance?
+@@Carbon brakes are lighter and can withstand higher temperatures.
+Carbon brakes are heavier and have shorter lifespans.
+Carbon brakes perform similarly to steel brakes but are less expensive.
+
+What mechanism allows a fixed disc brake to apply equal pressure on both sides of the disc?
+@@The floating caliper design that adjusts position during braking.
+The rigid attachment of the disc to the wheel.
+The use of a single hydraulic piston for both sides of the disc.
+
+What is a significant advantage of segmented rotor disc brakes in large aircraft?
+@@They are designed to better dissipate heat generated during braking.
+They require less maintenance than traditional disc brakes.
+They are more complex and difficult to repair.
+
+What is a common issue with expander tube brakes that led to their decline in use?
+@@They tend to swell with temperature and may leak.
+They are too heavy for modern aircraft.
+They require frequent replacement of brake blocks.
+
+How does the self-adjusting feature in floating disc brakes work?
+@@It maintains a consistent clearance between the brake linings and the disc.
+It automatically increases brake pressure when needed.
+It adjusts the position of the caliper based on wear.
+
+How do power brakes differ from independent braking systems in terms of hydraulic pressure?
+@@Power brakes use the aircraft's main hydraulic system for pressure.
+Power brakes rely solely on the pilot's foot pressure.
+Power brakes require no hydraulic fluid at all.
+
+What is the role of the brake control valve in a power brake system?
+@@It directs hydraulic fluid to the brakes based on pedal input.
+It maintains a constant pressure regardless of pedal input.
+It prevents fluid loss in case of a hydraulic failure.
+
+How does the brake metering valve enhance the pilot's control during braking?
+@@It allows for proportional hydraulic fluid flow based on pedal pressure.
+It limits the maximum pressure applied to the brakes.
+It automatically engages the brakes when the gear is retracted.
+
+What role does the brake accumulator play in a power brake system?
+@@It serves as an emergency source of power for the brakes.
+It prevents hydraulic fluid leakage.
+It automatically applies the brakes during takeoff.
+
+How does the shuttle valve function in an emergency brake system?
+@@It shifts to accept an alternate source of brake power when primary pressure is lost.
+It maintains constant pressure in the brake system.
+It directs hydraulic fluid to the landing gear.
+
+What mechanism is used to hold the parking brake in place?
+@@A ratcheting system connected to the parking brake lever.
+A hydraulic lock that engages when pressure is released.
+An electronic sensor that detects the brake position.
+
+How does the emergency brake system ensure effective braking during hydraulic system failure?
+@@By utilizing independently supplied brake assemblies.
+By automatically applying the brakes when the pilot loses control.
+By diverting fuel to the brake system.
+
+What happens when the parking brake lever is pulled on the flight deck?
+@@The brakes are applied and a shut-off valve in the return line is closed.
+The hydraulic fluid is vented to the atmosphere.
+The aircraft's speed is increased to prevent rolling.
+
+How does the combination of a ratcheting system and a shut-off valve work in the parking brake system?
+@@It allows for the brakes to be held in place while trapping hydraulic fluid.
+It ensures that the brakes can only be applied during takeoff.
+It maintains constant pressure on the brake rotors.
+
+How does the anti-skid system anticipate and prevent a potential skid situation when the aircraft lands at high speed?
+@@It monitors the deceleration rate and adjusts hydraulic pressure accordingly.
+It waits for the pilot to manually adjust the brake pressure.
+It increases brake pressure immediately to slow down the wheels faster.
+
+What could happen if the anti-skid system fails to relieve hydraulic pressure when a skid is detected?
+@@The tire may blow out, leading to possible damage and loss of control.
+The aircraft will maintain its normal braking efficiency.
+The pilot will have to apply manual braking to correct the situation.
+
+Why is it essential for the anti-skid system to switch to manual braking mode when the aircraft slows to approximately 20 mph?
+@@For better control during taxi and ground maneuvering.
+To ensure the system continues operating efficiently until the aircraft stops.
+To maintain constant brake pressure regardless of wheel speed.
+
+How do wheel speed sensors contribute to the overall function of the anti-skid system?
+@@They provide real-time feedback on wheel speed to the control unit.
+They adjust hydraulic pressure levels directly.
+They indicate hydraulic fluid levels to the flight deck.
+
+What role does the control unit play in the anti-skid system’s operation?
+@@It processes signals from the wheel sensors to determine if a skid is imminent.
+It applies hydraulic pressure to the brakes.
+It monitors tire conditions and relays information to the flight deck.
+
+Why is it necessary for the anti-skid control valves to respond quickly to signals from the control unit?
+@@To adjust brake pressure precisely and avoid skidding.
+To manually engage the braking system if the pilot requests it.
+To release hydraulic fluid completely for emergency stops.
+
+What happens when the anti-skid system detects a wheel decelerating faster than a preset rate?
+@@Hydraulic pressure is reduced to that wheel to prevent skidding.
+The control unit increases hydraulic pressure to the wheel.
+The system signals the pilot to manually adjust the braking.
+
+Why might a locked wheel protection feature be crucial during landing?
+@@It ensures that the brakes are released if a wheel is not rotating, preventing tire damage.
+It applies additional pressure to keep the wheel in place.
+It overrides the anti-skid system to allow for faster deceleration.
+
+What happens if one wheel in a paired group rotates slower than the other during landing?
+@@The anti-skid system relieves pressure to balance the wheel speeds.
+The system engages full brake pressure to the slower wheel.
+The pilot is alerted to manually adjust the pressure.
+
+How does the anti-skid system contribute to overall safety during an aircraft’s landing sequence?
+@@By automatically preventing skidding and adjusting braking pressure for optimal performance.
+By maintaining manual control over the brake system for the pilot.
+By locking the wheels immediately to stop the aircraft faster.
+
+What function does the touchdown protection mode serve in an anti-skid system?
+@@It prevents brake pressure from building up before the aircraft makes contact with the runway.
+It engages the brakes as soon as the aircraft’s wheels touch the ground.
+It allows the pilot to manually control braking pressure upon landing.
+
+How does the control unit differentiate the speed of the wheel from the aircraft’s speed for optimum braking efficiency?
+@@It compares the output from the wheel sensor to a reference velocity loop.
+It uses a manual override switch to adjust the speed.
+It matches the hydraulic pressure based on the pilot’s input.
+
+What advantage does having individual control circuitry cards for each wheel provide in the Boeing anti-skid system?
+@@It allows for simultaneous operation and independent control of each wheel.
+It reduces the overall weight of the aircraft's braking system.
+It ensures all wheels receive the same hydraulic pressure regardless of speed.
+
+What might occur if the anti-skid control valve’s flapper position is not properly adjusted?
+@@The braking pressure could be too high or too low, leading to inefficient braking or skidding.
+The wheel speed sensor would fail to send accurate signals.
+The system would automatically switch to manual mode.
+
+How does the anti-skid system ensure that brake pressure is maintained within the effective braking range?
+@@By adjusting the flapper position in the anti-skid control valve to balance pressure.
+By constantly releasing hydraulic pressure regardless of wheel speed.
+By signaling the pilot to apply manual adjustments during landing.
+
+Why are anti-skid control valves positioned close to the main wheel assemblies?
+@@To provide quick access to hydraulic pressure and brake assemblies for efficient operation.
+To allow easy monitoring by the pilot during flight.
+To connect directly to the aircraft’s electrical system.
+
+What is the role of the comparator circuit in the Boeing anti-skid control system?
+@@It compares the speed of paired wheels to detect skidding and adjust brake pressure.
+It signals the pilot to monitor brake performance manually.
+It maintains a constant pressure regardless of wheel speed differences.
+
+In the anti-skid system, how does the transient control output contribute to preventing wheel skidding?
+@@It rapidly reduces brake pressure when a sudden skid is detected.
+It increases hydraulic fluid flow to counteract wheel deceleration.
+It overrides the wheel speed sensor for manual control.
+
+How does the anti-skid system use velocity reference loops to maintain effective braking?
+@@By comparing aircraft speed to wheel speed and adjusting brake pressure.
+By matching hydraulic pressure to the landing gear extension.
+By monitoring pilot input and adjusting accordingly.
+
+What could be the result of a malfunctioning anti-skid system during a landing?
+@@It may lead to uncontrolled skidding, tire damage, or loss of aircraft control.
+The aircraft would stop more quickly due to manual braking efforts.
+The system would automatically switch off without any impact.
+
+Why is it important to consult the manufacturer's maintenance manual when servicing brakes?
+@@To ensure correct procedures are followed for specific systems and prevent system failure.
+To compare wear levels of different brake components.
+To find the correct torque specifications for brake bolts.
+
+What are the consequences of not monitoring brake fluid quantity levels regularly?
+@@Insufficient fluid can lead to air entering the system, reducing brake performance and potentially causing failure.
+Fluid overflow can cause damage to the brake linings.
+Excess fluid can reduce braking efficiency by making the pedal too firm.
+
+What could happen if the brake linings are not replaced when worn beyond limits?
+@@The brakes will lose their effectiveness, possibly leading to a dangerous situation during landing or takeoff.
+The brake fluid may start to leak due to reduced pressure.
+The hydraulic system will overheat, causing the seals to fail.
+
+How do multiple disc brakes differ from other types when measuring lining wear?
+@@They are measured by the distance between the back of the pressure plate and the brake housing, unlike single disc systems which use wear indicator pins.
+They require manual adjustments for wear.
+They do not need regular wear monitoring.
+
+What steps should be taken to ensure brake linings are measured correctly when different assemblies use varying methods?
+@@The manufacturer’s maintenance instructions should be carefully followed to ensure the correct procedure is used for each specific brake system.
+Brake linings should be removed for accurate measurement.
+The wear indicator should be tested after each brake application to check for accuracy.
+
+How should linings on multiple disc brakes be measured for wear during routine maintenance?
+@@The distance between the pressure plate and brake housing should be measured when the brakes are applied.
+The wear pin should be checked for protrusion beyond the nut.
+The hydraulic fluid pressure should be monitored for changes.
+
+What is the proper procedure for measuring brake wear using a wear indicator pin on Goodyear brakes?
+@@Measure the length of the pin where it protrudes through the nut of the automatic adjuster.
+Compare the pin's length to the hydraulic pressure in the system.
+Measure the distance between the pin and the brake linings.
+
+Why is it crucial to bleed brake systems after repairs involving opening the brake system?
+@@Any trapped air must be removed to prevent spongy brake feel and ensure firm brake pedal response.
+It is necessary to remove excess fluid to maintain system balance.
+To avoid overheating the hydraulic fluid, which could damage the system.
+
+What steps should be taken to properly bleed a master cylinder brake system using pressure bleeding?
+@@Attach the pressure tank hose to the bleed port, open the valve to allow fluid flow, monitor for air bubbles, then close the bleed port when bubbles stop.
+Pump the brake pedal to build pressure, then open the bleed valve to release air.
+Remove the master cylinder and flush the system with new hydraulic fluid.
+
+What are the potential risks of improper bleeding of power brake systems?
+@@Air trapped in the system could be forced into the main hydraulic system, leading to potential system failure.
+Hydraulic fluid may overheat, causing damage to the brake assembly.
+Brake linings could wear unevenly, causing inefficient braking.
+
+Why must air be carefully removed from power brake systems during the bleeding process?
+@@Trapped air can cause malfunctioning of both the brake and the hydraulic system, compromising the aircraft’s overall safety.
+Air can reduce brake lining wear resistance, causing premature replacement.
+Air will cause the hydraulic fluid to foam, reducing braking power.
+
+What are the risks of mixing different types of hydraulic fluid in aircraft brake systems?
+@@Mixing fluids can cause deterioration and failure of seals, requiring the system to be fully evacuated and seals replaced before the aircraft is deemed airworthy.
+It can lead to increased brake fluid pressure, making the brakes too sensitive.
+The fluid mixture may cause the brake linings to harden prematurely.
+
+What could happen if a brake system fitting is overtightened?
+@@Overtightening can damage the fitting, potentially worsening leaks and causing brake system failure.
+It may seal the system completely, preventing fluid flow.
+The brake lining could become loose, leading to ineffective braking.
+
+How does the presence of leaks in a brake system affect performance, and what should be done when leaks are found?
+@@Leaks reduce hydraulic pressure, weakening braking power. Any leaks should be investigated and repaired, and the system re-pressurized to check for further leaks.
+Leaks increase brake lining wear, requiring frequent replacement.
+Leaks may cause the brakes to lock up, so the system should be flushed.
+
+Why must the brake system be re-pressurized after a leak repair?
+@@To ensure the system functions properly and no further leaks are present.
+To restore hydraulic fluid levels to optimal pressure.
+To remove air trapped in the fluid lines.
+
+Why should the technician ensure correct bolt torque during brake assembly attachment?
+@@Improper torque can cause the brakes to become loose, leading to failure during landing or takeoff.
+It increases hydraulic fluid pressure, causing brake failure.
+It ensures the brake linings wear evenly.
+
+Why is using non-approved hardware in aircraft brake systems dangerous?
+@@Substituting standard hardware for specialized brake components can lead to brake failure due to differences in material strength and tolerance.
+Non-approved hardware may increase system pressure, causing brake drag.
+Non-standard parts may cause misalignment of brake linings and discs.
+
+What must be done if excessive brake disc glazing is observed during inspection?
+@@The brake disc may need to be resurfaced or replaced if allowed by the manufacturer.
+The brake linings should be replaced with harder material to prevent further glazing.
+The hydraulic fluid should be drained and replaced to reduce brake temperature.
+
+How can uneven brake lining wear be prevented, and what should be done if uneven wear is detected?
+@@Regularly monitor brake wear and check for misaligned parts. If uneven wear is detected, adjust or replace the affected components according to manufacturer’s guidelines.
+Add more hydraulic fluid to compensate for wear.
+Bleed the system frequently to remove any trapped air causing the issue.
+
+What can be the result of excessive glazing on brake discs, and what should be done if glazing is found?
+@@Excessive glazing leads to brake squeal and chatter. The disc should be resurfaced or replaced if allowed by the manufacturer.
+Glazing increases hydraulic fluid usage, so the system should be refilled.
+Glazed discs should be cleaned with a solvent to restore performance.
+
+Why is magnetic particle inspection used on torque tubes during brake system maintenance?
+@@To detect cracks that may not be visible during visual inspection, ensuring the tube’s integrity and preventing failure.
+To ensure the tube is aligned correctly within the system.
+To check for air pockets within the torque tube.
+
+What type of damage should be inspected in brake housings?
+@@Scratches, gouges, and cracks.
+Worn-out brake linings.
+Misaligned brake discs.
+
+What should be done if a brake housing is found with cracks?
+@@The housing must be replaced.
+The cracks should be filled and the housing re-installed.
+The cracks should be ignored if they are minor.
+
+What is the role of Teflon® back-up rings in brake seal grooves?
+@@To support the O-ring seals and reduce the risk of fluid leakage.
+To absorb excess hydraulic fluid.
+To prevent corrosion in the brake system.
+
+Why is it essential to monitor and replace brake seals regularly during off-aircraft brake maintenance?
+@@Over time, seals harden and lose their elasticity, leading to leaks that can compromise brake performance or cause failure.
+Seals can expand and reduce hydraulic pressure if not maintained.
+Worn seals cause excessive wear on brake linings, leading to overheating.
+
+What are the risks of not replacing worn seals in brake assemblies?
+@@Worn seals can leak, causing loss of brake power and eventual system failure. Seals should be replaced during routine maintenance to avoid brake failure.
+They may cause the brake linings to overheat, reducing effectiveness.
+Seals prevent air from entering the hydraulic system, so failure to replace them leads to air pockets.
+
+How does brake overheating lead to system failure, and what steps should be taken if overheating is detected?
+@@Overheating weakens brake components, causing potential failure under high-pressure braking. The system must be removed and inspected for cracks, warping, and loss of heat treatment.
+The hydraulic fluid should be drained and the system left to cool before reuse.
+Brake linings should be immediately replaced, even if no visible damage is present.
+
+How does overheating affect brake linings and discs, and what should be inspected after brake overheating?
+@@Overheating weakens both linings and discs, which must be inspected for warping, cracks, and damage to surface treatments.
+Overheating increases hydraulic pressure, requiring fluid replacement.
+The entire brake system must be removed and cleaned after overheating.
+
+How does brake drag caused by air in the brake fluid impact the system during operation?
+@@Air expands with heat, pushing the brake linings against the disc and causing continuous braking, leading to excessive wear and possible overheating.
+The air reduces hydraulic pressure, preventing the brakes from engaging properly.
+Air creates resistance in the brake lines, causing slow brake response.
+
+What must be checked when a brake system shows signs of dragging?
+@@The return mechanism, such as return springs and auto-adjusters, must be inspected for malfunction. The system should also be checked for air in the brake fluid.
+The brake housing must be cleaned to ensure no foreign objects are causing drag.
+The hydraulic system must be bled and refilled with new fluid to restore proper pressure.
+
+What steps must be taken when brake drag is caused by air in the fluid line?
+@@The brakes should be bled to remove the air, preventing expansion and further drag.
+The hydraulic system should be drained and cleaned to remove impurities.
+The brake assembly should be removed and inspected for damage.
+
+What should be done if the brake return mechanism is not functioning correctly, causing brake drag?
+@@The auto-adjusters and return springs should be inspected for weakness or slippage and replaced if necessary.
+More hydraulic fluid should be added to compensate for the drag.
+The brake discs should be replaced with newer ones.
+
+What causes brake chatter or squeal, and how can it be corrected?
+@@Warped discs or misaligned brake stacks can cause chattering and squealing. Correcting disc alignment or replacing the warped discs resolves the issue.
+Excessive air in the hydraulic fluid increases resistance, leading to noise.
+Overuse of the brake system may cause overheating, resulting in squealing.
+
+What is the purpose of the air-ground sensing system in modern aircraft?
+@@To determine if the aircraft is in the air or on the ground.
+To monitor the cabin temperature.
+To provide entertainment to passengers.
+
+Which system in an aircraft uses air-ground status information to control the electrical power distribution?
+@@Air-ground relays.
+Cabin Temperature Controllers (CTC).
+Passenger Address/Cabin Interphone (PA/CI).
+
+What happens when the gear beam structure bends under the weight of the aircraft?
+@@The WOW load sensors send a signal to the WOW cards for processing.
+The autopilot system disengages.
+The backup generator converter activates.
+
+Why are electrostatic precautions necessary when handling WOW cards?
+@@Because WOW cards are electrostatic sensitive.
+Because they control cabin pressure.
+Because they monitor the fuel level.
+
+What is a significant advantage of using load sensors instead of proximity switches for air- ground sensing?
+@@Load sensors can capture the weight of the aircraft when on the ground.
+Proximity switches are more durable than load sensors.
+Proximity switches are easier to maintain.
+
+How do WOW load sensors measure the strain on the landing gear beam?
+@@By measuring the change in distance between sensor parts as the gear beam bends.
+By detecting the temperature of the landing gear beam.
+By measuring the vibration levels of the gear.
+
+What must be done when replacing a WOW sensor to ensure proper operation?
+@@The sensor must be calibrated.
+The landing gear must be replaced.
+The autopilot system must be tested.
+
+Which statement best describes how the WOW (Weight on Wheels) system provides information to other aircraft systems?
+@@WOW sensors send analog signals to WOW cards, which convert them to digital for system-wide communication.
+WOW cards send analog signals directly to avionics systems.
+WOW sensors generate digital signals that are sent via a fiber optic bus.
+
+What must be done if a WOW card is replaced during maintenance?
+@@All associated strain load sensors must be recalibrated.
+Adjust the landing gear mechanical stops.
+Only verify data bus connectivity.
+
+Which best describes the type of sensor used for air-ground sensing in modern aircraft?
+@@Variable reluctance strain measurement device
+Magneto-resistive proximity sensor
+Linear proximity switch
+
+Why do modern airliners prefer strain gauge load sensors over traditional squat switches?
+@@They allow precise detection of aircraft weight on wheels and better system integration.
+They reduce hydraulic pressure on landing
+They are easier to replace.
+
+What is the primary mechanical principle used by load sensors in air-ground sensing systems?
+@@Bending of the gear beam alters the distance between sensor parts
+Mechanical contact switches detect shock loads on landing
+Changes in hydraulic pressure detected through diaphragm sensors
+
+Which of the following systems does NOT rely directly on air-ground sensing data?
+@@Engine Oil Pressure Transmitter
+Electrical Load Management System (ELMS)
+Flap Slat Electronic Unit (FSEU)
+
+What type of signal do the strain gauge sensors initially generate in an air-ground sensing system?
+@@Analog electrical signal
+Direct digital output
+Pulse-width modulated (PWM) signal
+
+The WOW load sensors used in modern aircraft are composed of:
+@@Two parts: one coil assembly and one magnetic target
+One hydraulic sensor and one proximity switch
+One sensor with an LED emitter and optical receiver
+
+Where can the status of the air-ground system be monitored and tested on modern aircraft?
+@@On the landing gear maintenance page within the aircraft information management system
+On the engine status panel of the overhead console
+On the EICAS fault summary page
+
+What is the main benefit of using load sensors over squat switches for air-ground sensing?
+@@They provide weight and contact status
+They replace the landing gear functions
+They allow mechanical backup sensing
+
+How do the load sensors detect ground contact?
+@@Varying distance between parts changes the signal
+They trigger a digital switch
+They activate hydraulic pressure sensors
+
+Which unit receives the analog signal from load sensors?
+@@WOW card
+FQIS
+BPCU
+
+What is required when replacing a WOW card?
+@@Sensor calibration
+Pressure test
+Reset circuit breaker
+
+What safety precaution is necessary when handling WOW cards?
+@@ESD protection
+Wear safety boots
+Lower the landing gear
+
+What type of signal is sent from the load sensor to the WOW card?
+@@Analog
+Digital
+Binary
+
+Where can technicians test air-ground sensing modes?
+@@AIMS maintenance page
+Main circuit breaker panel
+Flap control unit
+
+Which of the following best explains why a shock-absorbing tail skid is preferable on large transport aircraft?
+@@It reduces structural damage by absorbing impact forces during a tail strike
+It prevents tail strikes by limiting pitch movement
+It improves take-off performance by reducing tail drag
+
+A tail strike occurs during landing on a long-fuselage aircraft. Which factor most likely contributed to the incident?
+@@Late and aggressive flare by the flight crew
+Excessive nose-down trim during final approach
+Early deployment of speed brakes
+
+What is the primary difference between a rigid tail skid and a shock-absorbing skid?
+@@Shock-absorbing skids contain mechanisms that dissipate impact energy
+Rigid skids automatically retract during take-off
+Rigid skids are made of flexible materials to absorb energy
+
+Which operational practice helps minimize the risk of tail strike during take-off?
+@@Gradually increasing pitch during rotation
+Using maximum elevator input at once
+Rotating the nose rapidly once V1 is reached
+
+Why is a retractable tail skid used in some specialized aircraft?
+@@It reduces drag during flight and extends only when needed
+It acts as a secondary landing gear
+It allows for higher energy absorption during landing
+
+What is the main operational difference between the ATR72 tail bumper and the B787 tail skid?
+@@The ATR72 bumper is fixed, while the B787 tail skid includes energy absorption and indication systems
+Both are retractable systems with active energy absorption
+The ATR72 bumper retracts during flight while the B787 tail skid is fixed
+
+In the B787, how is a tail strike electronically detected and reported?
+@@RDC detects wire break continuity and sends messages to EICAS via CCS
+The proximity sensors activate the braking system
+The tail skid sends a signal directly to the flight data recorder
+
+What must be done after a suspected tail strike on an ATR72?
+@@Perform a detailed inspection of the tail bumper and lower fuselage skin
+Replace the tail bumper immediately
+Reset the proximity sensor circuit
+
+Where is the tail strike module typically located on a B787?
+@@On the aft bottom fuselage, forward of the aft pressure bulkhead
+Inside the landing gear bay
+On the upper rear fuselage
+
+What happens when both wire loops in the B787 tail strike module show continuity breaks?
+@@A tail strike caution message appears on EICAS
+The tail skid automatically retracts
+A tail strike status message is displayed
+
+When a tail strike is suspected, what is the most appropriate maintenance action?
+@@Conduct visual inspection and follow AMM ATA 32 procedures
+Replace the horizontal stabilizer immediately
+Perform engine ground run and monitor tail temperature
+
+Which of the following components may require replacement after a tail strike on some aircraft types?
+@@Crushable cartridge or skid shoe
+Rudder trim actuator
+Fuel pressure regulator

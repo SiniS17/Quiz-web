@@ -1,0 +1,119 @@
+What are common examples of aircraft exterior lights?
+@@Position, anti-collision, landing, and taxi lights
+Cabin lights and reading lights
+Navigation lights and instrument lights
+
+What is the main purpose of position lights on an aircraft?
+@@To indicate the aircraft's position
+To illuminate the runway
+To help passengers find their seats
+
+Which exterior light is primarily used during landing and takeoff?
+@@Landing light
+Anti-collision light
+Wing inspection light
+
+How are the circuits for cargo compartment lights protected?
+@@Circuit breakers
+Fuses
+Ground wires
+
+Where are lighting strips and exit lights located in an aircraft?
+@@In the floor and at exit points
+On the overhead bins
+In the cockpit
+
+What areas do emergency lights illuminate during an emergency evacuation?
+@@The over-wing area at emergency exits and on the escape slides
+The wings and tail section
+The cockpit and the loading area section
+
+What happens to most emergency lights during a total electrical failure?
+@@They revert to dedicated batteries
+They increase in brightness
+They shut down
+
+What type of batteries are commonly used in emergency EXIT/area lights?
+@@NiCad batteries
+Lead-acid batteries
+Lithium-ion batteries
+
+Where are anti-collision lights usually installed on an aircraft?
+@@On top of the fuselage or tail
+On the wings
+On the landing gear
+
+Which type of anti- collision light produces an extremely bright intermittent flash of white light?
+@@Strobe light
+Incandescent light
+Halogen light
+
+How is the light produced in a strobe light?
+@@By a high voltage discharge in a sealed xenon-filled tube
+By heating a filament
+By using a solar panel
+
+What type of light do strobe lights produce?
+@@An extremely bright intermittent flash of white light
+A continuous beam of red light
+A continuous beam of blue light
+
+What component supplies voltage to the sealed xenon-filled tube in a strobe light?
+@@A dedicated power pack
+A battery
+A manual switch
+
+A set of position lights consist of ?
+@@One red, one green, and one white light
+One red, one blue, and one white light
+One red, one green, and one blue light
+
+How are wingtip clearance lights controlled on some aircraft?
+@@By the same circuitry as the taxi lights
+By the independent circuitry with the taxi lights
+By operate wingtip lights switch
+
+Which additional lights might supplement dual taxi lights on some aircraft?
+@@Wingtip clearance lights
+Tail lights
+Strobe lights
+
+What is the purpose of a dimming resistor in the landing light circuit of some aircraft?
+@@To provide reduced illumination for taxiing
+To increase power consumption
+To change the color of the light
+
+How can the landing lights be reduced illumination for taxiing ?
+@@By a dimming resistor
+By decrease the voltage supply
+By using dimming protector
+
+Where can crews control passenger cabin lights ?
+@@Interface panels
+Cabin lights control panel in the cockpit
+Passenger lights control panel in the cockpit
+
+What area does the door sill light illuminate?
+@@Outside the cargo compartment
+Inside the cargo compartment
+Cargo loading control panel area
+
+What voltage is used for fluorescent lights on Boeing aircraft?
+@@115 VAC
+220 VAC
+28 VAC
+
+What component is responsible for providing the high voltage for strobe lights?
+@@A capacitor
+A transformer
+A high voltage protector
+
+How are certain emergency lights automatically switched in case of partial electrical failure?
+@@By switching to the hot DC battery bus
+By switching to the AC bus
+By using a remote control
+
+What is the role of solid-state switching logic in emergency EXIT/area lights?
+@@To manage the switching and battery charging processes
+To enhance illumination intensity
+To adjust the light color

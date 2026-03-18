@@ -1,0 +1,1286 @@
+The smallest part of metter is:
+@@An atom
+A compound
+A molecule
+
+The number of electrons and neutrons in each atom:
+@@The same
+The number of electrons less than neutrons
+The number of electrons more than neutrons
+
+What do you get when you add H₂ and O₂
+@@H₂O
+H₂O₂
+HO
+
+Which is correct statement?
+@@Atoms of the same or different elements may chemically bond to form a molecule
+Only atoms of the same element  may chemically bond to form a molecule
+Only atoms of the different elements may chemically bond to form a molecule
+
+The second shell of the atom has
+@@maximum 8 electrons
+maximum 2 electrons
+maximum 18 electrons
+
+The charge on a proton is:
+@@Positive
+Neutral
+Negative
+
+What determines the physical state of matter in a substance?
+@@The degree of motion between atoms and molecules due to heat energy
+The weight of individual atoms in the substance
+The amount of electrical charge on the atoms
+
+Why is an atom electrically neutral?
+@@it has equal numbers of protons and electrons
+Neutrons cancel out the charges of protons and electrons
+Protons and electrons are located in the same place inside the atom
+
+Why do elements like hydrogen and copper have different physical and chemical properties?
+@@Each element contains a unique number of protons, neutrons, and electrons
+They have different numbers of electrons and neutrons but the same number of protons
+They have different numbers of electrons and protons but the same number of neutrons
+
+What happens to the properties of a substance when atoms of different elements bond to form a molecule?
+@@The molecule has new properties that are completely different from those of the individual elements
+The molecule has the same properties as the most abundant element in it
+The molecule retains all the properties of the individual elements
+
+How electrons are arranged in an atom’s shells as more electrons are added?
+@@Electrons fill the closest shell to the nucleus first, and then continue filling outer shells in a specific order based on their maximum capacity
+Each shell can hold an unlimited number of electrons as long as the atom is stable
+Electrons fill the outermost shell first and then move inward as needed.
+
+How does the number of electrons in an atom’s valence shell affect its electrical conductivity?
+@@Atoms with complete valence shells are known as good insulators
+Atoms with complete valence shells are known as conductors
+Atoms with incomplete valence shells do not bond with other atoms
+
+What type of substance allows electrons to move freely from one atom to another
+@@A conductor
+An insulator
+A covalent compound
+
+What is the purpose of a covalent bond between atoms?
+@@To allow atoms to share valence electrons and complete their valence shells
+To transfer electrons from one atom to another and form charged ions
+To equalize the number of protons and electrons in the atom
+
+Why can mixtures usually be separated by physical means?
+@@The components of a mixture are not chemically bonded
+Mixtures involve chemical bonds that are weaker than those in compounds
+Mixtures are made of atoms from the same element
+
+It is the influence tending to change the motion of a body or produce stress in a stationary body?
+@@Force
+Stress
+Monent
+
+What is unit of the moment of force?
+@@Pound-inches
+Kilogam-metre
+Newton-inches
+
+The effect of force acting on a stationary body or structure is called?
+@@Stress
+Strain
+Power
+
+Two couples with magnitude F act against each other. The resultant will be
+@@0
+2F
+-2F
+
+What is ratio that called the gravitational field strength?
+@@Weight/mass
+Force/mass
+Weight/force
+
+The pull of gravity on a mass is called:
+@@Weight
+Lift
+Tension
+
+What is the stress that resists twisting ?
+@@Torsion
+Compression
+Shear
+
+What is the stress that resists a crushing force ?
+@@Compression
+Tension
+Shear
+
+What is the tensile strength of a material measured?
+@@Pounds per square inch
+Pound-inches
+Newton per square inch
+
+What is the stress that resists the force tending to cause one layer of a material to slide over an adjacent layer?
+@@Shear
+Compression
+Tension
+
+The pressure exerted on the bottom of a container by a liquid is determined by
+@@The height of the liquid
+The shape of the container
+The density of the liquid
+
+What is correct statement for atmospheric pressure?
+@@Pressure decreases with increased altitude
+Pressure increases with increased altitude
+Atmospheric pressure does not change at any altitude
+
+What is the standard pressure at sea level?
+@@29.92 inHg
+20.58 inHg
+10.1 inHg
+
+What is factor the moment of force depend on?
+@@Magnitude of the force
+Time of the force apply
+The rotation direction of the  force
+
+A wrench is used to tighten a bolt. If a force of 50 N is applied perpendicular to the wrench at a distance of 0.3 meters from the bolt, what is the moment of force acting on the bolt?
+@@15Nm
+20Nm
+25Nm
+
+A force 10 n is placed 2 meters from a pivot point, what is the moment?
+@@20Nm
+25Nm
+3Nm
+
+Calculate the tensile strength of a material has a circular cross-sectional area of 20 square inches and breaks under a force of 10,000 pounds
+@@500 psi
+200,000 psi
+5,000 psi
+
+When the airplane is on the ground sitting on its landing gear:
+@@The bottom of the wing is compressed
+The bottom of the wing is under tension
+The bottom of the wing is sheared
+
+A material to return to its original shape after being affected by a force such as stretching or bending is called:
+@@Elasticity
+Strain
+Bending stress
+
+The water column has a height of 231 inches on a surface area of 1 in² would exert a pressure on the bottom is
+@@8.34 psi
+23.1 psi
+2.31 psi
+
+Pressure due to the height of a fluid column is known as
+@@Static pressure
+Dynamic pressure
+Total pressure
+
+When a fluid is in motion, and its velocity is converted to pressure, that pressure is known as
+@@Ram pressure
+Static pressure
+Total pressure
+
+An object is placed in fluid, if upward force of the fluid is greater than the weight of the object, this object will:
+@@Float
+Sink
+50% submerged
+
+A 10-ft³ object weighing 700 lbs. is placed in pure water(density of pure water is 62.4 lbs), the object will
+@@sink
+Float
+10% submerged
+
+A 10-ft³ object weighing 700 lbs. is placed in pure water(density of pure water is 62.4 lbs), The difference between the buoyant force and the object's weight will be
+@@76 lbs
+70 lbs
+537.6 lbs
+
+If the distance is measured in miles and the time in hours, the units of speed will be
+@@Miles per hour
+Miles hour
+Hour per miles
+
+What is SI unit of acceleration?
+@@Metre per second per second
+metre per second
+Metre  second squared?
+
+What is correct statement for first law of Newton,s law?
+@@Objects at rest tend to remain at rest and objects in motion tend to remain in motion at the same speed and in the same direction, unless acted on by an external force
+When a force acts upon a body, the momentum of that body is changed. The rate of change of momentum is proportional to the applied force
+if a force is applied to an object, the object will supply a resistive force exactly equal to and in the opposite direction of the force applied
+
+The force that acts on a body to cause it to rotate in the circular path is called:
+@@Centripetal force
+Centrifugal force
+Inertia force
+
+Which of the following statement describes centrifugal force?
+@@Equal to centripetal force and acts in the opposite direction
+Greater to centripetal force and acts in the opposite direction
+Smaller to centripetal force and acts in the opposite direction
+
+The period of simple pendulum is:
+@@Independent of its mass
+Independent on the length of the suspending rod
+Dependent of its mass
+
+Which is correct statement for the speed?
+@@The speed of an object tells nothing about the direction an object is moving
+Speed can be defined as the rate of motion in a particular direction
+Speed is described as being a vector quantity
+
+An aircraft travels at 500 km/hr for 30 minutes at steady speed. How far does it move in that time ?
+@@250 km
+500 km
+100 km
+
+An Airplane is cruising at 400 mph. The pilot advances the throttles to full after burner and accelerates to 1,200 mph in 20 seconds. What is the average acceleration in mph/s?
+@@40 mph/s
+58.7 mph/s
+120 mph/s
+
+If a body starts at rest and reaches 84 m/s in 3 seconds, its acceleration is
+@@28 m/s²
+14 m/s²
+252 m/s²
+
+When an airplane is brought to a sudden halt and the passengers are thrown forward in their seats. The motion of passengers is described by
+@@Newton’s first law of motion
+Newton’s second law of motion
+Newton’s third law of motion
+
+What factor is acceleration of a body depend on?
+@@Mass of body
+Time of force apply to body
+Point of body that force apply to
+
+A turbojet engine is moving 150 lb. of air per second through the engine. The air enters going 100 fps and leaves going 1,200 fps. How much thrust, in pounds, is the engine creating?
+@@5,124 lb
+51,24 lb
+512 lb
+
+A man stands on the floor, the floor exerts a force against his feet exactly equal to his weight, this action is described by
+@@Newton’s third law of motion
+Newton’s second law of motion
+Newton’s first law of motion
+
+What is correct statement for centripetal force?
+@@Is inversely proportional to the radius of the circle in which an object travels
+Is directly proportional to the radius of the circle in which an object travels
+Is always inversely proportional to the mass of the object in circular motion
+
+What would the centripetal force be if a 10-pound weight was moving in a 3ft radius circular path at a velocity of 500 fps?
+@@25,880 lb
+15,000 lb
+16,666 lb
+
+The osillation produced by a pendulum 2500mm long has a periodic time of:
+@@3 seconds
+300 miliseconds
+1.25 seconds
+
+How is the lever  balanced when Increasing the distance from the applied effort to the fulcrum if the fulcrum is located between the effort and the resistance?
+@@By increasing the distance from the fulcrum to the resistence
+By decreasing the distance from the fulcrum to the resistence
+By increasing the applied effort
+
+What is called for the ratio of load to effort (force out/force in)?
+@@Mechanical advantage
+Velocity ratio
+Mechanical ratio
+
+The distance from the center of the wheel to the handles on a wheelbarrow is 60 inches. The weight in the bucket is 18 inches from the center of the wheel. If 300 lbs. is placed in the bucket, how much force must be applied at the handles to lift the wheelbarrow?
+@@90 lb
+1000 lb
+324000 lb
+
+How is the mechanical advantage when a first-class lever has equal arms?
+@@1
+0.5
+2
+
+When a single fixed pulley has equal arms:
+@@The force of the pull on the rope must be equal to the weight of the object being lifted
+The force of the pull on the rope must be greater to the weight of the object being lifted
+The force of the pull on the rope must be smaller to the weight of the object being lifted
+
+How is the mechanical advantage when a single pulley has equal arms?
+@@2
+1
+3
+
+If someone pulled in 4 ft of the effort rope, the weight would only rise off the floor 2 ft. If the weight was 100 lb, the effort applied would only need to be
+@@50 lb
+100 lb
+150 lb
+
+The block and tackle are made up of four pulleys, the top two being fixed and the bottom two being movable, If the weight was 200 lbs., it would require a effort to lift it is:
+@@50 lb.
+800 lb
+200 lb
+
+the two gears turn in opposite directions. The gear is 9 inches in diameter and has 45 teeth, and theother gear is 12 inches in diameter and has 60 teeth. The mechanical advantage would be:
+@@0.75
+0.15
+0.2
+
+What is main purpse of the bevel gear?
+@@Is used to change the plane of rotation
+Is used to change the speed of rotation
+Is used to change the ratio of transmition
+
+A pinion gear with 10 teeth is driving a spur gear with 40 teeth. The spur gear is rotating at 160 rpm. Determine the speed of the pinion gear.
+@@640 rpm
+400 rpm
+6400 rpm
+
+What is the ratio of cruising speed to maximum speed? If the cruising speed of an airplane is 200 knots and its maximum speed is 463 km/h
+@@4:5
+2:4.63
+200:463
+
+The ramp it is sitting on is 6 inches tall (resistance arm) and the length of the ramp is 24 inches (effort arm). Calculate the force needed to push the airplane has weighed 1,600 lb up the ramps
+@@400 lb
+960 lb
+144 lb
+
+What is relationship between the mass and weight?
+@@Weight = Mass × Gravity
+Mass = Weight × (Gravity)²
+Weight = Mass : Gravity
+
+What work is done if a force of 100 N moves a body 15 metres?
+@@1.5 kJ
+15 kJ
+150 kJ
+
+What power would be needed to raise the GE-90 turbofan engine into position to install it on a Boeing 777-300 airplane? The engine weighs 19 000 lbs and it must be lifted 4 ft in 2 minutes.
+@@38 000 ft-lb/min
+33 000 ft-lb/min
+11 500 ft-lb/min
+
+A Boeing 747 weighing 450,000 pounds needs to be raised 4 feet in the air so maintenance can be done on the landing gear. How much potential energy does the airplane possess because of this raised position?
+@@1,800,000 ft-lb
+112,500 ft/lb
+180,000 ft-lb
+
+A Boeing 777 weighing 600,000 lbs. is moving down the runway on its takeoff roll with a velocity of 200 fps. How many foot-pounds of kinetic energy does the airplane possess?
+@@372,670,000 ft-lb
+120,000,000 ft-lb
+240,000,000 ft-lb
+
+How many kinds of friction are there?
+@@3
+2
+4
+
+What type of friction requires the greatest force to overcome it?
+@@Static friction
+Dynamic friction
+Rolling friction
+
+What force must be exerted by the towing vehicle to keep the airplane with a gross weight of 79,600 lbs rolling after once set in motion over a concrete ramp? (the coefficient of rolling friction is 0.02 mu)
+@@1,592 lb
+3,980 lb
+39,800 lb
+
+What is the coefficient of static friction?
+@@The coefficient of static friction is the friction force between two objects when neither of the objects is moving
+The coefficient of static friction is the force between two objects when one object is moving
+The coefficient of static friction is the force between two objects if both objects are moving against one another
+
+When we calculate the thrust of a turbine engine, we use the formula:
+@@Force = Mass × Acceleration
+Force = Mass ÷  Acceleration
+Force = (Mass)2  ÷  Acceleration
+
+To calculate Work, we use the formula:
+@@Work = Force (F) × distance (d)
+Work = Force (F) ÷  distance (d)
+Work = (Force (F) × distance (d)) ÷  2
+
+To calculate Power, we use the formula:
+@@Power = Force × distance ÷ time
+Power = Force ÷  distance × time
+Power = 2(Force × distance) ÷ time
+
+To calculate Torque, we use the formula:
+@@Torque = Force × distance
+Torque = Force ÷  distance
+Torque = 2Force ÷  distance
+
+What is relationship between the horsepower of an engine and the torque of an engine?
+@@Torque = Horsepower × 5,252 ÷ rpm
+Torque = Horsepower × 5,252 × rpm
+Torque = Horsepower ÷ 5,252 ÷ rpm
+
+Why do most engines operate at only 25–35% efficiency?
+@@Because significant energy is lost as heat during combustion, and parts of the engine absorb this heat instead of converting it into mechanical motion
+Because engines burn fuel unevenly, causing inconsistent combustion pressure
+Because engine cooling systems remove energy faster than it can be used to produce work
+
+What is the momentum of a ball of mass 2 grams and has a velocity of 10cm/s?
+@@0.0002 kg.m/s
+5 kg.m/s
+20 kg.m/s
+
+What is factor the gyroscopic rigidity depends upon?
+@@Weight
+Diameter of rotor
+Diameter of bearing
+
+To calculate Momentum, we use the formula:
+@@Momentum = Force ÷  Acceleration x Velocity
+Momentum = Force x  Acceleration x Velocity
+Momentum = Force ÷  Acceleration ÷ Velocity
+
+When two objects collide, why do they experience different accelerations?
+@@Because the objects experience equal forces, but acceleration depends on mass
+Because momentum cancels out the effect of force in collisions between unequal objects
+Because force is only applied to the object with greater momentum
+
+Which combination of factors contributes most to a gyroscope’s rigidity, allowing it to maintain a stable reference in space?
+@@High mass concentrated at the rim, high angular velocity, and minimal bearing friction
+Low angular velocity and lightweight rotor with evenly spread mass
+High bearing friction, low mass, and central weight distribution
+
+How does a gyroscope react to an applied force on its spinning rotor?
+@@It reacts 90° ahead in the direction of spin, with motion occurring in a plane perpendicular to the applied force
+It rotates in the direction opposite the applied force due to friction in the bearings
+It responds by tilting directly at the point where the force is applied
+
+What are important characteristics of gyroscopic action?
+@@Rigidity in space and precession
+Precession and magnetic alignment
+Acceleration and inertia
+
+What does "rigidity in space" mean in relation to a gyroscope?
+@@The gyroscope resists movement and maintains its orientation while spinning
+The gyroscope resists movement and stops spinning when a force is applied
+The gyroscope aligns itself with gravity and stops spinning when a force is applied
+
+What is precession in a gyroscope?
+@@The tendency of the gyro to rotate 90° from the point where the force is applied, in the direction of spin
+The tendency of the gyro to rotate 180° from the point where the force is applied, in the direction of spin
+The tendency of the gyro to rotate 270° from the point where the force is applied, in the direction of spin
+
+Which aircraft instrument commonly uses a gyroscope to provide directional information?
+@@Attitude indicator
+Airspeed indicator
+Altimeter
+
+Why impulse causes a change in an object’s momentum?
+@@Because impulse is the product of force and time, which directly changes velocity
+Because acceleration always decreases when time increases
+Because friction always balances any impulse applied
+
+If Object 1 collides with a stationary Object 2 and both exert equal and opposite forces during the collision, why does Object 2 begin to move?
+@@Because the force applied over time causes a change in velocity, giving Object 2 momentum
+Because Newton’s Third Law causes Object 1 to transfer mass to Object 2
+Because Object 2 generates its own force to oppose Object 1
+
+The liquid which fills a certain container weighs 1,497.6 lb. The container is 4 ft long, 3 ft wide, and 2 ft deep. Density of fluid is
+@@62.4 lb./ft³
+124.8 lb./ft³
+249.6 lb./ft³
+
+How is relationship between the density of a gas and the pressure exerted on it?
+@@The density of a gas increases in direct proportion to the pressure exerted on it
+The density of a gas increases in reverse proportion to the pressure exerted on it
+The density of a gas dose not depend on the pressure exerted on it
+
+A liquid fills a container that is 4 feet long, 3 feet wide, and 2 feet deep. The liquid weighs 1,497.6 pounds. What is the density of the liquid in g/cm³?
+@@1.0 g/cm³
+6.2 g/cm³
+1.2 g/cm³
+
+Why is pressure especially important when calculating the density of a gas?
+@@Because the density of a gas increases directly with the pressure applied to it
+Because gas density remains constant regardless of conditions
+Because the density of a gas decreases directly with the pressure applied to it
+
+According to Bernoulli’s Principle, what happens to dynamic pressure when static pressure decreases in a moving airflow?
+@@Dynamic pressure increases
+Dynamic pressure stays the same
+Dynamic pressure also decreases
+
+What is the viscosity index?
+@@Is a number that indicates how much a fluid's viscosity changes with temperature
+Is number that the pressure at which a fluid begins to boil
+Is number that the pressure at which a fluid begins to freezing
+
+How is the force acting on the fluid related to the surface area?
+@@Force = Pressure × Area
+Force = Pressure ÷  Area
+Force = Pressure × Area x Heigh
+
+How much output pressure is created if a hydraulic cylinder has a 5-lb force acting on a piston with a ½ in² surface area?
+@@10 psi
+2.5 psi
+50 psi
+
+How does liquid move in the wide section of the venturi tube?
+@@In the wide section of a Venturi tube, the liquid moves more slowly compared to the narrow section
+In the wide section of a Venturi tube, the liquid moves more faster compared to the narrow section
+In the wide section of a Venturi tube, the liquid moves at the same speed as in the narrow section
+
+What is factor the viscosity of fluid depend on?
+@@Temperature
+Humidity
+Desity
+
+Why is it important to select a fluid with appropriate viscosity for a hydraulic or lubricating system?
+@@To provide good sealing and flow without causing excessive resistance or wear
+To allow pressure to build rapidly regardless of temperature
+To ensure the fluid can evaporate quickly and prevent overheating
+
+What does a high viscosity index indicate about a lubricating oil?
+@@Its viscosity remains relatively stable across a range of temperatures
+Its viscosity changes significantly with temperature, making it unsuitable for high-performance use
+It evaporates easily at high temperatures, improving cooling performance
+
+What can happen if a lubricating fluid with too low viscosity is used in a mechanical system?
+@@It may lead to rapid wear of moving parts
+It will increase power output by reducing fluid flow
+It will cause the fluid to solidify and damage the system
+
+How does a Saybolt viscometer determine the viscosity of a fluid?
+@@By timing how long it takes for a specific volume of fluid to flow through a standard orifice at a set temperature
+By timing how long it takes for a specific volume of fluid to flow through a standard orifice at a set pressure
+By timing how long it takes for a specific mass of fluid to flow through a standard orifice at a reference temperature
+
+How does temperature affect the viscosity of most fluids
+@@Viscosity decreases with increasing temperature
+Viscosity increases with increasing temperature
+Viscosity decreases with decreasing temperature
+
+Why is streamlining important when designing surfaces that interact with fluid flow
+@@It enables smooth flow, reducing turbulence and minimizing pressure changes in the fluid
+It ensures the fluid becomes turbulent to increase mixing and cooling
+It allows fluid to compress more effectively around sharp corners
+
+What is the purpose of streamlining in fluid flow?
+@@To allow smooth flow and reduce turbulence
+To make fluid flow in different directions
+To create turbulence and increase resistance
+
+What does a Saybolt viscometer measure?
+@@The time it takes for a set volume of fluid to flow through a standard orifice
+The temperature at which a fluid begins to evaporate
+The pressure required to pump a fluid through a system
+
+Covert 25 °C to °F
+@@77
+57
+-7
+
+Covert   59 °F to °C
+@@15 °C
+37 °C
+62 °C
+
+What is the SI unit used to express quantities of heat energy?
+@@Joule
+Calorie
+BTU
+
+Covert   32 °F to °C
+@@0 °C
+-10 °C
+273 °C
+
+What happen when a gas is heated?
+@@The gas is expanded
+The molecules of gas move slower
+The molecules of gas move more close together
+
+What is BTU defined?
+@@As the amount of heat required to change the temperature of 1 lb. of water 1 degree Fahrenheit (1°F)
+As the amount of heat required to change the temperature of 1 lb. of water 1 degree Celsius (1°C)
+As the amount of heat required to change the temperature of 1 lb. of water 1/10 degree Celsius (1°C)
+
+When a high-pressure gas expands
+@@Gas becomes cool
+Gas becomes hotter
+Gas turning into a liquid
+
+The Fahrenheit scale is
+@@Commonly used in the United States
+SI scales used extensively in scientific work
+Commonly used in the United Kingdom
+
+To estimate the expansion of any object, such as a steel rail, it is necessary to know three things about it:
+@@Its length, the rise in temperature to which it is subjected, and its coefficient of expansion
+Its cross section size, the rise in temperature to which it is subjected, and its coefficient of expansion
+Its cross section size, the rise in temperature to which it is subjected, and its coefficient of contraction
+
+1 dergee rise on the centigrade scale will cause
+@@1.8 degree rise in Fahrenheit
+33 degree rise in Fahrenheit
+0.91 degree rise in Fahrenheit
+
+What is relationships between Degrees Rankine and Degrees Celsius?
+@@Degrees Rankine = (1.8 × Degrees Celsius) + 492
+Degrees Rankine = (1.8 × Degrees Celsius) + 460
+Degrees Rankine = (1.8 × Degrees Celsius) + 32
+
+What is its length at 55°C, If a steel rod measures exactly 9 ft at 21°C? The coefficient of expansion for steel is 11 × 10−6.
+@@9.003366 ft
+9.03366 ft
+9.9 ft
+
+A bimetallic thermometer is made of
+@@Two dissimilar metals strips bonded together
+Three dissimilar metals strips bonded together
+Two similar metals strips bonded together
+
+What is the principle of a resistance thermometer?
+@@Electrical resistance changes as the temperature of the metal changes
+The electrical resistance of a metal decreases as the temperature rises
+The electrical resistance of a metal increases as the temperature decrease
+
+What is correct stament for heat?
+@@Heat is a form of energy
+When two surfaces are rubbed together, they become cool
+When the gas expand, it becomes arm or hot
+
+What is the expansion of object depend on?
+@@its length
+Location
+Humity
+
+How does heat energy generated?
+@@When two surfaces are rubbed together
+When objects stop moving
+Heat is generated by cooling objects down
+
+Where is the sensing bulb of a direct reading bimetallic temperature gauges placed?
+@@In the area needing to have temperature measured.
+Close to the area needing to have temperature measured.
+Far from the area needing to have temperature measured.
+
+What is operation principle of the Wheatstone-bridge meter?
+@@It operates on the principle of balancing one unknown resistor against other known resistances
+It operates on the principle of imbalancing of four known resistances
+It operates on the principle of imbalancing of five known resistances
+
+What is operation principle of the ratiometer electrical resistance thermometer ?
+@@Measures a ratio of current flows in a variable resistance and a fixed resistance
+It operates on the principle of balancing one unknown resistor against other known resistances
+Measures a ratio of voltage in a variable resistance and a fixed resistance
+
+What is purpose of the thermocouple?
+@@Is used to measure high temperatures
+Is used to measure low and medium temperatures
+Is used to measure outside air temperature
+
+The steam point of water is
+@@373 °K
+273 °K
+212 °K
+
+The freezing point of water is
+@@32 °F
+492 °F
+273 °F
+
+A 200 cm titanium bar increases in length by 2 cm when its temperature rises by 100⁰C. Its linear expansitviy is
+@@0.0001 per °C
+0.001 per °C
+0.01 per °C
+
+Convert 0⁰K into ⁰F
+@@- 460°F
+- 273°F
+32°F
+
+When a liquid is heated, it expands
+@@More than a solid
+Less than a solid
+More than a gass
+
+What happen when a gas is compressed?
+@@The gas becomes warm or hot
+The gas becomes cool
+The gas temprature does not change
+
+Coefficient of expansion of Copper
+@@More than Coefficient of expansion of Brick
+More than Coefficient of expansion of Aluminum
+More than Coefficient of expansion of Ice
+
+One BTU of heat energy is
+@@778 ft-lb of work
+273 ft-lb of work
+460 ft-lb of work
+
+What is unit used in the measurement of the heat energy in foods?
+@@Calorie
+BTU
+Joule
+
+Electrical resistance thermometers are used to measure temperatures in
+@@–70 °C to 150 °C range
+70 °C to 150 °C range
+More than 1500 °C
+
+What is measure equipment used to measure exhaust gas temperature (EGT) in turbine engines?
+@@Thermocouples
+The ratiometer electric resistance thermometer
+The electrical resistance thermometer
+
+How does the degree of expansion of solids compare to the degree of expansion of liquids and gases when they are heated?
+@@Solids expand the least.
+Solids expand more than liquids but less than gases
+Solids expand more than gases but less than liquids
+
+Forms of energy which can be converted into heat energy are
+@@Radiant Energy and Electrical Energy
+Radiant Energy and Electrical potential energy in a superconducting state
+Chemical Energy and Electrical potential energy in a superconducting state
+
+What is require for heat conduction transfer between two objects?
+@@Physical contact between an object that has a large amount of heat energy and one that has a smaller amount of heat energy
+Physical contact between two objects that have the same temparature
+Two objects have the same tempature and must be put in the liquid
+
+What is convection?
+@@Convection is the process by which heat is transferred by movement of a heated fluid (gas or
+@@.
+Heat transfer by conduction requires that there be physical contact between objects
+Heat transfer between two objects have the same tempature and put in the liquid
+
+Sunlight is a form of
+@@Radiant heat energy
+Conduction heat energy
+Convection heat energy
+
+How is heat transferred in a vacuum?
+@@Radiation
+Conduction
+Convection
+
+The second law of thermodynamics states:
+@@Heat always flows from hot objects to cold objects
+The change in internal energy of a system is equal to the heat added to the system minus the work done
+Energy cannot be created or destroyed, only transformed from one form to another
+
+What will volume do if heat is constant, and if peressure increases on a gas?
+@@Decrease
+Increase
+Remain constant
+
+V1/T1 = V2/T2 at a constant presure is
+@@Charles law
+Boyle law
+Ideal gas law
+
+V1*P1 = V2*P2 at a constant temperature is
+@@Boyle law
+Ideal gas law
+Charles law
+
+What is BTU stand for?
+@@British Thermal Unit
+British Temperature Unit
+British Technic Unit
+
+What is the best material for heat conduction?
+@@Metal
+Liquid
+Wood
+
+What do you do when the circulation of gas or liquid is not rapid enough to remove sufficient heat?
+@@Fans or Pumps are used to accelerate the motion of the cooling material
+Increase the motion speed of gas or liquid
+Decrease the motion speed of gas or liquid
+
+How does transmission of the electromagnetic waves, radio waves, or x-rays differ between a vacuum and air?
+@@Through a vacuum more easily than through air
+Through air more easily than through a vacuum
+Through a vacuum as well as through air
+
+What is the specific heat of a substance?
+@@The specific heat of a substance is the ratio of its specific heat capacity to the specific heat capacity of water
+The specific heat of a substance is the ratio of its specific heat capacity to the specific heat capacity of mercury
+The specific heat of a substance is the ratio of its specific heat capacity to the specific heat capacity of alcohol
+
+The specific heat capacity of a gas heated at constant pressure, when compared to the specific heat capacity of a gas heated at constant volume, is
+@@More
+Less
+The same
+
+What does the degree of molecular motion of gas depend on?
+@@The temperature
+The volume of the container
+The amount of gas
+
+When making a long drive on a hot day, the pressure in the tires of an automobile will be
+@@Increases
+Decreases
+Does not change
+
+A 15 ft³ cylinder of oxygen is at a temperature of 70°F and a pressure of 750 pig. The cylinder is placed in the sun and the temperature of the oxygen increases to 140°F. What would be the new pressure in pig?
+@@851 pig
+865.7 pig
+849 pig
+
+20 ft³ of the gas argon is compressed to 15 ft³. The gas starts out at a temperature of 60°F and a pressure of 1,000 pig. After being compressed, its temperature is 90°F. What would its new pressure be in pig?
+@@1,416.3 pig
+1431 pig
+1410 pig
+
+When work is performed by expanding gases, the volume that the gases occupy increases but
+@@Corresponding temperature and pressure are decreased
+Corresponding temperature and pressure are increased
+Corresponding temperature is decreased and pressure is increased
+
+In an isothermal system
+@@The volume of the gases decreases the pressure of the gases increase
+The volume of the gases decreases the pressure of the gases decrease
+The volume of the gases decreases the pressure of the gases remain constant
+
+In a turbine engine, the expanding gases from combustion are directed through the turbine wheels. This rotates the engine shafts with:
+@@The remaining gas pressure expelled rearward to produce thrust in the forward direction
+The lower gas pressure expelled rearward to produce thrust in the forward direction
+The higher gas pressure expelled rearward to produce thrust in the forward direction
+
+Which law applies to an ideal gas undergoing an isothermal process?
+@@Boyle law
+Ideal gas law
+Charles law
+
+Heat transmission by convection is confined to
+@@Liquids and gases
+Gases and solids
+Liquids and solids
+
+How does radiant heat travel?
+@@Always travels in a straight line
+Radiant heat travels by direct contact between objects
+Radiant heat travels in a straight line and cannot be reflected or absorbed
+
+What is description of Boyle law?
+@@P is proportional to 1/V
+P is proportional to 1/T
+P is proportional to T
+
+Formula for Absolute Pressure is
+@@Pabsolute = Pgauge + Patmospheric
+Pabsolute = Pgauge - Patmospheric
+Pabsolute = Pgauge x Patmospheric
+
+The beginning of the intake stroke of the cycle of an Otto cycle engine
+@@Both the volume and the pressure are at a minimum near atmospheric pressure
+The volume of air at atmospheric pressure increases
+The volume but increasing the pressure of the gas charge significantly
+
+For an Otto cycle engine, at point that the exhaust valve open:
+@@The pressure is reduced to atmospheric
+The pressure is increase to atmospheric
+The pressure remain contant
+
+When a liquid changes state and becomes a vapor, the process is known as
+@@Evaporation
+Condensation
+Fusion
+
+The continual emission of energy from the surface of all bodies is called:
+@@Radiation
+Conduction
+Convection
+
+What is specific heat capacity of a substance?
+@@Is a quantity of heat to increase the temperature of a unit of its mass 1°C
+Is a quantity of heat to decrease the temperature of a unit of its mass 1°F
+Is a quantity of heat to increase the temperature of a unit of its mass 1°F
+
+10 ft³ of nitrogen is under a pressure of 500 psia. If the volume is reduced to 7 ft³, what will the new pressure be?
+@@714.29 psia
+35.000 psia
+3.500 psia
+
+Which is law used to describe the state of a gas under a given set of conditions such as temperature, pressure, and volume?
+@@Ideal gas law
+Charles law
+Boyle law
+
+What of following - Lead, Copper and Silver- has best conductivity?
+@@Silver
+Lead
+Copper
+
+What of following - Iron, Nicken and Aluminium- has poorest conductivity?
+@@Iron
+Nicken
+Aluminium
+
+For a gas-turbine engine, air enters the compressor
+@@It is compressed
+It is expanded
+It,s temperature is decreased
+
+The amount of energy absorbed or released by a substance during a phase change (such as melting, freezing, boiling, or condensation) without a change in temperature is called:
+@@Latent heat
+Radiant Heat
+Conduction Heat
+
+What is Otto cycle engine?
+@@Four-stroke engines
+Two-stroke engines
+Compression Stroke engine
+
+Why does friction between two surfaces result in the production of heat?
+@@Work is converted into the kinetic energy of molecules
+Friction compresses air between the surfaces
+Friction creates electrical charges that warm the surfaces
+
+What happens when a gas is compressed?
+@@The gas heats up
+The gas cools down
+The gas maintains the same temperature
+
+What does one BTU represent?
+@@The amount of heat required to raise the temperature of 1 pound of water by 1°F
+The amount of heat needed to raise 1 gram of water by 1°C
+The amount of heat needed to raise 1 gram of mercury by 1°C
+
+What type of material conducts heat energy more quickly?
+@@Metal
+Plastic
+Glass
+
+What is convection in the context of heat transfer?
+@@The transfer of heat through movement of a fluid
+The transfer of heat by direct contact between solid materials
+The transfer of heat by electromagnetic waves
+
+How does radiant heat travel from the Sun to the Earth?
+@@As electromagnetic waves through space
+By conduction through the atmosphere
+By convection through space
+
+What does the term specific heat refer to?
+@@The amount of heat required to raise the temperature of a unit mass of a substance by 1°C
+The amount of heat required to raise the temperature of a unit volumetric of a substance by 1°C
+The amount of heat required to raise the temperature of a unit volumetric of a substance by 10°C
+
+What does the first law of thermodynamics state?
+@@Energy cannot be created or destroyed; it can only be transferred or converted
+Energy is constantly created in machines and destroyed when no longer needed
+Energy is lost entirely during work due to friction and heat
+
+what causes the pressure of a gas in a sealed container to increase when the temperature rises?
+@@The molecules move faster and collide more often with the container walls
+The molecules gain mass and occupy more space
+The number of gas molecules increases with temperature
+
+What does Dalton’s Law state about the pressure of a gas mixture?
+@@The total pressure is equal to the sum of the partial pressures of the individual gases
+Gas mixtures always react chemically to form new compounds
+The pressure depends only on the heaviest gas in the mixture
+
+What is the speed of light in a vacuum?
+@@299,792,458 meters per second
+186282.4 meters per second
+299,792 miles per second
+
+What is light?
+@@Light is a form of electromagnetic radiation
+Light is a type of radio wave
+Light is a form of energy and is not visible to the human eye
+
+What is the wavelength of visible light usually measured in?
+@@Angstrom (A)
+Milimeter
+Micrometre
+
+What happens when a light wave strikes a different medium that suppresses the propagation of the light wave?
+@@The light wave may be reflected back into the original medium.
+The light wave passes through the medium without any change in speed
+The light wave passes through the medium without any change in direction
+
+What is refraction?
+@@Is the bending of light as it passes from one medium into another medium with a different refractive index
+Is the bending of light as it passes from one medium into another medium with the same  refractive index
+Is the suppressing of light as it passes from one medium into another medium with a different refractive index
+
+Electrical data is converted to optical signals and sent through optical fibers at
+@@The speed of light
+The speed of sound
+The speed of electrons
+
+How many fiber mode are there?
+@@2
+3
+4
+
+Optical fibers are connected to terminal equipment by
+@@Optical fiber connectors
+Electrical connector
+Contacts
+
+How many methods is used to connect optical fiber to each other?
+@@1
+2
+3
+
+What is relationship between the refractive index (n) of material, the speed of light (c) in a vacuum and the speed of light through the material (v)?
+@@n = c ÷ V
+n = v ÷ c
+n = c*v
+
+What is the speed of light through the water? (known the refractive index of water is 1.33)
+@@225,407,863 meters per second
+247,755 meters per second
+225,407,863 miles per second
+
+How do light rays behave when they enter a medium at an angle with a different refractive index?
+@@Light rays continue traveling in difference speed
+Light rays continue traveling in the same direction
+Light rays continue traveling in the same the same speed
+
+How does the angle between the incoming light ray and the normal to the surface compare to the angle between the reflected ray and the normal for light reflected from a mirror?
+@@The angle of incidence is equal to the angle of reflection
+The angle of incidence is douple to the angle of reflection
+The angle of reflection is douple to the angle of incidence
+
+When reflection occurs off of a flat surface the image may be
+@@Same size as the object
+Magnified or demagnified
+Bulging outward toward the light source
+
+What is correct statement for a concave mirrors?
+@@Is used so that it magnifies the image
+Is used so that it demagnifies the image
+It provides a wider field of view
+
+What happens when light enters a slower medium?
+@@Tts frequency remains the same
+Tts speed remains the same
+Tts frequency increase
+
+As soon as part of the incoming light ray reaches a slower medium
+@@Its wavelength is shortened
+Its wavelength is longer
+Its wavelength remain constant
+
+How does light behave when it goes from a medium with a higher refractive index to another medium with a lower refractive index?
+@@Speed is increased
+Speed is decreased
+Speed is remainted constant
+
+How does the angle of incidence compare to the angle of refraction when light from a medium with a lower index of refraction passes into a medium with a higher index of refraction.
+@@The angle of refraction will be smaller than the angle of incidence.
+The angle of refraction will be larger than the angle of incidence.
+The angle of refraction will be equal the angle of incidence.
+
+What is function of the compound lenses?
+@@Are used to refine the focus and eliminate aberrations
+Are used to generate light
+Are used to change the Color of light
+
+What does the transmission of data through optical fibers offer?
+@@Immunity to electromagnetic interference
+Narrow bandwidth
+Influence of the electromagnetic
+
+Multi - mode optical fiber cable
+@@Has a core diameter greater than 10 micrometers
+Has a core diameter less than 10 micrometers
+Has diameter matched to wavelength of light passed
+
+Single mode optical fiber cable
+@@Has diameter matched to wavelength of light passed
+Greater than 10 micrometers
+Has several light rays to pass
+
+For multi - mode optical fiber cable
+@@Each light pulse carries its own piece of data
+Each light pulse is transmitted through the cable at different angles
+Each light pulse is transmitted through the cable at the same angles
+
+For multi - mode optical fiber cable, rays that reflect from the cladding at angles greater than the critical angle
+@@Are completely reflected
+Are refracted into the cladding
+Are travelled along the fiber
+
+Attenuation in fiber optics is caused by
+@@Scattering and absorption
+Scattering and number of light rays
+Absorption and number of light rays
+
+Standard connectors provide a physical contact where the mating surfaces touch each other at an angled surface to achieve
+@@The lowest possible attenuation and reduced reflections
+The lowest possible attenuation and increased reflections
+The lowest possible attenuation and increased refractions
+
+The fusion splicing method is
+@@Melts the fiber ends together with an electric arc
+Hold the fiber ends in a precisely aligned position
+Still two separate fiber, not continuos
+
+What is disadvantages of fiber optics?
+@@Can be easily damaged if bent too much
+Immune to noise and radio-frequency interference
+Lower signal attenuation
+
+For quick connecting optical fiber to each other
+@@A mechanical splice can be used
+A terminal can be used
+A socket and pin can be used
+
+In optical fibers the total internal reflection of light only occurs at angles
+@@Greater than the critical angle
+Less than the critical angle
+Equal to the critical angle
+
+A biconvex lens is
+@@A converging lens
+A convave lens
+A dispersion lens
+
+The incidence ray, the reflective ray and the normal at the point of incidence lie in
+@@The same plane
+A straight line
+Perpendicular to each other
+
+Convex mirrors are commonly used as
+@@a rear-view mirrors on automobiles
+A headlights
+A periscope
+
+In a piece of glass, the speed of light was determined to be 1.95 x 108 m/s. What must be the glass's index of refraction?
+@@n ≈ 1.54
+n ≈ 2.54
+n ≈ 1.25
+
+What is Sine of the angle of refraction (Sin θ₂) for light passing from a medium with a refractive
+index n=2.1 to a medium with n=1.3, when the light is incident on the boundary at an angle of 30∘?
+@@Sin θ₂ ≈ 0.808
+Sin θ₂ ≈ 0.5
+Sin θ₂ ≈ 0.6
+
+What is sound?
+@@Sound has been defined as a series of disturbances in matter that the human ear can detect
+ound is a type of energy that doesn't need a medium to travel
+Sound is a form of light that we hear instead of see
+
+How does sound travel at the same temperature?
+@@Sound travels faster through water than it does through air
+Sound travels slower through water than it does through air
+Sound travels through water  the same speed it does through air
+
+What are sound waves?
+@@Sound waves are mechanical wave
+Sound waves do not lose energy as they propagate
+Sound waves are transverse waves
+
+What is Mach number?
+@@Mach number = of the speed of an aircraft ÷ the speed of sound
+Mach number = of the speed of an sound ÷ the speed of aircraft
+Mach number = of the speed of an sound * the speed of aircraft
+
+The term “pitch” is used to describe
+@@The frequency of a sound
+The amplitude of a sound
+The period of a sound
+
+What is sound intensity measured in?
+@@Decibel (dB)
+Candela (cd)
+Tesla (T)
+
+What factors does the speed of sound depend on?
+@@Temperature
+Sound Source
+Frequency
+
+Density and elasticity of a medium wich sound travels through are the two basic physical properties which govern
+@@The velocity of sound
+The frequency of sound
+The amplitude of sound
+
+What is wavelength?
+@@The wavelength is the distance from the crest of one wave to the crest of the next
+Wavelength is the speed at which sound travels
+Wavelength is the time it takes for a wave to travel a certain distance
+
+When two or more sound waves overlap or combine:
+@@If the waves arrive at the listener in phase, they will enhance and the sound disturbance is larger
+If the waves arrive at the listener in phase, they will partially cancel each other out
+If the waves arrive out of phase, they will enhance and the sound disturbance is larger
+
+How does sound travels through matter?
+@@Sound travels through matter in the form of longitudinal wave motions
+Sound travels through matter in the form of vertical wave motions
+Sound travels through matter in the form of 3-D wave motions
+
+The velocity of sound in difference substances is
+@@Difference
+The same
+The same if temperature the same
+
+How does sound travels through water compare to air in the same temperature condition?
+@@Faster through water than it does through air
+Slower through water than it does through air
+The same
+
+How does sound travels through the aluminum compare to the lead in the same temperature condition?
+@@Faster through the aluminum than it does through the lead
+Slower through the aluminum than it does through the lead
+The same
+
+If the speed of sound at sea level is 760 mph, an aircraft flying at a Mach number of 1.2 at sea level would be traveling at a speed of
+@@912 mph
+633 mph
+527 mph
+
+How does the sound waves spread out when a bell rings?
+@@In all directions
+In the plane perpendicular to the bell
+In the plane parallel to the bell
+
+What does the loudness of the sound depend on?
+@@The amplitude of the vibrations of the sound waves
+Type of Medium of the sound waves
+Pitch/Frequency of the sound waves
+
+Have two sound waves, both traveling through air. One wave has frequency 100 Hz and the other has frequency 1000 Hz
+@@Sound intensity of both waves are the same
+Sound intensity of  frequency 100 Hz greater
+Sound intensity of  frequency 100 Hz smaller
+
+How does the energy  of the sound wave change if the distance from the source to listener
+@@The distance from the source increases, the energy in each wave spreads out, and the sound becomes weaker
+The distance from the source increases, the energy in each wave spreads out, and the sound becomes stronger
+The distance from the source increases, the energy in each wave spreads out, and the energy of sound not change
+
+What is correct statement for transmission of the sound waves?
+@@The greater the pressure variations, the more intense the sound wave
+The intensity is proportional to the square of the  frequency variation regardless of the pressure
+The greater the pressure variations, the less intense the sound wave
+
+The smallest change in sound intensity the human ear can detect is
+@@1 dB
+-10 dB
+10 dB
+
+When sound is coming from a moving object
+@@its frequency is changed
+its amplitude is changed
+its intensity is changed
+
+The sound from an airplane which approaches listener
+@@It becomes both louder and higher pitched
+It becomes louder and lower pitched
+The loudness and pitch both decrease
+
+If an airplane is flying at or higher than the speed of sound
+@@The sound energy cannot travel out ahead of the airplane
+The sound energy  travels out ahead of the airplane
+A person standing on the ground will be able to hear it until it gets past their position

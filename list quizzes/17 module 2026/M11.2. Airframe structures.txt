@@ -1,0 +1,254 @@
+In the ATA 100 zonal system, the passenger entry door belongs to zone
+@@800
+500
+100
+
+ATA Zone 200 is
+@@The upper fuselage
+The door
+The lower fuselage
+
+What is the torsion?
+@@Torsion is the stress that produces twisting
+Torsion is the stress that resists a crushing force
+Torsion is a combination of compression and tension
+
+Shear stress is described as
+@@Slip away under the action of forces
+Compressing forces
+Pulling forces
+
+Tension is the stress of
+@@Elongating or stretch
+Crush or compression
+Twisting
+
+The life of the structure is counted by
+@@Pressurization cycle
+Landings cycle
+Flight hours
+
+Composite materials are bonded by
+@@Special paint
+Aluminium wire
+Copper wire
+
+What is the hoop stress?
+@@Hoop stress is the stress on the airframe structural components caused by pressurization
+Hoop stress is experienced by a structural member when a load is repeatedly applied and released or applied and reversed
+Hoop stress is tested at the manufacturer to determine a limit not to be exceeded for an aircraft in service
+
+A radome is protected from static electricity build-up by
+@@Conductive paint
+Special conductive grease
+Bonding strips
+
+Where on the aircraft is FS245, RWS45?
+@@245 inches from the datum line of the aircraft and 45 inches from the centreline of the right wing
+245 inches from the nose of the aircraft and 45 inches from the tip of the right wing
+245 inches from the nose of the aircraft and 45 inches from the centreline of the right wing
+
+The various parts of the aircraft airframe are maintained at the same potential by
+@@Bonding
+Earthing
+Static wicks
+
+Aircraft fibreglass panels are protected against lighting strikes, partially by
+@@Conductive paint
+Non-conductive paint
+Bonding
+
+Wing stations are measured
+@@Outboard from the fuselage centreline
+Outboard from the wing root
+Inboard from the wing upper surface
+
+Nacelle station (NC or Nac. Sta.) is
+@@Measured either forward of or behind the front spar of the wing and perpendicular to a designated water line
+Measured perpendicular to the rear beam of the wing and parallel to, and outboard from, the inboard edge of the flap
+Measured outboard from, and parallel to, the inboard edge of the aileron, perpendicular to the rear beam of the wing
+
+Metal fatigue is
+@@Experienced by a component or structural member when a load is repeatedly applied and released or applied and reversed
+Tested at the manufacturer to determine a limit not to be exceeded for an aircraft in service
+Is the stress on the airframe structural components caused by pressurization
+
+What is the bending stress?
+@@Bending stress is a combination of compression and tension
+Bending stress is the stress on the airframe structural components caused by pressurization
+Bending stress is the stress that resists a force that tends to pull something apart
+
+The primary strcuture are
+@@Wings spars, frames, engine mounts,…
+Wings ribs, stringers, tie rods, …
+Farings, fillets, brackets,…
+
+What is the tertiary?
+@@The tertiary is lightly stressed structure that is fiited to the aircraft for various reason like as fairings, fillets
+The tertiary is all non primary strcuture portions of the aircraft which has integral structural important
+The tertiary is any portion of the aircraft structure that, if it fail, would likely cause any of the unwanted incidents or accidents
+
+Which of the following is an example of a fail safe structure?
+@@Stringer
+Spar
+Longeron
+
+Which of the following is primary structure?
+@@Skin
+Frame
+Stringer
+
+Which of the following is secondary structure?
+@@Stringer
+Skin
+Panel
+
+Structure with built in redundancy is called
+@@Fail-safe
+Double safe
+Safe life
+
+Internal drain paths are
+@@Required to direct fluid to the external drain sites. Tubes, channels, dams and internal drain holes are all common
+Have openings to the exterior of the aircraft. They are found on the wings, empennage and fuselage
+Drain valves are used in pressurized sections of aircraft so that they may remain sealed during pressurization
+
+Why aircraft structure has to ventilate?
+@@To prevent corrosion and fire hazard
+To dump water or fluid overboard
+To prevent lighting strike
+
+It is important that the dihedral be checked at the positions specified by
+@@The manufacturer
+The airlines
+The Maintenance Repair Organization
+
+The landing gear door belongs in zone:
+@@700 - Landing gear.
+100 - Lower fuselage.
+800 - Door.
+
+When aircraft is in-flight, the rivets on skin plates will be subject to:
+@@Share.
+Tension.
+Compression.
+
+Why is the static wick installed on aircraft?
+@@It discharges the electrostatic on the aircraft.
+It prevents aircraft from lightning strike.
+It makes the aircraft electric current stable.
+
+What load is a tie rod designed to accept?
+@@Tensile
+Bending
+Torsion
+
+Which one taking a compression load?
+@@Strut
+Beam
+Cable
+
+In semi-monocoque construction, compression loads are taken by
+@@Stringers
+Bulkheads
+Frames
+
+Most large transport aircraft skins are
+@@2024
+7075
+5056
+
+In a monocoque structure, which component carries the majority of the loads?
+@@Skin
+Longerons
+Stringers
+
+Skin panels may be strengthened by
+@@Stringers
+Cleats
+Struts
+
+A pylon structural member supports the
+@@Engines
+Empennage
+Wings
+
+One of the advantages of the semi-monocoque construction is
+@@Shares the loads
+Easier to manufacture
+Takes all the loads in the skin
+
+Which kind of loads a strut to resist?
+@@Compression load
+Tensile load
+Twist load
+
+Which kind of loads a tie to resist?
+@@Tensile load
+Twist load
+Compression load
+
+Where can you find out the surface protection compounds?
+@@AMM or SRM
+IPC or CMM
+WDM or CMM
+
+Anodizing is
+@@An electrolytic treatment that coats the metal with a hard, waterproof and airtight, oxide film
+An mechanical treatment that coats the metal with a hard, waterproof and airtight, oxide film
+An chemical treatment that coats the metal with a hard, waterproof and airtight, oxide film
+
+What is the alternative method to anodizing used for surface protection on magnesium and zinc parts?
+@@Is chromating
+Is painting
+Is cladding
+
+Cladding a material with non corrosion material is
+@@Means of material surface protection
+Made the structure stiffer
+Made the structure resistant to bending
+
+Why many aircraft structural elements and parts are painted?
+@@To protect them from corrosion
+Like as décor, made aircraft look nice
+Due to request from customer
+
+Which step aircraft should be done before major inspections?
+@@Perform exterior cleaning
+Performed all major repairs
+Performed re-painting
+
+What must you do before performing alignment and symmetry?
+@@Aircraft must be jacked and leveled
+Aircraft must power on
+Aircraft must park in dry conditon
+
+With which kind of the meterial, a cleaned surface is often treated before a primer or painted coating is applied?
+@@The alodine
+The solvent
+The stripper
+
+Which document can find out the procedure for exterior cleaning?
+@@The manufacturer's maintenance manual
+The owner's special instruction book
+The manufacture's marketing book
+
+In which condition about temperature, washing with cleaning agents should not be performed because the agent may dry before being rinsed off.
+@@High temperature
+Low temperature
+Snow weather
+
+Choose the correct answer fill in the space: Incidence is usually checked in at least ... specified positions on the surface of the wing to ensure that the wing is free from twist.
+@@Two
+Three
+Four
+
+The name of the tool which uses to measurement is
+@@The plumb bob
+The ruler
+The calculator
+
+On large aircraft, the positions at which the dimensions are to be taken are usually chalked on
+@@The floor
+The door
+The Ceiling

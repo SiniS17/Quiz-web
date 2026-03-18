@@ -1,0 +1,169 @@
+What type of equipment is required on board aircraft for the protection of passengers and crew?
+@@Emergency equipment such as fire extinguishers and life rafts.
+Entertainment systems and luxury seating.
+Extra fuel tanks and cargo space.
+
+What do the EASA-issued certification specifications (CS) define?
+@@The emergency equipment requirements for different types of aircraft.
+The maintenance schedules for aircraft.
+The seating arrangements in commercial airliners.
+
+According to CS-25 specifications, how many portable fire extinguishers are required on a 250-seat aircraft?
+@@Four portable fire extinguishers.
+Two portable fire extinguishers.
+Six portable fire extinguishers.
+
+Who is responsible for ensuring emergency equipment is present and airworthy before each flight?
+@@The aircraft operator
+The aircraft manufacturer
+The flight crew
+
+What type of documentation may be referenced for emergency equipment details?
+@@ETSO
+ICAO Annex 14
+FAA AC 43.13
+
+What must be done to emergency equipment before flight?
+@@Ensure it is present and airworthy
+Ensure it is color-coded
+Ensure it is stored in the cockpit
+
+What document details installation and removal procedures for emergency equipment?
+@@Aircraft maintenance manual
+Flight operations manual
+Safety management system
+
+What is the technician’s role regarding emergency equipment?
+@@Ensure equipment is in place and serviceable
+Operate the equipment during flight
+Train passengers on usage
+
+What type of aircraft requires fewer fire extinguishers?
+@@Small single-engine aircraft
+Large commercial aircraft
+Cargo aircraft
+
+What is the role of AMC in emergency equipment compliance?
+@@Provides acceptable means for compliance with CS-25
+Lists emergency equipment brands
+Specifies cabin layout
+
+What is CS-23 used for?
+@@Certification standards for small aircraft
+Emergency evacuation procedures
+Fire extinguisher maintenance
+
+What document provides additional guidance on compliance with CS-25?
+@@Acceptable Means for Compliance (AMC)
+Maintenance Planning Document (MPD)
+Minimum Equipment List (MEL)
+
+Which regulation specifies emergency equipment requirements for large commercial aircraft?
+@@CS-25
+CS-23
+CS-27
+
+How are aircraft seats typically mounted in the cabin?
+@@In groups of two or three seats on a frame.
+Individually on the cabin floor.
+Only on the walls of the aircraft.
+
+What type of restraints are required for all passengers on passenger service aircraft?
+@@Seat belts.
+Safety harnesses.
+Shoulder pads.
+
+What must operators ensure when configuring seats, galleys, bulkheads, and lavatories?
+@@They must meet CS-25 specifications.
+They can arrange them in any manner without restrictions.
+They must use only the manufacturer's suggested layouts.
+
+What is a common feature of cabin entertainment in airlines?
+@@Individual selection of music and movies at each seat location.
+Only pre-selected movies shown on a single screen.
+No entertainment options provided.
+
+What are onboard stairs that can be deployed for passenger use called?
+@@Airstairs.
+Jetway stairs.
+Portable stairs.
+
+What feature allows aircraft seats to be adjusted in the cabin?
+@@Seat tracks that enable movement forward and aft in 1 inch increments.
+Hydraulic systems that automatically reposition the seats.
+Manual levers that require tools for adjustment.
+
+What is the purpose of the formed metal luggage restraint rail in the seat assembly?
+@@To prevent luggage from sliding forward during abrupt deceleration.
+To provide additional seating support.
+To secure the seat in place during flight.
+
+What must be done if a seat belt is not functional before a flight?
+@@The seat must be placarded and not used.
+The seat can still be used with a warning.
+The seat belt can be repaired mid-flight.
+
+What type of straps do the captain and first officer typically use in their seat belts?
+@@Shoulder harness and crotch strap along with the lap belts.
+Lap belts only.
+No additional straps beyond the lap belt.
+
+What must be done if a seat belt is not functional before a flight?
+@@The seat must be placarded and not used.
+The seat can still be used with a warning.
+The seat belt can be repaired mid-flight.
+
+What type of straps do the captain and first officer typically use in their seat belts?
+@@Shoulder harness and crotch strap along with the lap belts.
+Lap belts only.
+No additional straps beyond the lap belt.
+
+What technology is increasingly used for cabin entertainment equipment?
+@@Digital data busing.
+Analog signal transmission.
+Satellite communication only.
+
+Where are individual seat electronics units (SEUs) typically mounted?
+@@Under the seats in each seat row.
+Above the passenger compartments.
+In the galley area of the aircraft.
+
+How are airstairs typically deployed on an aircraft?
+@@They are electrically deployed from under the main cabin floor.
+They are manually unfolded from a compartment in the cabin.
+They are dropped down from the overhead bins.
+
+Why are airstairs rarely used on large wide-body aircraft?
+@@The height of the main passenger cabin makes them too cumbersome.
+They are not designed for wide-body aircraft.
+They require too much maintenance.
+
+What determines the exact location of passenger service unit (PSU) installations?
+@@They can be modified to position them correctly in relation to the configuration of seats.
+They are fixed and cannot be adjusted.
+They are based solely on manufacturer specifications.
+
+Where are crew berths typically located according to design and access requirements?
+@@At the forward or aft ends of the cabin or above the main flight and passenger cabins.
+Next to the emergency exits.
+In the cargo hold of the aircraft.
+
+What does CS-25 specify regarding the location of emergency equipment on the flight deck?
+@@It must be within arm’s reach of the pilot while sitting.
+It can be placed anywhere on the flight deck.
+It should be accessible only when the aircraft is on the ground.
+
+Why do manufacturers produce aircraft with consistent equipment locations?
+@@To take into account location specifications and the practicality of other equipment.
+To comply with pilot preferences.
+To reduce manufacturing costs.
+
+What type of units are galleys typically constructed as?
+@@Pre-constructed modular units.
+Custom-built units for each aircraft.
+Temporary installations that can be removed.
+
+Where are most galleys installed in relation to the passenger cabin?
+@@At the aft or forward end of the passenger cabin.
+In the middle of the cabin for easy access.
+Above the main flight deck.

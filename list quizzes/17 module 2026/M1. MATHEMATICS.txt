@@ -1,0 +1,654 @@
+What is the order in which calculations are carried out?
+@@Bracket, Power and Root, Multiplication and Division, Addition and Subtraction.
+Bracket, Multiplication and Division, Power and Root,  Addition and Subtraction.
+Bracket, Multiplication and Division, Addition and Subtraction, Power and Root.
+
+What is the first step of addition and subtraction of fractions?
+@@Finding the common denominator.
+Finding the common numerator.
+Finding the average of all denominator.
+
+Concerning rounding off a decimal number, when the digit immediately to the right of the last retained digit is 5 or greater
+@@Last retained digit is added to 1.
+Last retained digit is added to 2.
+Last retained digit is not changed
+
+Which way is used to express a ratio?
+@@A fraction, two number with a separater of a colon, two number with a separater of the word "to".
+A fraction, two number with a separater of minus mark, two number with a separater of the word "to".
+A fraction, two number with a separater of percent mark, two number with a separater of the word "to".
+
+One part out of four is equal.
+@@25 percent.
+10 percent.
+40 percent.
+
+Seven to the second power is referred as
+@@Seven squared.
+Seven cubed.
+2 to the power of 7
+
+Any non-zero number raised to the zero power always equals
+@@1
+0
+-1
+
+What is purpose of scientific notation?
+@@Express very large or very small numbers.
+Express perfect square.
+Express prime number.
+
+What is denominated numbers?
+@@Numbers that have a unit of measure associated with them
+The top number of a fraction.
+The bottom number of a fraction.
+
+If you write a digit "0" on the right of the last digit of a positive integer to form a new positive integer.
+@@New number is equal ten times of original number.
+New number is equal original number added to 10
+No definite relation between  numbers
+
+Both a and b are even whole number and b divisible by a.
+@@Highest common factor of a and b is a.
+Highest common factor of a and b is b.
+Highest common factor of a and b is 2.
+
+Work out the following sum: 4 {2 (5-1) -3} + 8
+@@28
+37
+54
+
+Multiplication of a non-zero whole number and reciprocal of itself
+@@Always equal to 1.
+always equal to this number itself.
+Always equal to -1.
+
+A whole number is divisible by 12 if
+@@The sum of its digits is divisible by 3 and the number formed by the two last digits is divisible by 4.
+The sum of its digits is divisible by 2 and the number formed by the two last digits is divisible by 6.
+The sum of its digits is divisible by 4 and the number formed by the two last digits is divisible by 3.
+
+If you subtract a negative integer from a positive integer
+@@You always get a positive integer.
+You always get a negative integer.
+You can get a positive or negative integer.
+
+The product of two integer is a positive integer if and only if
+@@Both of numbers are positive integer or negative integer.
+One of two number is positive integer and the other is negative integer.
+One of two number is positive integer and regardless of the other.
+
+An improper fraction.
+@@Always equal to or greater than 1
+Always equal to or less than 1
+Always less than any proper fraction.
+
+Which following one require a common denominator?
+@@Addition and subtraction of fractions.
+Addition and multiplication of fractions.
+Subtraction and division of fractions.
+
+Regarding to reducing fraction, a fraction is in "lowest terms" if
+@@Both numerator and denominator are prime number
+Both numerator and denominator are even whole number.
+Both numerator and denominator are odd whole number
+
+If you write a digit "0" on the right of the last digit of a decimal (with decimal point) to form a new number.
+@@New number is equal original number.
+New number is equal ten times of original number
+No definite relation between  numbers
+
+Which following one require a vertical alignment of the decimal point?
+@@Addition and subtraction of decimal numbers.
+Addition and multiplication of decimal numbers.
+Subtraction and division of decimal numbers.
+
+If you round off a decimal number to the nearest hundredth.
+@@The rounded off number is not 5 thousandths greater than original number.
+The rounded off number can be 5 thousandths greater than original number.
+The rounded off number can be 5 thousandths less than original number.
+
+Solve for X (unknown) in the proportion 16:80 = X/100
+@@20
+16
+40
+
+What is average of all prime numbers that is not greater than 11?
+@@5.6
+4.25
+29/6
+
+2 to the negative third power is equal
+@@1/8
+-8
+1/9
+
+Regarding to use of a fraction as the exponent to write a root, the cube root of a number is written with an exponent of
+@@1/3
+1/2
+1/4
+
+Which following one is base quantity of second (a base unit)?
+@@Time
+Mass
+Length
+
+Which following one is used to find the radius of a circle whose area is given?
+@@Division and square root
+Division and cube root
+Subtraction and power
+
+A rectangle is 11cm x 120cm. What is its area in m2 ?.
+@@0.132.
+1320.
+13.2.
+
+Sum of two angles which is less than 90 degree of a right triangle is
+@@90 degree
+45 degree
+30 degree
+
+A parallelogram has a base 12 cm and height 11 cm. What is the area?.
+@@0.0132 m².
+1.32 m².
+0.132 cm²
+
+The area of a trapezoid is
+@@Product of the perpendicular distance between the bases and average of bases.
+Product of the perpendicular distance between the bases and sum of two base.
+Product of the perpendicular distance between the bases and sum of sides.
+
+Which one can be found if wing surface area and wingspan are given?
+@@The chord of wing.
+The maximum width of the wing.
+The minimize width of the wing.
+
+A rectangular solid has dimensions of 4 cm, 6 cm and 12 cm. What is its volume?.
+@@0.000288 m³
+288 m³
+2.88 m³
+
+A cylinder has a diameter of 20 cm and a length of 20 cm; 3.1 is referred to as pi, what is its volume?
+@@6200 cm³
+1240 cm³
+400 cm³
+
+What is the voulume of a cone if the base is 8cm diameter and the height is 12cm, 3.1 is referred to as pi?.
+@@198.4 cm³
+297.6 cm³
+148.8 cm³
+
+Which following one is correct?
+@@Algebra extends the concepts of arithmetic.
+Arithmetic extends the concepts of algebra.
+Algebra extends the concepts of geometry.
+
+What does Algebra use to represent numbers and show relationships between them?
+@@Letters or symbols.
+Graphs.
+Charts.
+
+Regarding to variable, which following one is correct
+@@Can change depending on the situation being considered.
+Given to a value or number that is known.
+Do not change in all the situation.
+
+What is the coefficient?
+@@A number appears in front of a letter or variable.
+A number appears on its own in algebra.
+A value or number that is not yet known.
+
+When adding algebraic terms
+@@You only combine like terms.
+You can always combine all terms.
+You can always combine consecutive terms.
+
+Which one is commutative?
+@@Addition.
+Division.
+Subtraction.
+
+What happen if whatever is done on one side of an equation, also be done on the other side of the equation.
+@@Relationship between terms on each side of the "=" sign always remains the same.
+Relationship between terms on each side of the "=" sign always change.
+Relationship between terms on each side of the "=" sign can change.
+
+Which property of addition is shown in the expressions a + (b + c) = (a + b) + c?
+@@Associative
+Commutative
+Distributive
+
+Which property of multiplication is shown in the expressions a x b = b x a
+@@Commutative
+Distributive
+Associative
+
+If  a = -1, b = 2 and c = 1, what is the value of the expression: a + b + c ?
+@@2
+3
+4
+
+If  a = 8 and b = -3, what is the value of the expression: a - b?
+@@11
+5
+-5
+
+If  a = 5 and b = -1, what is the value of the expression: a / b?
+@@-5
+5
+4
+
+To solve for "a" in equation 4 x a = 24, divide both sides by
+@@4
+2
+24
+
+To solve for "a" in equation a + 11 = 16, subtract both sides by
+@@11
+16
+5
+
+To solve for "a" in equation a - 7 = 2, add both sides by
+@@7
+5
+2
+
+To solve for "a" in equation a / 3 = 1, multiply both sides by
+@@3
+2
+1
+
+If  a = 4, b = -6 and c = 2, what is the value of the expression: a/c + 2b/c ?
+@@-4
+2
+4
+
+If  a = -12, b = -8, c = 4 and d = 6, what is the value of the expression: d/a x c/b ?
+@@1/4
+1
+-1/4
+
+The rules for manipulating simple algebraic fractions are the same as
+@@The rules for manipulating numeric fractions.
+The rules for manipulating numeric fractions except for division.
+The rules for manipulating numeric fractions except for order of operations.
+
+After expanding brackets in equations, relationship between variables
+@@Always unchange.
+Always change.
+Can change.
+
+Solve the following equation: 5x = 3x + 2.
+@@1
+5
+3
+
+You can always write a quadratic equation as: (a,b,c are real numbers and a can not be zero)
+@@a(x+b)(x+c) = 0.
+a(x+b)(x+1) = 0.
+a(x+1)(x+c) = 0.
+
+Factorise the following: 4x² -6x-28 = 0.
+@@(4x-14) (x+2).
+(2x+7) (x-2).
+(2x²  +7) (x + 2).
+
+Solve the equation ut + at2 = 0 for the two possible values of t.
+@@t=0, t=-u/a.
+t=0, t=a/u.
+t=0, t=u/a.
+
+A quadratic equation has the real solution x = 6 and x = 9. Determine the equation which is satisfied by these solution.
+@@x² -15x+54=0.
+x² -54x+15=0.
+x² +15x-15=0.
+
+Solve the equation x² + bx + c = 0, b² > 4c
+@@x= (-b – (b² – 4c)½)/ 2, x= (-b + (b² – 4c)½)/ 2.
+x= (-b – (b² + 4c)½)/ 2, x= (-b + (b² + 4c)½)/ 2.
+x= (b – (b² - 4c)½)/ 2, x= (b + (b² – 4c)½)/ 2.
+
+Solve the simultaneous equations y = x + 2 and 3y + 2x = 6.
+@@x = 0, y = 2.
+x = 2, y = 0.
+x = 0, y = 0.
+
+Solve the simultaneous equations 4x + 8y=64 and 2x - 8y=86
+@@x=25, y= -4.5.
+x=25, y= 4.5.
+x=-25, y= -4.5.
+
+Solve the equations 2/x + 1/(x + 3) = 3
+@@x= -1 + 3(½), x= -1 - 3(½).
+x= -1 + 5(½), x= -1 - 5(½).
+x= -1 + 2(½), x= -1 - 2(½).
+
+Solve the equations 1/(x-2) + 1/(x-4) = 1
+@@x= 4 + 2(½), x= 4 - 2(½).
+x= 3 + 2(½), x= 3 - 2(½).
+x= 4 + 3(½), x= 4 - 3(½).
+
+6⁷ divided by 12⁷ is equal to. .
+@@2(⁻⁷).
+1/64.
+1/256.
+
+What is (Y²  x  Y³ )³ ?
+@@Y¹⁵.
+Y¹⁸.
+Y¹⁶.
+
+(x+y)²  ÷ (x + y)⁸  has a base and exponent of.
+@@(x+y)⁻⁶
+(x+y)¹⁄⁴
+(x+y)(⁻¹⁄⁴)
+
+a^x = a^y, a>1 if and only if
+@@x= y
+x=y or x= -y
+x=y or x=1/y
+
+Solve the equation  99ax  = 100ax -1, a> 10
+@@x = 0.
+x=0, x = -a
+x= 0, x= 1/a
+
+log 9-log 3 is equal to.
+@@log 3.
+log 6.
+log 9.
+
+Log 59,000 is equal to
+@@4.7745.
+0.77452.
+5.77452.
+
+Given the log of A exceeds that of B by 4, find the correct statement about A and B.
+@@A is 1000 times the value of B.
+A is 4000 times the value of B.
+A is 10000 times the value of B.
+
+Give the equation logX = 3 + Y. Rewrite  the equation in exponent form
+@@X= 10^(3+Y).
+10ˣ = 3+Y.
+10(ˣ⁻ʸ) = 3.
+
+The formula for converting temperature in degrees Celsius (C) to degrees Fahrenheit (F) is F= 1.8C + 32. Temperature is 77 degree Fahrenheit, what is temperature in Celsius?
+@@25 degree.
+20 degree.
+35 degree.
+
+Why is the binary number system used in digital electronics?
+@@The two basic conditions of electricity can represent the two digits of the binary number system.
+Converting binary number to decimal number is easy.
+Converting decimal number to binary number is easy.
+
+Give a binary 10001, which following one is correct?
+@@Place value of digit at right of the first digit equal 8 times place value of the last digit.
+Place value of digit at right of the first digit equal 16 times place value of the last digit.
+Place value of the first digit and of the last digit equal 1.
+
+In binary number system, product of 1100 1000 1000 0011 and 100 equal
+@@11 0010 0010 0000 1100
+11 0010 0010 0000 1110
+11 0010 0010 0000 1111
+
+Why is octal number system considered as an abbreviated method of writing binary numbers?
+@@Octal numbers can be made from binary numbers by grouping consecutive binary digits into groups of three.
+Octal numbers can be made from binary numbers by grouping consecutive binary digits into groups of two.
+Octal numbers can be made from binary numbers by grouping consecutive binary digits into groups of four.
+
+100010 in binary is what number in decimal?
+@@34
+18
+64
+
+AE in hexadecimal is what number in binary?
+@@1010 1110.
+1010 1100.
+1110 1110.
+
+206 in decimal is what number in hexadecimal
+@@CE.
+C8.
+D2.
+
+What is the highest power of variable in a linear equation?
+@@1
+2
+3
+
+What does a linear equation form when plotted on a graph?
+@@A straight line
+A parabol
+A curved line
+
+Which of the following is correct when solving a linear equation?
+@@Place the unknown variable on one side and the numbers on the other side
+Keep the variable and numbers on the same side of the equation
+Move all terms to the right side of the equation
+
+How many digits does the binary number system have?
+@@2
+10
+16
+
+How many digits does the hexadecimal number system have?
+@@16
+10
+8
+
+Which of the following scenarios describes simultaneous equations with no solution?
+@@The solution lines for the equations are parallel and don't intersect on a graph
+The solution lines for the equations intersect at a single point on a graph
+The solution lines for the equations overlap on a graph
+
+When a logarithm is written without a base, it is implied that the base is
+@@10
+0
+1
+
+If a wheel of radius R revolves 1/2 a turn, how many radians does it turn through?
+@@π radians.
+2π radians.
+2R2 radians.
+
+Which type of angle measures less than 90 degrees?
+@@Acute Angle
+Right Angle
+Obtuse Angle
+
+Which type of angle measures exactly 90 degrees?
+@@Right Angle
+Obtuse Angle
+Straight Angle
+
+A full circle is divided into
+@@360°
+180°
+90°
+
+A degree is divided into
+@@60 minutes
+90 minutes
+180 minutes
+
+Which concept is defined to be equivalent to the angle subtended at the center of a circle by an arc equal in length to the radius?
+@@One radian
+One degree
+One minute
+
+What is the radian equivalent of 180 degrees?
+@@π
+2π
+π/2
+
+What is the radian equivalent of 90 degrees?
+@@π/2
+π
+2π
+
+What is the radian equivalent of 360 degrees?
+@@2π
+π
+π/2
+
+Which one is the most effective method for presenting relationship between two or more quantities??
+@@Graphs and charts.
+Written descriptions.
+Tables.
+
+What does interpretation of two variables graph mean?
+@@Determining unknown variable when a variable is known.
+Constructing the relationship between two variables.
+Determining unknown variable when a variable is zero.
+
+How many axes does a Cartesian coordinate system have?
+@@2
+3
+4
+
+y is a function of x. It means:
+@@There is an equation that links x and y.
+If x increase y will increase.
+If x increase y will decrease.
+
+What is the general form of a linear function?
+@@y = mx + c.
+y = mx² + c.
+y = mˣ + c.
+
+What is the general form of a quadratic function?
+@@y = ax² +bx+c.
+y = mx² + c.
+ax² +by²=c.
+
+Given a point on the rectangular coordinate system that is presented as (x, y). If product x and y is greater zero, the point locate in:
+@@The First or Third quadrant.
+The First or Second quadrant.
+The Second quadrant.
+
+Which ordered pair locate a point in fourth quadrant of a rectangular coordinate system.
+@@(5, -10).
+(-10, 5).
+(-10, -5)
+
+Which point is used to plot graph of the function y = 3x +4
+@@(1, 7).
+(-1, -7).
+(0, 0).
+
+What is the equation of a straight line that passes through the two points (1, 1) and (0, -2)?
+@@y = 3x - 2.
+y = 5x - 4.
+y = 2x - 2.
+
+How many times does the graph of y= ax + b cross graph of y= (a + 1)x + c
+@@1
+0
+2
+
+The line with equation x = 3 is.
+@@Parallel to the y axis.
+At 45 degree to both axes.
+Parallel to the x axis.
+
+A straight line graph has the equation 3y = 12x – 3. What is the gradient?
+@@4
+1/4.
+1/12.
+
+What is the gradient of graph of a linear function that parallel to x-axis
+@@0
+1
+-1
+
+The graph of a linear function have two points (9, 3) and (3, 1). What is the slope?
+@@1/3.
+1/4.
+1/5.
+
+Graph of a linear function parallel to x-axis and have a y-axis intercept of 2. What is this function?
+@@y = 2.
+y = 2x.
+y = x + 2.
+
+Two graphs of linear function that have same y-axis intercept and sum of gradients equal zero are
+@@Symmetric each other (y axis is symmetry axis)
+Parallel each other.
+Perpendicular each other.
+
+How many times does the x-axis get crossed when y = x² -3
+@@2
+1
+3
+
+Which quadratic function have a minimum point?
+@@y = x² + 2x + 7.
+y = -x² + 2x + 7.
+y = -x² + 7.
+
+How many times does a graph of quadratic function cross x-axis?
+@@Not more than 2.
+Always 2.
+Not less than 1.
+
+Which following one is correct?
+@@tan(y) = sin(y) / cos(y).
+tan(y) = sin(y) x cos(y).
+tan(y) = cos(y) / sin(y)
+
+A right-angled triangle has sides of 3 inches and 4 inches, what will the third side (hypotenuse) be?
+@@5 inches.
+5.5 inches.
+6 inches.
+
+Which one is correct?
+@@sin²(x)  + cos²(x) = 1
+sin²(x)  + cos²(x) = tan²(x)
+sin²(x)  + cos²(x) + tan²(x) = 1
+
+A right triangle has 03 angles A, B and C (C is a 90° angle). Which following one is correct?
+@@sin A = cos B
+sin A = sin B
+sin A = tan B
+
+A right triangle has 03 angles A, B and C (C is a 90° angle). Which following one is NOT correct?
+@@sin A - cos B =1
+sin² A + sin² B = 1
+sin C - cos C = 1
+
+A right triangle has 03 angles A, B and C (C is a 90° angle). The length sides are AB = 2 inches and BC = 1 inch. What is the measure of angle A?
+@@30°
+45°
+60°
+
+A right triangle has 03 angles A, B and C (C is a 90° angle). The length sides are BC = 3 inches and AC = 4 inch. Which following one is correct?
+@@tan A = 0.75
+cos B = 0.6
+sin C = 0
+
+A triangle has 03 angles A, B and C. The length sides are AB = 5 inches, BC = 12 inch and AC = 13 inches. Which angle has a measure of 90 degrees?
+@@B
+C
+A
+
+In a triangle, the length of the hypotenuse and the side have 17 inches and 8 inches values, respectively. What is the length of the other side?
+@@15 inches
+13 inches
+14 inches
+
+Which following one is correct for two trigonometric graphs y1 = sin x and y2 = 2 sin x ?
+@@y1 and y2 have the same wavelength
+y1 and y2 have the same value at x equal to π/2
+y1 and y2 have the same amplitude
+
+Which amplitude does the graph of y = 3 sin x have?
+@@3
+2
+1
+
+The line has 3 units along the x-axis and 4 units up the y-axis. Which is the length of the line?
+@@5
+4
+3

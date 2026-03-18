@@ -1,0 +1,829 @@
+Murphy's law can be regarded as the notion
+@@If something can go wrong it will
+It can never happen to me
+If something goes wrong I am certain to get the blame
+
+Murphy's law saying was after
+@@One failed test with pilot seat
+One pilot mistake
+One maintenance error
+
+The PEAR model of human factoties consists of
+@@4 parts
+2 parts
+5 parts
+
+P of the PEAR model stans for
+@@P stands for People (the humans in the system)
+P stands for Procedures used in the system
+P stands for Preparations for job in the system
+
+Which part of the PEAR model would the training availability belong to
+@@R for the Resources
+A for the Actions
+E  for the Environment
+
+The organizational environment covers issues such as
+@@Supervision, pressures, organization/ safety culture and existing organizational norms
+Location, organization and safety culture
+Lighting, temperature and noise level
+
+Which part of PEAR is identifying procedures to be followed  in
+@@A for the Actions
+P for the Personel
+R for the Resources
+
+In their Maintenance Human Factors training package,PEAR has been used for over a decade by:
+@@Some JAR/ EASA 145- approved organisations and  the US Federal Aviation Administration (FAA)
+The US Federal Aviation Administration (FAA)
+Some JAR/ EASA 145- approved organisations
+
+What happened on the tragic Aloha Flight 243, which took place on April 28, 1988
+@@The large section of the upper forward fuselagetore off during the flight
+The left hand windshield separated from its frame during the flight
+The outflow valve was in the opened position during the flight
+
+Investigators of the Aloha flight 243 made 18 Safety Recommendations that were enacted
+@@For FAA and for Aloha Airlines
+For FAA
+For Aloha Airlines
+
+What happened on BAC-111 aircraft that performed the British Airways Flight 5390 from Birmingham Airport in England to Málaga Airport in Spain, on 10 June 1990
+@@The left hand windshield separated from its frame during the flight
+The outflow valve was in the opened position during the flight
+The large section of the upper forward fuselagetore off during the flight
+
+Investigators of the British Airways BAC -111 aircarf made eight safety recommendations in the final accident report that applied to
+@@Civil Aviation Authority and British Airways
+British Airways only
+Aircraft manufacture
+
+What happened on B737 aircraft that performed the Helios Airways Flight 522flight from Larnaca, Cyprus, to Prague, Czech Republic on August 14, 2005
+@@The outflow valve was left in the opened position during the flight
+The left hand windshield separated from its frame during the flight
+The left hand windshield separated from its frame during the flight
+
+What was a significant contributing factor of the  Helios Airways B737  with the outflow valve was in the opened position
+@@The vagueness of the maintenance manual instructions
+The maintenance staff did not have enough time
+The pilot did not contact the company operation center on time
+
+How many elements of The Dirty Dozen that influence people to make mistakes.
+@@12
+10
+11
+
+Accidents and engineering faults are.
+@@significant and increasing
+insignificant and decreasing
+insignificant and increasing
+
+Consequences of human factors have effect on
+@@flight safety
+flight delay only
+flight cancelation
+
+Maintenance related incidents involve human factors is universally agreed
+@@at least 80 percent
+at least 20 percent
+about 50 percent
+
+Human factors can cause
+@@injuries, wasted time, and even accidents
+injuries, wasted time
+deffects
+
+Murphy's law is perpetuated mainly by
+@@complacency
+violations.
+poor aircraft design
+
+Murphy’s Law can be used as a tool,
+@@expect things to go wrong and put maintenance safety culture into action
+expect nothings to go wrong
+expect some things to go wrong and that’s all
+
+Extreme discomfort experienced by a maintenance engineer due to working in a confined space is known as
+@@Claustrophobia
+Acrophobia
+Agoraphobia
+
+Extreme discomfort experienced by a maintenance engineer due to working at significant heights  is known as
+@@Acrophobia
+Acrophobia
+Agoraphobia
+
+The 'working memory' is
+@@The short term memory
+The long term memory
+The ultra short term memory
+
+The type of memory which is most easily influenced by a person's expectations of what should have happened is
+@@The episodic memory
+The semantic memory
+The long term memory
+
+The type of attention when a person is monitoring several sources of input, with greater attention being given to one or more sources is
+@@The selective attention
+The divided attention
+The focused attention
+
+People with colour defective vision usually have difficulty differentiating between
+@@Red and green
+Blue and yellow
+Blue and green
+
+What type of lens is used to overcome near sightedness
+@@Concave
+Bi-focal
+Convex
+
+What type of lens is used to overcome far sightedness
+@@Convex
+Concave
+Bi-focal
+
+The inability for the eyes to accommodate sufficiently is known as
+@@Presbyopia
+Hypermetropia
+Myopia
+
+Presbyopia often effects the eyes of people after the age of
+@@40
+55
+70
+
+Visual Acuity is the ability
+@@Of the eye to discriminate sharp detail at varying distances
+To differentiate between different colours
+To detect objects in the peripheral vision
+
+Colour defective vision affects
+@@Almost 1 in 10 of men
+More women than men
+Almost 1 in 10 of women
+
+The ear is used to detect
+@@Acceleration
+Speed
+Height
+
+The normal human ear is sensitive to frequencies
+@@Between about 20 Hz and 20 000 Hz
+Below 20 Hz
+Above 20000 Hz
+
+What range of sound is usually impaired first with the onset of presbycusis
+@@High pitch sound
+Low pitch sound
+Mid range sound
+
+Human beings basically process information in
+@@05 stages
+03 stages
+06 stages
+
+Light enters the eye through
+@@The cornea
+The visual cortex
+The retina
+
+About 70 - 80% of the total focusing ability of the eye is carried out by
+@@The cornea
+The iris
+The retina
+
+Peripheral vision is detected by
+@@The rods
+The cones
+The fovea
+
+At lower light levels, the visual sensing is performed mainly by
+@@The rods
+The fovea
+The cones
+
+A person with 20/40 vision has
+@@worse eyesight as a person with 20/20 vision
+better eyesight than a person with 20/20 vision
+the same eyesight as a person with 20/20 vision
+
+Long term memory capacity is usually
+@@unlimited.
+4 - 8 years
+12 months
+
+The difference between what a person 'can' do and what he 'will' do is largely determined by:
+@@His motivation.
+His education and training.
+His physical and mental health
+
+Motivation stimulates one to achieve various things and it usually considered to be:
+@@A positive force
+A negative force
+A neural force
+
+Internal Motivation means:
+@@Do it because we want to
+Do it because we get  rewards
+Do it because someone else has told you to
+
+The delayed reward on workplace has
+@@Doubtful effects
+Negative effects
+Positive effects
+
+Delayed punishments have negative effects: they don’t lead to improved behavior and they make people
+@@resentful
+happy
+relieved
+
+According to Maslow, safety needs (protection from potentially dangerous objects or situations)
+@@is second only to physiological needs (food drink, oxygen etc.)
+is the most primal need of humans
+is the last need of human after all other needs have been satisfied
+
+Demotivated people tend to demonstrate
+@@a poor record of time keeping and high absenteeism
+willingness to accept responsibility
+high performance and results being consistently achieved
+
+Group responsibility has
+@@its advantages and its disadvantages
+its advantages only
+its disadvantages only
+
+The disadvantage of group responsibility is that
+@@Each member of the group  often just assumes that ‘someone else will do it’
+Each member of the group ought to feel responsible for the output of that group
+Each member must work together
+
+The Hawthorne effect (also referred to as the observer effect) is that
+@@Workers perform better when they believe they are being observed
+Workers perform less when they believe they are being observed
+Workers perform slower when they believe they are being observed
+
+Peer pressure is the pressure we feel to do what our group or peers expect of us, peer pressure
+@@is closely linked to organizational norms and culture
+can work for safety always
+can work against safety
+
+Among the group, the person who is most likely to be agreed with is
+@@the expertise of the group members
+the person who repeats the point most times
+the most argumentative person
+
+Team members working together in ways to achieve one or more common goals; team requires
+@@interdependence
+independence
+dependence
+
+The key issue in resolving a conflict is first to determine
+@@what is right?
+who is right?
+who is present?
+
+The official team leader should
+@@be the person the rest of the group defers to
+be afraid to lead
+be a assigned supervisor
+
+The symptoms of de-motivation are very similar to the symptoms of
+@@stress
+tiredness
+mental illness
+
+The Window of Circadian Low (WOCL) is a high risk time for human error and it refers to
+@@The period from around 2 am to 5 am
+The period from around 6 am to 9 pm
+The period from around 2 pm to 5 pm
+
+Alertness and performance is reduced when the body temperature is
+@@below normal
+above normal
+either above or below normal
+
+The cycles of body temperature, sleep requirement and alertness are called
+@@circadian rhythms
+earth cycles
+ecto - meridian cycles
+
+How long is normal sleep inertia ( a sleep drunkenness)
+@@15 min
+5 min
+60 min
+
+For a person with normal Circadian rhythms, the body temperature will be lowest
+@@around 3 o'clock in the morning
+upon waking
+at midnight
+
+Which conditions in the workplace can make the effects of fatigue more severe?
+@@low light and warm tempretura
+bright light
+low tempretura
+
+Which task in the workplace can make the effects of fatigue more severe?
+@@the boring task performed while seated
+the interesting task
+the task performed while standed
+
+Maintenance tips for dealing with the WOCL: 2–5 am
+@@Ask someone to check your work
+Do tasks as quickly as you can
+Do some safety critical tasks
+
+Report that daytime sleepiness is affecting the quality of their work concerning
+@@Over 40 per cent of adults in the general population
+About 20 per cent of adults in the general population
+Over 40 per cent of men in the general population
+
+How many of maintenance personel worlwide  considers that fatigue is a safety issue in aircraft maintenance
+@@over  80 percent
+50 percent
+33 percent
+
+Who has responsibility for managing fatigue?
+@@Employer and employee
+Employer
+Employee
+
+The first and most obvious way to prevent fatigue is
+@@to get more good quality sleep
+to get more vacation
+to get more food and beverage
+
+The optimum level of performance is obtained
+@@between underload and overload condition
+in overload condition
+in underload condition
+
+Removal of alcohol from the blood stream
+@@cannot be speeded up
+can be speeded up by sleeping
+can be speeded up by drinking strong coffee
+
+How many are main types of drug affecting the central nervous system
+@@3
+4
+2
+
+Caffeine (in coffee, tea, and cola drinks) is belong to
+@@Stimulants
+Depressants
+Hallucinogens
+
+Alcohol is belong to
+@@Depressants
+Stimulants
+Hallucinogens
+
+Employers must provide their employees with personal ear protectors if the noise level for long time period reaches
+@@85 dB
+70 dB
+60 dB
+
+Without ear protection even for a short duration is NOT recommended if the noise level reaches
+@@115 dB
+85 dB
+70 dB
+
+Important matters are discussed
+@@away from noisy areas
+at noisy enviroment
+with ear plugs installed
+
+How many are types of HPD Hearing Protecting Device
+@@2
+3
+4
+
+The hearing protection from simple foam plugs to full earmuff offering noise reduction from
+@@25-30 dB
+5-10 dB
+10-15 dB
+
+Up to what proximity to an aircraft with engines running is the use of ear protection recommended for maintenance personnel?
+@@200 - 300 metres
+20-30 metres
+2-3 metres
+
+The effect on an engineer of environmental noise is
+@@it decreases concentration and quality of work
+it has no affect on concentration of quality of work
+it improves concentration and quality of work.
+
+A maintenance staffs are likely to encounter CO carbon monoxide
+@@in ground equipment, such as fueling trucks and tugs
+in aircraft cabin
+in metal workshop
+
+A condition known as Occupational Asthma is caused
+@@by paints
+by toxic metal
+by hydraulic fluids
+
+How many are types of Pressure Respirators?
+@@2
+3
+1
+
+Heat rash, commonly called prickly heat, is a common skin problem in
+@@hot environments.
+cold environments.
+wet environments.
+
+Heat Index predicts likelihood of heat related disorder and its increasing
+@@with relative humidity and temperature
+with relative humidity
+with  temperature
+
+What is NOT recommendation for working in the cold
+@@use alcohol to maintain body temperature
+reduce activities that promote heavy sweating
+use warm beverages, warm gloves
+
+White Finger Syndrome is caused
+@@by frequent use of vibrating hand tool
+by prolong working in low temperature
+by repeated contact with cleaning solvents
+
+Excess noise in a working environment can
+@@lower resistance to other stresses
+raise resistance to other stresses
+not affect performance
+
+Environmental stresses are
+@@caused by noise, fumes, heat and vibration
+tolerated by everyone equally
+not normally cumulative
+
+Who has responsibility to building a safety culture?
+@@Each worker, top to bottom
+All maintenance staffs
+CEO and management board
+
+Hypothermia is the medial term for
+@@low body temperature
+normal body temperature
+high body temperature
+
+What does planning ensure?
+@@there are qualified personnel, tools, equipment, material, maintenance data, and facilities at the right place, at the right time
+there are qualified personnel, tools,  and facilities at the right place, at the right time
+there are  tools, equipment, material and facilities at the right place, at the right time
+
+Planning of personnel concerns
+@@with respect to number of persons, required qualifications and skills
+number of supervisor
+number of surporting persons
+
+Who ensures that the resources are available for staff to carry out tasks?
+@@the shift supervisor
+the management
+the staff hiself
+
+What physical work do maintenance tasks require?
+@@most tasks require precision with fine control as well as activities requiring strength and gross manipulation
+most tasks require precision with fine motor control
+most tasks require strength and gross manipulation
+
+How do we deal with a heavy item which is beyond our physical capability?
+@@Require and use proper tool
+Attempt to lift it ourself and may get injury
+Do nothing and handover
+
+Missing a break in an effort to get a job done within a certain time frame can
+@@diminishe motor skills, perception, awareness and standards
+diminishes awareness and standards
+diminishes motor skills and standards
+
+Repetitive tasks for maintenance staffs typically refer to tasks
+@@that are performed several times during a shift, or a number of times during a short time period
+that are performed several times during a shift
+that require strength
+
+The main danger with repetitive tasks is
+@@complacency
+fatigue
+distraction
+
+Visual inspection can be described as the process to examine and evaluate the condition of systems or components of an aircraft by using
+@@the eye and also other senses (touch, hearing, smell, etc.)
+the eye only
+the eye and aids such as magnifiers and borescopes
+
+What is imporpant concering assessment of what is seen
+@@training, experience and common sense
+experience and common sense
+training and experience
+
+Any complex system can be thought of as having
+@@a wide variety of inputs
+single mechnical input
+single electrical power
+
+What is more important source of guidance for working with complex systems within aircraft
+@@written procedures and reference material
+experience
+training and experience
+
+What is the most natural form of communication?
+@@Speaking
+Non verbal communication
+Writing
+
+The main communication channels in maintenance can be summarized as
+@@oral- speech; written- documentation; non verbal-wordless cues; and physical cues
+oral- speech; written- documentation and physical cues
+oral- speech; written- documentation
+
+The error rate for oral communication  in industrial settings is estimated to be  around
+@@01 out of every 30 spoken exchanges
+01 out of every 10 spoken exchanges
+01 out of every 50 spoken exchanges
+
+Effective communication is a complex process that simplistically summarized in these:
+@@04 steps
+03 steps
+02 steps
+
+What is the first step of communication ?
+@@Someone transmits information
+Someone else receives that information
+That receiver understands the information
+
+What is the last step of effecctive communication ?
+@@The receiver confirms to the transmitter that they have received, and understood  the information
+Someone else receives that information
+That receiver understands the information
+
+When you are the sender of a message,
+@@make sure the receiver has understood it
+make sure the receiver has received it
+make sure the receiver has informed it
+
+Effective communication at shift handover should be
+@@repeated via more than one form
+written only
+verbal
+
+What constitutes a good work handover
+@@A written and verbal account of the work done
+A written documentation of the work done
+A verbal account of the work done
+
+The shift handover process is defined
+@@in the Maintenance Organization Exposition (MOE)
+in the Aircraft Manufacturer Manual
+in the Component Manual
+
+What must the management provide to ensure effective shift handover?
+@@ample shift overlap time, adequate job aids and dedicated facilities for the handovers to take place
+adequate job aids and dedicated facilities for the handovers to take place
+ample shift overlap time and adequate job aids
+
+The most effective way to exchange detailed information related to individual jobs and tasks for the affected incoming and outgoing personnel is
+@@to go over the task issues while examining the actual jobs on the hangar floor or at the workplace
+by records on taskcards
+by handover sheet
+
+What is the most important means of communication in aircraft maintenance engineering
+@@Written
+Implicit
+Verbal
+
+The information conveyed between teams  at shift handover usually includes
+@@Tasks that have been completed, tasks in progress and tasks to be carried out
+Tasks that have been completed and staffs performed tasks
+Tasks to be carried out
+
+It is always necessary to keep the record of work up to date because of
+@@shift change, a rest break, illness, the need to move to another more urgent task, etc
+shift change, handover to other staff
+a rest break, illness
+
+The paperwork normally associated with scheduled tasks may have been written by
+@@the manufacturer, maintenance organization or the operator of the aircraft
+the manufacturer, the maintenance organization
+the ownner of the aircraft
+
+Task cards break down jobs in to discrete stages
+@@It may be used be used as a handover document in ideal case
+It is designed to be used as a handover document
+It could not be the handover
+
+The PEAR model of human factors takes into account
+@@People, Environment, Actions and Resources
+People, Efficiency, Actions and Resources
+People, Environment, Actions and Relocation
+
+The SHEL model of human factors takes into account.
+@@Software, hardware, environment and liveware
+Software, hardware, efficiency and liveware
+Software, hardware, environment and location
+
+Human errors can be divided into
+@@unintended actions and intended actions
+slip and lapses
+error and violation
+
+Examples not using a torque wrench but instead judging torque by feel are
+@@routine violation
+error
+lapse
+
+On a task that is complex, an engineer uses his own procedures due to pressure. This is legally termed
+@@routine violation
+initiative
+modification
+
+A signature put in the wrong place is considered as
+@@slip of pen
+mistake
+violation
+
+A checklist item missed is considered as
+@@slip of pen
+lapse
+violation
+
+What may cause slip?
+@@Awareness
+Complacency
+Memory
+
+What may cause lapse?
+@@Memory
+Awareness
+Complacency
+
+Forgetting to remove tools or rigging devices at the end of a job
+@@lapse
+violation
+mistake
+
+Forgetting to close hatches
+@@lapse
+mistake
+slip
+
+Mistakes are a type of error where the problem has occurred during
+@@thingking
+doing
+inspecting
+
+Select the wrong work card to conduct a specific job is considered as
+@@mistake
+lapse
+slip of pen
+
+In the 'slips, lapses and mistakes' definition of errors, a mistake would typically occur at the
+@@planning stage
+execution stage
+storage (memory) stage
+
+A staff is working on a wing and kicks a spanner off into an engine cowl and breaks a sensor. This is
+@@skill based error
+rule based error
+knowledge based error
+
+A staff pushed in a pulled cockpit circuit breaker without first stopping to check the cockpit control settings. This is
+@@rule based error
+knowledge based error
+skill based error
+
+An apprentice was spraying solvent to clean an engine with the AC power on. This is
+@@knowledge based error
+skill based error
+rule based error
+
+Maintenance Error Decision Aid (MEDA) is based on
+@@Mechanics don’t intend to make mistakes
+Management can NOT fix the factors that contribute to errors
+Errors NOT result from a variety of workplace factors such as unclearly written manuals, poor communication
+
+Who devevoped MEDA?
+@@Boeing Commercial Airplanes
+An aircraft operator
+An AMO
+
+How many are phases of MEDA
+@@5
+4
+3
+
+MEDA stands for
+@@Maintenance Error Decision Aid
+Maintenance Equipment Dedevelope Aid
+Maintenance Error Develop  Accessment
+
+JHA stands for
+@@Job Hazard Analysis
+Job Human Analysis
+Job Health Aids
+
+Job Hazard Analysis  is a technique that focuses on job tasks as a way to identify hazards
+@@before they occur
+when they occur
+after they occur
+
+A hazard if left uncontrolled, can result in
+@@an injury or illness
+an injury
+an illness
+
+Job Hazard Analysis focuses on the relationship between
+@@the worker, the task, the tools, and the work environment
+the worker, the task and the tool
+the worker and the work environment
+
+After identifying the hazard have to be
+@@eliminating or controlling
+eliminating
+controlling
+
+How many phases has Job Hazard Analysis
+@@5
+4
+3
+
+What is the first phase of JHA Job Hazard Analysis
+@@Involve the team
+Conduct a preliminary job review
+Outline the steps or tasks
+
+What is the last phase of JHA Job Hazard Analysis
+@@Outline the steps or tasks
+Review accident history
+List, rank, and set priorities for hazardous jobs
+
+What is PPE?
+@@Personal Protective Equipment
+Personal Preserved Equipment
+Private Protective Exit
+
+In the JHA what is the last step in protecting against workplace hazards?
+@@to use Personal Protective Equipment (PPE)
+to eliminate all hazards completely
+to control all hazards at acceptable level
+
+What is an emergency?
+@@An injury to oneself or to a colleague and a situation that is inherently dangerous, which has the potential to cause injury ( such as a fire)
+A situation that is inherently dangerous, which has the potential to cause injury (such as a fire)
+An injury to oneself or to a colleague
+
+How to prepare for emergencies correctly?
+@@to have in place: planning, attitude, supplies and communications
+to have in place: planning, supplies, and communications
+to have in place: supplies and communications
+
+The right supplies include such as
+@@emergency first aid kits
+specific plans for various types of accidents
+emergency contact information
+
+What should be first step after an emergency generally?
+@@Get to a safe place
+Call for help
+Know the location of emergency equipment.
+
+DANGER signs use color
+@@red, black and white
+green, blue and white
+yellow and black
+
+CAUTION signs are generally
+@@yellow and black
+red, black and white
+green and blue
+
+Which recommendations are more effective in warning sign?
+@@Positive
+Negative
+Neutral
+
+What should you do when working in hazardous area
+@@Work in accordance with safety instruction
+Refuse to work
+Work as usual because it is not hazard
+
+Staffs often work on raised platforms, ladders etc. What dangers can this contribute to
+@@Ladder may slip and man falls
+Two workers may be carrying out maintenance on the same platform
+Staging may be made of wood
+
+Red color used in
+@@Danger sign
+Caution sign
+Information sign
+
+Blue or Green color used in
+@@Information sign
+Danger sign
+Caution sign
+
+What do you do when someone is hypothermic
+@@Get him/her out of the cold and warm them up
+Feed them sweet things because of their diabetes
+Give them a drink because of dehydration

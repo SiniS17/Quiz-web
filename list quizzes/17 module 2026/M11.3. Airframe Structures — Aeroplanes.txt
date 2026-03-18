@@ -1,0 +1,299 @@
+What is correct statement relating to semi-monocoque construction?
+@@The skin is stressed and is supported on the inside by numerous structural elements such as bulkheads, frames, longerons and stringers.
+The skin is stressed and is supported on the inside by mono structural elements such as bulkheads or frames or longerons or stringers.
+The frame is stressed and is supported on the inside by numerous structural elements such as bulkheads, skin, longerons and stringers.
+
+What does purpose of reinforce locally for Cutouts of the doors?
+@@To maintain proper load distribution around the openings.
+To easily close and open the door.
+To support door during it operation.
+
+Wet sealant applies for fasteners to?
+@@Fill the gap around of fastener and head
+Prevent fastener loosen
+Fuselage bonding
+
+What are method to attach forward and aft wing spar to fuselage?
+@@Attachment with bolts or other fasteners
+Attachment with bolts or welding
+Attachment with welding or other fasteners
+
+Which is element using to attach the stabilizer to fuselage?
+@@Stabilizer Front and rear spar
+Stabilizer skin
+stabilize web
+
+How are seats installed?
+@@Seats are attached to seat tracks by seat locking mechanism and seat pitch can adjust.
+Seats are attached to the frame by bolts and seat pitch can not adjust.
+Seats are attached to seat tracks by seat locking mechanism and seat pitch can NOT adjust.
+
+In pressurized aircraft, undercarriage bays
+@@Are unpressurised
+May be pressurized or unpressurised
+Are pressurized
+
+The main longitudinal members in a fuselage are called.
+@@Longerons
+Frames
+Spars
+
+Flight deck windows on transport aircraft are constructed of
+@@Laminations of tempered glass and plastic.
+Laminations of comon glass and plastic.
+Laminations of tempered glass.
+
+A plug type window is fitted.
+@@From the inside
+From the outside
+From either side
+
+which is statement correct:
+@@Cabin entry doors have fittings to attach an emergency inflatable slide
+Cabin entry doors have fittings to attach an emergency metal slide
+Cabin entry, cargo doors have fittings to attach an emergency inflatable slide
+
+Cargo doors are usually:
+@@Non-plug type doors.
+Plug type doors.
+Unplug type doors.
+
+A powered aircraft tows a glider with:
+@@A rope.
+A bar.
+A rod.
+
+When is the glider released during glider towing?
+@@Once the sufficient altitude is reached.
+Once the sufficient speed is reached.
+Once the sufficient pressure is reached.
+
+A powered aircraft tows a banner with:
+@@A hook and cable.
+A rod and cloth.
+A cable and cloth.
+
+Military aircraft tow aerial target with:
+@@Air-to-air gunnery training.
+A hook and cable.
+A rope or cable
+
+Which part is attached to a tow bar for airbone towing?
+@@Tow hook.
+Mounting bracket.
+Release handle.
+
+How many vertions are there for the tow hook?
+@@Two.
+Three.
+Four.
+
+What is the function of the optional bumper stop?
+@@To prevent the hook from striking the hook housing.
+To prevent the tow ring from detaching from the hook.
+To position the release subassembly.
+
+What is the maximum design load for the Pacific Aerial Tow Hook?
+@@1200 lbs.
+1800 lbs.
+2400 lbs.
+
+The Pacific Aerial tow ring attaches to the:
+@@Tow hook assembly.
+Release assembly.
+Bumper stop.
+
+Handling of cargo is often done with special cargo handling equipment such as tracks and rollers:
+@@To move cargo fore and aft in the aircraft fuselage
+To move cargo up in the aircraft fuselage
+To move cargo down in the aircraft fuselage
+
+Which is power often using for cargo handling?
+@@Elctrical power
+By hand
+Hydraulic power
+
+Cargo doors typically:
+@@Open outward
+Open inward
+Open foreward
+
+Cabin doors are required to open
+@@From both sides
+From inside only
+From both sides but when open from outside, the door need to unlock from inside
+
+The silicon rubber door seal is pressurized and it pushes the door:
+@@Outward.
+Inward.
+Upward.
+
+The emergency exit hatches are installed from:
+@@Inside.
+Outside.
+Inside or outside.
+
+Cargo doors are in:
+@@The pressurized section.
+The non-pressurized section.
+The pressurized section or the non-pressurized section.
+
+When the slide is activated, the girt bar attaches to:
+@@The door frame.
+The door structure.
+The door slide.
+
+The emergency exit doors are opened from:
+@@Inside or outside.
+Inside.
+Outside.
+
+On a mono-spar wing, what gives the wing its profile contour?
+@@Ribs.
+Milled stringers.
+The position of the spars.
+
+Wing bending and shear loads are taken by
+@@Main spar
+Rib
+Skin
+
+what is correct statement relating mono wing construction?
+@@The mono spar wing incorporates only one main span-wise or longitudinal member in its construction. Ribs or bulkheads supply the necessary contour or shape to the airfoil.
+The mono spar wing incorporates one or more main span-wise or longitudinal member in its construction. Ribs or bulkheads supply the necessary contour or shape to the airfoil.
+The mono spar wing incorporates one or more main span-wise or longitudinal member in its construction. Ribs or bulkheads supply bending load.
+
+which are material often use in modern transportation aircraft?
+@@Aluminum, carbon fiber
+Aluminum, wood, steel
+Aluminum, wood, timber
+
+Which element is principle structural members of a wing
+@@Spar
+Stringer
+Rib.
+
+Which is statement correct:
+@@Currently, most manufactured aircraft have wing spars made of solid extruded aluminum or aluminum extrusions riveted together to form the spar.
+Currently, most manufactured aircraft have wing spars made of welding aluminum or aluminum extrusions riveted together to form the spar.
+Currently, most manufactured aircraft have wing spars made of apart extruded aluminum or aluminum extrusions riveted together to form the spar.
+
+Why is the interface between the wing and fuselage covered with fairings?
+@@To achieve the smooth air flow.
+To increase the lift efficiency.
+To reinforce the wing structure.
+
+Why is the wing tip is often a removable unit?
+@@This part is vulnerable to damage.
+To reinforce the structure by rivets.
+To change to another shape easily.
+
+Wings are of full cantilever design that means:
+@@No external bracing is needed.
+Wire bracing is needed.
+Long struts is needed.
+
+Which wing structures are in span-wise direction?
+@@Spars and stringers.
+Ribs and stringers
+Ribs and spars.
+
+Which wing structures are in chord-wise direction?
+@@Ribs.
+Spars.
+Stringers.
+
+What does the fail safe spar web design?
+@@As one part of structure fails, others assume the load of failed one.
+The parts of wing structure are designed to be unlikely failure.
+The parts of wing structure are designed to be maintained safely.
+
+What are functions of fixed surfaces stabilizers?
+@@They help stabilize the aircraft in flight.
+They control the aircraft in flight.
+They lift the aircraft.
+
+The structure of the stabilizers consist of:
+@@Spars, ribs, stringers, and skin.
+Spars, ribs, frames, and skin.
+Frames, ribs, stringers, and skin.
+
+Which statement about stabilizer is correct?
+@@Ellevator attaches to the horizontal stabilizer.
+Ellevator attaches to the vertical stabilizer.
+Rudder attaches to the horizontal stabilizer.
+
+The control surface attaches to the stabilizer structure at:
+@@The rear spar.
+The front spar.
+The rib fitting.
+
+The spar of stabilizer transmits any overloads to:
+@@The fuselage.
+The ribs.
+The stringers.
+
+How many stabilizers are there in the aircraft?
+@@Two.
+Three.
+Four.
+
+Normaly, aircraft  yaw, pitch, and roll done by:
+@@Aileron, rudder, elevator.
+Aileron, rudder, elevator, flaps, slats
+Aileron, rudder, elevator, flaps, slats, spoiler
+
+To eliminate flutter, it is very important that the control surfaces be balanced so that their center of gravity
+@@does not fall behind their hinge line
+does not in foreward their hinge line
+does not the same position of hinge line
+
+How many methods are there for eliminating flutter?
+@@Two.
+Three.
+Four.
+
+One of the methods is used to eliminate flutter:
+@@Aerodynamic balacing.
+Dynamic balacing
+Static balacing.
+
+Adding more weight to the leading adge of the control is the method of:
+@@Mass balacing.
+Aerodynamic balacing.
+Dynamic balacing.
+
+Which statement about balancing flight control is correct?
+@@Aerodynamic balacing brings the forward portion to project into the air.
+Dynamic balacing brings  the forward portion to project into the air.
+Dynamic balacing brings the rearward portion to project into the air.
+
+Which components  are typical nacelle system ?
+@@Nose cowl, hinged cowl panels, an exhaust nacelle and thrust reverser components
+Nose cowl, hinged cowl panels, an exhaust nacelle and thrust reverser components, Landing gear, engine fan
+Nose cowl, hinged cowl panels, an exhaust nacelle and thrust reverser components, engine mount.
+
+The thrust from engine is transferred to airframe through:
+@@Pylon.
+Nacelle.
+Wing.
+
+Which the materials of nacelle is used in high temperature areas?
+@@Stainless steel or titanium alloys.
+Titanium alloys or magnesium alloys.
+Stainless steel or magnesium alloys.
+
+What is the function of  the firewall of the nacelle?
+@@To isolate the engine compartment from the rest of the aircraft.
+To release the fire in engine to outside nacelle.
+To prevent engine nacelle from tail by fire.
+
+Which parts are used to transfer the loads from engine to pylon?
+@@Engine mounts
+Engine nacelles.
+Nacelle bulkheads
+
+The engine hot exhaust gas cannot damage the airframe due to:
+@@Pylon.
+Nacelle.
+Firewall.

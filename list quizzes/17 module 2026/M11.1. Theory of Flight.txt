@@ -1,0 +1,194 @@
+Which control surface is used to control an aircraft’s roll?
+@@Ailerons
+Rudder
+Elevators
+
+What is the primary purpose of flaps on an aircraft wing?
+@@To increase lift during takeoff and landing
+To reduce drag
+To increase cruise speed
+
+What is the function of an elevator on an aircraft?
+@@To control pitch
+To control yaw
+To control roll
+
+In aerodynamics, what is the purpose of a stabilators?
+@@To control lift
+To control pitch
+To stabilize yaw
+
+What is the function of a spoiler on an aircraft wing?
+@@To increase lift
+To reduce drag
+To decrease lift and increase drag
+
+Which control surface is used to control an aircraft’s pitch?
+@@Elevators
+Rudder
+Ailerons
+
+What is the primary function of an aircraft’s horizontal stabilizer?
+@@To maintain pitch stability
+To control lateral stability
+To increase thrust
+
+How does the addition of leading-edge flaps impact an aircraft’s takeoff performance?
+@@Increases lift
+Reduces drag
+Decreases lift
+
+In the context of aerodynamic surfaces, what is a “canard”?
+@@A small wing located ahead of the main wings
+A type of tail wing
+A stabilizing fin
+
+Which of the following trailing edge flaps give an increase in wing area?.
+@@Fowler flap
+Split flap
+Slotted flap
+
+What is a key characteristic of a high-lift device?
+@@It increases lift at lower speeds
+It is only used during cruising
+It increases drag significantly
+
+What is the role of the canard in aircraft design?
+@@To enhance lift and stability
+To improve maneuverability
+To increase drag
+
+How does a balance tab move?
+@@In the opposite direction proportional to the control surface it is attached to.
+In the same direction a small amount.
+In the same direction proportional to the control surface it is attached to.
+
+Where does the nose of aircraft move to , when its rudder deflects to the right ?
+@@To the right
+To the left
+Center
+
+When the an aileron on one wing deflects down, where does the aileron on the opposite wing deflect ?
+@@Upward
+Downward
+Neutral
+
+What is the purpose of a mass balance?
+@@Counteract flutter on control surfaces.
+Blance the tabs.
+Balance the trailing edge of flying control surfaces
+
+Which of the following are primary control surfaces?
+@@Elevators, ailerons, rudder
+Roll spoilers, elevators, tabs.
+Elevators, roll spoilers, tabs.
+
+Which flap will increase wing area and camber?
+@@Fowler.
+Slot.
+Split.
+
+What is attached to the rear of the vertical stabilizer?
+@@Rudder.
+Elevator.
+Aileron.
+
+What is the primary purpose of a flight control system in an aircraft?
+@@To control the aircraft’s altitude and direction
+To measure airspeed
+To manage fuel consumption
+
+What is the primary function of an aircraft’s spoiler?
+@@To reduce lift and increase drag
+To increase fuel efficiency
+To control yaw
+
+What is a key characteristic of  hight lift devices?
+@@It increases lift at lower speeds
+It is only used during cruising
+It increases drag significantly
+
+What is the function of flaperons?
+@@Combine aileron and flap functions
+Control yaw movement
+Increase rudder effectiveness
+
+What is a slot or cuff used for on a wing?
+@@Increase camber and delay stall
+Reduce wingtip vortices
+Act as a trim tab
+
+What causes wingtip vortices ?
+@@The high pressure air under the wing flowing to the low pressure air above the wing
+The weight of the aircraft
+Air turbulence from engines
+
+What is Mach number?
+@@The ratio of an aircraft’s speed to the speed of sound
+The measure of lift generated
+The drag coefficient
+
+What is the primary aerodynamic benefit of using winglets on aircraft wings?
+@@Improved fuel efficiency by reducing induced drag
+Increased drag
+Greater stability
+
+Which type of airflow occurs when the airspeed exceeds the speed of sound?
+@@Supersonic
+Transonic
+Subsonic
+
+Where are stall wedges installed to ensure that a wing stalls at the root first ?
+@@On the wing leading edge at the wing root.
+On the wing leading edge at the wing tip.
+On the wing trailing edge at the wing root.
+
+What are ground spoilers used for?
+@@To dump lift.
+To dump lift.
+To assist the aircraft coming to a stop.
+
+What is the primary purpose of a vortex generator on a wing?
+@@To stabilize airflow over the wing
+To reduce weight
+To increase drag
+
+What is a common consequence of exceeding the critical Mach number in high-speed flight?
+@@Formation of a shock wave on the wing
+Loss of engine power
+Increased fuel efficiency
+
+What is the primary aerodynamic benefit of a wing with sweepback in high-speed flight ?
+@@Delayed onset of shockwaves and reduced drag at transonic and supersonic speeds.
+Increased lift at low speeds.
+Improved fuel efficiency during takeoff
+
+How does reaching the critical Mach number effect the drag coefficient of an aircraft ?
+@@The drag coefficient increases sharply due to the formation of shock waves.
+The drag coefficient remains constant.
+The drag coefficient decreases as airflow becomes smoother.
+
+What is the critical Mach number of an aircraft?
+@@The Mach number at which the first shock wave forms on the aircraft, causing a rapid increase in drag.
+The Mach number at which the aircraft reaches supersonic speeds.
+The Mach number at which lift is zero.
+
+How do wingtip vortices affect an aircraft's performance?
+@@They create induced drag, reducing overall efficiency.
+They increase the lift generated by the wings
+They decrease drag and increase fuel efficiency.
+
+What design feature can reduce the impact of wingtip vortices?
+@@Winglets
+Flaps
+Ailerons
+
+What is the primary function of vortex generators on an aircraft wing ?
+@@To promote positive laminar airflow over the wing and control surfaces.
+To decrease the wing's weight.
+To improve the lift coefficient at low speeds.
+
+How does a stall fence improve the safety of an aircraft during flight?
+@@By preventing premature flow seperation near the wing tips.
+By increasing thrust at high altitudes.
+By allowing the pilot to fly at a higher speed.

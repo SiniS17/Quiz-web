@@ -1,0 +1,741 @@
+Major advantage of propeller-driven aircraft over pure jets airvraft is?
+@@lower cost and shortened take-off and landing distances
+higher cost and shortened take-off and landing distances
+lower cost and long take-off and landing distances
+
+The propeller is 'ground idle' when the blades are at
+@@0 degree
+20 to 35 degree
+10 to 12 degree
+
+The propeller is 'locked' when the blades are at
+@@1 to 2 degree
+0 degree
+-2 to -8 degree
+
+The propeller is 'powered' when the blades are at
+@@20 to 35 degree
+85 to 90 degree
+0 degree
+
+Newton’s Third Law of Motion that states:
+@@for every action there is an equal and opposite reaction
+for every action there is double  and opposite reaction
+for every action there is an equal and same reaction
+
+The blade angle for each segment of a fixed pitch propeller is
+@@the angle formed by the chord line of the blade segment and its plane of rotation
+the angle formed by the blade face of the blade segment and its plane of rotation
+the angle formed by the blade back of the blade segment and its plane of rotation
+
+What force on a propeller blade turns the blades to low pitch position?
+@@CTM
+ATM
+Torque
+
+On a right-hand rotating propeller, torque works to:
+@@drop the left wing
+raise the left wing
+raise the right wing
+
+The work done by thrust is:
+@@equal to the thrust times the distance it moves the airplane
+equal to the thrust times the velocity it moves the airplane
+equal to the thrust times the mass of air when it moves the airplane
+
+The power expended by thrust is:
+@@equal to the thrust times the velocity at which it moves the airplane
+equal to the thrust times  the distance at which it moves the airplane
+equal to the thrust times the mass of air when it moves the airplane
+
+Relative airflow is the airflow due to the
+@@Combination of propeller rotation and aircraft forward speed
+Combination of propeller rotation and the blade segment
+Combination of the blade speed and aircraft forward speed
+
+What is gyroscopic precession?
+@@That is the response of a gyroscope to generate an action 90° from the point of input in the direction of rotation
+That is the response of a gyroscope to generate an action 90° from the point of output in the direction of rotation
+That is the response of a gyroscope to generate an action 180° from the point of input in the direction of rotation
+
+Which is TRUE for the angle of attack of a fixed-pitch propeller blade?
+@@The faster the airspeed of the airplane, the less the angle of attack
+The faster the airspeed of the airplane, the higher the angle of attack
+The lower the airspeed of the airplane, the less the angle of attack
+
+With a twisting propeller blade:
+@@The angle of the blade near the hub is higher than the angle at the tip
+The angle of the blade near the hub is lessr than the angle at the tip
+The angle of the blade near the hub is same as the angle at the tip
+
+Propeller-driven aircraft are limited by?
+@@Revolutions per minute (rpm)
+Torque
+Hourse power
+
+What forces act on a propeller blade?
+@@Bending, CTM and ATM
+Thrust and torque
+Bending, thrust, torque
+
+What is centrifugal force?
+@@It is a physical action that tends to pull the rotating propeller blades out of the hub
+It is a physical action that tends to pull the rotating propeller blades  in the direction opposite than of rotation
+It is a physical action that tends to bend the propeller blades in the direction opposite than of rotation
+
+The purpose of propeller twist is
+@@to maintain Angle of Attack at the same value along the blade
+to maintain Blade Angle along the blade
+coarsen the blade angle at the root
+
+At a relatively slow speed, in comparison to a jet engine, a propeller moves: a large mass of air
+@@a large mass of air
+a lsame mass of air
+a small mass of air
+
+What force on a propeller blade turns the blades to high pitch position?
+@@ATM
+CTM
+Torque
+
+P-Factor is generated during?
+@@climbs
+cruise
+descend
+
+Pilots compensate for P-Factor by applying
+@@the necessary rudder input
+the necessary aileron input
+the necessary elevatorr input
+
+For righthand rotating propellers, the aircraft develops:
+@@a yawing moment to the left
+a rolling moment to the left
+a rolling moment to the right
+
+When in the windmill position ATM
+@@assists CTM
+opposes CTM
+is not related to CTM
+
+Propeller blade stations are measured from
+@@The centre of the hub
+The master station
+The root
+
+Steel propeller blades are used normally on
+@@Large engines
+Lightweight engines
+Small engines
+
+A reverse pitch propeller is
+@@Where the blade pitch has been reduced to a negative pitch to reduce the aircraft's speed
+Where the blade pitch has been decreased - to increase the forward thrust
+Where the blade pitch has been increased - to increase the forward thrust
+
+A typical propeller blade will have:
+@@A high blade angle near the hub and a shallow blade angle at the tip
+A low blade angle near the hub and a shallow blade angle at the root
+A high blade angle near the hub and a shallow blade angle at the root
+
+Climb propellers generally have
+@@A lower pitch or shorter diameter
+A higher pitch or shorter diameter
+A lower pitch or longer diameter
+
+The fixed-pitch propeller is used on airplanes of
+@@Low power, speed, range, or altitude
+Low power, speed, rangeand high altitude
+High power, speed, range, or altitude
+
+In the U.S., the minimum clearance between the tip of the propeller and ground is
+@@Seven inches (18 cm) for nose wheel aircraft and nine inches (23 cm) for tail wheel aircraft
+Nine inches (23 cm) for nose wheel aircraft and seven inches (18 cm) for tail wheel aircraft
+Six inches (15 cm) for nose wheel aircraft and nine inches (23 cm) for tail wheel aircraft
+
+Tractor propellers are those mounted on
+@@The upstream end of a propeller shaft in front of the supporting structure
+The downstream end of a propeller shaft behind the supporting structure
+The downstream end of a propeller shaft in front of the supporting structure
+
+Pusher propellers are those mounted on
+@@The downstream end of a propeller shaft behind the supporting structure
+The upstream end of a propeller shaft in front of the supporting structure
+The upstream end of a propeller shaft behind the supporting structure
+
+Metal at the tip and along the leading edge of a wooden propeller is
+@@For protection
+For balancing
+For Anti-icing
+
+The thrust of a propeller is normally taken by the
+@@Propeller hub
+Torque meter
+Propeller rear cone
+
+Cruise propellers are built with
+@@Higher pitch angles and longer diameters
+A higher pitch or shorter diameter
+A lower pitch or shorter diameter
+
+Why is it important to keep the metal drain holes on a wooden propeller tip open during operation?
+@@To allow moisture to escape
+To reduce air drag
+To cool the metal tipping
+
+Why do metal fixed-pitch propellers cool the engine more efficiently?
+@@Because effective pitch is closer to the hub
+Because aluminium absorbs engine heat faster
+Because thinner blades reduce back pressure
+
+How does the blade back contribute to thrust generation?
+@@It creates low pressure, pulling the blade forward like the suction on a wing
+It directs airflow to the engine intake to increase combustion pressure
+It compresses incoming air to reduce drag and maintain blade angle
+
+The speeder spring propeller governing range is limited to?
+@@About 200 rpm
+About 2000 rpm
+About 20000 rpm
+
+Time for feathering with feathering propeller system is?
+@@Between 03 and 10 seconds
+Between 10 and 15 seconds
+Between 15 and 30 seconds
+
+Propeller blade counterweights always move the blades to?
+@@High pitch
+Low pitch
+Feather
+
+How about blades pitch and engine rpm during over speed conditions?
+@@Propeller blade pitch is increase and reduces engine rpm
+Propeller blade pitch is decrease and reduces engine rpm
+Propeller blade pitch is increase and increases engine rpm
+
+Blade cuffs are fitted to the root of the blades
+@@To increase flow of cooling air into the engine nacelle
+to increase the strength of the blade
+to increase thrust
+
+Low torque sensing is used to
+@@Initiate auto-feather
+increase power
+increase pitch
+
+A hydraulic pitch lock is utilised in a hydromatic propeller to
+@@Lock out the fine pitch oil line in the event of overspeeding
+lock out the course pitch oil line in the event of underspeeding
+prevent the propeller overspeeding in the event of oil supply failure
+
+When in the beta range, the propeller pitch is controlled
+@@Directly from the power lever
+indirectly from the power lever
+directly from the pitch change mechanism to the PCU
+
+In a propeller with counterweights, what is used to make it move to fine pitch?
+@@Governor oil pressure
+Centrifugal force acting on the counterweight
+ATM
+
+What pitch setting is the automatic propellers provided for take-off?
+@@A lower pitch setting
+A higher pitch setting
+No change pitch setting
+
+Can early controllable pitch propellers provide constant-speed operations?
+@@No, they can not provide constant-speed operations
+Yes, thay can provide constant-speed operations
+Yes, in some phase of flight
+
+Which propellers are made available the option for pilots to select a variety of fixed-pitch positions in addition to constant speed operations?
+@@Electrically controlled propellers
+Fixed-pitch propellers
+A constant speed propeller
+
+One of extreme positions for the propeller control is?
+@@Increase rpm or low pitch (full forward)
+Decrease rpm or low pitch (full forward)
+Increase rpm or low pitch (full aft)
+
+Two main engine instruments used for setting power with the constant-speed propeller is?
+@@Tachometer and the manifold pressure gauge
+Governor and the manifold pressure gauge
+Tachometer and the throttle
+
+For any single revolution of the propeller, the amount of air displaced (directionally moved) depends on?
+@@The blade angle
+Revolutions per minute
+Torque
+
+For the same throttle setting, a reduction of engine rpm will?
+@@Increase the MAP
+Decrease the MAP
+Keep the MAP constant
+
+When increasing propeller blade angle, it will?
+@@Increases the angle of attack (AOA) and produces more thrust and drag
+Decreases the angle of attack (AOA) and produces more lift and drag
+Increases the angle of attack (AOA) and produces less lift and drag
+
+Which propellers are designed for best efficiency at one rotation and forward speed?
+@@Fixed-pitch and ground-adjustable propellers
+Controlable-pitch and ground-adjustable propellers
+Constant speed and ground-adjustable propellers
+
+Propeller governor is an engine rpm sensing device with?
+@@A high-pressure oil pump
+A high-pressure fuel pump
+A high-pressurehydraulicl pump
+
+Pneumatic pressure against the propeller piston pushes the blades to?
+@@High pitch
+Low pitch
+Zero position
+
+Springs is push the blades in the direction of?
+@@High pitch and Feather
+Low pitch and Feather
+Low pitch and high pitch
+
+To balances against the propeller blade counterweights, propeller governor oil on the propeller piston side of the governor moves the blades to?
+@@Low pitch
+High pitch
+Feather
+
+In under-speed condition, the governor flyweights turn?
+@@Slower than the tension on the speeder spring and move inward
+Faster than the tension on the speeder spring and move inward
+Faster than the tension on the speeder spring and move outward
+
+When the engine is running at low rpm, the governor attempts propeller to?
+@@Low pitch
+High pitch
+Feather
+
+In an on-speed condition, the centrifugal force acting on the governor’s flyweights is?
+@@Balanced by the tension exerted by the speeder spring
+Higher by the tension exerted by the speeder spring
+Lower by the tension exerted by the speeder spring
+
+In the constant-speed mode, the tension of the speeder spring sets the engine to?
+@@Maximum rpm
+Minimum rpm
+Constant speed
+
+In an under-speed condition, the arms of the flyweights tilt?
+@@Inward
+Outward
+Downward
+
+In an over speed condition, the centrifugal force acting on the flyweights is?
+@@Greater than the speeder spring force
+Less than the speeder spring force
+Same as the speeder spring force
+
+In an over speed condition, the pilot valve meters oil flow to?
+@@Increase propeller pitch and lower engine rpm
+Decrease propeller pitch and lower engine rpm
+Increase propeller pitch and higher engine rpm
+
+What is mentioned about counterweights are used  in the hydromatic propeller?
+@@No counterweights are used on the propeller blades
+Symetric counterweights are used on the propeller blades
+One or more counterweights are used on the propeller blades
+
+Feathering and unfeathering the Hamilton Standard propeller are achieved through?
+@@An auxiliary oil pump
+A boost pump
+An auxiliary hydraulic pump
+
+What will occcur if the engines/ propellers are not perfectly synchronized in term of rpm?
+@@Vibration and noise will occur
+Vibration and reducing thrust will occur
+Vibration and increasing drag will occur
+
+How does the pilot manually synchronize the propeller when the aircraft is not equipped with synchronization devices?
+@@By positioning the propeller control levers
+By positioning the propeller control push button
+By positioning the propeller control switch
+
+Which is the principle of Type II synchronizing systems?
+@@The system will compare the rpm (round per minute) of the engines and raise the speed of the engines running at a lower rpm
+The system will compare the rpm (round per minute) of the engines and reduce the speed of the engines running at a higher rpm
+The system will compare the rpms (round per minute) of the engines and raise the speed of the engines running at a lower rpm
+
+What does FADEC stand for?
+@@Full Authority Digital Engine Control
+Full Acess Digital Engine Control
+Fuel Authority Digital Engine Control
+
+When will the FADEC system provide synchronization and synchrophasing automatically for propeller aircrafts?
+@@The engines are operating in a constant speed mode
+The engines are operating in a take off mode
+The engines are operating in climb mode
+
+What does the basic system use to determine and monitor the position of a target blade for each propeller?
+@@Sensors
+Phonic wheels
+Angle meters
+
+How will the propeller aircraft synchronize and synchrophase the propellers?
+@@Manually or automatically
+Manually via control knob
+Automatically by computer
+
+What is the main principle of Propeller Synchrophasing?
+@@Control the phase relationship between the propeller blades of the engines
+Keep propellers running at the same RPM
+Keep propeller engine at the same power
+
+Manually synchronizing the engines during flight normally used for:
+@@Light twin-engine aircraft
+Light single-engine aircraft
+Heavy twin-engine aircraft
+
+Which components in cockpit are used for controlling the synchronizer/ synchro phaser?
+@@Rotary ON/OFF switch and control knob
+ON/OFF push button and control knob
+Rotary ON/OFF switch and control push button
+
+What is the function of Synchronizer coils inside propeller control unit (PCU) for SAAB Synchronizer/Synchro phaser system?
+@@Producing magnetic fields that act on the flyweight assemblies to control RPM (round per minute)
+Producing mechanical force that act on the flyweight assemblies to control RPM (round per minute)
+Producing hydraulic force that act on the flyweight assemblies to control RPM (round per minute)
+
+What are the main components of ANVS (Active Noise and Vibration Suppression) used to reduce noise level?
+@@A series of microphones affixed to the exterior of the aircraft and a group of transmitters strategically placed around the fuselage
+A series of microphones affixed to the interior of the aircraft and a group of transmitters strategically placed around the fuselage
+A series of microphones affixed to the exterior of the aircraft and a group of transmitters strategically placed around the engines
+
+What will occcur if the engines/ propellers are not perfectly synchronized in term of rpm?
+@@Vibration and noise will occur
+Vibration and reducing thrust will occur
+Vibration and increasing drag will occur
+
+How does the pilot manually synchronize the propeller when the aircraft is not equipped with synchronization devices?
+@@By positioning the propeller control levers
+By positioning the propeller control push button
+By positioning the propeller control switch
+
+Which is the principle of Type II synchronizing systems?
+@@The system will compare the rpm (round per minute) of the engines and raise the speed of the engines running at a lower rpm
+The system will compare the rpm (round per minute) of the engines and reduce the speed of the engines running at a higher rpm
+The system will compare the rpms (round per minute) of the engines and raise the speed of the engines running at a lower rpm
+
+What does FADEC stand for?
+@@Full Authority Digital Engine Control
+Full Acess Digital Engine Control
+Fuel Authority Digital Engine Control
+
+When will the FADEC system provide synchronization and synchrophasing automatically for propeller aircrafts?
+@@The engines are operating in a constant speed mode
+The engines are operating in a take off mode
+The engines are operating in climb mode
+
+What does the basic system use to determine and monitor the position of a target blade for each propeller?
+@@Sensors
+Phonic wheels
+Angle meters
+
+How will the propeller aircraft synchronize and synchrophase the propellers?
+@@Manually or automatically
+Manually via control knob
+Automatically by computer
+
+What is the main principle of Propeller Synchrophasing?
+@@Control the phase relationship between the propeller blades of the engines
+Keep propellers running at the same RPM
+Keep propeller engine at the same power
+
+Manually synchronizing the engines during flight normally used for:
+@@Light twin-engine aircraft
+Light single-engine aircraft
+Heavy twin-engine aircraft
+
+Which components in cockpit are used for controlling the synchronizer/ synchro phaser?
+@@Rotary ON/OFF switch and control knob
+ON/OFF push button and control knob
+Rotary ON/OFF switch and control push button
+
+What is the function of Synchronizer coils inside propeller control unit (PCU) for SAAB Synchronizer/Synchro phaser system?
+@@Producing magnetic fields that act on the flyweight assemblies to control RPM (round per minute)
+Producing mechanical force that act on the flyweight assemblies to control RPM (round per minute)
+Producing hydraulic force that act on the flyweight assemblies to control RPM (round per minute)
+
+What are the main components of ANVS (Active Noise and Vibration Suppression) used to reduce noise level?
+@@A series of microphones affixed to the exterior of the aircraft and a group of transmitters strategically placed around the fuselage
+A series of microphones affixed to the interior of the aircraft and a group of transmitters strategically placed around the fuselage
+A series of microphones affixed to the exterior of the aircraft and a group of transmitters strategically placed around the engines
+
+What are basic factors of propeller ice protection system?
+@@Anti-icing system and de-icing system
+Anti-icing system and ice detecting system
+Anti-icing system and ice removing system
+
+When are propeller anti-icing systems activated?
+@@Before the formation of ice on the propeller
+During the formation of ice on the propeller
+After the formation of ice on the propeller
+
+An electric propeller icing control system consists of:
+@@An electrical energy source, a resistance heating element, system controls, and necessary wiring
+An electrical energy source, a resistance heating element, system controls, and necessary wiring
+An electrical energy source, a resistance heating element, system controls, and necessary wiring
+
+Where are the heating elements mounted?
+@@Internally or externally on the propeller spinner and blades
+Internally or externally on the propeller root blades
+Internally or externally on the propeller tip blades
+
+How is propeller icing control accomplished?
+@@By converting electrical energy to heat energy in the heating element
+By converting electrical energy to heat energy in brush block
+By converting electrical energy to heat energy in slip ring assembly
+
+What is the brush block function?
+@@It is used to transfer electricity to the slip ring
+It is used to transfer electricity to the ammeter
+It is used to transfer electricity to sequencing timer
+
+Why is the propeller de-icing system used only when the propellers are rotating and for short test periods of time during the take-off check list or system inspection?
+@@To prevent element overheating
+To save electrical energy
+To prevent hardware overload
+
+Sequencing timers are used to energize the heating element circuits for periods of:
+@@15 to 30 seconds
+30-60 seconds
+90-120 seconds
+
+How is ice protection resevoir be refilled?
+@@Checking the quantity indication by filling the tank to the 1/2 level and reading the gauge and rechecking the gauge when the tank is full
+Checking the quantity indication by filling the tank to the 3/4 level and reading the gauge and rechecking the gauge when the tank is full
+Checking the quantity indication by filling the tank to the 1/4 level and reading the gauge and rechecking the gauge when the tank is full
+
+How do we do to verify fluid consumption?
+@@Performing the flow test
+Performing the duration test
+Performing the pressure test
+
+The typical electrical de-icing system includes:
+@@An ON/OFF switch, an ammeter, a sequencing timer or cycling unit, a brush block and slip ring assembly, overshoes with heating elements, and the necessary wiring and hardware
+An ON/OFF switch, an ammeter, a sequencing timer or cycling unit, a brush block and slip ring assembly and the necessary wiring and hardware
+An ON/OFF switch, an ammeter, a sequencing timer or cycling unit, slip ring assembly, overshoes with heating elements, and the necessary wiring and hardware
+
+How should the overshoes damages be repaired?
+@@According to the manufacturer’s information
+According to the operator’s information
+No repair permitted for overshoes damages
+
+Which type of check should be used after replacement of one or more de-icing boots?
+@@A check of the dynamic balance of the propeller
+A check of the static balance of the propeller
+A check of the propeller track
+
+Which are two common inspection methods used on propellers?
+@@Visual inspection and tactile inspection
+Visual inspection and audible  inspection
+Visual inspection and Etching inspection
+
+A deep nick across the leading edge of a propeller blade may evolve into:
+@@A crack and blade failure
+A deeper nick and blade need blended
+A small crack and blade need blended
+
+What may adversely affect a propeller when it is exposed to high levels of heat, such as a fire?
+@@The integrity of the propeller
+Changing the color of propeller
+Corrosion on surface of propeller
+
+Which are common defects for wood propeller inspection?
+@@Cracks, dents, warpage, glue failure, delamination, defects in the finish, and charring of the wood between the propeller and the flange due to loose propeller mounting bolts
+Cracks, corrosion, dents, warpage, glue failure, delamination, defects in the finish, and charring of the wood between the propeller and the flange due to loose propeller mounting bolts
+Cracks, lighting strike, dents, warpage, glue failure, delamination, defects in the finish, and charring of the wood between the propeller and the flange due to loose propeller mounting bolts
+
+Dye penetrant inspections is used for:
+@@Effective on flaws that extend to the surface
+Effective on flaws at subsurface
+Effective on flaws at subsurface and on the surface
+
+What does magnetic particles process require?
+@@A special light during the inspection
+A special chemical during the inspection
+A special liquid during the inspection
+
+What is the diffirent between the non fluorescent and the fluorescent penetrant?
+@@The non fluorescent penetrant works with ordinary lighting while the fluorescent penetrant requires a black light to perform a thorough investigation
+The non fluorescent penetrant works with ordinary lighting while the fluorescent penetrant requires a ultra violet light to perform a thorough investigation
+The non fluorescent penetrant works with ultra violet lighting while the fluorescent penetrant requires a black light to perform a thorough investigation
+
+Composite blades need to be visually inspected for:
+@@Nicks, gouges, loose material, erosion, cracks and debonded areas, and lightning strikes
+Nicks, gouges, loose material, corrosion, cracks and debonded areas, and lightning strikes
+Nicks, gouges, loose material, scrath, cracks and debonded areas, and lightning strikes
+
+Which statement is correct about composite propeller inspection?
+@@If an audible change is apparent, sounding hollow or dead, a debond or delamination is likely
+If an audible change is apparent, sounding hollow or dead, a crack is likely
+If an audible change is apparent, sounding hollow or dead, a loose material is likely
+
+How are composite blades inspected for delaminations and debonds?
+@@Using metal coin
+Using plastic hammer
+Using rubber tool
+
+Which requirement for blade track during checking?
+@@Each blade track should be within 1/16 inch (plus or minus) from the opposite blade’s track
+Each blade track should be within 5/16 inch (plus or minus) from the opposite blade’s track
+Each blade track should be within 9/16 inch (plus or minus) from the opposite blade’s track
+
+How to check blade angle if the propeller is installed on the aircraft or is placed on the knife edge balancing stand?
+@@Using a handheld protractor
+Using a blade tracking tool
+Using a handheld square ruler
+
+When can the universal propeller protractor be used to check propeller blade angles?
+@@The propeller is on a balancing stand or installed on the aircraft engine
+The propeller is on a balancing stand or installed in storage box
+The propeller is on a balancing stand or installed on bech test stand
+
+Which are the main reasons of propeller vibration?
+@@Balance, angle, or track problems
+Balance, angle, or lubrication problems
+Balance, angle, or turbulence problems
+
+Which are types of propeller unbalance?
+@@Static or dynamic unbalance
+Root and tip unbalance
+Angle and track unbalance
+
+When is propeller static unbalance occur?
+@@The center of gravity (CG) of the propeller is not aligned with the axis of rotation
+The center of gravity (CG) of the propeller is not in the same plane of rotation
+The center of gravity (CG) of the propeller is not with the same angle of rotation
+
+When is propeller dynamic ubalance occur?
+@@The CG of similar propeller elements, such as blades or counterweights, does not follow in the same plane of rotation
+The CG of similar propeller elements, such as blades or counterweights, does not follow in the same axis of rotation
+The CG of similar propeller elements, such as blades or counterweights, does not follow in the same angle of rotation
+
+Where do we install two accelerometers or velocimeters on the engine for balancing procedure?
+@@One near the propeller and another on or near the accessory case
+One near the propeller and another on or near the propeller hub
+One near the propeller and another on or near the propeller spinner
+
+What does the dynamic balancer analyzer calculate and suggest to reduce vibration?
+@@The balancing weight and location of weight installation
+The number of balancing weights
+The location distribution of balancing weight installation
+
+Where is correct position to pump grease when lubricating propeller blade and hub?
+@@The fitting located nearest the leading edge of the blade on a tractor installation, or nearest the trailing edge on a pusher installation
+The fitting located nearest the trailing edge on a pusher installation, or root of blade
+The fitting located nearest the leading edge of the blade on a tractor installation, or root of the blade
+
+For charging the propeller air dome, correct charge pressure depends on
+@@Temperature
+Humidity
+Propeller material
+
+Tachometers should be accurate:
+@@Within ± 10 rpm (round per minute)
+Within ± 50 rpm (round per minute)
+Within ± 100 rpm (round per minute)
+
+How is the area of dressing from the leading and trailing edges of the propeller for repairing nicks and gouges?
+@@It is 10 times the depth
+It is 20 times the depth
+It is 30 times the depth
+
+How are the nonferrous hubs and components stripped of protective finishes and inspected for cracks?
+@@Using a liquid penetrant inspection (LPI) procedure
+Using a magnetic particle inspection (MPI) procedure
+Using a Eddy current testing procedure
+
+What should we do after final assembly of blades and hubs?
+@@The high and low pitch blade angles on constant-speed propellers are checked for proper operation and leaks
+The high pitch blade angles on constant-speed propellers are checked for proper operation and leaks
+The low pitch blade angles on constant-speed propellers are checked for leaks by cycling the propeller
+
+What should we check if a propeller is hunting?
+@@1. Governor,
+@@Fuel control, and
+@@Synchrophaser or synchronizer, if equipped.
+1. Governor,
+Lubrication system, and
+Synchrophaser or synchronizer, if equipped.
+1. Governor,
+Tachometer, and
+Synchrophaser or synchronizer, if equipped.
+
+An increase in engine speed while descending or increasing airspeed with a non-feathering propeller could be:
+@@1. The governor not increasing oil volume in the propeller
+@@Engine transfer bearing leaking excessively
+@@Excessive friction in blade bearings or pitch changing mechanism
+1. The governor not increasing oil volume in the propeller
+Fuel control unit fail
+Excessive friction in blade bearings or pitch changing mechanism
+1. The governor not increasing oil volume in the propeller
+Excessive friction in Engine transfer bearing
+Excessive friction in blade bearings or pitch changing mechanism
+
+How is the storage status of an aircraft listed in?
+@@The storage status of an aircraft is listed in three categories: flyable, temporary, and indefinite
+The storage status of an aircraft is listed in three categories: flyable, temporary, and permanent
+The storage status of an aircraft is listed in three categories: flyable, permanent and indefinite
+
+What is the purpose of the propeller period greasing?
+@@Protecting the propeller from corrosion
+Protecting the propeller from crack
+Protecting the propeller from paint peeling
+
+How is propeller temporary storage generally defined?
+@@Temporary storage is generally defined as non-use of the aircraft for 90 days
+Temporary storage is generally defined as non-use of the aircraft for 180 days
+Temporary storage is generally defined as non-use of the aircraft for 30 days
+
+How often is the propeller greasing required for temporary storage?
+@@The propeller requires greasing every 6 months
+The propeller requires greasing every 12 months
+The propeller requires greasing every 1 months
+
+Which factors does manufacturer recommend for propeller cleaning?
+@@Cleaning fluids and methods
+Cleaning fluids and tools
+Cleaning environments and methods
+
+Which are the techniques for protecting propeller components for long term storage and preservation?
+@@Apply or reapply a plating process, protective chemical, physical covering
+Apply or reapply a plating process, protective grease, physical covering
+Apply or reapply a plating process, protective gas, physical covering
+
+For long term storage and preservation, the hub should be:
+@@Filled with preservative oil
+Protected by thin layer grease
+Covered by nylon layer
+
+When may propeller governors and accumulators remain on the engine?
+@@During indefinite storage
+During flyable storage
+During temporary storage
+
+How should governors and accumulators be stored during preservation?
+@@Inserting the governor and accumulator in separate vacuum storage bags, removing the air, and sealing the bags
+Inserting the governor and accumulator in separate vacuum storage bags, adding fresh the air, and sealing the bags
+Inserting the governor and accumulator in separate vacuum storage bags, removing the air, and adding nitrogen
+
+Controllable-pitch propellers that are in storage for periods exceeding five years may require:
+@@The replacement of rubber parts and an internal inspection for corrosion before returning the propeller to service
+The replacement of metal parts and an internal inspection for corrosion before returning the propeller to service
+The replacement of rubber parts and an external inspection for crack before returning the propeller to service
+
+Why should the propellerbe cycled several times before returning to service?
+@@To flush out air in the system and traces of preservation oil
+To flush out air bubble in preservation oil
+To flush out air in the system and traces of humidity in oil system
+
+What should we do after the installation of the propeller?
+@@The engine should be started and tested
+The engine should be dry crank for leak check
+The engine should be wet crank for lubricating

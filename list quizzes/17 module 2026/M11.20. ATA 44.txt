@@ -1,0 +1,119 @@
+What do cabin systems in an aircraft include?
+@@Systems for communication and inflight entertainment (IFE)
+Only systems for emergency communication
+Only systems for the crew to communicate
+
+What was used for passenger audio in early inflight entertainment (IFE) systems?
+@@Pneumatic headsets
+Bluetooth headsets
+Wireless headphones
+
+What can passengers use to call for assistance in the cabin?
+@@Flight attendant call button
+Interphone system
+Cockpit panel
+
+Which device in the cabin intercommunication system can be used by flight attendants to communicate?
+@@Cabin handsets
+Control panels
+Passenger seats
+
+What type of data connection is most commonly used within a cabin network service?
+@@Wireless LAN
+Fiber optics
+Analog signals
+
+What CIDS is stand for?
+@@Cabin Intercommunication Data Systems
+Cabin Intercommunication Digital Systems
+Call  Intercommunication Data Systems
+
+How has inflight entertainment evolved over time?
+@@It started with video projectors and has moved to digital displays at each seat.
+It began with audio-only headsets and now offers interactive screens in Business-class seats
+It started as a radio broadcast system for the entire cabin.
+
+What role does the Cabin Systems Management Unit (CSMU) play in the 777 Cabin Services System?
+@@It acts as the central processor for managing cabin services.
+It controls only the cabin lighting system.
+It monitors external communications.
+
+What is the purpose of zone management units (ZMU) in the cabin system?
+@@They manage cabin functions within each specific zone.
+They connect the entire cabin to the cockpit system.
+They control only the audio system.
+
+Which system component allows for centralized control of the passenger address and cabin interphone functions?
+@@The PA/CI (Passenger Address/Cabin Interphone) controller.
+The Cabin Attendant Handset (CAH).
+The Overhead Electronic Unit (OEU).
+
+What unit in the 777 Cabin Services System is responsible for managing data specific to each cabin zone?
+@@The Zone Management Unit (ZMU).
+The Cabin Systems Control Panel (CSCP).
+The Cabin Mass Memory System.
+
+Why is demultiplexing important in the IFE system?
+@@It reassembles data packets based on their addresses for individual seats.
+It compresses data to save bandwidth.
+It limits data delivery to specific zones.
+
+How does the main IFE computer handle content requests from passengers?
+@@By processing and sending requested data packets addressed to individual seats.
+By sending identical data to every passenger seat.
+By processing one request at a time per row.
+
+How does multiplexing impact the speed of IFE data transfer?
+@@It allows simultaneous, high-speed data flow to multiple destinations.
+It limits data flow to specific passenger seats.
+It increases load time by using a single address.
+
+What are the main external network types used for cabin communication, and where are their antennas located?
+@@Satellite-based systems with antennas on the upper fuselage and ground-based systems with antennas on the lower fuselage.
+Ground-based systems with antennas on the upper fuselage and satellite-based systems with antennas on the wings.
+Both systems have antennas located only on the top fuselage.
+
+What data bus system connects the Cabin Services System (CSS) with the Inflight Entertainment (IFE)?
+@@ARINC 628
+ARINC 429
+ARINC 629
+
+What is a unique feature of the Iridium satellite system compared to Inmarsat for inflight communication?
+@@It provides worldwide coverage, including polar regions.
+It operates at higher bandwidth speeds.
+It limits connection to short distances only.
+
+What is the main difference in coverage between ground-based networks and satellite networks for inflight communication?
+@@Ground-based networks have a limited geographical range, while satellites cover larger areas.
+Satellite networks provide faster speeds than ground-based networks.
+Both types offer the same coverage area.
+
+How does the cabin mass memory system support cabin configuration?
+@@It stores data about seat layout and zones for different configurations.
+It controls the power to passenger seats.
+It monitors passenger seatbelt signals.
+
+How does the cabin monitoring system contribute to passenger safety?
+@@By tracking essential cabin conditions like temperature and smoke detection.
+By directly controlling emergency exits.
+By monitoring the entertainment systems.
+
+Why is it essential for certain cabin systems to undergo regular upgrades?
+@@To remain competitive in the airline industry by offering modern amenities.
+To comply with government regulations.
+To reduce maintenance costs on older aircraft.
+
+What does the Cabin Network Service provide?
+@@Access to email, internet, and some databases.
+Control of the cabin lighting and temperature.
+Access to the aircraft’s navigation system.
+
+What feature is restricted during certain phases of flight, like takeoff and landing?
+@@Wireless connections within the cabin
+Cabin lighting systems
+The public address system
+
+How does the cabin network service manage data for both IFE and passenger internet access?
+@@By integrating IFE into the LAN and allowing shared network access.
+By restricting IFE and internet to separate networks.
+By providing a single wireless network for all connections.

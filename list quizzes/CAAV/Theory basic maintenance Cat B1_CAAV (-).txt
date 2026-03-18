@@ -459,7 +459,7 @@ Acceleration of Gravity on earth is: (Level 1)
 @@9.8 m/s² or 32.2 ft/s²
 
 1 US pounds equal: (Level 1)
-0.4536 kg
+@@0.4536 kg
 0.4536 g
 4.536 kg
 

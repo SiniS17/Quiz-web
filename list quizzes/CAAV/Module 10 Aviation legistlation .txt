@@ -960,7 +960,7 @@ checked within the past 36 calendar months
 
 For IFR (Instrument Flight Rules) operation, an altimeter and pitot-static system is required to be inspection   (Level 1)
 in the past 12 calendar months 
-in the past 24 calendar months 
+@@in the past 24 calendar months 
 in the past 36 calendar months 
 in the past 06 calendar months 
 
@@ -3125,7 +3125,7 @@ VAR Part 5 approved maintenance organization.
 Continuing Airworthiness Management Organisation
 
 The aircraft owner's Name Plate must be fixed.  (Level 1)
-near the main entrance of the aircraft.
+@@near the main entrance of the aircraft.
 on the instrument panel.
 on the rear fuselage.
 on the front fuselage.

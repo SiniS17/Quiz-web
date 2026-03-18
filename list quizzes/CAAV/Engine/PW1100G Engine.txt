@@ -419,7 +419,7 @@ The same O-ring can be reused again.
 The Removed O-ring can be used in future Removal/Installation
 
 The purpose of Nf speed sensor is to: (Level 1)
-Detect a decoupling (detachment) of the fan shaft with information from N1 sensor
+@@Detect a decoupling (detachment) of the fan shaft with information from N1 sensor
 Back up for N1 sensor.
 Used to display Fan speed in ECAM
 

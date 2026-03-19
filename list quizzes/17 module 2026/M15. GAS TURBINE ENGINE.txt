@@ -1969,12 +1969,9 @@ A "fire zone" is an area or region of an aircraft designated by the operator to 
 A "fire zone" is an area or region of an aircraft designated by the designer to require fire detection and/or fire extinguishing equipment and a high degree of inherent fire resistance
 
 The two major types of turbine failure can be classified as:
-@@1. Thermodynamic, or;
-@@Mechanical.
-1. Thermodynamic, or;
-Aerodynamic.
-1. Aerodynamic, or;
-Mechanical
+@@1. Thermodynamic, or;\n2. Mechanical.
+1. Thermodynamic, or;\n2. Aerodynamic.
+1. Aerodynamic, or;\n2. Mechanical
 
 What does a complete fire protection system include?
 @@A fire detection and a fire extinguishing system
@@ -2192,15 +2189,9 @@ By using external electric power source, APU, or an already operating engine
 By using external electric power source, APU Generator, or an already operating engine
 
 The normal starting sequence is:
-@@1. Rotate the compressor with the starter;
-@@Turn the ignition on;
-@@Open the engine fuel valve.
-1. Rotate the compressor with the starter;
-Open the engine fuel valve;
-Turn the ignition on.
-1. Rotate the compressor with the starter;
-Turn the ignition on;
-Open the engine fuel valve.
+@@1. Rotate the compressor with the starter; \n2. Turn the ignition on; \n 3. @@Open the engine fuel valve.
+1. Rotate the compressor with the starter; \n2. Open the engine fuel valve; \n 3. Turn the ignition on.
+1. Rotate the compressor with the starter;\n2.Turn the ignition on;\n3.Open the engine fuel valve.
 
 A successful start is noted first by
 @@A rise in exhaust gas temperature

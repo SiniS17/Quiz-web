@@ -237,7 +237,6 @@ When the red WING OVHT warning light on the annunciator panel illuminates?
 @@Temperature in the wing leading edge exceeds approximately +212 °F (outboard) or +350 °F
 @@
 Temperature in the wing leading edge exceeds approximately +80 °F (outboard) or +140 °F
-
 Temperature in the wing leading edge exceeds approximately +400 °F (outboard) or +500 °F
 
 

@@ -659,26 +659,14 @@ The high pitch blade angles on constant-speed propellers are checked for proper 
 The low pitch blade angles on constant-speed propellers are checked for leaks by cycling the propeller
 
 What should we check if a propeller is hunting?
-@@1. Governor,
-@@Fuel control, and
-@@Synchrophaser or synchronizer, if equipped.
-1. Governor,
-Lubrication system, and
-Synchrophaser or synchronizer, if equipped.
-1. Governor,
-Tachometer, and
-Synchrophaser or synchronizer, if equipped.
+@@1. Governor,\n2. Fuel control, and\n3. Synchrophaser or synchronizer, if equipped.
+1. Governor,\n 2. Lubrication system, and\n3. Synchrophaser or synchronizer, if equipped.
+1. Governor,\n2. Tachometer, and\n3. Synchrophaser or synchronizer, if equipped.
 
 An increase in engine speed while descending or increasing airspeed with a non-feathering propeller could be:
-@@1. The governor not increasing oil volume in the propeller
-@@Engine transfer bearing leaking excessively
-@@Excessive friction in blade bearings or pitch changing mechanism
-1. The governor not increasing oil volume in the propeller
-Fuel control unit fail
-Excessive friction in blade bearings or pitch changing mechanism
-1. The governor not increasing oil volume in the propeller
-Excessive friction in Engine transfer bearing
-Excessive friction in blade bearings or pitch changing mechanism
+@@1. The governor not increasing oil volume in the propeller\n2. Engine transfer bearing leaking excessively\n3. Excessive friction in blade bearings or pitch changing mechanism
+1. The governor not increasing oil volume in the propeller\n2. Fuel control unit fail\n3. Excessive friction in blade bearings or pitch changing mechanism
+1. The governor not increasing oil volume in the propeller\n2. Excessive friction in Engine transfer bearing\n3. Excessive friction in blade bearings or pitch changing mechanism
 
 How is the storage status of an aircraft listed in?
 @@The storage status of an aircraft is listed in three categories: flyable, temporary, and indefinite

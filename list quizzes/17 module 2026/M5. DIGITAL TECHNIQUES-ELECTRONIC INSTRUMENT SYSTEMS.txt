@@ -506,8 +506,7 @@ The coil cord of the wrist straps must be connected to a 1 mega-ohm resistor, wh
 Which of the following is correct regarding the use of antistatic wrist straps?
 @@The wrist strap must be secure around the wrist at all times while working at the work station so that it makes good electrical connection with the skin to dissipate any electrical charge to ground before touching sensitive electronic components.
 The wrist strap must be secure around the component at all times while working at the work station so that it makes good electrical connection with the component's common point to dissipate any electrical charge to ground before being handled.
-The wrist strap must be secure around the wrist and the component at all times while working at the work station so that it makes good electrical connection between the hands and the component
-to avoid electrostatic shocks.
+The wrist strap must be secure around the wrist and the component at all times while working at the work station so that it makes good electrical connection between the hands and the component to avoid electrostatic shocks.
 
 Why is there a 1 mega-ohm resistor between the floormat/ table-top mat and the common grounding point?
 @@It is to protect personnel in the event the ground becomes electrically live.

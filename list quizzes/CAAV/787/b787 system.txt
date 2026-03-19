@@ -33,11 +33,45 @@ If the discrepancy (between fuel quantity indicators and fuel vehicle flow meter
 Do the fuel quantity measuring stick check.
 Make sure that the airplane attitude is between the limits of -0.780 ±2.00pitch and 0.00 ±2.00 roll.
 
+What color is fiber optic cable in B787? (B2)
+@@Purple.
+White.
+Yellow.
+
+How does engine in B787 airplane start by? (B2)
+@@Electrical power.
+Pneumatic power.
+Electrical and pneumatic power.
+
+What is wing leading edge anti-ice system in B787 heated by? (B2)
+@@Electrical.
+Pneumatic.
+Electrical and pneumatic.
+
+Which statement is NOT TRUE for CCR (common computing resources) reset switches: (B2)
+Flight crew use these switches if there is a loss of all displays
+@@Maintenance personnel use these switches to show the status of the components in the CCR
+The use of these switches for maintenance activities can cause GPM (General Processor Module) corruption or failure
+
+CIS/MS (Crew information system/ Maintenance system) File Server Module: (B2)
+@@Keeps applications and data to support the functions of the crew information system (CIS) and the maintenance system (MS)
+Controls the software configuration of the EGM and support the functions of the crew information system (CIS)
+Collects and sends core network fault and configuration data to CMCF
+
+Stores LSAPs for loading to airplane systems: (B2)
+@@CIS/MS (Crew information system/ Maintenance system) File Server Module
+The controller server module (CSM)
+The network interface module (NIM)
+
+How many procedures to clean fiber-optic end face? (B2)
+2
+3
+@@4
+
 Make sure that the EWIS (Electrical Wiring Interconnection System) was NOT damaged during the maintenance, which item may be used: (B2)
 Paint, Sealant, Deicing fluid
 @@Paper for debris, Plastic sheeting for liquid, Masking tape for debris
 Waste system chemical, Cardboard for debris, Corrosion Inhibiting Compound (CIC)
-Ref: AMM 20-60-07-00A-720A
 
 What does control the CAC speed?
 PCU.
@@ -144,7 +178,181 @@ The forward equipment cooling is in override mode.
 @@There is a complete malfunction in the 2 air condition packs and they cannot give normal air supply.
 The forward cargo compartment fire extinguishing system operates.
 
-Ref B787 training student lab book Autoflight Systems page 222/232
+The components of AFDS (Autopilot Flight Director System):  (B1, B2)
+Mode Control Panel (MCP), 3 backdrive actuators, 2 autopilot disconnect switches, 2 autothrottle disconnect switches.
+@@Mode Control Panel (MCP), 3 backdrive actuators, 2 autopilot disconnect switches, 2 take off – go around (TOGA) switches.
+Mode Control Panel (MCP), 3 backdrive actuators, 2 autopilot disconnect switches.
+
+The AFF (Autoflight Function) processes inputs and sends autopilot command data to: (B1, B2)
+HYDIF (Hydraulic Interface Function).
+@@PFCF (Primary Flight Control Function).
+ADRF (Air data reference function).
+
+The BDAs (Backdrive Actuators) used to: (B1, B2)
+Move the flight control surfaces.
+Send pitch, roll, yaw command data to AFF.
+@@Move the columns, wheels, and pedals.
+
+The pilot can override the BDA: (B1, B2)
+@@If the pilot supplies sufficient force, the primary flight control function removes the autopilot engage signal.
+BDA is locked engagement during Autopilot function.
+BDA is not a part of AFF.
+
+The MCP (Mode Control Panel): (B1, B2)
+Gives commands to the flight control surfaces.
+Is the primary pilot interface with the FCE (Flight Control Electronics).
+@@Is the primary pilot interface with the Autoflight function.
+
+When is the slave lane (MCP) becomes the master lane? (B1, B2)
+Every time the auto throttle function disengages and re-engages.
+@@Every time the autopilot system disengages and re-engages.
+Every time the auto disconnect switches disengage and re-engage.
+
+The autoland function has these flight phases: (B1, B2)
+@@Approach, flare, go – around, rollout.
+Cruise, approach, flare, go – around, rollout.
+Approach, flare, rollout.
+
+During take off, with both F/D (Flight Director) switches set to off: (B1, B2)
+The Flight Director commands turn off on PFD (Primary Flight Display) and HUD (Head Up Display).
+@@The Flight Director commands automatically show  on PFD (Primary Flight Display) and HUD (Head Up Display). This is called AUTO POP UP.
+The Flight Director commands show on Captain PFD (Primary Flight Display) and Captain HUD (Head Up Display) only.
+
+How to turn off F/D auto pop-up function during take-off? (B1, B2)
+Set both F/D switches to OFF then ON position
+Set both HUD(s) to stowed position.
+@@Set both F/D switches to ON then OFF position.
+
+When the autopilot is engaged in the air and no F/D switch is ON (B1, B2)
+It engages in the altitude hold (pitch) and the heading/track hold (roll) modes.
+It engages in the vertical speed / glide path angle (pitch) and the lateral navigation (roll) modes.
+@@It engages in the vertical speed / glide path angle (pitch) and the heading/track hold (roll) modes.
+
+The autoflight function (AFF) roll mode is available in these phases: (B1, B2)
+@@Climb, cruise, descent.
+Take-off, climb, cruise, descent.
+Take-off, climb, cruise, descent, landing.
+
+The pitch mode VNAV (vertical navigation) is a: (B1, B2)
+AFF (auto flight function) mode.
+TMF (Thrust management function) mode.
+@@FMF (flight management function) mode.
+
+What is FLCH (Flight Change) mode? (B1, B2)
+@@The FLCH mode is a mix of thrust and elevator commands to change flight levels.
+The FLCH mode is a mix of thrust and aileron commands to change flight levels.
+The FLCH mode is a mix of elevator and aileron commands to change flight levels.
+
+How to know the VNAV (Vertical Navigation) is engaged? (B1, B2)
+The green VNAV switch light on MCP is on, VNAV mode shows green on top of PFD.
+The white VNAV switch light on MCP is on, VNAV mode shows magenta on top of PFD.
+@@The white VNAV switch light on MCP is on, VNAV mode shows green on top of PFD.
+
+Flare mode is active when: (B1, B2)
+Localizer or glide path is active and the airplane is between 40ft and 60ft radio altitude.
+@@Glideslope or glide path is active and the airplane is between 40ft and 60ft radio altitude.
+Glideslope or glide path is active and the airplane is between 40ft and 60ft barometric altitude.
+
+The go-around mode is a combined of: (B1, B2)
+@@Autoflight function (AFF) and thrust management function (TMF).
+Autoflight function (AFF) and flight management function (FMF).
+Flight management function (FMF) and primary flight control function (PFCF).
+
+The condition to arm the go-around mode when the airplane is in the air: (B1, B2)
+@@Glideslope mode is active or trailing edge flaps are not up.
+Glideslope mode is armed or leading edge flaps are up.
+Glideslope mode is armed or trailing edge are up.
+
+The flight mode annunciator (AFF) on top of PFD and HUD show these data: (B1, B2)
+LNAV (lateral navigation) mode, VNAV (vertical navigation) mode, APP (approach) mode.
+@@Autothrotlle mode, roll mode, pitch mode.
+Airspeed, Altitude, Heading.
+
+How to know an AFDS mode is armed? (B1, B2)
+A green box shows in the flight mode annunciator of PFD and HUD.
+@@A white box shows in the flight mode annunciator of PFD and HUD.
+A white box shows in the flight mode annunciator of ND.
+
+The autopilot flight director system has the CMCF ground test for: (B1, B2)
+@@Autopilot disconnect switches, mode control panel, backdrive actuators, TO/GA switches.
+Autopilot disconnect switches, mode control panel, backdrive actuators, TO/GA switches, thrust control module.
+Autothrottle disconnect switches, mode control panel, backdrive actuators, TO/GA switches.
+
+The Thrust Management System (TMS) can control engine thrust in these phases: (B1, B2)
+Take-off, cruise, landing.
+All flight phases except take-off.
+@@All flight phases from take-off to landing.
+
+Choose the correct answer: (B1, B2)
+If one engine is failed, push the A/T (autothrottle engage) switch to make the good engine operate at maximum thrust.
+If one engine is failed, push the TO/GA (take-off / go-around) switch to make the good engine operate at maximum thrust.
+@@If one engine is failed, push the CLIMB/CON (climb/continuous) switch to make the good engine operate at maximum thrust.
+
+Choose the correct answer: (B1, B2)
+FLARE is a pitch mode, an autopilot horizontal stabilizer command that raises the nose of the airplane at touch down.
+@@FLARE is a pitch mode, an autopilot elevator command that raises the nose of the airplane at touch down.
+FLARE is a roll mode, an autopilot elevator command that raises the nose of the airplane at touch down.
+
+Thrust management system indications show on: (B1, B2)
+@@PFD, HUD, EICAS.
+PFD, HUD, AUX PFD.
+PFD, HUD, ND.
+
+Thrust targets and modes show on: (B1, B2)
+PFD and HUD.
+@@EICAS and CDU.
+PFD and AUX PFD.
+
+What information of TMS (thrust management system) shows on EICAS? (B1, B2)
+Active thrust limit mode, selected altitude, thrust limit indications.
+Active thrust limit mode, selected airspeed, thrust limit indications.
+@@Active thrust limit mode, selected temperature, thrust limit indications.
+
+During auto land if there are faults in the system, the annunciator status can show: (B1, B2)
+FLT DIR.
+@@LAND 2 or NO AUTO LAND.
+LAND 3.
+
+The F/D (flight director) annunciator status shows on PFD and HUD: (B1, B2)
+@@FLT DIR (green) is active but autopilot is not engaged.
+FLT DIR (green) is active and autopilot is engaged.
+FLT DIR (amber) is not active and autopilot is engaged.
+
+On the MCP (mode control panel), if the altitude increment selector is in the auto position: (B1, B2)
+Altitude selector display changes in 10 foot increments.
+@@Altitude selector display changes in 100 foot increments.
+Altitude selector display changes in 1000 foot increments.
+
+How to perform a Go-around during landing? (B1, B2)
+@@First push on TO/GA switch to engage the system to the go-around mode, the airplane climbs at 2000ft/min. Second push on TO/GA switch to change auto throttle thrust limit mode to full go-around thrust.
+First push on A/T (auto throttle) switch on MCP to engage the system to the go-around mode, the airplane climbs at 2000ft/min. Second push on A/T switch to change auto throttle thrust limit mode to full go-around thrust.
+Push auto throttle disconnect switch first  to engage the system to the go-around mode, a/c climbs at 2000ft/min. Push TO/GA switch then to change auto throttle thrust limit mode to full go-around thrust.
+
+During landing the TO/GA switches are inhibited 10 seconds when the thrust reversers are stowed: (B1, B2)
+To arm the full thrust reference.
+@@To avoid the switches accidentally pushed after landing.
+No inhibition for TO/GA switches during landing.
+
+The auto throttle function engages whenever the A/T arm switches are ON, and: (B1, B2)
+@@One of these auto flight modes is selected (VNAV, FLCH, TO/GA).
+One of these auto flight modes is selected (LNAV, HGD/TRK, ALT).
+F/D selected only.
+
+ILS approach: (B1, B2)
+At 1500 feet radio altitude, rudder backdrive actuator disengages,
+At 1500 feet barometric altitude, autopilot annunciator changes form A/P to LAND 3.
+@@At 1500 feet radio altitude, autopilot annunciator changes form A/P to LAND 3.
+
+ILS approach: (B1, B2)
+Near 200 feet, the status annunciator can show LAND 3.
+@@Near 200 feet, LAND 2 annunciator is inhibited, not to distract the flight crew.
+Near 200 feet, autopilot changes to FLARE mode.
+
+The crew uses CDU AIRLINE POLICY (B1, B2)
+@@To change take-off de-rate settings for a single flight.
+To change fuel flow factor.
+To change the AMI (airplane modifiable information) key.
+
 Can the aircraft be dispatched with BDAs of three control axis inoperative?(A, B2)
 @@All could be inoperative provide affected actuators deactivated and auto-pilot function still operate normally.
 All could be inoperative provide affected actuators deactivated and auto pilot function INOPERATIVE, the aircraft must be also dispatched with MEL Item 22-11-01.
@@ -220,7 +428,11 @@ The procedures to engage the A/P are: (A, B2)
 Pushing both autopilotengage switches simultaneously.
 Pushing both autopilotengage switches in turn.
 
-ReferencePage 60 of Autoflight - Avionic Book 5 of 5, 787 Training Lab Notebook
+What is the procedure to disengage the A/P ? (A, B2)
+Push the A/P disconnect switch on the wheel..
+Manually override the autopilot commands to the flight controls..
+@@Push the A/P disconnect switch on the wheel OR Manually override the autopilot commands to the flight controls.
+
 What happens if you push an autopilot disconnect switch the second time ?: (A, B2)
 Autopilot disconnected.
 Visual and aural alerts to come on.
@@ -406,7 +618,156 @@ When service interphone system is connected to flight interphone system, how do 
 AGUs process the all audio signals and send to ACPs which send them to interphone jacks, flight inerphone headsets and comm/warning speakers.
 The ACPs decode the flight interphone audio and send it to the service interphone jacks whereas The AGUs decode the service interphone audio and send it to the selected flight interphone headsets and comm/warning speakers.
 
-Ref B787 training student lab book Electrical Systems page 128/429
+The main components of CRN (current return network) are: (B1, B2)
+@@Bars, straps, wiring, tie brackets.
+Contactors, relays, wiring.
+Static dischargers, bonding leads, tie straps.
+
+One of the CRN (current return network) function is: (B1, B2)
+Lightning protection for direct fuselage and tail and direct nose-to-tail lightning paths.
+Increases electromagnetic energy (EME) and high intensity radiation field (HIRF) effects.
+@@Decreases electromagnetic energy (EME) and high intensity radiation field (HIRF) effects.
+
+Choose the incorrect answer: (B1, B2)
+The CRN (current return network) is not a part of the primary structure of the airplane.
+@@The CRN (current return network) is not a part of electrical system.
+The CRN (current return network) is composed of structural and non-structural metal parts.
+
+The CRN (current return network) is connected to the CFRP (Carbon Fiber Reinforced Plastic): (B1, B2)
+To reinforce the wing and empennage structure .
+To provide  a high impedance metallic path to reduce the effects of lightning.
+@@To provide  a low impedance metallic path to reduce the effects of lightning.
+
+Which one is the correct answer? (B1, B2)
+@@P100/200 L/R 235V AC are power distribution panels.
+P300/400 are power conversion panels.
+P500/600 115V AC and 18V DC are power distribution panels.
+
+The main battery supplies power to the hot battery bus (HBB) (B1, B2)
+@@The HBB is in P300 panel.
+The HBB is in P400 panel.
+The HBB is in P500 panel.
+
+During APU start by batteries: (B1, B2)
+The main battery supplies power for EICAS, lower MFD and APUC (APU controller), the APU battery supplies power for the APU inlet door actuator.
+@@The main battery supplies power for EICAS and lower MFD, the APU battery supplies power for the APUC (APU controller), SPU (start power unit) and the APU inlet door actuator.
+The main battery supplies power for EICAS, lower MFD and APUC (APU controller), the APU battery supplies power for the SPU (start power unit) and  APU inlet door actuator.
+
+The main components of P500/600 panel are: (B1, B2)
+@@ATU (auto transformer unit), TRU (transformer rectifier unit), EBPSU (electrical brake power supply unit).
+BPCU (bus power control unit), TRU (transformer rectifier unit), EBPSU (electrical brake power supply unit).
+ATRU (auto transformer rectifier unit), TRU (transformer rectifier unit), EBPSU (electrical brake power supply unit).
+
+The EBPSU (electrical brake power supply unit) changes 28V DC from the TRU (transformer rectifier unit) to +/- 130V DC for: (B1, B2)
+EBA (electric brake actuator).
+@@EBAC (electric brake actuation controller).
+BSCU (brake system control unit).
+
+What loads are controlled and protected by ELCU (electrical load control unit)? (B1, B2)
+SPDU (secondary power distribution unit).
+RPDU (remote power distribution unit).
+@@Breakers, contactors, replays.
+
+The ELCU (electric load control unit) has 2 types of modules: (B1, B2)
+ELCU C card (communication) receives command data from GCU via CDN (common data network) for control of the ELCU P card (protection).
+@@ELCU C card (communication) receives command data from BPCU via CDN (common data network) for control of the ELCU P card (protection).
+ELCU C card (communication) receives command data from AGCU via CDN (common data network) for control of the ELCU P card (protection).
+
+Choose the incorrect answer: (B1, B2)
+Each ELCU C (communication) module can control up to 6 ELCU P (protection) modules.
+@@Each ELCU P (protection) module can control up to 6 ELCU C (communication) modules.
+Each ELCU P (protection) module can control up to 6 contactors.
+
+On ground and electrical system is supplied by APU only, P100/200 panels are power supplied by ASGs (apu starter generator) via LTB (left tie bus) and RTB (right tie bus): (B1, B2)
+@@LTB and RTB are in the P150 panel.
+LTB is in the P100 panel, RTB is in the P200 panel.
+LTB is in the P700 panel, RTB is in the P800 panel.
+
+When APU is running and forward external power is ON: (B1, B2)
+APU supplies power to the 115V AC and 28V DC buses, external power supplies power to the 235V AC buses.
+APU supplies power to the 115V and 235V AC buses, external power supplies power to the 28V DC buses.
+@@APU supplies power to the 235V AC buses, external power supplies power to the 115V AC and 28V DC buses.
+
+During APU cool down period: (B1, B2)
+You can not set the APU selector back to ON to return the APU to its running condition.
+@@You can set the APU selector back to ON to return the APU to its running condition.
+You can turn off BAT switch to decrease the duration of APU cool down period.
+
+The DRIVE (amber) light on P5 panel comes on whenever: (B1, B2)
+@@There is a low oil pressure condition.
+There is a over current protection.
+Conditions are met to reset the corresponding VFSG.
+
+The GCU (Generator Control Unit) can open the related GCB (Generator Control Breaker): (B1, B2)
+Manually use the generator control switches or the drive disconnect switches on P5 panel.
+Automatically by protective trip.
+@@Manually use the generator control switches or the drive disconnect switches on P5 panel. Or automatically by protective trip.
+
+The OVTPU (over voltage transient power unit) monitor the three phases 235V AC output of the VFSGs: (B1, B2)
+If 2 over voltage events occurs in 30 seconds or if 2 events occur in a flight, the GCB (generator control breaker) opens.
+@@If 2 over voltage events occurs in 60 seconds or if 3 events occur in a flight, the GCB (generator control breaker) opens.
+If 2 over voltage events occurs in 60 seconds or if 2 events occur in a flight, the GCB (generator control breaker) closes.
+
+The GNR (generator neutral relay): (B1, B2)
+@@Gets control from the related GCU with commands from BPCU.
+Gets control from the related GCU with commands from ELCU.
+Gets control from the related GCU with commands from CCR hosted function.
+
+The SC (start contactor) is used to start the engine. To close, the SC must get these 2 signals: (B1, B2)
+A ground signal and 28V DC from the related GCU.
+A ground signal from the related GCU and 115V AC from the CMSC.
+@@A ground signal from the related GCU and 28V DC from the CMSC.
+
+The text shows above N2 display on EICAS: (B1, B2)
+Green AUTO START to inform that the start is initiated.
+@@White AUTO START to inform that the start is initiated.
+Green RUNNING to inform that the engine has completely reached stable N2.
+
+Choose the correct answer: (B1, B2)
+@@There are 6 235VAC buses, 4 main AC buses: L1, L2, R1, R2 in P100/200 panels. 2 tie buses LTB, RTB are in P150 panel.
+There are 6 main 235VAC buses: L1, L2, L3 AC buses are in P100 panel. R1,R2, R3 AC buses are P200 panel.
+There are 2 main 235V AC buses. Left AC bus is in P100 panel. Right AC bus is in P200 panel.
+
+The 6 main 235V AC bus tie breakers (BTB) are controlled by: (B1, B2)
+BPCUs.
+ELCUs.
+@@GCUs.
+
+The 6 main 235V AC bus tie breakers (BTB) are located: (B1, B2)
+L1, L2 BTBs are in P100 panel. R1, R2 BTBs are in P200 panel. L3, R3 BTBs are in P150 panel.
+L1, L2 BTBs are in P100 panel. R1, R2 BTBs are in P200 panel. L3, R3 BTBs are in P700/800 panels.
+@@L1, L2, L3 BTBs are in P100 panel. R1, R2, R3 BTBs are in P200 panel.
+
+The ELCC (electrical load control contactor) are used where: (B1, B2)
+The current load is more than the rating of thermal circuit breakers or solid state protective devices. The source voltage is 28V DC.
+@@The current load is more than the rating of thermal circuit breakers or solid state protective devices. The source voltage is 235V AC.
+The current load is more than the rating of thermal circuit breakers or solid state protective devices. The source voltage is 115V AC.
+
+Each ELCC (electrical load control contactor) can get open/close commands from: (B1, B2)
+@@GCU,BPCU, ELCU P (power) module.
+GCU,BPCU, ELCU C (communication).
+GCU, BPCU.
+
+The ESIC (electrical system indication and control) is used to see and control some BTBs (bus tie breakers) and contactors in these power panels: (B1, B2)
+@@P100/200, P300/400.
+P100/200, P500/600.
+P100/200, P700/800.
+
+The MBR (main battery relay) can be controlled: (B1, B2)
+Manually access to the ESIC in the maintenance control pages with main battery switch selected ON.
+Manually access to the CBIC function with main battery switch selected ON.
+@@Automatically by BPCU in the air regardless of the main battery switch.
+
+The GATU (galley auto transformer unit): (B1, B2)
+Gets 235V AC, 3-phase constant frequency from 235V L2 AC bus and sends out 115V AC, 3-phase constant frequency.
+@@Gets 235V AC, 3-phase variable frequency from 235V L2 AC bus and sends out 115V AC, 3-phase variable frequency.
+Gets +/- 270V DC from L2 ATRU (auto transformer rectifier unit) and sends out 115V AC, 3-phase constant frequency.
+
+The GATU (galley auto transformer unit) gives power to: (B1, B2)
+Forward galleys and middle galleys.
+Forward galleys, middle galleys and aft galleys
+@@Aft galleys.
+
 In addition to systems that traditionally get electrical power, The 787 electrical system supplies power for: (A, B2)
 @@Engine start, Pressurization, Wing ice protection, Stabilizer trim, Wheel brake systems.
 Engine start,  Pressurization, Wing ice protection, landing gear alternate extension system
@@ -592,7 +953,11 @@ It disconnects electrical loads only when engines start, to prevent insufficient
 @@It disconnects electrical loads to keep the load levels less than the power supply levels, to prevent an overload condition of the electrical power sources.
 It disconnects electrical loads only when engines are operating, to prevent the VFSGs from removing too much power from the engines.
 
-Reference Page 176 / 429 of Electrical Power System - Avionics Book 1 of 5, 787 Training Lab Notebook
+What is the condition for controlling the CBIC (Circuit Breaker Indication and Control) function on maintenance laptop ?  (A, B2)
+When the airplane is on the ground and GND TEST switch is in NORM.
+When the airplane is on the ground and GND TEST switch must be in DATA LOAD/ENABLE.
+@@When the airplane is on the ground and GND TEST switch is not in NORM.
+
 What kind of load do the ELCU (Electrical Load Control Unit)control and supply protection?(A, B2)
 The load with rating up to 50 amps AC.
 @@The large loads which receive current and ac voltage that is more than the rating of the thermal circuit breakers.
@@ -623,7 +988,11 @@ How are the CMSCs(Common Motor Starter Controller) and ATRUs (Auto Transformer R
 The air conditioning system processes to make cool air to cool the CMSCs and the ATRUs.
 The 2 forward EE cooling supply fans move air to cool the CMSCs and the ATRUs.
 
-Reference Page 160 / 429 of Electrical Power System - Avionics Book 1 of 5, 787 Training Lab Notebook
+What are contained in SPDU (Secondary Power Distribution Unit) cabinet ? (A, B2)
+There are 8 power modules and 2 microprocessor modules.
+There are 6 power modules and 2 microprocessor modules.
+@@There are 16 power modules and 2 microprocessor modules.
+
 What is the function of VFSG (Variable Frequency Starter Generator) GCU (Generator Control Unit)  ? (A, B2)
 It continuously monitors the total horsepower extractionfrom each engine to prevent the overload condition  .
 It controls and monitors the engine start.
@@ -659,7 +1028,11 @@ VFSG low oil pressure sensed.
 @@Power is applied and engine fuel control switch moves to the RUN position.
 Power is applied
 
-Reference Page 278 / 429 of Electrical Power System - Avionics Book 1 of 5, 787 Training Lab Notebook
+What happens when high oil temperature (199 +/- 3 deg C) of the VFSG(Variable Frequency Starter Generator) is detected ? (B2)
+The DRIVE indication shows amber and the flight crew must manually disconnect the VFSG
+@@The VFSG is automatically disconnected by melting an internal solder pellet.
+Nothing happens.
+
 When you reconnect the VFSG(Variable Frequency Starter Generator) to the input shaft, what is the different between the first and second time you pull the disconnect manual reset handle ? (B2)
 @@You must ensure that the force to pull the disconnect manual reset handle the second time is less than the first time.
 you must  hear or feel the “click” tension at the second time you pull the disconnect manual reset handle.
@@ -690,7 +1063,21 @@ A CABIN/UTILITY switch in the cockpit (P5).
 @@An emergency OFF switch at each galley panel.
 An emergency OFF function in the CAP.
 
-Ref. 787Training Lab Notebook,4A fire protection page: 594 of 996
+What equipment supplies the discharge current to the cargo compartment fire bottle squibs? (B2)
+@@The squib monitor and control unit (SMCU).
+The APU and cargo fire control panel.
+The main engine data concentrator (MEDC).
+
+The engine fire overheat detector sends a signal to CCR via? (B2)
+EEC
+@@MEDC
+RDC
+
+The cargo smoke detectors are:(B2)
+@@Spot-type photoelectric smoke detectors
+Thermistor
+Resistive temperature devices.
+
 Who does monitor the engine fire detection channels for fires and overheat conditions?
 CCS.
 MEDC.
@@ -797,9 +1184,9 @@ The primary flight control function (PFCF) has these components: (A, B1, B2)
 @@3 FCMs (one in the FCE L, one in the FCE C1 and one in the FCE R).
 
 How many are there direct mode rate sensors (DMRS)? (A, B1, B2)
-@@
-
-
+@@4
+3
+2
 
 What does the primary source power to the PCM in FCE L, R and C1? (B1, B2)
 Captain flight instrument bus.
@@ -891,7 +1278,51 @@ If the hydraulic spoiler dispatch tool is not available.
 If the spoiler EMA doesn’t have a shearout.
 @@If the spoiler EMA has a shearout.
 
-Ref: Fuel – Pressure Refueling System  ATA 28, MTM
+What statement is True? (B1, B2)
+The OVERFILL light comes on if the RCP senses an overfill condition.
+The OVERFILL light comes on if there are fuel in surge tank.
+@@The OVERFILL light comes on if the FQIS senses an overfill condition.
+
+Purpose of the B787 aircraft vent system is: (B2)
+@@Prevents pressure differences between the tanks and ambient air.
+Remove water and contamination from the fuel tanks.
+Removes fuel fumes from the tank before maintenance access
+
+Location of the fuel center tank: (B2)
+They are between ribs 9 and 32 in the wing box of each wing.
+The center tank is between rib 4 of the left wing and rib 4 of the right wing. Wing ribs divide each side of the center tank into seven fuel bays.
+@@The center tank is between rib 9 of the left wing and rib 9 of the right wing. Wing ribs divide each side of the center tank into seven fuel bays.
+
+How do you know  the surge tank pressure relief valve opened when you’re doing a walk around check? (B2)
+With EICAS display.
+@@it protrudes below the lower surface of the wing.
+Observe fuel spill through a flame arrestor and vent scoop.
+
+When does Refuel Control Panel (RCP) get electric power from RPDUs? (B2)
+@@The RCP gets power when the RCP door is open.
+When aircraft is on ground and has power.
+When all valves switches is “Enable”
+
+What statement is True? (B2)
+The OVERFILL light comes on if the RCP senses an overfill condition.
+The OVERFILL light comes on if there are fuel in surge tank.
+@@The OVERFILL light comes on if the FQIS senses an overfill condition.
+
+Purpose of Engine Feed system? (B2)
+@@Sends fuel to the engines from the main and center fuel tanks. Can balance fuel between main tanks.
+Uses fuel to cool the variable frequency starter generators (VFSG) during engine shutdown.
+Sends fuel to fuel operated valves and actuators.
+
+What statement is True? (B2)
+The fuel pump pressure switch is not an LRU.
+@@The fuel boost pumps are different from the center tank fuel pumps.
+The fuel boost pumps are the same with the center tank fuel pumps
+
+What statement is True? (B2)
+Each O/J pump motor is controlled by a CMSC.
+@@The fuel boost pump motor operates on variable frequency power of 369 Hz to 800 Hz at 235v ac. The electrical load control units (ELCU) give overcurrent and ground fault interruption protection for the fuel boost pumps.
+The O/J pump motor-impeller assembly can’t be removed without defueling the center tank.
+
 To transfer fuel from one tank to a different tank, we use: (A, B1, B2)
 The Refuel Control Panel (RCP) only.
 The Fuel Control Panel (FCP) only.
@@ -947,7 +1378,11 @@ Electric power from APU.
 @@Electric power from external power.
 Electric power from battery.
 
-Ref: Hydraulics Book 1 of 4, Hydraulic Systems, Ram Air Turbine System 787 Training Lab Notebook, page 152.
+What signals can automatically extend the RAT: (B1, B2)
+BSCU and BPCU
+HYDIF and BSCU
+@@BPCU and HYDIF
+
 The left and right hydraulic systems supply hydraulic power to these related components: (A, B1, B2)
 Primary flight control (PFC) actuators, High lift control, Thrust reverser control valve and actuators.
 Primary flight control (PFC) actuators, Landing gear actuators, Thrust reverser control valve and actuators.
@@ -988,7 +1423,21 @@ RAT is deployed.
 @@RAT is not in the fully up and locked position.
 RAT is stowed.
 
-Ref: Ice and Rain Protection, Water and Waste Systems - ECS Book 5 of 5, Ice and Rain Protection, Ice and Rain - Primary Ice Detection System, page 66.
+What system use PIDS icing signal for automatic operation: (A, B1, B2)
+WIPS, CIPS
+WIPS, EAI
+@@WIPS, EAI, CIPS
+
+What data are used by the processor in the PIDS detector to decide an icing: (A, B1, B2)
+@@Moisture, Ground speed, Air/ground data, Angle of attack (AOA), Air temperature, Static pressure
+Ground speed, Air/ground data, Angle of attack (AOA),Air temperature, Static pressure
+Moisture, Ground speed, Air temperature, Static pressure
+
+The wing ice protection control unit: (B2)
+@@Has 24 zone control cards supply AC power to a symmetrical set of heater mats on the wings.
+Gets 135vac through 2 remote data concentrators (RDC).
+Gets temperature data from 24 temperature sensors for control and monitoring.
+
 The primary ice detection system (PIDS) is fully automated and: (B1, B2)
 Operates on the ground.
 @@Operates in flight.
@@ -1024,16 +1473,115 @@ The window heat control system (WHCS) operates in backup mode: (B1, B2)
 Supply only forward window anti-ice.
 Supply forward window anti-ice and anti-fog.
 
-Ref: SDS DMC`-B787-A-31-61-00-41A-110A-A.
+The forward flight recorder and flight deck area microphone get power from? (B2)
+The R (Right) 28V (Volts) DC (Direct Current) bus.
+The L (Left) 28V (Volts) DC (Direct Current) bus through the RIPS (Recorder Independent Power Supply).
+@@The L (Left) 28V (Volts) DC (Direct Current) bus through the RIPS (Recorder Independent Power Supply), the RIPS (Recorder Independent Power Supply) battery, a test set through a connector on the P40 panel.
+
+How many components does the RIPS (Recorder Independent Power Supply) have an interface? (B2)
+Aft FR (Flight Recorder).
+@@Forward FR (Flight Recorder) and Flight deck area microphone.
+Forward FR, Aft FR (Flight Recorder) and Flight deck area microphone.
+
+The flight deck area microphone sends analog audio to these components: (B2)
+@@Forward FR (Flight Recorder), Aft FR (Flight Recorder) and P40.
+Forward FR (Flight Recorder) and Captain ACP (Audio Control Panel).
+Aft (Flight Recorder) and First Officer ACP (Audio Control Panel).
+
+The FRS (Flight Recorder System) has these components: (B2)
+Only Forward FR (Flight Recorder) with ULB (Underwater Locator Beacon).
+Forward FR (Flight Recorder) with ULB (Underwater Locator Beacon) and Aft FR (Flight Recorder) with ULB (Underwater Locator Beacon).
+@@Forward FR (Flight Recorder) with ULB (Underwater Locator Beacon) and Aft FR (Flight Recorder) with ULB (Underwater Locator Beacon), RIPS (Recorder Independent Power Supply), Flight compartment area microphone.
+
+What are the FR (Flight Recorder)s functions? (B2)
+Only FR (Flight Recorder) function.
+@@FR (Flight Recorder) function, CVR (Cockpit Voice Recorder) function, Datalink recorder for CNS (Communication/Navigation/Surveillance)/ATM (Air Traffic Management) function, DFDAF (Digital Flight Data Acquisition Function).
+Only CVR (Cockpit Voice Recorder) function.
+
+What’s happen if no engines start and the airplane does not take off within 10 minutes after you push the TEST switch: (B2)
+@@The FR (Flight Recorder) stops the recording operation.
+The FR (Flight Recorder) continues the recording operation.
+The FR (Flight Recorder) stops the recording operation after 5 minutes later.
+
+What’s happen if test passes from the TEST switch on the CVR (Cockpit Voice Recorder) panel? (B2)
+The flight deck speakers make a 1 kHz (kilohertz) tone and the status message VOICE RECORDER SYS show.
+@@The flight deck speakers make a 1 kHz (kilohertz) tone and the status message VOICE RECORDER SYS does not show.
+Only the status message VOICE RECORDER SYS does not show.
+
+The DCAF makes alerts and sends the alert data to the: (B2)
+Only Graphic generators (GG).
+Only Master warning and caution lights.
+@@Graphic generators (GG), Audio control panels (ACP) and Master warning and caution lights.
+
+The Graphic generators (GG) get power from: (B2)
+The main battery.
+The RPDU cards.
+@@The power conditioning modules in the CCR cabinets.
+
+What’s the function of HUD (Head-Up Display) declutter switch? (B2)
+Turn ON HUD (Head-Up Display).
+Turn OFF HUD (Head-Up Display).
+@@Controls the quantity of data that appears on the HUD (Head-Up Display).
+
+There is an EICAS transfer switch on the Captain and the First Officer EFIS/DSP control panel, the EICAS transfer switch use for: (B2)
+@@Moves the EICAS display between the Captain side and the First Officer side.
+Removes some EICAS messages on the Captain side and the First Officer side.
+Shows secondary engine data from EICAS on the Captain side.
+
+How long can each flight recorder (FR) stores system parameters? (B2)
+@@Up to 25 hours.
+Up to 2 hours.
+Up to 255 hours.
+
+Using airplane network, data from the EAFRs (Enhanced Airborne Flight Recorder) can be downloaded from?  (B2)
+The Aft EAFR.
+@@The Forward EAFR.
+Neither Forward EAFR nor Aft EAFR, flight data can only be downloaded in the shop.
+
+What is the function of RLS (Remote Light Sensor)? (B2)
+The RLS (Remote Light Sensor) sends an ambient light analog signal to the CDN (Common Data Network) for automatic indication of the HDD (Head-Down Display).
+@@The RLS (Remote Light Sensor) sends an ambient light analog signal to the CDN (Common Data Network) for automatic brightness control of the HDD (Head-Down Display).
+The RLS (Remote Light Sensor) sends an ambient light analog signal to the CDN (Common Data Network) for manual brightness control of the HDD (Head-Down Display).
+
+Where does the Forward FR get power? (B2)
+Directly from a left 28v dc bus.
+@@From a 28v dc bus through the recorder independent power supply (RIPS).
+From hot battery bus.
+
+When does the FR (Flight Recorder) start recording flight data and audio? (B2)
+Parking brake release.
+@@The flight crew enters the origin airport during preflight.
+Push the cockpit voice recorder (CVR) ERASE button.
+
+Where does the flight compartment printer get print requests? (B2)
+@@UMD (Universal Maintenance Device), MFD (Multi Function Display)s, EFB (Electronic Flight Bag) system.
+Only EFB (Electronic Flight Bag) system.
+Head Up Display (HUD)s.
+
+How many remote light sensors (RLS) are there? (B2)
+@@2
+1
+3
+
+How many positions does the HUD (Head-Up Display) combiner have? (B2)
+@@Stowed, Deployed and Breakaway.
+Stowed and Deployed.
+Stowed and Breakaway.
+
+What are the CBIC (Circuit Breaker Indication and Control) functions? (B2)
+Gives control and indications for ECB (Electronic Circuit Breaker)s.
+Gives control and indications for TCB (Thermal Circuit Breaker)s.
+@@Gives control and indications for ECB (Electronic Circuit Breaker)s and indications for TCB (Thermal Circuit Breaker)s.
+
 What is the function of display and crew alert function ( DCAF ) ?(A, B2)
 Getting and processing aircraft system and crew input data, then making the graphic commands and sending them to HDDs and HUDs.
 @@Getting and processing aircraft system and crew input data, then making the display commands and sending them to graphics generators.
 Getting and processing aircraft system and crew input data, then making the display commands and sending them to EICAS.
 
 How many outputs does each graphics generator have ? ( B2)
-
+4
 5
-@@
+@@6
 
 Where is the clock display ?(A, B2)
 @@On auxiliary display of PFD.
@@ -1061,9 +1609,9 @@ The RLS (Remote Light Sensor) sends an ambient light analog signal to the CDN (C
 Both a and b are correct.
 
 If one GG (Graphics generator ) failed, how many displays can show data?: (B2)
-
-@@
-
+7
+@@6
+4
 
 The alternate EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) function is used for: (A, B2)
 @@Control all the switches on the captain and first officer EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) except for the cursor control selector.
@@ -1086,9 +1634,9 @@ We must clear the message before dispatching the aircraft.
 We must defer the fault condition in accordance with MMEL before dispatching the aircraft.
 
 How many flight recorders are there in the FRS (Flight Recorder System)?  (A, B2)
-
-@@
-
+1
+@@2
+3
 
 What data is recorded and stored in flight recorder?  (B2)
 @@Flight parameters, flight compartment audio and datalink messages.
@@ -1131,9 +1679,9 @@ Close 2 main landing gear doors at the same time.
 @@Close each main landing gear doors at a time to prevent overload.
 
 How many proximity sensing data concentrators are there for the landing gear system? (B2)
-
-@@
-
+2
+@@4
+6
 
 What components give Air/Ground data? (B1, B2)
 @@Truck tilt sensors and strut compressed sensors.
@@ -1190,7 +1738,126 @@ Gear synoptic page.
 @@Landing Gear Brakes Maintenance Page and Brake wear indicator pins.
 Check Brake wear indicator pins only.
 
-ref: Cabin Systems, Lights - Avionics Book 2 of 5, Lights, Lights - Cargo Lights, page 406/450
+What kinds of signal does the passenger signs control panel is on the P5 overhead panel will control: (B1, B2)
+@@Chime and Signs
+Only single chime
+Only SignS
+
+Which types of galley lights can show different colors?  (B1, B2)
+@@Area lights in the ceiling panel
+Work lights in the galley insert
+Neither Area lights nor Work lights
+
+For the cargo loading lights to operate, which position of the forward cargo door must be: ? (B2)
+It In Closed position
+@@In Up position (fully open)
+Not in closed
+
+If airplane power fails, what is the lights can automatically get power from batteries? (B2)
+@@WELS
+Service lights
+information signs
+
+Where is the PRIME wireless emergency lighting system (WELS) control units?   (B1, B2)
+@@The prime units are above 4 of the passenger doors
+The prime units are in FWD and AFT EE bay
+The prime units are above ceiling of CABIN
+
+Which Prime WELS control  units is the master prime unit?  (B1, B2)
+@@The prime unit above door 1L
+The prime unit above door 3L
+The prime unit above door 4R
+
+What is control the master brightness control function? (B2)
+A hosted application in the core network system
+@@A hosted application in the CCR
+A hosted application in the CSS
+
+What does the white dot above a switch show? (A, B2)
+@@The lights that are controlled by the MASTER BRIGHT switch
+The lights that are controlled by the DOME  switch
+The lights that are controlled by the STORM switch
+
+How to control the lights inside forward cargo compartment?  (A, B2)
+@@controlled by switches located inside and outside the cargo door
+Automatic controlled by Application software in CCR
+Controlled by switches  located in P40 panel
+
+How to Rekey the WELS ?(B2)
+@@By CMCF
+By manually
+contact the manufacture
+
+What is the purpose of The forward and rear position lights show?  (A, B2)
+@@position, attitude, and direction of flight of the airplane
+forward direction
+the location of the aft end of the airplane
+
+The power supply for logo light from RPDU is: (B2)
+28 VDC
+@@115VAC
+115VDC
+
+What kinds of the cargo compartment exterior lights are? (B1, B2)
+halogen-type bulbs
+LED light
+@@high intensity discharge (HID) type
+
+Which light will get power from same source with  the wing landing lights (from triple channel power supply) ? (B2)
+nose landing gear taxi light
+@@runway turnoff light
+wing illumination light
+
+How are the annunciator lights controlled? (B2)
+@@Each system controls its annunciator lights
+CSS (Cabin Services System) software
+A panel lighting hosted function in CCR
+
+What is the power from PSM (passenger services module) supply for the information sign? (B2)
+@@115VAC
+28Vdc
+115VDC
+
+How long the WBU must replacement? (B2)
+05 year replacement schedule
+@@04 year replacement schedule
+03 year replacement schedule
+
+Which WCU communicates with the CDN ?(B2)
+@@only the master prime WCU
+all 4 prime WCU
+The prime WCU at door 1L and door 3L
+
+If you operate the EMER LIGHTS TEST switch on the master attendant panel then: (A, B2)
+@@The EMER LIGHTS switch on the P5 panel must be OFF and the GND TEST switch set to the ENABLE position
+The EMER LIGHTS switch on the P5 panel must be ARM and the GND TEST switch set to the ENABLE position
+No action require
+
+What is The exterior lights get power from the emergency lighting system ? (B2)
+@@passenger door viewing lights
+wing lights
+There is no exterior lights get power from the emergency lighting system
+
+What’s purpose of transformer inside the cargo loading lights? (B2)
+@@The transformer gets 115v ac from RPDUs. The transformer gives 12v ac to the lights
+The transformer gets 115v ac from RPDUs. The transformer gives 28v ac to the lights
+The transformer gets 115v ac from RPDUs. The transformer gives 28v dc to the lights
+
+The FLOOR LIGHTS switch on the P8 panel controls has: (A, B2)
+@@BRT, DIM, and OFF positions.
+BRT and OFF positions.
+BRT, ON and OFF positions.
+
+Where is the software control the cabin lights ? (B2)
+@@In CSS
+In CCR
+In CAP
+
+Where is the triple power supply located? (A, B2)
+At FWD EE bay
+@@In the onside wing leading edge
+At aft cargo compartment
+
 For controllingthe lighting systems, B787 use:(A, B1, B2)
 @@The airplane CDN (Common Data Network) and software
 The dimmer control units (DCU) and relays related
@@ -1251,7 +1918,11 @@ Red forward position light on the right wing tip, green forward position light o
 @@Green forward position light on the right wing tip, red forward position light on the left wing tip, white rear position lights and white tailcone position lights.
 Red forward position light on the right wing tip, green forward position light on the left wing tip, white rear position lights.
 
-Ref: 787 Training Lab Notebook, Navigation System, page 38 of 460
+How do the flight control modules (FCMs) make voted data reference functions (ADRF) data (B2)
+Average value selection
+@@Mid-value selection
+Lowest value selection
+
 The air data reference system (ADRS) uses its components and software functions to calculate airplane parameter such as(B2)
 @@Airspeed, Barometric altitude and Temperature.
 Temperature.
@@ -1443,9 +2114,9 @@ In aft electronic equipment center.
 In flight deck.
 
 How many crew oxygen masks are installed on aircraft? (A, B1, B2)
-@@
-
-
+@@4
+5
+6
 
 When the green overboard discharge indicator disc is gone, it shows: (A, B1, B2)
 Leaks in the tubing.
@@ -1472,7 +2143,31 @@ A board failure.
 A cable test failure.
 @@The BIT successfully passed the test.
 
-Ref: 787 Training Lab Notebook, Ice and Rain Protection, Water and Waste Systems - GE, page 309 of 427.
+In the potable water system, The fill-supply valve is located at: (B2)
+Forward cargo compartment
+@@The ceiling between the waste tanks
+Aft cargo compartment
+
+Potable Water Flow Orifice is on: (B2)
+@@Right potable water tank
+Left potable water tank
+The ceiling between the waste tanks
+
+In the potable water system, the 2 pumps get power from: (B2)
+@@115v ac main bus through remote power distribution units (RPDU)
+235v ac main bus
+28v dc main buses through remote power distribution units (RPDU)
+
+When is the vent/overflow valve in the overflow position? (B2)
+In normal operation
+@@During servicing
+During drain mode
+
+On the service panel, what selections do you make to flush the potable water system? (B2)
+@@Select MAINT and FILL at the same time
+Select FILL
+Select MAINT and DRAIN at the same time
+
 The ultraviolet (UV) water treatment module gets power from: (A, B1, B2)
 @@L 115v ac main bus through remote power distribution unit.
 R 115v ac main bus through remote power distribution unit.
@@ -1694,7 +2389,31 @@ On the last column in seat group
 Always on the first seat in seat group
 DMC-B787-A-44-26-10-00A-520A-A
 
-Ref: 787 Training Lab Notebook, Central Information, Central Maintenance, page 162 of 471.
+Scheduled maintenance tasks (SMT) show when: (B2)
+Time limit occurs in a system
+@@Time or cycle limit occurs in a system
+Cycle limit occurs in a system
+
+The Inbound flight deck effects page shows: (B2)
+All existing flight deck effects
+@@All correlated MMs stored in the present flight leg
+Faults for the current flight leg
+
+These are necessary to correlate a MM to a MO: (B2)
+FDE and MM must be active or latched at the same time; FDE and MM must match on the CMCF FDE/MM table
+Specific airplane systems send time interval data to CMCF, SMT and MM must match on the CMCF SMT/MM table
+@@Fault tolerant airplane system has not generated a FDE, MO and MM must match on the CMCF MO/MM table
+
+Correlated Maintenance Messages (MM) with the Maintenance Memo (MO) can show in main CMCF menu: (B2)
+Existing Flight Deck Effects
+Inbound flight deck effects
+@@Present Leg Faults
+
+The electronic flight bag (EFB) display unit (DU) gives you access to menu to do maintenance: (B2)
+@@Document library (DOCUMENTS)
+Airplane functions
+Toolbox remote
+
 How does The CMCF (Central Maintenance Computing Function) operate ?(A, B2)
 One CMCF on ML and one CMCF can operates at a time
 Maximum  three CMCF (Central Maintenance Computing Function) can operates at a time
@@ -1795,7 +2514,41 @@ MFD(Multi Function Display) DU (Display Unit)
 PFD (Primary Flight Display)
 @@ML(Maintenance Laptop)
 
-Ref : Page 448 of Airplane General 1B- Introduction Book 2 of 2, 787 Training Lab Notebook
+the core network cabinet is controlled by  (B1, B2)
+core network system software in CCR
+@@no controls for the core network cabinet
+core network controller on FWD EE bay
+
+Ethernet ports for a wired connection of the maintenance laptop (B1, B2)
+connect directly to the common data network
+connect directly to the open data network
+@@connect directly to the isolated data network
+
+Where is the captain side electronic flight bag (EFB) Electronic unit (DU) located (B1, B2)
+in the flight deck on the side wall panels, outboard of the captain
+@@in the forward EE bay at  E2-2 rack
+in the flight deck behind the overhead panels
+
+Push the XFR button on the captain electronic flight bag (EFB) display unit (DU)  to (B1, B2)
+@@show the display from the first officer EFB DU
+prevent the first officer EFB DU from showing the display
+show the status message off airplane from captain EFB DU
+
+SYSTEM FAULT LOG shows fault messages from the EFB that related to (B1, B2)
+airplane system faults (core network system)
+@@EFB faults only (not airplane system faults)
+Restarting the EFB operational software is fault
+
+The SYSTEM CONFIG function on the EFB MAINTENANCE page will show (B1, B2)
+hardware and non-loadable software parts
+all Aiplane LSAPs
+@@all loadable EFB software parts
+
+which type of video signal that the surveillance camera interface unit (SCIU) sends to the electronic flight bag system  (B1, B2)
+analog
+@@digital
+fiber optic
+
 Where are the EFB (Electronic Flight Bag)EU (Electronics Unit)s located? (A, B2)
 in the Aft equipment center
 @@in the forward equipment center
@@ -1906,17 +2659,153 @@ Pack bay temperature sensor, Overheat detection temperature sensors.
 Pack bay temperature sensor, Overheat detection temperature sensors.
 @@Pack bay temperature sensor, overheat detection temperature sensors, insulation blankets.
 
+If start APU with battery, the APU battery powers: (B1, B2)
+APU fire detection system and DC fuel pump
+@@APU controller (APUC), and APU Inlet door actuator
+APU controller (APUC), and DC fuel pump
+
+What will be the result if three or more engine generators go off line in flight? (B1, B2)
+The EICAS Advisory Message APU START is displayed and the APU must be started manually
+The APU starts when the selector is rotated to the ON position
+@@The APU automatically starts, regardless of APU selector position
+
+If an engine is running or forward external power is selected ON which APU starter/generator is used for APU start? (B1, B2)
+@@Either the left or right starter/generator
+The left starter/generator
+Both APU starter/generators
+
+Which statement about the The APU start duty cycle for the common motor start controller is correct? (A, B1, B2)
+You can do the second APU start after five minutes if the APU did not start the first time
+@@You can do the third APU start after three minutes if the APU did not start the second time
+You can do the APU start three times maximum
+
+What events must precede before setting the APU selector switch to the START position? (A, B1, B2)
+@@The left common computing resource (CCR) cabinet energizes and APU controller is energized
+The APU air inlet door reaches the full open position
+The spar valve opens and the APU inlet door opens
+
+What EICAS memo message is displayed when the APU is running and ready to power the airplane? (A, B1, B2)
+@@APU RUNNING
+APU ON
+APU LIMIT
+
+The APUC monitors the sensor for correct operation. If the oil temperature sensor is defective: (B1, B2)
+You can not start APU
+@@During the APU starts, the APUC sends a signal to energize the oil pump de-prime valve to go open, no oil goes to the supply oil pump element.
+After the APU starts, the de-prime valve opens, no oil goes to the supply oil pump element
+
+Can the speed of the APU change? (B1, B2)
+The APU speed can not change
+The APU speed can change only when airplane is in the air
+@@The APU speed changes when the ambient temperature changes
+
+The APUC uses APU and airplane signal  data to give the fuel flow necessary to keep a correct shaft speed. The correct engine speed keeps: (B1, B2)
+@@The ASG frequency in the range of 380 to 440 Hz (Hertz)
+The APU speed in range
+The EGT in range
+
+Which component does the BPCU make a selection of during an APU start? (B1, B2)
+CMSC
+ASG
+@@CMSC and ASG
+
+The APU is operating in the attended mode. Low oil pressure or high EGT is detected. What happen? (B1, B2)
+@@The caution message shows on EICAS.  The APU must be manually shut down.
+That cause an APU automatic shutdown
+APU operates normally till oil press and EGT are more than the limits
+
+The purpose of the APU PMG is to? (B2)
+Supply power for APU controller
+@@Supply power for fuel module
+Supply power for A/C electrical system.
+
+In Unattended mode. What happen if APU HIGH OIL TEMPERATURE occur? (B1, B2)
+@@APU auto shutdown
+The APU must be manually shut down
+The caution message shows on EICAS
+
 Which statement about APU oil quantity is not correct? (A, B1, B2)
 The EICAS status message APU OIL QUANTITY shows you can operate the APU for 26 hours
 If the APU gearbox has less than 1.7 qt of oil during the APU ON mode, the APU will have a low oil pressure (LOP) shutdown.
 @@The EICAS status message APU OIL QUANTITY shows if the APU gearbox has less than 3.75 qt of oil and the APU is in the attended mode
-Ref: AMM DMC-B787-A-49-11-00-00A-110A-A
+
+What is the purpose of cargo compartment decompression panels? (B1, B2)
+To ensure equal air pressure between passenger compartment and cargo compartment
+@@To protect from structural failure due to sudden high pressure difference between the cabin and cargo compartments
+To provide more strength for cargo compartment panels
+
+Inside the cargo compartments, the decompression panels are installed in (B1, B2)
+@@The ceilings, sidewalls and end-walls
+Floor panels
+Sidewall panels only
+
+Doors, and Windows, page 292 of 798.
+What materials are the decompression panels made of?(B1, B2)
+@@Fiberglass or composite honeycomb.
+Aluminum
+Carbon sandwich
+
+Doors, and Windows, page 292 of 798.
+How many types of the decompression panels?(B1, B2)
+Inside and outside
+@@Inboard and outboard
+Left side and right-side
+
+Doors, and Windows, page 293 of 798.
+If fiberglass liners have cuts, tears or holes in specified limit. (B1, B2)
+@@Liners shall be removed for repair in work shop or can be repaired by special patch kits on wing
+The cargo compartment is carried normally
+The cargo compartment is not carried Fly away kits, ballast
+
+What prevents unwanted movement of a ULD in the roller tray area? (B1, B2)
+Braking casters
+@@Spring lift power driver units (PDU) and brake
+Self-lift power driver units (PDU)
+
+Where are the Self-lift power driver units (PDU) located? (B1, B2)
+On the Roller trays in Forward and Aft Cargo Compartment
+@@In the ball panel area
+In the Forward Cargo Compartment only
+
+How many Cargo Maintenance Display Units are there in B787? (A, B2)
+Two, in the Forward Electronic Equipment Bay and in the Aft Electronic Equipment Bay
+@@Two, one in the forward cargo compartment door cut out, other in the aft cargo compartment door cut out
+One, in the forward cargo compartment
+
+The cargo handling system gets power for control from? (A, B2)
+@@Ground handling bus
+Ground service bus
+Ground utility bus
+
+To do an operation test of the cargo Power Drive Unit (PDU): (B1, B2)
+@@Use the cargo control joy stick
+Use the Maintenance Laptop
+Use the Electronic Flight Bag (EFB)
+
+Which component lets the containers and pallets go into the cargo compartment with correct alignment with the ball mats and without damage? (B1, B2)
+@@Doorway entrance guides
+Center stop assembly
+Center guides
+
+What component controls the PDU?(B1, B2)
+@@Main control panel , cargo maintenance display unit
+Main control panel, cargo door control panel
+Cargo maintenance display unit
+
+The cargo maintenance display unit gets power from?(A, B2)
+@@28v dc from the left and right airplane electrical buses and main control panel
+115v ac from the left and right airplane electrical buses and main control panel
+28v dc from RPDU
+
+Where is the software of cargo handling system located?(B1, B2)
+Main control panel
+@@Cargo maintenance display unit
+CCR
 
 How many system trays are in the ceiling panel of the cargo compartments? (B1, B2)
 1
 @@2
 3
-Ref: 787 Training Lab Notebook Equipment and Furnishings, Oxygen, Cargo Compartment, Doors, and Windows, page 374 of 798.
 
 Approximately, how many percentage of composite material does 787 have? (A, B1, B2)
 20%.
@@ -1963,7 +2852,62 @@ Aft of No1 windows.
 Aft of No3 windows.
 @@Aft of No2 windows.
 
-Ref. SWPM 20-41-01 page 6
+STANDARD PRACTICE - WIRING
+How to do a check on a fiber-optic cable for light loss: (B1, B2)
+Visual check
+Using flash flight
+@@using an Optical Time Domain Ref: lactometer (OTDR) or an Optical Power Meter (OPM)
+
+What is Warning when work with fiber optic cable : (B1, B2)
+@@Do not look into the end of a fiber optic cable.
+Do not pull or twist the fiber optic cable.
+Do not bend the fiber optic cable more than minimum
+
+How many cleaning procedures for fiber optic : (B1, B2)
+Two
+Three
+@@Four
+
+How many types of damages of fiber optic end face: (B1, B2)
+Two
+@@Three
+Four
+
+How many types of unwanted materials of fiber optic end face : (B1, B2)
+Two
+@@Three
+Four
+
+How many level of material temperature grades: (B1, B2)
+Two
+Three
+@@Four
+
+How many material classes : (B1, B2)
+@@Two
+Three
+Four
+
+What meaning of last digit number of wire part number data : (B1, B2)
+@@Color code
+Gauge
+Type
+
+Functions of a Shielded cable is : (B1, B2)
+@@Do not let high intensity radio frequency (HIRF) energy from the different radio sources
+Protect from hot condition
+Protect from erosion
+
+How to store the ESD devices: (B1, B2)
+@@Conductive bag
+Transparent Bag
+Paper bag
+
+When remove the Printed Wiring board: (B1, B2)
+@@Use wrist strap
+Use specific tool
+Only by hand
+
 If a fiber optic cable does not move freely during installation: (A, B2)
 hold the cable by the connector to gently pull it into place
 @@do not try to pull or push the cable.

@@ -1,0 +1,450 @@
+What safety precaution must be taken before performing an engine boroscope inspection?
+Disconnect the aircraft battery only
+@@Pull the engine fire handle and disconnect EEC connectors
+Drain the engine oil
+
+What is the proper method for cleaning electrical engine connectors?
+Use abrasive pads and water
+@@Use approved solvent and lint-free cloth
+High-pressure air and fuel
+
+What must be done when replacing engine electrical connectors in the pylon area?
+Use high-pressure air to clean them
+Replace with standard AMP connectors
+@@Match connector part number and ensure environmental seal
+
+What is the purpose of using torque seal on engine fasteners?
+Prevent vibration
+@@Visually indicate loosening
+Increase torque resistance
+
+What reference should be used for material compatibility during engine repairs?
+APU maintenance manual
+SRM only
+@@Aircraft standard practices manual and AMM
+
+What must be done before removing the fan cowl on the Trent 1000 engine?
+Disconnect IDG electrical connector
+Pull fire switch and secure the cowl doors
+@@Shut down the engine and install mechanical locks
+
+What precaution is required before removing engine mounting bolts?
+Disconnect EICAS power
+@@Support the engine with a hoist or cradle
+Deflate the nose gear strut
+
+What is a critical alignment requirement during Trent 1000 engine installation?
+Connecting oil filler line first
+Fan blade shroud contact
+@@Engine-to-pylon interface pin engagement
+
+When the thrust reverser cowl is opened, what must be verified before performing maintenance?
+That fire loop A is deactivated
+@@That T/R actuator locks are installed
+That EEC power is on
+
+What system confirms engine mounting bolt torque values after installation?
+Central Maintenance Computer (CMC)
+@@Manual verification with calibrated torque wrench
+FADEC
+
+What is the function of the Variable Stator Vane (VSV) system in the Trent 1000 engine?
+To increase oil flow to bearings
+@@To control airflow into the HP compressor
+To maintain N1 speed
+
+What drives the HP compressor in the Trent 1000 engine?
+N1 fan
+Intermediate turbine
+@@HP turbine
+
+Which part of the engine houses the combustor module?
+Fan case
+@@Core module
+Turbine rear frame
+
+What precaution must be taken before removing an engine core module?
+Drain the hydraulic reservoir
+Secure the engine mount bolts
+@@Align and lock rotors to prevent internal damage
+
+What tool is used to verify blade tip clearance in the fan module?
+Feeler gauge
+@@Laser gap tool
+Dial indicator
+
+What engine component provides mounting support for the fan case and gearbox?
+@@Fan stator frame
+Engine rear mount
+Low pressure turbine shaft
+
+How is the Low Pressure Turbine (LPT) cooled?
+By bypass air through radial slots
+With fuel/oil cooling system
+@@Through compressor bleed air
+
+What is used to prevent oil leakage along rotating engine shafts?
+Fuel seal
+@@Labyrinth seal with pressurized air
+RTV sealant
+
+What condition requires an in-depth engine vibration inspection?
+Engine stall during start
+Increase in oil pressure
+@@High N1 vibration on EICAS
+
+During fan blade replacement, what is critical for balance?
+Replace only with fan tip cap
+@@Match the blade's moment weight
+Clean the blade root thoroughly
+
+What component regulates the fuel flow to the engine?
+Fuel spar valve
+@@Fuel metering unit in the FMU
+Fuel filter bypass valve
+
+What is the purpose of the LP fuel pump?
+Send fuel to the APU
+Supply suction for hydraulic reservoir
+@@Boost pressure to HP fuel pump
+
+What happens if the HP fuel pump bypass valve opens?
+@@Fuel bypasses to the LP pump
+Fuel stops flowing
+Fuel is vented overboard
+
+How is the fuel spar valve actuated?
+@@Electrically by EEC
+Pneumatically
+Manually via override lever
+
+Where is the fuel filter located in the Trent 1000 engine?
+In the wing tank
+After the LP pump
+@@Between HP pump and FMU
+
+What EICAS message appears for a fuel filter bypass condition?
+ENG FUEL LOW
+ENG FUEL LEAK
+@@ENG FUEL FILT BYPASS
+
+What sensor monitors fuel temperature at the engine?
+EEC OAT sensor
+@@Engine fuel temp sensor in FMU
+TAT probe
+
+Why is pressurization of the fuel system important in flight?
+To reduce EGT
+@@To prevent cavitation and vapor lock
+To provide fuel to hydraulics
+
+What is the function of the FMU drain valve?
+To offload excess fuel to the APU
+To manually test for fuel presence
+@@To drain fuel during maintenance or shutdown
+
+How does the EEC control fuel flow during start-up?
+By adjusting HP pump speed
+@@By modulating FMU metering valve
+By increasing N1
+
+What controls the ignition system during engine start?
+FADEC backup
+APU controller
+@@EEC
+
+How many igniters are used in the Trent 1000 engine?
+One per combustor section
+@@Two per engine
+One shared between engines
+
+What happens if one igniter fails during engine start?
+The EEC aborts the start
+@@The remaining igniter continues operation
+APU ignition system is used
+
+Where is the ignition exciter located?
+Inside the EEC
+@@Mounted on the fan stator frame
+Integrated with the fuel metering unit
+
+What mode does the ignition system use during in-flight relight?
+@@Continuous ignition
+Ground-start mode
+Auto-spark suppression
+
+How is the igniter plug connected to the exciter?
+@@Coaxial ignition lead
+Copper tube
+Fiber-optic cable
+
+What controls the duration of ignition in automatic mode?
+Ignition switch on pedestal
+EICAS message logic
+@@EEC based on N2 and EGT
+
+When is ignition automatically turned on during flight?
+At top of descent
+When EGT drops
+@@During flameout detection or severe turbulence
+
+What maintenance action is required if both igniters are inoperative?
+Replace the EEC
+Replace the ignition relay
+@@Troubleshoot exciter and igniter plugs
+
+What precaution must be taken when handling igniter plugs?
+Immerse in oil
+@@Do not touch electrodes or insulation
+Clean with steel brush
+
+What is the function of the customer bleed valve (CBV)?
+Controls airflow to turbine
+@@Diverts bleed air to cabin systems
+Maintains fuel pressure
+
+Where is engine bleed air tapped from in the Trent 1000?
+LPC only
+@@IPC and HPC stages
+LPT exit
+
+How is the HP check valve in the bleed system controlled?
+By EICAS switches
+@@It is a passive non-return valve
+EEC sends electrical signals
+
+What condition causes the high-stage valve to open?
+High EGT
+Low air demand
+@@Low intermediate pressure
+
+What controls the operation of bleed air valves?
+EICAS logic
+The AIMS system
+@@EEC based on demand and pressure sensors
+
+What safety device protects the bleed manifold from overpressure?
+Fire loop
+Pressure regulating shutoff valve
+@@Overpressure relief valve
+
+What happens if the bleed air temperature becomes excessive?
+@@CBV closes and EICAS alerts the crew
+Fan speed increases
+Engine automatically reduces thrust
+
+What component separates customer air and turbine cooling air?
+Intercooler
+@@Pre-cooler heat exchanger
+Air separation valve
+
+What must be verified before performing maintenance on the bleed air duct?
+EEC is powered
+@@That the duct is cooled down and depressurized
+N1 is above idle
+
+What is the source of cooling air for the engine oil cooler?
+@@LP turbine bypass air
+Fuel system
+Engine bleed air
+
+What does an ENG BLEED OFF EICAS message typically indicate?
+EEC has lost thrust control
+@@CBV is closed
+TAT probe has failed
+
+What type of sensor is used to monitor bleed air temperature?
+Thermocouple
+@@RTD (Resistance Temperature Device)
+Pressure transducer
+
+What condition requires manual isolation of the bleed system?
+APU not available
+@@Engine fire or leak
+In-flight icing
+
+Where is turbine cooling air routed after use?
+@@Overboard through fan duct
+Back to bleed manifold
+Into the exhaust mixer
+
+What controls cooling air flow to turbine disks?
+Mechanical valve
+@@EEC-controlled modulating valve
+Cabin pressure system
+
+What is the primary function of the EEC in the Trent 1000?
+Display N1 speed on the flight deck
+@@Control thrust and manage engine parameters
+Provide bleed air modulation
+
+What power source normally supplies the EEC?
+Aircraft battery
+@@PMA (Permanent Magnet Alternator)
+Generator control unit
+
+Which control mode allows full EEC authority?
+Soft reversionary mode
+Hard manual mode
+@@Normal mode
+
+What happens if the EEC loses its airframe data inputs?
+It shuts down the engine
+@@Switches to alternate mode
+Maintains idle only
+
+What does the thrust lever angle (TLA) sensor provide to the EEC?
+EGT limit
+@@Thrust demand position
+N2 overspeed protection
+
+How are the engine control inputs transmitted to the EEC on B787?
+Mechanically via cables
+Through servo hydraulic links
+@@Electrically via AIMS and throttle quadrant unit
+
+What controls the VSV (Variable Stator Vanes) and VBV (Variable Bleed Valves)?
+AIMS
+@@EEC
+Hydraulic actuator
+
+What component interfaces between the flight deck and engine control system?
+@@Throttle quadrant unit (TQU)
+FADEC relay
+Generator control panel
+
+Which mode does the EEC enter if PMA power is lost?
+Alternate idle mode
+@@Aircraft power backup mode
+Limp-home mode
+
+What protects the engine against N1 overspeed?
+@@EEC software logic
+Mechanical governor
+Fuel spar valve
+
+What happens to the engine if both EECs fail?
+It reverts to manual control
+The engine flames out
+@@It maintains last commanded thrust
+
+How does the EEC prevent surge and stall during transients?
+Opens the VSVs fully
+Reduces fuel flow
+@@Coordinates VBV and VSV operation with fuel metering
+
+What type of signals are used between AIMS and EEC?
+Analog
+Mechanical feedback
+@@Digital ARINC 664 (AFDX) signals
+
+What system collects engine performance data for trending on the B787?
+ACARS
+@@AIMS with Quick Access Recorder (QAR)
+Central Maintenance Computer (CMC)
+
+Where are engine vibration readings displayed?
+Circuit breaker panel
+@@EICAS display
+Engine panel in cargo bay
+
+What sensors provide engine vibration data?
+TAT sensors
+Proximity probes on the fan case
+@@Accelerometers on the engine bearing supports
+
+What system enables post-flight engine maintenance download?
+Dataload system
+ACARS
+@@Maintenance Access Terminal (MAT)
+
+How is EGT (Exhaust Gas Temperature) measured?
+Using dual thermocouples in fan duct
+@@Multiple thermocouples in turbine exhaust
+Computed from N2 speed
+
+What indicates an EGT exceedance on EICAS?
+Amber “ENG OVHT”
+@@Red “EGT LIMIT”
+White “FUEL TEMP HIGH”
+
+How is N1 calculated in the B787 Trent 1000?
+@@Magnetic pickup on LP shaft
+Computed from fan blade angle
+Derived from fuel metering signal
+
+What condition may cause erratic engine parameter display?
+VBV failure
+@@EEC sensor fault
+Fuel filter bypass
+
+Which component stores maintenance fault messages?
+EEC
+@@AIMS Maintenance Function
+Data concentrator unit
+
+How is oil pressure displayed to the flight crew?
+On the center console gauge
+@@As digital data on the EICAS
+On the MAT screen
+
+What action is triggered if N2 overspeed is detected?
+Engine shutdown
+@@Fuel metering valve closure
+No action unless EGT is also high
+
+What is the function of the Engine Condition Monitoring System (ECMS)?
+Real-time fan blade vibration alerts
+@@Collection and transmission of engine performance data
+Displays oil temperature in degrees C
+
+What is the primary function of the exhaust nozzle in the Trent 1000?
+Reduce engine vibration
+@@Convert thermal energy into thrust
+Divert hot air to the nacelle
+
+How is the exhaust system cooled during flight?
+Fuel-cooled tubing
+Ambient air through passive airflow
+@@Fan bypass air
+
+What is the purpose of the exhaust cone?
+Reduces backpressure
+@@Directs exhaust flow smoothly
+Supports the LPT shaft
+
+What component connects the core and fan exhaust flows?
+Bypass duct
+@@Mixer unit
+HP compressor bleed port
+
+How is the exhaust nozzle attached to the engine?
+Welded directly to the fan case
+@@Bolted to the turbine rear frame
+Integrated with the turbine blades
+
+What could high EGT with normal N1/N2 indicate related to the exhaust system?
+Engine fire
+@@Blocked or damaged exhaust nozzle
+Low oil pressure
+
+What material is commonly used for the exhaust nozzle?
+Titanium alloy
+Carbon fiber
+@@Inconel or high-temperature nickel alloy
+
+What inspection method is used to check for cracks in the exhaust duct?
+Ultrasonic inspection
+@@Fluorescent penetrant inspection (FPI)
+Radiographic imaging
+
+What component helps reduce noise in the exhaust flow?
+Acoustic panel
+Bypass valve
+@@Exhaust mixer
+
+Where is exhaust system damage likely to cause abnormal vibration?
+Low pressure spool
+Turbine rear frame
+@@Exhaust cone or nozzle
+

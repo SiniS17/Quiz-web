@@ -1,0 +1,247 @@
+GEnx for 787 can maintain a high internal engine pressure ratios (9.5:1) due to: (A, B1, B2)
+The improvement of the specific fuel consumption.
+@@The fact that there is no external engine air bleeds taken for aircraft.
+Chevron shape on the exit edge of the thrust reverser translating sleeves.
+
+GEnx anti-ice system includes: (A, B1, B2)
+@@A booster intake anti-ice (BAI) system and an engine intake anti-ice (EAI) system.
+An engine intake anti-ice (EAI) system and a turbine anti-ice (TAI) system
+A booster intake anti-ice (BAI) system and a turbine anti-ice (TAI) system.
+
+The purpose of chevrons on the exit edges of the thrust reverser translating sleeves is: (A, B1, B2)
+To reduce weight.
+@@To gradually mix the bypass airflow with the atmospheric air to decrease noise levels.
+To minimize the chance of lightning strike.
+
+The fan cowls weigh 68kg each and are:(A, B1, B2)
+Interchangeable between engines.
+@@NOT interchangeable between engines.
+Interchangeable between LH and RH of the engine.
+
+The fan cowls are attached to(A, B1, B2)
+Fan Cowl Support Beam (FCSB) with 03 hinges.
+@@Fan Cowl Support Beam (FCSB) with 04 hinges.
+Fan case with 04 hinges.
+
+GEnx is equipped with The fan cowls are attached to(A, B1, B2)
+@@01 PDOS control switch for each cowl.
+02 PDOS control switch for each cowl.
+04 PDOS control switch for fan cowls.
+
+Which of the following statements is NOT true: (A, B1, B2)
+@@The HP rotates clockwise as viewed from front.
+The GEnx engine has counter rotating low pressure (LP) and high pressure (HP) rotors.
+The LP rotates clockwise as viewed from the front.
+
+Which of the following is NOT part of LP rotor: (A, B1, B2)
+Single-stage fan and 4-stage booster low pressure compressor.
+7-stage low pressure turbine.
+@@10-stage low pressure turbine.
+
+Which of the following is NOT part of HP rotor: (A, B1, B2)
+10-stage high pressure compressor.
+2-stage high pressure turbine.
+@@7-stage high pressure compressor.
+
+Exhaust Gas Temperature is measured at station: (A, B1, B2)
+@@48 - HPT exit.
+3 – HPC exit.
+5 – LPT exit.
+
+The unit that control the fuel flow is called: (A, B1, B2)
+@@FMU.
+HMU.
+HCU.
+
+Fuel is used to cool oil in: (A, B1, B2)
+Main Fuel/Oil Heat Exchanger (FOHE).
+Dual VFSG Fuel/Oil Heat Exchanger (FOHE).
+@@Dual VFSG Fuel/Oil Heat Exchanger (FOHE) and Main FOHE.
+
+After Fuel Metering Unit (FMU) fuel is divided to the manifolds by(A, B1, B2)
+Fuel Staging Valve.
+@@Fuel Split Valve (FSV).
+Fuel Flow Divider.
+
+Which of the following statement is TRUE: (A, B1, B2)
+@@At start, the Fuel Metering Valve (FMV) lets fuel go from the Bypass Valve (BPV) through the FMV to the jet pump and heat exchangers.
+As the engine increases in speed for start, the FMV increases the quantity of the fuel to the BPV
+The BPV controls the position of the FMV.
+
+Which of the following manifolds always supplies fuel to all 22 fuel nozzles: (A, B1, B2)
+Pilot primary and main un-staged (PPMU).
+Pilot primary and main staged (PPMS).
+@@Pilot secondary (PSEC).
+
+The fuel nozzles are set at equal spaces around the circumference of the combustor and numbered in a(A, B1, B2)
+@@Clockwise sequence, looking forward with number 1 is at the 12:00 position.
+Counter-clockwise sequence, looking forward with number 1 is at the 12:00 position.
+Clockwise sequence, forward looking aft with number 1 is at the 12:00 position.
+
+When does EEC get power from Permanent Magnetic Alternator (PMA) (A, B1, B2)
+N2 >= 5%.
+@@N2 >= 8%.
+N2 >= 7%.
+
+What information does engine rating plug provide to EEC? (A, B1, B2)
+Engine rating and N2 trim levels.
+Engine rating and N2 levels.
+@@Engine rating and N1 trim levels.
+
+During subsequent starts, the EEC changes between ignition systems every 2nd start attempt, that means(A, B1, B2)
+@@It will use system 1 for 2 start attempts then system 2 for 2 start attempts.
+It will use system 1 for 1 start attempt then system 2 for 1 start attempt.
+It will use system 1 for 2 start attempts then system 2 for 1 start attempt.
+
+The exciters are cooled by: (A, B1, B2)
+CCC valve cooling air.
+Under cowl compartment cooling air.
+@@Fan air.
+
+The ignition system components are on the …… side of the engine: (A, B1, B2)
+RH.
+@@LH.
+Bottom.
+
+Which of the following is NOT true: (A, B1, B2)
+The engine start system is an auto-start system.
+There is no manual start mode.
+@@The AUTO start switch is normally in the ON position.
+
+During GEnx engine start: (A, B1, B2)
+The air starter turns the engine N2 rotor through the accessory drive gearbox.
+@@The VFSG turns the engine N2 rotor through the accessory drive gearbox.
+The pneumatic starter turns the engine N2 rotor through the accessory drive gearbox.
+
+During normal engine start: (A, B1, B2)
+Only 01 VFSG is used.
+@@Both VFSG are used.
+The VFSG will take turn to start the engine.
+
+Ref: Engine - Oil, Indicating, Air, Ignition/Starting, Exhaust and Balancing - Powerplant Book 3 of 3, GEnx Engine, GE Engines – Air, page 156.
+The booster anti-icing (BAI) system uses 7th stage air from the airplane engine anti-ice (EAI) system to send heat to the booster splitter. Which of the following is TRUE: (A, B1, B2)
+BAI valve is controlled by EMU.
+@@There is no flight deck control for the system.
+EAI valve need to be closed for BAI valve operation.
+
+The core compartment cooling (CCC) valve sends cooling air from the fan/booster bypass ducts to components on the engine core case. It is(A, B1, B2)
+@@Spring loaded to OPEN position.
+Spring loaded to CLOSE position.
+Opened by the EEC using fuel through the FMU.
+
+LPTACC and HPTACC valves are located(A, B1, B2)
+On the forward RH side of the HPC case.
+On the LH side of the HPT case.
+@@On the forward LH side of the HPC case.
+
+Which valve in the engine cooling system is NOT operated by servo fuel(A, B1, B2)
+HPTACC valve.
+CCC valve.
+@@BAI valve.
+
+The purpose of the Transient Bleed Valve (TBV) is to(A, B1, B2)
+Remove the load on the high pressure compressor (HPC) when the engine accelerates to idle.
+Remove the load on the high pressure compressor (HPC) during rapid deceleration.
+@@Remove the load on the high pressure compressor (HPC) when the engine accelerates to idle and during rapid deceleration.
+
+Which of the following statements is TRUE: (A, B1, B2)
+You can move the reverse thrust levers at any position of the forward thrust lever.
+@@The reverse thrust lever is blocked when the forward thrust lever is forward of idle a minimum of 3 degrees.
+The forward thrust lever is not blocked when a reverse thrust lever is moved more than 8.5 degrees.
+
+Each thrust lever mechanically connects to 2 thrust lever angle (TLA) resolvers, which of the following statements is NOT true: (A, B1, B2)
+The thrust control system can continue normal operation with a failure of one resolver.
+If both resolvers fail electrically, the EEC holds the last valid value for the rest of the flight.
+@@If both resolvers fail electrically, the EEC holds the last valid value for 2 seconds, then sets the engine thrust to idle.
+
+P0 is used by the EEC as a backup to the airplane ambient pressure input. This pressure is taken from: (A, B1, B2)
+@@P0 sensing port in each fan cowl at the 4 o'clock or 8 o'clock position.
+P0 sensing port in each reverser cowl at the 4 o'clock or 8 o'clock position
+P0 sensing port in each fan cowl at the 2 o'clock or 10 o'clock position.
+
+What is Thrust control malfunction accommodation (TCMA)? (A, B1, B2)
+TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane in the air.
+@@TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane while on the ground.
+TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane while on the ground and in the air.
+
+N1 speed sensor is located(A, B1, B2)
+On the fan case.
+@@On the back of the fan hub frame at the 7:00 position on the engine core.
+On the gearbox.
+
+Which of the following statements is TRUE: (A, B1, B2)
+@@N2 will show on the EICAS without EEC power applied.
+N1 will show on the EICAS without EEC power applied.
+02 N1 signals go to the EEC and 01 signal goes to the EMU for engine vibration analysis and engine trend monitoring.
+
+N2 speed sensor is located(A, B1, B2)
+On the aft face of the AGB.
+@@On the forward face of the AGB.
+On the fan hub frame.
+
+08 T48 EGT probes are numbered 1 thru 8(A, B1, B2)
+@@From the top in a clockwise direction.
+From the bottom in a clockwise direction.
+From the top in a counter-clockwise direction.
+
+To open Thrust reverser cowl, which latch is to be opened first? (A, B1, B2)
+V-blade latch.
+Sleeve latches.
+@@Bifurcation latch system (BLS) handle.
+
+How many hold-open rods are there on thrust reverser cowl? (A, B1, B2)
+@@01
+02
+03
+
+
+The purpose of the chevrons on the outer panel of the translating sleeve is(A, B1, B2)
+To increase thrust.
+@@To decrease engine noise.
+To reduce weight.
+
+Which of the following is NOT true: (A, B1, B2)
+@@There 16 composite structure cascade segments for each T/R half.
+Each segment has a number to identify its correct location on the engine.
+The inboard segments have a shape that directs the reverse thrust airflow away from the fuselage.
+
+There is one track lock mechanism for each T/R assembly, it is in the: (A, B1, B2)
+LH T/R upper hinge beam area of the engine strut.
+@@RH T/R upper hinge beam area of the engine strut.
+RH T/R torque box next to the V-blade latch.
+
+The thrust reverser (T/R) T-piece: (A, B1, B2)
+@@Connects the T/R sync shafts and tubing to make sure the actuators move together.
+Is there so that if an actuator fails, the sync shafts will deploy the T/R halves.
+Let the LH and RH T/R translating sleeves move separately.
+
+The oil tank is located on the(A, B1, B2)
+@@RH side of the fan case.
+LH side of the fan case.
+LH side of the compressor stator.
+
+The pressure lubrication and scavenge pumps are gerotor type, positive displacement pumps and are(A, B1, B2)
+Located on the RH side of the engine.
+In separate oil pump packs.
+@@In the same oil pump pack.
+
+Engine oil is cooled in(A, B1, B2)
+@@Main Fuel/Oil Heat Exchanger (MFOHE) and Air Cool Oil Cooler (ACOC).
+MFOHE and Fuel Servo Heat Exchanger.
+ACOC and Fuel Servo Heat Exchanger.
+
+The Air Cool Oil Cooler (ACOC) is a finned-tube design heat exchanger that transfers heat from the oil to the bypass (fan exit) airflow. It is located: (A, B1, B2)
+On the RH side of fan case.
+@@On the inside of the fan case, aft of the outlet guide vanes (OGV) from the 12:00 to the 3:00 position.
+On the outside of the fan case, aft of the outlet guide vanes (OGV).
+
+The purpose of Oil Eductor valve is: (A, B1, B2)
+To increase the bearing chamber pressure to prevent possible oil leakage across the labyrinth seal at low engine power settings.
+To act like a venturi to decrease the bearing chamber pressure to prevent possible oil leakage across the carbon seal at low engine power settings.
+@@To act like a venturi to decrease the bearing chamber pressure to prevent possible oil leakage across the labyrinth seal at low engine power settings.
+
+The oil temperature shown on EICAS gets its temperature from(A, B1, B2)
+@@Oil Level/Temperature Sensor in the top of the oil tank
+Oil Supply Temperature Sensor on the outside of the fan case.
+Oil Temperature Sensor in the oil pressure oil feed pipe after the coolers.
+

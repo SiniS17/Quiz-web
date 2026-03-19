@@ -1933,3 +1933,174 @@ input:focus,
   color: white;
   cursor: not-allowed;
 }
+
+/* ===========================================
+   19. VIOLET VALIDATION STYLES
+   Answer-count errors (wrong number of @@ lines).
+   Mirrors the red .quiz-flagged / .question-invalid
+   system but uses violet throughout.
+   =========================================== */
+
+/* ── Grid card: violet flag ── */
+.quiz-box.quiz-flagged-violet,
+.folder-select.quiz-flagged-violet {
+  background: rgba(139, 92, 246, 0.92);
+  border-color: #7c3aed;
+  color: white;
+  position: relative;
+}
+
+.quiz-box.quiz-flagged-violet::before,
+.folder-select.quiz-flagged-violet::before {
+  background: linear-gradient(135deg, #7c3aed, #6d28d9);
+  transform: scaleX(1);
+}
+
+.quiz-box.quiz-flagged-violet:hover,
+.folder-select.quiz-flagged-violet:hover {
+  background: rgba(124, 58, 237, 0.95);
+  border-color: #6d28d9;
+  box-shadow: 0 10px 20px rgba(139, 92, 246, 0.4);
+}
+
+.quiz-box.quiz-flagged-violet i.fa-file-text,
+.quiz-box.quiz-flagged-violet i.fa-folder,
+.folder-select.quiz-flagged-violet i.fa-folder {
+  color: white;
+}
+
+.quiz-box.quiz-flagged-violet h3,
+.folder-select.quiz-flagged-violet h3 {
+  color: white;
+}
+
+.quiz-box.quiz-flagged-violet p,
+.folder-select.quiz-flagged-violet p {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.quiz-box.quiz-flagged-violet .excess-warning,
+.folder-select.quiz-flagged-violet .excess-warning {
+  color: white;
+}
+
+/* ── In-quiz: violet invalid question ── */
+.question-invalid-violet {
+  position: relative;
+  background: rgba(139, 92, 246, 0.06) !important;
+  border-left-color: #7c3aed !important;
+  border: 2px solid #7c3aed !important;
+  pointer-events: none;
+  user-select: text;
+}
+
+/* Violet diagonal stripes */
+.question-invalid-violet::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  pointer-events: none;
+  z-index: 10;
+  background: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    rgba(139, 92, 246, 0.25) 10px,
+    rgba(139, 92, 246, 0.25) 12px
+  );
+}
+
+.question-invalid-violet::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  pointer-events: none;
+  z-index: 10;
+  background: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 10px,
+    rgba(139, 92, 246, 0.25) 10px,
+    rgba(139, 92, 246, 0.25) 12px
+  );
+}
+
+/* Violet question number badge */
+.question-invalid-violet .question-number {
+  background: linear-gradient(135deg, #7c3aed, #6d28d9) !important;
+  animation: pulseViolet 2s ease-in-out infinite;
+}
+
+/* Violet validation error banner */
+.validation-error-violet {
+  background: linear-gradient(135deg, #7c3aed, #6d28d9);
+  color: white;
+  padding: 0.75rem 1rem;
+  border-radius: var(--border-radius);
+  margin-top: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  box-shadow: 0 4px 8px rgba(139, 92, 246, 0.3);
+  z-index: 20;
+  position: relative;
+}
+
+.validation-error-violet i {
+  font-size: 1.2rem;
+  animation: flash 1.5s ease-in-out infinite;
+}
+
+/* Violet overlay badge */
+.invalid-message-violet {
+  background: rgba(124, 58, 237, 0.95);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius);
+  font-weight: 600;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4);
+  animation: pulseViolet 2s ease-in-out infinite;
+}
+
+.invalid-message-violet i {
+  font-size: 1.2rem;
+  animation: shake 0.5s ease-in-out infinite;
+}
+
+/* Allow text selection inside violet invalid questions */
+.question-invalid-violet .question-header,
+.question-invalid-violet .answers-container {
+  position: relative;
+  z-index: 5;
+  user-select: text;
+  pointer-events: auto;
+}
+
+.question-invalid-violet input[type="radio"],
+.question-invalid-violet label {
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+/* ── Progress sidebar: violet invalid box ── */
+.round-box.invalid-violet {
+  background: #7c3aed;
+  border-color: #6d28d9;
+  color: white;
+  cursor: not-allowed;
+}
+
+.round-box.invalid-violet:hover {
+  transform: scale(1);
+}
+
+/* ── Animations ── */
+@keyframes pulseViolet {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(139, 92, 246, 0.7); }
+  50%       { box-shadow: 0 0 0 10px rgba(139, 92, 246, 0); }
+}

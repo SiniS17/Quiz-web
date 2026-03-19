@@ -8,9 +8,13 @@ import { getLiveTestCheckbox, updateLiveScore, highlightLiveAnswers } from '../l
 import { getQuizState } from '../state.js';
 
 /**
- * Validate if a question block has correct line count
- * @param {string} questionText - Full question text
- * @returns {Object} Validation result with valid flag and reason
+ * Validate if a question block has correct line count.
+ * Returns { valid, violationType, reason, lineCount }
+ *
+ * violationType:
+ *   'line_count'   → wrong number of lines          (red)
+ *   'answer_count' → wrong number of @@ answers     (violet)
+ *   null           → valid
  */
 function validateQuestionBlock(questionText) {
   const lines = questionText.split('\n').filter(line => line.trim() !== '');
@@ -18,30 +22,47 @@ function validateQuestionBlock(questionText) {
 
   const { MIN_CONSECUTIVE_LINES, MAX_CONSECUTIVE_LINES } = CONFIG;
 
+  // ── STEP 1: line count (red) ─────────────────────────────────────────────
   if (lineCount < MIN_CONSECUTIVE_LINES) {
     return {
       valid: false,
+      violationType: 'line_count',
       reason: `Too few lines (${lineCount} < ${MIN_CONSECUTIVE_LINES})`,
       lineCount
     };
   }
-
   if (lineCount > MAX_CONSECUTIVE_LINES) {
     return {
       valid: false,
+      violationType: 'line_count',
       reason: `Too many lines (${lineCount} > ${MAX_CONSECUTIVE_LINES})`,
       lineCount
     };
   }
 
-  return { valid: true, lineCount };
+  // ── STEP 2: correct-answer count (violet) ────────────────────────────────
+  // Answer lines are everything after the first line (the question title)
+  const answerLines = lines.slice(1);
+  const correctCount = answerLines.filter(l => l.trimStart().startsWith('@@')).length;
+
+  if (correctCount !== 1) {
+    return {
+      valid: false,
+      violationType: 'answer_count',
+      reason: correctCount === 0
+        ? 'No correct answer marked (@@)'
+        : `${correctCount} correct answers marked (@@) — must be exactly 1`,
+      lineCount
+    };
+  }
+
+  return { valid: true, violationType: null, lineCount };
 }
 
 /**
- * Create question element with answers
- * @param {string} questionText - Full question text
- * @param {number} index - Question index
- * @returns {HTMLElement} Question element
+ * Create question element with answers.
+ * Line-count errors  → .question-invalid        (red stripes, blocked)
+ * Answer-count errors → .question-invalid-violet (violet stripes, blocked)
  */
 export function createQuestionElement(questionText, index) {
   const validation = validateQuestionBlock(questionText);
@@ -62,10 +83,15 @@ export function createQuestionElement(questionText, index) {
   questionDiv.className = 'question';
   questionDiv.id = `question-${index}`;
 
-  // Add invalid class if validation fails
+  // Apply invalid class based on violation type
   if (!validation.valid) {
-    questionDiv.classList.add('question-invalid');
+    if (validation.violationType === 'answer_count') {
+      questionDiv.classList.add('question-invalid-violet');
+    } else {
+      questionDiv.classList.add('question-invalid');
+    }
     questionDiv.setAttribute('data-invalid-reason', validation.reason);
+    questionDiv.setAttribute('data-violation-type', validation.violationType);
   }
 
   const questionHeader = document.createElement('div');
@@ -75,26 +101,39 @@ export function createQuestionElement(questionText, index) {
   const quizState = getQuizState();
   const bankName = (quizState.bankInfo && quizState.bankInfo[index]) ? quizState.bankInfo[index] : null;
 
-  // Build question HTML with cleaned title
+  // Determine badge label
+  let badgeLabel;
+  if (!validation.valid) {
+    badgeLabel = validation.violationType === 'answer_count'
+      ? `⚠️ Answer Error — Question ${index + 1}`
+      : `⚠️ Invalid Question ${index + 1}`;
+  } else {
+    badgeLabel = `Question ${index + 1}`;
+  }
+
   let headerHTML = `
     <span class="question-number">
-      ${validation.valid ? `Question ${index + 1}` : `⚠️ Invalid Question ${index + 1}`}
+      ${badgeLabel}
       ${bankName ? `<span class="bank-label">${bankName}</span>` : ''}
     </span>
     <h3>${cleanTitle.replace(/\\n/g, '<br>')}</h3>
   `;
 
-  // Add validation error message if invalid
+  // Validation error banner
   if (!validation.valid) {
+    const bannerClass = validation.violationType === 'answer_count'
+      ? 'validation-error validation-error-violet'
+      : 'validation-error';
+
     headerHTML += `
-      <div class="validation-error">
+      <div class="${bannerClass}">
         <i class="fas fa-exclamation-triangle"></i>
         <strong>Validation Error:</strong> ${validation.reason}
       </div>
     `;
   }
 
-  // Add images if they exist
+  // Images
   if (imageInfo.hasImages) {
     headerHTML += '<div class="question-images">';
     imageInfo.images.forEach(imgFilename => {
@@ -123,14 +162,24 @@ export function createQuestionElement(questionText, index) {
 
   questionDiv.appendChild(answersContainer);
 
-  // Add overlay badge for invalid questions
+  // Overlay badge — colour matches violation type
   if (!validation.valid) {
     const overlay = document.createElement('div');
     overlay.className = 'question-invalid-overlay';
+
+    const overlayClass = validation.violationType === 'answer_count'
+      ? 'invalid-message invalid-message-violet'
+      : 'invalid-message';
+
+    const overlayIcon  = validation.violationType === 'answer_count' ? 'fa-ban' : 'fa-ban';
+    const overlayText  = validation.violationType === 'answer_count'
+      ? 'Answer Error — Cannot Submit'
+      : 'Invalid Format — Cannot Answer';
+
     overlay.innerHTML = `
-      <div class="invalid-message">
-        <i class="fas fa-ban"></i>
-        <span>Invalid Format - Cannot Answer</span>
+      <div class="${overlayClass}">
+        <i class="fas ${overlayIcon}"></i>
+        <span>${overlayText}</span>
       </div>
     `;
     questionDiv.appendChild(overlay);
@@ -141,11 +190,6 @@ export function createQuestionElement(questionText, index) {
 
 /**
  * Create answer element
- * @param {string} answerText - Answer text
- * @param {number} answerIndex - Answer index
- * @param {number} questionIndex - Question index
- * @param {boolean} isDisabled - Whether answer should be disabled
- * @returns {HTMLElement} Answer element
  */
 function createAnswerElement(answerText, answerIndex, questionIndex, isDisabled = false) {
   const isCorrect = answerText.startsWith('@@');
@@ -215,13 +259,8 @@ function handleAnswerChange(input, answerDiv, questionIndex) {
  * Handle answer div click event
  */
 function handleAnswerClick(e, input, label, answerDiv, questionIndex) {
-  if (e.target === input) {
-    return;
-  }
-
-  if (e.target === label || e.target.closest('label') === label) {
-    return;
-  }
+  if (e.target === input) return;
+  if (e.target === label || e.target.closest('label') === label) return;
 
   if (input.checked) {
     input.checked = false;
@@ -266,15 +305,12 @@ function updateAnswerStatus(questionIndex) {
  */
 export function disableAllAnswers() {
   const allAnswers = document.querySelectorAll('.answer');
-  const allRadios = document.querySelectorAll('.answer input[type="radio"]');
+  const allRadios  = document.querySelectorAll('.answer input[type="radio"]');
 
-  allRadios.forEach(radio => {
-    radio.disabled = true;
-  });
-
+  allRadios.forEach(radio => { radio.disabled = true; });
   allAnswers.forEach(answer => {
-    answer.style.cursor = 'not-allowed';
-    answer.style.opacity = '0.7';
+    answer.style.cursor        = 'not-allowed';
+    answer.style.opacity       = '0.7';
     answer.style.pointerEvents = 'none';
   });
 }
@@ -285,8 +321,8 @@ export function disableAllAnswers() {
 export function enableAllAnswers() {
   const allAnswers = document.querySelectorAll('.answer:not(.answer-disabled)');
   allAnswers.forEach(answer => {
-    answer.style.cursor = 'pointer';
-    answer.style.opacity = '1';
+    answer.style.cursor        = 'pointer';
+    answer.style.opacity       = '1';
     answer.style.pointerEvents = 'auto';
   });
 }

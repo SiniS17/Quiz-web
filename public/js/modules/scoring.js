@@ -7,6 +7,16 @@ import { disableAllAnswers } from './ui/quiz-display.js';
 import { disableQuizControls } from './quiz-controls.js';
 
 /**
+ * Returns true if this question div is invalid (either red or violet).
+ */
+function isInvalidQuestion(questionDiv) {
+  return (
+    questionDiv.classList.contains('question-invalid') ||
+    questionDiv.classList.contains('question-invalid-violet')
+  );
+}
+
+/**
  * Calculate and display quiz score
  */
 export function calculateScore() {
@@ -17,8 +27,8 @@ export function calculateScore() {
   let invalidCount = 0;
 
   questions.forEach((questionDiv, index) => {
-    // Skip invalid questions
-    if (questionDiv.classList.contains('question-invalid')) {
+    // Skip both red and violet invalid questions
+    if (isInvalidQuestion(questionDiv)) {
       invalidCount++;
       const roundBox = document.querySelector(`#results-container .round-box[data-question-index="${index}"]`);
       if (roundBox) {
@@ -32,9 +42,7 @@ export function calculateScore() {
     const result = processQuestionForScoring(questionDiv, index);
     if (result.answered) {
       totalAnswered++;
-      if (result.correct) {
-        score++;
-      }
+      if (result.correct) score++;
     }
   });
 
@@ -53,32 +61,26 @@ export function calculateScore() {
 
 /**
  * Process a single question for scoring
- * @returns {Object} Result with answered and correct flags
  */
 function processQuestionForScoring(questionDiv, index) {
   const radios = questionDiv.querySelectorAll('input[type="radio"]');
   const correctAnswer = Array.from(radios).find(radio => radio.dataset.correct === "true");
-  const userAnswer = Array.from(radios).find(radio => radio.checked);
-  const roundBox = document.querySelector(`#results-container .round-box[data-question-index="${index}"]`);
+  const userAnswer    = Array.from(radios).find(radio => radio.checked);
+  const roundBox      = document.querySelector(`#results-container .round-box[data-question-index="${index}"]`);
   const questionHeader = questionDiv.querySelector('h3');
 
-  // Clear previous styling
   radios.forEach(radio => {
-    const answerDiv = radio.closest('.answer');
-    answerDiv.classList.remove('correct', 'incorrect');
+    radio.closest('.answer').classList.remove('correct', 'incorrect');
   });
 
   const existingIndicator = questionHeader.querySelector('.result-indicator');
-  if (existingIndicator) {
-    existingIndicator.remove();
-  }
+  if (existingIndicator) existingIndicator.remove();
 
   let result = { answered: false, correct: false };
 
   if (userAnswer) {
     result.answered = true;
-    result.correct = (userAnswer === correctAnswer);
-
+    result.correct  = (userAnswer === correctAnswer);
     if (result.correct) {
       markQuestionCorrect(userAnswer, roundBox, questionHeader);
     } else {
@@ -91,9 +93,6 @@ function processQuestionForScoring(questionDiv, index) {
   return result;
 }
 
-/**
- * Mark question as correct
- */
 function markQuestionCorrect(userAnswer, roundBox, questionHeader) {
   roundBox.classList.remove('unanswered', 'answered', 'incorrect');
   roundBox.classList.add('correct');
@@ -105,9 +104,6 @@ function markQuestionCorrect(userAnswer, roundBox, questionHeader) {
   questionHeader.appendChild(checkmark);
 }
 
-/**
- * Mark question as incorrect
- */
 function markQuestionIncorrect(userAnswer, correctAnswer, roundBox, questionHeader) {
   roundBox.classList.remove('unanswered', 'answered', 'correct');
   roundBox.classList.add('incorrect');
@@ -118,14 +114,9 @@ function markQuestionIncorrect(userAnswer, correctAnswer, roundBox, questionHead
   cross.style.cssText = 'color: var(--error-color); margin-left: 10px; font-size: 1.1em;';
   questionHeader.appendChild(cross);
 
-  if (correctAnswer) {
-    correctAnswer.closest('.answer').classList.add('correct');
-  }
+  if (correctAnswer) correctAnswer.closest('.answer').classList.add('correct');
 }
 
-/**
- * Mark question as unanswered
- */
 function markQuestionUnanswered(correctAnswer, roundBox, questionHeader) {
   roundBox.classList.remove('answered', 'correct', 'incorrect');
   roundBox.classList.add('unanswered');
@@ -135,9 +126,7 @@ function markQuestionUnanswered(correctAnswer, roundBox, questionHeader) {
   cross.style.cssText = 'color: var(--text-muted); margin-left: 10px; font-size: 1.1em;';
   questionHeader.appendChild(cross);
 
-  if (correctAnswer) {
-    correctAnswer.closest('.answer').classList.add('correct');
-  }
+  if (correctAnswer) correctAnswer.closest('.answer').classList.add('correct');
 }
 
 /**
@@ -145,9 +134,7 @@ function markQuestionUnanswered(correctAnswer, roundBox, questionHeader) {
  */
 function displayFinalScore(score, total, answered, invalidCount = 0) {
   const existingScore = document.getElementById('floating-score-display');
-  if (existingScore) {
-    existingScore.remove();
-  }
+  if (existingScore) existingScore.remove();
 
   const scoreDisplay = document.createElement('div');
   scoreDisplay.id = 'floating-score-display';
@@ -200,24 +187,15 @@ function displayFinalScore(score, total, answered, invalidCount = 0) {
   `;
 
   document.body.appendChild(scoreDisplay);
-
-  setTimeout(() => {
-    scoreDisplay.classList.add('show');
-  }, 100);
+  setTimeout(() => { scoreDisplay.classList.add('show'); }, 100);
 }
 
-/**
- * Close score display
- */
 export function closeScoreDisplay() {
   const scoreDisplay = document.getElementById('floating-score-display');
   if (scoreDisplay) {
     scoreDisplay.classList.remove('show');
-    setTimeout(() => {
-      scoreDisplay.remove();
-    }, 300);
+    setTimeout(() => { scoreDisplay.remove(); }, 300);
   }
 }
 
-// Make closeScoreDisplay available globally for inline onclick
 window.closeScoreDisplay = closeScoreDisplay;

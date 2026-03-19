@@ -4,8 +4,17 @@ import { getLiveTestCheckbox } from '../live-test.js';
 import { setAnsweredQuestions, getQuizState } from '../state.js';
 
 /**
+ * Returns true if the question div is invalid (either red or violet).
+ */
+function isInvalidQuestion(questionDiv) {
+  return (
+    questionDiv.classList.contains('question-invalid') ||
+    questionDiv.classList.contains('question-invalid-violet')
+  );
+}
+
+/**
  * Setup results container with progress boxes
- * @param {number} questionCount - Number of questions
  */
 export function setupResultsContainer(questionCount) {
   const resultsContainer = document.getElementById('results-container');
@@ -25,7 +34,6 @@ export function setupResultsContainer(questionCount) {
     roundBox.textContent = i + 1;
     roundBox.setAttribute('data-question-index', i);
 
-    // Add bank name if available (for multi-quiz mode)
     const quizState = getQuizState();
     if (quizState.bankInfo && quizState.bankInfo[i]) {
       roundBox.setAttribute('data-bank-name', quizState.bankInfo[i]);
@@ -34,12 +42,17 @@ export function setupResultsContainer(questionCount) {
     roundBox.onclick = () => scrollToQuestion(i);
     resultsContainer.appendChild(roundBox);
 
-    // Mark as invalid if question is invalid (check after render)
+    // Mark as invalid if question is invalid after render
     setTimeout(() => {
       const questionDiv = document.querySelector(`#question-${i}`);
-      if (questionDiv && questionDiv.classList.contains('question-invalid')) {
+      if (questionDiv && isInvalidQuestion(questionDiv)) {
         roundBox.classList.remove('unanswered');
-        roundBox.classList.add('invalid');
+        // Violet invalid gets a different progress box colour
+        if (questionDiv.classList.contains('question-invalid-violet')) {
+          roundBox.classList.add('invalid-violet');
+        } else {
+          roundBox.classList.add('invalid');
+        }
         roundBox.title = 'Invalid question - cannot be answered';
       }
     }, 100);
@@ -49,7 +62,7 @@ export function setupResultsContainer(questionCount) {
 }
 
 /**
- * Create results action buttons with confirmation
+ * Create results action buttons
  */
 function createResultsButtons(container) {
   const buttonsContainer = document.createElement('div');
@@ -65,7 +78,6 @@ function createResultsButtons(container) {
   submitBtn.className = 'primary-btn';
   submitBtn.innerHTML = '<i class="fas fa-check"></i> Submit';
   submitBtn.onclick = () => {
-    // Import dynamically to avoid circular dependency
     import('../scoring.js').then(module => module.calculateScore());
   };
 
@@ -84,11 +96,9 @@ function createResultsButtons(container) {
   homeBtn.className = 'secondary-btn';
   homeBtn.innerHTML = '<i class="fas fa-home"></i> Home';
   homeBtn.onclick = () => {
-    // Use the new confirmation function
     if (window.goHomeWithConfirmation) {
       window.goHomeWithConfirmation();
     } else {
-      // Fallback
       import('./navigation.js').then(module => module.listQuizzes());
     }
   };
@@ -101,26 +111,24 @@ function createResultsButtons(container) {
 
 /**
  * Update progress indicator for a question
- * @param {number} questionIndex - Question index
  */
 export function updateProgressIndicator(questionIndex) {
   const roundBox = document.querySelector(`#results-container .round-box[data-question-index="${questionIndex}"]`);
+  if (!roundBox) return;
 
-  if (!roundBox) {
-    console.log('❌ Progress box not found for question:', questionIndex);
-    return;
-  }
-
-  // Check if question is invalid
   const questionDiv = document.querySelector(`#question-${questionIndex}`);
-  if (questionDiv && questionDiv.classList.contains('question-invalid')) {
-    roundBox.classList.remove('unanswered', 'answered', 'correct', 'incorrect');
-    roundBox.classList.add('invalid');
+  if (questionDiv && isInvalidQuestion(questionDiv)) {
+    roundBox.classList.remove('unanswered', 'answered', 'correct', 'incorrect', 'invalid', 'invalid-violet');
+    if (questionDiv.classList.contains('question-invalid-violet')) {
+      roundBox.classList.add('invalid-violet');
+    } else {
+      roundBox.classList.add('invalid');
+    }
     roundBox.title = 'Invalid question - cannot be answered';
     return;
   }
 
-  roundBox.classList.remove('unanswered', 'answered', 'correct', 'incorrect', 'invalid');
+  roundBox.classList.remove('unanswered', 'answered', 'correct', 'incorrect', 'invalid', 'invalid-violet');
 
   const liveTestCheckbox = getLiveTestCheckbox();
   if (liveTestCheckbox && liveTestCheckbox.checked) {
@@ -135,18 +143,13 @@ export function updateProgressIndicator(questionIndex) {
  */
 function updateProgressForLiveTest(questionIndex, roundBox) {
   const questionDiv = document.querySelector(`#question-${questionIndex}`);
-
   if (questionDiv) {
-    const radios = questionDiv.querySelectorAll('input[type="radio"]');
+    const radios        = questionDiv.querySelectorAll('input[type="radio"]');
     const correctAnswer = Array.from(radios).find(radio => radio.dataset.correct === "true");
-    const userAnswer = Array.from(radios).find(radio => radio.checked);
+    const userAnswer    = Array.from(radios).find(radio => radio.checked);
 
     if (userAnswer) {
-      if (userAnswer === correctAnswer) {
-        roundBox.classList.add('correct');
-      } else {
-        roundBox.classList.add('incorrect');
-      }
+      roundBox.classList.add(userAnswer === correctAnswer ? 'correct' : 'incorrect');
     } else {
       roundBox.classList.add('unanswered');
     }
@@ -159,10 +162,11 @@ function updateProgressForLiveTest(questionIndex, roundBox) {
 export function resetProgressBoxes() {
   const roundBoxes = document.querySelectorAll('#results-container .round-box');
   roundBoxes.forEach((box, index) => {
-    // Check if question is invalid
     const questionDiv = document.querySelector(`#question-${index}`);
-    if (questionDiv && questionDiv.classList.contains('question-invalid')) {
-      box.className = 'round-box invalid';
+    if (questionDiv && isInvalidQuestion(questionDiv)) {
+      box.className = questionDiv.classList.contains('question-invalid-violet')
+        ? 'round-box invalid-violet'
+        : 'round-box invalid';
       box.title = 'Invalid question - cannot be answered';
     } else {
       box.className = 'round-box unanswered';

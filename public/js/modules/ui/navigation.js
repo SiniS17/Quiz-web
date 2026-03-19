@@ -20,11 +20,11 @@ let currentRequestId = 0;
 // VALIDATION CACHE (persists until page refresh)
 // ===================================
 const validationCache = {
-  files:   {},  // filePath  → { valid, reason }
-  folders: {},  // folderPath → { hasInvalid }
+  files:   {},  // filePath  → { valid, reason, violationType: 'line_count' | 'answer_count' | null }
+  folders: {},  // folderPath → { hasInvalid, violationType: 'line_count' | 'answer_count' | 'mixed' | null }
 };
-function cacheFileResult(filePath, result)      { validationCache.files[filePath]     = result; }
-function cacheFolderResult(folderPath, hasInvalid) { validationCache.folders[folderPath] = { hasInvalid }; }
+function cacheFileResult(filePath, result)           { validationCache.files[filePath]     = result; }
+function cacheFolderResult(folderPath, result)       { validationCache.folders[folderPath] = result; }
 function getCachedFile(filePath)    { return validationCache.files[filePath]     || null; }
 function getCachedFolder(folderPath){ return validationCache.folders[folderPath] || null; }
 
@@ -33,119 +33,166 @@ function getCachedFolder(folderPath){ return validationCache.folders[folderPath]
 // ===================================
 
 /**
- * Check if a quiz file has valid consecutive line count
+ * Validate a quiz file for:
+ *   1. Line count per block  → violationType: 'line_count'   (red)
+ *   2. Correct answer count  → violationType: 'answer_count' (violet)
+ *
+ * Line-count errors take priority; a file is only checked for answer count
+ * if it passes the line-count check.
  */
-async function validateConsecutiveLines(filePath) {
+async function validateQuizFile(filePath) {
   const cached = getCachedFile(filePath);
   if (cached) return cached;
 
   try {
     const response = await fetch(getQuizFilePath(filePath));
     if (!response.ok) {
-      return { valid: true, min: 0, max: 0, reason: 'Could not read file' };
+      const result = { valid: true, violationType: null, min: 0, max: 0, reason: 'Could not read file' };
+      cacheFileResult(filePath, result);
+      return result;
     }
 
     const text = await response.text();
     const lines = text.split('\n');
 
-    let consecutiveCount = 0;
-    let maxConsecutive = 0;
-    let minConsecutive = Infinity;
-    let groupCount = 0;
-
+    // ── Build question blocks ────────────────────────────────────────────────
+    const blocks = [];
+    let current = [];
     for (const line of lines) {
       if (line.trim() !== '') {
-        consecutiveCount++;
-        maxConsecutive = Math.max(maxConsecutive, consecutiveCount);
+        current.push(line);
       } else {
-        if (consecutiveCount > 0) {
-          minConsecutive = Math.min(minConsecutive, consecutiveCount);
-          groupCount++;
-        }
-        consecutiveCount = 0;
+        if (current.length > 0) { blocks.push(current); current = []; }
       }
     }
-
-    if (consecutiveCount > 0) {
-      minConsecutive = Math.min(minConsecutive, consecutiveCount);
-      groupCount++;
-    }
-
-    if (groupCount === 0 || minConsecutive === Infinity) {
-      minConsecutive = 0;
-    }
+    if (current.length > 0) blocks.push(current);
 
     const { MAX_CONSECUTIVE_LINES, MIN_CONSECUTIVE_LINES } = CONFIG;
 
-    let valid = true;
-    let reason = '';
+    let maxConsecutive = 0;
+    let minConsecutive = Infinity;
+    for (const block of blocks) {
+      maxConsecutive = Math.max(maxConsecutive, block.length);
+      minConsecutive = Math.min(minConsecutive, block.length);
+    }
+    if (blocks.length === 0) minConsecutive = 0;
 
+    // ── STEP 1: line-count check (RED) ──────────────────────────────────────
     if (maxConsecutive > MAX_CONSECUTIVE_LINES) {
-      valid = false;
-      reason = `Too many consecutive lines (${maxConsecutive} > ${MAX_CONSECUTIVE_LINES})`;
-    } else if (minConsecutive < MIN_CONSECUTIVE_LINES && minConsecutive > 0) {
-      valid = false;
-      reason = `Too few consecutive lines (${minConsecutive} < ${MIN_CONSECUTIVE_LINES})`;
+      const result = {
+        valid: false, violationType: 'line_count',
+        min: minConsecutive === Infinity ? 0 : minConsecutive, max: maxConsecutive,
+        reason: `Too many consecutive lines (${maxConsecutive} > ${MAX_CONSECUTIVE_LINES})`
+      };
+      cacheFileResult(filePath, result);
+      return result;
+    }
+    if (minConsecutive < MIN_CONSECUTIVE_LINES && minConsecutive > 0) {
+      const result = {
+        valid: false, violationType: 'line_count',
+        min: minConsecutive, max: maxConsecutive,
+        reason: `Too few consecutive lines (${minConsecutive} < ${MIN_CONSECUTIVE_LINES})`
+      };
+      cacheFileResult(filePath, result);
+      return result;
     }
 
-    const result = { valid, min: minConsecutive, max: maxConsecutive, reason };
+    // ── STEP 2: correct-answer count check (VIOLET) ──────────────────────────
+    // Each block must have exactly 1 answer line starting with @@
+    for (let i = 0; i < blocks.length; i++) {
+      const answerLines = blocks[i].slice(1); // skip question title line
+      const correctCount = answerLines.filter(l => l.trimStart().startsWith('@@')).length;
+      if (correctCount !== 1) {
+        const result = {
+          valid: false, violationType: 'answer_count',
+          min: minConsecutive === Infinity ? 0 : minConsecutive, max: maxConsecutive,
+          reason: correctCount === 0
+            ? `Question ${i + 1}: no correct answer marked (@@)`
+            : `Question ${i + 1}: ${correctCount} correct answers marked (@@) — must be exactly 1`
+        };
+        cacheFileResult(filePath, result);
+        return result;
+      }
+    }
+
+    // ── All checks passed ────────────────────────────────────────────────────
+    const result = {
+      valid: true, violationType: null,
+      min: minConsecutive === Infinity ? 0 : minConsecutive, max: maxConsecutive,
+      reason: ''
+    };
     cacheFileResult(filePath, result);
     return result;
+
   } catch (error) {
-    console.error('Error validating line count:', error);
-    return { valid: true, min: 0, max: 0, reason: 'Validation error' };
+    console.error('Error validating file:', error);
+    const result = { valid: true, violationType: null, min: 0, max: 0, reason: 'Validation error' };
+    cacheFileResult(filePath, result);
+    return result;
   }
 }
 
 /**
  * Recursively check ALL files in a folder and its subfolders.
- * Caches every result so re-renders are instant.
+ * Folder violationType reflects the worst violation found inside:
+ *   'line_count'  → at least one red file (line count beats answer count)
+ *   'answer_count'→ only violet files
+ *   null          → all valid
  */
 async function folderHasInvalidQuizzes(folderPath) {
   const cached = getCachedFolder(folderPath);
-  if (cached) return cached.hasInvalid;
+  if (cached) return cached;
 
   try {
     const data = await fetchQuizList(folderPath);
 
     // Check direct files
-    const fileChecks = await Promise.all(
+    const fileResults = await Promise.all(
       data.files.map(async file => {
         const filePath = folderPath ? `${folderPath}/${file}` : file;
-        return validateConsecutiveLines(filePath);
+        const result = await validateQuizFile(filePath);
+        console.log(`✔ Validated: ${filePath} — valid: ${result.valid}${result.violationType ? ` (${result.violationType})` : ''}`);
+        return result;
       })
     );
 
-    // Cache each file result
-    data.files.forEach((file, i) => {
-      const filePath = folderPath ? `${folderPath}/${file}` : file;
-      cacheFileResult(filePath, fileChecks[i]);
-      console.log(`✔ Validated: ${filePath} — valid: ${fileChecks[i].valid}`);
-    });
-
-    // Recurse into subfolders (don't early-exit — we want to cache everything)
-    const folderChecks = await Promise.all(
+    // Recurse into subfolders
+    const subFolderResults = await Promise.all(
       data.folders.map(sub => {
         const fullPath = folderPath ? `${folderPath}/${sub}` : sub;
         return folderHasInvalidQuizzes(fullPath);
       })
     );
 
-    const hasInvalidFiles   = fileChecks.some(r => !r.valid);
-    const hasInvalidFolders = folderChecks.some(Boolean);
-    const result = hasInvalidFiles || hasInvalidFolders;
-    cacheFolderResult(folderPath, result);
-    return result;
+    // Determine folder violation type
+    const allResults = [
+      ...fileResults.filter(r => !r.valid).map(r => r.violationType),
+      ...subFolderResults.filter(r => r.hasInvalid).map(r => r.violationType)
+    ];
+
+    let folderViolationType = null;
+    let hasInvalid = false;
+    if (allResults.length > 0) {
+      hasInvalid = true;
+      // line_count (red) takes priority over answer_count (violet)
+      folderViolationType = allResults.includes('line_count') ? 'line_count' : 'answer_count';
+      // If both types exist → 'line_count' wins (red shown on folder)
+    }
+
+    const folderResult = { hasInvalid, violationType: folderViolationType };
+    cacheFolderResult(folderPath, folderResult);
+    return folderResult;
+
   } catch (error) {
     console.error('Error checking folder:', error);
-    return false;
+    const folderResult = { hasInvalid: false, violationType: null };
+    cacheFolderResult(folderPath, folderResult);
+    return folderResult;
   }
 }
 
 /**
- * Run validation on the ENTIRE quiz tree from root, regardless of current folder.
- * Caches all results — re-renders will show icons instantly.
- * Then reapplies icons to whatever is currently visible on screen.
+ * Run validation on the ENTIRE quiz tree from root.
  */
 async function runValidation(quizGrid, data, folder) {
   const validateBtn = document.getElementById('validate-btn');
@@ -156,31 +203,24 @@ async function runValidation(quizGrid, data, folder) {
 
   showNotification('Validating all quiz files...', 'info');
 
-  // Always crawl from root — this populates the full cache
+  // Always crawl from root — populates full cache
   await folderHasInvalidQuizzes('');
 
-  // Count total invalids found across the whole tree
-  const invalidFiles   = Object.values(validationCache.files).filter(r => !r.valid).length;
-  const invalidFolders = Object.values(validationCache.folders).filter(r => r.hasInvalid).length;
-  const invalidCount   = invalidFiles;  // folders are derived, only count files
+  const allFileResults    = Object.values(validationCache.files);
+  const lineCountInvalid  = allFileResults.filter(r => !r.valid && r.violationType === 'line_count').length;
+  const answerInvalid     = allFileResults.filter(r => !r.valid && r.violationType === 'answer_count').length;
+  const invalidCount      = lineCountInvalid + answerInvalid;
 
   // Reapply icons to currently visible file boxes
   data.files.forEach(file => {
-    const filePath   = folder ? `${folder}/${file}` : file;
-    const cached     = getCachedFile(filePath);
+    const filePath = folder ? `${folder}/${file}` : file;
+    const cached   = getCachedFile(filePath);
     if (cached && !cached.valid) {
       const boxes = quizGrid.querySelectorAll('.quiz-box:not(.folder-select)');
       boxes.forEach(box => {
         const h3 = box.querySelector('h3');
         if (h3 && h3.textContent.trim() === file.replace('.txt', '').replace(' (-)', '')) {
-          box.classList.add('quiz-flagged');
-          box.title = cached.reason;
-          if (!box.querySelector('.excess-warning')) {
-            const icon = document.createElement('i');
-            icon.className = 'fas fa-exclamation-triangle excess-warning';
-            icon.title = cached.reason;
-            box.appendChild(icon);
-          }
+          applyFlagToBox(box, cached);
         }
       });
     }
@@ -188,19 +228,14 @@ async function runValidation(quizGrid, data, folder) {
 
   // Reapply icons to currently visible folder boxes
   data.folders.forEach(folderName => {
-    const fullPath = folder ? `${folder}/${folderName}` : folderName;
-    const cached   = getCachedFolder(fullPath);
-    if (cached && cached.hasInvalid) {
+    const fullPath    = folder ? `${folder}/${folderName}` : folderName;
+    const cachedFolder = getCachedFolder(fullPath);
+    if (cachedFolder && cachedFolder.hasInvalid) {
       const boxes = quizGrid.querySelectorAll('.folder-select');
       boxes.forEach(box => {
         const h3 = box.querySelector('h3');
         if (h3 && h3.textContent.trim() === folderName) {
-          box.classList.add('quiz-flagged');
-          if (!box.querySelector('.excess-warning')) {
-            const icon = document.createElement('i');
-            icon.className = 'fas fa-exclamation-triangle excess-warning';
-            box.appendChild(icon);
-          }
+          applyFlagToBox(box, { valid: false, violationType: cachedFolder.violationType, reason: '' });
         }
       });
     }
@@ -209,13 +244,43 @@ async function runValidation(quizGrid, data, folder) {
   if (invalidCount === 0) {
     showNotification('All files valid! ✓', 'success');
   } else {
-    showNotification(`Found ${invalidCount} invalid file(s) across all folders — marked in red.`, 'error');
+    const parts = [];
+    if (lineCountInvalid > 0) parts.push(`${lineCountInvalid} line-count error(s) 🔴`);
+    if (answerInvalid    > 0) parts.push(`${answerInvalid} correct-answer error(s) 🟣`);
+    showNotification(`Found ${invalidCount} invalid file(s): ${parts.join(', ')}`, 'error');
   }
 
   if (validateBtn) {
     validateBtn.disabled = false;
     validateBtn.innerHTML = '<i class="fas fa-check-circle"></i> Validate Again';
   }
+}
+
+/**
+ * Apply the correct flag class and warning icon to any box (file or folder).
+ * line_count   → .quiz-flagged        (red)
+ * answer_count → .quiz-flagged-violet (violet)
+ */
+function applyFlagToBox(box, validation) {
+  if (!validation || validation.valid) return;
+
+  // Remove any existing flags
+  box.classList.remove('quiz-flagged', 'quiz-flagged-violet');
+  const existingIcon = box.querySelector('.excess-warning');
+  if (existingIcon) existingIcon.remove();
+
+  if (validation.violationType === 'answer_count') {
+    box.classList.add('quiz-flagged-violet');
+  } else {
+    box.classList.add('quiz-flagged');
+  }
+
+  if (validation.reason) box.title = validation.reason;
+
+  const icon = document.createElement('i');
+  icon.className = 'fas fa-exclamation-triangle excess-warning';
+  if (validation.reason) icon.title = validation.reason;
+  box.appendChild(icon);
 }
 
 // ===================================
@@ -352,20 +417,19 @@ async function renderQuizList(data, quizGrid, folder) {
 
   // Render folders — apply cached validation result if available
   data.folders.forEach((folderName) => {
-    const fullPath   = folder ? `${folder}/${folderName}` : folderName;
-    const cached     = getCachedFolder(fullPath);
-    const hasInvalid = cached ? cached.hasInvalid : false;
-    const folderBox  = createFolderBox(folderName, folder, hasInvalid);
+    const fullPath    = folder ? `${folder}/${folderName}` : folderName;
+    const cached      = getCachedFolder(fullPath);
+    const folderBox   = createFolderBox(folderName, folder, cached);
     quizGrid.appendChild(folderBox);
     addFadeInAnimation(folderBox);
   });
 
   // Render files — apply cached validation result if available
   data.files.forEach((file) => {
-    const filePath  = folder ? `${folder}/${file}` : file;
-    const cached    = getCachedFile(filePath);
-    const validation = cached || { valid: true };
-    const quizBox   = createQuizBox(file, folder, validation, hasFiles);
+    const filePath   = folder ? `${folder}/${file}` : file;
+    const cached     = getCachedFile(filePath);
+    const validation = cached || { valid: true, violationType: null };
+    const quizBox    = createQuizBox(file, folder, validation, hasFiles);
     quizGrid.appendChild(quizBox);
     addFadeInAnimation(quizBox);
   });
@@ -422,13 +486,24 @@ function handleQuizListError(error, quizGrid) {
 }
 
 /**
- * Create folder box element
+ * Create folder box element — colour reflects worst violation inside
  */
-function createFolderBox(folderName, currentFolder, hasInvalid = false) {
+function createFolderBox(folderName, currentFolder, cachedFolderResult = null) {
   const folderBox = document.createElement('div');
-  folderBox.className = 'quiz-box folder-select' + (hasInvalid ? ' quiz-flagged' : '');
 
-  const warningIcon = hasInvalid ? '<i class="fas fa-exclamation-triangle excess-warning"></i>' : '';
+  let flagClass = '';
+  let warningIcon = '';
+
+  if (cachedFolderResult && cachedFolderResult.hasInvalid) {
+    if (cachedFolderResult.violationType === 'answer_count') {
+      flagClass = ' quiz-flagged-violet';
+    } else {
+      flagClass = ' quiz-flagged';
+    }
+    warningIcon = '<i class="fas fa-exclamation-triangle excess-warning"></i>';
+  }
+
+  folderBox.className = 'quiz-box folder-select' + flagClass;
 
   folderBox.innerHTML = `
     <i class="fas fa-folder"></i>
@@ -446,18 +521,23 @@ function createFolderBox(folderName, currentFolder, hasInvalid = false) {
 }
 
 /**
- * Create quiz box element with optional checkbox
+ * Create quiz box element with optional checkbox.
+ * Colour determined by violationType: line_count → red, answer_count → violet.
  */
 function createQuizBox(file, folder, validation, showCheckbox = false) {
   const quizBox = document.createElement('div');
-  const isInvalid = !validation.valid;
   const filePath = folder ? `${folder}/${file}` : file;
 
-  quizBox.className = 'quiz-box' + (isInvalid ? ' quiz-flagged' : '');
   quizBox.style.position = 'relative';
 
+  let flagClass = '';
+  if (!validation.valid) {
+    flagClass = validation.violationType === 'answer_count' ? ' quiz-flagged-violet' : ' quiz-flagged';
+  }
+  quizBox.className = 'quiz-box' + flagClass;
+
   let warningIcon = '';
-  if (isInvalid) {
+  if (!validation.valid) {
     quizBox.title = validation.reason;
     warningIcon = `<i class="fas fa-exclamation-triangle excess-warning" title="${validation.reason}"></i>`;
   }
@@ -730,12 +810,12 @@ function showConfirmDialog(title, message, onConfirm) {
   overlay.appendChild(modal);
   document.body.appendChild(overlay);
 
-  const cancelBtn = modal.querySelector('.cancel-btn');
+  const cancelBtn  = modal.querySelector('.cancel-btn');
   const confirmBtn = modal.querySelector('.confirm-btn');
 
-  cancelBtn.onclick = () => { overlay.style.animation = 'fadeOut 0.2s ease'; setTimeout(() => overlay.remove(), 200); };
+  cancelBtn.onclick  = () => { overlay.style.animation = 'fadeOut 0.2s ease'; setTimeout(() => overlay.remove(), 200); };
   confirmBtn.onclick = () => { overlay.style.animation = 'fadeOut 0.2s ease'; setTimeout(() => { overlay.remove(); onConfirm(); }, 200); };
-  overlay.onclick = (e) => { if (e.target === overlay) cancelBtn.click(); };
+  overlay.onclick    = (e) => { if (e.target === overlay) cancelBtn.click(); };
 
   const escapeHandler = (e) => { if (e.key === 'Escape') { cancelBtn.click(); document.removeEventListener('keydown', escapeHandler); } };
   document.addEventListener('keydown', escapeHandler);

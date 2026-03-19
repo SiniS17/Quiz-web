@@ -1,0 +1,764 @@
+Basically, hydraulic systems normally operate at
+@@3000 PSI
+2000 PSI
+1000 PSI
+
+What happens to hydraulic fluid when it is overheated?
+@@Increase acidity
+Increase viscosity
+Increase alkalinity
+
+During a leak test of an hydraulic system, system pressure
+@@Must be at maximum
+Is not important
+Must be minimum working
+
+Non-pressurized reservoirs are used in aircraft that
+@@Are not designed for violent maneuvers, do not fly at high altitudes
+Are designed for violent maneuvers, fly at high altitudes
+Are designed for flying fast and high altitudes, more maneuvers
+
+Most non-pressurized reservoirs are constructed in
+@@A cylindrical shape
+A rectangular shape
+A cube shape
+
+Pressurized reservoirs are used in aircraft that
+@@Are designed for violent maneuvers, fly at high altitudes
+Are not designed for violent maneuvers, do not fly at high altitudes
+Are designed for flying slowly and low altitudes, not maneuvers
+
+Which sourses used to pressurized reservoir?
+@@The bleed air or pressure of hydraulic system
+Direct hot and high pressure from engines
+Direct high pressure from hydraulic pumps
+
+The value of the pressure in reservoir in normal is
+@@40-50 PSI
+100-200 PSI
+2000-3000 PSI
+
+How many types of the accummulators used in aircraft hydraulic system?
+@@Two
+Four
+Six
+
+What is the purpose of the hydraulic hand pump?
+@@Its purpose is for testing and used in emergency case
+Operates as conventional type of the main hydraulic power source
+Operates parallel with main hydraulic power sources
+
+Which is the secondary source of hydraualic pressure generation on most aircraft?
+@@Electrical pump
+Mechanically driven pump
+Hand pump
+
+Where are the mechanically driven pumps mounted in aircraft in basically?
+@@They are mounted on the accessory gearbox of the main engines
+They are mounted on the pylon of the main engines
+They are mounted on the hydraulic bay in the fuselage of aircraft
+
+Where are the ellectrically driven pumps mounted in aircraft in basically?
+@@They are mounted on the hydraulic bay in the fuselage of aircraft
+They are mounted on the accessory gearbox of the main engines
+They are mounted on the pylon of the main engines
+
+Electrically driven pumps are installed for use in case of
+@@Emergencies or during ground operation when engines are not running
+For backup on ground operation when apu is not running
+in case of aircraft needs more hydraulic power during aircraft takeoff or landing
+
+Pneumatically driven pumps are driven by
+@@Air from the pneumatic system or by ram air in the case of a ram air turbine (RAT).
+Air from hot secction of enignes or by ram air inlet of airconditioning system
+Air from APU bleed directlly or by ram air inlet of airconditioning system
+
+Non-pressurized reservoirs are used in aircraft that
+@@Are not designed for violent maneuvers, do not fly at high altitudes
+Are designed for violent maneuvers, fly at high altitudes
+Are designed for flying fast and high altitudes, more maneuvers
+
+Most non-pressurized reservoirs are constructed in
+@@A cylindrical shape
+A rectangular shape
+A cube shape
+
+Pressurized reservoirs are used in aircraft that
+@@Are designed for violent maneuvers, fly at high altitudes
+Are not designed for violent maneuvers, do not fly at high altitudes
+Are designed for flying slowly and low altitudes, not maneuvers
+
+Hand pumps are normally single cylinder double acting because of the
+@@Two NRVS fitted
+Relief valve
+Piston ram displacement
+
+What is the purpose of the hydraulic hand pump?
+@@Its purpose is for testing and used in emergency case
+Operates as conventional type of the main hydraulic power source
+Operates parallel with main hydraulic power sources
+
+How many types of the hand pumps?
+@@Three types, they are single action, double action and rotary.
+Two type, they are single stroke and double stroke.
+Only one type, it is a multi function unit.
+
+Which type of the pump be used in a hydraulic power pack?
+@@The electric pump
+The driven pump
+The hand pump
+
+How the hydraulic power pack works?
+@@By an electric motor
+By a pneumatic air
+By the hydraulic muscle
+
+Which component to transform energy in the form of fluid pressure into mechanical force?
+@@A hydraulic actuator
+The hydraulic pump
+The hydraulic valve
+
+How can use the correct type of the fluid for servicing?
+@@Refer Aircraft Maintenance Manual
+Listen request from the Leader
+Remember kind of the fluid by ownself
+
+How to pressurize the hydraulic reservoir?
+@@By bleed air
+By ambient air
+By suction air
+
+Which type of the reservoir be used for the high altitude flight?
+@@The pressurized reservoir
+The non-pressurized reservoir
+The negative pressure reservoir
+
+Which component to keep the pressure in system in case the main pressure system fail?
+@@The accummulator
+The check valve
+The high pressure valve
+
+Which pump are the primary source of pressure generation on most aircraft?
+@@The mechanically driven pump
+The electrical motor driven pump
+The pneumatic driven pump
+
+Which component is the last source supply to hydraulic system?
+@@Ramp Air Turbine (RAT)
+The electric motor
+The pneumatic pump
+
+Which is the purpose of the hand pump?
+@@To operate the cargo door
+To recovery the hydraulic system in flight
+To operate the flight control on ground
+
+Which component supply the power to other hydraulic system in case one hydraulic system fail??
+@@Power Transfer Unit
+Engine driven pump
+APU driven pump
+
+Which component protects the system from exceeding a set pressure?
+@@The pressure relief valve
+The pressure regulator valve
+The shutoff valve
+
+A constant-displacement pump
+@@It delivers a fixed quantity of fluid per revolution, regardless of the pressure demands
+It delivers a changeable quantity of fluid per revolution, regardless of the pressure demands
+It delivers a total quantity of fluid per revolution, regardless of the pressure demands
+
+The vane type power pump is
+@@A constant displacement pump
+A variable displacement pump
+A changeable displacement pump
+
+Which energy source use for RAT operates?
+@@Ramp air
+Bleed air
+Mechanical driver
+
+How can release RAT during flight?
+@@Manual from cockpit or automatic
+Manual from hydraulic bay or automatic
+Manual from cockpit or hydraulic bay
+
+A gear type power pump is
+@@A constant displacement pump
+A changeable displacement pump
+A non-constant displacement pump
+
+A gerotor type power pump consists essentially of
+@@A housing containing an eccentric-shaped stationary liner, an internal gear rotor having seven wide teeth of short height, a spur driving gear having six narrow teeth, and a pump cover that contains two crescent-shaped openings
+Two meshed gears that revolve in a housing, the driving gear is driven by the aircraft engine or some other power unit. The driven gear meshes with, and is driven by, the driving gear
+A housing containing four vanes (blades), a hollow steel rotor with slots for the vanes, and a coupling to turn the rotor which is positioned off center within the sleeve
+
+For Vane pump, during the first half of a revolution, the volume gradually
+@@Increases from minimum to maximum
+Decreases from maximum to minimum
+Keeps the same
+
+For vane pump, during the second half of a revolution, the volume gradually
+@@Decreases from maximum to minimum
+Keeps the same
+Increases from minimum to maximum
+
+What is the Power Transfer Unit (PTU)?
+@@It has two units, a hydraulic pump and hydraulic motor, are connected via a single drive shaft
+It has two units, a hydraulic pump and electrical motor, are connected via a single drive shaft
+It has two units, a electrical pump and hydraulic motor, are connected via a single drive shaft
+
+A check flow valve in a hydraulic system prevents
+@@Reverse flow
+Pump cavitation
+Overpressure
+
+A thermal relief valve
+@@Senses fluid pressure
+Provides cooling for the fluid
+Senses fluid temperature change
+
+Mechanical sequence valves are operated by
+@@A striker pin
+The pilot
+The operation of a NRV
+
+An automatic cut-out valve will
+@@Prevent the hydraulic lock forming
+Limit pump wear
+Raise fluid boiling point
+
+What is the general type of the hydraulic pump in aircraft hydraulic system?
+@@Engine driven pump
+Hand pump
+Pneumatic pump
+
+In general, the backup hydraulic pump is
+@@The hand pump
+The engine driven pump
+The electrical pump
+
+How many sources drives the hydraulic pump basically?
+@@Three
+Two
+One
+
+The engine driven pump is operated by
+@@Mechanically source
+Electrically source
+Pneumatic source
+
+Which is the primary source of hydraualic pressure generation on most aircraft?
+@@Mechanically driven pump
+Electrical pump
+Hand pump
+
+Which is the secondary source of hydraualic pressure generation on most aircraft?
+@@Electrical pump
+Mechanically driven pump
+Hand pump
+
+Where are the mechanically driven pumps mounted in aircraft in basically?
+@@They are mounted on the accessory gearbox of the main engines
+They are mounted on the pylon of the main engines
+They are mounted on the hydraulic bay in the fuselage of aircraft
+
+Where are the ellectrically driven pumps mounted in aircraft in basically?
+@@They are mounted on the hydraulic bay in the fuselage of aircraft
+They are mounted on the accessory gearbox of the main engines
+They are mounted on the pylon of the main engines
+
+Electrically driven pumps are installed for use in case of
+@@Emergencies or during ground operation when engines are not running
+For backup on ground operation when apu is not running
+in case of aircraft needs more hydraulic power during aircraft takeoff or landing
+
+Hydraulic pressure can be restored by
+@@Compressing the air charge in an accumulator
+The use of a pressure/heat exchanger
+Compressing the fluid in a reservoir
+
+What happens if a component has an internal hydraulic leak?
+@@Increase in fluid temperature
+Fluid loss
+Increase in fluid pressure
+
+Where is the temperature overheat switch located in a hydraulic pump?
+@@In the case drain
+In the pressure line
+In the suction line
+
+Accumulators as fitted to aircraft hydraulic systems
+@@Store fluid under pressure
+Are only ever used in an emergency
+Provide additional fluid if leaks occur
+
+A Skydrol hydraulic fluid seal would be made of
+@@Butyl rubber
+Natural rubber
+Synthetic rubber
+
+How can choose type of hydraulic fluid in case of flushing hydraulic systems?
+@@Flush with same hydraulic oil
+Flush with methylated spirit
+Flush with any hydraulic oil
+
+When replenishing a hydraulic system
+@@Use the same/correct hydraulic fluid
+Use any kind of the hydraulic fluid
+Use any hydraulic fluid made by the same manufacturer
+
+If an accumulator loses air pressure there will be
+@@Rapid fluctuations of instruments
+Rapid depressurisation of system
+Pump cavitation
+
+The purpose of a mechanical sequence valve is to ensure the operation of
+@@Landing gear and doors
+Safety switches
+Brake anti-skid units
+
+The end fittings on a NRV are normally different to
+@@Prevent incorrect installation
+Facilitate bleeding of the system
+Allow a full flow from the valve
+
+Where is the pressure relay valve is fitted in the hydraulic system?
+@@Before a pressure gauge
+Before a pressure sequence valve
+Before a pressure relief valve
+
+Hydraulic reservoirs are pressurized to
+@@Minimize the possibility of pump cavitation
+Provide a reserve of stored energy
+Maintain a constant fluid level
+
+Hydraulic systems are normally flushed with
+@@The same type of fluid
+Any clean hydraulic fluid
+Methylated spirits
+
+A RAT hydraulic pump is for
+@@Flying controls if hydraulic power lost
+Landing gear and auto-brake systems
+Nose wheel steering
+
+A restrictor valve
+@@May be used to slow down undercarriage extension
+Speed up the flow in one direction
+Restrict the extent of travel of the undercarriage
+
+A normal hydraulic system will
+@@Show pressure and source of hydraulics
+Show fluid temperature and quantity
+Illuminate a light in the cockpit when the system is ready
+
+A pressure control relay in a hydraulic pump is
+@@De-energised to start the pump
+Energised to the run position
+Used to prevent anything happening until there is hydraulic pressure
+
+A maintainer valve in an hydraulic system will
+@@Allow continued press to essential systems during times of reduced supply
+Dampen pressure inputs
+Maintain a high pressure to all systems
+
+What is the purpose of a 'cut-out' in a hydraulic system?
+@@To relieve the pump of load when the operation of services is complete and the accumulator charged with fluid
+To prevent creep in jack operated services which have several selected positions.
+To limit loss of fluid in the event of pipe fracture
+
+Hand pumps are normally single cylinder double acting because of the
+@@Two NRVS fitted
+Relief valve
+Piston ram displacement
+
+Automatic cut-out valve hammering is caused by
+@@Low accumulator pressure
+Moisture in the fluid
+Relief valve set too high
+
+How is the hydraulic pump depressurising solenoid actuated?
+@@Energised Closed for fail-safe
+Energised Open
+Energised both open and closed depending on cockpit selection
+
+A constant volume hydraulic system uses what to relieve pressure in system when no services are being used?
+@@ACOV
+Pressure relief valve
+Return line back to pump
+
+A duplex seal consist of
+@@A rubber 'T' section ring sandwiched between two Teflon rings
+A square section rubber ring within a steel washer
+A hard rubber square section ring with a soft rubber square section inner ring
+
+A fixed volume axial pump contains the following rotating parts
+@@Drive Shaft, Swash Plate & Cylinder Block
+Drive Shaft, Swash Plate & Valve Block
+Swash Plate & Valve Block
+
+An hydraulic closed system is one where
+@@Pressure is maintained at the selector valves at all times
+There is no pressure at the selector valves when no functions are required
+Most of the major components of the system are included in a self contained unit
+
+A marker number on a pipe indicates
+@@The specification of the pipe throughout the pipe run
+The thickness of the wall on the pipe
+The type of fluid used to pressure test the pipe
+
+One reason for fitting an accumulator in an hydraulic system is to
+@@Absorb pressure surges
+Minimize the possibility of pump cavitation
+Relieve excess pressure
+
+A shuttle valve is used for
+@@Change over from main to auxiliary system in the case of failure.
+Preventing fluid loss from a leaking jack
+Maintaining fluid press when the emergency system fails
+
+A hydraulic accumulator is charged with initial air pressure of 1000 PSI. When the hydraulic system pressure of 3000 PSI is reached, the air pressure is
+@@3000 PSI
+4000 PSI
+1000 PSI
+
+Constant delivery hydraulic pumps
+@@Require an automatic cut-out valve and accumulator in the system
+Require an automatic cut-out valve in the system
+Are self idling
+
+Before checking the initial pressure in the hydraulic accumulator
+@@The fluid pressure must be released
+The reservoir must be checked for correct level
+All air must be bled from the system
+
+The essential components of a hydraulic system of the constant delivery type are an
+@@Accumulator and automatic cut-out valve
+Accumulator and shuttle valve
+Accumulator and relay valve
+
+A maintaining valve is fitted to a hydraulic system
+@@To ensure a supply of fluid to essential services in the event of system failure
+To maintain a back pressure to the accumulator
+To relieve excessive pressure to return line
+
+To enable an hydraulic system to operate two components requiring different pressures
+@@A pressure reducing valve is used
+A pressure regulating valve is used
+A pressure relief valve is used
+
+Modern transport aircrafts use an other hydraulic power, it is
+@@A PTU (Power Transfer Unit)
+A PCU (Power Control Unit)
+A PSU (Power Sharing Unit)
+
+What is the purpose of the hydraulic hand pump?
+@@Its purpose is for testing and used in emergency case
+Operates as conventional type of the main hydraulic power source
+Operates parallel with main hydraulic power sources
+
+How many types of the hand pumps?
+@@Three types, they are single action, double action and rotary.
+Two type, they are single stroke and double stroke.
+Only one type, it is a multi function unit.
+
+Which component to prevent failure of components or rupture of hydraulic lines under excessive pressures
+@@The pressure relief valve
+The pressure regulator valve
+The pressure shut-off valve
+
+How to change the value of the limit pressure of relief valve?
+@@Adjusted by increasing or decreasing the tension on the spring to determine the pressure required to open the valve
+Adjusted by increasing or decreasing the torque motor to determine the pressure required to open the valve
+Adjusted by increasing or decreasing the value of selenoir to determine the pressure required to open the valve
+
+When a constant displacement pump is used in a hydraulic system, which componant will keep the pressure at a constant value?
+@@A pressure regulator
+A limitation valve
+A constant pressure
+
+A constant-displacement pump
+@@It delivers a fixed quantity of fluid per revolution, regardless of the pressure demands
+It delivers a changeable quantity of fluid per revolution, regardless of the pressure demands
+It delivers a total quantity of fluid per revolution, regardless of the pressure demands
+
+Since the constant-delivery pump provides a fixed quantity of fluid during each revolution of the pump, the quantity of fluid delivered per minute depends upon
+@@Pump rotations per minute
+Volume of the pump
+Pressure of the pump
+
+A gear type power pump is
+@@A constant displacement pump
+A changeable displacement pump
+A non-constant displacement pump
+
+The inlet port of the pump is connected to the reservoir, and the outlet port is connected to
+@@The pressure line
+The return line
+The suction line
+
+A gerotor type power pump consists essentially of
+@@A housing containing an eccentric-shaped stationary liner, an internal gear rotor having seven wide teeth of short height, a spur driving gear having six narrow teeth, and a pump cover that contains two crescent-shaped openings
+Two meshed gears that revolve in a housing, the driving gear is driven by the aircraft engine or some other power unit. The driven gear meshes with, and is driven by, the driving gear
+A housing containing four vanes (blades), a hollow steel rotor with slots for the vanes, and a coupling to turn the rotor which is positioned off center within the sleeve
+
+The vane type power pump is
+@@A constant displacement pump
+A variable displacement pump
+A changeable displacement pump
+
+During the first half of a revolution, the volume gradually
+@@Increases from minimum to maximum
+Decreases from maximum to minimum
+Keeps the same
+
+During the second half of a revolution, the volume gradually
+@@Decreases from maximum to minimum
+Keeps the same
+Increases from minimum to maximum
+
+The aircraft’s engine rotates the pump drive shaft, cylinder block, and pistons via
+@@A gearbox
+An electrical motor
+A hydraulic motor
+
+Because the yoke is at an angle to the drive shaft, the rotary motion of the shaft is converted to
+@@Piston reciprocating motion
+Piston horizontal motion
+Piston totational motion
+
+The pressure compensator is a spool valve that is held in the closed position by
+@@An adjustable spring load
+A electrical selenoir
+The supply pressure
+
+The reduced angle of the yoke results in a shorter stroke for the pistons and
+@@Reduced displacement
+Increased displacement
+No change displacement
+
+A pressure relief valve is used to limit the amount of pressure being necessary to prevent
+@@Failure of components or rupture of hydraulic lines under excessive pressures
+Failure of tanks or rupture of hydraulic return lines under excessive pressures
+Failure of pumps or change the diameter of hydraulic lines under excessive pressures
+
+To determine the pressure required to open, the pressure relief valves are adjusted by
+@@Increasing or decreasing the tension on the spring
+A pressure value which comes from the hydraulic pumps
+Increasing or decreasing the diameter of valves
+
+Where fluid will go to after  the pressure relief valve open?
+@@To the reservoir return line
+Back to the supply line
+Return to the pressure line after pumps
+
+One purpose of the pressure regulator is to manage the output of the pump to maintain
+@@System operating pressure within a predetermined range
+The pressure in system for the pumps working normal
+Enough quantity of fluid in the hydraulic system
+
+Which is the purpose of the regulator valve at times when pressure in the system is within normal operating range
+@@Permit the pump to turn without resistance
+Permit the pump to turn fast to increase pressure
+Permit the pump to turn slowly to reduce pressure
+
+Pressure reducing valves are used in hydraulic systems where it
+@@Is necessary to lower the normal system operating pressure by a specified amount
+Is necessary to increase the normal system operating pressure by a specified amount
+Is necessary to keep the normal system operating pressure by a specified amount
+
+A reducing valve can normally be set for any desired
+@@Downstream pressure within the design limits of the valve
+Upstream pressure within the design limits of the valve
+Return line pressure within the design limits of the valve
+
+A shutoff valve may be used to create
+@@A priority in a hydraulic system
+A pressure in a hydraulic system
+A frequently in a hydraulic system
+
+Which is the purpose of a pressure switch to control the shutoff valve?
+@@The switch is adjusted so that if pressure drops below the set point, the valve closes
+The switch is adjusted so that if pressure drops below the set point, the valve opens
+The switch is adjusted so that if pressure increases to the set point, the valve closes
+
+An open-center valve allows a continuous flow of system hydraulic fluid through the valve even when
+@@The selector is not in a position to actuate a unit
+The selector is in off position
+The selector is not closing in a position to actuate a unit
+
+Most selector valves are mechanically controlled
+@@By a lever or electrically controlled by solenoid
+By a pressure or pneumatic air
+By a wheel or electrically controlled by on off switch
+
+The four ports on a four-way selector valve are one port receives pressurized fluid from the system hydraulic pump. A second port always returns fluid to the reservoir.
+@@The third and forth ports are used to connect the selector valve to the actuating unit
+The third and forth ports are used to connect the selector valve to other valves
+The third and forth ports are used to connect the selector valve to other unit
+
+How can install correct the direction of check valve?
+@@An arrow on the outside of the housing
+The bigger port is line in
+The bigger port is line out
+
+Basiclly, inside a check valve has a ball and
+@@The spring
+The needle
+The flapper
+
+How to control the sequence of operation between two branches in a circuit?
+@@By sequence valves
+By regulator valve
+By check valve
+
+The pressure of the priority valve is set for 2200 psi, if the pressure drops below 2200 psi, the priority valve
+@@Closes and no fluid pressure flows to the non-critical systems.
+Opens to allow fluid pressure flows to the non-critical systems.
+Opens to allow fluid pressure flows to the critical systems.
+
+What is the main purpose of the shuttle valve?
+@@Is to isolate the normal system from an alternate or emergency system
+Is to isolate the emergency system from an alternate or normal system
+Is to connect the normal system from an alternate or emergency system
+
+In shuttle valves that are designed with a spring, the shuttle is normally held against ... inlet port by the spring
+@@The alternate system
+The normal system
+The back-up system
+
+Which type of valves are installed in hydraulic lines to prevent loss of fluid when units are removed
+@@A quick disconnect valve
+A check valve
+A shutoff valve
+
+Hydraulic fuse are
+@@They detect a sudden increase in flow, such as a burst downstream, and shut off the fluid flow
+They detect a sudden increase pressure of main pumps and shut off the fluid flow
+They detect a sudden increase pressure of main pumps and opens the fluid flow
+
+What is the colour of the band on a hydraulic seal?
+@@Green
+Yellow
+White
+
+Phosphate Ester hydraulic fluid requires which kind of seals?
+@@Butyl Rubber
+Synthetic Rubber
+Natural Rubber
+
+Pneumatically driven pumps are driven by
+@@Air from the pneumatic system or by ram air in the case of a ram air turbine (RAT).
+Air from hot secction of enignes or by ram air inlet of airconditioning system
+Air from APU bleed directlly or by ram air inlet of airconditioning system
+
+While the PTU transfers power, does it transfer any fluid from one system to the other?
+@@No, it does not.
+Yes, it is.
+It transfers when pilot opens the shutoff valve.
+
+What is the structure of PTU?
+@@PTU consists of a hydraulic pump and hydraulic motor, are connected via a single drive shaft so that power can be transferred between two hydraulic systems
+PTU consists of two hydraulic pumps, are connected via a single drive shaft so that power can be transferred between two hydraulic systems
+PTU consists of two hydraulic motors, are connected via a single drive shaft so that power can be transferred between two hydraulic systems
+
+In case of an electrical failure, a hydraulic motor driven generator provides
+@@An alternative source of electrical power
+An alternative source of hydraulic power
+A main source of electrical power
+
+Which pumps will be used when engine-driven pumps fail, in generally?
+@@Electrically-driven pumps
+Hand pumps
+Pneumatic-driven pumps
+
+Which addition source of hydraulic and electric power is supplied if engine driven pumps and electrical generators fail in the large transport aircraft?
+@@It is a ram air turbine
+It is the hand pump
+It is the main batteries
+
+Which energy source use for RAT operates?
+@@Ramp air
+Bleed air
+Mechanical driver
+
+How the RAT is installed in the aircraft?
+@@It is installed inside the fuselage
+It is installed outside the fuselage
+It is installed inside the engine
+
+How can release RAT during flight?
+@@Manual from cockpit or automatic
+Manual from hydraulic bay or automatic
+Manual from cockpit or hydraulic bay
+
+Hydraulic motors are basically the same as hydraulic pumps except they are used to convert
+@@Hydraulic energy into mechanical (rotary) energy
+Mechanical (rotary) energy into hydraulic energy
+Hydraulic energy into electrical energy
+
+Which types of hydraulic motors in basiclly?
+@@Hydraulic motors are either of the axial inline or bent-axis type
+Hydraulic motors are either of the axial incline or bent-axis type
+Hydraulic motors are either of the axial inline or rotation-axis type
+
+What is the Power Transfer Unit (PTU)?
+@@It has two units, a hydraulic pump and hydraulic motor, are connected via a single drive shaft
+It has two units, a hydraulic pump and electrical motor, are connected via a single drive shaft
+It has two units, a electrical pump and hydraulic motor, are connected via a single drive shaft
+
+While the PTU transfers power,
+@@It does not transfer any fluid from one system to the other
+It will transfer the fluid from one system to the other
+It does not transfer power from one system to the other
+
+Which component is used to detect pump failure which open a valve to divert fluid from the healthy system to the PTU, in an automatically activated setup?
+@@A pressure switch
+A thermal switch
+A sensor line
+
+What is purpose of the hydraulic motor driven generator (HMDG)?
+@@The HMDG provides an alternative source of electrical power
+The HMDG provides an alternative source of hydraulic power
+The HMDG provides an alternative source of mechanical power
+
+The generator part is typically designed to maintain the desired system output frequency of
+@@400 Hz
+115 Hz
+60 Hz
+
+Conversely, a hydraulic pump failure is backed up by
+@@An electrically driven hydraulic pump
+An mechanically driven hydraulic pump
+An electrically driven hydraulic actuator
+
+When the selector valve is placed in the ON or EXTEND position, fluid is admitted under pressure to the left-hand chamber of the actuating cylinder
+@@This results in the piston being forced toward the right
+This results in the piston being forced toward the left
+This results in the piston being forced toward the neutral
+
+How can protect the hydraulic piston pump from the foreign particles and contaminating substances?
+@@The hydraulic filter
+The relief valve
+The shutoff valve
+
+When the hydraulic filter is clogged
+@@The bypass relieft valve opens
+The hydraulic system stop working
+It makes the hydraulic system broken
+
+Where is the hydraulic exchanger location?
+@@In the Fuel tanks
+Outside of the fuselage
+In the APU compartment
+
+What is the difference between a packing and a gasket?
+@@A parking used internally on a sliding or moving assembly and a gasket used between non-moving
+A parking used between non-moving  and a gasket used internally on a sliding or moving assembly
+A parking used as static (stationary) seals between two flat surfaces and a gasket used between moving parts
+
+Hydraulic system parameters that are captured in analog format are converted to
+@@Digital format for use in the control system logic
+Other analog format for use in the control system logic
+Double analog format for use in the control system logic

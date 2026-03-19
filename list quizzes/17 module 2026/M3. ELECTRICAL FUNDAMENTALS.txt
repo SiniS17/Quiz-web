@@ -1,0 +1,1784 @@
+An oxygen molecule is made up of:
+@@Two oxygen atoms sharing electrons
+Two oxygen atoms sharing neutrons
+Two oxygen atoms sharing protons
+
+What is a conductor?
+@@The atoms in this material has a few loosely bound electrons in their outer orbits
+Under normal conditions, atoms in this material do not produce free electrons
+This material is the process by which an atom loses or gains electrons
+
+An atom is:
+@@The smallest part of an element that retains its characteristics
+The smallest part of a compound that can exist independently
+The smallest particle of matter
+
+If electrons are added to an atom it becomes:
+@@A negative ion
+A positive ion
+A neutral ion
+
+The charge on a proton is:
+@@Positive
+Neutral
+Negative
+
+What is an element in basic chemistry?
+@@A material that cannot be reduced to a simpler form by chemical means
+A substance that can be split into simpler substances
+A mixture of two or more compounds
+
+What is static electricity?
+@@Static electricity is a build up of an electrical charge on the surface of an object
+Static electricity is a build up of an electrical charge inside of an object
+Static electricity is a build up of an electrical charge on the surface and inside of an object.
+
+What happen when touching each ball with these differently charged sources?
+@@They attract each other
+They repel each other
+They dont have any interact.
+
+All electrons have:
+@@Negative charge
+Positive charge
+Neither positive charge nor negative charge
+
+What is unit of eletrical charge?
+@@The coulomb (C)
+The ampere (A).
+The voltage (V).
+
+How does the distribution of the charge on an irregularly shaped object?
+@@The greatest charge is at the points, or areas of sharpest curvature, of the objects.
+The charge spread over the entire surface.
+The greatest charge is at the points, or areas of largest curvature, of the objects.
+
+Electrons and protons are:
+@@Opposite in their charge
+The same charge
+The same charge and attract each other.
+
+How to avoid ESD damage when replace a circuit card?
+@@Touching the chassis of the removed box or wearing a grounding wrist strap.
+Stand on a blanket and wearing a grounding wrist strap
+Wearing a rubber glove and then touching the chassis of the removed box.
+
+What is precaution before replacing a component?
+@@Power must be removed from a circuit before replacing a component
+Always connect component to ground point while replacing a component.
+Ensure voltages do not exceed maximum allowable voltage of component.
+
+Electricity can not be conducted through:
+@@Distilled water
+Metallic liquids
+Gas
+
+What happen when electron transfer from an object to another?
+@@Results in an imbalance of charges between the two objects
+Both objects become non-conductive materials.
+Both objects are changed number of protons
+
+The repulsion or attraction between the charges is depend on?
+@@Distance between charges.
+Mass of a charged object.
+Volum of a charged object
+
+What happen If a positively charged rod touches an uncharged metal bar?
+@@The positively charged rod will draw electrons from the uncharged bar to the point of contact.
+The electrons from the positively charged rod will move to the uncharged metal bar.
+The uncharged bar will draw electrons from the positively charged rod to the point of contact
+
+Directions of the electrostatic field from the charged body are:
+@@In all directions from the charged body
+In front of the charged body
+Behide of the charged body.
+
+What is an electric current?
+@@Electric current is the movement of valence electrons.
+Electric current is electrons be injected into a vacuum.
+Electric current is the movement of protons.
+
+Why are metals excellent conductors?
+@@They have valence electrons with weak covalent bonds.
+They have valence electrons with strong covalent bonds.
+They easy ionize
+
+When plastic and glass are rubbed together
+@@Results in an imbalance of charges between the two materials
+They  exchange protons to each other
+They will combine chemically to form a new substance
+
+Where are the greatest charge points on the airplane?
+@@Wing tips
+Slat
+Tailcone
+
+Why do some non-metallic liquids conduct electricity?
+@@Because they contain ions — charged particles that can move freely within the liquid
+Because they contain free electrons like metals do
+Because non-metallic liquids generate electricity on their own
+
+An ampere represents the flow of:
+@@6.241 × 101⁸ electrons
+6.241 × 101⁸ netrons
+6.241 × 101⁸ protons
+
+How is kilovolt expressed to volt?
+@@1000V
+100V
+10V
+
+Current flowed out of a positive source into a negative source is called:
+@@Conventional current flow
+Electron flow
+Negtive flow
+
+The force that causes the difference in electrical energy between the two points. This force is called:
+@@Electromotive force
+Non electromotive force
+Potential resistance
+
+Electromotive force is measured in:
+@@Volts
+Ohms
+Watts
+
+The system international (si) unit for current is?
+@@Ampere
+Volt
+Coulomb
+
+What terminal of battery is the sourse of electrons?
+@@Negative terminal
+Positve terminal
+Neithe positive terminal nor negative terminal
+
+What is the SI unit of resistance?
+@@Ohm
+Sieman
+Ohm-metre
+
+A volt can be considered to be:
+@@Unit of electrical pressure
+Quantity of electrical energy
+Unit of electrical power
+
+What is correct statement?
+@@Current is a measurement of a rate at which a charge flows through some region of space or a conductor
+Current is a force that causes movement of electrons between the two points
+When current flow is one direction, it is called alternate current (AC).
+
+1 ampere (A) of current is equivalent to:
+@@1 coulomb (C) of charge passing through a conductor in 1 second(s)
+1 volt (V) of electromotive force passing through a conductor in 1 second(s).
+1 joule (J) of electromotive force passing through a conductor in 1 second(s).
+
+What happen if the resistance of the conductor is reduced?
+@@The current that flows under the given voltage will increase
+The current that flows under the given voltage will decrease
+The current that flows under the given voltage not change
+
+What happen if the resistance of the conductor is reduced?
+@@The current that flows under the given voltage will increase
+The current that flows under the given voltage will decrease
+The current that flows under the given voltage not change
+
+When a voltage is applied across the conductor:
+@@An electromotive force creates an electric field within the conductor and the current is established
+An electromotive force creates an electric field within the conductor and the conductor is charged with negative charge
+The current is established and the conductor is charged with positive charge.
+
+What is relationship between the potential difference, the electromotive force and charge?
+@@The potential difference is directly proportional to  the electromotive force and inversely proportional to charge
+The potential difference is directly proportional to charge and inversely proportional to the electromotive force
+The potential difference is directly proportional to  the electromotive force and charge
+
+What is relationship between the Current, the Charge and Time?
+@@Current is directly proportional to Charge and inversely proportional to Time
+Current is directly proportional to Time and inversely proportional to Charge
+Current is directly proportional to Time and Charge
+
+What is correct statement for the current?
+@@Current is a measurement of a rate at which a charge flows through some region of space or a conductor
+Current has no relation to resistance in a circuit
+Current is inversely related voltage
+
+What are methods to produce electrical energy?
+@@Pressure, Chemical, Thermal and light
+Thermal and Chemical methods only
+Chemical, Thermal and light methods only.
+
+The method to produce electrical energy by application of mechanical pressure on a dielectric or nonconducting crystal is:
+@@Pressure method
+Thermal method
+Light method
+
+What is the piezoelectric effect?
+@@When apply a voltage between certain faces of the crystal (piezoelectric materials) can produce a mechanical distortion
+When apply a force between certain faces of the crystal (piezoelectric materials) can produce a mechanical distortion
+When apply a force on upper faces of the crystal (piezoelectric materials) can produce a mechanical distortion
+
+What is method that produces electricity using two different metals in a chemical solution?
+@@Chemical action method
+Mechanical method
+Friction method
+
+What is a thermocouple?
+@@Pairs of dissimilar metal wires joined at least at one end
+Pairs of similar metal wires joined at least at one end
+Pairs of dissimilar metal wires joined  at  end of both by other metal wires.
+
+The device contains certain chemical elements that when exposed to light energy, they will:
+@@Release electrons
+Collect electrons
+Release neutrons
+
+What is the primary function of a solar (photovoltaic) cell?
+@@To convert light energy into electricity
+To reflect photons back into the atmosphere
+To convert heat into electromotive force
+
+What type of electricity is produced when non-conductive materials are rubbed together?
+@@Static electricity
+Alternating current
+Induced current
+
+What happens when a conductor moves through magnetic lines of flux?
+@@Electromotive force is created and current flows
+Heat is generated
+The magnetic field becomes stronger
+
+The dry cell is the most common type of:
+@@Primary cell battery
+Secondary cell battery
+Thermocouple
+
+What is electrolytic cell  of the the lead-acid battery?
+@@Secondary cell battery secondary cell battery
+Primary cell battery
+Neither primary cell battery nor
+
+The lead-acid batteries have:
+@@More negative plates than positive plates
+More positive  plates than negative plates
+Negative the same positive
+
+How many voltage of lead acid cell?
+@@Approximately 2 volts
+Approximately 2.5 volts
+Approximately 3 volts
+
+What is the voltage of the external charging source?
+@@Must be greater than the open circuit voltage of battery
+Must be less than the open circuit voltage of battery
+Must be less than  or the same the open circuit voltage of battery
+
+What is current for charge battery?
+@@DC
+AC
+AC or DC
+
+How many lead acid cells are there in a battery rated at 12 volts?
+@@6
+3
+12
+
+What is battery life cycle?
+@@The number of complete charge/discharges cycles a battery can perform
+Percent of capacity battery can be charged
+Percent of voltge battery can be charged
+
+Nickel hydrate (Nio OH) in the charged positive plate (Anode) and sponge Cadmium (Cd) in the charged negative plate (Cathode) are materials of:
+@@Nickel-cadmium cells
+Lead - Acid battery
+Lead-Helium cells
+
+The typical open circuit cell voltage of a nickel-cadmium battery is about:
+@@1.25V
+1V
+1.5V
+
+Nickel-cadmium battery is:
+@@Rechargeable
+Unrechargeable
+Rechargeable one time only
+
+What is requirement for sealed lead acid?
+@@Not require scheduled deep cycle maintenance
+Require scheduled deep cycle maintenance
+Check temorature after recharge
+
+The charging process  of primary cell battery is:
+@@Not reversible
+Reversible
+Reversible if discherged less than fifty percent
+
+How are identical cells (positive and negative plates) in the Lead-acid batteries connected?
+@@In series
+In parallel
+Negative plates are connected in series, positve plates are connected in parallel
+
+What does a battery with a capacity of 1 amp-hour mean?
+@@A battery should be able to continuously supply a current of 1 amp to a load for exactly 1 hour
+A battery need a current of 1 amp to full charge for exactly 1 hour
+A battery should be able to continuously supply a current of 1 amp to a load for more than 1 hour
+
+What is method used to charge batteries?
+@@Either the constant voltage or constant current method
+The constant voltage method only
+Either the constant voltage or constant current method
+
+How long a battery with a capacity of 5 amp-hour should be able to continuously supply a current of 2 amp to a load?
+@@2.5
+2
+5
+
+Lead - Acid battery testing method using hydrometer is to check:
+@@The density of the electrolyte
+The volume of the electrolyte
+The mass of the electrolyte
+
+During nickel-cadmium battery discharge:
+@@The positive plates slowly give up oxygen
+The pnegative plates slowly give up oxygen
+The positive plates slowly regained oxygen
+
+What is function of the nickel-cadmium battery cell relief valves?
+@@To vent gases inside bateery to the atmosphere
+To drain liquid inside bateery to the atmosphere
+To drain liquid and vent gas inside bateery to the atmosphere
+
+What happen when a photon strikes a semiconductor atom?
+@@It raises the energy level above what is needed to hold its electrons in orbit
+Nothing happen
+It reduces the energy level  what is needed to releave its electrons in orbit
+
+What is a unit of measurement for battery capacity?
+@@The amp - hour rating
+The volt - amp rating
+The volt - amp - hour rating
+
+When connecting batteries in parallel
+@@The amp-hour capacity is increased
+The amp-hour capacity is decreased
+The total voltage is decreased
+
+When connecting batteries in series
+@@The total voltage is increased
+The total voltage is decreased
+The amp-hour capacity is increased
+
+What is correct statement for Lead-acid battery?
+@@The open circuit voltage of a fully charged 12 cell, lead-acid battery is approximately 26.4 volts
+Approximately 28 volts are required to charge it
+The charging voltage of a lead acid battery must less than the open circuit voltage plus the IR drop within the battery
+
+How is the internal resistance of a lead-acid battery affected over time?
+@@Increases over time
+Decreases over time
+The internal resistance of a lead-acid battery is not affected over time
+
+What is correct statement for Lead-acid battery charging?
+@@The constant voltage method requires less time and supervision than does the constant current method
+The constant voltage method requires more time and supervision than does the constant current method
+In the constant current method, the current increases during the entire charging process
+
+When does a cell of a nickel-cadmium battery emit gas?
+@@This will also occur if the cells are overcharged
+When a storage battery is being charged
+When begine of the charging cycle
+
+What is correct statement for sealed lead acid (SLA) batteries?, when the SLA battery is installed on the airpane
+@@It can be designed to alert the technician if a battery is failing
+It is necessary to purchase special battery maintenance equipment
+It must have a scheduled energy test performed on the bench
+
+What is purpose of the thermocouple?
+@@Is used to measure high temperatures
+Is used to measure low and medium temperatures
+Is used to measure outside air temperature
+
+The total resistance of the series circuit is:
+@@Equal to the sum of the individual resistors
+Smaller than the smallest resistor
+Smaller than the largest resistor
+
+The voltage in a series circuit of resistors:
+@@Is different in each resistor
+Is the same in each resistor
+The voltage drop in the smallest resistor equal to the voltage of sourse
+
+Two or more of voltage sources are connected in series:
+@@The total voltage is equal to the sum of the individual voltages
+The total voltage equals the difference between the individual voltages
+The total voltage is the same as the highest individual
+
+Which does law state that: the algebraic sum of all voltages around a closed path or loop is zero?
+@@Kirchhoff's voltage law
+Ohm's law
+Faraday's Law
+
+In a parallel circuit containing resistors:
+@@The voltage is the same in all branch of the circuit
+The sum of the voltage drops in each branch equals applied voltage
+The current is the same in each branch of the circuit
+
+The total resistance of the parallel circuit is:
+@@Obtained by taking the reciprocal of the sum of the reciprocals of the resistances of all the resistors connected in parallel
+Equal to the sum of the individual resistors
+Larger than the largest resistor
+
+Total resistor of 2 resistor (R1 =  500 Ω, R2 = 400 Ω) are conneted in parallel is:
+@@222.22 Ω
+450 Ω
+500 Ω
+
+Kirchhoff's current law of parallel circuit stated that:
+@@The sum of the currents into a junction or node is equal to the sum of the currents flowing out of that same junction or node
+The sum of the currents into a junction or node is greater than the sum of the currents flowing out of that same junction or node
+The sum of the currents into a junction or node is less than the sum of the currents flowing out of that same junction or node
+
+Ohm's law states that
+@@Current= voltage divided by resistance
+Resistance= current divided by voltage
+Voltage= current divided by resistance
+
+If two resistors of 5 and 10 ohm respectively are connected in series and the current in the 5 ohm resistor is 1A. What is the current in the 10 ohm resistor?
+@@1 amp
+It cannot be found without knowing the applied voltage
+1/3 amp
+
+A circuit consists of 3 ohm, 5 ohm and 12 ohm resistors in series, the current flowing in the 5 ohm resistor is 10 amps. What is the applied voltage?
+@@200v
+10v
+100v
+
+Total voltage of three 1.5V DC sourses are connected in series with the polarity in the same direction is:
+@@4.5V
+1.5V
+3V
+
+One circuit has 4 resistors (R1 = 10 Ω, R2 = 50 Ω, R3 = 100 Ω, R4 = unkown)  are connected in series and DC sourse = 100V. Current flows through R1 is 200mA. Determine the value of E4
+@@68V
+100V
+34V
+
+Five different value resistors all have the same voltage dropped across them, how are the resistors connected?
+@@In parallel
+In series
+Both in series and parallel
+
+Three different value resistors are conneted in parallel. Current flows through R1 is 20mA, R2 is 30mA. Total current, I = 75mA. Determine the value of Current flows through R2?
+@@25mA
+75mA
+50mA
+
+In the circuit shown the 24 volt battery has the ammeter indicates a current of 12 amperes. The value of the load resistance is:
+@@2 Ω
+4 Ω
+8 Ω
+
+There three different value resistors R1, R2, R3. If R1 and R2 are connected in parallel then connect to R3:
+@@The currents flow through each R1, R2 and R3 are not the same.
+The voltage drop in each R1, R2 and R3 are the same.
+The currents flow through each R1, R2 and R3 are the same.
+
+If the voltage across a resistor is doubled:
+@@The current is doubled.
+The current is halved.
+The current is not change.
+
+There is a 12-volt DC source in series with two resistors, R₁ = 10 Ω and R₂ = 30 Ω
+@@The current pass through R1 and R2 are the same
+The current pass through R1 is three times the current pass through R2
+The current pass through R2 is three times the current pass through R1
+
+There is a 12-volt DC source in series with two resistors, R₁ = 1 kΩ and R₂ = 3 kΩ
+@@The voltage drop at R1 is 1V
+The voltage drop at R1 is 9V
+The voltage drop at R1 is 12V
+
+How many voltage of DC source if the current pass through in series with two resistors, R₁ = 1 kΩ and R₂ = 3 kΩ, is 2 mA?
+@@8V
+4V
+6V
+
+What is the total voltage if three cells, each with a value of 1.5 volts, are connected in series, but one of the cells has been reversed?
+@@1.5V
+4.5V
+3V
+
+What is the source voltage, if there are two resistors are connected in series, one has a drop of 14 volts and the other has a drop of 10 volts
+@@24V
+14V
+12V
+
+Determine the voltage drop across R3 in a series circuit with resistors R1, R2 and R3. Given that the voltage drops across R1 and R2 are 12 V and 10 V, respectively, and the voltage source is rated at 50 V
+@@28V
+38V
+40V
+
+There is a 12-volt DC source in rarallel with two resistors, R₁ = 10 Ω and R₂ = 30 Ω
+@@The current passing through R1 is three times the current passing through R2
+The current pass through the R1 and R2 are the same
+The current pass through the R2 is three times the current pass through R1
+
+Determine the source voltage in a circuit including R1= 2 kΩ and R2 = 3 kΩ are connected in parallel and then connect to R3 = 1kΩ. Know, R3 carrying a current of 1 mA
+@@2.2V
+1V
+6V
+
+In a electrical circuit, under the given voltage:
+@@If the resistance is reduced, then the current will increase
+If the resistance is reduced, then the current will decrease
+If the resistance is reduced, then the current will not change
+
+The unit used to measure resistance is:
+@@Ohm
+Ampere
+Volt
+
+The symbol for the ohm is:
+@@Omega (Ω)
+Fara (F)
+Coulomb (C)
+
+Apply a voltage of 1 volt to 1 ohm of resistance, the resistance will limit the current flow is:
+@@1 ampere
+2 ampere
+zero
+
+How does the current flow aross the conductor, if the same size conductor is doubled in length?
+@@The current flow will be reduced by one-half
+The current flow does not change
+The current flow will be increased to double
+
+The resistance of a material is determined by:
+@@Material, length, area, and temperature
+Material, length, area and solid or hollow
+Length, area, temperature and solid or hollow
+
+If  a conductor that is 1 meter long with a cross-sectional area of 1 mm2 and has a resistance of 0.017 ohm, what is the resistance of 50m of wire from the same material but with a cross-sectional area of 0.25 mm2?
+@@3.4 Ω
+6.8 Ω
+7.5 Ω
+
+How is difference diameter of condutor A and conductor B if AWG size of condutor A larger than conductor B?
+@@Diameter of condutor A smaller than conductor B
+Diameter of condutor A larger than conductor B
+The same
+
+What is the "tolerance" of a resistor?
+@@Is the percentage variation between the marked value and the actual value of a resistor
+Is the percentage variation between the marked dimention value and the actual value of a resistor
+Is the percentage variation between the marked life time value and the actual value of a resistor
+
+How is the temperature coefficient of resistance for copper and Aluminum?
+@@The temperature coefficient of resistance for copper smaller than Aluminum
+The same
+The temperature coefficient of resistance for copper larger than Aluminum
+
+A Copper wire and  an Aluminium wire have the same diameter:
+@@The resistance of the Copper wire is smaller than  the Aluminium wire
+The resistance of the Copper wire is larger than  the Aluminium wire
+The resistance of the Copper wire and   the Aluminium wire are the same
+
+In a circuit containing three resistors of equal value connected in parallel, one resistor goes open circuit. The current in the other two: resistors will
+@@Increase
+Decrease
+Remain the same
+
+The resistance of a metallic conductor is:
+@@Inversely proportional to the cross-sectional area
+Proportional to the cross-sectional area
+Not depend on to the cross-sectional area
+
+If the voltage across a resistor is increased three times
+@@The current through this resistor is also increased three times
+The current through this resistor doubles
+The current through this resistor does not change
+
+What is correct statement for the insulator?
+@@Insulator is material that offer high resistance
+Insulator is material that offer low resistance
+Insulator is material which possess a large number of free electrons
+
+How does the resistance of a solid metallic conductor compare to a hollow metallic conductor with the same material and shape
+@@The solid metallic conductor has resistance as well as hollow metallic conductor
+The solid metallic conductor has resistance greater the hollow metallic conductor
+The solid metallic conductor has resistance smaller the hollow metallic conductor
+
+For the circular conductors, the conversion factors 1 mil as
+@@0.0254 mm
+0.3048 meter
+0.0001 mm
+
+When the Wire Gauge numbers (AWG numer) of a circular conductor increases
+@@The cross-sectional dimension of the circular conductor decreases
+The cross-sectional dimension of the circular conductor increases
+Theresistence of the circular conductor decreases
+
+What is a rheostat?
+@@Is a variable resistor used to vary the amount of current flowing in a circuit
+Is used to vary the voltage in a circuit
+used to measure capacitance, inductance and impedance
+
+Whats is perpose of colour bands on the body of resitor?
+@@To determine the resistance value
+To determine the maximum voltage value
+To determine the maximum current value
+
+Maximum number of colour band that is marked on the resistor is:
+@@6
+4
+9
+
+The colour of the first colour band (nearest the end of the resistor)  that is marked on the resistor is:
+@@Never be gold or silver
+Silver
+Gold
+
+What is principle of the thermistor?
+@@Negative temperature coefficient
+Positive temperature coefficient
+Temperature increases, the resistance of the thermistor increases
+
+A Wheatstone Bridge with known resistor values R₁, R₂, R₃ (the one end of R1 connect to one end of R3 and connected to source) and a voltmeter (Vg). A fourth resistor (Rx) can calculate as follow:
+@@Rx = R₁ / R₂ * R₃
+Rx = R₂ / R₁ * R₃
+Rx = R₁ * R₂ / R₃
+
+What controls the resistance of a photoconductive cell?
+@@Light intensity
+Ambient temperature
+Ambient humidity
+
+What does Ohm’s Law describe?
+@@Describe relationship between voltage, current, and resistance
+Describe relationship between voltage, current, and power
+Describe relationship between current, and resistance and power
+
+What happens to the resistance of a metallic wire if its length is doubled?
+@@The resistance doubles
+The resistance stays the same
+The resistance is reduced by half
+
+What is the source voltage if two resistors are connected in parallel, with one resistor of 1 kΩ carrying a current of 1 mA and the other carrying a current of 3 mA?
+@@3V
+4V
+0.75V
+
+What is the unit measurement for power?
+@@Watt (W)
+Joules (J)
+Coulombs (C)
+
+If a circuit has a known voltage of 24 volts and a current of 2 amps, then the power in the circuit will be:
+@@48 W
+24 W
+96 W
+
+The total power dissipated in both a series and parallel circuit is equal to:
+@@The sum of the power dissipated in each resistor in the circuit
+The largest power  in the circuit
+The smallest power  in the circuit
+
+A 48-volt source is required to furnish 192 watts to a parallel circuit consisting of three resistors of equal value. What is the value of each resistor?
+@@36 ohm
+4 ohm
+12 ohm
+
+If a circuit has a known current of 2 amps and a resistance of 100 Ω, then the power in the circuit will be:
+@@400 W
+200 W
+50 W
+
+Suppose 300 J of energy is consumed in 10 seconds, What would be the power in watts?
+@@30 W
+50 W
+3000 W
+
+Supply a voltage of 24 V to two resistors connected in series (each resistor of 6 Ω), the power in the circuit will be
+@@48W
+288 W
+2W
+
+There are two resistors of 100 Ω are connected in parallel, current across through each resistors is 1 A. The power in the circuit will be:
+@@200W
+100W
+50W
+
+There are two resistors of 100 Ω are connected in series, current across through each resistors is 1 A. The power in the circuit will be:
+@@200W
+100W
+50W
+
+How is the total power dissipated in both R1 and R2 in a series circuit calculated?
+@@It is equal to the sum of the power dissipated in each resistor in the circuit
+It is equal to half the sum of the power dissipated in each resistor in the circuit.
+It is equal to the difference of the power dissipated in each resistor in the circuit
+
+How is the total power dissipated in both R1 and R2 in a parallel circuit calculated?
+@@It is equal to the sum of the power dissipated in each resistor in the circuit
+It is equal to half the sum of the power dissipated in each resistor in the circuit.
+It is equal to the difference of the power dissipated in each resistor in the circuit
+
+How much energy does a 12-volt battery supply to a 6-ohm resistor over 2 hours?
+@@48 watt-hours
+144 watt-hours
+96 watt-hours
+
+If a circuit has a known voltage of 48 volts and a current of 2 amps, then the power in the circuit will be
+@@96 W
+24 W
+192 W
+
+How is power defined in a DC circuit?
+@@The amount of energy used or converted over time
+The amount of voltage stored over time
+The amount of current flowed over time
+
+What is most basic form of the capacitor constructed?
+@@Is constructed of two parallel plates separated by a non-conductor
+Is constructed of three parallel plates separated by a non-conductor
+Is constructed of two parallel plates touched
+
+What is the basic unit of capacitance?
+@@Farad (F)
+Coulomb (C)
+Omh (Ω)
+
+A capacitor with double the area will have:
+@@Double the capacitance
+Half the capacitance
+The same capacitance
+
+If capacitors are connected in series, what is the total capacitance?
+@@Is less than the smallest capacitor
+Is more than the smallest capacitor
+Is equal to the smallest capacitor
+
+If capacitors are connected in parallel, what is the total capacitance?
+@@Is the sum of the individual capacitances
+Obtained by taking the reciprocal of the sum of the reciprocals of the resistances of all the resistors connected in parallel
+Is less than the smallest capacitor
+
+One Farad is:
+@@1*10⁻⁶ F
+1*10⁶ F
+1*10⁻¹² F
+
+How does the current flow in the circuit during the time the capacitor is being charged or discharged?
+@@There is no current flow during the time of charge and discharge
+There is a current flow in the external circuit
+Current is present only during the time of charge
+
+What does the aircraft technician must be aware when using a capacitor?
+@@Must be aware of the voltage rating
+Must be aware of the thickness of the dielectric
+Must be aware of the plate area
+
+A capacitor with double the area and double the dielectric thickness will have:
+@@The same capacitance
+Half the capacitance
+Double the capacitance
+
+Three 12 microfarad capacitors are connected in parallel. The overall circuit capacitance is:
+@@36 microfarads.
+1 microfarads.
+4 microfarads.
+
+Which is correct statement?
+@@In a circuit containing only capacitance, the current reaches its maximum value ahead of the voltage and the current leads the voltage by 90°
+In a circuit containing only capacitance, the current reaches its maximum value ahead of the voltage and the current leads the voltage by 180°
+In a circuit containing only capacitance, the voltage reaches its maximum value ahead of the current and the voltage leads the current by 90°
+
+What do you do before removing the high voltage capacitor from the circuit?
+@@Always short the capacitor leads across one another
+Do full charge of capacitor
+Do 50% charge of capacitor
+
+How is the total capacitance in a series circuit of  three capacitors (C₁ = 10μF, C₂ = 5μF and C₃ = 8μF)?
+@@Less than 5μF
+Greater than 10μF
+Equal to 8μF
+
+What is the phase relationship between current and voltage when an alternating current source is applied to a capacitor?
+@@Voltage lags Current by 90°
+Voltage leads Current by 90°
+Voltage and current are in phase
+
+What is the phase relationship between current and voltage when an alternating current source is applied to a inductance?
+@@Voltage leads Current by 90°
+Voltage lags Current by 90°
+Voltage and current are in phase
+
+What happens when a capacitor is connected to a DC source and the switch is closed?
+@@A current flows briefly until the capacitor is fully charged
+The capacitor continuously allows current to flow like a resistor
+The polarity of the plates alternates continuously
+
+What is a key advantage of using mica as a dielectric in fixed capacitors?
+@@It allows higher voltage resistance and prevents arcing
+It improves the capacitor's ability to conduct current
+It increases the magnetic field strength between plates
+
+What happens when capacitors are connected in series?
+@@The total capacitance is less than that of the smallest capacitor
+The total capacitance increases beyond the largest individual capacitor
+The voltage across each capacitor is always the same
+
+What is Magnetism?
+@@Magnetism is an invisible force
+Magnetism is an visible force
+Magnetism is an object to attract certain non-metallic substances
+
+How is poles of the magnet called?
+@@North and South
+North and West
+East  and West
+
+What is correct stament for the magnetic field?
+@@Lines of force are separate, they remain parallel to one. another
+Lines of force are independent and cut each other
+Lines of force  from the South to North
+
+What is correct statement for Magnetic flux?
+@@Exist in all space around the magnet
+Occupies the space around the magnet with equal flux density
+Is more concentrated at the centre of bar magnet
+
+What is a temporary magnet?
+@@Wich quickly lose most of their magnetism when the external magnetizing force is removed
+Which retain their magnetism long after the magnetizing force has been removed
+Which is made of special alloys such as Aluminium-Nickel- Cobalt (Alnicos).
+
+What is the symbol for the intensity of the lines of force?
+@@Φ
+F
+λ
+
+What is aware when handling a magnet?
+@@Avoid applying direct heat, or hammering or dropping it
+Applying direct heat or hammering
+Applying direct heat and avoid dropping it.
+
+Two parallel lines of magnetic flux:
+@@Repel each other
+Attract each other
+Have no effect on each othe
+
+When does magnetic flux saturation takes place?
+@@The magnetised medium will accept no further lines of flux
+The magnetic field starts to reduce with increased magnetising force
+The magnetic field drops to zero
+
+What is way suppress eddy currents?
+@@Use of permeable laminations in the magnetic material
+Use the solid magnetic material.
+Do not have any way.
+
+Magnets lose their permanent magnetism until temperature is:
+@@Below 300°C
+Above 30°C
+Above 400°C
+
+Where should be the magnet stored?
+@@In a dry place
+In a high humidity place
+Under the water
+
+What happne when the magnetic field in a conductor is changed?
+@@Eddy currents develop
+Eddy currents reduce
+Eddy currents not change
+
+What happens to the molecular magnets in an unmagnetized iron bar when it is stroked with a lodestone?
+@@The molecular magnets within the iron bar rearrange themselves to align with the magnetic field of the lodestone
+The molecular magnets within the iron bar rearrange themselves to align with the magnetic field of the earth
+The molecular magnets within the iron bar rearrange themselves to parallel with the magnetic field of the earth
+
+The lines of force of the magnetic field of a magnet is
+@@Concentrated at the ends of the magnet
+Attracted one another
+Cross each other
+
+What happen when brought the north poles of two bar magnets near each other?
+@@They repel each other
+They attract each other
+They do not interact to each other
+
+What happens in a magnetic circuit when a magnetomotive force of one gilbert is applied to a material with a reluctance of one?
+@@It will cause one maxwell
+It will cause some lines of force
+It will cause 1/10 maxwell
+
+What happens when a magnetizing force is applied to a non-magnetized ferromagnetic material?
+@@The flux density (magnetic field) of this material increases
+The flux density (magnetic field) of this material decreases
+The flux density (magnetic field) of this material does not change
+
+Normally the north end of the compass needle would point to:
+@@The south pole of the earth's magnetic pole
+The north pole of the earth's magnetic pole
+The north pole of the earth's true pole
+
+What happen when the current flow through a conductor  increase?
+@@The magnetic field around the conductor increase
+The magnetic field around the conductor decrease
+The magnetic field around the conductor does not change
+
+What is method used to determine the direction of the lines of force when the direction of the current flow is known?
+@@The left-hand rule
+The right-hand rule
+The corkscrew rules
+
+When the direction of the current flow change:
+@@The direction of the lines of force change
+The direction of the lines of force does not change
+Amount of the lines of force change
+
+How is the magnetic field around the conductor created?
+@@When the electrons moving through the conductor
+When the protons moving through the conductor
+When the neutrons moving through the conductor
+
+How identify the polarity of the coil which has a current flow?
+@@By the left-hand rule
+By the right-hand rule
+By using current meter
+
+Some electromagnetic devices operate on the principle that
+@@An iron core held away from the centre of a coil will be rapidly pulled into a centre position when the coil is energized
+An copper core held away from the centre of a coil will be rapidly pulled into a centre position when the coil is energized
+An ceramic core held away from the centre of a coil will be rapidly pulled into a centre position when the coil is energized
+
+Which is law state: "The induced EMF or electromagnetic force in a closed loop of wire is proportional to the rate of change of the magnetic flux through a coil of wire"?
+@@Faraday
+Joule-Lenz
+Fleming
+
+When current flows through any conductor:
+@@A magnetic field starts to expand from the centre of the wire
+The lines of magnetic force grow from outward to center of the conductor
+The induced voltage is always in the direction with the direction of the current flow
+
+What is the basic unit of inductance?
+@@Henry (H)
+Omh (Ω)
+Fara (F)
+
+The magnetic lines of force around loops when the loops are brought close together:
+@@The magnetic lines of force between adjacent loops are in opposition with each other
+The magnetic lines of force between adjacent loops are the same dirction with each other
+The strength of the magnetic field will decrease
+
+What is the physical factor that affect inductance?
+@@The length of a coils
+The cross-sectional area of the conductor
+The length of the core which the coil is formed.
+
+What is the total inductance of inductors wich are connected in series?
+@@Is the sum of the individual inductors
+Is less than the smallest inductance
+Is less than the largest inductance
+
+The induced EMF or electromagnetic force in a closed loop of wire is
+@@Proportional to the rate of change of the magnetic flux through a coil of wire
+Revert proportional to the rate of change of the magnetic flux through a coil of wire
+Not depend to the rate of change of the magnetic flux through a coil of wire
+
+What happens to the magnetic lines of force when the loops are placed closer together?
+@@The strength of the magnetic field will increase
+The strength of the magnetic field will decrease
+The strength of the magnetic field does not change
+
+What is the total inductance when inductors are connected in series?
+@@Is the sum of the individual inductors
+Is less than the smallest inductance
+Is equal to the smallest inductance
+
+What is the total inductance when inductors are connected in parallel?
+@@Is less than the smallest inductance
+Is the sum of the individual inductors
+Is equal to the largest inductance
+
+Determine inductive reactance of an AC series circuit which has the inductance is 0.146 Henry and the voltage is 11 volts at a frequency of 60 cycles per second.
+@@Approximate 55 ohms
+Approximate 25 ohms
+Approximate 36 ohms
+
+Determine current of an AC series circuit which has the inductance is 0.146 Henry and the voltage is 110 volts at a frequency of 60 cycles per second.
+@@2A
+5A
+4A
+
+What does Faraday's Law of Electromagnetic Induction state?
+@@The induced voltage in a coil is proportional to the rate of change of magnetic flux through it
+The resistance of a coil determines the strength of its magnetic field
+A constant magnetic field induces a constant voltage
+
+What is the symbol used to represent inductance in a circuit?
+@@H
+F
+R
+
+Three inductors are connected in series with values L₁ = 10 mH, L₂ = 5 mH, and L₃ = 2 mH, what is the total inductance?
+@@17 mH
+1.25 mH
+1.75 mH
+
+What is inductive reactance?
+@@Is the opposition that an inductor presents to alternating current (AC) due to the constantly changing magnetic field around it
+Is the opposition that an inductor presents to direct current (DC) due to the constantly changing magnetic field around it
+Is the opposition that an inductor presents to alternating current (AC) or direct current (DC) due to the constantly changing magnetic field around it
+
+Which is the correct statement?
+@@The total reactance of inductors connected in parallel is the same way as the total resistance in a parallel circuit
+The total reactance of inductors connected in parallel is lower than the total resistance in a parallel circuit
+The total reactance of inductors connected in parallel is higher than the total resistance in a parallel circuit
+
+Why does the current in a coil not immediately reach its maximum value when voltage is first applied?
+@@Because a counter electromotive force (EMF) is induced, which opposes the change in current
+Because the coil’s resistance instantly increases with applied voltage
+Because inductance delays voltage buildup instead of current
+
+What does DC generator do?
+@@Transforms mechanical  energy into electrical energy
+Transforms electrical  energy into mechanical energy
+Transforms high electrical  energy into low electrical energy
+
+What is voltage induced in?
+@@Armature
+Feeling part
+Rotating brush
+
+Armature reaction is countered by:
+@@Two methods
+One method
+Three methods
+
+What are the major parts of a DC generator?
+@@A field frame, a rotating armature, and a brush assembly
+A field frame, a rotating armature, a brush assembly, and a cooling fan
+A field frame, a rotating armature, a brush assembly, and one constant speed driver
+
+Where is the commutator located?
+@@At the end of an armature
+At the forward of a field frame
+At the rear of a field frame
+
+How may types of DC generator are there?
+@@3
+2
+4
+
+Normally, The DC generator installed on the airplane has the output voltage is:
+@@14 or 28 volts
+115 volt
+110 Volt
+
+What does DC motor do?
+@@Transforms the DC electrical  energy into mechanical energy
+Transforms mechanical energy into the DC electrical energy
+Transforms high DC electrical  energy into low DC electrical energy
+
+How may types of DC motor are there?
+@@3
+2
+4
+
+What are factors affect to the output valtage of a DC generator?
+@@The speed of the conductor and the strength of the magnetic field
+The strength of the magnetic field only
+The speed of the conductor only
+
+When the plane of the loop of wire is parallel to the magnetic lines of force
+@@The voltage induced in the loop is maximum
+The voltage induced in the loop is minimum
+The current induced in the loop is minimum
+
+What are the primary elements of the armature assembly of a DC generator?
+@@The wire coils and the commutator assembly
+The wire coils and a permanent magnet
+The commutator assembly and a permanent magnet
+
+What is way to reduce ripple in the output voltage of the DC generator?
+@@Increasing number coils
+Decreasing number coils
+Increasing number brushs
+
+What is correct statement for compensation windings?
+@@Compensation windings are coils connected in series with the armature coils
+Compensation windings are coils connected in parallel with the armature coils
+Creates a small voltage drop across the armature
+
+What is correct statement for interpoles?
+@@Compensation windings are coils connected in series with the armature coils
+Compensation windings are coils connected in parallel with the armature coils
+Creates a small voltage drop across the armature
+
+How many functions of the field frame?
+@@2
+1
+3
+
+What is the material commonly used for brushes?
+@@High-grade carbon
+High-grade coppe
+Aluminium alloy
+
+How is friction of the commutator reduced?
+@@The commutator surface is highly polished as much as possible
+Grease must never be on a commutator
+Oil  must be used on a commutator
+
+What is a series wound DC generator?
+@@Is a generator which contains a field winding connected in series with the external circuit
+Is a shunt generator
+Is a compound wound generator
+
+When the rotation direction of generatoris reversed:
+@@The polarity of the output voltage is reversed
+The polarity of the output voltage does not change
+The output voltage is decreased
+
+What happen when a current flows in a wire that is placed in the field of a magnet?
+@@There is a force acts on the wire
+The wire will be repelled to the north pole of the magnet
+The wire will be repelled to the south pole of the magnet
+
+Which is correct statement?
+@@Motor speed can be controlled by varying the current in the field windings
+By reversing the direction of current flow in either the armature or the field windings, the direction of a motor's rotation may be not reversed
+When the field current is decreased, the motor speeds up because the counter EMF is increased
+
+What is a shunt DC motor?
+@@That the field winding is connected in parallel or in shunt with the armature winding
+That the field windings, consisting of a relatively few turns of heavy wire, are connected in series with the armature winding
+That there are two windings in the field
+
+The armature resistance of a small, 28-volt DC motor is extremely low, about 0.1 ohm. When the armature is connected across the 28-volt source. How many amperes of the current through the armature are there?
+@@28 amperes
+280 amperes
+56 amperes
+
+What device is used to convert alternating current, which has been induced into the loops of the rotating armature of a DC generator into direct current as it leaves the generator?
+@@A commutator
+An inverter
+A rectifier
+
+How transfer the electrical energy from the rotating loop of a DC generator to the stationary aircraft loads?
+@@Using two half cylinders (the commutator) and brushes
+Using slip rings and brushes
+Using a slip ring and two brushes
+
+What are the major parts in a practical motor?
+@@The field assembly, the brush assembly, and the end frame
+A field frame, a rotating armature, a brush assembly, and a cooling fan
+A field frame, a rotating armature, a brush assembly, and one constant speed driver
+
+What are the primary elements of the armature assembly of a DC motor?
+@@A laminated soft iron core, coils, and a commutator
+The wire coils, a rotatable steel shaft, and a permanent magnet
+The commutator assembly, a rotatable steel shaft, and a permanent magnet
+
+Where is the field frame of the DC motor located?
+@@Along the inner wall of the motor housing
+On a rotatable steel shaft
+on the armature assembly
+
+What is correct statement for electric motors?
+@@Motors built for intermittent duty can be operated for short periods only and, then, must be allowed to cool before being operated again
+Motors built for intermittent duty can be operated for long periods only and no need to cool before being operated again
+Motors built for intermittent duty can be operated for long periods only and, then, must be allowed to cool before being operated again
+
+How can the ripple in the output voltage of a DC generator be reduced?
+@@By using more loops, or coils and commutator segments
+By using the slip rings
+By using two half cylinders (the commutator)
+
+What is armature reaction in a DC generator?
+@@Armature reaction is a phenomenon that occurs as a result of magnetic flux produced by the armature windings when armature current flows
+Armature reaction is the process of converting AC voltage to DC voltage in a generator
+Armature reaction is the increase in voltage caused by the armature windings in a DC generator.
+
+What is correct statement for series DC motor?
+@@The field windings, consisting of a relatively few turns of heavy wire, are connected in series with the armature winding
+The speed of a series motor is not dependent upon the load
+A series motor will run at high speed when it has a heavy load
+
+In a shunt generator
+@@Any increase in load causes a decrease in the output voltage
+Any increase in load causes a increase in the output voltage
+All the current flowing in the external circuit passes only through the field winding
+
+How can the output voltage of a shunt generator be regulated?
+@@By using a rheostat inserted in series with the field windings
+By using a rheostat inserted in paralell with the field windings
+By using a rheostat inserted in series with the armature windings
+
+How can the direction of a DC motor's rotation may be reversed?
+@@By reversing the direction of current flow in either the armature or the field windings
+By interchange the wires connecting the motor to an external source
+By adding more armature windings to the motor
+
+One advantage of using AC electrical power in aircraft is.
+@@Space and weight can be saved, since AC devices, especially motors, are smaller and simpler than DC devices.
+AC electrical motors can be reversed while DC motors cannot
+The effective voltage is 1.41 times the maximum instantaneous voltage; therefore, less power input is required.
+
+What is alternating current?
+@@A.Is an electric current that periodically reverses direction and changes its magnitude continuously with time.
+A.It flows in a single direction steadily.
+A.Has no frequency or zero frequency
+
+What is correct statement?
+@@Whenever a voltage or current passes through a series of changes, returns to the starting point, and then again starts the same series of changes, the series is called a cycle
+The frequency is the number of cycles of alternating current per unit of time
+The time required for a sine wave to complete half of a cycle is called a period
+
+What is relationship between frequency and period?
+@@The period of a sine wave is inversely proportional to the frequency
+The period of a sine wave is proportional to the frequency
+The period of a sine wave is inversely proportional to two time of the frequency
+
+What is a wavelength?
+@@The wavelength is the distance that a waveform travels during a period
+The wavelength is the distance that a waveform travels from maximum to minimum of a cycle
+The wavelength is the distance that a waveform travels from zero to maximum of a cycle
+
+What is in phase condition?
+@@The two waveforms must go through their maximum and minimum points at the same time and in the same direction.
+The two waveforms go through their maximum and minimum points at different times
+The two waveforms must go through their maximum and minimum points at the same time but in difference direction.
+
+What is the peak value?
+@@Is the largest instantaneous value
+Is a value of voltage or current is the induced voltage or current flowing at any instant during a cycle
+Is the average of all the instantaneous values during one half cycle
+
+What is the effective value?
+@@Being equal to 0.707 times the maximum value
+Being equal to two times the maximum value
+Being equal to 0.5 times the maximum value
+
+A wave form having equal amplitude and time base is a.
+@@Square waveform
+Saw tooth
+Rectangular
+
+What happen when moving a conductor in a magnetic field?
+@@A voltage is induced in each side of the conductor.
+Nothing happen.
+The direction of the magnetic field is reversed.
+
+A conductor moving in the magnetic field, the sides of the conductor have exchanged positions:
+@@The induced EMF in each wire reverses its direction
+The induced EMF in each wire not change its direction.
+The resistance of the conductor decrease.
+
+The value of an induced  EMF depends on
+@@The number of wires.
+Cross area of wires.
+The number of wires and Cross area of wires.
+
+A sin wave has frequency is 400 Hz. How is period of wave?
+@@0.0025
+1.1
+0.66
+
+The 110-volt value given for alternating current supplied to homes is only 0.707 of the maximum voltage of this supply. The maximum voltage is
+@@155V
+77,77V
+220V
+
+What is law states: "The induced current caused by the relative motion of a conductor and a magnetic field always flows in such a direction that its magnetic field opposes the motion"?
+@@Lenz
+Faraday
+Coulomb
+
+What is rule can be used to determine the direction of the induced EMF?
+@@The generator left-hand rule
+The generator right-hand rule
+Corkscrew rule
+
+How is the value of an induced  EMF of a conductor loop when the plane of the conductor loop is paralleled with the magnetic field?
+@@Maximum Voltage
+Minimum voltage
+Between maximum and minimum voltage
+
+How is the induced EMF in the conductor when the rotation speed of the conductor in a magnetic field increase?
+@@Insrease
+Decrease
+Does not change
+
+The instantaneous value of the voltage varies from
+@@Zero at 0° to maximum at 90°, back to zero at 180°,  to maximum in the opposite direction at 270°, and to zero again at 360°
+Zero at 0° to maximum at 180°,  and to zero again at 360°
+Zero at 0° to maximum at 270°,  and to zero again at 360°
+
+What is the peak voltage of an alternating current with an RMS value of 110V?
+@@155V
+77V
+115V
+
+What is the RMS value of an alternating current with a peak voltage of 310V?
+@@220V
+380V
+115V
+
+How is relationship between two waveform, if Voltage source one (W1) starts to rise at the 0° position and voltage source two (W2) starts to rise at the 90° position
+@@W1 Waveform leads W2 Waveform
+W1 Waveform lags W2 Waveform
+Two W1 & W2 Waveforms differ by 180°
+
+What is the period of the output voltage of a 2-pole generator rotating at 3600 RPM?
+@@1/60 seconds
+60 seconds
+1/30 seconds
+
+What is the frequency of a voltage that increases from zero to a maximum positive value, decreases to zero, reaches a maximum negative value, and then returns to zero?
+@@The frequency of this voltage is 0.5 Hz
+The frequency of this voltage is 1 Hz
+The frequency of this voltage is 2 Hz
+
+The voltage increases from zero to a maximum positive value, decreases to zero; then increases to a maximum negative value, and again decreases to zero is called
+@@A cycle
+The frequency
+A period
+
+When the condouctor are formed into a loop, the loop conductor is now moving perpendicular to the flux and cuts a maximum number of lines of force
+@@A maximum voltage is induced
+A minimum voltage is induced
+The induced voltage is zero
+
+When a loop conductor is rotated in a magnetic field, if the speed of rotation is increasd
+@@The induced EMF is increased
+The induced EMF is decreased
+The induced EMF not depend on speed of rotation
+
+Several turns of a conductor are wrapped around a cylindrical form and the ends of the conductor are connected together to form a complete circuit, which includes a galvanometer, if the magnet is at rest inside the cylinder
+@@The galvanometer shows a reading of zero
+B.
+C.
+
+If an AC circuit consists of resistance only, what is the value of the impedance ?
+@@Equal to the sum of the  resistances
+Equal to the square root of  the sum of the squared resistances
+Equal to the square root of  the sum of the resistances
+
+What is unit for the measurement of impedance?
+@@Ohm
+Fara
+Henry
+
+What is letter represented for impedance?
+@@Z
+Q
+R
+
+What is correct statement?
+@@In a series AC circuit, resistance and reactance cannot be added directly
+When AC circuits contain resistance and either inductance or capacitance, the impedance is the same as the resistance
+Since the inductive reactance causes the current through the coil to lag the voltage by 180°
+
+The inductive reactance of the coil is computed:
+@@XL = 2ΠfL
+XL = ΠfL
+XL = 2fL
+
+The formula for impedance in a series circuit is the root of:
+@@R2  + (XL-XC)2
+R2 -(XL-XC)2
+R2  + (XC-XL)2
+
+A series circuit consisting of resistance and inductance connected in series is connected to a source of 110 volts at 60 cycles per second. The resistive element is a lamp with 6 ohms resistance, and the inductive element is a coil with an inductance of 0.021 henry. What is the value of the impedance and the current through the lamp and the coil?
+@@10 ohms
+5 ohms
+20 ohms
+
+A series circuit is illustrated in which a capacitor of 200 μf is connected in series with a 10-ohm lamp. What is the value of the impedance?
+@@16.4 ohms
+12 ohms
+24 ohms
+
+What is the impedance of a series circuit, consisting of a capacitor with a reactance of 7 ohms, an inductor with a reactance of 10 ohms, and a resistor with a resistance of 4 ohms?
+@@5 ohms
+3 ohms
+7 ohms
+
+A series circuit consisting of resistance and inductance connected in series is connected to a source of 110 volts at 60 cycles per second. The resistive element is a lamp with 6 ohms resistance, and the inductive element is a coil with an inductance of 0.021 henry. What is the value the current through the lamp and the coil?
+@@0.458333333333333
+0.416666666666667
+12A
+
+A 110-volt generator is connected to a load consisting of a 2 μf capacitance and a 10 000- ohm resistance in parallel. What is the value of the impedance?
+@@1315 ohms
+315 ohms
+2315 ohms
+
+If an AC circuit contains resistance and inductance, the formula for impedance in a series circuit is the root of:
+@@R2  + XL2
+R2  - XL2
+R2  *  XL2
+
+How are inductive and capacitive reactance affected by changes in the frequency of an alternating current?
+@@Decreasing the frequency decreases the ohmic value of the inductive reactance, but a decrease in frequency increases the capacitive reactance
+Decreasing the frequency increases the ohmic value of the inductive reactance, but a decrease in frequency decreases the capacitive reactance
+Decreasing the frequency increases the ohmic value of the inductive reactance and the capacitive reactance
+
+A 220-volt AC motor takes 50 amperes from the line, but a wattmeter in the line shows that only 9 350 watts are taken by the motor. What is the power factor (PF?
+@@85 0r 85%
+93,5 or 93,5%
+11 or 11%
+
+What is the impedance of a series circuit, consisting of a capacitor with a reactance of 10 Ω, an inductor with a reactance of 10 Ω, and a resistor with a resistance of 5 Ω?
+@@5Ω
+10Ω
+10Ω
+
+What does transformer do?
+@@Changes electrical energy of a given voltage into electrical energy at a different voltage level
+Changes electrical energy into mechanical energy
+Changes mechanical energy into electrical energy
+
+A transformer consists of two coils:
+@@These coils are not electrically connected
+These coils are electrically connected in series
+These coils are electrically connected in parallel
+
+A transformer can also be used with:
+@@AC voltage
+DC voltage
+Either AC or DC voltage
+
+What are basic parts of a transformer?
+@@An iron core, a primary winding, and a secondary winding
+An plastic core, a primary winding, and a secondary winding
+An copper core, a primary winding, and a secondary winding
+
+What is unit for the "reactive power" of a transformer?
+@@W
+VA
+Vah
+
+What is correct stament?
+@@The primary coils are connected in parallel across the supply voltage
+The primary coils are connected in parallel across the load
+The secondary coils are connected in parallel across the supply voltage
+
+What is a step-down transformer?
+@@The number of turns in the primary winding more than the number of turns in the secondary winding
+The number of turns in the primary winding less than the number of turns in the secondary winding
+The number of turns in the primary winding equal to the number of turns in the secondary winding
+
+What is a step-up transformer?
+@@The number of turns in the primary winding less than the number of turns in the secondary winding
+The number of turns in the primary winding more than the number of turns in the secondary winding
+The number of turns in the primary winding equal to the number of turns in the secondary winding
+
+A step-down transforme has the "turns" ratio is 5 to 1, if 40 watts of power are used in the primary coil. How is power developed in the secondary coil?
+@@40 W
+8 W
+200 W
+
+A step-down transforme has the "turns" ratio is 10 to 1 and the number of turn of the primary coil is 50 rounds. Power supply is 110V. How the secondary output voltage?
+@@11 V
+5.5 V
+55V
+
+What is perpose of the current transformer?
+@@is used in AC power supply systems to sense generator line current and to provide a current
+Is used in AC power supply systems to sense generator line output voltage and to provide a current
+Is used in AC power supply systems to sense generator line output voltage and to voltage information
+
+A transformer with no load, how will be the secondary current?
+@@No current
+Increase
+The same the primary current
+
+What is correct statement for a transformer?
+@@There cannot be more power in the secondary side of a transformer than there is in the primary
+An increase in voltage by the transformer must result in a increase in current
+With no load, secondary current will be equal the primary current
+
+What is the apparent power of a transformer if the input voltage is 115V, the real power is 2 kW, and the power factor is 1?
+@@2 kVA
+230 kVA
+17 kVA
+
+Why must the secondary of a current transformer not be left open during system operation?
+@@It may produce dangerously high voltage and overheat the transformer
+It will result in current backflow into the generator
+It will cause reverse polarity and system shutdown
+
+What can be used for filtering the output of a rectifier?
+@@Inductor
+Resistor
+Resistor and Capacitor
+
+For filtering the output of a rectifier:
+@@The capacitor is connected in parallel with the load
+The capacitor is connected in series with the load
+The capacitor is connected to input of the rectifier
+
+How many the basic categories of filters are there?
+@@3
+4
+5
+
+What is a low-pass filter?
+@@That passes low frequencies well
+That passes low voltage well
+That passes low current well
+
+A band −pass filter consists of:
+@@A high−pass filter and a low−pass filter in parallel
+A high−pass filter and a low−pass filter in series
+Tow high−pass filters in parallel
+
+What is a band-stop filter?
+@@That passes most frequencies unaltered, but attenuates those in a range to very low levels
+That passes most voltage unaltered, but attenuates those in a range to very low levels
+That passes most current unaltered, but attenuates those in a range to very low levels
+
+A generator which produces alternating current is
+@@AC generator
+DC generator
+DC generator or alternator
+
+How many phase of output current which a AC generator can produce?
+@@Single phase, two phase, three phase, or even six phase and more
+Single phase or four phases
+Four phases or six phases
+
+What is efficient of the brushless alternator?
+@@No brushes to wear down or to arc at high altitudes
+The brushes is difficult to wear down or to arc at high altitudes
+Easy to replace the brushes
+
+What is effective power of a generator?
+@@Watts (W)
+Volt-amperes (VA)
+Amperes - hours (Ah)
+
+The frequency of the alternator voltage depends upon
+@@The speed of rotation of the rotor and the number of poles
+The number of poles and mount of exciting current.
+The speed of rotation of the rotor and mount of exciting voltage
+
+A transistorized voltage regulator that used to control the alternator output consists mainly of:
+@@Transistors, diodes, resistors, capacitors, and, usually, a thermistor
+Transistors, diodes, inductor, and, usually, a thermistor
+Transistors, inductor, resistors, capacitors, and, usually, a thermistor
+
+What is function of the inverter?
+@@Is used to convert a portion of the aircraft's DC power to AC power
+Is used to convert a portion of the aircraft's AC power to DC power
+Changes electrical energy of a given voltage into electrical energy at a different voltage level
+
+How many basic types of inverters are there?
+@@2
+3
+4
+
+The shape of the output waveform of an AC generator is known as a:
+@@Sine wave
+Cosine wave
+Frequency wave
+
+What is method of excitaion when a AC generator is exited from DC generator which fixed on the same shaft with the AC generator?
+@@A direct connected, direct current generator method
+Ttransformation and rectification from the AC system method
+Integrated brushless type method
+
+What is correct statement for a single phase alternator?
+@@Has a stator made up of a number of windings in series
+The windings are separate from each other  and spaced between them 90°
+three single windings and spaced between them 120°
+
+In a delta connection
+@@the line voltages are equal to the phase voltages
+he line voltage is 1.73 times the phase voltage
+the line current is equal to the phase current
+
+The brushless alternator has:
+@@Rectifier bridge located inside the rotor shaft
+The pilot exciter field is mounted on the pilot exciter armature and is connected in series with the main generator field
+Rectifier bridge  mounted on the pilot exciter armature.
+
+A alternator has two pole, 3 600 rpm. It has a frequency is:
+@@60 cps
+25 cps
+400 cps
+
+What is method to regulate the output voltage of a generator?
+@@Regulate the strength of the exciting current
+Regulate the weight of the exciting winding
+Regulate the strength of the exciting current or Regulate the weight of the exciting winding
+
+If the overvoltage is detected by GCU:
+@@The overvoltage protection circuit of GCU is used to open the relay that controls the output for the field excitation
+The overvoltage protection circuit of GCU is used to close the relay that controls the output for the field excitation
+The overvoltage protection circuit of GCU is used to disconnect generator away from driver shaft.
+
+The constant speed drive enables the alternator:
+@@To produce the same frequency at slightly above engine idle rpm as it would at take-off or cruising rpm
+To produce the same output voltage at slightly above engine idle rpm as it would at take-off or cruising rpm
+To produce the same current at slightly above engine idle rpm as it would at take-off or cruising rpm
+
+How many primary units of the cylinder assembly of a hydraulic transmission that is mounted between the generator and the aircraft engine?
+@@2
+3
+3
+
+What is best way to control the output voltage of an alternator?
+@@Regulating the voltage output of a DC exciter, which supplies current to the alternator rotor field
+Regulating speed of the alternator rotor
+Regulating power of the load
+
+When AC generators are operated in parallel:
+@@Frequency and voltage must both be equal
+Frequency must both be equal but voltage is not
+Voltage must both be equal but frequency is not
+
+The AC exciter generator is used to control the AC output of the generator, If the output voltage is less than a reference voltage:
+@@Field strength of the AC exciter generator is increased
+Field strength of the AC exciter generator is reduced
+Field of the AC exciter generator is cut-off
+
+For the permanent magnet rotory inverter, to get the AC output voltage from a permanent magnet AC generator:
+@@The brushes are no needed
+The brushes are needed
+A commutator is needed
+
+An AC generator is producing the required voltage but a higher frequency than that required. To remedy this, the following action must be taken?
+@@Decrease the speed of the prime mover, and then increase the strength of the field
+Decrease the speed of the prime mover
+Decrease the speed of the prime mover, and then decrease the strength of the field
+
+An AC generator has four poles. To produce a frequency of 400Hz it must achieve a speed of
+@@12000 RPM
+8000 RPM
+6000 RPM
+
+The voltage of an AC generator:
+@@Rises to max in one direction then falls to zero then rises to max in the opposite direction
+Rises to max in one direction, falls to zero and rises in the same direction
+Rises to max in one direction and remains
+
+In a 3 phase generator, what angle are the phases to each other?
+@@120o
+180o
+90o
+
+What is type of the inverter that has an essentially AC generator and A DC motor in one housing?
+@@The rotary inverter
+The static inverter
+The hybrib inverter
+
+What happen if the output voltage of a generator is not within the specified tolerance?
+@@The GCU will control to open the generator line contactor.
+The GCU will control to close the generator line contactor.
+The GCU will control to close the generator line contactor if generator overload
+
+What is the most basic of the GCU functions?
+@@Is used to regulate the output voltage of the generator
+Is used to regulate current of the external load.
+Is used to regulate the output voltage of the generator and regulate current of the external load.
+
+What is main function of a constant speed drive which is installed between the engine and the alternator?
+@@To keep speed of alternator not change
+To keep output voltage of alternator not change
+To keep output current of alternator not change
+
+How does the overvoltage protection system in the GCU operate?
+@@The output of the overvoltage protection circuit is used to open the relay that controls the output for the field excitation
+The overvoltage protection system increases the field excitation output when the sampled voltage is too high
+The output of the overvoltage protection circuit is used to close the relay that increase the output for the field excitation
+
+When the GCU allows the logic output to close the generator line contactor, the generator voltage must be
+@@Within a close tolerance of the load bus
+Within a less than tolerance of the load bus
+Within a  than tolerance of the load bus
+
+What is correct statement for a delta connection generator?
+@@The voltages are equal to the phase voltages
+The voltage across each load connected across two phases is larger than the voltage across a single phase
+The voltage across each load connected across two phases is smaller than the voltage across a single phase
+
+What is correct statement for a WYE connection generator?
+@@The line voltage is 1.73 times the phase voltage
+The  phase voltage is 1.73 times the line voltage
+The  phase voltage is equal to the line voltage
+
+What is correct statement for a delta connection generator?
+@@The line current is equal to 1.73 times the phase current
+The phase current is equal to 1.73 times the line current
+The phase current is equal to the line current
+
+What is correct statement for a brushless generator?
+@@The exciter is a small AC generator with its field mounted on the main generator stator
+The AC output of the rotating exciter armature is fed directly into the single phase, full-wave, rectifier bridge located inside the rotor shaft
+The DC output from the rectifier bridge is fed to the pilot exciter amature
+
+The speed of rotation of an AC motor depends upon:
+@@The number of poles and the frequency of the electrical source of power
+The number of coils and the frequency of the electrical source of power
+the number of poles and the number of coils of the electrical source of power
+
+What are general types of AC motors used in aircraft systems?
+@@Induction motors and synchronous motors
+Induction motors and insynchronous motors
+insynchronous motors only
+
+A single-phase motor has:
+@@One stator winding
+Two stator windings
+three stator windings
+
+In the three phase AC motor has 6 poles and whose windings are energized by three AC voltages:
+@@if pole 1 be considered as a north pole, pole 4 will as a south pole
+if pole 1 be considered as a north pole, pole 4 will as a north pole
+if pole 1 be considered as a north pole, pole 2 and 6 will as a south poles
+
+If the exciting voltages have a frequency of 60 cps, the magnetic field makes 60 revolutions per second, or 3 600 rpm. This speed is known as
+@@The synchronous speed of the rotating field
+The indudtion motor
+The insynchronous speed of the rotating field
+
+Three phase motor with a rated speed of 1750 rpm, consider a 60 cycle:
+@@The motor has four poles per phase
+The motor has two poles per phase
+The motor has six poles per phase
+
+What is correct statement for the AC series motor?
+@@The AC series motor will operate on either AC or DC circuits
+An alternating current series motor is a three-phase motor
+The compensating winding of the AC series motor is connected in parallel with the armature
+
+What is correct statement for the synchronous motor?
+@@Since a synchronous motor has little starting torque, some means must be provided to bring it up to synchronous speed
+The synchronous motor is a self-starting motor and can start with full load
+The synchronous motor consists of a stator field winding this winding produces a static magnetic field
+
+A capacitor in a single phase AC motor is to:
+@@Provide a phase shift
+Prevent sparkes
+Increase current of the starting winding
+
+What is affect to the speed of an AC motor?
+@@Pairs of poles
+Field current
+Armature current
+
+What is the slip speed of an induction motor?
+@@A difference in speed between the rotor and the rotating field
+Is a average value of the rotor and the rotating field
+is proportion of the rotor and the rotating field
+
+What is an alternating current series motor?
+@@It resembles a DC motor in that it has brushes and a commutator
+Is a three-phase motor, but is not an induction or synchronous motor
+It resembles a DC motor in that it has no brushes and a commutator

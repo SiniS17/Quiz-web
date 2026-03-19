@@ -1,0 +1,119 @@
+What is the primary function of aircraft information systems?
+@@To store and efficiently access large quantities of information.
+To provide in-flight entertainment.
+To control cabin pressure.
+
+What was the initial storage medium used for aircraft information?
+@@Paper manuals.
+Digital computers.
+Microfilm.
+
+What is a disadvantage of using microfilm and microfiche?
+@@Special equipment is needed to view the images.
+They are lightweight.
+They are self-contained.
+
+What does EFB stand for in the context of aircraft information systems?
+@@Electronic Flight Bag.
+Electronic Flight Board.
+Emergency Flight Bag.
+
+What is one of the advantages of using electronic formats for maintenance information?
+@@Quick access to desired information.
+Increased paper weight.
+More manual labor required.
+
+What device can flight attendants use instead of a paper manual?
+@@A tablet.
+A laptop.
+A smartphone.
+
+What kind of updates are possible with digital information systems?
+@@Information can be electronically erased and rewritten.
+Only new printed pages can be added.
+Updates can only be made through paper revisions.
+
+What types of databases does the EFB system provide access to?
+@@Aeronautical charts and maintenance manuals.
+In-flight entertainment options.
+Cabin temperature control data.
+
+How do digital computers compare to printed books in terms of storage?
+@@They are compact and lightweight
+They require more physical space
+They are more difficult to access
+
+What allows the EFB to pinpoint the aircraft's position on an airport map?
+@@Data from multi-mode receivers (MMRs).
+Pilot input.
+Ground-based radar only.
+
+How does the 777 EFB receive wireless updates?
+@@Through a Terminal Wireless LAN Unit (TWLU).
+By using satellite connections.
+By manual downloads only.
+
+How do aircraft information systems improve the efficiency of accessing information?
+@@By allowing quick navigation using hyperlinks.
+By providing only printed materials.
+By requiring manual searching through documents.
+
+What type of information do Maintenance Information Systems typically store?
+@@Maintenance manuals and technical data.
+Passenger flight itineraries.
+In-flight entertainment options.
+
+How is the information in Maintenance Information Systems typically organized?
+@@By hyperlinks to the ATA 100 chapters.
+Randomly with no organization.
+Only by printed page numbers.
+
+What is one benefit of using laptops for maintenance information retrieval?
+@@They can be easily carried throughout the aircraft.
+They require a large physical footprint.
+They can only be used in the maintenance hangar.
+
+Why is it important for maintenance personnel to access different types of information?
+@@To effectively perform maintenance tasks.
+To entertain passengers.
+To monitor flight crew performance.
+
+How does the use of electronic formats in Maintenance Information Systems enhance the workflow for maintenance crews compared to traditional methods?
+@@Technicians can quickly access information with a few clicks instead of searching through paper manuals
+Electronic formats are less efficient and require more time
+Technicians rely on paper manuals for most of their tasks
+
+What kind of information do passenger cabin information systems provide?
+@@Safety procedures and checklists for cabin crew.
+Technical maintenance data.
+Engine performance metrics.
+
+Which of the following is NOT a type of publication accessed by Maintenance Information Systems?
+@@Illustrated parts catalogs
+Flight operation charts
+Wiring diagram manuals
+
+What is one feature common to all information systems in aviation?
+@@They must have a means of displaying and updating information.
+They can only store information in printed form.
+They do not need user controls for navigation.
+
+What is a key advantage of electronic information systems compared to older systems?
+@@Reduced weight and bulk.
+Increased dependence on paper.
+Higher maintenance costs.
+
+How do modern computers improve upon traditional paper storage methods?
+@@They can store and process large amounts of information compactly
+They require more physical space to store information
+They only store information in printed form
+
+In what way do Electronic Flight Bags (EFB) benefit flight crews?
+@@They allow access to various publications digitally.
+They are heavier than traditional manuals.
+They replace all physical equipment in the cockpit.
+
+How can updates to information stored in digital memory be made more efficiently than in traditional paper systems?
+@@Digital memory can be electronically erased and rewritten
+New pages must be printed and distributed
+The old information must be physically removed and discarded

@@ -1,0 +1,2044 @@
+What is the general properties of metals and their alloys?
+@@Hardness.
+Transparency.
+Insulating.
+
+What does the term 'ferrous' refer to?
+@@A group of metals that primarily contain iron.
+A group of metals that have low density.
+A group of metals that primarily contain aluminum.
+
+Which state is the metal in during the heat treatment process?
+@@Solid.
+Liquid.
+Gas.
+
+What is essential to check when selecting substitute metals for aircraft repair and maintenance?
+@@The appropriate Structural Repair Manual.
+The appropriate Minimum Equipment List.
+The appropriate Consumable Material List.
+
+Which type of materials is commonly subjected to heat treatment?
+@@Alloys
+A pure metal
+Plastics
+
+How to test for the identification of various ferrous metals?
+@@By performing a spark test.
+By measuring electrical conductivity.
+By using chemical analysis techniques.
+
+What is the hardness property of metal?
+@@The ability of a material to resist abrasion, penetration, cutting action, or permanent distortion.
+The ability of a material to resist deformation, stress without breaking.
+Permits it to be permanently drawn, bent, or twisted into various shapes without breaking.
+
+What is the primary characteristic of carbon steel compared to iron alone?
+@@It is vastly superior.
+It has a lower density.
+It is non-reactive.
+
+What is referred to as an alloy?
+@@A base metal to which small quantities of other metals have been added
+A base metal has been combined with non-metallic materials.
+A combination of reinforcement, such as a fiber surrounded and held in place by a resin.
+
+What is the maximum approximate percentage of carbon that can be added to iron to produce carbon steel?
+@@0.01
+0.05
+0.1
+
+What is the first and most important requirement when selecting substitute metals for aircraft repair?
+@@Maintaining the original strength of the structure.
+Maintaining contour or aerodynamic smoothness.
+Maintaining the original corrosion resistant properties of the metal.
+
+Which of the following is NOT a method of metalworking?
+@@Sintering
+Hot working
+Cold working
+
+Three methods of metalworking are:
+@@Hot working, cold working, and extruding.
+Weldling,brazing and sintering.
+Wet lay up, prepreg and filling.
+
+What process is used to soften metal?
+@@Annealing.
+Hardening.
+Rolling.
+
+What is the purpose of tempering metal after hardening it?
+@@To relieve strain and reduce brittleness
+To make the metal more conductive.
+To make the metal smoth and lighter
+
+What is the main cause of fatigue in aircraft metals?
+@@Repeated loading or vibrational stress.
+Chemical reactions with the atmosphere.
+Exposure to high temperatures.
+
+What is the main purpose of heat treatment?
+@@To change mechanical properties for specific uses.
+To decrease the weight of metals.
+To improve the electrical conductivity of metals.
+
+Heat treatment involves a series of operations that include which of the following processes?
+@@Heating and cooling.
+Melting and freezing.
+Grinding and polishing.
+
+How many numerical digits are used to designate plain carbon and alloy steels?
+@@A four or five-numeral series.
+A one or two-numeral series.
+A two letters and two-numeral series.
+
+Which of the following materials can be hardened by heat treatment?
+@@Plain carbon steel.
+Pure iron.
+Wrought iron.
+
+What is the purpose of the tempering process?
+@@Reduces the brittleness imparted by hardening.
+Produces a fine grained, soft, ductile metal without internal stresses or strains.
+Removes the internal stresses set up by heat treating.
+
+How do the properties of metal change after cold working?
+@@The strength and hardness are increased; but the ductility decreases.
+The elastic limit and ductility are increased; but the brittle decreases.
+No alteration of the grain shape or orientation is possible.
+
+What is a characteristic of the annealing process for steel?
+@@Heating the steel just above the upper critical point and then cooling it very slowly in the furnace.
+Heating the steel below the critical point then cooling it rapidly in oil, water, or brine.
+The metals are melted and poured into a mold of the desired shape.
+
+When is the hardness testing method performed?
+@@Prior to heat treatment.
+After heat treatment.
+While heat treatment.
+
+What measure is used by most hardness testing equipment to determine hardness?
+@@The resistance to penetration.
+The resistance to heat.
+The density of the metal.
+
+Which unit is commonly used to measure tensile strength?
+@@Pascal (Pa)
+Newton (N)
+Kilogram (Kg)
+
+What does tensile strength compare between different materials?
+@@Weight per unit area
+Weight only
+Weight per unit volume
+
+What is fatigue in materials?
+@@A weakness caused by repeated stress variations
+A chemical reaction inside metal
+A sudden failure due to overload
+
+What is the main purpose of an impact test?
+@@To check if a material can resist mechanical shock
+To determine the tensile strength of a material
+To measure the hardness of a material
+
+What inspections are essential at the beginning of damage assessment?
+@@Inspection of riveted joints and corrosion detection
+Inspection of paint condition and surface cleanliness
+Inspection of screw and nut condition in the affected area
+
+What may cracked or chipped paint around rivet heads indicate?
+@@Shifted or loose rivets
+Corrosion under the fuselage
+Over-applied paint
+
+Why are riveted repairs preferred over welding in ferrous aircraft structures?
+@@Because welding can harm heat-treated steel and is hard in some areas.
+Because welding is prohibited on all aircraft structural materials.
+Because riveted repairs require no special tools or procedures.
+
+Why is it important to distinguish between surface corrosion and structural corrosion?
+@@Because structural corrosion may affect strength or integrity.
+Because surface corrosion often requires part replacement.
+Because surface corrosion often spreads faster than structural corrosion.
+
+What may occur if surface conditioning is omitted after corrosion removal?
+@@Protective coatings may fail or corrosion may reoccurrence.
+No major effect, as long as corrosion is fully removed.
+It can reduce surface hardness, leading to fatigue failure.
+
+Protective coatings on aircraft structures act as:
+@@A physical and chemical barrier against corrosion
+A coating that helps reduce heat transfer to the structure
+A surface finish to reduce aerodynamic drag
+
+What does the term "nonferrous" refer to in terms of metal composition?
+@@Metals with elements other than iron as their main constituent.
+Metals that contain iron as a primary element.
+Steel contains a high percentage of carbon.
+
+What are the reasons for the limited use of copper in aircraft structures?
+@@Its great weight.
+Its electrical conductivity.
+Its resitance to corrosion.
+
+Which of the following is a type of nickel alloy?
+@@Monel.
+Conel
+Sonel.
+
+Which of the following materials is not a metallic alloy?
+@@1350-H19
+2024-T4
+5052-H32
+
+What are the advantages of magnesium alloys when used in aircraft structures?
+@@High strength-to-weight ratio.
+Low manufacturing cost.
+High electric conductivity.
+
+What are the disadvantages of magnesium alloys when used in aircraft structures?
+@@Magnesium dust and fine chips are ignited easily.
+Limited availability of raw materials.
+Magnesium is challenging to alloy with other metals.
+
+What are the characteristics of titanium?
+@@Nonmagnetic.
+Prone to corrosion.
+Easily moldable.
+
+Which of the following describes the crystal types found in titanium and titanium alloys?
+@@A, B and C.
+1, 2 and 3.
+I, II and III.
+
+What are the basic compositions of titanium manufactured for commercial use?
+@@Pure titanium and alloyed titanium.
+Hardened titanium and tempered titanium.
+Solid titanium and soft titanium.
+
+What is the reason for titanium's corrosion resistance?
+@@Stable oxide film on its surface.
+Its low melting point.
+Resistance to stress corrosion
+
+In aircraft, copper is primarily used in which of the following applications?
+@@Electrical systems.
+Hydraulic systems.
+Pneumatic systems.
+
+What are the characteristics of nickel alloys?
+@@Can be welded or easily machined.
+It is very malleable and ductile.
+Its high strength to weight ratio.
+
+What does the 2xxx aluminum type stand for?
+@@Copper alloys
+Pure aluminum alloys
+Unused alloys
+
+Which term refers to sheets that consist of an aluminum alloy core coated with a layer of pure aluminum on each side?
+@@Alclad.
+Monel.
+Bronze.
+
+What is the treatment of material that has been previously heat treated called?
+@@Reheat treatment
+Solution heat treatment
+Annealing treatment
+
+What is true about unclad heat-treatable alloys in terms of solution heat treatment?
+@@They can be solution heat treated multiple times.
+They can only be solution heat treated once.
+They cannot be solution heat treated.
+
+What is natural aging?
+@@Process of hardening at room temperature.
+Process of hardening at moderate temperatures.
+Process of hardening at water temperatures.
+
+What are the steps involved in the solution heat treatment process?
+@@Heating, Soaking, Quenching.
+Heating, Quenching, Aging.
+Soaking, Quenching, Precipitation hardening.
+
+What is artificial aging?
+@@Process of hardening at moderate temperatures.
+Process of hardening at room temperature.
+Process of hardening at water temperatures.
+
+What is the recommended temperature control range for solution heat treating to obtain specified properties in aluminum alloys?
+@@±10 °F
+±10 °K
+±10 °C
+
+When solution heat treating 2017 or 2024 sheet material, what is the maximum allowable time from removal from the furnace to quenching?
+@@10 seconds.
+30 seconds.
+1 minute.
+
+Reheat treatments of clad sheet is:
+@@One to three times.
+Unlimited.
+Not allowed.
+
+How does precipitation heat treatment strengthen an alloy?
+@@By hardening the alloy at moderate temperatures after quenching.
+By rapidly quenching the alloy using dry ice instead of water.
+By heating the alloy beyond its predetermined temperature.
+
+Why must alloy 2017 and 2024 rivets be used shortly after reheat treatment?
+@@They quickly harden, making them difficult to drive.
+They soften over time and become unusable.
+They need to be stored at high temperatures.
+
+What is the purpose of hardness testing in metal evaluation?
+@@To evaluate heat treatment results and check material properties
+To determine the shape of the metal part
+To measure the weight and chemical composition of the alloy
+
+What factor must be measured in order to determine the Brinell Hardness Number (BHN)?
+@@The diameter of the ball impression
+The time of applied load
+The depth of the indentation
+
+What does the Rockwell hardness test measure to determine the hardness of a material?
+@@The depth of the penetrator’s impression under specific loads
+The diameter of the penetrator used
+The time required for material deformation
+
+What is an advantage of using a Barcol hardness tester for aircraft maintenance?
+@@Accurate on hardened steel.
+Portable for testing soft alloys.
+Indenter can be ground if damaged.
+
+How is the condition of the Barcol indenter point checked?
+@@By pressing it into the test disk and checking the dial reading
+By measuring its remaining length
+By visually inspecting it under a microscope
+
+When should the diamond penetrator be used on a Rockwell hardness tester?
+@@When testing hard materials or when hardness is unknown
+When testing known soft materials
+When the hardness reads below C-22
+
+Why must the pure aluminum coating be removed before testing the hardness of clad aluminum alloy sheets?
+@@Because the coating prevents accurate hardness measurement of the base metal.
+Because the coating damages the hardness tester indenter.
+Because the coating increases hardness values artificially.
+
+What is a requirement for a test specimen used in the Rockwell hardness test?
+@@It must have smooth, parallel surfaces
+It must be curved to match the indenter shape
+It must be thick enough to avoid reading errors
+
+Which of the following tests is used on non-ferrous metals?
+@@Tensile testing
+Magnetic particle inspection
+Spark testing
+
+A structure shows reddish-brown dust and peeling paint. What is the most likely damage type?
+@@Corrosion
+Fatigue cracking
+Surface wear
+
+During an inspection, you notice smooth, shiny spots on a moving part's surface. What is the most likely cause?
+@@Surface wear
+Fatigue
+Corrosion
+
+If a rivet shank appears joggled and the holes in the sheet are misaligned, this indicates:
+@@Shear failure
+Bearing failure
+Corrosion failure
+
+When repairing a damaged structural component on an aircraft, what is the appropriate procedure if the exact repair is not found in the SRM?
+@@Refer to a similar repair or assembly used by the same aircraft manufacturer
+Fabricate a new repair using standard workshop practices
+Use general repair instructions from a different aircraft type of similar size
+
+Under what condition must a damaged aircraft skin panel be replaced rather than repaired?
+@@When the damage exceeds repairable limits or the area contains too many previous repairs
+The panel shows corrosion that can be treated with surface cleaning and protective coating
+Damage limited to the outer surface and does not penetrate the skin
+
+What must be done if a previous repair overlaps with a newly damaged area?
+@@Remove it and incorporate the area into the new repair
+Leave it in place to avoid weakening the skin
+Reinforce it with additional fasteners
+
+Which of the following must be done when preparing the damaged area for repair?
+@@Round off all square corners and smooth out any abrasions or surface dents
+Lightly sand the area surface and immediately apply protective topcoat
+Ensure all corners remain squared and sharp during trimming
+
+If a weaker alloy is used for repair due to material availability, what should be done?
+@@Use a heavier gauge to match strength
+Reduce the repair area to minimize stress
+Use a lighter gauge to reduce weight
+
+Why is the final inspection considered the most critical step in the structural repair process?
+@@It verifies compliance with airworthiness standards before the aircraft is returned to service
+It provides an opportunity to document technician performance for internal evaluation
+It allows inspectors to practice visual and functional checks in a real environment
+
+Advantages for using composite materials are:
+@@High strength to weight ratio and corrosion resistance.
+Great variety of materials, processes, and techniques.
+Use new technology methods and expensive processing equipment
+
+What do you need to wear to protect your lungs fromtiny glass bubbles and fiber pieces?
+@@A respirator with dust filters.
+A medical face mask.
+A regular cloth mask.
+
+What are the main forms of fiber reinforcements?
+@@Particles, whiskers, and fibers.
+Whiskers, foams, and particles.
+Films, tapes, and fibers.
+
+Laminated structure with a core center is called:
+@@A sandwich structure
+A monolithic structure
+A honeycomb structure.
+
+Applications of composites on aircraft include:
+@@Flight control surfaces.
+Landing gear.
+Air intake lip skin.
+
+What is the primary load carrying element of the composite material?
+@@A fiber.
+A matrix.
+A filler.
+
+What direction does 'warp' refer to in fabric?
+@@The longitudinal
+The horizontal
+The vertical.
+
+Fibre weave strength is greatest in the direction of the …
+@@Warp.
+Weft.
+Bias.
+
+Which types of fibers are commonly used in the aviation industry?
+@@Fiberglass, Kevlar@, cacbon fibers, boron fibers, ceramic fibers, lightening protection fibers.
+Fiberglass, Kevlar@, cacbon fibers, aramid fibers, ceramic fibers, lightening protection fibers.
+Fiberglass, cacbon fibers, aramid fibers, graphite fibers, lightening protection fibers.
+
+Kevlar® is:
+@@Aramid fibers.
+Glass fibers.
+Cabon fibers.
+
+What color is fiberglass?
+@@A white color
+A natural yellow color
+A gray or black color.
+
+What type of material is often used on the surface of an external composite component for lightning strike protection?
+@@Metal meshes
+Graphite cloth
+Aramid fibers
+
+Dry fiber is:
+@@The fiber material, such as carbon, glass, and Kevlar® have not been impregnated with a resin
+The fiber material is impregnated with a resin then stored in a freezer at a temperature below 0°F.
+Dry fiber is a type of prepreg material which consists of a combination of a matrix and fiber reinforcement
+
+Curing temperature of epoxy resin is:
+@@Vary from room temperature to approximately 180°C
+Vary from approximately 4°C to room temperature.
+Usually in excess of 290°C.
+
+Prepreg materials must be stored:
+@@In a freezer at a temperature below -18°C.
+For a long time at room temperature
+In a refrigerator at a temperature below 4°C.
+
+Adhesive are included:
+@@Film adhesive, paste adhesive, foam adhesive.
+Film adhesive, epoxy adhesive, paste adhesive.
+Patch adhesive, foam adhesive, paste adhesive.
+
+What does a sandwich structure consist of?
+@@Its simplest form of two relatively thin, parallel face sheets bonded to and separated by a relatively thick, lightweight core.
+Three or more layers of resin impregnated cloths "wet laminated" together to form a solid sheet facing or molded shape.
+Glass cloths impregnated with a polyester or a combination of nylon and phenolic resins.
+
+Which is the most common core material used for aircraft honeycomb structures?
+@@Aramid paper
+Carbon
+Ceramics
+
+Which types of core material are commonly used in the aviation industry?
+@@Honeycomb, foam, balsa wood.
+Honeycomb, fiberglass, film.
+Honeycomb, film, foam.
+
+Which forms are transparent plastics manufactured in?
+@@Monolithic and laminated
+Solid and liquid
+Coated and uncoated
+
+Which type of material is reinforced plastic?
+@@A thermosetting material.
+A thermoplastic material.
+A thermochromic material.
+
+What are the main classifications of plastics?
+@@Thermoplastics, thermosetting plastics.
+Natural plastics, synthetic plastics.
+Rigid plastics, flexible plastics.
+
+What are the characteristics of thermoplastic materials?
+@@Soften when heated and harden when cooled.
+Harden upon heating, and reheating has no softening effect.
+Cannot be reshaped once being fully cured by the application of heat.
+
+What are the characteristics of thermosetting materials?
+@@Harden upon heating, and reheating has no softening effect
+Can be heated until soft, and then formed into the desired shape.
+Can be reheated and reshaped any number of times without changing the chemical composition of the materials
+
+What is the main purpose of rubber in aircraft?
+@@To prevent the entrance of dirt, water, or air, and to prevent the loss of fluids, gases, or air.
+To increase the strength of the aircraft structure and the aerodynamic performance of the aircraft.
+To protect probes and antennas of aircraft from external damage.
+
+Which type of rubber is commonly used in aircraft?
+@@Synthetic rubber.
+Natural rubber.
+Recycled rubber.
+
+What is the main factor that affects the working life of mixed sealant?
+@@The class of sealant.
+The base compound.
+The accelerator.
+
+What are the main factors that affects the curing rate of mixed sealant?
+@@Temperature and humidity.
+Color of the sealant.
+The size of the container.
+
+What should be avoided when mixing sealant?
+@@Overly rapid or prolonged stirring and prevent entrapment of air in the mixture.
+Carefully weighed in accordance with the sealant manufacturer’s recommendations
+Test by smearing a small portion on a clean, flat metal or glass surface
+
+What is the term 'tack-free'?
+@@The point at which a sheet of cellophane pressed onto the sealant will no longer adhere
+A sealant is cured enough to permit a sealed joint to be pressure tested
+A sealant remains suitable for application after it has been mixed
+
+What is the characteristic of an isotropic material?
+@@It has uniform properties in all directions.
+It has varying properties in different directions.
+It has trong and stiff in the direction of the fibers.
+
+What is the characteristic of an anisotropic material?
+@@It has predominant mechanical properties in one direction.
+It has uniform properties in all directions.
+It is independent of the axis of testing.
+
+What is the role of a fiber in composite material?
+@@To act as the primary load-carrying element.
+To enhance thermal conductivity.
+Supports and bonds anisotropic material together.
+
+What is the role of a matrix in composite material?
+@@Supports and bonds anisotropic material together.
+To act as the primary load-carrying element.
+To enhance thermal conductivity.
+
+A plain weave fabric is:
+@@A bidirectional ply orientation.
+A unidirectional ply orientation.
+An one direction ply orientation.
+
+If the warp clock is not available on the fabric, the orientation is defaulted to zero as:
+@@The fabric comes off the roll.
+The width of the fabric across.
+The clockwise of the fabric.
+
+Which types of fiberglass are commonly used for structure on aircraft?
+@@E-glass and S-glass.
+C-glass and F-glass.
+D-glass and T-glass.
+
+What is characteristic of S-glass fibers?
+@@Has a higher strength than E-glass.
+Has high resistance to current flow.
+Has high resistance to impact damage.
+
+What are the characteristics of aramid fibers?
+@@General weakness in compression, hygroscopy and fuzz easily.
+Causing galvanic corrosion when used with metallic fasteners and structures.
+Difficult to use if the parent material surface has a contoured shape.
+
+What are the disadvantages of carbon fibers?
+@@Causing galvanic corrosion when used with metallic fasteners and structures.
+General weakness in compression, hygroscopy and fuzz easily.
+Difficult to use if the parent material surface has a contoured shape.
+
+What are the characteristics of cabon fibers?
+@@Very stiff and strong.
+Light weight, strong, and tough.
+High resistance to current flow.
+
+Three curing stages of resins are:
+@@A stage: The components of the resin (base material and hardener) have been mixed but the chemical reaction has not started; B stage: The components of the resin have been mixed and the chemical reaction has started; C stage: The resin is fully cured.
+A stage: The components of the resin (base material and hardener) have been separated; B stage: The components of the resin have been mixed but the chemical reaction has not started; C stage: The chemical reaction has started and the resin is fully cured.
+A stage: The components of the resin have been mixed but the chemical reaction has not started; B stage: The mixed resin begins to soften and flow as the temperature is increased; C stage: The chemical reaction has started and the resin is fully cured.
+
+What is the prepreg material?
+@@A combination of a matrix and fiber reinforcement which the resin has been advanced to a B stage level of cure for better handling characteristics.
+Fibers without any matrix components are impregnated with a resin just before the repair work starts.
+A combination of a resin and fiber reinforcement which the resin remains in a low-viscosity stage, allowing for easier application in various conditions.
+
+Comparison between dry fiber material and prepreg material:
+@@The process is messy and reinforcement properties are less than prepreg material properties.
+Dry fiber materials must be stored in a freezer at a temperature below 0°F to retard the curing process.
+The resin is then no longer in a low-viscosity stage, but has been advanced to a B stage level of cure for better handling characteristics.
+
+What are the disadvantages of paste adhesives compared to film adhesives?
+@@The bond line thickness is hard to control.
+Difficult to apply in some places.
+Only be stored at room temperature.
+
+Which adhesive can be stored at room temperature?
+@@Paste adhesive.
+Film adhesive.
+Foam adhesive.
+
+What is the primary role of the core in composite structures?
+@@Supports the face sheets against buckling and resists out-of-plane shear loads.
+It allows for increased flexibility, enabling them to bend.
+It has high impact resistance, making it suitable for areas prone to damage.
+
+What properties must the core material have to be effective in composite structures?
+@@High shear strength and compression stiffness.
+High thermal conductivity and light weight.
+Low cost and ease of production.
+
+Carbon fiber face sheets cannot be used with:
+@@Aluminum honeycomb core material.
+Titanium honeycomb core material.
+Aramid paper honeycomb core material.
+
+What shape are honeycomb core cells typically used for aerospace applications?
+@@Hexagonal
+Circular
+Triangular
+
+Ribbon direction of honeycomb core is:
+@@The direction parallel to the sheets bonded at specific locations.
+The direction perpendicular to the sheets bonded at specific locations.
+The direction along the length of the cell, known as thickness direction.
+
+Which of the following core types is used in panels with complex curves?
+@@Bellshaped core
+Overexpanded core
+Bisected hexagonal core
+
+What is an advantage of using a honeycomb construction?
+@@Increasing the core thickness greatly increases stiffness with minimal weight increase.
+It significantly increases weight while improving stiffness.
+Honeycomb construction provides better thermal insulation compared to solid structures.
+
+Which of the following is NOT a category of durability problems experienced by thin face sheets in honeycomb structures?
+@@Corrosion
+Liquid ingression
+Erosion
+
+Which of the following sounds is indicated with a discrepant area when performing tap testing on a structure?
+@@A dull or thud- like sound.
+A clear, ringing sound.
+A sharp, metallic sound.
+
+Which type of sound wave is used in ultrasonic inspection?
+@@A high-frequency sound wave.
+An audible wave.
+A low-frequency sound wave.
+
+Delamination, resin starved areas, resin rich areas, blisters, air bubbles, wrinkles, voids, thermal decomposition are included in
+@@Manufacturing defects.
+In-service defects.
+Not permited defects.
+
+What is considered the optimum fiber to resin ratio in composite materials?
+@@60:40.
+50:50.
+80:20.
+
+Where does delaminations form?
+@@On the interface between the layers in the laminate
+Production nonadhesion along the bondline between two elements.
+Inside the honeycomb core of the sandwwich structure.
+
+Where does debonds form?
+@@Production nonadhesion along the bondline between two elements.
+On the interface between the layers in the laminate.
+Inside the honeycomb core of the sandwwich structure.
+
+Environmental degradation, impact damage, fatigue, cracks from local overload, de-bonding, delamination, fiber fracturing, erosion are included in
+@@In-service defects.
+Manufacturing defects.
+Not permited defects.
+
+What are the methods for removing Skydrol (hydraulic fluid) from a saturated sandwich part?
+@@Removal of contaminated core and adhesive as part of the repair.
+Place a damaged but unrepaired part in the autoclave to dry.
+Clean with solvents such as acetone or isopropyl alcohol.
+
+Which durability problems are commonly experienced by honeycomb core structures, such as wing spoilers, fairings, flight controls and landing gear doors?
+@@Low resistance to impact, liquid ingression, and erosion.
+Improper cure or processing, contamination and tool drops.
+Substandard material, mislocation of holes or details.
+
+If all moisture isn't removed from the part, what can happen during the curing process?
+@@Disbonding may occur at the skin-to-core interface wherever trapped water resides.
+The part will cure faster because repair material cure at temperatures above the boiling point of water.
+Water can increase the part's flexibility, making it easier to handle during repair.
+
+How are composite aircraft parts typically treated to avoid erosion?
+@@They are coated with anti-erosion materials or covered by steel sheets.
+They are reinforced with additional layers of composite.
+They are left untreated as composites are naturally erosion-resistant.
+
+How can we protect external aircraft composite structures from UV light?
+@@Apply special UV primers and paints.
+Cover by regular fabric without any UV protection.
+Chrome plating on the surface of composite structures.
+
+Which defects cannot be detected with a visual inspection?
+@@Internal anomalies, such as delaminations, disbonds, and water ingestion.
+Resin starvation, resin richness and wrinkles or chip the composite surface.
+Dent, penetrate, abrade, lighting strike, overheat and burns.
+
+Which defects can be detected with a visual inspection?
+@@Resin starvation, resin richness, wrinkles, ply bridging, discoloration
+Delaminations, disbonds, and matrix crazing, voids in foam adhesive joints.
+Internal anomalies, such as delaminations in the corners, crushed core, blown core, water in core cells.
+
+Which tool is commonly used for audible sonic testing?
+@@Tap hammer.
+Bond tester.
+Pulse echo ultrasonic test equipment.
+
+What is a typical visual indication of a resin-starved area in a composite part?
+@@Visible fiber patterns on the surface
+Blisters and surface bubbles forming during curing
+Smooth surface with glossy appearance
+
+Which of the following is a common manufacturing flaw caused by improper layup or contamination during composite fabrication?
+@@Inclusion of backing paper or separation film between plies
+Fiber separation due to fatigue loading
+Blistering caused by prolonged UV exposure
+
+Why is fiber breakage considered critical in composite structures?
+@@Because fibers carry most of the structural load
+Because fibers are mainly used for electrical conductivity
+Because fiber breakage always leads to complete structural failure
+
+Which mechanical properties are most negatively affected by matrix cracks or microcracks?
+@@Interlaminar shear and compression strength
+Tensile strength along the fiber axis
+Thermal expansion and electrical conductivity
+
+Why are composite materials generally avoided for leading-edge surfaces on aircraft?
+@@Because their erosion resistance is lower than that of aluminum
+Because they tend to interfere with radar signals
+Because their weight is higher compared to conventional metals
+
+What is typically applied to composite parts used in areas with complex geometry to enhance durability?
+@@Erosion coating
+Heat-resistant primer
+Pore filler coating
+
+On which type of structure is tap testing generally most effective?
+@@Honeycomb sandwich panels with thin face sheets
+Solid aluminum wing spars
+Composite structures with more than ten plies
+
+Which of the following is a required condition for performing an accurate tap test on composite structures?
+@@Performed in a quiet area by experienced personnel
+Can be done in noisy environments with consistent tapping
+Easy to perform by any technician regardless of experience
+
+What does radiographic inspection primarily detect in composite parts?
+@@Changes in material density along the beam path
+Surface cracks perpendicular to the X-ray beam
+Fiber orientation variation across laminate thickness
+
+Why is radiographic inspection often considered impractical for use directly on aircraft structures?
+@@It involves radiation risks and needs special safety precautions
+It cannot detect defects inside composite panels
+It requires extensive surface sanding and chemical cleaning
+
+Which type of defect can thermal inspection typically detect?
+@@Debonds and near-surface impact damage
+Fiber misalignment in multi-layer composites
+Delaminations deep within thick laminates
+
+Where is a moisture meter commonly used in aircraft composite inspections?
+@@Nose radomes with honeycomb cores
+Wing spars and fuel tanks
+Rudder trailing edges
+
+Why is the moisture meter effective for detecting water in sandwich panels?
+@@Because moisture affects radio frequency signals in the structure
+Because water reflects X-rays better than air
+Because temperature difference highlights trapped water pockets
+
+Which NDI method is best suited for detecting water ingestion in composite sandwich structures?
+@@Moisture meter
+Dye penetrant
+Tap test
+
+Which inspection method is most effective for detecting overheating or burn damage in composite materials?
+@@Visual inspection
+Dye penetrant
+Infrared thermography
+
+Which NDI method is commonly used to detect lightning strike damage on composite structures?
+@@Visual inspection
+Ultrasonic bondtester
+Eddy current
+
+In automated tap testing using a solenoid, what indicates the presence of structural damage?
+@@A longer impact duration compared to a calibrated undamaged area
+A reduction in the number of impacts per second
+A significant drop in the recorded impact force
+
+What may cause misleading results during tap testing, even if the structure is not defective?
+@@Internal design features affecting sound pitch
+Excess humidity absorbed by the surface
+Variations in surface paint thickness
+
+Which frequency range is typically used in tap testing?
+@@10 Hz to 20 Hz
+100 Hz to 500 Hz
+1 MHz to 5 MHz
+
+Which NDI method can be used as an alternative to X-ray for detecting water ingress damage in composite sandwich structures?
+@@Infrared thermography
+Dye penetrant
+Tap test
+
+Which type of saw is considered the best for straight cuts in transparent plastics?
+@@Circular saws.
+Band saws.
+Handsaw.
+
+Why are electric motors not recommended for use with composite materials?
+@@Carbon is conductive and can cause an electrical short circuit.
+Carbon dust wears the bearings.
+They are not as strong as air driven tools.
+
+Peel plies are used to:
+@@Create a clean surface for bonding purposes.
+Seal the vacuum bag to the part or tool.
+Creates a path for the air and volatiles to escape from the repair.
+
+The bleeder ply is used to:
+@@Creates a path for the air and volatiles to escape from the repair.
+Provide a path for air to get out of the vacuum bag.
+Provides a tough layer between the repair and the atmosphere.
+
+Which of the following lists the correct order of the elevated temperature cure cycle?
+@@Ramp up → Hold or soak → Cool down.
+Hold or soak → Ramp up → Cool down.
+Ramp up → Cool down → Hold or soak.
+
+What are the three types of repairs mentioned in the damage classification process?
+@@Temporary repair, interim repair, permanent repair.
+Momentary repair, inteval repair, restore repair
+Wet layup repair, prepreg repair, core repair.
+
+What requirements should be followed when drilling composite materials?
+@@High speed and low feed rate.
+Low speed and low feed rate.
+Low speed and hight feed rate.
+
+Perforated parting film is used to:
+@@Allow air and volatiles out of the repair, and prevents the bleeder ply from sticking to the part or repair.
+Prevent the resins from bleeding through and damaging the heat blanket or caul plate if they are used.
+Provides a tough layer between the repair and the atmosphere.
+
+Which of the following devices are heat sources?
+@@Oven, heat blanket, heat lamp, hot air system.
+Autoclave, heat bonder and heat press forming.
+Autoclave, heat bonder and thermocouples.
+
+To provide a path for air to get out of the vacuum bag, the breather must contact:
+@@The bleeder.
+The peel ply.
+The repair plies.
+
+What does TCs (Thermocouples) consist of?
+@@A wire with two leads of dissimilar metals that are joined at one end.
+A wire with two leads made of similar metals connected at both ends.
+A wire made of a single metal lead connected at both ends
+
+Which of the following method is not a lay-up repair method?
+@@Using the same dimension plies taper layup in the sequence, then finished with an extra outer layer onto the sound laminate for some distance.
+Place the smallest ply first taper layup in the sequence, followed by successively bigger layers.
+Apply the largest ply first in the layup sequence, followed by successively smaller layers, and then finished with an extra outer layer.
+
+What is crucial during a repair operation of composite materials?
+@@Replace each damaged ply with a ply of the same material and orientation or an approved substitute.
+Replace each damaged ply with a ply of stronger material to ensure it is restored to its original condition.the damage .
+The damage plies may be replaced by thin alluminum sheets to ensure resistance to external impacts.
+
+What material is often used to repair Kevlar®?
+@@Fiberglass
+Carbon fiber
+Wood
+
+What should be done when performing core replacement and repair on one or both face plates?
+@@Water needs to be removed from the core before the part is repaired.
+Ensure that you fill epoxy resin to all damaged core cells.
+Layup plies cover the damage after removing the damaged core.
+
+How is resin injected into the delamination area using the resin injection repair method?
+@@Through one hole until it flows out the other hole.
+Through one hole only.
+Through separate holes that are not connected to each other.
+
+Why are the skins of radomes made thin?
+@@To prevent blockage of radar signals
+To make repairs easy in case of a bird strike.
+To avoid lightning strikes.
+
+Why should winshields not be rubbed with a dry cloth?
+@@It is likely to cause scratches and build up an electrostatic charge.
+The dry cloth must be soaked in gasoline, benzene, acetone or window cleaning sprays.
+It is harder to remove dirt and grease than with a soft cloth.
+
+The 90° to zero of fibers is:
+@@The fill direction.
+The warp direction.
+The load direction.
+
+Why must the breather contact the bleeder?
+@@To ensure proper airflow and allow for effective pressure regulation.
+To prevent the resins from bleeding through and damaging the heat blanket or caul plate.
+Excess resin that flows through the bleeder is collected in the breather.
+
+What type of drill bit should not be used to drill composite materials?
+@@Standard high-speed steel (HSS) drill bits.
+Diamondcoated material drill bits.
+Solid carbide drill bits.
+
+What type of fastener is least used for composite structures?
+@@Solid rivet.
+Blind rivets.
+Lock bolts fastener.
+
+What type of repair must be removed and replaced with another type of repair?
+@@A temporary repair
+An interim repair
+A permanent repair
+
+Which types of aircraft commonly use wood in their construction?
+@@Classic aircraft.
+Military fighter jets.
+Modern commercial aircraft.
+
+Which type of wood is commonly used in aircraft construction?
+@@Solid wood.
+MDF (Medium Density Fiberboard).
+Redwood.
+
+How can wood decay and dry rot be easily detected?
+@@By checking for dark discolorations or softening of the wood.
+By examining the grain pattern of the wood.
+By using a through-transmission Ultrasonic water yoke testing.
+
+What are the conditions for inspecting an aircraft constructed or comprised of wood components?
+@@The aircraft should be placed in a dry, well ventilated hanger.
+The inspection is carried out outdoors with natural sunlight.
+The inspection can be conducted in a damp environment.
+
+Why must a wooden aircraft structure be completely dry before inspection?
+@@Because swelling can prevent accurate assessment of glue joints
+Because moisture makes the wood too hard to inspect visually
+Because wet wood enhances the bond strength and hides cracks
+
+What is the main purpose of repairing a wooden structural component in an aircraft?
+@@To restore the structure’s original strength and function
+To match the weight and color of the original wood
+To make the damaged area look smooth and clean
+
+What is the purpose of using a 5:1 scarf slope ratio in a splayed patch repair on wooden aircraft structures?
+@@To provide sufficient bonding area for strength equivalent to the original material
+To ensure the patch can be installed without the need for clamps or pressure
+To reduce the size of the replacement patch and minimize added weight
+
+What must be applied over a surface patch after it is glued and dried?
+@@A fabric covering that overlaps the original surface
+A layer of polyurethane sealant
+A protective layer of aluminum foil
+
+What is the primary purpose of finishing on wood aircraft structures?
+@@To protect the wood from moisture and environmental damage
+To enhance surface smoothness and improve paint adhesion for better airflow
+To increase the aerodynamic load capacity of the structure
+
+Which of the following coatings is acceptable for finishing wood structures in U.S. aircraft maintenance?
+@@Varnishes conforming to TT-V-109 or coatings approved by the FAA or airframe manufacturer
+Any transparent coating that prevents UV and moisture damage
+High-gloss polyurethane used in automotive refinishing systems
+
+Which of the following is a valid reason for avoiding dark-colored exterior finishes on wooden aircraft?
+@@They can lead to internal overheating and loss of wood strength
+They increase surface abrasion under strong sunlight
+They trap moisture between paint layers and accelerate fungal growth
+
+When repairing accessible damaged plywood skin, how should the grain direction of the scarf patch be aligned?
+@@Parallel to the surface grain
+In a random orientation
+Perpendicular to the grain of the original skin
+
+What is the primary advantage of using fabric covering on an aircraft?
+@@Light weight.
+Durability.
+Flammability.
+
+What are the disadvantages of fabric coverings?
+@@Flammability and lack of durability.
+Weather resistance and strength.
+High cost and weight.
+
+What type of fabric covering is considered the standard for U.S. certificated aircraft today?
+@@Polyester
+Cotton
+Linen
+
+The process of recovering a fabric aircraft is:
+@@A major repair.
+A minor repair.
+An unnecessary repairs.
+
+Which type of dope adheres well to fabric but is highly flammable?
+@@Nitrate dope
+Butyrate dope
+Polyurethane coating
+
+What was added to butyrate dope to protect fabric from UV radiation?
+@@Aluminum solids
+Plasticizer
+Silver nitrate
+
+What is a cross coat in fabric finishing?
+@@Two coats applied at 90 degrees to each other
+A coat brushed diagonally across the fabric
+A double layer applied at opposite directions
+
+What is the function of rib lacing cord in fabric-covered wings?
+@@To attach the fabric to the wing ribs
+To seal the fabric edges
+To reinforce the trailing edge
+
+Which type of rib lacing cord provides a smoother finish when installed properly?
+@@Flat lacing
+Twisted wire
+Round cord
+
+Which component is glued or doped onto fabric-covered aircraft to allow future inspection of internal structures?
+@@Inspection rings
+Drain grommet
+Anti-chafe tape
+
+When is the fabric sealer applied during the fabric covering process on an aircraft?
+@@After the fabric is installed and heat shrunk
+Before the fabric is attached to the airframe
+Just before the final paint coat is applied
+
+What is the first protective coating applied to polyester fabric after it has been attached and heat shrunk on an aircraft?
+@@The sealer
+The topcoat
+The filler
+
+Why is the filler applied after sealing polyester aircraft fabric?
+@@To block UV rays and protect the fabric
+To help the paint stick better
+To waterproof the fabric completely
+
+Which environmental factor is most responsible for degrading polyester fabric over time?
+@@Ultraviolet (UV) radiation
+High humidity
+Temperature fluctuation
+
+What is the primary reason for choosing to re-cover an entire aircraft rather than repair a large damaged fabric area?
+@@The fabric has reached the end of its service life
+The damaged area is larger than one wing rib
+The aircraft is scheduled for repainting
+
+What is the function of a rejuvenator in dope-based fabric systems?
+@@It softens existing coatings and fills cracks
+It removes old coatings completely
+It tightens the fabric by additional shrinkage
+
+What type of finish cannot be rejuvenated?
+@@Polyurethane
+Butyrate dope
+Nitrate dope
+
+Where should the fabric sample for breaking strength testing be taken from?
+@@An upper surface exposed to sunlight
+The underside of the aircraft
+Any hidden area
+
+Corrosion is defined as:
+@@Electrochemical deterioration of a metal due to environmental reaction
+Mechanical deformation of a metal due to overload
+Thermal expansion of a metal due to temperature change
+
+Which of the following is an example of slow corrosion?
+@@Pitting corrosion
+Environmental embrittlement
+Stress corrosion cracking
+
+Corrosion converts metal into:
+@@A non-metallic compound
+A conductive oxide layer
+A harder metallic alloy
+
+Which of the following is required for electrochemical corrosion?
+@@An anode, a cathode, an electrolyte, and electrical contact
+Heat, vibration, lubrication, and pressure
+Two dissimilar metals in electrical contact exposed to oxygen
+
+Metals such as magnesium and aluminum are described as:
+@@Active metals that corrode easily
+Inert metals that do not react
+Noble metals that resist corrosion
+
+High temperature environments increase corrosion because they:
+@@Accelerate chemical reactions
+Decrease moisture content in the air
+Reduce chemical reaction rates
+
+Corrosion will spread more rapidly when metals are exposed to
+@@Higher temperature
+Cold climates
+Dry climates
+
+Which of the following groups represents the most common corrosive agents?
+@@Acids, alkalies, and salts
+Oils, fuels, and greases
+Oxygen, nitrogen, and hydrogen
+
+One way fungi contribute to corrosion is by:
+@@Retaining moisture on the material surface
+Eliminating oxygen around the metal
+Preventing chemical reactions on the surface
+
+Why is classification of corrosion by physical appearance considered a convenient method of identification?
+@@Because all corrosive attacks begin on the surface of the metal
+Because corrosion types can be determined by chemical composition
+Because corrosion severity depends only on environmental conditions
+
+Which form of corrosion significantly reduces the endurance limit of a metal subjected to cyclic stress?
+@@Corrosion fatigue
+Stress corrosion cracking
+Inter-granular corrosion
+
+Discoloration or general dulling of metal caused by exposure to elevated temperatures should be classified as:
+@@A thermal effect rather than corrosion
+General surface corrosion
+Uniform chemical surface attack
+
+A white or gray powdery deposit that blotches the surface, and reveals tiny holes after cleaning, is characteristic of:
+@@Pitting corrosion
+Heat discoloration
+General surface corrosion
+
+Why can corrosion occur between identical metals in a crevice?
+@@Because different local oxygen concentrations create an electrochemical potential difference
+Because identical metals cannot form stable oxide films
+Because variations in metal ion concentration establish anodic and cathodic areas
+
+Filiform corrosion is best described as:
+@@An oxygen concentration cell under organic coatings
+Galvanic corrosion between dissimilar metals
+Uniform surface corrosion at elevated temperatures
+
+If filiform corrosion is not removed and treated, it may lead to:
+@@Intergranular corrosion
+Stress corrosion cracking
+Uniform etch corrosion
+
+Inter-granular corrosion primarily affects:
+@@The grain boundaries of an alloy
+The entire exposed metal surface
+Areas subjected to mechanical wear
+
+Which type of corrosion is described as an advanced stage of inter-granular corrosion that causes surface lifting?
+@@Exfoliation corrosion
+Pitting corrosion
+Filiform corrosion
+
+Which condition is essential for galvanic corrosion but not required for concentration cell corrosion?
+@@Electrical contact between dissimilar metals
+Presence of an electrolyte
+Difference in oxygen concentration
+
+Which type of corrosion is not driven by an electrolyte?
+@@Fretting corrosion
+Galvanic corrosion
+Filiform corrosion
+
+Why does aluminum exhibit good corrosion resistance under most conditions despite being highly reactive?
+@@It forms a tightly adhering oxide film
+It is low in the electrochemical series
+It is immune to galvanic corrosion
+
+Why are galley and lavatory deck areas considered corrosion-prone zones?
+@@Food waste and moisture accumulation promote corrosion
+They contain dissimilar structural metals
+Cleaning chemicals gradually attack protective surface coatings
+
+Corrosion characteristics of thick structural parts may differ because:
+@@Heat treatment can produce compositional differences
+Larger sections dissipate heat more slowly in service
+Surface oxidation increases with material thickness
+
+What is the primary method of preventing corrosion in aircraft structures?
+@@Applying protective coatings and proper maintenance
+Using heavier corrosion-resistant alloys
+Increasing structural section thickness
+
+How can a hidden corrosion cell form in a bilge area?
+@@Trapped water settles beneath residual oil
+Oil reacts chemically with aluminum alloys
+Metallic debris creates localized galvanic action
+
+What is the most effective method of preventing galvanic corrosion between composite and metal structures?
+@@Providing a nonconductive layer between the materials
+Applying protective sealant to exclude moisture
+Selecting metals close together in the galvanic series
+
+Which of the following standards is not an international standard for fasteners?
+@@ICAO - The International Civil Aviation Organization
+ISO - International Organization for Standardization.
+SAE - Society of Automotive Engineers.
+
+How does a screw usually stay in place when fastening materials?
+@@By threading into the material
+By being welded
+By using glue
+
+What does a bolt usually require to function properly?
+@@Nut.
+Screw.
+Rivet
+
+How is the length of a countersunk screw measured?
+@@From the top of the head.
+From the bottom of the head.
+Length of the thread.
+
+What does the term "aircraft hardware" refer to in aviation?
+@@Fasteners and small items used in manufacturing and repair.
+Electronic and electrical devices installed in aircraft.
+Materials used in the construction of the main components of an aircraft.
+
+Threaded fasteners and rivets are usually identified by which of the following standards?
+@@AN, NAS, MS.
+ISO, NAT, IEE
+TDS, DIN, JIS
+
+Which of the following is not a bolt head style?
+@@Triangle
+Hex head
+Clevis
+
+Which type of load is the hex head aircraft bolt typically used for?
+@@Shear loads
+Compression loads
+Torque loads
+
+How can aircraft bolts typically be identified?
+@@By the code markings on the bolt heads.
+By the number of threads along its shank.
+By the nut installed with the bolts.
+
+Which tool is used to install lockbolts?
+@@Pull gun.
+Screwdriver.
+Torque wrench.
+
+How can aircraft nuts usually be identified?
+@@By their characteristic metallic luster or color.
+By their identifying marking.
+By the lettering that appears on nuts.
+
+A screw must not be used instead of a bolt in a load-bearing aircraft structure because:
+@@Screws generally have lower strength and lack a defined grip section.
+Screws are made of lighter materials that cannot be torqued properly.
+Screws are more prone to corrosion than bolts.
+
+What is the purpose of a washer?
+@@Prevents mechanical damage to the material.
+Prevents erosion of the structural members.
+Increase the grip length of the bolt.
+
+If internal threads are damaged, what is one common method of repair?
+@@Replacement helicoils.
+Applying lubricant.
+Polishing the threads.
+
+When the applied torque reaches the torque value indicated on the handle setting, the handle will …
+@@Automatically release.
+Lock.
+Tighten further.
+
+What is the main reason bolt holes must be drilled perpendicular to the surface?
+@@To provide full bearing surface for bolt head and nut.
+To allow the bolt to expand and seal the hole.
+To allow more flexibility in load distribution.
+
+What is the correct procedure when encountering an oversized hole in a critical structural member?
+@@Consult the manufacturer before any modification.
+Ream the hole to the next larger bolt size.
+Replace the structure with a factory-new part.
+
+Why do bolts not become swaged to fill holes like rivets do?
+@@Because they are only torqued, not driven.
+Because they have self-expanding shanks.
+Because they are too hard to deform into the hole like rivets.
+
+What is the main criterion used to determine the fit between a bolt and a hole in aircraft structures?
+@@The amount of friction when inserting the bolt into the hole
+The clearance between bolt head and washer
+The shaft and hole diameters used in manufacturing
+
+What is the correct method to remove a standard stud from a tapped hole without damaging the threads?
+@@Lock two nuts together and use two spanners to turn the stud out
+Drill into the center of the stud and extract it using a screw extractor
+Cut a slot in the stud and remove it using a flat-head screwdriver
+
+What is the primary function of a dowel pin in aircraft engine assemblies?
+@@To align adjoining parts with high precision
+To absorb vibration between two joined components
+To prevent bolts from loosening during engine operation
+
+Which type of torque wrench gives a clear “release” motion when the set torque is achieved?
+@@Ratchet type
+Flexible beam
+Rigid frame
+
+How is the torque value indicated when using a rigid frame torque wrench?
+@@The value is read visually on a dial or scale
+The handle breaks free once the torque is reached
+A digital display shows the value in real time
+
+How does the ratchet-type torque wrench indicate that the desired torque has been reached?
+@@The handle releases or “breaks” and moves freely
+The wrench stops turning automatically
+The user read a scale to check the torque value
+
+What must be done when using a drive-end extension on any type of torque wrench?
+@@Use a correction formula.
+Reduce the torque by 10%.
+Apply torque in two directions.
+
+What is the correct way to apply torque using a ratchet-type torque wrench?
+@@Pull steadily until the handle breaks and moves slightly.
+Pull steadily until resistance is felt, then stop.
+Pull in small jerks to reach the target value faster.
+
+How do screws generally differ from bolts in aircraft applications?
+@@Screws are made of lower strength materials and accept a screwdriver.
+Screws require precise torque wrench settings for proper installation.
+Screws have tighter thread fit and are stronger than bolts.
+
+Which screw type has the same strength as bolts of the same size?
+@@Structural screws.
+Machine screws.
+Self-tapping screws.
+
+What is the preferred bolt orientation during installation?
+@@Head on top or facing forward when possible.
+Nut on top to allow easy retorquing later.
+Bolt placed horizontally to ease alignment.
+
+What is the general rule for selecting bolt grip length?
+@@Grip length should match the material thickness.
+Grip length can exceed hole depth slightly to allow shim use.
+Grip length should match thread engagement length.
+
+What is the main purpose of safetying fasteners in aircraft?
+@@To prevent loosening due to vibration.
+To ensure fasteners remain torqued over time.
+To make assembly easier and faster.
+
+In which type of load application are pins primarily used in aircraft structures?
+@@Shear.
+Tension.
+Torsion.
+
+What is the maximum recommended number of widely spaced bolts to be safety wired together in a series using the double twist method?
+@@3
+5
+10
+
+What is the main principle behind the use of safety wire?
+@@It counteracts loosening by pulling in the opposite direction.
+It increases the torque on fasteners to prevent movement.
+It links fasteners so loosening one increases tension on the wire.
+
+When safety wiring closely spaced bolts, what determines the maximum number of bolts in a series?
+@@The length of the safety wire used.
+The torque value applied to each bolt.
+The size of the bolts.
+
+When aligning holes for safety wiring during installation, what should be done?
+@@Torque first and safety wire only if holes align.
+Loosen the fastener to adjust hole position.
+Overtorque slightly to match hole alignment.
+
+What is the correct length of the pigtail at the end of safety wire?
+@@1/4 to 1/2 inch.
+1 to 2 inch.
+1/2 to 1 inch.
+
+Which of the following rivets is not used in aircraft?
+@@Hardware store rivet.
+Blind rivet.
+Solid rivet
+
+Markings on the heads of rivets are used to classify:
+@@Their material and strength.
+Their installation method.
+Their head size.
+
+Why do rivets have different colors?
+@@To identify the protective surface coating.
+To indicate the material of the rivet.
+To show the strength of the rivet.
+
+What does the number 8 indicate in the rivet P/N MS20470AD5-8?
+@@The length of the rivet shank.
+The diameter of the rivet shank.
+The type of head on the rivets.
+
+What does the number 6 indicate in the rivet P/N NAS1097AD6-9?
+@@The diameter of the rivet shank.
+The length of the rivet shank.
+The type of head on the rivets.
+
+What unit is used to express the diameter of the rivet shank in the part number?
+@@32nds of an inch.
+16ths of a millimeter.
+8ths of a foot.
+
+What unit is used to express the length of the rivet shank in the part number?
+@@16ths of an inch.
+32nds of a millimeter.
+8ths of a foot.
+
+How far should the shank of the self-plugging (friction lock) blind rivet extend beyond the material thickness before the stem is pulled?
+@@3/64 inch to 1/8 inch
+1/32 inch to 1/16 inch
+1/16 inch to 1/4 inch
+
+What is the recommended method to reduce the chances of an incorrectly drilled rivet or bolt hole?
+@@Use a slightly smaller drill bit first, then enlarge to the correct diameter.
+Drill the hole at an angle to prevent elongation.
+Use a correct diameter drill bit first, then deburr the hole using a very large drill bit.
+
+When safety wiring widely spaced bolts using the double twist method, what is the maximum number of bolts that should be grouped together in a series?
+@@3
+4
+5
+
+What is the primary function of flexible hose in aircraft fluid systems?
+@@To connect moving parts with stationary parts in areas subject to vibration.
+To replace rigid metal tubing in all high-pressure applications.
+To act as a decorative covering for fluid lines.
+
+Why should titanium tubing and fittings NOT be used in oxygen systems?
+@@Titanium and titanium alloys are oxygen reactive.
+Titanium is too heavy.
+Titanium is not strong enough.
+
+What is the purpose of the sleeve in an AN flared fitting?
+@@To distribute shearing action and prevent vibration from concentrating at the flare edge.
+To distribute shearing action and prevent vibration from concentrating at the flare edge.
+To distribute shearing action and prevent vibration from concentrating at the flare edge.
+
+What is a key advantage of Teflon hose?
+@@Broad operating temperature range and compatibility with various fluids.
+Lower cost compared to synthetic rubber hoses.
+Limited shelf and service life.
+
+What is the main purpose of the identification markers on aircraft fluid lines?
+@@To clearly show the line's function, content, and potential hazards.
+To improve the aesthetic appearance of the aircraft's systems.
+To provide a way to track maintenance history on each line.
+
+Who is responsible for replacing identification markers on fluid lines when necessary?
+@@The aviation mechanic
+The aircraft manufacturer
+The Federal Aviation Administration (FAA)
+
+What is the purpose of a bulkhead fitting?
+@@To secure a fluid line to a bulkhead.
+To connect two pieces of tubing of different sizes.
+To seal a leak in a fluid line.
+
+What color are AN aluminum fittings?
+@@Blue
+Black
+Cadmium plated
+
+What is the unique feature of Cryofit fittings?
+@@They use a cryogenic sleeve that shrinks to form a seal.
+They are made entirely of titanium.
+They can be easily disassembled and reused.
+
+For what type of systems are flareless fittings primarily designed?
+@@High-pressure hydraulic systems
+Low-pressure pneumatic systems
+Fuel systems
+
+Which tool is used to install Permaswage fittings?
+@@Portable hydraulically powered tooling
+A standard wrench
+A hammer and chisel
+
+What type of fitting creates a permanent, virtually maintenance-free connection?
+@@Swaged fitting
+Flared fitting
+Beaded and clamp fitting
+
+What materials can be used to make springs?
+@@Carbon and alloy steel, composite
+Carbon and alloy steel, wood
+Composite, wood
+
+What is the characteristic properties of copper alloys when used as springs?
+@@High conductivity
+High corrosion resistant
+High temperature resistant
+
+What is Belleville spring also called?
+@@Cone disc spring
+Spiral spring
+Flat spring
+
+What is the basic way to store energy using springs?
+@@Compression, extension and torsion
+Compression, charge
+Charge, extension and torsion
+
+What types of alloys are commonly used for cold-rolled, flat springs?
+@@Carbon and manganese alloys
+Copper and aluminum alloys
+Titanium and nickel alloys
+
+What is a common application of spiral springs?
+@@Powering a wind-up clock
+Absorbing shock in vehicles
+Supporting heavy loads
+
+What is an application of flat springs in aircraft?
+@@Contact breaker point
+Shock absorber
+Energy storage
+
+What are rotary springs used for?
+@@Absorbs torsion and angular deflection
+Increase compression
+Reduce compression
+
+What type of spring is commonly used in reciprocating engine valves?
+@@Helical compression springs
+Leaf springs
+Helical tension springs
+
+What is the most common application of torsion bar springs?
+@@Automobile suspension
+Bicycle frames
+Aircraft landing gear
+
+Where are nickel alloys commonly found on aircraft?
+@@Engine
+Landing gear
+Wing
+
+What are the characteristic properties of high nickel alloys?
+@@High temperature resistant and corrosion resistant
+High conductivity and corrosion resistant
+High conductivity anh temperature resistant
+
+Which of the following statements is correct?
+@@A good bearing must be composed of material that is strong enough to withstand the pressure imposed on it and should permit the other surface to move with a minimum of friction and wear.
+A good bearing must be composed of material that is strong enough to withstand the pressure imposed on it and should permit the other surface to move with a maximum of friction and wear.
+A good bearing must be composed of material that is strong enough to withstand the pressure imposed on it and should permit the other surface to move with a minimum of friction.
+
+What loads can roller bearings taken?
+@@Only radial loads
+Only thrust loads
+Radial loads and thrust load
+
+What loads can tapered roller bearings taken?
+@@Radial loads and thrust load
+Only thrust loads
+Only radial loads
+
+What material are bearings made from?
+@@Bearings are made from low carbon steel containing nickel, molybdenum and chromium
+Bearings are made from hight carbon steel containing nickel, molybdenum and chromium
+Bearings are made from copper alloy, containing zinc and silver
+
+What loads must the bearing taken?
+@@Radial loads or thrust load or combination of the two
+Only thrust loads
+Only radial loads
+
+Which of the following statements is correct?
+@@Generally, a rotating shaft in a gas turbine engine is supported by a deep-groove ball bearing (radial and thrust loads) on one end and a straight roller bearing (radial loads only) on the other end.
+Generally, a rotating shaft in a gas turbine engine is supported by two deep-groove ball bearings (radial and thrust loads) on both end.
+Generally, a rotating shaft in a gas turbine engine is supported by two straight roller bearings (radial loads only) on both ends.
+
+What type of roller bearing usually used in the aircraft engine?
+@@Roller bearings type generally used in the aircraft engine are the straight roller and the tapered roller bearings.
+Roller bearings type generally used in the aircraft engine is the straight roller bearing.
+Roller bearings type generally used in the aircraft engine is the tapered roller bearings.
+
+Why is the ball bearing usually used in gas turbine engines to support one end of a shaft?
+@@Due to ball bearing can accept both radial and thrust loads.
+Because the ball bearing has a compact design and is highly durable
+Both answers above are correct
+
+How can the bearing surfaces move in relation to each other?
+@@The surfaces of the bearings slide or roll relative to each other
+The surfaces of the bearings slide relative to each other
+The surfaces of the bearings roll relative to each other
+
+What are master rod or crankpin bearings in some engines?
+@@Master rod or crankpin bearings in some engines are thin shells of steel, plated with silver on both the inside and the outside surfaces and with lead-tin plated over the silver on the inside surface only.
+Master rod or crankpin bearings in some engines are thick shells of steel, plated with silver on both the inside and the outside surfaces and with lead-tin plated over the silver on the inside surface only.
+Master rod or crankpin bearings in some engines are thick shells of steel, plated with copper on both the inside and the outside surfaces and with lead-tin plated over the silver on the inside surface only.
+
+What type of bearings are used in high power reciprocating aircraft engines and gas turbine?
+@@Straight roller bearings
+Ball bearings and plain bearings
+Plain bearings
+
+What is the purpose of Oilite bushings in plain bearings?
+@@To release oil to the bearing surface through heat generated by friction
+To reinforce the structural integrity of the crankshaft
+To prevent the bearing from rotating
+
+Why are ball bearings used in gas turbine engines?
+@@To support one end of a shaft (radial loads) and prevent axial movement (thrust loads)
+To reduce the need for lubrication
+To reduce the overall weight of the engine
+
+What are the two types of roller bearings commonly used in aircraft engines?
+@@Straight roller and tapered roller bearings
+Needle roller and conical roller bearings
+Spherical roller and cylindrical roller bearings
+
+In a gas turbine engine, what is the typical bearing configuration to support a rotating shaft?
+@@A deep-groove ball bearing on one end and a straight roller bearing on the other
+Tapered roller bearings on both ends
+Straight roller bearings on both ends
+
+In the worm gear, how is the mechanical advantage caculated?
+@@The mechanical advantage is equal to the number of teeth on the spur gear
+Mechanical advantage is twice the number of teeth on the spur gears
+The mechanical advantage is half of the number of teeth on the spur gear
+
+In the planetary sun gear system, what is responsible for driving the ring gear?
+@@Planetary gears
+Sun gear
+The power output shaft of the engine
+
+In the planetary sun gear system, How is the gear reduction rate caculated?
+@@The number of teeth on the ring gear is divided by the number of teeth on the sun gear.
+The number of teeth on the ring gear is divided by the number of teeth on the planetary gears.
+the number of teeth on the sun gear is divided by the number of teeth on the ring gear.
+
+What is the compound gear?
+@@Compound gear is a gear wheel which has more than one driving face, these faces may be formed integrally on one casting or forging, or it may comprise two or more gears bolted or splined together
+Compound gear is a gear wheel which has more than three driving face, these faces may be formed integrally on one casting or forging, or it may comprise two or more gears bolted or splined together
+Compound gear is a gear wheel which has two driving face, these faces may be formed integrally on one casting or forging, or it may comprise two or more gears bolted or splined together
+
+Which of the following statements is correct?
+@@Step-up drive is a drive through a gear train in which the speed of rotation of the output (driven) shaft is increased
+Step-up drive is a drive through a gear train in which the speed of rotation of the intput (driven) shaft is increased
+Step-up drive is a reduction gear in which the rev/mm of the output shaft is reduced while the torque is increased
+
+What type of gear does below definition refer to? -A gear which is positioned between the driving gear and one or more driven gears in a gear train, It may function as an idler gear or transmit drive through its own shaft.
+@@INTERMEDIATE GEAR
+IDLER GEAR
+COMPOUND GEAR
+
+What happens if the gears are meshed too high relative to the teeth?
+@@The load will be transmitted to the smallest portion of the tooth, breaking the teeth.
+The load will be transmitted to the largest portion of the tooth, breaking the teeth.
+The load will be transmitted to the largest portion of the tooth, reducing transmission efficiency
+
+What happens if the gears are meshed too tightly into the teeth of another?
+@@There will be no lash and the gears will not be properly lubricated
+The load will be transmitted to the smallest portion of the tooth, breaking the teeth.
+The load will be transmitted to the largest portion of the tooth, reducing transmission efficiency
+
+What standard must Chains used for aircraft purposes comply with?
+@@British Standard BS 228: 1984
+British Standard BS 228: 1994
+British Standard BS 268: 1994
+
+what is the disadvantages of flat belts and pulleys  in transmit the power from input to output shafts?
+@@Prone to slippage
+Prone to broken
+Prone to stuck
+
+Which discovery overcame the disadvantages of flat belts and pulleys
+@@V- section belts and serrated or 'toothed' belts and pulleys
+Adding carbon to the material used to make flat belts and pulleys
+Adding metal to the material used to make flat belts and pulleys
+
+what type of gear is used for change the plane of rotation?
+@@Bevel gears
+Worm gears
+Planetary gears
+
+Which of the following statements is correct regarding the meshing position of the gears?
+@@The ideal placement of the teeth is in the middle area
+The ideal placement of the teeth is in the bottom area
+The ideal placement of the teeth is in the top area
+
+What is the purpose of the clearance between between gear teeth at point of mesh?
+@@Clearance between gear teeth at point of mesh allow for expansion and lubrication.
+Clearance between gear teeth at point of mesh allow for noise reduction and friction
+Both answers above are correct
+
+Which of the following statements is correct?
+@@A belt and pulley system is composed of two or more pulleys joined by a belt.
+A belt and pulley system is composed of two or more pulleys joined by a chain.
+A belt and pulley system is composed of two or more pulleys joined by a cable.
+
+What are the advantages of cable linkage?
+@@Strong and light weight
+No need to adjust cable tension
+Never broken
+
+What type of cable is commonly used on aircraft?
+@@7x7
+7x8
+7x9
+
+Which of the following statements is true about cable characteristics?
+@@7x19 cable is more flexible than 7x7 cable
+7x19 cable has the same flexibility as 7x7 cable
+7x19 cable has less flexibility than 7x7 cable
+
+What is a disadvantage of cable systems?
+@@Thermal expansion and contraction
+Easy to break
+Expensive
+
+What is a cable tension tester?
+@@Tensiometer
+Conductivity meter
+Force gauge
+
+What is the purpose of a pulley?
+@@To guide cables and change the direction of cable movement
+To guide cables
+To change the direction of cable movement
+
+How to quickly connect or disconnect cable to the system?
+@@Use cable connector
+Use cable adapter
+Use turnbuckle
+
+Are the push rods adjustable in length?
+@@They can be adjusted at one or both ends
+They can only adjust one end
+They cannot adjust the length
+
+What is a pressure seal used for?
+@@Prevent excess air pressure loss
+Hinder movement of the cable
+To guide cable
+
+How many degrees can the fairleads deflect the cable alignment from a straight line?
+@@2 degree
+4 degree
+6 degree
+
+Cable tension regulators are used in which system on an aircraft?
+@@Flight control system
+Fuel system
+Hydraulic system
+
+What is the turnbuckle used for?
+@@Making minor adjustments in cable length and for adjusting cable tension
+Cable protection
+Hinder movement of the cable
+
+What is the cable drum used for?
+@@Trim tab system
+Primary flight control system
+Landing gear extension system
+
+How does a Bowden cable transmit mechanical force?
+@@By linear movement of the inner cable within a fixed outer housing
+By rotational movement of both inner and outer cables
+By hydraulic pressure inside the housing
+
+When is a torque tube installed in a control system?
+@@When angular or twisting motion is required
+When hydraulic pressure must be increased
+When linear motion is required over a long distance
+
+There are two definitions of a wire:
+@@Solid conductor and stranded conductor.
+Solid conductor and insulated conductor.
+Single conductor and stranded conductor.
+
+Wire harnesses are extensively used in aircraft to:
+@@Connect all the electrical components.
+Connect all the mechanical components.
+Connect all the hydraulic components.
+
+Because of in-flight vibration and flexing, conductor round wire should be stranded to:
+@@Minimize fatigue breakage.
+Minimize the possibility of arcing.
+Optimize strength capacity.
+
+The two most generally used conductors are:
+@@Copper and aluminum.
+Copper and silver.
+Copper and Nickel.
+
+Characteristics of copper wire:
+@@High conductivity; high ductile, high tensile strength.
+High conductivity; high resistance, high tensile strength.
+High resistance; high ductile, high tensile strength.
+
+Backshell is a part of:
+@@Connector.
+Terminal.
+Bundle.
+
+Inadequate bonding or grounding can lead to:
+@@Damage from lightning strike.
+Short circuits.
+Over voltages.
+
+0.003 Ohm means.
+@@3 miliohms.
+3 Ohms.
+3 kiloohm.
+
+Ties, lacing, and straps are used to.
+@@Secure wire groups or bundles.
+Secure lead bondings.
+Secure connectors.
+
+When using any type of wire stripper, hold the wire so that.
+@@It is perpendicular to cutting blades.
+It is parralel to cutting blades.
+It is perpendicular to stripper handles.
+
+Before wire can be assembled to connectors, terminals, splices,
+@@The insulation must be stripped.
+The insulation must be cleaned.
+The wire must be crimped.
+
+Copper wire can be stripped in a number of ways depending on:
+@@The size and insulation.
+The length and insulation.
+The size and conductor.
+
+The advantages of opening electrical wiring are:
+@@Ease of maintenance and reduced weight.
+Ease of access and reduced weight.
+Ease of maintenance and fail safe.
+
+The wiring harness could be covered by a shielding (metal braid) to avoid:
+@@Electro Magnetic Interference.
+Dirt and chemicals.
+Electrical chafing.
+
+Wires are often installed in bundles to:
+@@Create a more organized installation.
+Create a more organized area.
+Easy to remove and install.
+
+Wires and harness located in wheel well area must be:
+@@Inspected frequently and replaced at the first sign of wear.
+Inspected and replaced when broken.
+check and replace if necessary.
+
+Clamps on wire bundles should be selected so that:
+@@Snug fit without pinching wires.
+larger than the bundle diameter.
+Snug fit with the bundle.
+
+Wiring should be installed with sufficient slack so that.
+@@Bundles and individual wires are not under tension
+Bundles and individual wires arranged in a straight line.
+Bundles and individual wires are in tension
+
+Wiring should be installed with sufficient slack and should:
+@@Not exceed 1⁄2 inch deflection between support points.
+Not exceed 2 inch deflection between support points.
+Exceed 1⁄2 inch deflection between support points.
+
+When checking the insulation of the wire for damage after twisting. If the insulation is torn or frayed,
+@@Replace the wire.
+Permanent repair.
+Temporary repair.
+
+Splices in bundles must be staggered to:
+@@Minimize any increase in the size of the bundle,
+Increase in the size of the bundle,
+Optimize electrical conductivity.
+
+Splices should not be used  of a termination device within:
+@@12 inches.
+12 meters.
+24 inches.
+
+Wires and wire groups should be protected against chafing to prevent:
+@@Short circuits.
+Open circuits.
+Over voltages.
+
+Wiring must be routed away from high-temperature equipment and lines to prevent:
+@@Deterioration of insulation.
+Damaging the wire core.
+Discoloration of insulation.
+
+Conduits or flexible sleeving used to protect wiring must be equipped with drain holes to prevent:
+@@entrapment of moisture.
+Against chafing.
+Intrusion of foreign objects.
+
+When choosing to use clamps on coaxial RF cables.
+@@Clamps must be fit and snug enough
+Clamps must be larger than the coaxial cable.
+Clamps must be smaller than the coaxial cable.
+
+Wires and wire bundles must be supported by:
+@@Clamps or plastic cable straps.
+Clamps or metal cable straps.
+Spacers or plastic cable straps.
+
+Clamps on wire bundles should be selected so that:
+@@Snug fit without pinching wires.
+Larger than the bundle diameter.
+Smaller than the bundle diameter.
+
+The separation between wiring and movable controls.
+@@Must be at least 1⁄2 inch.
+Must be less than 1⁄2 inch.
+Must be fixed at 1⁄2 inch.
+
+One of the more important factors in the design and maintenance of aircraft electrical systems is:
+@@Proper bonding and grounding.
+Proper bonding and connecting.
+Proper marking and grounding.
+
+Which statement is correct?
+@@The resistance of all bond and ground connections should be tested after connections are made before re-finishing.
+The resistance of all bond and ground connections should be tested before performing connections .
+The resistance of all bond and ground connections should be inspected after connections are made before re-finishing.
+
+The bonding and grounding resistance of each connection should normally:
+@@Not exceed 0.003 ohm.
+Not exceed 3.0 ohm.
+Exceed 0.003 ohm.
+
+Inadequate bonding or grounding can lead to:
+@@Damage from lightning strike.
+Short circuits.
+Over voltages.
+
+0.003 Ohm means.
+@@3 miliohms.
+3 Ohms.
+3 kiloohm.
+
+Bonding jumpers  installed in such a manner that the resistance of each connection.
+@@Not exceed 0.3 ohm.
+Not exceed 3.0 ohm.
+Exceed 0.3 ohm.
+
+Ties, lacing, and straps are used to.
+@@Secure wire groups or bundles.
+Secure lead bondings.
+Secure connectors.
+
+When using any type of wire stripper, hold the wire so that.
+@@It is perpendicular to cutting blades.
+It is parralel to cutting blades.
+It is perpendicular to stripper handles.
+
+Before wire can be assembled to connectors, terminals, splices,
+@@The insulation must be stripped.
+The insulation must be cleaned.
+The wire must be crimped.
+
+Copper wire can be stripped in a number of ways depending on:
+@@The size and insulation.
+The length and insulation.
+The size and conductor.
+
+When Adjust automatic stripping tools. Must follow:
+@@Manufacturer’s instructions.
+AMM.
+ESPM.
+
+Each slot on the wire stripper is marked with:
+@@Wire size.
+Wire length.
+Wire gauge.
+
+For stripping wire with a hand stripper.
+@@Insert wire into exact center of correct cutting slot for wire size to be stripped.
+Insert wire into exact edge of correct cutting slot for wire size to be stripped.
+Insert wire into exact center of correct cutting slot for wire length to be stripped.
+
+Terminal strips in the aircraft electrical system should be inspected for:
+@@Loose connections, dirt and grease accumulation.
+Corrosion, dirt and grease accumulation.
+Loose connections, low resistance.
+
+Maximum number of terminal lugs connected to any one stud:
+@@4
+3
+2
+
+Crimping tools are used for:
+@@Crimping terminal lugs.
+Stripping wire.
+Connecting wire shields
+
+Broken wires can be emergency repaired by means of:
+@@Crimped splices,
+Welded splices.
+Crimped contacs,
+
+Coaxial cable precautions include:
+@@Never bend coaxial cable sharply.
+Use coaxial cable for a handle.
+Pull on coaxial cable not in a straight line.
+
+Which statement is correct?
+@@Coaxial cable can be severely damaged on the inside without any evidence of damage on the outside.
+Coaxial cables can be severely damaged and can be detected by general visual inspection.
+Coaxial cable can not be severely damaged on the inside because it is protected by a shield.

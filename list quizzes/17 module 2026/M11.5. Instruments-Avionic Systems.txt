@@ -1,0 +1,654 @@
+How many basic kinds of instruments in the commercial airraft?
+@@3
+2
+1
+
+ECAM stand for?
+@@Electronic Centralized Aircraft Monitoring
+Electronic Control Aircraft Monitoring
+Engine Centralized Aircraft Monitoring
+
+What is an original analog flight instrument operated by?
+@@By air pressure and the use of gyroscopes?
+By air pressure and the use of electricity?
+By air pressure and the use of accelemeters?
+
+What is the main purpose of altimeter?
+@@To display aircraft altitude
+To display aircraft attitude
+To display vertical speed
+
+What components are retained in aircraft electrical systems for redundancy?
+@@A pneumatic altimeter, a gyro artificial horizon, and a magnetic direction indicator
+A pneumatic altimeter, a gyro artificial horizon, an accelemeter
+A pneumatic altimeter, a gyro artificial horizon
+
+In a classic "T" arrangement on older aircraft, what is put on the top center position directly in front of the pilot and copilot?
+@@The artificial horizon
+The altimeter
+The airspeed indicator
+
+What is the purpose of engine instruments?
+@@To measure operation parameters of the aircraft's engine
+To measure air speed of the aircraft
+To display aircraft attitude
+
+What is the postion of Engine instrumentation often located?
+@@In the center of the cockpit
+In the left of the cockpit
+In the right of the cockpit
+
+What is the main parameter of engine instruments?
+@@Fuel/oil quantity, pressure, temperature indication and engine speed
+Fuel/oil quantity, pressure, temperature indication and aircraft altitude
+Fuel/oil quantity, pressure, temperature indication and air speed
+
+What are the components of a traditional navigation instrument?
+@@A clock and a magnetic compass
+A MEMS and a magnetic compass
+A gyroscopes and a clock
+
+Some aircraft instruments incorporate the use of radio signals to define a specific course while flying the aircraft en route from one airport to another. They are categorized as
+@@Navigation instruments
+Condition instruments
+Flight instruments
+
+Which aircraft instruments are designed specifically to direct the pilot's approach to landing at an airport?
+@@Navigation instruments
+Flight instruments
+Condition instruments
+
+GPS technology is built into some aircraft instrument packages. What is the purpose of this?
+@@For navigational purposes
+For entertainment purposes
+For rescue purposes
+
+What are the basic sensing mechanisms employed in aircraft instruments for pressure measurement?
+@@The diaphragm and bellows
+The diaphragm and aneroid
+The aneroid and bellows
+
+What kind of the fundamental pressure sensing mechanisms are used in aircraft instrument systems?
+@@Bourdon tube, the diaphragm or bellows, and the solid-state sensing device
+Bourdon tube, the diaphragm or bellows, transmitter senses
+The diaphragm or bellows, and the solid-state sensing device, transmitter senses
+
+What is the purpose of fixed end of a Bourdon tube?
+@@To attach pointer linkage
+For pressure entrance
+To regulate pressure
+
+What are principle of Solid-state microtechnology pressure sensors?
+@@The electrical output or resistance changes when pressure changes occur
+The electrical output or resistance no changes when pressure changes occur
+The electrical output or resistance changes when pressure no changes occur
+
+What is the standard pressure value (a standard temperature of 15 ˚C at sea level?
+@@29.92 inches of mercury ("Hg), 1 013.2 hectopascal (hPa), or 14.7 psi
+2992 inches of mercury ("Hg), 1 0132 hectopascal (hPa), or 147 psi
+299.2 inches of mercury ("Hg), 1 01.32 hectopascal (hPa), or 147 psi
+
+What the oil pressure is usually indicated?
+@@PSI
+hPa
+Hg
+
+EPR stand for?
+@@Engine pressure ratio
+Exhaust pressure ratio
+Engine pressure regulation
+
+What is the purpose of EPR gauge?
+@@To presents an indication of the thrust being developed by the engine
+To presents an indication of Engine oil pressure
+To presents an indication of Engine fuel pressure
+
+What components are used to monitor the vacuum developed in the system that actuates the air driven gyroscopic flight instrument?
+@@Gyro pressure gauge, vacuum gauge, or suction gauge
+Low oil pressure indicator
+Vertical speed indicator
+
+What are the most common pitot-static instruments?
+@@The altimeter, airspeed indicator, and vertical speed indicator
+The altimeter, airspeed indicator, and attitude indicator
+The altimeter, airspeed indicator, and navigation indicator
+
+How to prevent icing during flight in pitot-static tube?
+@@By heating elements
+By vibration
+By chemical
+
+What is the purpose of an alternate source of static air pressure?
+@@For emergency use
+For normal indicating
+For indicating on ground
+
+What are three most common pitot-static instruments?
+@@The altimeter, airspeed indicator, and vertical speed indicator
+The altimeter, airspeed indicator, and compass
+The artificial horizon, airspeed indicator, and vertical speed indicator
+
+What is the function of the pitot tube?
+@@To capture impact air pressure.
+To capture ambiant air temperature
+To capture static air pressure.
+
+Why are many pitot tubes heated during flight?
+@@To prevent icing of the tube
+To prevent insect from entering the tube
+To keep the temperature of the tube stable.
+
+How is pitot tube protected from icing during flight?
+@@Electrically heated.
+By using de-icing fluid.
+By hot air.
+
+What do static ports collect?
+@@Static air pressure information
+Dynamic air pressure information
+Impact air pressure information
+
+DADC stand for?
+@@Digital Altitude Display Controller
+Directional Air Data Computer
+Digital air data compoment
+
+What the input data  is provided to the Air Data Computer?
+@@Air pressures from the pitot-static systems
+Air pressures from the autopilot systems
+Air pressures from the cabin systems
+
+Why are air data computers (ADCs) commonly used in these aircraft?
+@@To compensate for air temperature and density.
+To calculate fuel consumption.
+To improve the aircraft's performance.
+
+What is the parameter of altimeter indicated?
+@@The height of the aircraft above a predetermined level
+The indicated air speed
+The vertical speed
+
+How to measure the aircraft's altitude by altimeters?
+@@By measuring the pressure of the atmospheric air
+By measuring the pressure of the cockpit and cabin
+By measuring the pressure of the cabin
+
+How can altitude can be determined?
+@@By measuring air pressure
+By measuring air temperature
+By measuring air humidity
+
+How to produced the indication known as vertical airspeed?
+@@By using differential pressure gauge that compares static pressure from the aircraft’s static system directed into a diaphragm
+By using differential pressure gauge that compares impact pressure from the aircraft’s static system directed into a diaphragm
+By using differential pressure gauge that compares static and impact pressure from the aircraft’s static system directed into a diaphragm
+
+How does an analog VSI work?
+@@By comparing static pressure inside and outside a diaphragm
+By measuring the difference between static and dynamic pressure
+By measuring the difference between static pressure and temperature
+
+What is a variometer primarily used in?
+@@Gliders and lighter-than-air aircraft
+Commercial airliners
+Helicopters
+
+Where is the vertical speed information often displayed on a primary flight display?
+@@Near the altimeter information
+Near the heading indicator
+Near the attitude indicator
+
+What is the primary purpose of an airspeed indicator?
+@@To measure the speed of an aircraft
+To measure the altitude of an aircraft
+To measure the direction of an aircraft
+
+What is the critical Mach number?
+@@The maximum speed an aircraft can reach without experiencing shock waves.
+The maximum speed an aircraft can reach.
+The minimum speed an aircraft needs to maintain to stay airborne.
+
+What is the purpose of the red and white striped pointer on a Mach/airspeed indicator?
+@@To indicate the aircraft's Mach number.
+To indicate the aircraft's heading.
+To indicate the aircraft's rate of climb or descent.
+
+How to produced the indication known as indicated airspeed?
+@@The relationship between the ram air pressure and static air pressure
+By airdata from static ports
+By airdata from pitot tubes
+
+What are components of selsyn system?
+@@A transmitter, an indicator, and connecting wires
+A transmitter, a receiver, and connecting wires
+A transmitter, an indicator, and rotatable contact arm
+
+What component is attached to the centered rotor shaft in the indicator of the DC selsyn system
+@@A permanent magnet
+An electromagnet
+A contact arm
+
+What are components of transmitter of DC selsyn system?
+@@A circular resistance winding and a rotatable contact arm
+A circular resistance winding and a pointer
+A rotatable contact arm and a permanent magnet
+
+How to move the pointer of indicator of DC selsyn system?
+@@The position of contact arm changes lead to the magnetic field in the indicator coils change
+The position of permanent magnet changes lead to the magnetic field in the indicator coils change
+The position of resistance winding changes lead to the magnetic field in the indicator coils change
+
+RPM stand for?
+@@Revolutions per minutes
+Ratio per minutes
+Rating per minutes
+
+What is the function of tachometer in reciprocating engine?
+@@To monitor engine power and to ensure the engine is operated within certified limits
+To monitor the speed of the compressor section of the engine
+To indicate the fuel pressure
+
+What is the function of tachometer in gas turbine engine?
+@@To monitor the speed of the compressor section of the engine
+To monitor engine power and to ensure the engine is operated within certified limits
+To indicate the fuel pressure
+
+What is the purpose of an accelerometer?
+@@To measures acceleration
+To measures air speed
+To measures altitude
+
+What is the principle of the accelerometer?
+@@The inertia principle
+The thermodynamic principle
+The principle of thermal expansion
+
+What is concept of AOA (angle of attack)  of the aircraft?
+@@The angle formed between the wing cord centerline and the relative wind
+The angle formed between the wing  and the relative wind
+The angle formed between the wing cord centerline and the fuselage
+
+What is the function of angle of attack (AOA) instrument?
+@@It helps the pilot monitor the AOA and control a stall occurs
+To ensure ice-free operation
+To displays the attitude information on a cockpit indicator
+
+Which type of the temperature measuring instruments can be found in the aircraft?
+@@Non-electric temperature indicator and electric temperature measuring indicator
+Non-electric temperature indicator and electric resistance thermometer
+Non-electric temperature indicator and thermocouple temperature indicators
+
+What types of thermometers are used in aviation to measure temperature?
+@@Non-electric temperature indicators and electrical thermometers
+Mercury thermometers and digital thermometers
+Only electrical thermometers
+
+What are the principle parts of the electrical resistance thermometer?
+@@The indicating instrument, the temperature-sensitive element (or bulb), the connecting wires and plug connectors
+The indicating instrument, the temperature-sensitive element (or bulb)
+The temperature-sensitive element (or bulb), the connecting wires and plug connectors
+
+What are the main components of an electrical resistance thermometer?
+@@Indicating instrument, temperature-sensitive element, connecting wires, plug connectors
+Bulb, battery, gauge, wire
+Thermometer, resistor, switch, gauge
+
+What is the typical temperature range for electrical resistance thermometers?
+@@*-70°C to 150°C
+*-70°C to 550°C
+550°C to 1050°C
+
+What is the purpose of the closed-end metal tube attached to the threaded plug in an electrical resistance thermometer?
+@@To protect the resistor element.
+To provide a connection to the indicator.
+To regulate the temperature of the resistor.
+
+What are the function of ratiometer temperature measuring systems?
+@@To measure engine oil, outside air, carburetor air, and other temperatures in many types of aircraft
+To measure EGT, outside air, carburetor air, and other temperatures in many types of aircraft
+To measure RMP, outside air, carburetor air, and other temperatures in many types of aircraft
+
+What are the advantages of a ratiometer over a other thermometers?
+@@The ratiometer is more stable and can deliver higher accuracy
+The ratiometer is more stable
+The ratiometer deliver higher accuracy
+
+EGT stand for?
+@@Exhaust Gas Temperature
+Engine Gas Temperature
+Exhaust Gas Tachometer
+
+What is a thermocouple?
+@@A circuit of two dissimilar metals joined at two junctions
+A circuit of two dissimilar metals joined at one junction.
+A circuit of two similar metals joined at two junctions.
+
+How does a thermocouple work?
+@@By measuring the voltage produced by the difference in temperature between the two junctions.
+By measuring the resistance change caused by the difference in temperature between the two junctions.
+By measuring the magnetic field produced by the difference in temperature between the two junctions.
+
+What are two common applications of thermocouples in aircraft?
+@@Measuring CHT and EGT
+Measuring OAT and EGT
+Measuring OAT and CHT
+
+In what range of temperature is the thermocouple commonly used?
+@@High temperature.
+Low temperature.
+Very low temperature.
+
+How is the temperature measured in an EGT or TIT system?
+@@Using multiple thermocouples spaced around the turbine casing or exhaust duct.
+Using multiple thermocouples located at the top of the turbine casing.
+Using multiple thermocouples located at the bottom of the turbine casing.
+
+What is the purpose of the over temperature warning light in the TIT indicator?
+@@To indicate when the engine is overheating.
+To signal a problem with the thermocouple system.
+To alert the pilot to a potential engine failure.
+
+TIT stand for?
+@@Turbine inlet temperature
+Total inlet temperature
+Turbine indicating temperature
+
+What is data provided by EGT indicating system?
+@@A visual temperature indication in the cockpit of the turbine exhaust gases as they leave the turbine unit
+A pressure indication in the cockpit of the turbine exhaust gases as they leave the turbine unit
+A visual temperature indication in the cockpit of the compressor as they leave the turbine unit
+
+How does a simple TAT system measure air temperature?
+@@By measuring the change in resistance of a platinum alloy element.
+By measuring the expansion of a metal coil.
+By measuring the pressure difference between two points.
+
+Which type of the magnetic direction indicating instruments can be found in the aircraft?
+@@Direct indicating magnetic compass, remote indicating compass, solid state magnetometers
+Direct indicating magnetic compass, remote indicating compass, gyroscopes
+Direct indicating magnetic compass, remote indicating compass, accelemeter
+
+What is the function of the magnetic compass in the aircraft?
+@@To indicates direction for the pilot
+To indicates attitude for the pilot
+To indicates altitude for the pilot
+
+What is the principle of the magnetic compass ?
+@@It takes advantage of the earth’s magnetic field.
+The thermodynamic principle
+The inertia principle
+
+What is swinging the compass?
+@@That is a deviation adjustment process
+That is a repair process
+That is a replacing process
+
+What is maximum allowable magnetic deviation of compass?
+@@10 degrees
+15 degrees
+5 degrees
+
+What is the main cause of magnetic deviation of magnetic compass?
+@@The local electromagnetic influence from metallic structures near the compass and operation aircraft’s electrical system
+The local electromagnetic influence from metallic structures near the compass
+The local electromagnetic influence from metallic structures near the compass and aircraft’s movement
+
+What is information indicated in a vertical magnetic direction indicator?
+@@A realistic reference of headings
+A realistic reference of wind direction
+A realistic reference of vertical speed
+
+Where remote indicating compass usually canbe found in the aircraft?
+@@Wing tip or vertical stabilizer
+Wing tip or horizontal stabilizer
+Vertical stabilizer or horizontal stabilizer
+
+What are main components of a radio magnetic indicator?
+@@A slaved gyro heading indication, solid pointer, hollow pointer
+A slaved gyro heading indication, solid pointer, hollow pointer, altitude indication
+A slaved gyro heading indication, solid pointer, hollow pointer, true air speed indication
+
+What are the functions of the gyroscopic instruments in the aircraft?
+@@They provide the pilot with critical attitude and directional information
+They provide the pilot with critical altitude and directional information
+They provide the pilot with critical attitude, alttitude and directional information
+
+What are main sources of power for gyroscopic instruments?
+@@A vacuum source, a pressure source and an electricity source
+A pressure source and an electricity source
+A vacuum source only
+
+Which types of Gyroscopic Instrument Systems can be found in the aircraft?
+@@Pressure driven Gyroscopic Instrument Systems and electrically-driven Gyroscopic  Instrument Systems
+Pressure driven Gyroscopic Instrument Systems
+Electrically-driven Gyroscopic  Instrument Systems
+
+What are the advantages of an electric gyroscopes over a pressure driven gyroscopes?
+@@It is powered by battery for a limited time if a generator fails or an engine is lost, contamination worries are reduces and saving weight
+It is powered by battery for a limited time if a generator fails or an engine is lost, contamination worries are reduces
+It is powered by battery for a limited time if a generator fails or an engine is lost
+
+What are most common flight instruments are controlled by gyroscopes?
+@@The attitude indicator, heading indicator, and turn needle of the turn- and-bank indicator
+The ground speed indicator, heading indicator, and turn needle of the turn- and-bank indicator
+The attitude indicator, heading indicator, and vertical speed indicator
+
+What are design factors gyroscopic rigidity depends upon?
+@@Weight for a given size, Angular velocity, Radius at which the weight is concentrated, Bearing friction
+Weight for a given size, Angular velocity, Radius at which the weight is concentrated, Sources of power
+Weight for a given size, Radius at which the weight is concentrated, Bearing friction
+
+Which are main characteristics of mechanical gyros?
+@@Gyroscopic rigidity and precession
+Gyroscopic rigidity and flexible
+Gyroscopic rigidity and compact
+
+MEMS stand for?
+@@Micro-Electro-Mechanical System
+Micro-Equip-Mechanical System
+Micro-Electro-Mechanical Solid
+
+What are main advantages of MEMS over mechanical gyros?
+@@Saving space and weight, increasing reliability with low cost
+Saving space and weight
+Increasing reliability with low cost
+
+What information of attitude indicator is indicated in the cockit?
+@@The pilot pitch and roll information
+The pilot pitch, roll and airspeed information
+The pilot pitch, roll and altitude information
+
+What is concept of horizon bar of the arttificial horizon?
+@@That is symbol, where the sky and ground meet
+That is symbol of the sky
+That is symbol of the ground
+
+What is main function of directional gyro?
+@@For direction
+For measuring altitude
+For measuring vertical speed
+
+What is the purpose of the ball in a turn-and-slip indicator?
+@@To indicate slip or skid during a turn
+To indicate the aircraft's bank angle
+To indicate the rate of turn
+
+What is primary purpose of an autopilot system?
+@@To reduce the work stain and fatigue of controlling the aircraft during long flights
+To indicates all necesssary for the pilot
+To controll the aircraft in bad weather
+
+AFCS stand for?
+@@Automatic flight control systems
+Autoflight flight control systems
+Automatic flight computer systems
+
+What components do three axis autopilots control?
+@@The ailerons, elevators, and the rudder
+The spoiler, elevators, and the rudder
+The ailerons, elevators, and the spoiler
+
+Which type of the instrument that displays the flight director commands is known?
+@@The flight director indicator (FDI), the attitude director indicator (ADI), the electronic attitude director indicator (EADI)
+The flight director indicator (FDI), the attitude director indicator (ADI)
+The attitude director indicator (ADI), the electronic attitude director indicator (EADI)
+
+Which type of radios voice is often used to communicate between an aircraft and air traffic control?
+@@VHF
+HF
+VLF
+
+VHF radios are relatively
+@@Short range radios
+Long range radios
+SATCOM radios
+
+The frequencies of VHF radios used range from:
+@@118.0 MHz to 136.975 MHz
+2 to 25 MHz
+1118.0 MHz to 1136.975 MHz
+
+Which type of radios voice is often use for long distance communication with an operator’s base station?
+@@HF
+VHF
+VLF
+
+The high frequency (HF) radios are used for:
+@@Long distance communication
+Short distance communication
+Medium distance communication
+
+AMU stand for?
+@@Audio management unit
+Auto management unit
+Audio moderm unit
+
+What frequency are used in VOR and ILS?
+@@VHF
+HF
+VLF
+
+ILS stand for?
+@@Instrument landing system
+Integrated landing system
+Infomantion landing system
+
+The frequencies of Glideslope of ILS system used:
+@@90 Hz and 150 Hz
+90 Hz
+150 Hz
+
+What does Marker beacons system include?
+@@A inner market beacon, a middle market beacon, a outer market beacon
+A inner market beacon, a middle market beacon
+A inner market beacon, a outer market beacon
+
+ILS marker beacon lights are.
+@@Blue, amber, white
+Blue, red, white
+Green, amber, white
+
+What does RNAV mean?
+@@Is a general term used to describe the navigation from point A to point B without direct over flight of navigational aids
+Is a general term used to describe the navigation from point A to point B follwing navigational aids
+Is a general term used to describe the navigation from point A to point B follwing informantion of gyroscopes
+
+How many types of radar are used by air traffic control (ATC)?
+@@2
+3
+4
+
+What is a Traffic Collision Avoidance System (TCAS)?
+@@A transponder-based air-to-air traffic monitoring and alerting system
+A transponder-based ground-to-air traffic monitoring and alerting system
+A traffic collision detection system for ground proximity alerts
+
+A radio altimeter is used to measure the distance from the aircraft to:
+@@The terrain directly beneath it
+The sea level
+The other aircrafts
+
+How many common types of weather aids used in an aircraft flight deck?
+@@3
+2
+4
+
+How is the emergency locator transmitter (ELT) activated?
+@@By excessive G-forces during a crash
+By pilot command from the cockpit only
+By low battery voltage
+
+ADS-B is considered in segments:
+@@ADS-B OUT and ADS-B IN
+ADS-B OUT, ADS-B IN and broadcasts
+ADS-B OUT; ADS-B IN and SGP receiver
+
+GPWS stand for?
+@@Ground proximity warning system
+Ground position warning system
+Ground proximity wiring system
+
+What are the main segments of GPS?
+@@The space segment, the control segment, and the user segment
+The space segment, the control segment
+The space segment, the user segment
+
+The BITE is stand for:
+@@Built In Test Equipment
+Backup Indication Test Equipment
+Built In Technical Equipment
+
+The BITE can be built in to:
+@@An individual LRU (Line Replacement Unit)
+Avionic Test Equipment
+All Aircraft System
+
+Avionics test equipment can be classified into:
+@@Two categories
+Three categories
+Four categories
+
+What are two categories of Avionics test equipment?
+@@Shop test equipment and portable test equipment
+Shop test equipment and onboard test equipment
+Onboard test equipment and portable test equipment
+
+The oscilloscope measures variations of a parameter as:
+@@A function of time and displays them graphically on a screen
+A function of frequency and displays them graphically on a screen
+A function of time and displays them digitally on a screen
+
+The TDR is often used to check for standing waves in:
+@@Transmission lines
+Reception lines
+Feedback lines
+
+What are the advantage of SSTDR technology for the technician?
+@@Ease of use, greater precision and portability
+Light weight, greater precision and portability
+Low cost, greater precision and portability
+
+The pitot-static system must be tested:
+@@Periodically
+One time per year
+One time per month
+
+What does the IFR 4000 tests?
+@@VHF NAV/ COM radio bands
+VHF COM radio bands
+VHF Radio NAV bands
+
+The Data bus analyzers are used to:
+@@Trouble shoot digital systems
+Detect failure of digital systems
+Communication in digital systems
+
+The calibration intervals for test equipment is:
+@@Varies
+Constant
+Not mention
+
+The calibration intervals for test equipment varies with:
+@@The type of equipment, environment, and use
+The manufacturer’s recommendation
+The Calibration Standards

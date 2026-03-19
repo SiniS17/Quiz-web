@@ -1,0 +1,2518 @@
+Newton's First Law of Motion, generally termed the Law of Inertia, states?
+@@Every body persists in its state of rest, or of motion in a straight line, unless acted upon by some outside force.
+Force is proportional to the product of mass and  acceleration.
+To every action there is an equal and opposite  reaction.
+
+What does Bernoulli's Theorem state that at any point in a flow of gas?
+@@The total energy remains constant.
+The static pressure is less than the dynamic pressure.
+The static pressure and dynamic pressure are equal.
+
+What is the Brayton cycle known as the constant?
+@@Pressure cycle.
+Mass cycle.
+Temperature cycle.
+
+How is the velocity of subsonic air as it flows through a convergent nozzle?
+@@Increases.
+Remains constant.
+Decreases.
+
+When a volume of air is compressed?
+@@No heat is lost or gained.
+Heat is gained.
+Heat is lost.
+
+What is TRUE with increasing altitudes?
+@@The ambient pressure decreases and the temperature decreases
+The ambient pressure decreases and the temperature increases
+The ambient pressure increases and the temperature decreases
+
+A Boeing 747 weighing 450,000 pounds needs to be raised 4 feet in the air so maintenance can be done on the landing gear. How much potential energy does the airplane possess because of this raised position?
+@@PE = 2,500,000 ft-lbs
+PE = 1,125,000 ft-lbs
+PE = 90,000 ft-lbs
+
+How is the volume during gas compression?
+@@Decreases.
+Increases.
+Constants.
+
+How is the volume during gas combustion?
+@@Increases.
+Decreases.
+Constants.
+
+Which term is related to the direction an object is moving?
+@@Velocity of object.
+Speed of object.
+Acceleration of object.
+
+How is the propulsive force obtained?
+@@By displacing air in a direction opposite.
+By pushing against the air behind.
+By pushing against the air behind.
+
+How are Rocket engines in space can produce thrust?
+@@By combusting the fuel and oxygen storaged itseft.
+By combusting the fuel and oxygen in atsmophere.
+By combusting the gasoline and oxygen in atsmophere.
+
+Which type of engines has high fuel consumption?
+@@Turbojet engines.
+Turbo-fan engines.
+Propeller engines.
+
+Which law relates to the kinetic, pressure, and potential energy in a fluid flow?
+@@Bernoulli's theorem.
+Newton's laws.
+Charles's law.
+
+What is TRUE with a divergent duct causes subsonic flow to decrease in?
+@@Velocity, increase pressure.
+Velocity, pressure remains constant.
+Pressure, increase velocity.
+
+Which of the following statements is true on a high bypass ratio turbofan?
+@@Both the compressor and combustion chamber are smaller than the turbojet equivalent.
+Both the compressor and combustion system are larger than their  turbojet equivalent.
+The compressor assembly is larger and combustion chamber smaller than their turbojet equivalent.
+
+In the dual axial flow or twin spool compressor system with a free power turbine, Nf would be an indication of?
+@@Free power turbine speed.
+Turbine thrust indication.
+First stage compressor speed.
+
+The 'core engine' or 'gas generator' is made up of the following components?
+@@Turbine, combustion chamber, compressor.
+Inlet, compressor, combustion chamber, turbine, exhaust.
+Compressor, turbine, exhaust, propelling nozzle.
+
+A modular constructed gas turbine engine means that?
+@@Its major components can be removed and replaced without disturbing the rest of the engine.
+All engines have a specific component layout.
+The engine is constructed by the vertical assembly technique.
+
+What are the fans of turbofan engine always driven by
+@@A turbine via a drive shaft
+A turbine via two drive shafts
+A compressor via a drive shaft
+
+The turboprop engines do not use on large A/C due to?
+@@It's hard to manage the rotation speed of propeller
+This engine is very loud
+This engine is not efficient
+
+Which engine has the greatest bypass ratio?
+@@Propfans engine
+Turbofan engine
+Turbojet engine
+
+The symbol for designating the speed of a LP compressor in a twin spool engine is?
+@@N1 speed.
+NG speed.
+N2 speed.
+
+A gas turbine engine comprises which three main sections?
+@@Turbine, compressor, and combustion.
+Compressor, diffuser, and stator.
+Turbine, combustion, and stator.
+
+What are the main problems of the turbojet engines?
+@@High fuel consumption and noise.
+High engine speed.
+High cost to manufacture.
+
+How is the air pressure at burner section?
+@@The air continues at constant pressure.
+The air continues increasing pressure.
+The air continues decreasing pressure.
+
+How does 1 pound of mass has a weight at sea level under standard conditions?
+@@1 pound.
+32.2 pounds.
+29.92 pounds.
+
+What is the force necessary to accelerate a mass of 50 pounds by 100 ft/sec2 ?
+@@155 lb.
+5000 lb.
+155 lbs.
+
+How is the net thrust of the turbojet engine if the speed of the aircraft is increased with the RPM remains constant?
+@@The net thrust is almost constant
+The net thrust will be increased.
+The net thrust will be decreased.
+
+What does the main factor consider when designing an engine?
+@@Maximum turbine temperature.
+Maximum tip speed.
+Maximum fuel consumption.
+
+How is the gas pressure in the combustion chamber of turbin engine operating?
+@@The pressure remains relatively constant.
+The pressure remains relatively increasing.
+The pressure remains relatively decreasing.
+
+Which is NOT the important factors affecting the thermal efficiency in turbin engines?
+@@The turbine inlet pressure.
+The compression ratio.
+The turbine inlet temperature.
+
+What is the flat rating of a turbine engine?
+@@That power achieved under specific operating conditions, such as takeoff, maximum continuous climb, and cruise power settings.
+That power achieved at idle RPM.
+That power achieved at maximum EGT.
+
+How is the engine pressure ratio (EPR) of an operating turbine engine?
+@@EPR is a comparison of the pressure at the inlet of the compressor to the pressure at the turbine exhaust area.
+EPR is a comparison of the pressure at the inlet of the combustion chamber to the pressure at the turbine exhaust area.
+EPR is a comparison of the pressure at the inlet of the compressor to the outlet of the compressor.
+
+How is the altitude effect on turbin engine thrust?
+@@The net thrust of increased altitude is a reduction in the thrust output.
+The net thrust of increased altitude is a increasing in the thrust output.
+The net thrust of increased altitude is no changing in the thrust output.
+
+Which is NOT method to increase the thrust of a gas turbine engine?
+@@Increasing the temperature of air flow inlet the engine.
+Increasing the mass flow of air through the engine.
+Increasing the gas velocity.
+
+Thrust of a gas turbine engine can be increased by:
+@@Increasing the mass flow of air through the engine
+Increasing the pressure of air through the engine
+Increasing the temperature of air through the engine
+
+Thrust of a gas turbine engine can be increased by:
+@@Increasing the gas velocity
+Increasing the gas pressure
+Increasing the gas temperature
+
+The principle used by a gas turbine engine to provide the force that moves an airplane is based on:
+@@Newton’s Third Law
+Bernoulli’s Principle
+Newton’s First Law
+
+Which of the following statements is true about a turbofan engine?
+@@The turbofan generates thrust by giving a relatively slower acceleration to a large quantity of air
+The turbofan generates thrust by giving a relatively higher acceleration to a large quantity of air
+The turbofan generates thrust by giving a relatively higher acceleration to a small quantity of air
+
+Which of the following statements is true about old pure turbojet engine?
+@@The old pure turbojet engine achieves thrust by imparting greater acceleration to a smaller quantity of air
+The pure turbojet engine achieves thrust by imparting slower acceleration to a larger quantity of air
+The old pure turbojet engine achieves thrust by imparting greater acceleration to a a larger quantity of air
+
+How does the compressor increase the pressure and temperature of the air in a turbine engine?
+@@Mechanically
+Hydraulically
+Electrically
+
+How do the air pressure and temperature behave in the combustor of a turbine engine?
+@@Pressure remains constant and temperature increases
+Pressure increases and temperature increases
+Pressure decreases and temperature remains constant
+
+What is the main purpose of turbine engine exhaust nozzle?
+@@Discharge the exhaust gas at high velocity to produce thrust
+Discharge the exhaust gas at low velocity to reduce noise
+Discharge the exhaust gas at high velocity to reduce exhaust temperature
+
+What is a prime factor in gas turbine performance?
+@@Thermal efficiency
+Turbine inlet temperature
+Fuel consumption
+
+What are the factors affecting the thermal efficiency?
+@@Compressor pressure ratio
+Combustor pressure
+Number of turbine stages
+
+What is the engine exhaust temperature proportional to?
+@@Turbine inlet temperature
+Compressor inlet temperature
+Combustor inlet temperature
+
+How is the engine pressure ratio (EPR) used in engine operation?
+@@Set the power for takeoff
+Set the power for cruise
+Set the power for descend
+
+What is the intake of a gas turbine engine designed to?
+@@Provide turbulent free air.
+Protect compressor from FOD .
+Provide streamlined fairing for aircraft.
+
+What is the anti icing of jet engine air inlets commonly accomplished by?
+@@Engine bleed air ducted through the critical areas.
+Electrical heating elements inside the inlet guide vanes.
+Electrical heating elements located within the engine air inlet cowling.
+
+How is the airflow through the engine on Military aircraft when it flies at speeds above Mach 1?
+@@The airflow through the engine must always stay below Mach 1.
+The airflow through the engine must always stay more than Mach 1.
+The airflow through the engine must always stay equal Mach 1.
+
+How is the divergent intake?
+@@Divergent from front to rear.
+Convergent/divergent from front to rear.
+Divergent/convergent from front to rear.
+
+How is the spinner of turbofan engine heated during icing condition?
+@@It is either heated by warm air or is conical sharps.
+It is either heated by electrical heating mats or is conical sharps.
+It is either heated by warm air or heated by electrical heating mats.
+
+When does the inlet door on a variable geometry intake open?
+@@At subsonic speeds
+At idle speed
+At supersonic speeds
+
+How is the variable geometry intake at subsonic speeds?
+@@Throat   area is increased.
+Jet pipe area is increased.
+Throat   area is decreased.
+
+What purpose does the nose cone serve on the(N1) fan on a high bypass engine?
+@@Streamlined fairing.
+Reduce and straighten any turbulent air.
+Assist in diffusing airflow.
+
+What is the purpose of a bellmouth compressor inlet to?
+@@Maximize the aerodynamic efficiency of the inlet.
+Provide an increased ram air effect at low airspeeds.
+Provide an increased pressure drop in the inlet.
+
+What is true for a bellmouth intake?
+@@Velocity increases and pressure decreases
+Pressure and velocity decrease
+Pressure increases and velocity decreases
+
+Engine compressor stall may be induced during rapid attitude changes if the aircraft has
+@@Engine intakes mounted close to the fuselage
+Long engine intakes
+Engine pods mounted under the wings
+
+This design employs an external oblique shock wave in supersonic engine inlet for?
+@@Slow the supersonic airflow before the normal shock occurs.
+Increase the supersonic airflow before the normal shock occurs.
+Prevent the shock occurs.
+
+Where are the driven accessories typically mounted on a turbofan engine?
+@@On the bottom of the engine
+On the left hand side of the engine
+On the right hand side of the engine
+
+What is the secondary functions of the accessory section?
+@@To act as an oil reservoir
+To act as an oil transfer tank
+To act as an auxiliary bearing
+
+What is the function of a conical spinner on a turbine engine?
+@@Prevent ice from building up on the spinner surface
+straighten the airflow into the fan module
+Prevents bird ingestion into the engine
+
+What are the main components of a centrifugal flow compressor?
+@@The impeller, the diffuser and the compressor manifold.
+The rotor, the stator and the compressor manifold.
+The rotor, the stator and the guide vane assembly.
+
+What are the two types of centrifugal compressor impellers?
+@@Single entry and double entry.
+Impeller and diffuser.
+Rotor and stator.
+
+Which two elements make up the axial flow compressor assembly?
+@@Rotor and stator.
+Stator and diffuser.
+Compressor and manifold.
+
+What is the inlet guide vane system used for?
+@@Control the first stage of compressor.
+Control the first few stages of compressor.
+Control stall and surge recovery.
+
+What is the advantage of a centrifugal compressor?
+@@High pressure rise per stage.
+High peak efficiencies.
+Small frontal area for given airflow.
+
+Which term of fan blade is used for engine banlancing?
+@@The radial moment weight of fan blade.
+The part number fan blade.
+The serial number of fan blade.
+
+Which engine type are NOT commonly used the centrifugal flow compressors?
+@@Turbofan engines.
+Turbo prop engines.
+Turboshaft engines.
+
+Axial flow and centrifugal flow compressors have their own specific advantages and disadvantages. Which following statement is NOT correct?
+@@Axial flow compressors have a good efficiency over a wide speed range.
+Engines with axial flow compressors cause less drag than engines with centrifugal flow compressors
+Centrifugal flow compressors have a very high pressure rise per stage.
+
+What are the main components of a centrifugal flow compressor?
+@@The impeller, the diffuser and the compressor manifold.
+The rotor, the stator and the guide vane assembly.
+The rotor, the stator and the compressor manifold.
+
+What purpose do the diffuser vanes of a centrifugal compressor serve?
+@@To convert kinetic energy into pressure energy.
+To convert pressure energy into kinetic energy.
+To increase the air velocity.
+
+How does the energy change that take place in the impeller of a centrifugal compressor?
+@@Pressure increase, velocity increase, temperature increase.
+Pressure decrease, velocity decrease, temperature increase.
+Pressure increase, velocity decrease, temperature increase.
+
+The ring of fixed blades at the intake of an axial flow compressor are called.
+@@Inlet guide vanes.
+First stage stator blades.
+First stage diffuser blades.
+
+What is function of the stator vanes in an axial-flow compressor?
+@@Convert velocity energy into pressure energy.
+Direct air into the first stage rotor vanes at the proper angle.
+Convert pressure energy onto velocity energy.
+
+The non-rotating axial-flow compressor airfoils in an aircraft gas turbine are known as.
+@@Stator vanes.
+Bleed vanes.
+Pressurization vanes.
+
+The fan speed of a twin spool axial compressor engine is the same as the.
+@@Low pressure compressor.
+Forward turbine wheel.
+High pressure compressor.
+
+What is the primary advantage of an axial flow compressor over a centrifugal compressor?
+@@Greater pressure ratio.
+High frontal area.
+Less expensive.
+
+What is the axial flow compressor’s disadvantage?
+@@High starting power requirements.
+Low starting power requirements.
+High pressure rise per stage.
+
+What is the purpose of the diffuser section in a turbine engine?
+@@To increase pressure and reduce velocity.
+To convert pressure to velocity.
+To reduce pressure and increase velocity.
+
+What is one purpose of the stator blades in the compressor section?.(Level 2)
+@@Control the direction of the airflow.
+Increase the velocity of the airflow.
+Stabilize the pressure of the airflow.
+
+Where are the bleed valves located to avoid engine stall and surge?
+@@In the mid section and sometimes in the aft section of the engine compressor
+In the mid section and sometimes in the aft section of the engine turbine
+In the mid section and sometimes in the forward section of the engine compressor
+
+What are the advantages of the variable stator vanes
+@@Optimum angle of attack on the following rotor blades
+Optimum velocity of airflow on the following rotor blades
+Optimum pressure of airflow on the following rotor blades
+
+Where can NOT install the trim balance weight?
+@@On the fan blade roots.
+On the fan spinner.
+On the fan balance ring below the blade root.
+
+Jet engine turbine blades removed for detailed inspection must be reinstalled in?
+@@The same slot.
+A specified slot 180°away.
+A specified slot 90°away in the direction of rotation.
+
+How about the air flow passing through compressor?
+@@Fairly constant velocity.
+Increase in velocity.
+Decrease in velocity.
+
+How is the mainly airflow which comes from the compressor to combustion called?
+@@The secondary airflow.
+The primary airflow,
+The burned airflow.
+
+What is a can-annular combustion system?
+@@A set of flame tubes, enclosed in a common air casing.
+One common flame tube closed in a common air casing.
+A set of flame tubes, each mounted in a separate air casing.
+
+Why is it necessary to have a combustion drain system?
+@@To prevent initial over-fuelling on start up or hot start.
+To prevent pressure build up in the combustion chamber.
+To allow water in the combustor to drain away.
+
+Which engine does typical use the can-type combustion chamber?
+@@Turboshaft engines.
+Turbo fan engines.
+Turbojet engines.
+
+A thin coating of ceramic material on the inner surface of the flame tube for?
+@@Protect the inner line against heat.
+Strengthen the inner liner.
+Seal air from the inner liner.
+
+How does light-up take place in combustion chamber?
+@@Interconnectors spread the heat to adjacent flame tubes.
+The nozzle guide vanes spread the heat to adjacent flame tubes.
+Each flame tube is isolated from its neighbours.
+
+Which statement is TRUE regarding the air passing through the combustion section of a jet engine?
+@@Most is used for engine cooling.
+Most is used to support combustion.
+A small percentage is frequently bled off at this point to be used for air-conditioning and/or other pneumatic powered systems.
+
+How are combustion liner walls cooled in a gas turbine engine?
+@@By secondary air flowing through the combustion chamber.
+By bleed air vented from the engine air inlet.
+By the pattern of holes and louvers cut in the diffuser section.
+
+Which is NOT type of fuel nozzle on turbin engines?
+@@Flat fan nozzles.
+Simplex nozzles.
+Duplex nozzles.
+
+Which material is used for constructing of heat-resistant in the combustion chambers?
+@@Ceramic materials.
+Steel alloy materials.
+Titanium material.
+
+Why is the annular combustion chamber preferred over the can design combustion chamber?
+@@It gives a smaller engine diameter for the same cross sectional area of airflow and has longer life
+It has multi spray nozzle, less chances of flame out and easy maintenance
+It is easier to construct and has even pressure throughout the chamber
+
+What is the purpose of the swirl vanes in the combustion chamber?
+@@To produce gas re-circulation.
+To make flame re-circulation.
+To Produce adequate mixing of fuel and air.
+
+Which is NOT type of turbine on engines?
+@@The centrifugal turbine.
+The axial flow turbine.
+the radial flow turbine.
+
+What is a turbine disk?
+@@A disk at the core of the engine that the blades are attached to.
+A segmented or complete shroud on blade tips that reduces leakage.
+A shroud around the stators of the turbine.
+
+What is a critical factor that must be controlled to prevent the turbine from damages?
+@@Inlet gas temperature.
+Inlet gas pressure.
+Inlet gas velocity.
+
+How is the gas that passing the nozzle guide vanes in turbine section?
+@@Pressure decrease, velocity increase.
+Pressure increase, velocity decrease.
+Pressure increase, velocity increase.
+
+Shrouded blades in turbine section allow?
+@@Thinner more efficient blade sections to be used.
+Smaller inlets to be used.
+Higher turbine inlet temperatures.
+
+What is the function of shrouding of stator blade tips at turbine section?
+@@Minimise vibration.
+Ensure adequate cooling.
+Prevent tip turbulence.
+
+Why are two or more turbine wheels coupled?
+@@So power output is doubled.
+To keep turbine rotor diameter small.
+To simplify dynamic balancing.
+
+Why are nozzle guide vanes fitted?
+@@To increase velocity of the gas flow.
+To decrease velocity of the gas flow.
+To increase velocity of the air flow.
+
+What parameters must be controlled to keep turbine operation within safe limits?
+@@The engine speed and gas temperature inlet turbine.
+The engine vibration and temperature inlet turbine.
+The engine speed and gas pressure inlet turbine.
+
+Which part of turbine disks is absorded the highest temperatures?
+@@The disk rim.
+The leading edge of turbine blades.
+The turbine blade tips.
+
+Where can usually find the stress rupture cracks on turbine blades?
+@@On the leading or trailing edge blades.
+On the blade tips.
+On the blade roots.
+
+Which part has the turbine creep effects?
+@@Turbine blades.
+Turbine disks.
+Inlet guide vanes.
+
+What are the basic elements of the turbine assembly?
+@@Turbine inlet guide vanes and turbine blades
+Turbine outlet guide vanes and turbine blades
+Turbine inlet guide vanes and turbine outlet guide vanes
+
+Where the turbine inlet nozzle vanes located?
+@@Directly aft of the combustion chambers and immediately forward of the turbine wheel
+Immediately forward and aft of the turbine wheel
+Directly aft of the combustion chambers and aft of the turbine wheel
+
+What happens when the turbine inlet temperature can not be controlled?
+@@Damage will occur to the turbine inlet vanes
+Damage will occur to the turbine wheel
+Damage will occur to the turbine disk
+
+What are the advantages of the shrouded turbine blades?
+@@Improve efficiency and vibration characteristics, permit lighter stage weights
+Improve efficiency and noise characteristics, permit lighter stage weights
+Improve life limit and noise characteristics, permit lighter stage weights
+
+Which methods are used to connect the turbine shaft to the turbine disk in a gas turbine engine?
+@@The shaft is welded to the disk or connected using bolts
+The shaft is press-fitted into the disk and locked with a nut
+The shaft and the disk are cast as a single monolithic piece
+
+What happens when cracks are found on a turbine disk during inspection?
+@@The disk is rejected and the turbine rotor must be replaced
+A dye penetrant inspection is performed, and the disk is repaired if within limits
+The replacement is deferred for a limited time until the next shop visit
+
+As the air flows out at the outflow of a choked nozzle
+@@Velocity increases and pressure decreases.
+Velocity and pressure decrease.
+Velocity decreases and pressure increases.
+
+How about the  convergent-divergent nozzle?
+@@It makes maximum use of pressure thrust.
+It requires the aircraft to be travelling at supersonic speeds.
+It produces a type of thrust known as kinetic thrust.
+
+What does the function of the convergent exhaust nozzle duct make?
+@@The gas velocity is increased providing increased thrust.
+The gas presssure is increased providing increased thrust.
+The gas volume is increased providing increased thrust.
+
+Which is the highest noise generated on turbine engine?
+@@The engine exhaust.
+The engine air intake.
+The engine vibration.
+
+How is noise from the jet wake when untreated by suppression?
+@@Low frequency, high decibel.
+High frequency, high decibel.
+Low frequency, low decibel.
+
+How does thrust reversal obtain on front turbofan engines?
+@@Cold stream is reversed.
+Hot stream is reversed.
+Hot and cold streams are reversed.
+
+What indication does the pilot receive that thrust reversers have deployed?
+@@Tn indication in the flight deck.
+An audible warning.
+A feeling of rapid deceleration.
+
+Which is NOT the actuating power generally used in the thrust reverser system?
+@@The fuel power system.
+The pneumatic power system.
+The hydraulic power system.
+
+What is the variable- area exhaust nozzle usually used in?
+@@An augmenter or afterburner turbine engines.
+An augmenter or turbofan engines.
+An turboprop or turbofan engines.
+
+The function of insulation blanket at exhaust nozzle section?
+@@To reduce heat loss from the exhaust system.
+To reduce noise from the exhaust system.
+To reduce vibration from the exhaust system.
+
+What is the effect if the exit area of the nozzle was too large,?
+@@Exit velocity lower causing loss of thrust.
+Will choke at a lower gas temperature.
+Exit velocity lower, negligible effect on thrust.
+
+Which form the exhaust nozzle is used on the turboshaft engines in helicopters?
+@@The forms a divergent duct.
+The forms a convergent duct.
+The forms a convergent-divergent duct.
+
+Which statement is TRUE regarding the turbofan engines?
+@@Turbofan engines tend to fall into either ducted fan or unducted fan engines.
+Turbofan engines only tend to fall into ducted fan engines.
+Turbofan engines only tend to fall into unducted fan engines.
+
+How about the ducted fan engines take the fan airflow?
+@@The core exhaust flow and the fan flow mix and flow from the engine through this mixed nozzle.
+Flow air to ambient air separate from each other and have separate nozzles.
+Has one air flow for the fan airflow and one for the core airflow.
+
+How about the unducted fan engines take the fan airflow?
+@@Flow air to ambient air separate from each other and have separate nozzles.
+The core exhaust flow and the fan flow mix and flow from the engine through this mixed nozzle.
+Has one air flow for the fan airflow and one for the core airflow.
+
+How is the restriction of the opening of the outlet of the exhaust nozzle if the nozzle opening is too big?
+@@The thrust is being wasted.
+The flow is choked in the other components of the engine.
+The thrust is being uncontrooled.
+
+How is the restriction of the opening of the outlet of the exhaust nozzle if the nozzle opening is too little?
+@@The flow is choked in the other components of the engine.
+The thrust is being wasted.
+The thrust is being uncontrooled.
+
+Adjusting the area of the exhaust nozzle changes
+@@The engine performance and the exhaust gas temperature.
+The engine performance.
+the exhaust gas temperature.
+
+Which engine type use the convergent-divergent type of nozzle?
+@@The engines has air flow exceed Mach 1 at the engine exhaust nozzle.
+The engines has air flow below Mach 1 at the engine exhaust nozzle.
+The engines has air flow exceed Mach 0.9 at the engine exhaust nozzle.
+
+How does the gas flows from the throat of the nozzle on the convergent-divergent type of nozzle?
+@@It becomes supersonic.
+It becomes subsonic.
+It maintain no change in velocity.
+
+What is the purpose of cascade vanes in a thrust reversing system?
+@@To form a solid blocking door in the jet exhaust path.
+To turn the exhaust gases forward just after exiting the exhaust nozzle.
+To turn to a forward direction the fan and/or hot exhaust gases that have been blocked from exiting through the exhaust nozzle.
+
+Which statement is generally true regarding thrust reverser systems?
+@@It is possible to move some aircraft backward on the ground using reverse thrust.
+Engine thrust reversers on the same aircraft usually will not operate independently of each other (must all be simultaneously).
+Mechanical blockage system design permits a deployment position aft of the exhaust nozzle only.
+
+How is the exhaust gas noise proportional to?
+@@The exhaust gas velocity.
+The exhaust gas pressure.
+The exhaust gas temperature.
+
+What is the most requirement to lower exhaust emissions from gas turbine?
+@@The oxides of nitrogen.
+The oxides of carbon.
+The fuel emission.
+
+Which of the bearings of a compressor rotor are usually?
+@@Ball and roller.
+Plain.
+Sintered.
+
+What bearing is used to take axial loads on a main rotation shaft of a gas turbine engine?
+@@Ball bearing.
+Plain bearing.
+Roller bearing.
+
+How are bearings lubricated?
+@@By engine oil system.
+By greases.
+By engine fuel system.
+
+Some labyrinth seals
+@@control the outflow of air at the turbine.
+are self lubricating.
+are spring loaded.
+
+In a jet engine the rotating assembly oil seals are maintained oil tight by means of
+@@Air pressure.
+A garter seal.
+An annular expander ring.
+
+How do the seals on a gas turbine engine restrict leakage of oil?
+@@By air pressure.
+By spring pressure.
+By closely tolerated contacting components.
+
+The number of bearings necessary for proper engine support is determined?
+@@By the length and weight of the engine rotor.
+By the thrust and weight of the engine rotor.
+By the thrust and pressure ratio of the engine rotor.
+
+How does the roller bearing support the engine shafts?
+@@The radial load only
+The thrust and radial loads.
+The thrust load only.
+
+How does the ball bearing support the engine shafts?
+@@The thrust and radial loads.
+The radial load only
+The thrust load only.
+
+How does the newer engines use hydraulic bearings?
+@@The outside race is surrounded by a thin film of oil.
+The inside race is surrounded by a thin film of oil.
+Both inside and outside race is surrounded by a thin film of oil.
+
+Which type of seals has the spring loaded to prevent oil leakage?
+@@The carbon seal.
+The labyrinth seal.
+The thread (helical) type seal.
+
+What is the function of a labyrinth seal? is to create
+@@To create a restricted leakage of air between fixed and rotating components.
+To create an airtight seal between fixed and rotation components.
+To create an airtight seal between fixed adjacent casing surfaces.
+
+Which type of oil in a gas turbine engine is usually used?
+@@Synthetic.
+Mineral.
+Natural.
+
+What kind of fuel NOT use for modern turbine engine?
+@@AVGAS.
+Jet A.
+Jet B.
+
+What kind of contamination fuel may be carry?
+@@Water, dirt or microorganisms.
+Oil.
+Grease.
+
+What action is taken to protect integral fuel tanks from corrosion due to micro biological contamination?
+@@An Anti-microbial additive is added to the fuel.
+The inside of the tank is coated with yellow chromate.
+Rubber liners are installed in the tank.
+
+What functions of engine oil??
+@@Cools, seals, prevents corrosion, cushions shock loads.
+Cools and seals.
+Cools, seals, prevents corrosion.
+
+Compared to reciprocating engine oils, the types of oils used in turbine engines?
+@@Have less tendency to produce lacquer or coke.
+Are required to carry and disperse a higher level of combustion by-products
+May permit a somewhat higher level of carbon formation in the engine.
+
+Where can find the the information on established limits on exposure to turbine oil?
+@@In the material safety data sheets (MSDS).
+In the material information data sheets (MIDS).
+In the material handling data sheets (MHDS).
+
+Why dose JET A1 mostly use for modern turbine engine?
+@@A high flash point of +38° C and a low freezing point of -47° C
+High flash point
+Low freezing point
+
+In the distillation process from crude oil, which temperature to jet fuel is made condenses?
+@@170° C
+120° C
+70° C
+
+What is the vapor pressure of Jet A?
+@@At 0.125 psi at standard atmospheric conditions.
+At 3.125 psi at standard atmospheric conditions.
+At 7.125 psi at standard atmospheric conditions.
+
+How to identifying of jet fuel marking on fueling equipments.?
+@@All grades of jet fuel are colorless or straw colored.
+All grades of jet fuel are purple or blue colored.
+All grades of jet fuel are green colored.
+
+What action is taken to protect integral fuel tanks from corrosion due to micro biological contamination?.(Level 2)
+@@A biocidal additive is added to the fuel.
+Rubber liners are installed in the tank.
+The inside of the tank is coated with yellow chromate.
+
+Where is the wet-sump engines store the lubricating oil?
+@@In the engine proper component.
+In an external tank mounted on the engine.
+In an external tank mounted on somewhere in the aircraft structure near the engine.
+
+What is the major difference between the dry sump systems and wet sump systems in engine oil system?
+@@The location of the oil reservoir.
+The type of oil supply pumps.
+The number of oil scavenge pumps.
+
+How is engine oil usually cooled?
+@@By a fuel/oil cooler.
+By ram air.
+By bleed air
+
+Which is the two most common oil pumps?
+@@The gear and gerotor types.
+The piston and gear types.
+The impeller and piston types.
+
+What is the purpose of the last chance oil filters?
+@@To filter the oil immediately before it enters the main bearings.
+To prevent damage to the oil spray nozzle.
+To assure a clean supply of oil to the lubrication system.
+
+Which of valve maintains the oil pressure constance?
+@@A pressure regulating valve.
+Check valve.
+Bleed valve.
+
+How is engine oil usually cooled?
+@@By a fuel/oil cooler.
+By ram air.
+By bleed air
+
+Where are magnetic chip detectors used in the oil system?
+@@In the scavenge lines.
+In the supply lines.
+In both the scavenge and supply lines.
+
+What is the major difference between the dry sump systems and wet sump systems in engine oil system?
+@@The location of the oil reservoir.
+The type of oil supply pumps.
+The number of oil scavenge pumps.
+
+Which of bearing uses the air cooling in addition to oil cooling?
+@@The exhaust turbine bearing.
+The high compressor bearing.
+The combustion bearing.
+
+Where is the bleed air usually used to bearing cooling?
+@@From a compressor stage.
+From ram air.
+From turbine air.
+
+Why are all oil tanks provided with expansion space?
+@@To allows expansion of the oil.
+To decrease pressure of the oil in tank.
+To decrease temperature of oil in tank.
+
+What does the gerotor pump has?
+@@A single element for oil pressure and several elements for scavenging oil.
+One or more elements for pressure and two or more for scavenging.
+A single element for scavenging oiloil pressure and several elements for oil pressure.
+
+What does the gear-type oil pump has?
+@@One or more elements for pressure and two or more for scavenging.
+A single element for oil pressure and several elements for scavenging oil.
+A single element for scavenging oiloil pressure and several elements for oil pressure.
+
+How are mesh sizes of oil filter measured in microns, which is a linear measurement equal to one millionth of a meter (a very small opening).
+@@One millionth of a meter.
+One trillionth of a meter.
+One thousandth of a meter.
+
+Where are the most main oil filters are located?
+@@Close to the pressure pump.
+Close to the sacvenge pump.
+Close to the deoiler.
+
+Oil normally flows through the filter element from the outside into the filter body.
+@@From the outside into the filter body.
+From the filter body to outside.
+From the bothside of the filter body.
+
+How to adjust presure of the regulating valve in oil system?
+@@By adjusting the tension (increase) on the spring.
+By selecting the mode switch on valve body.
+Can not adjust.
+
+What is the relief valve used to?
+@@Maximum limit pressure for the oil system.
+Minimum limit pressure for the oil system.
+Regulate pressure for oil system.
+
+Where does the relief valve relieve the oil?
+@@To the inlet side of the oil pump.
+To the outlet side of the oil pump.
+To the oil tank.
+
+What is function of oil supply line filter?
+@@To remove any foreign particles from oil before it reaches to oil nozzle
+To remove any fuel from oil before it reaches to oil nozzle
+To remove any water from oil before it reaches to oil nozzle
+
+How to prevent the oil jets from clogged?
+@@Use the last-chance filters.
+Use a finger screen filter.
+Use a scavenge filter.
+
+Where is the oil pressure transmitter located?
+@@In the pressure line between the supply pump.
+In the pressure line between the scavenge pump.
+In the pressure line between at the oil tank.
+
+Which part alerts the crew if the oil pressure falls below a certain pressure during engine operation?
+@@The low oil pressure switch.
+The differential oil pressure switch.
+The oil pressure transmitter.
+
+Which part alerts the flight crew of an impending oil filter bypass because of a clogged filter?
+@@The differential oil pressure switch.
+The low oil pressure switch.
+The oil pressure transmitter.
+
+What are the breather subsystems used to?
+@@Remove excess air from the bearing cavities and return the air to the oil tank
+Maintain a lower pressure on the oil to assure a positive flow to the oil pump inlet.
+Maintain a low temperature the oil I the oil tank.
+
+What is the primary purpose of the oil breather pressurization system that is used on turbine engines?.(Level 2)
+@@Prevents foaming of the oil.
+Allows aeration of the oil for better lubrication because of the air/oil mist.
+Provides a proper oil spray pattern from the main bearing oil jets.
+
+How does the pressure require to open the check valves in the oil system?
+@@From 2 to 5 psi to permit oil to flow to the bearings.
+From 2 to 5 psi to permit oil back to the inlet port of pumps.
+From 12 to 15 psi to permit oil to flow to the bearings.
+
+In a jet engine which uses a fuel oil heat exchanger, the oil temperature is controlled by a thermostatic valve that regulates the flow of
+@@Oil through the heat exchanger.
+Both fuel and oil through the heat exchanger.
+Fuel through the heat exchanger.
+
+What does the thermostatic valve control in fuel the fuel oil cooler?
+@@Controls the oil flow through fuel oil cooler.
+Controls the fuel flow through fuel oil cooler.
+Controls the oil and fuel flow through fuel oil cooler.
+
+Where is the oil tank located in a turbine pressure relief dry-sump lubrication system?
+@@The oil tank mounted on the engine.
+The oil tank integrated in accessory gear case.
+The oil tank mounted on the pylon next to engine.
+
+Which type of pump is usually used in the dry sum supply  oil system?
+@@A gear-type pressure pump.
+A five gear-type pumps.
+A piston-type pressure pump.
+
+Which type of pump is usually used in the dry sum scavenge  oil system?
+@@A five gear-type pumps.
+A gear-type pressure pump.
+A piston-type pressure pump.
+
+How is the pressure oil in the dry-sump variable-pressure lubrication system?
+@@The oil pressure depends on the engine rpm with maximum about 540 psi.
+The oil pressure doesn't depend on the engine rpm with maximum about 540 psi.
+The oil pressure depends on the engine rpm with maximum about 260 psi.
+
+Where is the reservoir for the wet-sump oil system?
+@@The oil tank integrated in accessory gear case.
+The oil tank mounted on the engine.
+The oil tank mounted on the pylon next to engine.
+
+How is the accessory gear box driven by?
+@@By the engine high-pressure compressor shaft.
+By the engine low-pressure compressor shaft.
+By the engin fan driven shaft.
+
+How many basic groups the gas turbine engine fuel controls can be divided into ?
+@@3
+2
+4
+
+Where the fuel low pressure filter and high pressure filter were installed?
+@@A low pressure filter is installed between the supply tanks and the engine fuel system and A high pressure fuel filter is installed between the fuel pump and the fuel control.
+A low pressure filter is installed between boot stage and main stage of engine driven pump and A high pressure fuel filter is installed between the fuel pump and the fuel control.
+A low pressure filter is installed between the supply tanks and the engine fuel system and A high pressure fuel filter is installed between boot stage and main stage of engine driven pump.
+
+What is FADEC stand for?
+@@Full Authority Digital Engine Control
+Flight Authority Digital Engine Contro
+Full Authority Data Engine Control
+
+How many distinct system categorie engine driven fuel pumps may be divided ?
+@@2
+3
+4
+
+What main parts does the engine fuel driven pump consist of ?
+@@A boost stage and a main stage
+A boost stage and a main stage and speed sensor
+A boost stage and a main stage and fuel filter
+
+What is the Purpose of fuel heating ?
+@@Keep the fuel at a temperature above freezing and Warmer fuel to improve combustion
+Warmer fuel to improve combustion
+Keep the fuel at a temperature above freezing
+
+How many type of most common fuel filter ?
+@@3
+4
+2
+
+How is the fuel de-icing system controlled ?
+@@Manual or automatic
+Automatic
+Manual
+
+How many type of fuel nozzles generally used ?
+@@2
+1
+3
+
+Why should the quantity of fuel supplied be adjusted automatically ?
+@@To correct for changes in ambient temperature or pressure
+To correct for changes in  required thrust
+To correct for a change in bleed system
+
+What happen  If the quantity of fuel becomes excessive in relation to mass airflow through the engine  ?
+@@The limiting temperature of the turbine blades can be exceeded, or it will produce compressor stall and a condition referred to as rich blowout
+The  limiting of  engine gas temperature   may be may exceeded
+it will produce compressor stall
+
+What is correct statement when describing the hydromechanical fuel controls ?
+@@Hydromechanical fuel controls have two sections, computing and metering, to provide the correct fuel flow for the engine
+. Hydromechanical  Fuel controls have two sections, electronic control and  computing  to provide the correct fuel flow for the engine
+Hydromechanical  Fuel controls have two  sections, electronic control  and metering, to provide the correct fuel flow for the engine
+
+How does EEC perform fuel metering ?
+@@Software in the EEC performs all the fuel metering and constant thrust control
+Hardware in the EEC performs all the fuel metering and constant thrust control
+EEC use N1 performs all the fuel metering and constant thrust control
+
+Where does the power for the EEC comes from ?
+@@From the aircraft electrical system or the permanent magnet alternator (PMA) depending on the engine speed
+From the permanent magnet alternator (PMA).
+From aircraft electrical system.
+
+What is  funtion of  the fuel filter differential pressure switch ?
+@@Supplies a signal to the EEC that indicates an almost clogged filter condition
+Supplies a signal to the EEC that indicates one or more fuel line  was stucked
+supplies a signal to the EEC that indicates the pressure of fuel pump over limit
+
+On engine fuel system: what generally non-positive  displacement pump is used for
+@@Provide positive flow to the second stage of the pump
+Provide positive flow to the fuel distribution valve
+Provide positive Pressure to FMU
+
+What kind of main stage of the engine-driven fuel pump
+@@Generally a positive displacement type of pump
+Generally a non- positive displacement type of pump
+generally a non- positive or positive displacement type of pump
+
+What is correct statement when describing the term "positive displacement" ?
+@@The term "positive displacement" means that the gear supplies a fixed quantity of fuel to the engine for every revolution of the pump gears
+The term "positive displacement" means that the gear supplies a varied  quantity of fuel to the engine for every revolution of the pump gears
+The term "positive displacement" means that centrifugal pump can be varied as needed and is sometimes referred to as a boost stage of the engine-driven pump
+
+What source of heat the fuel heater use for heating fuel ?
+@@Engine lubricating oil and engine bleed air
+Engine bleed air and electrical heating
+Engine lubricating oil and electrical heating
+
+What is the purpose of bypass valve on fuel filter housing ?
+@@Allows fuel to bypass the fuel filter when the pressure drop across the fuel filter is excessive
+Allows fuel to bypass the fuel filter when the pressure increase across the fuel filter is excessive
+Allows fuel to bypass the fuel filter when no need to filter the fuel
+
+What is main function of fuel nozzle ?
+@@To atomize the fuel so that it vaporizes and burns as quickly as possible
+To heat the fuel so that it vaporizes and burns as quickly as possible.
+To regulate the fuel pressure so that it vaporizes and burns as quickly as possible
+
+What is correct statement when  describing the engine anti-ice system ?
+@@Fuel deicing systems are designed to be used intermittently
+Fuel deicing systems are designed to be used continuously
+Fuel deicing systems are designed to be used continuously or intermittently depending on fuel temperature
+
+What are the advantages of duplex fuel nozzle system over simple fuel nozzle system
+@@Give better atomization at starting and idling speeds
+Simpler to manufacture and maintenance
+More fuel efficient while operating
+
+What are the Squirrel vanes use to ?
+@@Mix the air and fuel at the nozzle opening
+Optimize the air at the nozzle opening
+Optimize the fuel at the nozzle opening
+
+What is the function of flow divider ?
+@@Creates primary and secondary fuel supplies
+Distribute fuel to each nozzles
+Sprays fuel into combustion chamber
+
+How to make flow divider valve open ?
+@@Increases fuel flow
+Increases fuel Pressures
+decreases  fuel flow
+
+How the EEC control the fuel flow ?
+@@The  EEC controls the metering valve in the fuel metering unit to supply fuel flow
+The  EEC controls the Flow divider  to supply fuel flow
+The  EEC controls the Fuel Manifold to supply fuel flow
+
+What is correct statement  when describing the EEC?
+@@The EEC contains two electronic channels that are physically separated internally
+The EEC housing contains two electronic channels that are :one channel is master and other one is slave
+The EEC housing contains two electronic channels that are control the engine same time
+
+How carbonization of the fuel nozzles occurs?
+@@Because combustion chamber temperatures are lowered and the fuel is not completely burned.
+Because combustion chamber temperatures are higher and the air is insufficient to burned
+Because combustion chamber temperatures are higher and the fuel is  completely burned
+
+Why is the fuel pressurizing valve usually required on engines incorporating duplex fuel nozzles
+@@To divide the flow into primary and secondary manifolds
+To increases fuel pressure  to the nozzle
+To optimize fuel Pressure to nozzle
+
+Why dose the fuel pressurizing valves usually trap fuel forward of the manifold?
+@@To prevent carbonization of the fuel nozzles
+To prevent the fuel over flow
+To prevent fuel leak
+
+Why have to drain the fuel from combustion chamber?
+@@To prevent fire hazard
+To save the fuel
+To prevent the contamination in combustion chamber.
+
+How does the dump valve operates ?
+@@By pressure differential or  by solenoid
+By solenoid
+By pressure differential
+
+What the funtion of small spring in combustion drain valve ?
+@@To close the drain valve during engine operation
+To open the drain valve during engine operation
+To keep the fuel acumulate in drain valve until to suffient Volume
+
+Where is the fuel quantity indicator installed ?
+@@On the instrument panel
+On the AC belly
+On the wing.
+
+How does the EEC chose the better channel to control the engine?
+@@The cross-talk logic compares data from channels A and B and uses the cross-talk logic to find which EEC channel is the best
+Channel  A is active and when channel A fault chanel B wil take over
+The EIU will monitor and chose the best channel
+
+How to zone 1 on turbo fan engine  was vent?
+@@Using ram air through an inlet in the nose cowl
+Using fan air  from the upper part of the fan duct
+Using bleed air from bleed from engine
+
+How to zone 2 on turbo fan engine  was cooled?
+@@Using fan air  from the upper part of the fan duct
+Using ram air through an inlet in the nose cowl
+Using bleed air bleed from engine
+
+What type of anti-icing system is commonly used on large aircraft?
+@@Pneumatic anti-ice system
+Electrical anti-ice systems
+Chemical anti-ice systems
+
+How to cool hot gases before they enter the turbine ?
+@@Mix it with cool air
+No need to cool it
+Let it go Through heat exchanger
+
+What kind of air is used to cool turbine disk, vanes, and blades  ?
+@@Compressor bleeding air
+Ram Air
+Fan air
+
+What happen when air pressure exceeds a certain limit at zone 1 of turbine engine?
+@@A pressure relief door opens
+A Pressure dish broken
+A pressure relief valve opens
+
+Why is the air  often bleed from the final or highest pressure stage
+@@.At this point :pressure and air temperature are at a maximum
+At this poit the air is the easiest to bleed
+At this point It has the least effect on engine power.
+
+Where are cooling air intakes usually located on the engine?
+@@Around the exterior of the engine
+Around the interior of the engine
+Around the core of the engine
+
+Where does the air vented into or out of the engine is discharged?
+@@Into exhaust stream
+Into engine core.
+Out side engine throug vent holes
+
+What is the secondary function  of engine compressor?
+@@Supply air for various purposes on the aircraft.
+Compress air before entering the combustion chamber
+increase air temperature before entering the combustion chamber
+
+How does a pneumatic anti-ice system work?
+@@Hot air flowing just behind surfaces
+Spray hot air directly onto icing surface
+Changes the surface profile to anti- ice
+
+What is used to cool the piston engine?
+@@Air or/and liquid coolant
+Liquid coolant
+Air
+
+How many storage capacitors are in each discharge circuit of ignition system ?
+@@2
+3
+1
+
+The most common way to test an turbine engine ignition system?
+@@By listening for a clicking sound as the engine starts to spin, driven by the starter
+By start engine
+By bite test on EEC
+
+Electrode fouling, a common to the spark plugs, is minimized by what?
+@@By the heat of the high-intensity spark
+By the air that cooling of the spark plug
+By the design of ignition plug
+
+What type of engine is the direct electric starting system most commonly used on ?
+@@Small turbine engine
+All engines
+Large turbine engines
+
+How many field windings are in the starter generator internal circuit?
+@@4
+6
+2
+
+What is starter - generator starting systems ?
+@@Direct cranking electrical systems with generator funtions
+Air turbine starter  systems with generator funtions or Direct cranking electrical systems with generator funtions
+Air turbine starter  systems with generator funtions
+
+What are the advantages of air starters over electric starters of air turbine engine?
+@@Lighter and more torque
+Cheaper
+Simpler
+
+What are the characteristics of the torque provided by the starter?
+@@Must be greater than the torque required to overcome the inertia of the compressor and the frictional load of the engine's compressor.
+must be greater than the torque required to overcome the frictional load of the engine's compressor.
+Must be greater than the torque required to overcome the inertia of the compressor
+
+What can happen when the starter continues to assist the engine at a speed considerably above than the self-acceleration speed?
+@@Hung false start
+Nothing happen
+Damage the starter
+
+Where does the cartridge/air turbine starter get the starting air in cartridge mode?
+@@Using gas that was generate by igniated the cartridge
+using air from cross bleed
+using air from ground equipment
+
+what is the funtion of relief valve of cartridge/air turbine starter ?
+@@To direct hot gas to the turbine when the pressure rises above a preset maximum
+Release air  to out side if pressure is too high
+To maintain the pressure on hot air circuit
+
+How is the starter/generator engaged to the engine shaft?
+@@Permanent engaged
+Intermitten engaged
+Temporary engaged
+
+The sprag clutch assembly of air turbine starter :
+@@Engages automatically
+Engages Manual
+Engages Manual or Manual Depending on start mode
+
+What is normal maintenance for air turbine starters includes ?
+@@Checking the oil level, inspecting the magnetic chip detector for metal particles, and checking for leaks
+Inspecting the magnetic chip detector for metal particles
+Checking the oil level
+
+What kind of valve is the starting valve?
+@@Butterfly type valve
+Gate valve
+Ball valve
+
+What is the difference between continuous ignition and ignition during starting cycle?
+@@Continuous ignition that is used at a lower voltage and energy level
+There is no difference
+Continuous ignition that is used at a higher voltage and energy level
+
+What is mostly used to cool the ignition system ?
+@@Air
+Oil
+Coolant liquid
+
+Why do we have to follow all manufacturer's instructions when working with turbine engine ignition systems.?
+@@Residual high voltage and current in the ignition exciter can be present and injury or death may occur.
+Residual low voltage and current in the ignition exciter can be present and injury or death may occur.
+Residual high voltage and current in the ignition exciter can be present and can be damage to equipment.
+
+What is correct statement when describing the discharge of the second capacitor of capacity-type ignition system ?
+@@The discharge of the second capacitor of capacity-type ignition system is of low-voltage, but of very high energy
+The discharge of the second capacitor of capacity-type ignition system is of low-voltage, and low energy
+The discharge of the second capacitor of capacity-type ignition system is of high-voltage, but of very high energy
+
+How is the spark plug of a turbine engine ignition system different from the spark plug of a piston engine ignition system?
+@@Its electrode of igniter plug of a turbine engine ignition system is capable of withstanding a current of much higher energy
+There is no difference
+The spark plug electrode of a turbine engine ignition system can only withstand currents of less energy
+
+What is correct statement when check the igniter plug of ignition system?
+@@The igniter can also be checked by removing it and activating the start cycle, noting the spark across the igniter
+The igniter can not  be checked by removing it and activating the start cycle, noting the spark across the igniter
+The igniter can also be checked by use multimeter to chk that continious
+
+What step have to do  when remove ignition lead ?
+@@Discharge any electrical charge stored in the system by grounding
+You have to wear STRAP-WRIST wrist straps
+No specific precautions are required
+
+What should we do when there is a starter oil leakage from vent plug ?
+@@Check installed position for levelness of oil plugs and correct as required in manual
+Replace starter
+If oil level too high : drain oil and re-servicing and leak check again
+
+What are two subassemblies of the pressure-regulating and shutoff valve ?
+@@Pressure-regulating valve and pressure regulating valve control
+Electrical part and Mechanical part
+Pressure-regulating valve and electrical part
+
+What is EGT stand for ?
+@@Exhaust gas temperature
+Entrance gas temperature
+Extract gas temperature
+
+What is the warning on TIT indcator when TIT (turbine inlet temperature) reaches its limit ?
+@@An over-temperature warning light in the indicator illuminates
+An over-temperature warning sound will be emitted
+An over-temperature warning light in the indicator illuminates and An over-temperature warning sound will be emitted
+
+What does the fuel flow transmitter measure?
+@@The fuel flow between the engine- driven fuel pump and the fuel control device
+The mass flow of fuel across the fuel boost pumps.
+The mass flow of fuel between the fuel control unit and the fuel nozzles
+
+Which temperature point is the most important among the parameters to monitor in a turbine engine?
+@@The temperature of the gases entering the first stage turbine inlet guide vanes
+The temperature of the gases entering the combuston chamber
+The temperature of the gases exhaust the turbine
+
+What is correct statement when describing the dual thermocouples of turbine engine tubine inlet temperature indicating system ?
+@@Dual thermocouples exist containing two electrically independent junctions within a single probe
+Dual thermocouples exist containing two electrically independent junctions within dual probe
+Dual thermocouples exist that contain two electrical connected in series in a single probe
+
+What is type of EPR gauge ?
+@@It is a differential pressure gauge
+This is a static pressure gauge
+This is a dynamic pressure gauge
+
+How does a turboprop engine torquemeter measure torque?
+@@By engine oil pressure metered through a valve that is controlled by a helical ring gear that moves in response to the applied torque
+By the tachometer generator type sensor
+By the variable reluctance type sensor
+
+What are typical type of turbine engine tachometers ?
+@@Electrical  or probe-type
+Mechanical or probe-type
+Electrical  or mechanical
+
+Which of the following types of electric motors are commonly used in electric tachometers?
+@@Synchronous motors
+Direct current, series-wound motors
+Direct current. shunt-wound motors
+
+Which is correct statement about turbine engine fuel flow transmitter?
+@@The transmitter is an electrical device that contains a turbine
+The transmitter is an mechanical device that contains a turbine
+The transmitter is an electrical probe sensor
+
+How does the piezo-electric sensors of vibration monitoring systems work?
+@@A permanent magnet inside the sensor housing impinges on the piezo causing a current flow in proportion to the vibration
+A liquid inside the sensor housing impinges on the piezo causing a current flow in proportion to the vibration
+A permanent magnet move  inside transformer frame causing a current flow in proportion to the vibration
+
+What is the main purpose of the engine tachometer ?
+@@To monitor rpm under normal conditions, during an engine start, and to indicate an overspeed condition
+To indicate the RPM on the cockpit
+To support for engine viberation monitoring
+
+What does the engine oil pressure indicator usually show?
+@@The engine oil pump outlet pressure
+The pressure difference between the oil pump inlet and outlet
+The engine oil scavenge pressure
+
+What are the purposes of engine oil pressure indicator
+@@To monitor inadequate lubrication and cooling of the various engine parts
+To monitor inadequate lubrication and possible engine overheat
+To monitor oil level and possible engine bearing overheat
+
+How is the Engine Pressure Ratio (EPR) measured in a gas turbine engine?
+@@By comparing total pressure at the engine inlet (Pt2) and at the turbine exhaust (Pt7)
+By comparing static pressure before and after the compressor
+By comparing total pressure in the burner and after the turbine
+
+What must be done to ensure that the EPR reading accurately reflects the actual engine thrust being produced?
+@@Temperature, altitude, and other factors must be automatically compensated when EPR is measured
+No need to adjust temperature, altitude, or other factors when using EPR
+The pilot must manually adjust temperature, altitude, and other factors when using EPR
+
+How is Engine Pressure Ratio (EPR) measured?
+@@By the engine pressure ratio transmitter
+By compressor pressure ratio transmitter
+By turbine pressure ratio transmitter
+
+What is the EGT indicator in the flight deck show?
+@@The average temperature measured by the individual thermocouples
+The maximum temperature measured by the individual thermocouples
+The minimum temperature measured by the individual thermocouples
+
+How is engine Exhaust Gas Temperature measured?
+@@By several thermocouples
+By a single thermocouple
+By an infrared sensor
+
+What are the main purposes of the tachometer?
+@@Monitor RPM and indicate an overspeed condition
+Monitor RPM and indicate an underpeed condition
+Monitor N2 speed and indicate an overspeed condition
+
+How is the fuel flow is indicated on the flight deck?
+@@By the fuel flow transmitter connected electrically to the indicator
+By the fuel flow transmitter connected mechanically to the indicator
+By the fuel consumption transmitter connected electrically to the indicator
+
+What type is the engine vibration indication considered on a turbine engine aircraft?
+@@A secondary engine instrument parameter
+A primary engine instrument parameter
+An auxiliary engine instrument parameter
+
+Which statement is true regarding engine vibration?
+@@The level of vibration depends on engine speed
+The level of vibration depends on aircraft altitude
+The level of vibration depends on outside temperature
+
+Why is fuel flow indication important in turbine engine operation?
+@@It helps monitor fuel consumption and check engine performance
+It is used to control the engine ignition sequence
+It provides signal to control engine shutdown sequence
+
+What is the main advantage of Gear Turbofan concepts?
+@@Higher propulsive efficiency
+Increase engine bypass ratio
+Increase engine thrust
+
+What are the main components of an epicyclic gear system?
+@@A sun gear, planet gears, and a ring gear
+A drive shaft, bevel gears, and a clutch
+A sun gear, planet gears, and a drive shaft
+
+Which of the following are the correct main components of an epicyclic gear system?
+@@Sun gear (S), planet gear (P), planet carrier (L), and ring gear (A)
+Sun gear (S), star gear (P), planet carrier (L), and ring gear (A)
+Sun gear (S), star gear (P), planet carrier (L), and chain gear (A)
+
+How is Variable Fan Blades (VFB) engine designed?
+@@Fan blades pitch angle can be adjusted during engine operation
+Turbine blades pitch angle can be adjusted during engine operation
+High pressure compressor blades pitch angle can be adjusted during engine operation
+
+What is the main advantage of Variable Fan Blades concepts?
+@@Improve fuel efficiency by optimizing aerodynamic performance at varying altitudes and speeds
+Increase engine thrust by optimizing aerodynamic performance
+Increase engine life limit by optimizing aerodynamic performance at varying speeds
+
+How is the pitch of full-span variable pitch fan blades adjusted?
+@@Along the entire blade length
+Near the root of the blade
+Near the tip of the blade
+
+What types of actuation systems are used for variable fan blades?
+@@Hydraulic systems, electric systems or hybrid electro-hydraulic systems
+Hydraulic systems, electric systems or pneumatic systems
+Mechanic systems, electric systems or hybrid electro-hydraulic systems
+
+Why do open rotor engines help reduce environmental impact?
+@@By burning less fuel
+By reducing ozone emissions
+By using less oxygen
+
+The diffirent component between Open rotor engines and ducted fan engines is:
+@@Counter-Rotating Open Rotor
+Uncounter-Rotating Open Rotor
+Counter-Rotating Low Pressure Turbine
+
+How are the external fan blades of an Open Rotor or Propfan engine designed?
+@@The blades are large and have variable pitch
+The blades are large and have fixed pitch
+The blades are similar to ducted fan engine and have variable pitch
+
+How is the overall performance of a hybrid-electric aircraft determined?
+@@By combining the turbofan engine, the electric ducted fan and the electrical power system
+By combining the electric ducted fan and the electrical power system
+By combining the turbofan engine and the electrical power system
+
+What are the main purposes of the Engine Modular Design?
+@@Allow for easier assembly, maintenance and potential for customization
+Allow for reducing maintenance and operation cost
+Allow for easier assembly, operation and maintenance
+
+What type of reduction gear is most commonly used on turboprop engines?
+@@Planetary gear
+Worm gear
+Strain wave gear
+
+What parts does a turboprop engine consist of?
+@@A gas turbine engine, reduction gear box, and a propeller
+A jet turbine engine, reduction gear box, and a propeller
+A gas turbine engine, shaft output, and a propeller
+
+How many types of multistage turbine configurations are there in a Turboprop engine?
+@@2
+3
+1
+
+Which statement is true regarding gear coupled multiple stage turbine configurations in turboprop engines?
+@@All turbine stages are connected to a single shaft
+The gas generator shaft is separate from the shaft that drives the reduction gearbox and the propeller
+The turbine stages are connected to two completely independent shafts
+
+On turboprop aircraft , In the beta range of throttle , what is the propeller blade angle governed by?
+@@Power lever position
+Propeller governor
+Both propeller governor and power lever position
+
+During flght, what is correct when talk about propeller speed of turboprop eninges?
+@@Maintains at a constant speed
+Variable depending on engine power requirements
+Varies depending on throttle position
+
+What happens if you increase the fuel flow to turboprop engine?
+@@Power changes but propeller speed do not changes
+Power changes and prepeller speed changes
+Power and propeller speed do not changes
+
+What is the funtion of propeller brake on turboprop engine?
+@@To stop propeller
+To fixed blade angle
+To reduce the propeller speed
+
+What is used to control both engine and propeller on modern turboprop engines?
+@@FADEC
+Throttle level through mechanical links
+Electrical for engine  and mechanical for propeller
+
+What is correct when talk about tuborprop engine overspeed governor?
+@@Can not be control from cockpit
+Can be control from cockpit only on ground
+Can be control from cockpit during flight
+
+How does the propeller engine change the thrust ?
+@@By changing the propeller blade angle and fuel flow
+Only changes fuel flow
+Only changes the propeller blade angle
+
+What is correct statement when talk about  the free turbine configurations in turboprop engines ?
+@@The turbine stages are connected to two completely independent shafts
+The turbine stages are connected to a single shaft
+The shaft tunrn the engine compressor and  turns the propeller
+
+Which statement is true regarding free turbine configurations in turboprop engines?
+@@The turbine stages are connected to two completely independent shafts
+The turbine stages are connected to only one shaft
+The turbine stages are connected to two dependent shafts
+
+Turboprop engine power are related to:
+@@Turbine inlet temperature
+Engine speed
+Engine exhaust gas temperature
+
+For ground handling and reversing (beta range), the propeller can be operated to provide:
+@@Zero or negative thrust
+Zero thrust
+Negative thrust
+
+What is the function of the feathering system in a turboprop engine?
+@@To feather the propeller when the engine is shut down in flight
+To feather the propeller when the engine is at flight idle
+To feather the propeller when the propeller fails to reach the selected blade angle
+
+Where is the over speed governor in a turboprop engine?
+@@Mounted on the reduction gearbox
+Mounted on torque motor control valve
+Mounted on high pressure pump
+
+What are the main components of the turboprop engine over speed governor?
+@@Flyweights and pilot valve
+Flyweights and feather valve
+Pilot valve and unfeather solenoid
+
+What is primary purpose for turboshaft engines in aviation?
+@@Main powerplant for helicopters
+Main powerplant for gyroplanes
+Main powerplant for cargo aircraft
+
+How much of the power produced by the helicopter's turboshaft engine is used to operate the gas generator?
+@@About two thirds
+About three quarters
+About one third
+
+How many types of multistage turbine configurations are there in a turboshaft engine?
+@@2
+3
+1
+
+What unit is turboshaft engine power measured in?
+@@Horsepower
+EPR
+RPM
+
+Why turboshaft engine’s output is measured in horsepower instead of thrust?
+@@Power output is a turning shaft
+Power output contains jet stream and turning shaft
+Power output is jet stream
+
+What is purpose over-running clutches of drive system on helicopter ?
+@@Allow for autorotation in case of power loss
+Disengage to free turn in case of flame out
+Engage to lock shaft in case of overspeed
+
+What is purpose of flexible coupling of drive system on helicopter?
+@@Allows for small movements between the engine(s) and the transmission
+Annul movements between the engine(s) and the transmission
+Allows free movements between the engine(s) and the transmission
+
+What happens when the collective stick of helicopter is rised ?
+@@Increase the angle of attack of all rotor blades at the same time
+Decrease the angle of attack of all rotor blades at the same time
+Make aircraft nose up
+
+What is purpose of helicopter transmission?
+@@Reducing turbine shaft rotation at 35000 rpm to helicopter rotors at 300-400 rpm
+Increasing turbine shaft rotation at to 35000 rpm from helicopter rotors at 300-400 rpm
+Reducing helicopter rotors at 35000 rpm to turbine shaft rotation at 300-400 rpm.
+
+How is power of turboshaft engine controlled between ground and flight idle ?
+@@By the throttle twist grip
+Control is automatic by the free turbine governor
+By the throttle pedal
+
+How is power of turboshaft engine controlled between flight idle power and maximum power ?
+@@Control is automatic by the free turbine governor
+By the throttle twist grip
+By the throttle pedal
+
+What happens if the angle of attack of all rotor blades of helicopter is increased?
+@@The rotor assembly will tend to slow
+The rotor assembly will tend to fast
+The rotor assembly will remain speed
+
+What is purpose of APU?
+@@Provide pneumatic and electrical power to aircraft systems
+Provide thrust and electrical power for the aircraft systems
+Provide thrust and pneumatic to aircraft systems
+
+Why is the centrifugal compressor configuration used on APU ?
+@@It creates a larger pressure rise per stage
+It has a high peak efficiency
+It has a small frontal area
+
+How many main categories of APU engine systems are separated into ?
+@@4
+3
+2
+
+What unit monitors all engine parameters and controls all operating segments of the APU?
+@@EEC
+FCU
+EIU
+
+In all APU configurations, what output is priority?
+@@The electrical load output
+The pneumatic extraction
+No Priority
+
+What commands can the flight or ground crew give to the apu?
+@@Start and shutdown, fire suppression discharge
+Ignition sequent, Start and shutdown
+Ignition sequent, fire suppression discharge
+
+How does the IGV on the APU prevent surge and stall ?
+@@By de-turbulating the inlet air flow
+Bleeds off compressor pressure
+Increase air pressure
+
+Why does the apu has screen before APU's compressor?
+@@To prevent debris go into APU
+To safety when performing maintenance
+For fire prevention
+
+What type of APU's turbine is the annular combustion commonly used for?
+@@Axial flow turbines
+Radial inflow turbine
+Centrifugal turbine
+
+Why does the ballistic containment is a key factor in determining if an APU can be inflight certified
+@@An in-flight failure of an APU turbine or compressor, if not contained, could lead to further damage and failures of flight critical systems, which could in turn result in loss of the aircraft
+An in-flight failure of an APU turbine or compressor, if not contained, could lead to further damage and failures of aircaft structure , which could in turn result in loss of the aircraft
+An in-flight failure of an APU turbine or compressor, if not contained, could lead fire , which could in turn result in loss of the aircraft
+
+What is the APU enclosures usually made of?
+@@High temperature stainless steel
+Carbon Fiber Reinforced Plastic
+Aluminum alloy
+
+What method does APU usually use to cool the oil ?
+@@Air-to-fluid heat exchanger to cool the oil
+Fuid-to-fluid heat exchanger to cool the oil
+Does not need to cool the oil
+
+What are the characteristics of the power supply to the APU starter?
+@@28V DC
+115V AC
+230V AC
+
+What is APU's FCU?
+@@It is  high capacity gear pump
+It is computer unit
+It is fuel manifold
+
+What will the EEC do if the APU overheats?
+@@The EEC will restrict bleed flow to the aircraft, keeping it in the APU for secondary combustion cooling air
+the EEC will shutdown the APU
+The EEC will open apu venting door to cool the APU
+
+What does the BITE function in the EEC provide for maintenance technicians?
+@@Rapidly diagnosing a problem with the APU and its associated systems
+Fuel control settings for the APU
+Shutdown procedures for emergency use
+
+What EEC input signals are used to control the APU?
+@@Exhaust gas temperature, oil, fuel, and pneumatic pressure , as well as RPM
+Only oil and fuel pressure
+Exhaust gas temperature ,as well as RPM
+
+What happens when the APU master switch is turned on?
+@@Power is provided to the EEC unit, which can receive the start command
+The fuel is automatically supplied to the engines
+The generator immediately starts producing electrical power
+
+What is the function of the APU load control valve ?
+@@To deliver pneumatic power to aircaft for functions such as anti-icing and cabin pressurization
+To manage the shutdown process of the APU
+To regulate fuel flow to the engines
+
+What two main features distinguish in-flight certified APUs from ground-only APUs?
+@@Ballistic containment and ram air intake
+Increased power output and extended operation time
+Higher fuel consumption and slower start-up speed
+
+Why is the ram air scoop important for in-flight APUs ?
+@@It provides intake air to the APU and prevent degradation of engine performance while operating in the low air density environment of high altitude flight
+It increases fuel efficiency by reducing drag
+It diverts hot air away from the APU
+
+What altitude range is typically required for starting the APU in-flight  ?
+@@Around 15,000 to 17,000 feet
+Below 10,000 feet
+Above 30,000 feet
+
+How is APU maintenance typically performed?
+@@"On-condition," meaning as failure or faults deem necessary
+Based on scheduled dates regardless of condition
+After every flight
+
+What tasks are included in the servicing of an APU ?
+@@Starter motor brush, oil filter, and fuel filter changes; chip detector inspection; gear box oil changes; and spectrometric oil analysis
+Oil filter, and fuel filter changes; chip detector inspection; gear box oil changes; and spectrometric oil analysis
+Starter motor brush, oil filter, and fuel filter changes; chip detector inspection; gear box oil changes
+
+Why must engine hoses and pipes be installed according to the manufacturer’s instructions?
+@@To ensure proper fit and avoid leaks
+To improve aesthetic appeal
+To avoid unnecessary costs
+
+What is the function of small access panels on cowling ?
+@@To provide access to parts requiring frequent inspection or maintenance
+To reduce engine noise
+To adjust the engine's aerodynamics
+
+What must be ensured for hydraulic lines in powerplant installations ?
+@@They must be free from leaks and damage
+Installation should be close to electrical wiring
+Clamps should be plastic
+
+What temperature should O-rings be stored at?
+@@Lower than 120 degrees F
+Lower than 160 degrees F
+Lower than 140 degrees F
+
+How should wire bundles be routed in an engine ?
+@@Accessible areas that are protected from damage
+Areas where they could be used as support for personal equipment
+Areas where they could be used as handholds
+
+What lifting point must be used for engine lifting and lowering in turbine engines?
+@@Only the manufacturer lifting points must be used
+Any stable mounting point on the engine
+Not requirement special lifting points
+
+Why must engine hoses and pipes be installed according to the manufacturer’s instructions?
+@@To ensure proper fit and avoid leaks
+To improve aesthetic appeal
+To avoid unnecessary costs
+
+What is the function of small access panels on cowling ?
+@@To provide access to parts requiring frequent inspection or maintenance
+To reduce engine noise
+To adjust the engine's aerodynamics
+
+What must be ensured for hydraulic lines in powerplant installations ?
+@@They must be free from leaks and damage
+Installation should be close to electrical wiring
+Clamps should be plastic
+
+What temperature should O-rings be stored at?
+@@Lower than 120 degrees F
+Lower than 160 degrees F
+Lower than 140 degrees F
+
+How should wire bundles be routed in an engine ?
+@@Accessible areas that are protected from damage
+Areas where they could be used as support for personal equipment
+Areas where they could be used as handholds
+
+What lifting point must be used for engine lifting and lowering in turbine engines?
+@@Only the manufacturer lifting points must be used
+Any stable mounting point on the engine
+Not requirement special lifting points
+
+Why are hinged cowling so popular?
+@@They allow quick and easy access for maintenance
+They reduce drag on the engine
+They are locked in place
+
+How does a vibration isolator engine mounts isolate vibration?
+@@The resilient material  in vibration isolator engine mounts deforms slightly
+The gas in the engine's vibration isolator is compressed to reduce vibrations
+The oil in the engine's vibration isolator is compressed to reduce vibrations
+
+Why should wiring be kept away from high temperature equipment and lines?
+@@To prevent deterioration of insulation
+To prevent the increase in resistance
+To prevent the decrease in resistance
+
+What to do to avoid contact between wiring and equipment and structures on  engine ?
+@@Wiring must be clamped
+Wiring must be route far away equipment and structure
+Wiring must be placed in protective conduit
+
+What must be noted when installing fuel lines if the fuel line cannot be separated from the electrical wiring or conduit?
+@@Locate the fuel line below the wiring and clamp it securely to the airframe structure
+Locate the fuel line above  the wiring and clamp it securely to the airframe structure
+Nothing special to follow
+
+Why should hydraulic flex hose not be tightly bent ?
+@@It may damaged the flex hose
+To reduce hose length
+To increase fuid flow
+
+How should fuel lines be aligned?
+@@Accurately with clamps and fittings to avoid strain
+In a straight line between fittings
+Directly alongside wiring
+
+What is the main function of a drip loop in wiring installations?
+@@To prevent fluid from entering connectors
+To reduce wire length
+To support wiring weight
+
+What is the purpose of drains in powerplant installations?
+@@To drain various fluids from the powerplant
+To collect fuel to re-use
+To avoid contaminating the engine
+
+Why should flexible hoses not be stretched tightly between fittings ?
+@@It can lead to overstressing and failure
+It increases flow
+It makes installation easier
+
+What type of hose is preferred for hydraulic systems with high temperatures?
+@@Teflon hose
+Rubber hose
+Plastic hose
+
+When should O-rings be replaced during inspection ?
+@@When they show signs of leakage over limit
+If they appear discolored
+If the show minor seepage on moving part
+
+How can hoses be tested after repair?
+@@By testing to at least 1.5 system pressure
+Manually squeezing the hose
+Using low-pressure testing
+
+How should Teflon hoses be handled after service?
+@@Do not attempt to straighten them due to permanent set
+Roll them tightly
+Immerse in lubricant
+
+How should flexible hoses be installed to avoid failure?
+@@With 5-8% slack and no tight bends
+In straight lines between fittings
+With tightly secured ends
+
+How often should hydraulic lines be inspected?
+@@Regularly to ensure airworthiness
+Only if damage is suspected
+Once per year
+
+What is the disadvantage of using liners for reducing noise on turbine engine ?
+@@Addition of weight and the increase in specific fuel consumption
+They reduce the thrust of the engine
+They make the engine harder to maintain
+
+What is essential to follow when inspecting and adjusting control cables and rods?
+@@The manufacturer's instructions
+General maintenance practices
+Personal experience
+
+What is "Fire Zone" definition?
+@@A "fire zone" is an area or region of an aircraft designated by the manufacturer to require fire detection and/or fire extinguishing equipment and a high degree of inherent fire resistance
+A "fire zone" is an area or region of an aircraft designated by the operator to require fire detection and/or fire extinguishing equipment and a high degree of inherent fire resistance
+A "fire zone" is an area or region of an aircraft designated by the designer to require fire detection and/or fire extinguishing equipment and a high degree of inherent fire resistance
+
+The two major types of turbine failure can be classified as:
+@@1. Thermodynamic, or;
+@@Mechanical.
+1. Thermodynamic, or;
+Aerodynamic.
+1. Aerodynamic, or;
+Mechanical
+
+What does a complete fire protection system include?
+@@A fire detection and a fire extinguishing system
+A fire indication and a fire extinguishing system
+A fire control  and a fire extinguishing system
+
+What are the common types used for engine fire detection systems?
+@@Two common types used are spot detectors and continuously loopsystems
+Two common types used are spot detectors and parallel loop systems
+Two common types used are continuously loop and parallel loop systems
+
+What are the main types of spot detector systems?
+@@Spot detector systems are the thermal switch system, the thermocouple system, the optical fire detection system, and the pneumatic based thermal fire detection system
+Spot detector systems are the thermal switch system, the thermocouple system, the optical fire detection system, and the pneumatic based optical fire detection system
+Spot detector systems are the thermal switch system, the thermocouple system, the optical fire detection system, and the pneumatic based smoke detection system
+
+How is the Kiddle continuous-loop system constructed?
+@@The Kiddle continuous-loop system includes: two wires are imbedded in an inconel tube filled with a thermistor core material
+The Kiddle continuous-loop system includes: one wire are imbedded in an inconel tube filled with a thermistor core material
+The Kiddle continuous-loop system includes: three wires are imbedded in an inconel tube filled with a thermistor core material
+
+What does the continuous-loop sensing element consist?
+@@The sensing element consists of an infinite number of unit thermistors electrically in parallel along its length
+The sensing element consists of a number of unit thermistors electrically in parallel along its length
+The sensing element consists of an infinite number of unit thermistors electrically in series along its length
+
+Which areas is fire protected fire protection for a large turbo fan engine?
+@@Engine accessory section
+Fan case section
+Exhaust case section
+
+What is the most common extinguishing agent used in fixed engine fire extinguisher systems?
+@@Halon 1301
+Dry chemical
+Dry powder
+
+What is the most advantage of spherical fire extinguisher containers?
+@@It is possible to provide a lighter weight
+It is possible to provide a greater volume
+It is possible to provide more accesible
+
+Fire warning system includes:
+@@Visible and audible warning systems
+Visible and lights warning systems
+Horn sounds and chime warning systems
+
+Fires are detected in aircraft by using one or more of the following:
+@@Overheat detectors, rate-of temperature-rise detectors, and flame detectors
+Overheat detectors, rate-of temperature-change detectors, and flame detectors
+Overheat detectors, rate-of temperature-rise detectors, and smoke detectors
+
+Which are the following features necessary for an ideal fire detector system?
+@@Rapid indication of a fire and accurate location of the fire
+Using one detector system for both engine
+Maximum electrical current requirements when not indicating a fire
+
+Operation of the thermal switch system lights are controlled by:
+@@Thermal switches
+Thermal detectors
+Thermal controller
+
+What happens if the temperature rises above a set value in a location where a thermal switch is positioned?
+@@The thermal switch closes, completing the light circuit to indicate a fire or overheat condition
+The thermal switch opens, completing the light circuit to indicate a fire or overheat condition
+The thermal switch partly closes, completing the light circuit to indicate a fire or overheat condition
+
+A thermocouple depends on:
+@@The rate of temperature increase
+The rate of temperature decrease
+The rate of time for reaching to limit
+
+What does the relay box contain for thermocouple systems?
+@@The relay box contains two relays, the sensitive relay and the slave relay, and the thermal test unit
+The relay box contains one relays, the sensitive relay and the slave relay, and the thermal test unit
+The relay box contains three relays: the sensitive relay and the slave relay, and the thermal relay
+
+How is the thermocouple is constructed?
+@@The thermocouple is constructed of two dissimilar metals
+The thermocouple is constructed of two similar metals
+The thermocouple is constructed of chromel and plastic
+
+The two types of optical sensors available are infrared (IR) and ultraviolet, based on:
+@@The specific emission wave lengths
+The specific emission wave frequency
+The specific emission wave amplitude
+
+What happens if the pneumatic detector losses pressure, as in the case of a leak?
+@@The pneumatic detector integrity pressure switch opens and triggers the fault alarm
+The pneumatic detector integrity pressure switch closes and triggers the fault alarm
+The pneumatic detector integrity pressure switch opens and triggers the fire alarm
+
+What happens with Kidde continuous-loop system if the temperature of the core increases?
+@@The electrical resistance to ground decreases
+The electrical resistance to ground increases
+The electrical resistance to ground does not changes
+
+How is the resistance of the core material when the fire or overheat condition is gone?
+@@The resistance of the core material increases to the reset point and the flight deck indications go away
+The resistance of the core material decreases to the reset point and the flight deck indications go away
+The resistance of the core material increases to the warning point and the flight deck indications go away
+
+Where is the engine temperature increase indicated?
+@@The engine temperature increase is indicated on CRT display
+The engine temperature increase is indicated on LED display
+The engine temperature increase is indicated on analog indicationđe
+
+How is the integrity of the continuous-loop fire detection system tested?
+@@The integrity of the continuous-loop fire detection system may be tested by actuating a test switch in the flight deck
+The integrity of the continuous-loop fire detection system may be tested by using a test switch on the detection controller
+The integrity of the continuous-loop fire detection system may be tested by using a special testing tool
+
+What does continuous-loop fire control unit simulate when actuating a test switch?
+@@It simulates the sensing element resistance change due to fire
+It simulates the sensing element current change due to fire
+It simulates the sensing element voltage change due to fire
+
+What is the main purpose of Dual-loop systems?
+@@Greatly increased reliability against false fire warnings from any cause
+Greatly increased reliability of detecting any false fire warnings
+Greatly increased  the ability to locate malfunctions in the fire alarm system
+
+What does Automatic self-interrogation eliminate and assure?
+@@Automatic self-interrogation eliminates the fault indication, and assures the immediate appearance of the fire indication should fire occur while at least one loop of the dual-loop system is operative
+Automatic self-interrogation eliminates the fault indication, and assures the immediate appearance of the fire indication should fire occur while both loops of the dual-loop system are inoperative
+Automatic self-interrogation eliminates the fault in test, and assures the immediate appearance of the fire indication should fire occur while both loops of the dual-loop system are inoperative
+
+The support tube mounted element provides:
+@@Sufficient element support points, and greatly facilitates the removal and reinstallation of the sensing elements for engine or system maintenance
+Sufficient element support points, and greatly facilitates the cleaning procedure of the sensing elements for engine or system maintenance
+Sufficient element support points, and greatly facilitates the testing procedure of the sensing elements for engine or system maintenance
+
+What are the detection system circuitry functions
+@@The detection system circuitry controls aircraft fire protection functions: fire detection and extinguishing for engines, APUs, cargo bays, and bleed air systems
+The detection system circuitry controls aircraft fire protection functions: fire detection and extinguishing for engines, APUs, cargo bays, and landing gear system
+The detection system circuitry controls all aircraft fire protection functions, including fire detection and extinguishing for engines, APUs, cargo bays, and avionic ventilation systems
+
+Where are large turbofan engine fire detectors installed?
+@@On the Upper, Lower and Lower Forward Zones
+On the Upper, Lower and Lower Aft Zones
+On the Upper, Upper Forward and Lower Forward Zones
+
+What are all transport category aircraft certificated under 14 CFR part 25 required to?
+@@Having two discharges, each of which produces adequate agent concentration
+Having four discharges, each of which produces adequate agent concentration
+Having six discharges, each of which produces adequate agent concentration
+
+Which type of tube does high rate of discharge (HRD) system fire extinguisher use?
+@@High rate of discharge (HRD) systems use open end tubes
+High rate of discharge (HRD) systems use open entry tubes
+High rate of discharge (HRD) systems use open entry and open end tubes
+
+Why is Halon 1301 the most common extinguishing agent still used today?
+@@Because of its effective firefighting capability and relatively low toxicity
+Because of its effective firefighting capability and low price
+Because of its effective firefighting capability and low maintenance cost
+
+How can internal engine tailpipe fires during engine shutdown or false starts be extinguished first priority?
+@@By motoring the engine with the starter
+By using portable extinguishing bottle
+By using fixed extinguishing bottle
+
+What is the function of fire extinguisher container temperature/pressure sensitive safety relief diaphragm?
+@@Preventing container pressure from exceeding container test pressure in the event of exposure to excessive temperatures
+Keeping container pressure in the event of exposure to excessive temperatures
+Compensating container pressure in the event of exposure to the temperature change
+
+How is the outlet of the discharge valve of fire extinguishing container?
+@@It is a cartridge (squib) and frangible disk type valve
+It is a cartridge (squib) and check type valve
+It is a cartridge (squib) and flapper type valve
+
+How does Kidde system compensate pressure variations with temperatures
+@@By using a hermetically sealed reference chamber
+By using an electrical compensator
+by using a mechanical compensator
+
+What are the function of fire extinguishing container two-way check valves?
+@@Preventing the agent in a reserve container from backing up into the previous emptied main container
+Making sure the agent is applied directly to the area of fire
+Ensuring that the agent in a container completely discharge to the area of fire
+
+What is diffirent between the thermal discharge indicator and the yellow disk discharge indicator?
+@@The thermal discharge indicator shows the excessive heat inside the container and the yellow disk discharge indicator shows fire extinguishing system was activated by the flight crew
+The thermal discharge indicator shows fire extinguishing system was activated by the flight crew and the yellow disk discharge indicator shows the excessive heat inside the container
+The thermal discharge indicator shows the excessive heat inside the container and the yellow disk discharge indicator shows fire extinguishing system was inop due to electrical fail
+
+What happens when the fire switch is activated?
+@@The engine stops because the fuel control shuts off, the engine is isolated from the aircraft systems, and the fire extinguishing system is armed
+The engine stops because the fuel control shuts off, the engine is isolated from the aircraft systems, and the fire extinguishing system is discharged
+The engine stops because the fuel control shuts off, the engine is isolated from the aircraft systems, and the fire extinguishing system is disarmed
+
+For Boeing 777, if an engine fire occurs, the following indications occur in the flight deck:
+@@• The master warning lights come on • The fire warning aural operates • An engine fire warning message shows • The engine fire warning light comes on • The fuel control switch fire warning light comes on
+• The master warning lights come on • An engine fire warning message shows • The engine fire warning light comes on • The fuel control switch fire warning light comes on • The fire extinguishing system arm signal displayed
+• The master warning lights come on • The fire warning aural operates • An engine fire warning message shows • The engine fire warning light comes on • The fire extinguishing system arm signal displayed
+
+Where does the average nacelle temperature of Boeing 777 go?
+@@This data goes to the AIMS through the system's ARINC 629 buses and is recorded by the airplane condition monitoring function
+This data goes to the AIDS through the system's ARINC 629 buses and is recorded by the airplane condition monitoring function
+This data goes to the CIDS through the system's ARINC 629 buses and is recorded by the airplane condition monitoring function
+
+Which conditions does Boeing 777 Built-in test equipment (BITE) perform a test of the engine fire detection system for?
+@@• When the system first gets power • After a power interrupt • Every 5 minutes of operation
+• When the system first gets power • After a power interrupt • Every 30 minutes of operation
+• When the system first gets power • After a power interrupt • Every 60 minutes of operation
+
+A turbofan engine has
+@@One power control lever
+One speed control lever
+One fuel control lever
+
+How is the turbine engine started?
+@@By using an external air power source, APU, or an already operating engine
+By using external electric power source, APU, or an already operating engine
+By using external electric power source, APU Generator, or an already operating engine
+
+The normal starting sequence is:
+@@1. Rotate the compressor with the starter;
+@@Turn the ignition on;
+@@Open the engine fuel valve.
+1. Rotate the compressor with the starter;
+Open the engine fuel valve;
+Turn the ignition on.
+1. Rotate the compressor with the starter;
+Turn the ignition on;
+Open the engine fuel valve.
+
+A successful start is noted first by
+@@A rise in exhaust gas temperature
+A rise in engine oil temperature
+A rise in engine compressors speed
+
+When should the starting procedure be aborted?
+@@If the exhaust gas starting temperature is higher the limit
+If the exhaust gas starting temperature is approaching the limit
+If the exhaust gas starting temperature is lower the limit
+
+What is a hung start?
+@@Hung start is: The engine lights off, but the engine will not accelerate to idle RPM
+Hung start is: The engine lights off, but the engine will not reach to standard exhaust gas temperature
+Hung start is: The engine lights off, but the engine will not be supplied by fuel system
+
+What is a hot start?
+@@Hot start is: the exhaust gas starting temperature is higher the limit
+Hot start is: the exhaust gas starting temperature is  approaching the limit
+Hot start is: the exhaust gas starting temperature is lower the limit
+
+What should we do if an engine fire occurs?
+@@Move the fuel shutoff lever to the off position, continue cranking or motoring  the engine until the fire has been expelled from the engine
+Move the fuel shutoff lever to the off position,  CO2 can be discharged into the engine inlet duct
+Move the fuel shutoff lever to the off position, discharge CO2 directly into the engine exhaust
+
+What should we do if the fire is on the ground under the engine overboard drain?
+@@Discharge the CO2 on the ground
+Discharge the CO2 on the engine
+Discharge the CO2 on the overboard drain
+
+What should be compared with the allowable ranges when engine checks?
+@@The oil pressure indicator, tachometer, and the exhaust gas temperature readings
+The oil pressure indicator, tachometer, and the inlet gas temperature readings
+The oil pressure indicator, tachometer, and the burner gas temperature readings
+
+How is takeoff thrust checked?
+@@Takeoff thrust is checked by adjusting the throttle to obtain a single, predicted reading on the engine pressure ratio indicator in the aircraft
+Takeoff thrust is checked by adjusting the throttle to obtain a single, predicted reading on the engine round per limit indicator in the aircraft
+Takeoff thrust is checked by adjusting the throttle to obtain a single, predicted reading on the engine oil pressure indicator in the aircraft
+
+Which condition has the takeoff thrust setting curve been computed for?
+@@For static conditions
+For dynamic conditions
+For specific conditions
+
+How is Engine Pressure Ratio when Ambient Temperature increases follow the typical takeoff thrust setting curve for static conditions?
+@@Engine Pressure Ratio decreases when Ambient Temperature increases
+Engine Pressure Ratio increases when Ambient Temperature increases
+Engine Pressure Ratio remains constant when Ambient Temperature increases
+
+FADEC stand for?
+@@Full authority digital engine controls
+Full automatic digital engine control
+Full access digital engine controls
+
+What factors at compressor inlet air affect the calculation of takeoff thrust?
+@@Compressor inlet air temperature and pressure
+Compressor inlet air temperature and relative humidity
+Compressor inlet air relative humidity and pressure
+
+When is engine operation considered satisfactory?
+@@An engine develops the predicted thrust and all the other engine instruments are reading within their proper ranges
+An engine develops the predicted EGT and all the other engine instruments are reading within their proper ranges
+An engine develops the predicted EPR and all the other engine instruments are reading within their proper ranges
+
+When should cool down time be allowed before shut down?
+@@An engine has been operated at high power levels for extended periods of time
+An engine has been operated at above idle power levels for extended periods of time
+An engine has been operated at idle power levels for extended periods of time
+
+What is the cool down sequence?
+@@The engine operates at below a low power setting, preferably at idle for a period of 5 minutes
+The engine operates at below a low power setting, preferably at idle for a period of 10 minutes
+The engine operates at below a low power setting, preferably at idle for a period of 15 minutes
+
+What is the purpose of cool down sequence?
+@@To prevent possible seizure of the rotors
+To prevent possible seizure of the rotors
+To prevent possible seizure of the rotors
+
+Why does possible seizure of the rotors occur when an engine has been operated at high power levels for extended periods of time?
+@@Because engine case are cooling faster and tends to shrink upon the rotor wheels that are still rotating
+Because engine fan case are cooling slower and tends to shrink upon the rotor wheels that are still rotating
+Because engine exhaust case are cooling faster and tends to shrink upon the rotor wheels that are still rotating
+
+What is turborpop engine torquemeter pressure approximately proportional to?
+@@Torquemeter pressure is approximately proportional to the total power output
+Torquemeter pressure is approximately proportional to the total engine pressure ratio
+Torquemeter pressure is approximately proportional to the total engine exhaust gas temperature
+
+What is factor used to compute the turboprop engine takeoff power?
+@@The torquemeter pressure
+Enginel pressure ratio
+Engine exhaust gas temperature
+
+What should be performed in accordance with for turboprop engine  test run-ups, inspections, and troubleshooting?
+@@All turboprop engine test run-ups, inspections, and troubleshooting should be performed in accordance with the applicable engine manufacturer's instructions
+All turboprop engine test run-ups, inspections, and troubleshooting should be performed in accordance with the applicable authority's instructions
+All turboprop engine test run-ups, inspections, and troubleshooting should be performed in accordance with the applicable operator's instructions
+
+What are the suggested actions for turbine engine malfunction: engine has high exhaust gas temperature, low RPM, and high fuel flow at all engine pressure ratio settings?
+@@Confirm indication of turbine damage
+Check engine pressure ratio transmitter
+Check compressor section for damage
+
+What are the suggested actions for turbine engine malfunction: high oil temperature?
+@@Check lubricating system and scavenge pumps or replace fuel heater
+Check lubricating system and scavenge pumps or replace oil filter
+Check lubricating system and scavenge pumps or replace oil temperature sensor
+
+What are the probable causes for turboprop engine malfunction: engine has high exhaust gas temperature, low RPM, and high fuel flow at all engine pressure ratio settings?
+@@Possible turbine damage and/or loss of turbine efficiency
+Possible compressor damage and/or loss of compressor efficiency
+Possible burner section damage and/or loss of burner efficiency
+
+What are the probable causes for turboprop engine malfunction: engine vibrates at high RPM and fuel flwo when compared to constant engine pressure ratio?
+@@Damage in compressor section
+Damage in turbine section
+Damage in burner section
+
+What are the probable causes for turboprop engine malfunction: high oil temperature?
+@@Scavenge pump failure or fuel heater malfunction
+High pressure pump failure or fuel heater malfunction
+Booster pump failure or fuel heater malfunction
+
+What are the probable causes for turboprop engine malfunction: engine oil pressure drops off severely?
+@@Oil supply low or oil pressure transmitter or indicator giving false indication
+Oil scavenge valve stuck in closed position or stucked in open position
+Oil filter is clogged or indication of oil filter giving false
+
+An increase in PPM of certain materials can be a sign of:
+@@Component wear or impending failure of the engine
+Fan blade damaged or impending failure of the engine
+Burner wear or impending failure of the engine
+
+What is the purpose of engine oil analysis?
+@@Increases safety by identifying an engine problem before engine failure
+Increases safety by identifying an engine components malfunction then replace them
+Increases safety by identifying the time when an engine oil system  need flushing
+
+What is the purpose of identifying the metal follow the Spectrometric Oil Analysis Program?
+@@Identifying the metal can help identify the engine components that are wearing or failing
+Identifying the metal can help identify the engine components that are cracking or failing
+Identifying the metal can help identify the engine components that are damaged or failing
+
+The on-board aircraft monitoring capability or an independent vibration monitoring device can be used for
+@@monitoring turbine engine spools
+monitoring turbine engine compressor
+monitoring turbine engine gearbox
+
+Which method is used for engine inspection when a problem with the interior gas path of the engine is suspected?
+@@Boroscope
+Visual Inspection
+Non-Destructive Testing
+
+How is the way to give boroscope access to import areas inside the engine?
+@@Engines are manufactured with ports that are plugged during normal operation but that can be removed for borescope
+Engines are manufactured with cover that are closed during normal operation but that can be opened for borescope
+Engines are manufactured with access panel that are closed during normal operation but that can be opened for borescope
+
+What is the turbine engine divided into for inspection purpose?
+@@Two main sections: the cold and hot
+Two main sections: the primary and secondary
+Two main sections: the main and auxiliary
+
+Where do dirt particles build up to form a coating for engine compressor?
+@@On the casing, the vanes, and the compressor blades
+On the casing, the root blades, and the compressor blades
+On the casing, the bleed valves, and the compressor blades
+
+Much of the damage to the compressor blades arises from:
+@@Foreign matter being drawn into the turbine engine air intakes
+Foreign matter being drawn into the turbine engine burner outlet
+Foreign matter being drawn into the turbine engine reverser
+
+What is the negative effects of the dirt accumulation on the compressor blades?
+@@Reducing the aerodynamic efficiency of the blades with resultant deterioration in engine performance
+Reducing the aerodynamic drag of the blades with resultant deterioration in engine performance
+Reducing the aerodynamic lift of the blades with resultant deterioration in engine performance
+
+What is the usually treatment for well-rounded damage to leading and trailing edges that is evident on the opposite side of the blade?
+@@Acceptable without re-work
+Not acceptable then replacing blade
+Acceptable with re-work
+
+How must all compressor blades repairs be?
+@@All compressor blade repairs must be well blended so that surfaces are smooth and no cracks of any extent are tolerated in any area
+All compressor blade repairs must be well blended so that surfaces are smooth and small cracks are accepted in any area
+All compressor blade repairs must be well blended so that surfaces are smooth and small cracks are accepted in leading edge area
+
+How must rework damaged blade be accomplished?
+@@Rework damaged blade must be accomplished by hand
+Rework damaged blade must be accomplished by power tool
+Rework damaged blade must be accomplished by speical power tool
+
+What should we pay attenttion to during Inspecting the outer edges of the guide vanes?
+@@Paying attention to the point of contact between the guides and swirl vanes for cracks and dents
+Paying attention to the point of contact between the guides and swirl vanes for scratchs and dents
+Paying attention to the point of contact between the guides and swirl vanes for nicks and dents
+
+What is the purpose of blade blending?
+@@The purpose of blade blending is to minimize stresses that concentrate at dents, scratches, or cracks
+The purpose of blade blending is to minimize stresses that concentrate at dents, scratches, or burning area
+The purpose of blade blending is to minimize stresses that concentrate at dents, scratches, or corrosion area
+
+What must we do if a turbine rotor blade requires replacement?
+@@The diametrically opposite blade must be replaced
+The diametrically opposite blade must be removed
+The two adjacent blades must be replaced
+
+How should we install turbine rotor blade set?
+@@The number 1 blade is installed first, then the remaining blades are installed consecutively in a clockwise direction, viewed from the rear face of the turbine disk
+The number 1 and 2 blades are installed first, then the remaining blades are installed consecutively in a clockwise direction, viewed from the rear face of the turbine disk
+The number 1, 2 and 3 blades is installed first, then the remaining blades are installed consecutively in a clockwise direction, viewed from the rear face of the turbine disk
+
+Small nicks at turbine nozzle inlet guide vane should be:
+@@Blended out smoothly
+Replaced by new vane
+Postponed replacement for a certain time
+
+Which statement is correct for marking on the turbine disk?
+@@Mark a number 1 on the face of the hub on the turbine disk
+Mark a star on the face of the hub on the turbine disk
+Mark a number Zero on the face of the hub on the turbine disk
+
+During a compressor wash engine gas path is washed with
+@@Water or a mixture of water and cleaning solution
+Water or a mixture of water and storage chemical
+Water or a mixture of water and salt
+
+F.O.D is stand for:
+@@Foreign Object Damage
+Foreign Object Deformation
+Foreign Object Detach
+
+How can the rear turbine stage be inspected for any cracks or evidence of blade stretch?
+@@We should remove the tailpipe (exhaust nozzle)
+We should remove the forward turbine stage
+We should remove the burner section
+
+Where should we measure clearances in the maintenance of the turbine section of a turbine engine?
+@@The turbine blade to shroud (tip) and turbine wheel to exhaust cone
+The turbine blade to turbine wheel and turbine wheel to exhaust cone
+The turbine blade to exhaust cone and turbine wheel to exhaust cone
+
+Hotspots on the tail cone are a good indication of:
+@@A malfunctioning fuel nozzle or combustion chamber
+A malfunctioning fuel nozzle or turbine section
+A malfunctioning fuel nozzle or ignition system
+
+What is the procedure for washing engines generally?
+@@Generally, the engine is rotated with the starter and the wash solution is sprayed into the first stage compressor blades
+Generally, the engine is running above idle and the wash solution is sprayed into the first stage compressor blades
+Generally, the engine is running upto idle and the wash solution is sprayed into the first stage compressor blades
+
+Which is dehydrating agent used for absorbing moisture from the atmosphere around and inside various accessible parts of a stored engine?
+@@silica gel
+calcium chloride
+sodium sulphate
+
+Which component is used for monitoring moisture inside engine shipping containers?
+@@humidity indicator
+pressure indicator
+temperature indicator
+
+How often is the humidity indicator of metal container inspected under normal conditions?
+@@180 days
+90 days
+30 days
+
+What is the the basic concern of engine accessories preservation and depreservation?
+@@the threat of corrosion while in storage
+the threat of crack while in storage
+the lack of lubricating while in storage
+
+How many types of engine storage are there?
+@@three types of engine storage: active engine, temporary, and indefinite
+three types of engine storage: active engine, non-active term, and indefinite
+three types of engine storage: active engine, temporary, and definite
+
+How are corrosion- preventive compounds?
+@@Corrosion- preventive compounds are petroleum-based products that form a wax-like film over the metal
+Corrosion- preventive compounds are synthetic-based products that form a wax-like film over the metal
+Corrosion- preventive compounds are resin-based products that form a wax-like film over the metal
+
+How can engine in service be self-purging of moisture?
+@@By the heat of combustion and and the lubricating oil circulated through the engine temporarily forms a protective coating on the metal it contacts
+By the heat of combustion and and the lubricating hydraulic circulated through the engine temporarily forms a protective coating on the metal it contacts
+By the heat of combustion and and the lubricating fuel circulated through the engine temporarily forms a protective coating on the metal it contacts
+
+Why must heavy compound be heated to a high temperature before applying for engine storage corrosion preventing?
+@@to be sufficiently liquid to effectively coat the objects to be preserved
+to be sufficiently dry to effectively coat the objects to be preserved
+to be sufficiently mixed to effectively coat the objects to be preserved
+
+What shoud we do if air pressure has dropped below 1 PSI in a engine shipping metal container?
+@@Pressurize it upto 5 PSI with dehydrated air
+Pressurize it upto 50 PSI with dehydrated air
+Pressurize it upto 25 PSI with dehydrated air
+
+What should we do if humidity indicator show pink condition in shipping container?
+@@engine should be represerved
+engine container should be pressurized
+engine container should be leak checked
+
+What must we do before the engine can be returned to service?
+@@flush the preservative oil completely from the fuel system
+flush the preservative oil completely from the hydraulic system
+flush the preservative oil completely from the lubrication system
+
+What must we do when performing any preservation or depreservation of gas turbine engines?
+@@Always follow the manufacturer's instructions
+Always follow the air operator's instructions
+Always follow the engine shop's instructions

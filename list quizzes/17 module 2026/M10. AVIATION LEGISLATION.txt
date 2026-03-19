@@ -1,0 +1,1289 @@
+Where was the Convention on International Civil Aviation held in 1944?
+@@Chicago
+New York
+London
+
+Which year was the ICAO established?
+@@1947
+1945
+1944
+
+How many ICAO members up to April 2019?
+@@193
+192
+191
+
+The Operator’s Aircraft Maintenance Schedule (AMS) is based on:
+@@MPD
+CMM
+AMM
+
+What is the ICAO?
+@@International Civil Aviation Organization
+International Civil Airlines Organization
+International Civil Airport Organization
+
+Aircraft technical logbook is used to:
+@@Recording defects and malfunctions discovered during operation and for recording details of all maintenance carried out whilst the aircraft is operating between scheduled visits to the base maintenance facility
+Record interval of maintenance task that is specified in aircratf maintenance program approved by authority where aircraft is registered
+Record maintenance task of aircraft that are performed in base maintenance by approved maintenance orgnization
+
+How many annexes are issued by ICAO?
+@@19
+18
+20
+
+What is the CAAV?
+@@Civil Aviation Authority of Vietnam
+Civil Aviation Organization of Vietnam
+. Commercial Aviation Authority of Vietnam
+
+What experience requirement for issuing AME license with privileges for the aircraft?
+@@At least 2 years
+At least 1 year
+At least 18 months
+
+Who is responsible for adopting the law on civil aviation of Vietnam?
+@@National Assembly
+Government
+CAAV
+
+Who is responsible to ensure that aviation operations in Vietnam meet the international standards for aviation safety ?
+@@CAAV
+Government
+National Assembly
+
+How many parts does Civil Aviation Authority of Vietnam consist of ?
+@@23
+19
+22
+
+Where is headquaters of ICAO ?
+@@Montreal, Canada
+Chicago, United States
+New York, United States
+
+What is CoA ?
+@@Certificate of Airworthiness
+Certficate of Aircraft Maintenance
+Certifciate of Aircraft Aerodynamic
+
+Which one is responsible for issued CoA ?
+@@Contracting State
+Aircraft Owners
+Operators
+
+A certificate of release to service for aircraft shall be issued by:
+@@Appropriately authorised certifying staff
+Appropriately qualify mechanic
+Appropriately technical staff
+
+When will a certificate of release to service for aircraft?
+@@Before flight at the completion of any maintenance.
+Before transit check
+Before weekly heck
+
+What is a "Aircraft Maintenance Program":
+@@Is a document which describes the specific maintenance tasks and their frequency of completion, necessary for the continued safe operation of those aircraft to which it applies.
+Is a document certifying maintenance work has been carried out correctly in accordance with the approved data and the processes in the maintenance exposition organization manual
+Is a document attached to an aircraft for recording defects and malfunctions discovered during operation.
+
+The Maintenance Program and any subsequent amendments shall be approved by:
+@@The competent authority
+The operator who own aircraft
+The maintenance organisation
+
+Whati is puropse of aircraft maintenance programs
+@@To restore safety and reliability to their inherent levels when deterioration has occurred
+To determine interval and threshold to organized a maintenance check
+To restore airwothiness of aircraft before return to service
+
+The AMS is also kept updated by additions/ amendments/ or intervals arising from:
+@@Reliability Program Document.
+Line Mainenance Manual
+Mmairntenance Orgnization Exposition
+
+Which format of maintenance orgnization expostion is acceptable by aviation authority?
+@@Both hardcopy and electronic format
+Hardcopy only
+Electronic format only
+
+Who is responsible for preparation maintenance orgnization exposition (MOE)
+@@Approved Maintenance Organization (AMO)
+Aircraft Owner
+Operators (Airlines)
+
+What is SARPs?
+@@Standards and Recommended Practices issued by ICAO
+Standards Aviation Recommended Practices is issued national authority
+Standards Authority Recommended Practices issued by EASA
+
+Who is responsible for adopting ICAO SARPs?
+@@ICAO Council
+Civil aviation authority who is member of ICAO
+Operators
+
+The Standards and Recommended Practices are used for:
+@@Guide the civil aviation authorities actions around the world and address technical and operational aspects of international civil aviation
+Guide the aircraft maintenance organization actions around the world and address technical and operational aspects of aircraft maintenance
+Guide the aircraft operators  actions around the world and address technical and operational aspects of aircraft for flight safety
+
+DOC 7192 is a document issued by ICAO to provide information related to
+@@Training manual
+Flight manual
+Aircraft maintenance manual
+
+A licenced engineer who is convicted to a drug or alcohol-related offense may be denied any license for a period of up to:
+@@12 months
+18 months
+24 months
+
+The ICAO’s organizational structure consists of:
+@@A secretariat and three main bodies
+A secretariat and four main bodies
+A secretariat and five main bodies
+
+How often will the Assembly be convened?
+@@Every 3 years
+Annually
+Every 2 years
+
+What is SIP ?
+@@Structural integrity programme
+Supplemental Inspections Programme
+Structural Inspections Programme
+
+What is AMO ?
+@@Approved Maintenance Organisation
+Approved Manufacturer Organisation
+Application Management Outsourcing
+
+The design of the controls and control systems shall be such that:
+@@Each control and control system shall operate with the ease, smoothness and precision appropriate to its function
+Adequate strength shall be provided to withstand the vibration and buffeting that might occur in the anticipated operating conditions.
+Shall be designed to be free from flutter, structural divergence, and loss of control due to structural deformation
+
+For what kind of aircraft we need to designed, arranged and physically separated aeroplane systems to maximize the potential for continued safe flight and landing after any event resulting in damage to the aeroplane structure or systems?
+@@For aeroplanes of a maximum certificated take-off mass in excess of 45 500 kg or with a passenger seating capacity greater than 60
+For aeroplanes of a maximum certificated take-off mass in excess of 50 000 kg or with a passenger seating capacity greater than 70
+For aeroplanes of a maximum certificated take-off mass in excess of 45 000 kg or with a passenger seating capacity greater than 60
+
+What is AD stand for ?
+@@Airworthiness Directive
+Architectural Design
+Address Data
+
+All maintenance work for aircraft shall be performed by
+@@Qualified Personnel
+Component certifying staff
+Qualified Mechanic
+
+How many techniques do we have for Fail-Safe design?
+@@4 techniques
+5 techniques
+3 techniques
+
+If the operators want to operating any of their aircraft, the maintenance and any associated part of the aircraft must be carried out by:
+@@An AMO approved by the State of Registry or by another Contracting State that is acceptable by the State of Registry
+An MRO approved by the State of Registry or by another Contracting State that is acceptable by the State of Registry
+A person approved by the State of Registry or by another Contracting State that is acceptable by the State of Registry
+
+Which of the following not include in maintenance record?
+@@Signature and approval certificate of operator or manufacturer
+Signature and license or authorization number of the certifying personnel
+Component time since new (TSN), time since overhaul (TSO) and, if applicable, cycles since new and cycles since overhaul
+
+Detailed maintenance records should be keep for at least:
+@@1 year after the signing of the maintenance release
+2 years after the signing of the maintenance release
+3 years after the signing of the maintenance release
+
+How many categories are ADs generally divided belong to compliance period?
+@@2
+1
+3
+
+Which of the following is NOT include in the contents of ADs
+@@Refer document, job card, the preventive action
+Equipment or instrument type, model and serial numbers affected
+The aircraft, engine, propeller affected
+
+What is objective of design aeroplane structure with instructions for its maintenance and repair ?
+@@Avoiding hazardous and catastrophic failure
+Avoiding catastrophic and operational life failure
+Avoiding hazardous and operational life failure
+
+The maintenance record should be kept in a form and manner acceptable by?
+@@State of Registry and State of the Operator
+State of ATO or State of the CAMO
+State of Authority and State of AMO
+
+The operator is required to ensure that:
+@@Certificate of Airworthiness of each aircraft they operate remains valid
+The contents of ADs include the aircraft, engine, propeller, equipment or instrument type, model and serial numbers affected
+A maintenance programme approved by the State of Registry for the use and guidance of maintenance and operational personnel
+
+What is the meaning of Redundancies?
+@@Avoid single point failures
+Avoid critical failure
+Avoid system failure
+
+What is Airworthiness Directives prescribes ?
+@@The conditions or limitations under which the aeronautical products may continue to be operated.
+Temporary actions to be taken in order to return aircraft to service
+Quality notice from customers or operator related to airworthiness safety
+
+Why we need to provided control of engine rotation for the crew?
+@@Provided the crew to stop the rotation of the failed engine in flight or to reduce it to a safe level
+Provided the crew to manage speed of aircraft due to control of engine rotation
+Minimize the hazards to the aeroplane in the event of failure of engine rotating parts, or an engine fire which burns through the engine case
+
+Why we need to arranged engines and their associated systems isolated from each other ?
+@@So that the failure or malfunction of any engine, or of any system that can affect the engine will not prevent the continued safe operation of the remaining engine(s)
+So that the failure or malfunction of any engine, or of any system can not affect the engine and require immediate action by any crew member for continued safe operation of the remaining engine(s).
+So that the failure or malfunction of any engine, or of any system that can not lead to failure of that engine or any system related
+
+All structural elements of an aircraft shall be designed to ?
+@@Withstand the maximum loads expected in service under all anticipated operating conditions without failure, permanent distortion or loss of functionality
+Shall sustain detrimental deformation at any load up to and including the limit load, and the aeroplane structure shall be capable of supporting the ultimate load.
+Shall operate with the ease, smoothness and precision appropriate to its function; any single failure not shown to be extremely improbable in the control system
+
+Structural deformation of an aircraft can cause:
+@@Loss of control
+Vibration
+Buffeting
+
+Why we need to permanently marked each element of each flight control system?
+@@To minimize the probability of any incorrect assembly that could result in the malfunction of the system
+To minimize the possibility of fatige and loosen during operation
+To minimize the possibility of damage to components during operation
+
+What is the purpose of having a testing and analysis in Safe-life design ?
+@@To estimate how long the component can be in service before it will likely fail
+To prevent catastrophic failure
+To prevent damage to expensive or difficult to repair component
+
+What is the Accelerate-stop distance?
+@@The distance required to accelerate and stop or, for a seaplane to accelerate and come to a satisfactorily low speed
+The distance required to accelerate and stop or, for a seaplane to accelerate and come to fully stop
+The distance required to take off and landing or, for a seaplane to take off and come to a satisfactorily low altitude
+
+What is meant by “Fail-Safe”?
+@@Designs that incorporate various techniques to mitigate losses due to system or component failures. The design assumption is that failure will eventually occur but when it does the device, system or process will fail in a safe manner.
+The component or system is designed to not fail within a certain, defined period. It is assumed that testing and analysis can provide an adequate estimate for the expected lifetime of the component or system. At the end of this expected life, the part is removed from service.
+If failure of a critical subsystem will cause severe losses, backup systems are often employed, if a structural element fails, the load it was carrying will be transferred to other members
+
+Which below is NOT the techniques for Fail-Safe Design?
+@@Extensive testing
+Early dection
+Redundancies
+
+Can an aircraft take off in case the critical engine failed, with the remaining engine(s) being operated?
+@@In case the critical engine failed, with the remaining engine(s) being operated, A/C can take off
+In case the critical engine failed, with the remaining engine(s) being operated, A/C can not take off
+In case the critical engine failed, with the remaining engine(s) being operated, A/C can take off if not have passengers on board
+
+What is limit loads for structure characteristics and strength?
+@@The external loads and the corresponding inertia loads, or resisting loads obtained for the various loading conditions
+The maximum loads and the corresponding dynamic loads due to changes to the steady state configuration
+Flight control loads and the corresponding cabin pressurization loads due to changes to the steady configurations
+
+If failure of a critical subsystem will cause severe losses, another systems are often employed. What is it?
+@@Back-up system
+Multiple load path system
+Weak link system
+
+What type of material can withstand large cracks before fracturing?
+@@High fracture toughness
+Fatigue fracture
+Stress fracture
+
+Maintenance programme of the operator is required to be approved by:
+@@State of Registry
+State of the manufacture
+State of the DOA
+
+What is “Physical Law” techniques?
+@@Designing a system in such a way that failure cannot be catastrophic based on how failure will occur
+An inexpensive and easy to replace component may be used to prevent damage to expensive or difficult to repair component
+Designing a system in such a way that avoid single point failures
+
+A maintenance programme which should contain the following information:
+@@Maintenance tasks and intervals specified and identified as mandatory in approval of the type design
+Reliability programme descriptions for aircraft systems
+Program for correct the defer defect
+
+Engine test shall include at least the following:
+@@Power calibration test, Operation test, Endurance test
+Endurance test and Power calibration test
+Balance test, Operation test, Endurance test
+
+Structure test include test of ?
+@@Fail safe, Safe Life, Damage Tolerant
+Redundancies, Intentional “Weak Link”, Physical Law
+Engine Test, Flight Test Plan, Early Detection
+
+In flight test plan, shall the aeroplane be capable of making a climb-out in the event of a balked landing with?
+@@All engine(s) operating
+Only one engine operating
+Yes,with APU start
+
+What is AOC?
+@@Air Operator Certificates
+Aircraft Operation Center
+Aircraft Operation Control
+
+Who can issued or denied an AOC?
+@@CAAV
+VAECO
+VNA
+
+Which type of Aircraft is not required to have Emergency evacuation demonstration unless the CAAV determines that there is an operational need for this evaluation.?
+@@Aircraft configured for 19 or less passengers
+Aircraft configured for 29 or less passengers
+Aircraft configured for 39 or less passengers
+
+What is AMT ?
+@@Aviation Maintenance Technician
+Aircraft Maintenance Technical
+Aircraft Manual Technical
+
+An applicant for an aviation repair specialist licence shall:
+@@Be at least 18 years of age
+Be at least 16 years of age
+Be at least 24 years of age
+
+What is ARS ?
+@@Aviation Repair Specialist
+Aircraft Repair Scheduled
+Aircraft Repair Specialist
+
+Standard Airworthiness Certificates will be issued for aircraft by?
+@@By the State of Design in the type certificate
+By the State of Operator in the type certificate
+By the State of Manufacturer in the type certificate
+
+Special Airworthiness Certificate might be issued for an aircraft by?
+@@CAAV
+VNA
+VAECO
+
+Export Certificate of Airworthiness for aircraft registered in Vietnam that are being exported to the registry of another Contracting State might be issued by?
+@@CAAV
+VNA
+VAECO
+
+Aircraft type ratings might be endorsed by the CAAV for aircraft with a take-off gross weight of:
+@@More than 5700kg
+Less than 5700kg
+More than 5000kg
+
+How many level of aircraft and helicopter license that the CAAV may endorse an AMT licence and associated ratings and condition to maintain the validity of license for?
+@@4 levels: A,B1,B2,C
+5 levels: A1,A2,B1,B2,C
+3 levels: A,B,C
+
+AMT Licence ratings Sublevel A1 and B1.1 are for:
+@@Turbine engine aircraft
+Piston engine aircraft
+Piston engine helicopter
+
+AMT Licence ratings Sublevel A2 and B1.2 are for:
+@@Piston engine aircraft
+Turbine engine aircraft
+Piston engine helicopter
+
+AMT Licence ratings Sublevel A3 and B1.3 are for:
+@@Turbine engine helicopters
+Piston engine aircraft
+Turbine engine aircraft
+
+All licenses issued by the CAAV has a term of :
+@@5 years
+3 years
+2 years
+
+All equipment installed on an aircraft, supplies used for the operation and maintenance of the aircraft must be provided from:
+@@An approved supplier in accordance with the procedure approved or acceptable by the CAAV
+An approved supplier in accordance with the procedure approved or acceptable by the customers
+An approved supplier in accordance with the procedure approved or acceptable by the operators
+
+CAAV VAR Part 4 applicable to:
+@@The owners and operators of aircraft registered in Vietnam and the persons and organizations that provide maintenance services for these aircraft.
+The manufacturer and operators of aircraft registered in Vietnam and the persons and authority that provide maintenance services for these aircraft.
+The customer of aircraft registered in Vietnam and the persons and organizations that provide maintenance services for these aircraft.
+
+Which of the following below is not contain in ATO Certificate?
+@@Specific avionics equipment or groupings of equipment
+The terms of approval, including: Locations of operations and Training specifications, as applicable.
+The organisation’s name and location (main place of business)
+
+What is duration of ATO certificate issued by the CAAV?
+@@36 calendar months, unless surrendered, suspended, or revoked
+48 calendar months, unless surrendered, suspended, or revoked
+72 calendar months, unless surrendered, suspended, or revoked
+
+What is ATO ?
+@@Approved Training Organization
+Air Traffic Organization
+Authorized Training Organization
+
+Privileges applied to aircraft maintenance technician staff with a certificate of AMT level A?
+@@Allows aircraft maintenance technician signing the completion of maintenance for outdoor maintenance in small as planned or repair simple failures within duty specified in the license. Privilege to sign completion of maintenance is limited in the scope of the work that the certificate was directly carried out at an approved maintenance organization in accordance with CAAV VAR Part 5.
+Allows aircraft maintenance technician to sign completion of maintenance after performing maintenance work on the electrical and electronic systems of the aircraft
+Allows aircraft maintenance technician to sign certifying completion of maintenance after implementation maintenance work planned on aircraft. This applies to all aircraft in the approved maintenance organization in accordance with CAAV VAR Part 5.
+
+Privileges applied to aircraft maintenance technician staff with a certificate of AMT level B2?
+@@Allows aircraft maintenance technician to sign completion of maintenance after performing maintenance work on the electrical and electronic systems of the aircraft
+Allows aircraft maintenance technician signing the completion of maintenance for outdoor maintenance in small as planned or repair simple failures within duty specified in the license. Privilege to sign completion of maintenance is limited in the scope of the work that the certificate was directly carried out at an approved maintenance organization in accordance with CAAV VAR Part 5.
+Allows aircraft maintenance technician to sign certifying completion of maintenance after implementation maintenance work planned on aircraft. This applies to all aircraft in the approved maintenance organization in accordance with CAAV VAR Part 5.
+
+Privileges applied to aircraft maintenance technician with a certificate of AMT level C?
+@@Allows aircraft maintenance technician to sign certifying completion of maintenance after implementation maintenance work planned on aircraft. This applies to all aircraft in the approved maintenance organization in accordance with CAAV VAR Part 5.
+Allows aircraft maintenance technician to sign completion of maintenance after performing maintenance work on the electrical and electronic systems of the aircraft
+Allows aircraft maintenance technician signing the completion of maintenance for outdoor maintenance in small as planned or repair simple failures within duty specified in the license. Privilege to sign completion of maintenance is limited in the scope of the work that the certificate was directly carried out at an approved maintenance organization in accordance with CAAV VAR Part 5.
+
+CAAV VAR PART 7 applicable to?
+@@All persons seeking licences under the aviation regulations of Vietnam and the persons and organizations that provide and supervise the required training, experience and authorisations
+The owners and operators of aircraft registered in Vietnam and the persons and organizations that provide maintenance services for these aircraft.
+ARS and CRS staff seeking licences under the aviation regulations of Vietnam
+
+The initially purpose of air travel is
+@@For military.
+For transportation of rich people.
+For transportation of all kind of people.
+
+When did the travelling really become popular
+@@1970s
+1950s
+1990s.
+
+When was CAAV established?
+@@1956
+1946
+1966
+
+When was VNA established officially?
+@@1993
+1983
+1973
+
+Which type of next – generation aircraft that makes VNA become the first airline in the world to successfully operate at the same time?
+@@Boeing 787-9 and Airbus A350.
+Boeing 787-9 Dreamliner and Airbus A330.
+Boeing 787-10 Dreamliner and Airbus A350
+
+How can the international flight be defined?
+@@Flight through 2 or more countries.
+Flight through more than 4 countries.
+Flight through more than 3 countries.
+
+Which is the hybrid airline in Vietnam ?
+@@Bamboo Airlines.
+Vietjet Air.
+Vietnam Airlines.
+
+Which airlines are the 4-star airline in Vietnam ?
+@@Vietnam Airlines.
+Vietjet Air.
+Bamboo Airlines.
+
+In the period from 1976 to 1989, which is the responsibility of General Department of Civil Aviation of Vietnam?
+@@Performing the econonic tasks of civil aviation and serving national defense.
+Performing only the economic tasks of civil aviation.
+Only for serving national defense
+
+How many job in other industries can be created by each job in air transport according to the research of ICAO in Circular 292-AT/124 about Economic contribution of civil aviation ?
+@@More than 5.5
+Less than 5
+Less than 3
+
+When did VNA became an official member of IATA ?
+@@2006
+2007
+2000
+
+When did VNA first received a 4-Star certificate from Skytrax ?
+@@12/07/2016
+12/07/2017
+12/07/2006
+
+What is AOC?
+@@Air Operator Certificate.
+Approved Operator Certificate.
+Approved Operator Center.
+
+Which one below is NOT a items that warrant immediate notification to the CAAV by telephone/telex/fax, with a written follow-on report as soon as possible but no later than within 72 hours of discovery ?
+@@Brake wheel is HOT
+Primary structural failure
+Engine structure failure
+
+The maintenance control manual is a part of ?
+@@Flight safety documents system.
+Flight training document.
+Crew operation document.
+
+The maintenance control manual is established by ?
+@@The operator.
+The DOA.
+CAAV.
+
+The person signing the maintenance release for Vietnam registed aircraft shall be licensed in accordance with ?
+@@VAR Part 7.
+VAR Part 5.
+VAR Part 12.
+
+The aircraft maintenance schedule is updated, revised by ?
+@@AOC.
+ATO
+AMO
+
+The aircraft maintenance schedule of Vietnam registed aircraft is approved by ?
+@@CAAV.
+AOC.
+The aircraft manufacturer.
+
+In the case of a major repair or major modification, the work must have been done in accordance with ?
+@@Technical data approved by the CAAV.
+Technical data approved by the AOC.
+Technical data approved by the AMO.
+
+How long the detailed maintenance records to show that all requirements for signing of a maintenance release have been met shall be kept ?
+@@For a minimum of 1 year after the signing of the maintenance release.
+For a minimum of 2 year after the signing of the maintenance release.
+For a minimum of 3 year after the signing of the maintenance release.
+
+The record of all servicing of fuel and oil, defects, trend monitoring and maintenance tasks and tests on that aircraft during the course of its operations is contained in
+@@Journey/Technical Log.
+AOC Certificate.
+Quality assurance records.
+
+The AOC holder shall have an inspection programme and a programme covering other maintenance, preventive maintenance, and modifications to ensure that
+@@Maintenance, preventive maintenance, and modifications performed in accordance with the AOC holder's maintenance control manual; Each aircraft released to service is airworthy and has been properly maintained for operation.
+Maintenance, preventive maintenance, and modifications performed in accordance with the AMO's maintenance organization exposition.
+No need to have an inspection program covering other maintenance, preventive maintenance, and modifications.
+
+Which information NOT included in Aircraft maintenance schedule ?
+@@Name and address of aircraft maintenance organization;
+Type, model and manufacturer’s serial number of aircraft, engines and propellers;
+Nationality and registration mark of aircraft for which the maintenance Schedule applies
+
+An AOC holder which is not approved as an AMO may
+@@Perform and certify routine and non-routine maintenance, preventive maintenance, or inspections for maintenance release, if authorized by the AOC holder’s operations specifications, as provided in its maintenance programme and maintenance control manual.
+Not perform and certify routine and non-routine maintenance, preventive maintenance, or inspections for maintenance release, if authorized by the AOC holder’s operations specifications, as provided in its maintenance programme and maintenance control manual.
+perform and certify routine and non-routine maintenance, preventive maintenance, or inspections for maintenance release, if authorized by the AOC holder’s operations specifications, as provided in its quality manual
+
+Who is review and approve the AOC holder's Maintenance Control Manual or portion of this manual?
+@@CAAV.
+AOC.
+AMO.
+
+What is the document the Vietnam AOC holder provide to the CAAV, and to the State of Registry of the aircraft, if different from the Authority, for the use and guidance of maintenance and operational personnel concerned?
+@@AOC holder's maintenance control manual and subsequent amendments.
+AOC holder's Quality Manual and Aircraft Maintenance Procedures
+AOC holder's Standard Operation Manual and Maintenance Organisation Exposition
+
+As of 5 November 2020, the Vietnam operator shall not operate an aeroplane unless maintenance on the aeroplane, including any associated engine, propeller and part, is carried out by
+@@An approved organization complying with VAR Part 5 or by an organization approved by another Contracting State and is accepted by the CAAV.
+An approved organization complying with VAR Part 9 and accepted by CAAV
+An approved organization complying with VAR Part 4 and accepted by CAAV
+
+The AOC holder shall ensure that the maintenance, preventive maintenance, and modification of its aircraft/ aeronautical products are performed in accordance with
+@@Maintenance control manual and/or current instructions for continued airworthiness, and applicable aviation regulations
+Standard operating procedure of the company and current instructions for continued airworthiness only.
+Aircraft maintenance schedule and maintenance control manual only
+
+When conducting commercial air transport operations, the AOC holder shall have assigned persons who are responsible for management and supervision of the following areas?
+@@Flight operations; The maintenance system; Crew training; Ground operations; Safety.
+Flight operations; The maintenance system; Workshop maintenance, Base Maintenance, Line Maintenance
+Flight operations; The maintenance system; Crew training; Ground handling system
+
+Who will approve a system of maintenance for aircraft not registered in Vietnam ?
+@@State of Registry
+AMO
+DOA
+
+Procedures for the reporting of failures, malfunctions, and defects in accordance with Part 5, to the CAAV, State of Registry and the State of Design:
+@@Within 72 hours of discovery
+Within 36 hours of discovery
+Within 24 hours of discovery
+
+If the AOC holder does not use the Aircraft Technical Log as the primarily record keeping method, the actual method to be used must be approved separately by ?
+@@CAAV.
+OEM
+DOA
+
+Fuel and oil records shall be retained by the operator for a period of ?
+@@Three calendar months
+Six calendar months
+Two calendar months
+
+The AOC holder's aircraft maintenance programme should be based on
+@@Maintenance programme information made available by the State of Design or by the organization responsible for the type design, and any additional applicable experience.
+Standard operating procedure made available by an ACO or actual experience during maintenance
+Maintenance programme information made available by the DOA or OEM and additional applicable experience of an AMO during maintenance
+
+Which principles shall the design and application of the maintenance programme observe ?
+@@Human Factors
+SMS Principle
+Safety Principle
+
+The AOC holder shall prepare management system of aircraft maintenance including :
+@@Servicing procedure for each type of aircraft.
+Security procedure for passenger.
+Ground operation for aircraft in ramp.
+
+What is MEL?
+@@Minimum Equipment List.
+Maintenance Equipment List.
+Maximum Equipment List.
+
+Quality assuarance programme of an AOC holder contains procedures designed to:
+@@Verify that all operations are being conducted in accordance with all applicable requirements, standards and procedures.
+Clearly define lines of safety accountability throughout the operator’s organization, including a direct accountability for safety on the part of senior management.;
+Ensure that all contracted maintenance is carried out in accordance with the contract
+
+Who will be designated for monitoring compliance with procedures required to ensure safe operational practices and airworthy aircraft?
+@@Qualified auditor.
+Qualified mechanic.
+Qualified pilot.
+
+Who establish a quality assurance programme of Vietnam operator?
+@@AOC holder.
+CAAV.
+Vietnam Ministry of Transport.
+
+Who accept the quality assurance programme of Vietnam operator?
+@@CAAV.
+AOC.
+ATO
+
+The AOC holder shall have a safety management system acceptable to the CAAV which implements requirements and framework specified in
+@@Subpart I of VAR Part 1.
+Subpart G of VAR Part 4.
+Subpart A of VAR Part 10.
+
+If AOC holder operates aeroplanes with a certificated take-off mass in excess of 20,000 kg or helicopters in excess of 7000 kg and/or more than 9 passengers when fitted with a flight data recorder, the AOC holder shall establish and maintain a flight data analysis program and report to CAAV on the fleet operation under issued AOC
+@@Monthly.
+Weekly.
+Quarterly.
+
+The required inspections of aircraft maintenance shall be performed by :
+@@The person performing the inspection is appropriately compliance with regulatory requirements of the approved quality system or quality management system.
+Anyone can perform required inspections of aircraft maintenance except unauthorised technical staff and not directly involved maintenance person
+The person performing the inspection is CAAV inspector, qualified auditor, certify staff level C and B1
+
+The AOC holder shall ensure that each quality system includes :
+@@A quality assurance programme that contains procedures designed to verify that all operations are being conducted in accordance with all applicable requirements, standards and procedures.
+Procedures to ensure that the passenger security check activities are being conducted in accordance with all applicable regulation and suitable for each airport operation.
+A safety programme that contains procedure signed to operating the aircraft and procedures to make sure that all maintenance operation are being conducted in accordance with authority regulations.
+
+Which of the following is not include in the maintenance control manual ?
+@@The quality audit programme, and the quality auditor(s) manager, shall be acceptable to the CAAV.
+A description of the required maintenance procedures
+A reference to the required maintenance programme
+
+Who approve the management system of aircraft maintenance ?
+@@CAAV.
+AOC.
+AMO.
+
+AOC holder’s maintenance control manual must contain :
+@@The required programmes that must be followed in performing maintenance, preventive maintenance, and alterations of the AOC holder’s aircraft.
+The procedures for passenger transportation, cargo shipping and delivery dangerous good
+The procedures for crew training, maintenance personnel licensing and training
+
+Which document contains the procedures and materials for the implementation and certify completion regular check of aircraft (CRS-SMI), certificates of maintenance review (CMR) and certification release to service (CRS) ?
+@@AOC holder’s maintenance control manual.
+AOC holder’s Certificate.
+Aircraft technical log.
+
+Who is establish and maintain a system of analysis and continued monitoring of the performance and efficiency of the maintenance programme, in order to correct any deficiency in that programme ?
+@@AOC holder.
+CAAV.
+ATO.
+
+Quality assuarance programme of an AOC holder is a part of:
+@@SMS programme
+Aircraft maintenance procedure
+Aircraft maintenance schedule
+
+Which of the following is not include in management system of aircraft maintenance:
+@@A description of the procedures for advising the State of Registry of significant in-service occurrences, including failures, malfunctions and defects as required by Section 4.047.
+Policies for the usage of manufacturer’s maintenance instruction manuals and other documents relating to technical services of aircraft;
+List of all forms used for maintenance and other aircraft-related technical tasks and clear explanation of purpose and method for using those forms.
+
+What is CMR?
+@@Certificates of maintenance review
+Certificates of management review
+Compliance monitoring review
+
+What is the AMO?
+@@Approved Maintenance Organizations
+Aircraft Maintenance Organizations
+Aviation Maintenance Organizations
+
+Which VAR part prescribe the requirements to approve Approved Maintenance Organization?
+@@VAR Part 5
+VAR Part 4
+VAR Part 7
+
+Who is responsible for issuing a maintenance organization approval?
+@@CAAV
+The Operator
+Customer
+
+The AMO certificate page will be signed by:
+@@CAAV
+AMO
+Customer
+
+Where will the AMO certificate be displayed?
+@@AMO’s facility
+CAAV
+Customer
+
+What is the privileges of AMO?
+@@Maintain aircraft or aircraft component for which it is rated at the location identified in the approval certificate.
+Maintain aircraft or aircraft component for any location according to CAAV regulations
+Maintain aircraft, tool and equipment for any location when there is request from customer
+
+Who is responsible for issuing a maintenance release of work has been performed satisfactorily by the non-certificated person?
+@@AMO holder
+Non-certificated person
+Customer
+
+What is the limitation of AMO?
+@@Maintain an aircraft or aircraft component for which it is approved only
+Depend on the actual situation
+No limit require
+
+Who is responsible for issuing a waiver?
+@@CAAV
+AMO
+Customer
+
+Who is responsible for terminating or amending the waiver?
+@@CAAV
+AMO
+Customer
+
+The accountable manager of AMO will be accepted by:
+@@CAAV
+VNA
+VAECO
+
+What is the responsible of accountable manager?
+@@Ensuring that all necessary resources are available to accomplish maintenance required to support the AMO's approval
+Manage maintenance works, ensure all maintenance works will be performed according to regulations
+Perform maintenance works, inspection and investigation when required
+
+What is the responsible of base maintenance manager ?
+@@Ensuring that all maintenance required to be carried out in the hangar, plus any defect rectification carried out during base maintenance, is carried out to specified design and quality standards;
+Ensuring that all maintenance required to be carried out on the line, including line defect rectification, is performed to the required standards;
+Ensuring that all work on aircraft components is performed to required standards and any corrective action resulting from quality compliance monitoring.
+
+Who is directly responsible to the accountable manager?
+@@Nominated managers
+Maintenance staff
+Certifying staff
+
+The person signing maintenance release or an approval for return to service shall be qualified in accordance with:
+@@VAR Part 4 and VAR Part 7
+VAR Part 9 and Part 6
+VAR Part 5 and Part 7
+
+Who is responsible to establish the training programme?
+@@AMO
+CAAV
+Customer
+
+The training programme includes:
+@@Training in knowledge and skills
+Training in regulations and practical
+Training in experiment and human factor
+
+Who is responsible to perform the training of certifying staffs?
+@@AMO or an institute selected by the AMO
+Authorised training organisation approved by CAAV
+Human Resource Division and Safety and Quality Department
+
+Continuation training should cover:
+@@Changes in AMO procedures
+Changes of certifying staff
+Change customer
+
+Who is responsible for maintaining a roster of certifying staff ?
+@@AMO
+Customer
+CAAV
+
+What information should be included in the roster of certifying staff?
+@@Details of the scope of their authorisation
+AMO raitings and opspecs
+Human Factor and CDCCL training
+
+Who can access to certifying staff’s record?
+@@Authorized person.
+Maintenance manager
+Any employee
+
+How long will certifying staff’s record be kept?
+@@At least 24 months after that person has ceased employment with the AMO
+At least 18 months after that person has ceased employment with the AMO
+At least 12 months after that person has ceased employment with the AMO
+
+What will certifying staff receive when leaving the AMO?
+@@A copy of their record
+Customer certificate
+Personnel roster
+
+Which form is the CAAV application form of AMO approval?
+@@CAAV FSSD Form 512B
+CAAV FSSD Form 513B
+CAAV FSSD Form 514B
+
+How long the CAAV need to check the applicant records from the date of receipt of application; notice to the applicant if the application is denied ?
+@@Within 3 working days
+Within 4 working days
+Within  5  working days
+
+How long  the CAAV need to give an official notification of AMO inspection schedule to AMO from the date of receipt of application?
+@@Within 7 working days
+Within 6 working days
+Within 5 working days
+
+What is the responsible of line maintenance manager ?
+@@Ensuring that all maintenance required to be carried out on the line, including line defect rectification, is performed to the required standards;
+Ensuring that all maintenance required to be carried out in the hangar, plus any defect rectification carried out during base maintenance, is carried out to specified design and quality standards;
+Ensuring that all work on aircraft components is performed to required standards and any corrective action resulting from quality compliance monitoring.
+
+In which condition the CAAV issue an AMO certificate to an AMO  applicant?
+@@After investigation and the applicant meets the applicable regulations and standards for the holder of an AMO
+After AMO send an application form and CAAV review
+After CAAV audit AMO and AMO could responde to any finding or comment from CAAV
+
+How long is the validity of a maintenance organization located outside Vietnam?
+@@12 months
+28 months
+24 months
+
+How much time does the CAAV need to issue a renewal AMO certificate from the date of application receipt?
+@@Within 20 days
+Within 10 days
+Within 30 days
+
+How much time  does the CAAV need to approve an amendment of AMO certificate from the date of application receipt?
+@@Within 20 days
+Within 10 days
+Within 30 days
+
+Where will the rating of AMO be specified ?
+@@AMO Operations Specification pages
+AMO certificate page
+AMO certificate introduction page
+
+How many class of aircraft ratings?
+@@7
+6
+5
+
+Aircraft rating class 7 is:
+@@Aircraft composed primarily of composite material, over 5,700 kg maximum certificated takeoff weight
+Aircraft composed primarily of composite material, of 5,700 kg maximum certificated takeoff weight or less
+Aircraft using turbo fan, of 5000 kg maximum certificated takeoff weight or less
+
+How many class of powerplant ratings?
+@@3
+2
+1
+
+Powerplant rating class 3 is:
+@@Turbojet and turbofan engines
+Turbopropeller and turboshaft engines
+Reciprocating engines
+
+How many class of propeller ratings?
+@@2
+3
+4
+
+Propeller ratings class 2 is:
+@@Variable-pitch propellers
+Fixed-pitch propellers
+Fixed-pitch and ground-adjustable propellers
+
+How many class of avionic ratings?
+@@3
+2
+1
+
+Avionic ratings class 1 is:
+@@Communication equipment
+Navigational equipment
+Pulsed equipment
+
+Avionic ratings class 2 is:
+@@Navigational equipment
+Communication equipment
+Pulsed equipment
+
+Computer systems ratings class 1 is:
+@@Aircraft computer systems
+Powerplant computer systems
+Avionics computer systems
+
+Computer systems ratings class 3 is:
+@@Avionics computer systems
+Powerplant computer systems
+Aircraft computer systems
+
+Instrument ratings class 1 is:
+@@Mechanical
+Electrical
+Gyroscopic
+
+Accessory ratings class 1 is:
+@@Mechanical
+Electrical
+Electronic
+
+What is the limited ratings of AMO?
+@@CAAV issues a limited rating to an AMO that maintains or alters only a particular type of airframe, powerplant, propeller …
+Manufacture issues a limited rating to an AMO that maintains or alters only a particular type of airframe, powerplant, propeller …
+Operator issues a limited rating to an AMO that maintains or alters only a particular type of airframe, powerplant, propeller …
+
+Aircraft rating class 6 is:
+@@Aircraft composed primarily of composite material, of 5,700 kg maximum certificated takeoff weight or less;
+Aircraft composed primarily of composite material, over 5,700 kg maximum certificated takeoff weight.
+Aircraft (other than rotorcraft and aircraft composed primarily of composite material) of 5,700 kg maximum certificated takeoff weight or less;
+
+Who is allowed to sign certifying completion of maintenance after implementation maintenance work planned on aircraft at VAR Part 5 AMO?
+@@The Category C certifying staff.
+The Category B certifying staff.
+The Accountable Manager.
+
+The privileges of AMT licence level B2 is:
+@@Sign completion of maintenance after performing maintenance work on the electrical and electronic system of the aircraft
+Signing the completion of maintenance for outdoor maintenance in small as planned or repair simple failures within duty specified in the licence.
+Sign completion of maintenance after performing maintenance work on the aircraft structure, propulsion systems and engine and electric systems.
+
+The privileges of AMT licence level B1 is:
+@@Sign completion of maintenance after performing maintenance work on the aircraft structure, systems and propulsion systems engine and electric
+Sign completion of maintenance after performing maintenance work on the electrical and electronic system of the aircraft
+Signing the completion of maintenance for outdoor maintenance in small as planned or repair simple failures within duty specified in the licence.
+
+An applicant for an AMT licence and rating shall:
+@@Not less than 18 years of age.
+There is no Age limitation.
+Not less than 21 years of age.
+
+How many level of AMT licence and associate ratings CAAV endorse ?
+@@4 level: A, B1, B2,C
+3 level: A,B,C
+5 level: A. B1. B2. C1, C2
+
+What kind of ratings for aircraft maintenance technicians that the CAAV may issue ?
+@@Airframe and Powerplant ratings
+Airframe and Structure ratings
+Powerplant and Structure ratings
+
+The privileges of AMT licence level A is:
+@@Signing the completion of maintenance for outdoor maintenance in small as planned or repair simple failures within duty specified in the licence.
+Sign completion of maintenance after performing maintenance work on the electrical and electronic system of the aircraft
+Sign completion of maintenance after performing maintenance work on the aircraft structure, systems and propulsion systems engine and electric
+
+What is AMT licence?
+@@Aviation Maintenance Technician Licence
+Aircraft Maintenance Technical Licence
+Airworthiness Maintenance Technical Lincence
+
+Sub-level A4 and B1.4 of an AMT licence is about:
+@@Piston engine helicopter
+Turbine engine helicopters;
+Piston engine aircraft
+
+Sublevel A2 and B1.2 of an AMT licence is about:
+@@Piston engine aircraft;
+Turbine engine helicopters;
+Piston engine helicopter
+
+What is ARS ?
+@@Aviavtion Repair Specialist
+Aircraft Repair Supervisor
+Airworthiness Repair Supporter
+
+What language shall the applicant for an ARS licence shall demonstrate the ability to read, write and understand?
+@@English
+Vietnamese
+France
+
+How can the applicant for an ARS licence demonstrate the ability to read, write and understand English?
+@@By reading and explaining appropriate maintenance publications and by writing defect and repair statements;
+By translate aircraft maintenance manual and maintenance data from English to Vietnamese
+By writing aircraft maintenance manual and maitenance data in English
+
+Testing for AMT licensed staff with rating B1,B2 and C must be performed by:
+@@An approved training organization in accordance with Part 9 or approved by training organizations conducted
+An approved training organization in accordance with Part 7 or approved by CAAV
+An approved training organization in accordance with Part 5 or approved by CAAV
+
+How many ratings the CAAV may issued for aviation repair specialists ?
+@@6
+5
+4
+
+The oral and practical test for the issuance of ARS licence must be held by:
+@@The CAAV or CAAV approved training organizations
+AMO and approved training organizations
+AMO with CAAV supervised
+
+Which of the information below not include in content of PEL licence ?
+@@Working experiement
+Date of birth
+Name of State
+
+What is experience requirements for a level C licensed engineer ?
+@@3 - year experience as a B1.1, B1.3, B2 engineer.
+8 - year experience as a B1.1, B1.3, B2 engineer.
+5 - year experience as a B1.1, B1.3, B2 engineer.
+
+What is experience requirements for the B2 rating or sub rating B1.1 or B1.3 licensed engineer ?
+@@3 years of practical maintenance experience on the type of aircraft involved and completed the training appropriate to the CAAV and is consistent with skilled technical staff in other technical fields.
+1 years of practical maintenance experience on the type of aircraft involved and completed training at an approved training organization in accordance with Part 9.
+2 years of practical maintenance experience on the type of aircraft involved and completed training in accordance with skilled technical staff in other technical fields.
+
+What is experience requirements for rating A or sub rating B1.2 and B1.4 licensed engineer ?
+@@3 years of practical maintenance experience on related aircraft type if the applicant is not technically trained on related aircraft.
+5 years of practical maintenance experience on related aircraft type if the applicant is not technically trained on related aircraft.
+2 years of practical maintenance experience on the type of aircraft involved and completed training at the approved training center in accordance to Part 9.
+
+The requirement of practical test for rating C grant is:
+@@Including representative maintenance work groups related to the requested rating.
+Any maintenance work as long as ensure the specified number of work groups.
+No need to complete the practical test for rating C grant.
+
+Which kind of AMT licences requires knowledge on Propeller subject?
+@@A or B1 aircraft
+A or B1 helicopter.
+B2.
+
+In order to obtain a type rated on initial aircraft, an engineer
+@@Work on the type of aircraft involved for 12 months.
+Complete a manufacturers/customers course.
+Having at least 2 years experience working on aircraft field
+
+In order to obtain the next supplement rating, an engineer must
+@@Work on the type of aircraft involved not less than 03 months.
+Complete a manufacturers/customers course.
+Having at least 2 years experience working on aircraft field
+
+Which article of Law on Civil Aviation of Vietnam regulations 2006  protect the public interest flight safety operations within the Country ?
+@@Article 8
+Article 4
+Article 5
+
+Which article of Law on Civil Aviation of Vietnam regulations 2006 determine the competition level between operators, implementation the role of controlling commercial aviation operators ?
+@@Article 5, 12, 112
+Article 4, 12, 112
+Article 8, 12, 112
+
+Which article of Law on Civil Aviation of Vietnam regulations 2006 define requirements of organization and service that owned by State or administrated by State ?
+@@Article 65
+Article 74
+Article 75
+
+Who is the AD issuer with the aircraft registered Vietnam?
+@@CAAV
+Maintenance organization
+Aircraft owner
+
+Who is responsible to suspension of flight operations at airport in case natural disasters or an airport emergency ?
+@@CAAV
+Maintenance organization
+Aircraft owner
+
+Who is responsible to supervise of civil aviation activities?
+@@Individual/ Organization assigned by CAAV
+Aircraft operator
+Maintenance Organization
+
+Which Article describe aviation specialized inspection?
+@@Article 13
+Article 12
+Article 11
+
+Which Article describe Organization, operation and direction of aviation safety and security supervision and management system?
+@@Article 7
+Article 6
+Article 8
+
+Which Article describe regarding aviation incidents and accidents?
+@@Article 9
+Article 8
+Article 10
+
+Which Article describe Execution of special flights ?
+@@Article 10
+Article 9
+Article 11
+
+Which Article describing Publishing, issuing, receiving and processing information and notices related to civil aviation activities?
+@@Article 12
+Article 11
+Article 13
+
+Who is responsible for supervising and directing the activities of the aviation security control force?
+@@CAAV
+AMO
+Airlines
+
+What is a principle of Article 5:" Principles gorverning civil aviation activitie" of Law on Cilvil Aviation of Viet Nam 2006 ?
+@@To ensure a healthy and fair competition among organizations, individuals of all economic components engaged in civil aviation activities.
+To promulgate legal instruments, standards and procedures on civil aviation.
+To develop and give instructions on the implementation of strategy, plans and policies on the civil aviation development.
+
+What is a title of Airticle 8 of Law on Civil Aviation of Viet Nam 2006 ?
+@@State administration of civil aviation
+Principles governing civil aviation activitie
+Prohibited acts in civil aviation activities
+
+Which of the following below is NOT include in Article 5:"Supervision of civil aviation activities" ?
+@@Supervising and directing the observance of the specific labor regime and labor discipline for aviation employees.
+Maintain adequate capacity and conditions for safe operation of aircraft;
+Maintain adequate capacity and conditions for aircraft maintenance and repair.
+
+An enterprise shall be granted the permit by the:
+@@Ministry of Transport
+CAAV
+Local Airport
+
+Which of the following is NOT duties and powers of CAAV ?
+@@Providing enterprises aviation services at airports and aerodomes
+Supervision of aircraft operation and maintenance,
+Issuance, approval and recognition of licenses, certificates, ratings and documents specialized in civil aviation operations
+
+What is :"Air traffic rights" ?
+@@The rights to conduct commercial air transportation with terms and conditions as to air carriers, routes, aircraft and flights, and who and what may be transported
+An enterprise which provides aviation services at airports and aerodromes
+Directives and commands to ensure compliance with regulations on aviation safety and security
+
+What is the type certificate?
+@@A type certificate is a document issued by a Contracting State to define the design of an aircraft, engine or propeller type and to certify that this design meets the appropriate airworthiness requirements of that State.
+A type certificate is a technical standards adopted by the Agency indicating means to show compliance with Regulation (EC) No 216/2008 and its Implementing Rules and which can be used by an organisation for the purpose of certification
+A type certificate is a design organization certificate to be issued according to the regulation in Chapter J of Part 21 in order to demonstrate its capability.
+
+What is the certificate specification?
+@@The certificate specification is technical standards adopted by the Agency indicating means to show compliance with Regulation (EC) No 216/2008 and its Implementing Rules and which can be used by an organisation for the purpose of certification
+The certificate specification is a document issued by a Contracting State to define the design of an aircraft, engine or propeller type and to certify that this design meets the appropriate airworthiness requirements of that State.
+The certificate specification is a design organization certificate to be issued according to the regulation in Chapter J of Part 21 in order to demonstrate its capability.
+
+What is CS applicable to Large Aeroplanes (EASA)?
+@@CS 25
+CS 23
+CS 27
+
+What is CS applicable to Large Rotorcraft (EASA)?
+@@CS 29
+CS 27
+CS 25
+
+What is CS applicable to Small Rotorcraft (EASA)?
+@@CS 27
+CS 25
+CS 29
+
+What is minor change ?
+@@One that has no appreciable effect on the weight, balance, structural strength, reliability, operational characteristics, noise, fuel discharge and exhaust affecting the airworthiness of the product;
+One that has effect on the weight, balance, structural strength, reliability, operational characteristics, noise, fuel discharge and exhaust affecting the airworthiness of the product;
+Maintenance tasks and intervals that have been specified as mandatory in approval of the type design
+
+How long does the application of change approval in the type design send to CAAV before operation day ?
+@@06 months
+03 months
+01 months
+
+Which is responsible for approving minor changes in type design?
+@@Approved by CAAV or DOA or accepted by CAAV
+Approved by DOA and aircraft owner
+Approved by CAAV and DOA
+
+What does the application of supplemental type certificate consist of ?
+@@Description of changes and define the re-inspection iaw Subpart 21.083
+Result of re-inspection iaw Subpart 21.083
+Description of changes to CAAV for approval
+
+When does the CAAV make officially inform the inspection schedule approval for Design organization in case the application is accepted?
+@@07 working days from application is accepted
+20 working days from application is accepted
+3 working days from application is accepted
+
+When will the CAAV issue Design organization certificate?
+@@Within 20 working days when the inspection results meet the requirements
+Within  07 working days when the inspection results meet the requirements
+Within 3 working days when the inspection results meet the requirements
+
+Which subpart is used for manufacturer’s privileges?
+@@Subpart 21.170
+Subpart 21.160
+Subpart 21.150
+
+What is the period of validity for a temporary Certificate of Registration of aircraft nationality ?
+@@Not more than 12 months
+Not more than 18 months
+Not more than 24 months
+
+What Certificate of Airworthiness shall be issued by CAAV?
+@@Special Airworthiness Certificate; Export Certificate of Airworthiness
+Standard Airworthiness Certificates; Export Certificate of Airworthiness
+Standard Airworthiness Certificates; Certificates of Crewmembers
+
+Certificate of Registration will be issued by CAAV for ?
+@@The owner of an aircraft registered has Vietnamese nationality who shall be carried aboard for all operations
+Only applicable to foreign aircraft will fly to Vietnam.
+Any aircrafts fly to Vietnam
+
+What types of reports will be collected and disseminated at organization to prevent accidents/incidents?
+@@Mandatory occurrence report
+Delay report
+AOG report
+
+What is EDTO?
+@@Extended diversion time operations.
+Extended down time operation.
+Extended twin engine operation.
+
+How to operate EDTO with aircraft registered Vietnam?
+@@Aircraft must be approved EDTO operations
+CAAV will accept all aircraft registered Vietnam for EDTO operations without approval.
+Aircraft owner notifies to CAAV before each flight.
+
+What is RVSM?
+@@Reduced Vertical Separation Minima
+Redundance Vertical Separation Minima
+Reduced Vertical Separation Maxima
+
+What is the definition off Certificate Specification (CS) ?
+@@Technical standards adopted by the Agency indicating means to show compliance with Regulation (EC) No 216/2008 and its Implementing Rules and which can be used by an organisation for the purpose of certification
+Prescribes airworthiness standards for the issuance of type certificates, and changes to those certificates, for aeroplanes in the normal category.
+A document issued by a Contracting State to define the design of an aircraft, engine or propeller type and to certify that this design meets the appropriate airworthiness requirements of that State
+
+What is Type Certificate ?
+@@A document issued by a Contracting State to define the design of an aircraft, engine or propeller type and to certify that this design meets the appropriate airworthiness requirements of that State
+Technical standards adopted by the Agency indicating means to show compliance with Regulation (EC) No 216/2008 and its Implementing Rules and which can be used by an organisation for the purpose of certification
+Prescribes airworthiness standards for the issuance of type certificates, and changes to those certificates, for aeroplanes in the normal category.
+
+Who issued type certificate for aircraft ?
+@@CAAV
+Operators
+AMO
+
+Which certificate is for aircraft registered in Vietnam that are being exported to the registry of another Contracting State ?
+@@Export Certificate of Airworthiness
+Registration Certificate
+Standard Airworthiness Certificates
+
+What is the definition of Continuing Airworthiness ?
+@@The process of ensuring that at any point in its service life, an aircraft is in compliance with airworthiness requirements and is in the air. safe operating statu
+A document issued by a Contracting State to define the design of an aircraft, engine or propeller type and to certify that this design meets the appropriate airworthiness requirements of that State
+Prescribes airworthiness standards for the issuance of type certificates, and changes to those certificates, for aeroplanes in the normal category.

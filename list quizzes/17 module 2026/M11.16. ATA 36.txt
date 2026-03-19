@@ -1,0 +1,339 @@
+Which component is responsible for removing moisture from the oil plumping system?
+@@Oil separator
+Oil tank
+Oil tube
+
+What type of containers are typically used in high pressure pneumatic systems for emergency use?
+@@Pressurized air or nitrogen containers
+Hydraulic fluid reservoirs
+Vacuum chambers
+
+What should be on a high pressure pneumatic reservoir?
+@@The date of manufacture and safe working pressure
+Expiry date
+Pressure in reserve
+
+How many ports does a typical high-pressure storage bottle has?
+@@2
+3
+4
+
+What type of compressors are typically used in high-pressure pneumatic systems?
+@@Oil lubricated compressors
+Water-cooled compressors
+Electric compressors only
+
+What is the purpose of check valve?
+@@Prevent backflow
+Prevent excess pressure
+Allow backflow
+
+How to check the lubricating oil level of the air compressor?
+@@In accordance with the applicable manufacturer’s instructions
+Weekly
+No need
+
+What is the function of the control valve in a high-pressure pneumatic reservoir?
+@@To keep air trapped inside the bottle until needed
+To measure the temperature of the air inside
+To filter impurities from the air
+
+What is the purpose of pressure reducing valves in a high pressure pneumatic system?
+@@To lower the system pressure for specific components
+To increase the system pressure for all components
+To monitor the temperature of the pneumatic fluid
+
+What does high pressure pneumatic system maintenance include?
+@@Servicing, troubleshooting, removal/installation of components, and operational testing
+Servicing, troubleshooting, removal/installation of components
+Removal/installation of components, and operational testing
+
+What is the purpose of an isolation valve in a medium pressure pneumatic system?
+@@Separate the pneumatic manifold from engine bleed air supply
+Prevent backflow
+Prevent excess pressure
+
+How does a bleed air pneumatic system normally store pneumatic air?
+@@Bleed air pneumatic system normally does not store pneumatic air in any particular container
+Bleed air pneumatic system store pneumatic air in a composite container
+Bleed air pneumatic system store pneumatic air in a stainless steel container
+
+What type of valve is used to control the flow of pneumatic air from the APU?
+@@Shutoff  valve
+Isolation valve
+Check valve
+
+Which compressor supplies the bulk of the pneumatic system demand?
+@@Intermediate  stage compressor
+Low stage compressor
+High stage
+
+What is the diameter of the medium pressure pneumatic system?
+@@3-4 inch
+2-3 inch
+4-5 inch
+
+What is the normal temperature in the pneumatic manifold?
+@@200°C
+100°C
+300°C
+
+How to see the temperature of the air in the pneumatic manifold in the cockpit?
+@@Using a gauge
+Using a clock
+using a ruler
+
+What information does the air synoptic display show?
+@@Duct pressure
+Check valve position
+Air compressor status
+
+What does the X symbol on the isolation valve on the maintenance page mean?
+@@The valve has failed or the switch on the bleed air/pressurization panel for the valve is in the non-normal position
+Valve is open
+Valve is close
+
+What is the main difference between single-use high-pressure pneumatic systems and rechargeable systems?
+@@Rechargeable systems allow the pneumatic system to operate components repeatedly rather than just once.
+Single-use systems only use nitrogen, while rechargeable systems use air.
+Single-use systems have compressors, while rechargeable systems do not.
+
+What is a characteristic of single-use high-pressure pneumatic systems?
+@@They are completely discharged after use.
+They are recharged by compressors during flight.
+They can only use nitrogen gas.
+
+What are the main sources for high-pressure pneumatic systems on aircraft?
+@@Engine-driven compressors, other on-board compressors, ground air, and ground nitrogen sources.
+Engine-driven compressors, other on-board compressors, and ground nitrogen sources.
+Engine-driven compressors, other on-board compressors, ground air, ground nitrogen sources and Solar-powered compressors.
+
+At what pressures is air typically stored in metal bottles for high-pressure systems?
+@@1000 to 3000 psi
+3000 to 5000 psi
+500 to 1000 psi
+
+What material is the high-pressure storage cylinder typically made of?
+@@Wire-wrapped steel
+Solid aluminum
+Plastic composite
+
+How is a high-pressure bottle typically charged in a pneumatic system?
+@@With either an on-board compressor or a ground source.
+Using only nitrogen gas.
+Only with a ground-operated compressor.
+
+What is the purpose of the high-pressure pneumatic back-up system in some aircraft?
+@@To extend the landing gear or actuate the brakes if the main system fails
+To operate the engines
+To control the cabin pressure
+
+Where is the nitrogen for emergency landing gear extension stored?
+@@In two bottles, one on each side of the nose wheel well
+In the main hydraulic reservoir
+In one bottle located in the cockpit
+
+What does the dump valve do during the emergency landing gear extension?
+@@It isolates the landing gear system from the hydraulic system.
+It recharges the hydraulic system.
+It releases nitrogen from the system.
+
+What is a similarity between rechargeable pneumatic systems and hydraulic systems?
+@@Both can operate components repeatedly.
+Both require nitrogen containers to function.
+Both do not use compressors during flight.
+
+How are nitrogen storage containers for pneumatic systems typically filled?
+@@Using ground-based compressors or high-pressure bottle transfer.
+By absorbing nitrogen from the atmosphere.
+Using only on-board compressors.
+
+What information is stamped on the high-pressure storage cylinder?
+@@The date of manufacture, safe working pressure, and the last hydrostatic test date
+The serial number, manufacturer’s name, and cylinder color
+The type of gas contained and storage temperature
+
+Why is a standpipe commonly used at the discharge port of the container?
+@@To prevent water collected inside the container from entering the system
+To reduce the speed of air exiting the container
+To increase the air pressure as it exits
+
+What type of high-pressure systems use this type of container with a standpipe?
+@@Both one-time and multi-deployment systems
+Only one-time use systems
+Only multi-deployment systems
+
+What is the purpose of the control valve on a high-pressure storage bottle?
+@@It traps air inside the bottle until the system is operated.
+It prevents nitrogen from entering the bottle.
+It regulates the bottle's charging pressure.
+
+What type of lines are used to distribute pneumatic power in high-pressure systems?
+@@High-pressure steel or stainless steel lines
+Plastic or composite lines
+Copper or aluminum lines
+
+What role does a shuttle valve play in one-time or emergency pneumatic systems?
+@@It closes off normal system flow and allows high-pressure air to operate the component.
+It traps air inside the compressor.
+It increases system pressure.
+
+Why are pressure regulators and relief valves important in a high-pressure pneumatic system?
+@@They control the pressure and limit excess pressure in case of regulator failure.
+They allow continuous air flow to all components.
+They prevent air from entering the system.
+
+How does high-pressure nitrogen function in the emergency back-up system?
+@@It applies pressure to move hydraulic fluid to the actuator
+It powers the electrical system
+It directly actuates the landing gear and brakes
+
+What must maintenance personnel do once the nitrogen bottles are depleted?
+@@Recharge them with nitrogen
+Replace them with new bottles
+Refill them with hydraulic fluid
+
+How long does it take to vent nitrogen from the emergency landing gear extension system?
+@@Approximately 30 seconds
+Approximately 10 seconds
+Approximately 1 minute
+
+What happens when the EMER LDG GEAR handle is pulled fully outward?
+@@Nitrogen is released to the landing gear selector/dump valve.
+The hydraulic system pressure is increased.
+The landing gear doors close.
+
+What indicates that the dump valve has been activated?
+@@A blue DUMP legend on the LDG GR DUMP switch
+A green DOWN AND LOCKED light on the landing gear control panel
+A red light in the landing gear control handle
+
+Where is the LDG GR DUMP switch located?
+@@On the flight deck overhead panel
+Next to the landing gear control handle
+On the side of the F/O
+
+What is illuminated once the landing gear is fully extended and locked?
+@@Three green DOWN AND LOCKED lights
+A blue DUMP legend on the LDG GR DUMP switch
+A red DUMP light on the dump valve switch
+
+What is the purpose of purging the pneumatic system?
+@@To remove contamination, moisture, or oil from the system
+To refill the system with nitrogen
+To increase the system’s pressure
+
+What should be done after adding oil to the compressor oil tank?
+@@Torque and secure the filler plug with safety wire
+Purge the system immediately
+Run the compressor to check the oil level
+
+What is the purpose of the isolation valve in the pneumatic manifold?
+@@To turn the bleed air supply ON and OFF for each engine
+To increase the pressure in the manifold
+To regulate the air temperature
+
+What does the APU use to supply air to the pneumatic manifold?
+@@A dedicated load compressor
+The ground pneumatic air supply adapter
+A bleed air tap from the compressor section of the engine
+
+What is the main source of air for a medium pressure pneumatic system?
+@@Bleed air from the compressor section of a turbine engine
+Hydraulic pump
+Air bottle/storage reservoir
+
+Which component in a medium pressure pneumatic system controls the flow of bleed air from the APU?
+@@Shutoff or regulating valve
+Pressure gauge
+Air bottle
+
+What is the purpose of the pneumatic manifold in the bleed air system?
+@@To route air to components like engine starters and wing anti-ice ducts
+To store hydraulic fluid for various systems on the aircraft, ensuring efficient operations
+To connect the engines directly to the hydraulic system for additional support
+
+What is the primary source of air for the airliner pneumatic system under normal conditions?
+@@Intermediate-stage compressor bleed air
+Air from the auxiliary power unit (APU)
+High-stage compressor bleed air
+
+Which computer regulates the pneumatic system on a Boeing 777?
+@@Air Supply Cabin Pressure Controller (ASCPC)
+Airfoil and Cowl Ice Protection System (ACIPS)
+Auxiliary Power Unit Controller (APUC)
+
+What is the typical diameter of ducting used for high-volume components like engine starting and wing anti-ice?
+@@3-4 inches
+5-6 inches
+1-2 inches
+
+What happens when the bleed air temperature exceeds approximately 490°F on a Boeing 737?
+@@A trip light illuminates, and the corresponding engine bleed valve closes.
+The isolation valve opens to reduce pressure and decrease the temperature in the affected area.
+The engine automatically shuts down to prevent any possible damage to other aircraft systems and ensure safety.
+
+How is pneumatic manifold pressure monitored on twin-engine airliners?
+@@Through a dual gauge connected to pressure transmitters for each engine
+Via a single gauge showing combined pressure for both engines
+By checking temperature switches that indicate abnormal pressure
+
+What type of fluid does a pneumatic pump use?
+@@Gas
+Oil
+Hydraulic
+
+What are the properties of the air flow blown through the impeller of a centrifugal pump?
+@@Increasing both the velocity and the pressure
+Increasing the velocity and decreasing the pressure
+Decreasing the velocity and increasing the pressure
+
+What type of air compressor is commonly used on the engines of large aircraft?
+@@Axial flow
+Centrifugal impeller
+Piston
+
+What type of air compressor is used in APU?
+@@Centrifugal compressor
+Axial compressor
+Displacement compressor
+
+What is a warning sign in case of excessive pressure in the pneumatic manifold?
+@@Advisory light
+Nothing
+Bell
+
+In a twin-engine aircraft vacuum system, how is each vacuum pump driven?
+@@By each engine of the aircraft
+By the vacuum manifold
+By the aircraft's electrical system
+
+What is the purpose of the four-way selector valve in a twin-engine aircraft vacuum system?
+@@To allow either pump to supply vacuum to the manifold
+To allow only one pump to supply vacuum to the manifold
+To allow both pumps to supply vacuum simultaneously to the system
+
+Which component is used to reduce vacuum for the turn and bank indicators?
+@@Needle valve
+Vacuum relief valve
+Check valve
+
+In the main position of the turn-and-bank selector valve, what does the vacuum gauge display?
+@@The vacuum in the lines of the artificial horizons and directional gyro
+No vacuum reading
+The vacuum for the turn and bank indicators
+
+If one vacuum pump fails, how can the system continue to operate?
+@@The remaining pump can supply vacuum through the manifold using the four-way selector valve
+The system will stop functioning
+The vacuum pressure will be maintained by the check valve
+
+What is the purpose of the drain line in the twin-engine aircraft vacuum system?
+@@To ensure no fluid accumulates at the lowest point in the system
+To maintain vacuum pressure in the system
+To connect vacuum-operated instruments to the four-way selector valve
+
+What is the main type pump using for bleed system? ?
+@@The pneumatically driven hydraulic pump
+The centrifugal Impeller Pump
+The vance pump

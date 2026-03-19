@@ -1,0 +1,432 @@
+Which one more easily removed than other between rime ice and clear ice?
+@@Rime ice
+Clear ice
+The same
+
+Which are effected of ice to aircraft?
+@@It decreases the amount of lift and cause unbalancing of the aircraft, making it hard to control
+It decreases the amount of lift and not affected to balancing of the aircraft, making it hard to control
+It increases the amount of lift and cause unbalancing of the aircraft, making it hard to control
+
+Ice buildup
+@@Increases drag and reduces lift
+Increases lift and reduces drag
+Increases both drag and lift
+
+Ice can be detected by
+@@Visual inspection and detector sensors
+Pilot's feeling and more fuel consumption
+Airplane flys lower and slower
+
+Which warning sign to alert the flight crew when ice is detected in generally?
+@@An annunciator light comes on
+A warning sound comes on
+Ice aprears on the windows
+
+Anti-icing equipment is turned on
+@@Before entering icing conditions
+After entering icing conditions
+As soon as entering icing conditions
+
+De-icing equipment is designed to remove ice
+@@After it begins to accumulate typically on the wings and stabilizer leading edges
+Before it begins to accumulate typically on the wings and stabilizer leading edges
+As soon as it begins to accumulate typically on the wings and stabilizer leading edges
+
+Basiclly, to prevent and remove ice, heating the surfaces with
+@@Hot air
+Cold air
+Ramp air
+
+What prerequisite is required for auto anti-ice activation?
+@@Aircraft must be airborne with switches on AUTO
+Ambient temperature must be < −20 °C
+Both engines have completed start
+
+If a single probe-heat cycle lasts 16 seconds, what system action is expected?
+@@Engine inlet anti-ice (EAI) activates automatically
+Heater turns off and no icing signal is sent
+Wing anti-ice (WIA) activates immediately
+
+What occurs if the probe vibration does not return to its normal rate after 25 seconds?
+@@Heater off and fault annunciation
+Heater stays on until recovered
+WIA (Wing Anti-ice) engages automatically
+
+How does the system detect the presence of ice on the probe?
+@@Through a decrease in the probe’s vibration frequency
+Using infrared temperature differential
+By measuring ambient humidity changes
+
+The most common means for de-icing wings and stabilizers on small turbine powered aircraft and reciprocating engine aircraft
+@@Is with pneumatic de-ice boots
+Is with hot water
+Is with chemical fluid
+
+Where have inflatable boots attached to them
+@@The leading edges of the wings and stabilizers
+The engine intake and fan blades
+The radom and windows
+
+Where is the source supplies the air to inflate the boots?
+@@Bleed air
+The vacuum
+Ramp air
+
+How to deflate the boots?
+@@By vacuum suction
+Discharge overboard
+Open the valves
+
+The de-icer boot air cells are connected to system pressure and vacuum lines by
+@@Non-kinking flexible hose
+Non-kinking flexible tube
+Kinking flexible hose
+
+Reciprocating engine aircrafts are commonly equipped with pneumatic de-icer systems which are
+@@The rubber boots
+The metal boots
+The wooden boots
+
+A distributor valve is a multi-position control valve controlled by
+@@The timer
+The on-off switch
+The manifold
+
+Prior to securing a leading edge de-icing boot you must
+@@Remove all paint
+Paint the surface
+Shave rivet to prevent further abrasion
+
+A deicer boot is completely bonded to the leading edge to
+@@Prevent electrical static build up
+Provide smoother airflow over leading edge
+Provide more efficient deicer cycles
+
+How long the boots are inflated for one cycle?
+@@Most boots are inflated for 6 to 8 seconds
+Most boots are inflated for 6 to 8 minutes
+Most boots are inflated for 6 to 8 hours
+
+In de-energized mode, discharge air from the dry air pumps is dumped overboard through
+@@The de-ice control valves
+The discharge valves
+The shuttle valves
+
+Which componant is set to supply the optimum suction for the gyros, which is sufficient to hold the boots tightly against the airfoil surfaces.
+@@The vacuum regulator
+The deflate valve
+The deice control valve
+
+The gyroscopic instruments are also connected to the vacuum side of the
+@@Dry air pump
+The deice control valve
+The vacuum regulator
+
+Light, dry snow in subzero temperatures should be blown off whenever possible; the use of hot air is
+@@Not recommended
+Recommended
+Only method
+
+How is the air supply to the de-ice boot system controlled by the flight crew?
+@@With cockpit valves, regulators, and switches
+Through a dedicated de-icing Push Button Swicth
+Using automated digital temperature control
+
+What happens if electric power is lost during de-ice boot operation?
+@@Boots automatically deflate and stay retracted by vacuum
+Boots remain inflated until power is restored
+The system switches to standby pneumatic inflation
+
+What sequence occurs after selecting a single-cycle boot operation?
+@@Wing boots inflate for 6 seconds, then stabilizer boots inflate for 4 seconds
+All boots inflate simultaneously for 10 seconds
+Stabilizer boots inflate first, followed by wing boots for equal timing
+
+What is the proper method for cleaning de-ice boots during scheduled aircraft washing?
+@@Clean with soap and water; use naptha for grease removal
+Remove boots and soak them in an alcohol-based solution
+Use compressed air and a dry cloth to prevent water damage
+
+During routine inspections, how should weather cracking on rubber de-ice boots be treated?
+@@Apply conductive cement to seal and restore conductivity
+Apply a black silicone-based adhesive to seal the cracks
+Replace the boots and perform pressure decay testing
+
+How should a technician adjust the pressure relief valve in a pneumatic de-ice system?
+@@By adjusting the screw while observing the de-ice pressure gauge
+By manually inflating the boots and measuring internal volume
+By closing all bleed air valves and monitoring boot stiffness
+
+What happens once the automatic propeller de-icing system is turned on?
+@@The system cycles continuously through all elements in timed sequence
+The heating cycle starts once the outside air temperature drops below freezing
+The control unit checks boot resistance before energizing the system
+
+Why are the heating elements of electric de-ice boots operated in paired sections?
+@@To avoid aerodynamic imbalance during de-icing operations
+To alternate electric current to reduce thermal stress
+To provide uniform heating and minimize energy usage
+
+Which type of air is typically used for windshield heating on small aircraft?
+@@Warm air ducted from the cabin or heating system
+Ambient ram air collected through NACA ducts
+High-pressure compressor bleed air from engines
+
+Why are pneumatic windshield heat systems not approved for flight into known icing conditions?
+@@The heat they provide is insufficient for continuous anti-icing capability
+The systems lack automatic ice detection and self-regulation features
+These systems only operate when the aircraft is on the ground
+
+Where can use the engine bleed air for anti-icing in genenal?
+@@The leading edges of the wing
+The probes and drainmast
+The windows and windshields
+
+Where are chemical anti-icing used in some aircraft?
+@@To anti-ice the leading edges of the wing, stabilizers, windshields, and propellers
+To anti-ice the engine intake, enigne core, fan blades,, gearbox
+To anti-ice the windshear, windows, static ports, pitot tubes, ice detectors
+
+Where is the anti-freeze solution pumped from?
+@@A reservoir
+A water tank
+The ground
+
+How does the liquid flows over the wing and tail surfaces, preventing the formation of ice as it flows.
+@@By a switch in the cockpit,
+By automatic system
+By a switch in the cabin
+
+What must do before dispatch when aircraft surfaces are contaminated by frozen moisture?
+@@They must be deiced prior to dispatch
+They must be anti-iced prior to dispatch
+They have to delay that flight some hours
+
+What is purpose of the engine inlet anti-ice?
+@@It is extremely important that ice not be allowed to build on the engine inlet cowl
+It is extremely important that ice not be allowed to build on the whole engine
+It is extremely important that ice not be allowed to build on the engine core
+
+Air for anti-icing of the wings is obtained from
+@@Engine compressors
+Air conditioning ducting
+A combustion heater
+
+The advantage of leading edge fluid de-icing is
+@@Aerodynamic shape is not disturbed
+Less of a fire hazard
+Efficient
+
+Windshield heating provides
+@@Impact resistance enhancement
+Thermal expansion for a tighter fit
+Increases strength to resist cabin pressure
+
+Windscreen heating is supplied from
+@@Frequency wild generator, direct to the windscreen
+DC generator, via a transformer
+Frequency wild generator, via a rectifier
+
+How much temperature of the wing leading edge reaches when temperature switches turn ON the operation light above the switch
+@@Approximately +140 °F
+Approximately +212 °F
+Approximately +350 °F
+
+When the red WING OVHT warning light on the annunciator panel illuminates?
+@@Temperature in the wing leading edge exceeds approximately +212 °F (outboard) or +350 °F
+@@
+Temperature in the wing leading edge exceeds approximately +80 °F (outboard) or +140 °F
+
+Temperature in the wing leading edge exceeds approximately +400 °F (outboard) or +500 °F
+
+
+The joined sections of ducting are hermetically sealed by
+@@Sealing rings
+Metal rings
+Titanium rings
+
+Where can find the rate of leakage at a given pressure should not exceed limit?
+@@AMM
+SRM
+IPC
+
+A wing thermal anti-ice annunciator is illuminated permanently in flight deck without selection being made. The most probable cause would be
+@@A short circuit
+An open circuit
+A normal
+
+Ice formation on wings is due to.
+@@Supercooled water changing state on contact with the wing
+Ice crystals forming layers on contact with the wing
+Suspended ice crystals melting on contact with the wing and instantly freezing
+
+Air leaks can often be detected by
+@@A soap-and-water solution
+The pressure sensors
+Feeling by hand
+
+Lagging or insulating blankets must be checked for security and must be free of
+@@Flammable fluids
+Contaminations
+Chemicals
+
+What kind of the duct using in wing leading edge slats?
+@@Telescoping duct
+Titanium duct
+Fixed duct
+
+What name of the valve is used in wing anti-ice system?
+@@Wing anti-ice valve
+Wing anti-ice pressure valve
+Wing anti-ice limittaion valve
+
+Which one controls the WAI system?
+@@The ACIPS computer
+The Bleed air computer
+The warning computer
+
+The WAI valves stay closed as long as the operational mode inhibit is active
+@@Active
+Deactive
+Standby
+
+Where can show some information of WAI system?
+@@Onboard computer maintenance page
+Onboard laptop AMM soft
+AMM book in cockpit
+
+How can take a test of WAI system?
+@@Auto by BITE
+Manual by Pilot
+No need do Test
+
+Does the WAI valves move during this test?
+@@No, they do not move
+Yes, They do
+They move after test completed
+
+When the power-up test occurs?
+@@The card gets power
+An aircraft gets power
+Hot air is supplied to system
+
+What is purpose of WAI BITE test?
+@@This test makes sure that valve malfunctions are detected
+This test makes sure that computer working normally
+This test makes sure that valve can get the hot air directly
+
+The EAI controller has a torque motor that moves in response to
+@@ACIPS - EAI logic card signals
+The engine anti-ce inlet valve
+the bleed air from high stage compressor
+
+EAI is automatic when the anti-ice switch is set to
+@@AUTO
+Manual
+On
+
+EAI indications and warnings are displayed on the flight deck
+@@EICAS displays
+Engine page
+Pneumatic page
+
+How can perform anti-ice for air data probes, such as pitot tubes, static air ports, TAT and AOA probes, ice detectors, and engine P2/T2 sensors
+@@Use thermal electric anti-ice in those probes
+Use the hot air from high stage compressor
+Use the chemical to apply to surface of probes
+
+Which are used to keep the windshield clear of ice, frost, and fog
+@@The laminated construction facilitates the inclusion of electric heating elements into the glass layers
+The laminated construction facilitates the inclusion of warm air into the glass layers
+The laminated construction facilitates the inclusion of chemical fluid into the glass layers
+
+Window heat anti-ice systems typically BITE test automatically, they are connected to an aircraft data bus for communication with
+@@The aircraft information management system
+The aircraft electric system
+The aircraft pneumatic  system
+
+How can apply the anti-ice chemical to the leading edge of wings?
+@@It seeps through the holes. Aerodynamic forces cause the fluid to coat the upper and lower surfaces of the airfoil
+It sprays out from the nozzle on the wings.
+It fills in on the surface of the wings by the special machine
+
+Ground de-icing of an aircraft is performed by
+@@A ground crew
+A cabin crew
+The representative
+
+What type of fluid use to de-icing on ground?
+@@An ethylene glycol or propylene glycol based liquid
+The pure and hot water
+The water mix with special chemical
+
+Can spray the de-ice fluid on the whole aircraft?
+@@No, avoid engine inlets, probes and ports, air conditioning inlets, apu inlet
+Yes, it can spray the de-ice fluid on the whole aircraft
+Yes, it can spray the de-ice fluid on the whole aircraft except engine only
+
+Holdover Time (HOT) is ... that de- icing/anti-icing fluid prevents the formation of frost or ice and the accumulation of snow on the critical surfaces of an aircraft
+@@The estimated time
+The real time
+The UTC time
+
+In an electrical windshield wiper system, the blades are driven by
+@@An electric motor(s)
+A pneumatic motor(s)
+A mechanical motor(s)
+
+Maintenance performed on windshield wiper systems consists of
+@@Operational checks, adjustments, and troubleshooting
+Operational checks, function check, and troubleshooting
+Operational checks, adjustments, and un-replacement
+
+An operational check should be performed whenever
+@@A system component is replaced or whenever the system is suspected of notworking properly
+A system component is replaced or whenever the system is suspected of working normally
+A system component is damaged or whenever the system is suspected of notworking properly
+
+During the check, make sure that the windshield area covered by
+@@The wipers is free of foreign matter and is kept wet with water
+The wipers is free of movement and is kept wet with water
+The wipers is free of foreign matter and is kept wiper blades dry
+
+Adjustment of a windshield wiper system consists of
+@@Adjusting the wiper blade tension, the angle at which the blade sweeps across the windshield, and proper parking of the wiper blades
+Adjusting the wiper blade length, the angle at which the blade sweeps across the windshield, and proper parking of the wiper blades
+Adjusting the wiper blade tension, the angle at which proper parking of the wiper blades, and corrosion of the wiper blades
+
+Both Pilot and co-pilot use the same the rain repellent system
+@@No, they are separate system
+Yes, they use the same one
+It combines the both side
+
+A rain repellent system permits application of the chemical repellent by
+@@a switch or push button in the cockpit
+Automatic when the windshield is wets
+Automatic during the wipre operates
+
+Why it use the hydrophobic coating on the external surface of windshield?
+@@The coatings cause raindrops to bead up and roll off, allowing the flight crew better visibility during heavy rain.
+Because it is cheaper than wipers and hard to protect the windshield by bird strike
+Because this coating can protect the windshield from lighting strike and bird strike
+
+On large transport aircraft, the windshield wiper system is.
+@@Independent on each side with different power sources
+Independent on each side but with the same power source
+One system for both sides but with the same power source
+
+Pneumatic rain removal systems
+@@Use engine bleed air at high velocity to remove water droplets from windscreen
+Are not permitted on large transport aircraft
+Use a pneumatic motor to drive windscreen wipers
+
+Windshield rain repellent is applied
+@@When rain is on windows and spread by wipers
+Before rain and spread on window surface by wipers
+When in heavy rain so vision is unobscured
+
+Does the wiper systems work well in all weather condition?
+@@No, it is not satisfactory vision in heavy rain
+Yes, it provides satisfactory vision in all condition
+No, it is not satisfactory vision in small rain only

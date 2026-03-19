@@ -1,0 +1,129 @@
+What does the term "avionics" refer to?
+@@Electronic systems used in aircraft
+Mechanical systems in aircraft
+Fuel systems of an aircraft
+
+What does "integrated" mean in Integrated Modular Avionics (IMA)?
+@@Combining multiple functions into a single piece of equipment
+Separating functions into multiple devices
+Connecting avionics systems through cables
+
+What does "modular" mean in the context of IMA?
+@@Dividing systems into replaceable modules
+Creating non-interchangeable components
+Using single-use systems for each function
+
+How does IMA reduce the number of LRUs in an aircraft?
+@@By integrating multiple functions into fewer LRUs
+By duplicating the same LRU for different systems
+By adding more wiring to each LRU
+
+Why does IMA use fewer wires than traditional systems?
+@@Integration of modules reduces unnecessary wiring
+Each module has separate wiring for each function
+IMA requires additional wiring for each component
+
+What is the core function of a Digital Data Bus in an IMA system?
+@@Transferring information between equipment
+Powering electrical systems
+Controlling fuel consumption
+
+How does the use of digital data buses in IMA contribute to weight reduction?
+@@Fewer wires are required to transfer data
+Digital data buses increase wiring complexity
+Each wire carries multiple signals simultaneously
+
+What is a key feature of ARINC 429 in IMA systems?
+@@It transfers data unidirectionally at speeds of up to 100 kbps
+It transfers data bidirectionally
+It is used for mechanical control signals
+
+What is the main processing function of the core system in IMA?
+@@It processes data from various sensors and controls
+It stores backup data for future use
+It only handles communication functions
+
+Which of the following functions does the core system of IMA NOT perform?
+@@Monitoring hydraulic pressure
+Calculating throttle settings
+Processing data for flight management
+
+What is the role of network components in an IMA system?
+@@They transfer data between the core system and other aircraft systems
+They store backup data for avionics
+They control the aircraft’s navigation system
+
+What is the main benefit of using IMA in aircraft?
+@@Reduction in bulk and weight of the avionics systems
+Increase in the number of LRUs installed
+Decrease in system reliability
+
+Which function is typically integrated into an IMA system?
+@@Brake Temperature Monitoring
+Wing structure control
+Passenger entertainment system
+
+What is a major advantage of having a modular design in IMA systems?
+@@Modules can be easily replaced or upgraded
+Systems cannot share modules
+Each system requires a separate module for every function
+
+What is the role of power supplies in a traditional non-IMA avionics system?
+@@Each LRU has its own power supply connected to the aircraft’s electrical system
+Power is shared between multiple LRUs
+Only one power supply is used for all avionics systems
+
+What advantage does IMA offer in terms of fault tolerance?
+@@Redundant power supplies prevent system failure even if one supply fails
+Each module operates completely independently
+The system automatically shuts down during a power failure
+
+What is the primary data transfer format used by the Boeing 777 AIMS?
+@@ARINC 629
+ARINC 429
+AFDX
+
+What kind of data transfer rates are associated with ARINC 629?
+@@Up to 2 Mbps
+Up to 12 kbps
+Up to 100 Mbps
+
+Which system on the Boeing 777 uses IMA technology?
+@@Airplane Information Management System (AIMS)
+Hydraulic control system
+Cargo management system
+
+What is the function of Line Replaceable Modules (LRMs) in the 777 AIMS system?
+@@They process information for avionics systems
+They control fuel management
+They store communication data
+
+Which of the following is a feature of IMA systems used in the Boeing 777?
+@@The use of digital data buses for interconnection
+Separate wiring for each avionics component
+Non-redundant power supplies
+
+What display is used for aircraft pitch and roll attitude in the Boeing 777 AIMS?
+@@Primary Flight Display (PFD)
+Navigation Display
+Multifunction Display
+
+What kind of information is displayed on the EICAS in the Boeing 777 AIMS?
+@@Engine operating parameters such as EPR and N1
+Weather radar data
+Compass heading information
+
+Which IMA feature improves flexibility in cockpit displays?
+@@The ability to switch functions between Display Units (DUs)
+Fixed display positions
+Display redundancy for power saving
+
+Which display can show formats like Maintenance Page and Electronic Checklist?
+@@MFD
+EICAS
+ND
+
+What kind of information does the EICAS display provide?
+@@Engine parameters and system alerts
+Navigation routes
+Weather radar

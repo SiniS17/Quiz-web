@@ -1,0 +1,119 @@
+Which aspect of the water system involves the removal of waste water?
+@@Draining
+Distribution
+Supply
+
+Where is potable water stored in an aircraft?
+@@Below the cabin floor
+In the aft cabin
+In the overhead compartments
+
+How are water servicing panels usually protected against icing?
+@@By heating them
+By painting them black
+By insulating them with foam
+
+What system typically pressurizes the potable water tanks in an aircraft?
+@@Pneumatic system
+Electrical system
+Hydraulic system
+
+How is water pushed through distribution lines to lavatories and galleys?
+@@By pressure inside the tanks
+By gravity
+By manual pumping
+
+Where are in-line electric element heaters typically installed in the water system?
+@@Upstream of all hot water faucets
+Downstream of all cold water faucets
+Inside the water tanks
+
+Why is it necessary to completely drain the water system before disinfecting it?
+@@To prevent contamination and ensure proper disinfection
+To improve fuel efficiency
+To reduce the aircraft's weight
+
+Where is waste deposited in a vacuum flush system?
+@@In a waste holding tank
+In a separate container inside the toilet bowl
+In a  holding tank under each toilet
+
+How long is potable water injected to rinse the toilet when flushed?
+@@For 1 second
+For 5 seconds
+For 10 seconds
+
+What must be observed to avoid damage to the water tank during filling?
+@@Maximum water fill pressure
+Maximum water fill temperature
+Maximum water fill volume
+
+What type of valve allows filling of the passenger water system?
+@@Fill/overflow valve
+Check valve
+Relief valve
+
+What is the function of the overfill drain line in the water system?
+@@To drain excess water overboard
+To increase water pressure
+To control water temperature
+
+What devices are used to prevent ice in the water system in cold sections?
+@@Heat tapes, inline heaters, and heated hoses
+Cooling fans and thermostats
+Metal insulators and air filters
+
+What prevents splash tank contents in the toilet system?
+@@A separator
+A filter
+A heater
+
+What additional function does the flush control module perform besides opening and closing the flu sh valve?
+@@It opens a rinse valve to release potable water
+It heats the toilet seat
+It cleans the water basin
+
+How is the vacuum flush system connected to the aircraft's systems?
+@@Through the aircraft’s central monitoring system and the cabin services system
+Via the navigation system
+Through the engine control system
+
+What are the positions of the lavatory drain valve?
+@@OFF, DRAIN, and ON
+OPEN, CLOSE, and LOCK
+FILL, EMPTY, and NEUTRAL
+
+The suction for toilet flushing is made ?
+@@By an electric vacuum blower when aircraft on ground
+By the differential pressure between the cabin pressure and the outside air pressure below 16000 feet
+By an electric pump located downstream each waste line
+
+Why are lavatories and galleys in aircraft highly susceptible to corrosion?
+@@Due to the presence of water
+Due to high altitude
+Due to air pressure
+
+What is applied to the structure as an anti-corrosion measure?
+@@Corrosion Preventative Fluids (CPFs)
+Paint
+Lubricant
+
+What needs to be done if leaks in the toilet system are detected?
+@@Trace and cure the leaks
+Paint the affected area
+Reduce air pressure
+
+What additional method is used to protect the floor before lavatories and galleys are installed?
+@@Applying a Mylar moisture barrier
+Painting the floor with waterproof paint
+Installing metal sheets
+
+What precaution must be taken when applying CPF?
+@@Use in well-ventilated areas and wear face masks
+Use only in cold temperatures
+Mix with water before use
+
+How can floor panels be sealed to prevent fluid from getting into the structure?
+@@By using tape and two-part sealants
+By using metal plates
+By covering them with plastic sheets

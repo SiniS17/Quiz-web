@@ -1,0 +1,354 @@
+What type of seals is most used on bleed duct system that is advantages of A320/321NEO?: (Level 1)
+Using new silicon seals
+@@Using PTFE seals
+Using new rubber seals
+
+The cross bleed valve is: (Level 1)
+@@Controlled and operated electrically by 2 motors
+Controlled and operated electrically by 1 motors
+Controlled electrically, and operated pneumatically
+
+IP Check Valve is controlled closed by: (Level 1)
+BMCs closed signals.
+Both of them
+@@High pressure bleed air come from HPV.x
+
+How is PRV controlled in closed position manually by? (Level 1)
+ENGINE FIRE pushbutton switch APU BLEED pushbutton switch.
+@@ENGINE FIRE pushbutton switch or ENGINE BLEED pushbutton switch,
+ENGINE BLEED pushbutton switch or APU BLEED pushbutton switch.
+
+How are the position of valves of engine PW1100G bleed system monitored? (Level 1)
+By control signal from BMCs
+By micro switches
+@@By pressure transducers
+
+Cooling air for precooler heatexchanger comes from: (Level 1)
+Ram air through ram air port,
+Bleed air of LPT stage 3
+@@Fan air of the engine
+
+How does the signal of APU bleed valve position send to BMCs: (Level 1)
+@@APU bleed valve position send signal to BMCs via ECB.
+APU bleed valve position send signal to BMCs directly.
+APU bleed valve position send signal to BMCs via ACSCS.
+
+For PW 1130 Engine, HPV is: (Level 2)
+Electric control and open
+@@Electric control and Bleed Pressure open
+Bleed Pressure control and open
+
+Regarding pressure relief panels are there on each wing: (level 2)
+There are 5 panels located at inboard of engine pylon.
+There are 5 panels located at outboard of engine pylon.
+@@There are 3 panels located inboard of engine pylon and 2 outboard of engine pylon.x
+
+About channel B of BMC internal archiquecture, which statement is correct (level 2)
+@@Channel B is a full hardware part and differ from channel A
+Channel B is a full digital channel same as channel A
+Channel B is a full hardware and same as channel A
+
+How is the cross bleed valve controlled and operated? (Level 2)
+Pneumatically controlled and operated
+Electrically controlled and pneumatically operated
+@@Electrically controlled and operate
+
+Which sensors to give warning message HP VALVE FAULT: (level 2)
+Different Pressure Sensor 18HA (DPS)
+Bleed Pressure Sensor 8HA (BPS)
+@@Bleed Manifold Pressure Sensor 7HA (BMPS)
+
+Which sensors to give warning message AIR ENGINE ABNORMAL PRESS: (level 2)
+@@Bleed Pressure Sensor 8HA (BPS) and Bleed Manifold Pressure Sensor 7HA (BMPS)
+Different Pressure Sensor 18HA (DPS) and Bleed Pressure Sensor SHA (BPS)
+Bleed Manifold Pressure Sensor 7HA (BMPS) and Different Pressure Sensor 18HA (DPS)
+
+For PW 1130 Engine, when one BMC has failed (Level 2)
+@@Remain BMC can control & monitor both side
+Related PRV close
+Related PRV open
+
+The function of Differential Pressure Sensor 18HA (DPS) is: (level 2)
+@@Both answer are correct.
+Provide position of OPV and PRV.
+Monitor the pressure, control PRV position in case of reverser flow.
+
+About channel A of BMC internal archiquecture, which statement is correct (level 2)
+Channel A is a full digital channel same as channel B
+Channel A is a full hardware part same as channel B
+@@Channel A is a full digital channel differ from channel B
+
+PRV is closed when: (Level 2)
+@@Either Associated Starer Air Valve (SAV) not Closed, HPV failed open or Dual BTS channels failed,
+HPV failed open.
+Dual BTS channels failed.
+
+What is the signal which the BMCs inform the ACSCs for pack flow calculation: (level 3)
+@@Precooler outlet temperature
+Precooler outlet pressure.
+Precooler outlet temperature and pressure.
+
+BMC was finding about reverser flow by: (Level 3)
+BPS: BLEED PRESSURE SENSOR.
+BMPS: BLEED MONITORING PRESSURE SENSOR.
+@@DPS: DIFFERENTIAL PRESSURE SENSOR. 
+
+How is the Engine anti-ice work? (Level 3)
+Electrically controlled and operated by 9th stage high pressure compressor air
+Electrically controlled and operated by 3th stage high pressure compressor air
+@@Electrically controlled and operated by 6th stage high pressure compressor air 
+
+What is the Differential pressure sensor (DPS) for? (Level 3)
+BMC uses the signal of DPS to control IP/HP switching
+DPS monitors the pressure, control the OPV position
+@@DPS monitors the pressure, control the PRV position and make sure that no reverse flow occurs
+
+How can you operate the Nacelle anti-ice system? (Level 3)
+By ENG ANTI-ICE push button, in flight only
+By ENG ANTI-ICE push button, on ground
+@@By ENG ANTI-ICE push button, on ground and in flight
+
+When an APU duct leak is detected during engine start from APU bleed: (Level 3)
+@@APU bleed and cross feed valves remain open
+APU bleed valve closes and cross feed opens
+APU bleed and cross feed valves close
+
+IP Check Valve connect to: (Level 3)
+LPC Stage LP2.
+@@HPC Stage HP3.
+HPC Stage HP6.
+
+How many pressure relief panels are there on each wing: (level 1): (Level 1)
+@@5 panels
+3 panels
+4 panels
+
+How are the position of valves of engine PW1100G bleed system monitored? (Level 1)
+By control signal from BMCS
+By micro switches
+@@By pressure transducers
+
+What is the purpose of IP/HP switching? (Level 1)
+@@To keep sufficient bleed pressure at low engine speed.
+To regulate the output pressure depending on the Fan Air Valve position.
+To regulate the output temperature depending on the configuration of users.
+
+In case of motor actuator failure, the cross bleed valve will: (level 1): (Level 1)
+Fail safe to close position.
+@@Stucked in last position.x
+Fail safe to open position.
+
+What type of seals is most used on bleed duct system that is advantages of A320/321 NEO? (level 1): (Level 1)
+Using new silicon seals
+Using new rubber seals
+@@Using PTFE seals
+
+What is the design principle of the bleed leak detection loop? (Level 1)
+Pressure.
+Capacitor.
+@@Resistance. 
+
+Which area has the single detection loop? (Level 1)
+Pylon Wing
+@@APU aft supply duct
+No answer
+
+Which sensors to give warning message AIR ENGINE BLEED FAULT: ( level 2)
+Bleed Manifold Pressure Sensor 7HA (BMPS)
+Different Pressure Sensor 18HA (DPS)
+@@Bleed Pressure Sensor 8HA (BPS)
+
+Which sensors to give warning message AIR ENGINE ABNORMAL PRESS: (level 2)
+Bleed Manifold Pressure Sensor 7HA (BMPS) and Different Pressure Sensor 18HA (DPS)
+@@Bleed Pressure Sensor 8HA (BPS) and Bleed Manifold Pressure Sensor 7HA (BMPS)
+Different Pressure Sensor 18HA (DPS) and Bleed Pressure Sensor 8HA (BPS)
+
+Regarding to BMC 2 control in case of BMC 1 failure: (level 2)
+Engine 1 bleed system will be in safety close.
+Engine 1 bleed system will operate in low pressure mode.
+@@Fully control and monitor engine 1 bleed system. 
+
+The function of Differential Pressure Sensor 18HA (DPS) is: (level 2)
+Monitor the pressure, control PRV position in case of reverser flow.
+Provide position of OPV and PRV.
+@@Both answer are correct.
+
+Regarding pressure relief panels are there on each wing: (level 2)
+There are 5 panels located at inboard of engine pylon.
+There are 5 panels located at outboard of engine pylon.
+@@There are 3 panels located inboard of engine pylon and 2 outboard of engine pylon.x
+
+IAW MEL, the aircraft can be dispatched with the defective High Pressure Valve (HPV) is deactivated in the following position: (Level 2)
+Open.
+@@Close.
+Open or close depending on ice condition forecast during flight.
+
+BMC has: (Level 2)
+@@Channel A Main control, Channel A Backup control, Chanel B.
+02 Channels A and B which the same function.
+01 Channel.
+
+Channel B of each BMCs is used to: (level 2 )
+Detect the system over temperature and overpressure.
+Detect the system over pressure.
+@@Detect the system over temperature.
+
+Bleed Pressure Sensor 8HA (BPS) is used to: (level 2)
+@@Monitor and close loop control of OPV
+Estimate postion of HPV and monitor PRV postion.
+Regulation control and monitor low or high pressure warning.
+
+PRV is closed when: (Level 2)
+Dual BTS channels failed.
+@@Either Associated Starer Air Valve (SAV) not Closed, HPV failed open or Dual BTS channels failed.
+HPV failed open.
+
+In abnormal condition, the temperatue of bleed air reachs to 450 deg.C, PRV will be closed by: (level 3)
+The thermal switch installed in the solenoid torque motor.
+@@The thermal fuse installed in the valve body.x
+Temperature sensor located at downstream of precooler exchanger.
+
+BMC 2 is uploaded data via: (level 3)
+Both of them.
+@@BMC1 cross load only.
+Data Loading Routing Box (DLRB) directly.
+
+Bleed monitoring control (Divic) embedding. (Level 5)
+Hardware safety part is a fully hardware part able to detect the system over- temperature
+Digital control channel is a full digital channel embedding all the control and monitoring function to meet system requirements
+@@Two channels: Digital control channel (CHA) is a full digital channel embedding all the control and monitoring function to meet system requirements; Hardware safety part (CHB) is a fully hardware part able to detect the system over-temperature and is fully independent from software part
+
+Regarding to BMC 2 power supply: (level 3)
+@@Channel A by 28 VDC normal busbar and channel B by 28VDC Ess bus. 
+Both channel A&B by 28 VDC Ess bus.
+Channel B by 28 VDC normal busbar and channel A by 28VDC Ess bus.
+
+What is the Differential pressure sensor (DPS) for? (Level 3)
+@@DPS monitors the pressure, control the PRV position and make sure that no reverse flow Occurs 
+DPS monitors the pressure, control the OPV position
+BMC uses the signal of DPS to control IP/HP switching
+
+The overheat warning signal is triggered when: (level 3)
+The sensor conductor discontinues to ground.
+@@The impedance between conductor and the outer tubing decreases.
+The impedance between conductor and the outer tubing increases.
+
+Overheat sensor elements give warning message when: (level 3)
+Pylon or wing or fuselarge temperature reachs 124 deg.C
+@@Wing or fuselarge temperature reachs 124 deg.C
+Wing or pylon temperature reachs 124 deg.C
+
+What type of seals is most used on bleed duct system that is advantages of A320/321 NEO? (level 1): (Level 1)
+@@Using PTFE seals
+Using new rubber seals
+No answer
+
+The Engine Bleed Air System (EBAS) uses: (Level 1) Electrical valves
+Hydro-pneumatic valves
+@@Electro-pneumatic valves
+No answer
+
+Where is the temperature sensor located: (level 1): (Level 1)
+At outlet of PRV
+At upstream of the precooler exchanger
+@@At downstream of the precooler exchanger
+
+In case of motor actuator failure, the cross bleed valve will: (level 1): (Level 1)
+@@Stucked in last position.x
+Fail safe to close position.
+Fail safe to open position.
+
+The signal which makes the Over pressure valve (OPV) closing, comes from:(level1)
+@@OPV operation in fully pneumatic.x
+Differential pressure sensor (18HA)
+Bleed pressure sensor (8HA).
+
+What is the purpose of IP/HP switching? (Level 1)
+To regulate the output pressure depending on the Fan Air Valve position.
+To regulate the output temperature depending on the configuration of users.
+@@To keep sufficient bleed pressure at low engine speed! 
+
+How is the cross bleed valve controlled and operated? (Level 2) Pneumatically controlled and operated
+@@Electrically controlled and operate
+Electrically controlled and pneumatically operated
+No answer
+
+How does FAV (Fan Air Valve) operate? (Level 2)
+BMC controlled based on the precooler outlet temperature thermostat
+Autonomously pneumatic operative based on the controlled temperature thermostat
+@@BMC controlled by torque motor based on bleed air temperature
+
+Channel B of each BMCs is used to: (level 2 (Level 1)
+@@Detect the system overtemperature.x
+Detect the system overtemperature and overpressure.
+Detect the system overpressure.
+
+In NEO configure 1 BMC can control and monitor: (Level 2)
+The both sides in sequent.
+1 side that relation to.
+@@The both sides when the other BMC fails
+
+The bleed pressure indication on Bleed ECAM page comes from: (level 2)
+Bleed Manifold Pressure Sensor 7HA (BMPS)
+Different Pressure Sensor 18HA (DPS)
+@@Bleed Pressure Sensor 8HA (BPS)
+
+On NEO aircrafts, to detect the hot air leakage in pylon there is(are): (Level 2)
+Single loop that connected to the related BMC.
+2 loops that connected to the related BMC for redundancy.
+@@2 loops and monitored by both BMCs.
+
+Which sensors to give warning message HP VALVE FAULT: (level 2)
+Bleed Pressure Sensor 8HA (BPS)
+@@Bleed Manifold Pressure Sensor 7HA (BMPS)
+Different Pressure Sensor 18HA (DPS)
+
+About channel B of BMC internal archiquecture, which statement is correct (level 2 (Level 1)
+Channel B is a full digital channel same as channel A
+@@Channel B is a full hardware part and differ from channel A
+Channel B is a full hardware and same as channel A
+
+For PW 1130 Engine, when one BMC has failed(Level 2)
+Related PRV close
+Related PRV open
+@@Remain BMC can control & monitor both side
+
+About channel A of BMC internal archiquecture, which statement is correct (level 2)
+@@Channel A is a full digital channel differ from channel B
+Channel A is a full digital channel same as channel B
+Channel A is a full hardware part same as channel B
+
+System pressure monitoring by BMC base on: (Level 3)
+@@BPS: BLEED PRESSURE SENSOR.
+BTS: BLEED TEMPERATURE SENSOR.
+DPS: DIFFERENTIAL PRESSURE SENSOR.
+
+IP Check Valve connect to: (Level 3)
+@@HPC Stage HP3.
+LPC Stage LP2.
+HPC Stage HP6.
+
+Regarding to BMC 1 power supply: (level 3)
+Channel A by 28 VDC normal busbar and channel 8 by 28VDC Ess bus.
+Both channel A&B by 28 VDC Ess bus.
+@@Channel 8 by 28 VDC normal busbar and channel A by 28VDC Ess bus. 
+
+What condition causes the engine PRV to close pneumatically? Level 3)
+Respective fire pushbutton guarded
+Cross bleed valve in manual mode and engine PRV in auto-mode
+@@In case of impending reserve flow to the engine
+
+When an APU duct leak is detected during engine start from APU bleed: (Level 3)
+APU bleed and cross feed valves close
+@@APU bleed and cross feed valves remain open
+APU bleed valve closes and cross feed opens
+
+In abnormal condition, the temperatue of bleed air reachs to 450 deg.C, PRV will be closed by: (level 3)
+The thermal switch installed in the solenoid torque motor.
+@@The thermal fuse installed in the valve body.x
+Temperature sensor located at downstream of precooler exchanger.
+
+The overheat warning signal is triggered when: (level 3)
+The impedance between conductor and the outer tubing increases.
+The sensor conductor discontinues to ground.
+@@The Impedance between conductor and the outer tubing decreases. 
